@@ -31,7 +31,7 @@ jobs:
         env:
           COMPRA_AGIL_TICKET: ${{ secrets.COMPRA_AGIL_TICKET }}
           RADAR_MODO: web
-        run: python radar_compra_agil.py
+          run: python -u radar_compra_agil.py
 
       - name: Publicar el reporte
         if: always()
