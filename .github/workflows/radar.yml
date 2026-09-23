@@ -2,9 +2,9 @@ name: Radar Compra Agil
 
 on:
   schedule:
-    # Cada hora entre 06:30 y 21:30 (hora de Aysén, UTC-3). GitHub puede atrasarse unos minutos.
+    # Cada hora entre 06:30 y 21:30 (hora de Aysen, UTC-3). GitHub puede atrasarse unos minutos.
     - cron: "30 0,9-23 * * *"
-  workflow_dispatch: {}   # botón "Run workflow" para correrlo a mano
+  workflow_dispatch: {}
 
 permissions:
   contents: write
@@ -31,7 +31,8 @@ jobs:
         env:
           COMPRA_AGIL_TICKET: ${{ secrets.COMPRA_AGIL_TICKET }}
           RADAR_MODO: web
-          run: python -u radar_compra_agil.py
+          PYTHONUNBUFFERED: "1"
+        run: python -u radar_compra_agil.py
 
       - name: Publicar el reporte
         if: always()
@@ -39,5 +40,5 @@ jobs:
           git config user.name "radar-bot"
           git config user.email "radar-bot@users.noreply.github.com"
           git add docs cache_compras.json 2>/dev/null || true
-          git diff --staged --quiet || git commit -m "Radar: actualización $(TZ=America/Punta_Arenas date '+%d-%m %H:%M')"
+          git diff --staged --quiet || git commit -m "Radar: actualizacion $(TZ=America/Punta_Arenas date '+%d-%m %H:%M')"
           git push
