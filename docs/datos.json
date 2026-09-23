@@ -1,7 +1,7 @@
 {
- "actualizado": "2026-09-23T18:01:19.079852-03:00",
+ "actualizado": "2026-09-23T18:34:55.485952-03:00",
  "region": "Región de Aysén",
- "total_region": 273,
+ "total_region": 275,
  "rubros": {
   "80141600": "Ventas y marketing",
   "82101600": "Publicidad en medios no impresos",
@@ -176,6 +176,30 @@
     ]
    ],
    "link": "https://buscador.mercadopublico.cl/ficha?code=1405-32-COT26",
+   "sin_detalle": false
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "streaming"
+   ],
+   "nueva": true,
+   "codigo": "4066-395-COT26",
+   "nombre": "Servicio de streaming para transmitir el Festival Comunal Online de Talentos Artísticos para Personas Mayores",
+   "organismo": "I MUNICIPALIDAD RIO IBANEZ",
+   "unidad": "DIDECO",
+   "monto": 700000,
+   "cierre_iso": "2026-09-25T06:00:00-03:00",
+   "publicacion": "23-09 15:02",
+   "publicacion_iso": "2026-09-23T15:02:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "43223207",
+     "Sistema de transmisión por secuencias de video"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=4066-395-COT26",
    "sin_detalle": false
   },
   {
