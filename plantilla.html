@@ -166,7 +166,7 @@ footer .rub .k{font-family:"IBM Plex Mono",monospace;margin-right:5px}
   <div class="brand"><svg viewBox="0 0 44 44" aria-hidden="true"><rect width="44" height="44" rx="12" fill="var(--ink)"/>
 <path d="M11 29a13 13 0 0 1 22 0" fill="none" stroke="var(--accent)" stroke-width="2.4" stroke-linecap="round"/>
 <path d="M15.5 29a8 8 0 0 1 13 0" fill="none" stroke="var(--accent)" stroke-width="2.4" stroke-linecap="round" opacity=".75"/>
-<circle cx="22" cy="29" r="2.6" fill="var(--bg)"/><path d="M22 29 31 16" stroke="var(--bg)" stroke-width="2" stroke-linecap="round"/></svg><div><div class="eyebrow">Compra Ágil · <span id="region"></span></div><h1>Radar de oportunidades</h1></div></div>
+<circle cx="22" cy="29" r="2.6" fill="var(--bg)"/><path d="M22 29 31 16" stroke="var(--bg)" stroke-width="2" stroke-linecap="round"/></svg><div><div class="eyebrow"><span id="empresa"></span> · Compra Ágil · <span id="region"></span></div><h1>Radar de oportunidades</h1></div></div>
   <div class="status"><span class="pulse"></span>Revisado <b id="hace"></b> · <span id="fecha"></span></div>
 </header>
 <section class="summary" aria-label="Resumen">
@@ -307,6 +307,7 @@ document.querySelectorAll('.seg button').forEach(b => b.addEventListener('click'
   $('#c-todas').textContent = D.filas.length; $('#c-rubro').textContent = ops.length; $('#c-pos').textContent = pos.length;
   $('#total').textContent = D.total_region;
   $('#region').textContent = D.region;
+  if (D.empresa) { $('#empresa').textContent = D.empresa; document.title = 'Radar · ' + D.empresa; }
   $('#rubros').innerHTML = Object.entries(D.rubros).map(([c, n]) => `<span><span class="k">${esc(c)}</span>${esc(n)}</span>`).join('');
   if (D.pendientes.length) {
     const n = D.pendientes.length;

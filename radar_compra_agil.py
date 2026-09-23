@@ -1,22 +1,17 @@
 #!/usr/bin/env python3
 """
-RADAR COMPRA ÁGIL — Región de Aysén, filtrado por los rubros inscritos.  (v2)
+RADAR COMPRA ÁGIL — multi-empresa (v3)
 
-Uso en el Mac:   python3 radar_compra_agil.py          (genera reportes/radar_aysen.html)
-                 python3 radar_compra_agil.py --abrir  (y lo abre en el navegador)
-En GitHub:       lo corre .github/workflows/radar.yml  (genera docs/index.html = página web)
+Cada empresa es un archivo en la carpeta perfiles/ (ver perfiles/LEEME.md).
+El radar consulta UNA vez las regiones que usan los perfiles y genera una página por empresa:
+  - perfil con "carpeta": ""        → docs/index.html          (página principal)
+  - perfil con "carpeta": "z-xxxx"  → docs/z-xxxx/index.html   (página de esa empresa)
 
-Cómo funciona:
-  1. Pide a la API de Compra Ágil (api2.mercadopublico.cl) todas las compras
-     PUBLICADAS (abiertas) de la región 11 (Aysén).
-  2. Para cada compra que aún no conoce, pide su detalle y mira los códigos de producto.
-     (La API no filtra por rubro, así que el filtro se hace aquí.)
-  3. Producto dentro de tus rubros → OPORTUNIDAD.
-     Texto con palabras de tu giro → POSIBLE (revisar a mano).
-  4. Genera el reporte HTML y un CSV.
+Uso en el Mac:   python3 radar_compra_agil.py          (genera reportes/<carpeta>/...)
+En GitHub:       lo corre .github/workflows/radar.yml  (genera docs/...)
 
-El detalle de cada compra se guarda en cache_compras.json: cada corrida solo consulta
-las compras nuevas o las que fallaron la vez anterior.
+El detalle de cada compra se guarda en cache_compras.json (compartido entre empresas):
+cada corrida solo consulta las compras nuevas o las que fallaron la vez anterior.
 """
 
 import csv
@@ -46,38 +41,14 @@ if not TICKET:
 MODO_WEB = os.environ.get("RADAR_MODO") == "web"
 
 # ───────────── CONFIGURACIÓN ─────────────
-REGION = 11  # Aysén
-ZONA = timezone(timedelta(hours=-3))  # hora de Aysén
-
-# Rubros inscritos (código de clase ONU/UNSPSC de 8 dígitos).
-# Una clase termina en "00"; sus productos comparten los primeros 6 dígitos.
-RUBROS = {
-    "80141600": "Ventas y marketing",
-    "82101600": "Publicidad en medios no impresos",
-    "82101800": "Agencias de publicidad",
-    "82101900": "Inserciones publicitarias en medios",
-    "82131600": "Fotógrafos y camarógrafos",
-    "83111800": "Servicios de televisión",
-    "83111900": "Servicios de radio",
-    "83121700": "Comunicación social y de masas",
+ZONA = timezone(timedelta(hours=-3))  # hora de Chile continental (verano/invierno aprox.)
+CARPETA_PERFILES = os.path.join(CARPETA, "perfiles")
+REGIONES = {
+    1: "Región de Tarapacá", 2: "Región de Antofagasta", 3: "Región de Atacama", 4: "Región de Coquimbo",
+    5: "Región de Valparaíso", 6: "Región de O'Higgins", 7: "Región del Maule", 8: "Región del Biobío",
+    9: "Región de La Araucanía", 10: "Región de Los Lagos", 11: "Región de Aysén", 12: "Región de Magallanes",
+    13: "Región Metropolitana", 14: "Región de Los Ríos", 15: "Región de Arica y Parinacota", 16: "Región de Ñuble",
 }
-
-# Palabras/frases para detectar compras mal categorizadas (quedan como "POSIBLE").
-# Se buscan como palabra completa (ej: "radio" no calza con "radiología").
-PALABRAS = [
-    "radio", "radial", "radiales", "radioemisora", "emisora", "televisión", "television",
-    "televisivo", "publicidad", "publicitario", "publicitaria", "publicitarios", "publicitarias",
-    "difusión", "difusion", "spot", "spots", "avisaje", "aviso", "avisos",
-    "campaña comunicacional", "campaña de difusión", "audiovisual", "audiovisuales",
-    "producción de video", "video institucional", "cápsula radial", "cápsulas radiales",
-    "cápsula audiovisual", "registro fotográfico", "registro audiovisual", "fotógrafo",
-    "fotografía", "filmación", "streaming", "transmisión en vivo", "locución", "locutor",
-    "jingle", "cuña radial", "medios de comunicación", "comunicacional", "marketing",
-    "redes sociales",
-]
-# Si el texto trae alguna de estas, NO se marca como posible (evita falsos positivos).
-EXCLUIR = ["vigilancia", "cámara de seguridad", "cámaras de seguridad", "cctv"]
-
 BASE_URL = "https://api2.mercadopublico.cl"
 CACHE = os.path.join(CARPETA, "cache_compras.json")
 SALIDA = os.path.join(CARPETA, "docs" if MODO_WEB else "reportes")
@@ -87,7 +58,6 @@ REINTENTOS_FINALES = 2  # rondas extra para las compras que fallaron
 HORAS_NUEVA = 24        # una compra se marca NUEVA durante sus primeras 24 h en el radar
 # ─────────────────────────────────────────
 
-PREFIJOS = {codigo[:6]: nombre for codigo, nombre in RUBROS.items()}
 SESION = requests.Session()
 SESION.headers.update({"ticket": TICKET})
 
@@ -119,12 +89,12 @@ def llamar(ruta, params=None, intentos=5):
     return None
 
 
-def listar_publicadas():
+def listar_publicadas(region):
     """Devuelve (compras, completo). completo=False si alguna página no respondió."""
     compras, pagina = [], 1
     while True:
         payload = llamar("/v2/compra-agil", {
-            "region": REGION,
+            "region": region,
             "estado": "publicada",
             "tamano_pagina": 10,
             "numero_pagina": pagina,
@@ -134,7 +104,7 @@ def listar_publicadas():
         items = payload.get("items", [])
         compras.extend(items)
         total_pag = (payload.get("paginacion") or {}).get("total_paginas", 1)
-        print(f"   Página {pagina}/{total_pag} — {len(compras)} compras")
+        print(f"   Región {region} · página {pagina}/{total_pag} — {len(compras)} compras")
         if pagina >= total_pag or not items:
             return compras, True
         pagina += 1
@@ -154,13 +124,36 @@ def guardar_cache(cache):
         json.dump(cache, f, ensure_ascii=False)
 
 
-def clasificar(detalle):
-    """Devuelve ('OPORTUNIDAD'|'POSIBLE'|None, motivos)."""
+def cargar_perfiles():
+    perfiles = []
+    for nombre in sorted(os.listdir(CARPETA_PERFILES)):
+        if not nombre.endswith(".json"):
+            continue
+        with open(os.path.join(CARPETA_PERFILES, nombre), encoding="utf-8") as f:
+            p = json.load(f)
+        if p.get("activo", True) is False:
+            continue
+        p["id"] = nombre[:-5]
+        p["regiones"] = [int(r) for r in p.get("regiones", [])]
+        p["rubros"] = {str(k): v for k, v in p.get("rubros", {}).items()}
+        p["prefijos"] = {c[:6]: n for c, n in p["rubros"].items()}
+        p["palabras"] = [w.lower() for w in p.get("palabras", [])]
+        p["excluir"] = [w.lower() for w in p.get("excluir", [])]
+        p["patrones"] = {w: re.compile(r"\b" + re.escape(w) + r"\b") for w in p["palabras"]}
+        p["carpeta"] = p.get("carpeta", "").strip("/")
+        perfiles.append(p)
+    if not perfiles:
+        sys.exit("❌ No hay perfiles en la carpeta perfiles/.")
+    return perfiles
+
+
+def clasificar(detalle, perfil):
+    """Devuelve ('OPORTUNIDAD'|'POSIBLE'|None, motivos) para una empresa."""
     rubros_hit = set()
     for p in detalle.get("productos_solicitados") or []:
         cod = str(p.get("codigo_producto") or "").strip()
-        if cod[:6] in PREFIJOS:
-            rubros_hit.add(PREFIJOS[cod[:6]])
+        if cod[:6] in perfil["prefijos"]:
+            rubros_hit.add(perfil["prefijos"][cod[:6]])
     if rubros_hit:
         return "OPORTUNIDAD", sorted(rubros_hit)
 
@@ -170,9 +163,9 @@ def clasificar(detalle):
         " ".join((p.get("nombre") or "") + " " + (p.get("descripcion") or "")
                  for p in detalle.get("productos_solicitados") or []),
     ]).lower()
-    if any(x in texto for x in EXCLUIR):
+    if any(x in texto for x in perfil["excluir"]):
         return None, []
-    hits = sorted({w for w in PALABRAS if re.search(r"\b" + re.escape(w) + r"\b", texto)})
+    hits = sorted(w for w, rx in perfil["patrones"].items() if rx.search(texto))
     if hits:
         return "POSIBLE", hits
     return None, []
@@ -200,12 +193,13 @@ def pesos(n):
 PLANTILLA = os.path.join(CARPETA, "plantilla.html")
 
 
-def preparar_datos(filas, ahora, total_region, pendientes=()):
+def preparar_datos(perfil, filas, ahora, total_region, pendientes=()):
     return {
         "actualizado": ahora.isoformat(),
-        "region": "Región de Aysén",
+        "empresa": perfil.get("nombre", ""),
+        "region": " · ".join(REGIONES.get(r, f"Región {r}") for r in perfil["regiones"]),
         "total_region": total_region,
-        "rubros": RUBROS,
+        "rubros": perfil["rubros"],
         "filas": [{k: f[k] for k in ("tipo", "motivos", "nueva", "codigo", "nombre", "organismo", "unidad", "monto",
                                      "cierre_iso", "publicacion", "publicacion_iso", "ofertas", "productos", "link",
                                      "sin_detalle")} for f in filas],
@@ -231,9 +225,17 @@ def generar_html(datos):
 
 def main():
     ahora = datetime.now(ZONA)
-    print("📡 RADAR COMPRA ÁGIL — Región de Aysén")
+    perfiles = cargar_perfiles()
+    regiones = sorted({r for p in perfiles for r in p["regiones"]})
+    print(f"📡 RADAR COMPRA ÁGIL — {len(perfiles)} empresa(s), regiones {regiones}")
     print("1) Buscando compras publicadas...")
-    compras, completo = listar_publicadas()
+    compras, completo = [], True
+    for region in regiones:
+        lote, ok = listar_publicadas(region)
+        for c in lote:
+            c["_region"] = region
+        compras.extend(lote)
+        completo = completo and ok
     if not compras:
         sys.exit("No llegaron compras (¿API caída o sin conexión?).")
     if not completo:
@@ -299,6 +301,17 @@ def main():
             del cache[cod]
         guardar_cache(cache)
 
+    pendientes_todas = [c for c in compras if c["codigo"] not in cache]
+    os.makedirs(SALIDA, exist_ok=True)
+    fallos = {c["codigo"]: fallos.get(c["codigo"], 0) + 1 for c in pendientes_todas}
+    with open(ruta_fallos, "w", encoding="utf-8") as f:
+        json.dump(fallos, f)
+
+    for perfil in perfiles:
+        generar_perfil(perfil, [c for c in compras if c["_region"] in perfil["regiones"]], cache, ahora)
+
+
+def generar_perfil(perfil, compras, cache, ahora):
     filas = []
     for c in compras:
         det = cache.get(c["codigo"])
@@ -306,7 +319,7 @@ def main():
         if sin_detalle:
             # La API no entrega el detalle: se evalúa solo por el título del listado.
             det = {"nombre": c.get("nombre"), "productos_solicitados": []}
-        tipo, motivos = clasificar(det)
+        tipo, motivos = clasificar(det, perfil)
         if not tipo:
             continue
         inst = c.get("institucion") or {}
@@ -340,19 +353,15 @@ def main():
     filas.sort(key=lambda f: f["cierre_iso"] or "9999")
     pendientes = [c for c in compras if c["codigo"] not in cache]
 
-    os.makedirs(SALIDA, exist_ok=True)
-    fallos = {c["codigo"]: fallos.get(c["codigo"], 0) + 1 for c in pendientes}
-    with open(ruta_fallos, "w", encoding="utf-8") as f:
-        json.dump(fallos, f)
-    ruta_html = os.path.join(SALIDA, "index.html" if MODO_WEB else "radar_aysen.html")
+    destino = os.path.join(SALIDA, perfil["carpeta"]) if perfil["carpeta"] else SALIDA
+    os.makedirs(destino, exist_ok=True)
+    ruta_html = os.path.join(destino, "index.html")
+    datos = preparar_datos(perfil, filas, ahora, len(compras), pendientes)
     with open(ruta_html, "w", encoding="utf-8") as f:
-        datos = preparar_datos(filas, ahora, len(compras), pendientes)
         f.write(generar_html(datos))
-    with open(os.path.join(SALIDA, "datos.json"), "w", encoding="utf-8") as f:
+    with open(os.path.join(destino, "datos.json"), "w", encoding="utf-8") as f:
         json.dump(datos, f, ensure_ascii=False, indent=1)
-
-    ruta_csv = os.path.join(SALIDA, "oportunidades.csv")
-    with open(ruta_csv, "w", newline="", encoding="utf-8-sig") as f:
+    with open(os.path.join(destino, "oportunidades.csv"), "w", newline="", encoding="utf-8-sig") as f:
         w = csv.writer(f, delimiter=";")
         w.writerow(["tipo", "nueva", "codigo", "nombre", "organismo", "monto_clp", "cierre", "motivos", "link"])
         for r in filas:
@@ -361,13 +370,9 @@ def main():
 
     ops = [r for r in filas if r["tipo"] == "OPORTUNIDAD"]
     pos = [r for r in filas if r["tipo"] == "POSIBLE"]
-    print("\n==============================")
-    print(f"✅ EN TUS RUBROS: {len(ops)}   🔎 POSIBLES: {len(pos)}")
-    print("==============================")
+    print(f"\n=== {perfil.get('nombre', perfil['id'])}: ✅ {len(ops)} en rubros · 🔎 {len(pos)} posibles → {ruta_html}")
     for r in ops:
-        print(f"{'🆕 ' if r['nueva'] else ''}{r['codigo']} | cierra {r['cierre']} | {pesos(r['monto'])}")
-        print(f"   {r['nombre']} — {r['organismo']}")
-    print(f"\nReporte: {ruta_html}")
+        print(f"   {'🆕 ' if r['nueva'] else ''}{r['codigo']} | cierra {r['cierre']} | {pesos(r['monto'])} | {r['nombre'][:60]}")
     if "--abrir" in sys.argv:
         webbrowser.open("file://" + ruta_html)
 
