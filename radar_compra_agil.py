@@ -291,11 +291,15 @@ def generar_html(filas, ahora, total_region, pendientes=()):
 
     aviso = ""
     if pendientes:
-        links = ", ".join(
-            f"<a href='https://buscador.mercadopublico.cl/ficha?code={html.escape(c['codigo'])}' "
-            f"target='_blank'>{html.escape(c['codigo'])}</a>" for c in pendientes)
-        aviso = (f"<div class='aviso'>⚠️ <b>{len(pendientes)} compras sin revisar</b> "
-                 f"(la API no respondió; se reintentan en la próxima revisión): {links}</div>")
+        items = "".join(
+            f"<li><a href='https://buscador.mercadopublico.cl/ficha?code={html.escape(c['codigo'])}' "
+            f"target='_blank' rel='noopener'>{html.escape(c['codigo'])}</a> · "
+            f"{html.escape((c.get('nombre') or '')[:90])} · "
+            f"<span class='org'>{html.escape((c.get('institucion') or {}).get('organismo_comprador') or '')}</span></li>"
+            for c in pendientes)
+        aviso = (f"<details class='aviso'><summary>ℹ️ {len(pendientes)} compras sin detalle disponible "
+                 f"(Mercado Público no entrega sus productos; se revisaron solo por el título)</summary>"
+                 f"<ul style='margin:8px 0 0;padding-left:18px'>{items}</ul></details>")
 
     return f"""<!doctype html><html lang="es"><head><meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
@@ -333,8 +337,17 @@ def main():
     nuevas = [c for c in compras if c["codigo"] not in cache]
     print(f"2) {len(compras)} publicadas; {len(nuevas)} sin detalle → pidiendo su detalle...")
 
+    # Compras que ya fallaron en varias corridas: se prueban 1 sola vez (no frenan la revisión).
+    ruta_fallos = os.path.join(SALIDA, "fallos.json")
+    try:
+        with open(ruta_fallos, encoding="utf-8") as f:
+            fallos = json.load(f)
+    except (FileNotFoundError, json.JSONDecodeError):
+        fallos = {}
+    dificiles = {c["codigo"] for c in nuevas if fallos.get(c["codigo"], 0) >= 3}
+
     def pedir_detalle(c):
-        return c, llamar(f"/v2/compra-agil/{c['codigo']}", intentos=3)
+        return c, llamar(f"/v2/compra-agil/{c['codigo']}", intentos=1 if c["codigo"] in dificiles else 3)
 
     def pasada(lista, hilos, etiqueta):
         fallidas = []
@@ -364,6 +377,7 @@ def main():
 
     fallidas = pasada(nuevas, HILOS, "") if nuevas else []
     for ronda in range(1, REINTENTOS_FINALES + 1):
+        fallidas = [c for c in fallidas if c["codigo"] not in dificiles]
         if not fallidas:
             break
         print(f"   🔁 Reintentando {len(fallidas)} que fallaron (ronda {ronda}/{REINTENTOS_FINALES}) en 60 s...")
@@ -382,8 +396,10 @@ def main():
     filas = []
     for c in compras:
         det = cache.get(c["codigo"])
-        if not det:
-            continue
+        sin_detalle = not det
+        if sin_detalle:
+            # La API no entrega el detalle: se evalúa solo por el título del listado.
+            det = {"nombre": c.get("nombre"), "productos_solicitados": []}
         tipo, motivos = clasificar(det)
         if not tipo:
             continue
@@ -408,7 +424,8 @@ def main():
             "cierre_iso": cierre.isoformat() if cierre else "",
             "publicacion": pub.strftime("%d-%m %H:%M") if pub else "",
             "ofertas": (c.get("resumen") or {}).get("total_ofertas_recibidas", 0),
-            "productos": [f"{p.get('codigo_producto')} {p.get('nombre')}"
+            "productos": ["⚠ Detalle no disponible en la API: clasificada solo por el título"] if sin_detalle else
+                         [f"{p.get('codigo_producto')} {p.get('nombre')}"
                           for p in det.get("productos_solicitados") or []],
             "link": f"https://buscador.mercadopublico.cl/ficha?code={c['codigo']}",
         })
@@ -416,6 +433,9 @@ def main():
     pendientes = [c for c in compras if c["codigo"] not in cache]
 
     os.makedirs(SALIDA, exist_ok=True)
+    fallos = {c["codigo"]: fallos.get(c["codigo"], 0) + 1 for c in pendientes}
+    with open(ruta_fallos, "w", encoding="utf-8") as f:
+        json.dump(fallos, f)
     ruta_html = os.path.join(SALIDA, "index.html" if MODO_WEB else "radar_aysen.html")
     with open(ruta_html, "w", encoding="utf-8") as f:
         f.write(generar_html(filas, ahora, len(compras), pendientes))
