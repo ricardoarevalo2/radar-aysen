@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-09-24T15:38:46.115411-03:00",
+ "actualizado": "2026-09-24T16:34:23.247283-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
- "total_region": 250,
+ "total_region": 255,
  "rubros": {
   "80141600": "Ventas y marketing",
   "82101600": "Publicidad en medios no impresos",
@@ -205,6 +205,34 @@
     ]
    ],
    "link": "https://buscador.mercadopublico.cl/ficha?code=1746-224-COT26",
+   "sin_detalle": false
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "televisión"
+   ],
+   "nueva": true,
+   "codigo": "1057062-430-COT26",
+   "nombre": "Adquisición de 2 televisores LED de 43\" y 2 soporte articulado, según fisabs 2210 proyecto AIUE 2455",
+   "organismo": "UNIVERSIDAD DE AYSEN",
+   "unidad": "Proyectos",
+   "monto": 730000,
+   "cierre_iso": "2026-09-28T05:00:00-03:00",
+   "publicacion": "24-09 12:56",
+   "publicacion_iso": "2026-09-24T12:56:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "52161505",
+     "Televisores convencionales, de plasma y LCD"
+    ],
+    [
+     "45111802",
+     "Soportes de televisión"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1057062-430-COT26",
    "sin_detalle": false
   },
   {

@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-09-24T15:38:46.115411-03:00",
+ "actualizado": "2026-09-24T16:34:23.247283-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
- "total_region": 250,
+ "total_region": 255,
  "rubros": {
   "25172700": "Aire acondicionado",
   "25173900": "Componentes eléctricos",
@@ -525,6 +525,78 @@
     ]
    ],
    "link": "https://buscador.mercadopublico.cl/ficha?code=4626-30-COT26",
+   "sin_detalle": false
+  },
+  {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Gasfitería, calefacción y aire acondicionado"
+   ],
+   "nueva": true,
+   "codigo": "2713-1161-COT26",
+   "nombre": "FARMACIA MUNICIPAL . AIRE ACONDICIONADO.",
+   "organismo": "I MUNICIPALIDAD DE AYSEN",
+   "unidad": "I.MUNICIPALIDAD AYSEN-ADQUISICIONES",
+   "monto": 700000,
+   "cierre_iso": "2026-09-25T13:00:00-03:00",
+   "publicacion": "24-09 12:59",
+   "publicacion_iso": "2026-09-24T12:59:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "72102305",
+     "Servicios de reparación, mantenimiento o reparación de aire acondicionado"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=2713-1161-COT26",
+   "sin_detalle": false
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "disyuntor"
+   ],
+   "nueva": true,
+   "codigo": "3949-237-COT26",
+   "nombre": "INSUMOS ODONTÓLOGICOS ",
+   "organismo": "CONSULTORIO GENERAL URBANO DR ALEJANDRO GUTIERREZ",
+   "unidad": "ID 3949 - CESFAM Dr Alejandro Gutiérrez",
+   "monto": 980000,
+   "cierre_iso": "2026-09-25T13:10:00-03:00",
+   "publicacion": "24-09 13:07",
+   "publicacion_iso": "2026-09-24T13:07:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "42151626",
+     "Accesorios de instrumentos dentales de afilar"
+    ],
+    [
+     "42151626",
+     "Accesorios de instrumentos dentales de afilar"
+    ],
+    [
+     "42295506",
+     "Implantes o ajustes maxilofacial oral"
+    ],
+    [
+     "42295506",
+     "Implantes o ajustes maxilofacial oral"
+    ],
+    [
+     "42295506",
+     "Implantes o ajustes maxilofacial oral"
+    ],
+    [
+     "42151625",
+     "Instrumentos de higiene dental"
+    ],
+    [
+     "42151625",
+     "Instrumentos de higiene dental"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=3949-237-COT26",
    "sin_detalle": false
   },
   {
