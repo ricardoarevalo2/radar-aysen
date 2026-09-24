@@ -1,202 +1,701 @@
 <!doctype html>
 <!--
-  PLANTILLA DEL REPORTE — Radar Compra Ágil
-  ─────────────────────────────────────────
-  Este archivo es SOLO el diseño. El radar lo copia en cada revisión y reemplaza
-  la marca DATOS del script con id "datos" (al final del archivo) por los datos reales en JSON.
-  Puedes cambiar todo el HTML, CSS y JavaScript, con dos condiciones:
-    1. Mantener intacta la línea del script con id "datos" que está al final (el radar la rellena).
-    2. Leer los datos desde ahí:  JSON.parse(document.getElementById('datos').textContent)
-  La estructura de los datos está explicada en GUIA_DISENO.md y hay un ejemplo real en datos_ejemplo.json.
+  PLANTILLA DEL REPORTE — Radar Compra Ágil (Dark Tech / Linear & Raycast Aesthetic)
 -->
-<html lang="es"><head><meta charset="utf-8">
-<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
-<meta name="robots" content="noindex,nofollow">
-<meta name="theme-color" content="#12222C">
-<title>Radar Compra Ágil</title>
-<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,600;12..96,700&family=IBM+Plex+Mono:wght@400;500;600&family=IBM+Plex+Sans:wght@400;500;600&display=swap" rel="stylesheet">
-<style>
-:root{
-  --bg:#EEF3F4; --surface:#FFFFFF; --surface-2:#F6F9FA; --ink:#12222C; --ink-2:#3D505C;
-  --muted:#6B7C86; --line:#DCE5E8; --line-2:#C9D5DA;
-  --accent:#0B6F7C; --accent-ink:#FFFFFF; --accent-soft:#DDF0F1;
-  --crit:#B93A26; --crit-soft:#FBE9E5; --warn:#A8670E; --warn-soft:#FBF0DC;
-  --ok:#2C7A57; --ok-soft:#E3F2EA; --pos:#6A4FA3; --pos-soft:#EEEAF7;
-  --shadow:0 1px 2px rgba(18,34,44,.05),0 8px 24px -12px rgba(18,34,44,.12);
-  color-scheme:light;
-}
-@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){
-  --bg:#0C1419; --surface:#131E25; --surface-2:#172430; --ink:#E4ECEF; --ink-2:#B5C3CA;
-  --muted:#84959E; --line:#22313B; --line-2:#2D3E49;
-  --accent:#4DB6C2; --accent-ink:#06262B; --accent-soft:#12343A;
-  --crit:#F0735E; --crit-soft:#3A1D18; --warn:#E6A94A; --warn-soft:#352812;
-  --ok:#5CC592; --ok-soft:#12301F; --pos:#B19BE6; --pos-soft:#251F38;
-  --shadow:0 1px 2px rgba(0,0,0,.3),0 10px 30px -14px rgba(0,0,0,.6);
-  color-scheme:dark;}}
-:root[data-theme="dark"]{
-  --bg:#0C1419; --surface:#131E25; --surface-2:#172430; --ink:#E4ECEF; --ink-2:#B5C3CA;
-  --muted:#84959E; --line:#22313B; --line-2:#2D3E49;
-  --accent:#4DB6C2; --accent-ink:#06262B; --accent-soft:#12343A;
-  --crit:#F0735E; --crit-soft:#3A1D18; --warn:#E6A94A; --warn-soft:#352812;
-  --ok:#5CC592; --ok-soft:#12301F; --pos:#B19BE6; --pos-soft:#251F38;
-  --shadow:0 1px 2px rgba(0,0,0,.3),0 10px 30px -14px rgba(0,0,0,.6);
-  color-scheme:dark;}
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="robots" content="noindex,nofollow">
+  <meta name="theme-color" content="#0B0F17">
+  <title>Radar de Oportunidades</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@500;600;700;800&family=JetBrains+Mono:wght@500;600;700&display=swap" rel="stylesheet">
+  <style>
+    :root {
+      /* Base Dark Graphite */
+      --bg: #0B0F17;
+      --surface: #121824;
+      --surface-hover: #172030;
+      --surface-subtle: #1A2332;
+      --border: #232E42;
+      --border-focus: #3B82F6;
 
-*{box-sizing:border-box}
-html{-webkit-text-size-adjust:100%}
-body{margin:0;background:var(--bg);color:var(--ink);
-  font:15px/1.5 "IBM Plex Sans",-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,sans-serif;
-  padding:0 16px;padding-block:0 56px}
-.wrap{max-width:1040px;margin:0 auto}
-.mono{font-family:"IBM Plex Mono",ui-monospace,SFMono-Regular,Menlo,monospace;font-variant-numeric:tabular-nums}
-a{color:var(--accent)}
-:focus-visible{outline:2px solid var(--accent);outline-offset:2px;border-radius:6px}
+      /* Tipografía con alto contraste */
+      --text-solid: #FFFFFF;
+      --text-main: #F1F5F9;
+      --text-secondary: #94A3B8;
+      --text-muted: #64748B;
 
-/* Cabecera */
-.head{display:flex;align-items:flex-end;justify-content:space-between;gap:16px;flex-wrap:wrap;padding-block:28px 20px}
-.brand{display:flex;align-items:center;gap:14px}
-.brand svg{flex:none;width:44px;height:44px}
-.eyebrow{font-size:11.5px;letter-spacing:.14em;text-transform:uppercase;color:var(--muted);font-weight:600}
-h1{font-family:"Bricolage Grotesque","IBM Plex Sans",sans-serif;font-weight:700;font-size:clamp(26px,4.4vw,34px);
-  letter-spacing:-.02em;line-height:1.05;margin:2px 0 0;text-wrap:balance}
-.status{display:flex;align-items:center;gap:8px;font-size:13px;color:var(--ink-2);
-  background:var(--surface);border:1px solid var(--line);border-radius:999px;padding:6px 12px}
-.pulse{width:8px;height:8px;border-radius:50%;background:var(--ok);box-shadow:0 0 0 0 var(--ok);animation:pulse 2.4s infinite}
-.pulse.old{background:var(--warn);animation:none}
-@keyframes pulse{0%{box-shadow:0 0 0 0 color-mix(in srgb,var(--ok) 55%,transparent)}70%{box-shadow:0 0 0 7px transparent}100%{box-shadow:0 0 0 0 transparent}}
+      /* Acentos luminosos para Dark Mode */
+      --accent-blue: #38BDF8;
+      --accent-blue-soft: rgba(56, 189, 248, 0.12);
+      
+      --emerald: #34D399;
+      --emerald-soft: rgba(52, 211, 153, 0.12);
+      --emerald-border: rgba(52, 211, 153, 0.3);
 
-/* Resumen */
-.summary{display:grid;grid-template-columns:repeat(4,1fr);background:var(--surface);border:1px solid var(--line);
-  border-radius:16px;box-shadow:var(--shadow);overflow:hidden}
-.stat{padding:16px 18px;border-left:1px solid var(--line);min-width:0}
-.stat:first-child{border-left:0}
-.stat .v{font-family:"Bricolage Grotesque",sans-serif;font-size:28px;font-weight:700;letter-spacing:-.02em;line-height:1.1;
-  font-variant-numeric:tabular-nums;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
-.stat .l{font-size:12.5px;color:var(--muted);margin-top:2px}
-.stat.hot .v{color:var(--crit)}
-@media(max-width:720px){.summary{grid-template-columns:repeat(2,1fr)}.stat:nth-child(3){border-left:0}
-  .stat:nth-child(n+3){border-top:1px solid var(--line)}}
+      --amber: #FBBF24;
+      --amber-soft: rgba(251, 191, 36, 0.12);
+      --amber-border: rgba(251, 191, 36, 0.3);
 
-/* Herramientas */
-.tools{display:flex;gap:10px;flex-wrap:wrap;align-items:center;margin-block:22px 8px;position:sticky;
-  top:env(safe-area-inset-top,0px);z-index:5;padding-block:10px;background:var(--bg)}
-.search{flex:1 1 240px;display:flex;align-items:center;gap:8px;background:var(--surface);border:1px solid var(--line);
-  border-radius:12px;padding:0 12px;min-width:0}
-.search svg{flex:none;color:var(--muted)}
-.search input{border:0;outline:0;background:transparent;color:var(--ink);font:inherit;padding:10px 0;width:100%}
-.seg{display:inline-flex;background:var(--surface);border:1px solid var(--line);border-radius:12px;padding:3px;gap:2px}
-.seg button{border:0;background:transparent;color:var(--ink-2);font:inherit;font-size:13.5px;padding:7px 12px;border-radius:9px;cursor:pointer;white-space:nowrap}
-.seg button[aria-pressed="true"]{background:var(--ink);color:var(--surface);font-weight:600}
-.seg button .c{opacity:.65;margin-left:4px;font-size:12px}
-select{font:inherit;font-size:13.5px;color:var(--ink);background:var(--surface);border:1px solid var(--line);border-radius:12px;padding:9px 10px}
-.toggle{display:flex;align-items:center;gap:7px;font-size:13px;color:var(--ink-2);cursor:pointer;user-select:none}
-.toggle input{accent-color:var(--accent);width:16px;height:16px}
+      --rose: #FB7185;
+      --rose-soft: rgba(251, 113, 133, 0.14);
+      --rose-border: rgba(251, 113, 133, 0.35);
 
-/* Grupos por cierre */
-.group{margin-top:22px}
-.group h2{display:flex;align-items:baseline;gap:10px;font-family:"Bricolage Grotesque",sans-serif;font-size:17px;font-weight:600;
-  letter-spacing:-.01em;margin:0 0 10px;color:var(--ink)}
-.group h2 .n{font-family:"IBM Plex Mono",monospace;font-size:12.5px;color:var(--muted);font-weight:500}
-.group h2::after{content:"";flex:1;height:1px;background:var(--line);align-self:center}
-.list{display:grid;gap:10px}
+      --purple: #C084FC;
+      --purple-soft: rgba(192, 132, 252, 0.12);
+      --purple-border: rgba(192, 132, 252, 0.3);
 
-/* Tarjeta */
-.item{display:grid;grid-template-columns:112px 1fr auto;background:var(--surface);border:1px solid var(--line);
-  border-radius:14px;overflow:hidden;transition:border-color .15s,box-shadow .15s}
-.item:hover{border-color:var(--line-2);box-shadow:var(--shadow)}
-.item.done{opacity:.5}
-.clock{display:flex;flex-direction:column;justify-content:center;gap:2px;padding:14px;background:var(--surface-2);border-right:1px solid var(--line)}
-.clock .t{font-family:"IBM Plex Mono",monospace;font-size:22px;font-weight:600;line-height:1;letter-spacing:-.02em}
-.clock .u{font-size:11.5px;color:var(--muted);letter-spacing:.06em;text-transform:uppercase}
-.clock .d{font-size:12px;color:var(--ink-2);margin-top:6px}
-.item.crit .clock{background:var(--crit-soft)} .item.crit .clock .t{color:var(--crit)}
-.item.warn .clock{background:var(--warn-soft)} .item.warn .clock .t{color:var(--warn)}
-.item.closed .clock .t{color:var(--muted);font-size:15px}
-.body{padding:14px 16px;min-width:0}
-.meta{display:flex;flex-wrap:wrap;align-items:center;gap:6px 8px;font-size:12px}
-.code{font-family:"IBM Plex Mono",monospace;color:var(--muted);text-decoration:none}
-.code:hover{color:var(--accent)}
-.pill{font-size:10.5px;font-weight:700;letter-spacing:.08em;text-transform:uppercase;padding:2px 7px;border-radius:6px}
-.pill.new{background:var(--accent);color:var(--accent-ink)}
-.pill.rubro{background:var(--ok-soft);color:var(--ok)}
-.pill.pos{background:var(--pos-soft);color:var(--pos)}
-.pill.nd{background:var(--warn-soft);color:var(--warn)}
-.title{font-weight:600;font-size:15.5px;line-height:1.35;margin:6px 0 3px;color:var(--ink);text-wrap:pretty;
-  display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
-.org{font-size:13px;color:var(--ink-2);overflow-wrap:anywhere}
-.org span{color:var(--muted)}
-.tags{display:flex;flex-wrap:wrap;gap:6px;margin-top:9px}
-.tag{font-size:12px;border:1px solid var(--line);border-radius:7px;padding:2px 8px;color:var(--ink-2);background:var(--surface)}
-.tag.m{border-color:transparent;background:var(--ok-soft);color:var(--ok);font-weight:500}
-.item.posible .tag.m{background:var(--pos-soft);color:var(--pos)}
-.tag .k{font-family:"IBM Plex Mono",monospace;color:var(--muted);margin-right:5px;font-size:11px}
-.side{display:flex;flex-direction:column;align-items:flex-end;justify-content:space-between;gap:10px;padding:14px 16px;text-align:right}
-.amt{font-family:"IBM Plex Mono",monospace;font-size:17px;font-weight:600;white-space:nowrap;font-variant-numeric:tabular-nums}
-.bids{font-size:12px;color:var(--muted)}
-.bids b{color:var(--ink-2);font-weight:600}
-.acts{display:flex;gap:6px}
-.btn{display:inline-flex;align-items:center;gap:6px;font:inherit;font-size:13px;font-weight:600;border-radius:9px;padding:7px 12px;
-  cursor:pointer;text-decoration:none;border:1px solid var(--line-2);background:var(--surface);color:var(--ink);white-space:nowrap}
-.btn.primary{background:var(--accent);border-color:var(--accent);color:var(--accent-ink)}
-.btn.icon{padding:7px 9px;color:var(--ink-2)}
-.btn.icon[aria-pressed="true"]{background:var(--ink);color:var(--surface);border-color:var(--ink)}
-.btn:hover{filter:brightness(1.05)}
-@media(max-width:720px){
-  .item{grid-template-columns:1fr}
-  .clock{flex-direction:row;align-items:baseline;gap:8px;border-right:0;border-bottom:1px solid var(--line);padding:10px 14px}
-  .clock .t{font-size:18px}.clock .d{margin:0 0 0 auto}
-  .side{flex-direction:row;align-items:center;text-align:left;border-top:1px solid var(--line);padding:10px 14px}
-  .side .money{display:flex;flex-direction:column}
-}
+      --radius: 12px;
+      --radius-sm: 8px;
+    }
 
-.empty{background:var(--surface);border:1px dashed var(--line-2);border-radius:14px;padding:28px;text-align:center;color:var(--muted)}
-details.nd{margin-top:26px;background:var(--surface);border:1px solid var(--line);border-radius:14px;padding:4px 16px}
-details.nd summary{cursor:pointer;padding:12px 0;font-size:13.5px;color:var(--ink-2);font-weight:500}
-details.nd ul{margin:0 0 14px;padding:0;list-style:none;display:grid;gap:8px}
-details.nd li{font-size:13px;display:flex;gap:10px;flex-wrap:wrap}
-details.nd li .code{min-width:150px}
-footer{margin-top:32px;padding-top:18px;border-top:1px solid var(--line);font-size:12.5px;color:var(--muted);display:grid;gap:10px}
-footer .rub{display:flex;flex-wrap:wrap;gap:6px}
-footer .rub span{border:1px solid var(--line);border-radius:7px;padding:2px 8px}
-footer .rub .k{font-family:"IBM Plex Mono",monospace;margin-right:5px}
-@media (prefers-reduced-motion:reduce){*{animation:none!important;transition:none!important}}
-</style></head><body><div class="wrap">
-<header class="head">
-  <div class="brand"><svg viewBox="0 0 44 44" aria-hidden="true"><rect width="44" height="44" rx="12" fill="var(--ink)"/>
-<path d="M11 29a13 13 0 0 1 22 0" fill="none" stroke="var(--accent)" stroke-width="2.4" stroke-linecap="round"/>
-<path d="M15.5 29a8 8 0 0 1 13 0" fill="none" stroke="var(--accent)" stroke-width="2.4" stroke-linecap="round" opacity=".75"/>
-<circle cx="22" cy="29" r="2.6" fill="var(--bg)"/><path d="M22 29 31 16" stroke="var(--bg)" stroke-width="2" stroke-linecap="round"/></svg><div><div class="eyebrow"><span id="empresa"></span> · Compra Ágil · <span id="region"></span></div><h1>Radar de oportunidades</h1></div></div>
-  <div class="status"><span class="pulse"></span>Revisado <b id="hace"></b> · <span id="fecha"></span></div>
-</header>
-<section class="summary" aria-label="Resumen">
-  <div class="stat"><div class="v" id="s-ops">–</div><div class="l">en tus rubros</div></div>
-  <div class="stat"><div class="v" id="s-pos">–</div><div class="l">posibles por revisar</div></div>
-  <div class="stat"><div class="v" id="s-urg">–</div><div class="l">cierran en menos de 48 h</div></div>
-  <div class="stat"><div class="v mono" style="font-size:24px" id="s-monto">–</div><div class="l">en tus rubros · <span id="s-nuevas">0</span> nuevas hoy</div></div>
-</section>
-<div class="tools">
-  <label class="search"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"><circle cx="11" cy="11" r="7"/><path d="M20 20l-3.5-3.5"/></svg>
-    <input id="q" type="search" placeholder="Buscar organismo, producto o código" autocomplete="off"></label>
-  <div class="seg" role="group" aria-label="Filtrar">
-    <button type="button" data-f="todas">Todas<span class="c" id="c-todas"></span></button>
-    <button type="button" data-f="rubro">Tus rubros<span class="c" id="c-rubro"></span></button>
-    <button type="button" data-f="posible">Posibles<span class="c" id="c-pos"></span></button>
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      background-color: var(--bg);
+      color: var(--text-main);
+      font-family: "Plus Jakarta Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+      font-size: 13.5px;
+      line-height: 1.5;
+      padding-bottom: 80px;
+      -webkit-font-smoothing: antialiased;
+    }
+
+    .mono { font-family: "JetBrains Mono", monospace; font-variant-numeric: tabular-nums; }
+
+    /* Barra Superior */
+    .top-bar {
+      background: rgba(11, 15, 23, 0.85);
+      backdrop-filter: blur(14px);
+      -webkit-backdrop-filter: blur(14px);
+      border-bottom: 1px solid var(--border);
+      position: sticky;
+      top: 0;
+      z-index: 30;
+      padding: 14px 24px;
+    }
+    .top-bar-inner {
+      max-width: 1100px;
+      margin: 0 auto;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 16px;
+    }
+    .brand-meta {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+    }
+    .brand-logo-glow {
+      width: 28px;
+      height: 28px;
+      border-radius: var(--radius-sm);
+      background: linear-gradient(135deg, #38BDF8 0%, #2563EB 100%);
+      color: #0B0F17;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-weight: 800;
+      font-size: 12px;
+      box-shadow: 0 0 16px rgba(56, 189, 248, 0.4);
+    }
+    .brand-title {
+      font-size: 14.5px;
+      font-weight: 700;
+      color: var(--text-solid);
+      letter-spacing: -0.02em;
+    }
+    .region-badge {
+      font-size: 11px;
+      font-weight: 600;
+      padding: 2px 8px;
+      background: var(--surface-subtle);
+      border: 1px solid var(--border);
+      border-radius: 9999px;
+      color: var(--text-secondary);
+    }
+
+    .status-indicator {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      font-size: 12px;
+      color: var(--text-secondary);
+      background: var(--surface);
+      border: 1px solid var(--border);
+      padding: 4px 12px;
+      border-radius: 9999px;
+    }
+    .live-dot {
+      width: 7px;
+      height: 7px;
+      border-radius: 50%;
+      background: var(--emerald);
+      box-shadow: 0 0 8px var(--emerald);
+    }
+    .live-dot.old { background: var(--amber); box-shadow: 0 0 8px var(--amber); }
+
+    /* Layout Central */
+    .app-container {
+      max-width: 1100px;
+      margin: 28px auto 0;
+      padding: 0 20px;
+    }
+
+    /* Deck de Métricas Clave */
+    .kpi-row {
+      display: grid;
+      grid-template-columns: repeat(4, 1fr);
+      gap: 14px;
+      margin-bottom: 24px;
+    }
+    .kpi-card {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      padding: 18px 20px;
+      display: flex;
+      flex-direction: column;
+      justify-content: space-between;
+      transition: border-color 0.15s ease, background 0.15s ease;
+    }
+    .kpi-card:hover {
+      border-color: #334155;
+      background: var(--surface-hover);
+    }
+    .kpi-header {
+      font-size: 11px;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: 0.08em;
+      color: var(--text-muted);
+      margin-bottom: 8px;
+    }
+    .kpi-val {
+      font-size: 30px;
+      font-weight: 800;
+      letter-spacing: -0.03em;
+      color: var(--text-solid);
+      line-height: 1;
+    }
+    .kpi-val.mono { font-size: 22px; }
+    .kpi-footer {
+      font-size: 11.5px;
+      color: var(--text-secondary);
+      margin-top: 10px;
+    }
+    .kpi-card.urgent .kpi-val { color: var(--rose); text-shadow: 0 0 12px rgba(251, 113, 133, 0.2); }
+
+    /* Barra de Búsqueda y Filtros */
+    .filter-shelf {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      padding: 8px 12px;
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      flex-wrap: wrap;
+      margin-bottom: 24px;
+    }
+    .search-field {
+      flex: 1 1 240px;
+      position: relative;
+      display: flex;
+      align-items: center;
+    }
+    .search-field svg {
+      position: absolute;
+      left: 12px;
+      color: var(--text-muted);
+      pointer-events: none;
+    }
+    .search-field input {
+      width: 100%;
+      height: 38px;
+      padding: 0 12px 0 36px;
+      background: var(--bg);
+      border: 1px solid var(--border);
+      border-radius: var(--radius-sm);
+      font-size: 13px;
+      color: var(--text-solid);
+      outline: none;
+      transition: border-color 0.15s;
+    }
+    .search-field input:focus {
+      border-color: var(--accent-blue);
+      box-shadow: 0 0 0 2px rgba(56, 189, 248, 0.15);
+    }
+    .search-field input::placeholder { color: var(--text-muted); }
+
+    .segmented-tabs {
+      display: inline-flex;
+      background: var(--bg);
+      padding: 3px;
+      border: 1px solid var(--border);
+      border-radius: var(--radius-sm);
+      gap: 2px;
+    }
+    .tab-btn {
+      border: 0;
+      background: transparent;
+      font-size: 12.5px;
+      font-weight: 600;
+      color: var(--text-secondary);
+      padding: 6px 12px;
+      border-radius: 6px;
+      cursor: pointer;
+      display: flex;
+      align-items: center;
+      gap: 6px;
+      transition: all 0.15s;
+    }
+    .tab-btn[aria-pressed="true"] {
+      background: var(--surface-subtle);
+      color: var(--text-solid);
+      box-shadow: 0 1px 4px rgba(0, 0, 0, 0.3);
+    }
+    .tab-counter {
+      font-size: 11px;
+      font-family: "JetBrains Mono", monospace;
+      padding: 1px 6px;
+      background: var(--surface);
+      border-radius: 9999px;
+      color: var(--text-secondary);
+    }
+    .tab-btn[aria-pressed="true"] .tab-counter {
+      background: var(--accent-blue);
+      color: #0B0F17;
+      font-weight: 700;
+    }
+
+    .order-select {
+      height: 38px;
+      padding: 0 32px 0 12px;
+      background: var(--bg) url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='12' viewBox='0 0 24 24' fill='none' stroke='%2394A3B8' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpolyline points='6 9 12 15 18 9'%3E%3C/polyline%3E%3C/svg%3E") no-repeat right 10px center;
+      border: 1px solid var(--border);
+      border-radius: var(--radius-sm);
+      font-size: 13px;
+      font-weight: 600;
+      color: var(--text-main);
+      cursor: pointer;
+      outline: none;
+    }
+
+    .hide-toggle {
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      font-size: 12.5px;
+      font-weight: 500;
+      color: var(--text-secondary);
+      cursor: pointer;
+      user-select: none;
+      margin-left: auto;
+    }
+    .hide-toggle input { accent-color: var(--accent-blue); width: 15px; height: 15px; }
+
+    /* Grupos */
+    .group-section { margin-bottom: 26px; }
+    .group-label {
+      font-size: 13.5px;
+      font-weight: 700;
+      color: var(--text-solid);
+      margin-bottom: 12px;
+      display: flex;
+      align-items: center;
+      gap: 8px;
+    }
+    .group-count {
+      font-size: 11px;
+      font-family: "JetBrains Mono", monospace;
+      font-weight: 700;
+      color: var(--accent-blue);
+      background: var(--accent-blue-soft);
+      padding: 2px 7px;
+      border-radius: 9999px;
+    }
+    .group-label::after { content: ""; flex: 1; height: 1px; background: var(--border); }
+
+    .items-stream { display: grid; gap: 10px; }
+
+    /* Tarjetas de Licitación (Dark Mode Macizo) */
+    .deal-card {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      display: grid;
+      grid-template-columns: 125px 1fr 220px;
+      align-items: stretch;
+      overflow: hidden;
+      transition: all 0.15s ease;
+    }
+    .deal-card:hover {
+      border-color: #3B82F6;
+      background: var(--surface-hover);
+      transform: translateY(-1px);
+    }
+    .deal-card.done { opacity: 0.35; filter: grayscale(0.7); }
+
+    /* Reloj / Temporizador */
+    .deal-timer {
+      padding: 16px 12px;
+      background: rgba(11, 15, 23, 0.4);
+      border-right: 1px solid var(--border);
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      text-align: center;
+    }
+    .timer-num {
+      font-size: 25px;
+      font-weight: 800;
+      line-height: 1;
+      letter-spacing: -0.03em;
+      color: var(--text-solid);
+    }
+    .timer-unit {
+      font-size: 10px;
+      text-transform: uppercase;
+      font-weight: 700;
+      letter-spacing: 0.08em;
+      color: var(--text-secondary);
+      margin-top: 4px;
+    }
+    .timer-date {
+      font-size: 11px;
+      color: var(--text-muted);
+      margin-top: 6px;
+    }
+    .deal-card.urg-red .deal-timer { background: var(--rose-soft); }
+    .deal-card.urg-red .timer-num { color: var(--rose); text-shadow: 0 0 10px rgba(251, 113, 133, 0.3); }
+    .deal-card.urg-amber .deal-timer { background: var(--amber-soft); }
+    .deal-card.urg-amber .timer-num { color: var(--amber); }
+    .deal-card.closed .timer-num { font-size: 14px; color: var(--text-muted); }
+
+    /* Cuerpo Principal */
+    .deal-main {
+      padding: 16px 20px;
+      display: flex;
+      flex-direction: column;
+      gap: 6px;
+      min-width: 0;
+    }
+    .deal-top {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      flex-wrap: wrap;
+      font-size: 12px;
+    }
+    .deal-code {
+      font-family: "JetBrains Mono", monospace;
+      font-weight: 700;
+      color: var(--accent-blue);
+      text-decoration: none;
+    }
+    .deal-code:hover { text-decoration: underline; }
+
+    .badge-pill {
+      font-size: 10.5px;
+      font-weight: 700;
+      padding: 2px 7px;
+      border-radius: 6px;
+      white-space: nowrap;
+    }
+    .badge-pill.rubro { background: var(--emerald-soft); color: var(--emerald); border: 1px solid var(--emerald-border); }
+    .badge-pill.pos { background: var(--purple-soft); color: var(--purple); border: 1px solid var(--purple-border); }
+    .badge-pill.new { background: var(--accent-blue); color: #0B0F17; }
+    .badge-pill.nd { background: var(--amber-soft); color: var(--amber); border: 1px solid var(--amber-border); }
+
+    .deal-title {
+      font-size: 15px;
+      font-weight: 700;
+      color: var(--text-solid);
+      line-height: 1.35;
+      display: -webkit-box;
+      -webkit-line-clamp: 2;
+      -webkit-box-orient: vertical;
+      overflow: hidden;
+    }
+    .deal-institution {
+      font-size: 12.5px;
+      color: var(--text-secondary);
+      font-weight: 500;
+    }
+    .deal-institution span { color: var(--text-muted); }
+
+    .deal-tags {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 5px;
+      margin-top: 4px;
+    }
+    .tag-bubble {
+      font-size: 11px;
+      background: var(--surface-subtle);
+      border: 1px solid var(--border);
+      border-radius: 6px;
+      padding: 2px 7px;
+      color: var(--text-secondary);
+      font-weight: 500;
+    }
+    .tag-bubble.matched {
+      background: var(--emerald-soft);
+      color: var(--emerald);
+      border-color: var(--emerald-border);
+      font-weight: 600;
+    }
+    .deal-card.is-possible .tag-bubble.matched {
+      background: var(--purple-soft);
+      color: var(--purple);
+      border-color: var(--purple-border);
+    }
+    .tag-bubble .c-id { font-family: "JetBrains Mono", monospace; margin-right: 4px; opacity: 0.7; font-size: 10.5px; }
+
+    /* Panel Lateral (Monto & Botones) */
+    .deal-aside {
+      padding: 16px 20px;
+      background: rgba(11, 15, 23, 0.3);
+      border-left: 1px solid var(--border);
+      display: flex;
+      flex-direction: column;
+      justify-content: space-between;
+      align-items: flex-end;
+      text-align: right;
+    }
+    .deal-amount-val {
+      font-family: "JetBrains Mono", monospace;
+      font-size: 19px;
+      font-weight: 800;
+      color: var(--text-solid);
+      letter-spacing: -0.02em;
+    }
+    .deal-offers-note {
+      font-size: 11.5px;
+      color: var(--text-secondary);
+      margin-top: 2px;
+    }
+    .deal-offers-note b { color: var(--text-solid); font-weight: 700; }
+
+    .deal-actions {
+      display: flex;
+      gap: 6px;
+      margin-top: 10px;
+    }
+    .btn-deal {
+      height: 32px;
+      padding: 0 12px;
+      border-radius: var(--radius-sm);
+      font-size: 12px;
+      font-weight: 700;
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      gap: 6px;
+      cursor: pointer;
+      text-decoration: none;
+      border: 1px solid var(--border);
+      background: var(--surface-subtle);
+      color: var(--text-solid);
+      transition: all 0.15s;
+    }
+    .btn-deal:hover {
+      background: #243044;
+      border-color: #475569;
+    }
+    .btn-deal.btn-primary {
+      background: var(--text-solid);
+      color: #0B0F17;
+      border-color: var(--text-solid);
+    }
+    .btn-deal.btn-primary:hover {
+      background: #E2E8F0;
+    }
+    .btn-deal.btn-square {
+      width: 32px;
+      padding: 0;
+      color: var(--text-secondary);
+    }
+    .btn-deal.btn-square[aria-pressed="true"] {
+      background: var(--accent-blue);
+      color: #0B0F17;
+      border-color: var(--accent-blue);
+    }
+
+    /* Adaptabilidad */
+    @media (max-width: 860px) {
+      .kpi-row { grid-template-columns: repeat(2, 1fr); }
+      .deal-card { grid-template-columns: 1fr; }
+      .deal-timer {
+        border-right: 0;
+        border-bottom: 1px solid var(--border);
+        flex-direction: row;
+        justify-content: space-between;
+        padding: 10px 16px;
+      }
+      .deal-timer .timer-date { margin-top: 0; }
+      .deal-aside {
+        border-left: 0;
+        border-top: 1px solid var(--border);
+        flex-direction: row;
+        align-items: center;
+        text-align: left;
+      }
+    }
+    @media (max-width: 480px) {
+      .kpi-row { grid-template-columns: 1fr; }
+      .top-bar-inner { flex-direction: column; align-items: flex-start; gap: 8px; }
+      .status-indicator { align-self: flex-start; }
+    }
+
+    .empty-shelf {
+      background: var(--surface);
+      border: 1px dashed var(--border);
+      border-radius: var(--radius);
+      padding: 40px;
+      text-align: center;
+      color: var(--text-muted);
+    }
+    details.pending-expander {
+      margin-top: 24px;
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      padding: 8px 16px;
+    }
+    details.pending-expander summary {
+      cursor: pointer;
+      font-weight: 600;
+      color: var(--text-secondary);
+      padding: 8px 0;
+    }
+    details.pending-expander ul {
+      padding: 0;
+      list-style: none;
+      margin: 8px 0 12px;
+      display: grid;
+      gap: 8px;
+    }
+    details.pending-expander li {
+      font-size: 12.5px;
+      display: flex;
+      gap: 8px;
+      flex-wrap: wrap;
+    }
+
+    footer {
+      margin-top: 40px;
+      padding-top: 24px;
+      border-top: 1px solid var(--border);
+      font-size: 12px;
+      color: var(--text-muted);
+      display: grid;
+      gap: 12px;
+    }
+    .rubros-stream {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 6px;
+    }
+    .rubro-capsule {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      padding: 3px 8px;
+      border-radius: 6px;
+      color: var(--text-secondary);
+    }
+    .rubro-capsule .k { font-family: "JetBrains Mono", monospace; margin-right: 4px; font-weight: 600; color: var(--accent-blue); }
+  </style>
+</head>
+<body>
+
+<header class="top-bar">
+  <div class="top-bar-inner">
+    <div class="brand-meta">
+      <div class="brand-logo-glow">AC</div>
+      <span class="brand-title" id="empresa">Aysén Comunicaciones Ltda.</span>
+      <span class="region-badge">Radar Compra Ágil · <span id="region">Aysén</span></span>
+    </div>
+    <div class="status-indicator">
+      <span class="live-dot"></span>
+      <span>Revisado <b id="hace" style="color: var(--text-solid); font-weight: 700;">—</b> · <span id="fecha">—</span></span>
+    </div>
   </div>
-  <select id="orden" aria-label="Ordenar">
-    <option value="cierre">Por cierre</option><option value="monto">Por monto</option><option value="recientes">Más recientes</option>
-  </select>
-  <label class="toggle"><input id="ocultar" type="checkbox" checked> Ocultar cotizadas y descartadas</label>
+</header>
+
+<div class="app-container">
+  <!-- Tarjetas KPI -->
+  <section class="kpi-row" aria-label="Resumen de métricas">
+    <div class="kpi-card">
+      <div class="kpi-header">En tus rubros</div>
+      <div class="kpi-val" id="s-ops">–</div>
+      <div class="kpi-footer">Calce directo con rubros inscritos</div>
+    </div>
+    <div class="kpi-card">
+      <div class="kpi-header">Posibles por revisar</div>
+      <div class="kpi-val" id="s-pos">–</div>
+      <div class="kpi-footer">Coincidencia por palabras clave</div>
+    </div>
+    <div class="kpi-card" id="card-urg">
+      <div class="kpi-header">Cierran &lt; 48 horas</div>
+      <div class="kpi-val" id="s-urg">–</div>
+      <div class="kpi-footer">Plazo límite de postulación</div>
+    </div>
+    <div class="kpi-card">
+      <div class="kpi-header">Monto en tus rubros</div>
+      <div class="kpi-val mono" id="s-monto">–</div>
+      <div class="kpi-footer"><span id="s-nuevas" style="color: var(--accent-blue); font-weight: 700;">0</span> nuevas hoy</div>
+    </div>
+  </section>
+
+  <!-- Filtros -->
+  <div class="filter-shelf">
+    <div class="search-field">
+      <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><circle cx="11" cy="11" r="8"/><path d="M21 21l-4.35-4.35"/></svg>
+      <input id="q" type="search" placeholder="Buscar por organismo, producto o código..." autocomplete="off">
+    </div>
+
+    <div class="segmented-tabs" role="group" aria-label="Filtro de rubro">
+      <button type="button" class="tab-btn" data-f="todas">Todas <span class="tab-counter" id="c-todas">0</span></button>
+      <button type="button" class="tab-btn" data-f="rubro">Tus Rubros <span class="tab-counter" id="c-rubro">0</span></button>
+      <button type="button" class="tab-btn" data-f="posible">Posibles <span class="tab-counter" id="c-pos">0</span></button>
+    </div>
+
+    <select id="orden" class="order-select" aria-label="Ordenar resultados">
+      <option value="cierre">Por cierre</option>
+      <option value="monto">Por monto</option>
+      <option value="recientes">Más recientes</option>
+    </select>
+
+    <label class="hide-toggle">
+      <input id="ocultar" type="checkbox" checked> Ocultar marcadas
+    </label>
+  </div>
+
+  <main id="lista"></main>
+
+  <details class="pending-expander" id="nd" hidden>
+    <summary></summary>
+    <ul></ul>
+  </details>
+
+  <footer>
+    <div>
+      <span id="total">0</span> compras ágiles abiertas en la región al momento de la revisión. Fuente: API Compra Ágil de Mercado Público.
+      Se revisa cada hora entre 06:30 y 21:30.
+    </div>
+    <div class="rubros-stream" id="rubros"></div>
+  </footer>
 </div>
-<main id="lista"></main>
-<details class="nd" id="nd" hidden><summary></summary><ul></ul></details>
-<footer>
-  <div><span id="total"></span> compras ágiles abiertas en la región al momento de la revisión. Fuente: API Compra Ágil de Mercado Público.
-  Se revisa cada hora entre 06:30 y 21:30. Las marcas de cotizada/descartada se guardan solo en este navegador.</div>
-  <div class="rub" id="rubros"></div>
-</footer>
-</div>
+
 <script type="application/json" id="datos">__DATOS__</script>
+
 <script>
 const D = JSON.parse(document.getElementById('datos').textContent);
 const $ = s => document.querySelector(s);
@@ -220,41 +719,57 @@ function reloj(iso) {
   if (h < 1) { t2 = Math.max(1, Math.round(h * 60)); u = 'min' }
   else if (h < 48) { t2 = Math.round(h); u = h < 1.5 ? 'hora' : 'horas' }
   else { t2 = Math.round(h / 24); u = 'días' }
-  const cls = h < 24 ? 'crit' : h < 48 ? 'warn' : '';
+  const cls = h < 24 ? 'urg-red' : h < 48 ? 'urg-amber' : '';
   const grupo = mismo(d, hoy) ? 'Cierran hoy' : mismo(d, man) ? 'Cierran mañana' : h < 24*7 ? 'Próximos 7 días' : 'Más adelante';
   const orden = {'Cierran hoy':1,'Cierran mañana':2,'Próximos 7 días':3,'Más adelante':4}[grupo];
   return {t:t2, u, d:fecha, cls, grupo, orden};
 }
 
 const ICON = {
-  check:'<svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12.5l4.5 4.5L19 7.5"/></svg>',
-  x:'<svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round"><path d="M6 6l12 12M18 6L6 18"/></svg>',
-  ext:'<svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><path d="M14 4h6v6M20 4l-9 9M18 14v5a1 1 0 0 1-1 1H5a1 1 0 0 1-1-1V7a1 1 0 0 1 1-1h5"/></svg>'
+  check: '<svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg>',
+  x: '<svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.6" stroke-linecap="round"><line x1="18" y1="6" x2="6" y2="18"/><line x1="6" y1="6" x2="18" y2="18"/></svg>',
+  ext: '<svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/><polyline points="15 3 21 3 21 9"/><line x1="10" y1="14" x2="21" y2="3"/></svg>'
 };
 
 function tarjeta(f) {
   const r = reloj(f.cierre_iso), st = estado[f.codigo];
   const esRubro = f.tipo === 'OPORTUNIDAD';
-  const tipo = esRubro ? '<span class="pill rubro">Tu rubro</span>' : '<span class="pill pos">Posible</span>';
-  const nd = f.sin_detalle ? '<span class="pill nd" title="Mercado Público no entrega el detalle de esta compra; se evaluó solo por su título">Sin detalle</span>' : '';
-  const motivos = f.motivos.map(m => `<span class="tag m">${esc(m)}</span>`).join('');
-  const prods = f.productos.slice(0, 3).map(p => `<span class="tag"><span class="k">${esc(p[0])}</span>${esc(p[1])}</span>`).join('')
-    + (f.productos.length > 3 ? `<span class="tag">+${f.productos.length - 3} más</span>` : '');
-  const cls = ['item', r.cls, esRubro ? 'rubro' : 'posible', st ? 'done' : ''].join(' ');
+  const tipo = esRubro ? '<span class="badge-pill rubro">Tu rubro</span>' : '<span class="badge-pill pos">Posible</span>';
+  const nd = f.sin_detalle ? '<span class="badge-pill nd" title="Sin detalle de ítems">Sin detalle</span>' : '';
+  const motivos = f.motivos.map(m => `<span class="tag-bubble matched">${esc(m)}</span>`).join('');
+  const prods = f.productos.slice(0, 3).map(p => `<span class="tag-bubble"><span class="c-id">${esc(p[0])}</span>${esc(p[1])}</span>`).join('')
+    + (f.productos.length > 3 ? `<span class="tag-bubble">+${f.productos.length - 3} más</span>` : '');
+  const cls = ['deal-card', r.cls, esRubro ? 'is-opportunity' : 'is-possible', st ? 'done' : ''].join(' ');
+
   return `<article class="${cls}" data-cod="${esc(f.codigo)}">
-    <div class="clock"><div class="t">${r.t}</div><div class="u">${r.u}</div><div class="d">${esc(r.d || '')}</div></div>
-    <div class="body">
-      <div class="meta"><a class="code" href="${esc(f.link)}" target="_blank" rel="noopener">${esc(f.codigo)}</a>${tipo}${f.nueva ? '<span class="pill new">Nueva</span>' : ''}${nd}</div>
-      <div class="title" title="${esc(f.nombre)}">${esc(f.nombre)}</div>
-      <div class="org">${esc(f.organismo)}${f.unidad ? ' <span>· ' + esc(f.unidad) + '</span>' : ''}</div>
-      <div class="tags">${motivos}${prods}</div>
+    <div class="deal-timer">
+      <div class="timer-num mono">${r.t}</div>
+      <div class="timer-unit">${r.u}</div>
+      <div class="timer-date">${esc(r.d || '')}</div>
     </div>
-    <div class="side">
-      <div class="money"><div class="amt">${pesos(f.monto)}</div><div class="bids"><b>${f.ofertas || 0}</b> ${f.ofertas == 1 ? 'oferta' : 'ofertas'} · publ. ${esc(f.publicacion)}</div></div>
-      <div class="acts">
-        <a class="btn primary" href="${esc(f.link)}" target="_blank" rel="noopener">Ver ficha ${ICON.ext}</a>
-        <button class="btn icon" type="button" aria-pressed="${st === 'cotizada'}" title="Marcar como cotizada" aria-label="Marcar como cotizada" data-v="cotizada">${ICON.check}</button>
-        <button class="btn icon" type="button" aria-pressed="${st === 'descartada'}" title="Descartar" aria-label="Descartar" data-v="descartada">${ICON.x}</button>
+    <div class="deal-main">
+      <div class="deal-top">
+        <a class="deal-code" href="${esc(f.link)}" target="_blank" rel="noopener">${esc(f.codigo)}</a>
+        ${tipo}
+        ${f.nueva ? '<span class="badge-pill new">Nueva</span>' : ''}
+        ${nd}
+      </div>
+      <div class="deal-title" title="${esc(f.nombre)}">${esc(f.nombre)}</div>
+      <div class="deal-institution">
+        <b style="color: var(--text-main);">${esc(f.organismo)}</b>
+        ${f.unidad ? '<span>· ' + esc(f.unidad) + '</span>' : ''}
+      </div>
+      <div class="deal-tags">${motivos}${prods}</div>
+    </div>
+    <div class="deal-aside">
+      <div>
+        <div class="deal-amount-val">${pesos(f.monto)}</div>
+        <div class="deal-offers-note"><b>${f.ofertas || 0}</b> ofertas · ${esc(f.publicacion)}</div>
+      </div>
+      <div class="deal-actions">
+        <a class="btn-deal btn-primary" href="${esc(f.link)}" target="_blank" rel="noopener">Ficha ${ICON.ext}</a>
+        <button class="btn-deal btn-square" type="button" aria-pressed="${st === 'cotizada'}" title="Marcar cotizada" aria-label="Marcar cotizada" data-v="cotizada">${ICON.check}</button>
+        <button class="btn-deal btn-square" type="button" aria-pressed="${st === 'descartada'}" title="Descartar" aria-label="Descartar" data-v="descartada">${ICON.x}</button>
       </div>
     </div>
   </article>`;
@@ -267,64 +782,78 @@ function pintar() {
     (filtro === 'todas' || (filtro === 'rubro' ? f.tipo === 'OPORTUNIDAD' : f.tipo === 'POSIBLE')) &&
     !(ocultar && estado[f.codigo]) &&
     (!q || [f.codigo, f.nombre, f.organismo, f.unidad, ...f.motivos, ...f.productos.flat()].join(' ').toLowerCase().includes(q)));
-  document.querySelectorAll('.seg button').forEach(b => b.setAttribute('aria-pressed', b.dataset.f === filtro));
+  
+  document.querySelectorAll('.segmented-tabs button').forEach(b => b.setAttribute('aria-pressed', b.dataset.f === filtro));
   const out = $('#lista');
-  if (!items.length) { out.innerHTML = `<div class="empty">${q ? 'Nada coincide con “' + esc(q) + '”.' : 'No hay compras abiertas en esta vista.'}</div>`; return }
+  if (!items.length) { 
+    out.innerHTML = `<div class="empty-shelf">${q ? 'Nada coincide con “' + esc(q) + '”.' : 'No hay oportunidades en esta sección.'}</div>`; 
+    return; 
+  }
+  
   if (orden === 'cierre') {
     const grupos = {};
     items.forEach(f => { const r = reloj(f.cierre_iso); (grupos[r.grupo] ||= {orden:r.orden, xs:[]}).xs.push(f) });
     out.innerHTML = Object.entries(grupos).sort((a, b) => a[1].orden - b[1].orden).map(([g, v]) =>
-      `<section class="group"><h2>${g} <span class="n">${v.xs.length}</span></h2><div class="list">${v.xs.map(tarjeta).join('')}</div></section>`).join('');
+      `<section class="group-section"><div class="group-label">${g} <span class="group-count">${v.xs.length}</span></div><div class="items-stream">${v.xs.map(tarjeta).join('')}</div></section>`).join('');
   } else {
     items = items.slice().sort(orden === 'monto' ? (a, b) => (b.monto || 0) - (a.monto || 0) : (a, b) => (b.publicacion_iso || '').localeCompare(a.publicacion_iso || ''));
-    out.innerHTML = `<section class="group"><h2>${orden === 'monto' ? 'Por monto' : 'Publicadas recientemente'} <span class="n">${items.length}</span></h2><div class="list">${items.map(tarjeta).join('')}</div></section>`;
+    out.innerHTML = `<section class="group-section"><div class="group-label">${orden === 'monto' ? 'Ordenado por Monto' : 'Publicaciones Recientes'} <span class="group-count">${items.length}</span></div><div class="items-stream">${items.map(tarjeta).join('')}</div></section>`;
   }
 }
 
 $('#lista').addEventListener('click', e => {
   const b = e.target.closest('button[data-v]'); if (!b) return;
-  const cod = b.closest('.item').dataset.cod, v = b.dataset.v;
+  const cod = b.closest('.deal-card').dataset.cod, v = b.dataset.v;
   if (estado[cod] === v) delete estado[cod]; else estado[cod] = v;
   guardar(); pintar();
 });
-document.querySelectorAll('.seg button').forEach(b => b.addEventListener('click', () => {
+
+document.querySelectorAll('.segmented-tabs button').forEach(b => b.addEventListener('click', () => {
   filtro = b.dataset.f; try { localStorage.setItem('radar_filtro', filtro) } catch (e) {} pintar();
 }));
+
 ['#q', '#ocultar', '#orden'].forEach(s => $(s).addEventListener(s === '#q' ? 'input' : 'change', pintar));
 
-
-// ── Cabecera, resumen y pie (todo sale de los datos) ──
 (function () {
   const ops = D.filas.filter(f => f.tipo === 'OPORTUNIDAD'), pos = D.filas.filter(f => f.tipo === 'POSIBLE');
   const ahora = Date.now();
   const urg = D.filas.filter(f => { const t = Date.parse(f.cierre_iso); return t >= ahora && t - ahora < 48 * 36e5 }).length;
   const monto = ops.reduce((s, f) => s + (f.monto || 0), 0), nuevas = D.filas.filter(f => f.nueva).length;
   const d = new Date(D.actualizado);
+  
   $('#fecha').textContent = d.toLocaleDateString('es-CL', {day:'2-digit', month:'2-digit'}) + ' ' + d.toLocaleTimeString('es-CL', {hour:'2-digit', minute:'2-digit', hour12:false});
-  $('#s-ops').textContent = ops.length; $('#s-pos').textContent = pos.length; $('#s-urg').textContent = urg;
-  if (urg) $('#s-urg').closest('.stat').classList.add('hot');
-  $('#s-monto').textContent = monto ? pesos(monto) : '$0'; $('#s-nuevas').textContent = nuevas;
-  $('#c-todas').textContent = D.filas.length; $('#c-rubro').textContent = ops.length; $('#c-pos').textContent = pos.length;
+  $('#s-ops').textContent = ops.length; 
+  $('#s-pos').textContent = pos.length; 
+  $('#s-urg').textContent = urg;
+  if (urg > 0) $('#card-urg').classList.add('urgent');
+  
+  $('#s-monto').textContent = monto ? pesos(monto) : '$0';$('#s-nuevas').textContent = nuevas;
+  $('#c-todas').textContent = D.filas.length; 
+  $('#c-rubro').textContent = ops.length; 
+  $('#c-pos').textContent = pos.length;
   $('#total').textContent = D.total_region;
   $('#region').textContent = D.region;
   if (D.empresa) { $('#empresa').textContent = D.empresa; document.title = 'Radar · ' + D.empresa; }
-  $('#rubros').innerHTML = Object.entries(D.rubros).map(([c, n]) => `<span><span class="k">${esc(c)}</span>${esc(n)}</span>`).join('');
-  if (D.pendientes.length) {
+  
+  $('#rubros').innerHTML = Object.entries(D.rubros).map(([c, n]) => `<span class="rubro-capsule"><span class="k">${esc(c)}</span>${esc(n)}</span>`).join('');
+  
+  if (D.pendientes && D.pendientes.length) {
     const n = D.pendientes.length;
     $('#nd').hidden = false;
-    $('#nd summary').textContent = `${n} ${n === 1 ? 'compra abierta' : 'compras abiertas'} sin detalle en Mercado Público — se evaluaron solo por su título`;
-    $('#nd ul').innerHTML = D.pendientes.map(p => `<li><a class="code" href="${esc(p.link)}" target="_blank" rel="noopener">${esc(p.codigo)}</a><span>${esc(p.nombre)}</span><span style="color:var(--muted)">${esc(p.organismo)}</span></li>`).join('');
+    $('#nd summary').textContent = `${n} ${n === 1 ? 'compra abierta' : 'compras abiertas'} sin detalle en Mercado Público — evaluadas por su título`;
+    $('#nd ul').innerHTML = D.pendientes.map(p => `<li><a class="deal-code" href="${esc(p.link)}" target="_blank" rel="noopener">${esc(p.codigo)}</a><span>${esc(p.nombre)}</span><span style="color:var(--text-muted)">${esc(p.organismo)}</span></li>`).join('');
   }
 })();
 
-// Antigüedad de la última revisión
 (function () {
   const t = Date.parse(D.actualizado), min = Math.round((Date.now() - t) / 6e4);
   const txt = min < 1 ? 'recién' : min < 60 ? `hace ${min} min` : min < 60 * 24 ? `hace ${Math.round(min / 60)} h` : `hace ${Math.round(min / 1440)} días`;
   $('#hace').textContent = txt;
-  if (min > 90) $('.pulse').classList.add('old');
+  if (min > 90) $('.live-dot').classList.add('old');
 })();
+
 pintar();
 setInterval(pintar, 60000);
 </script>
-</body></html>
+</body>
+</html>
