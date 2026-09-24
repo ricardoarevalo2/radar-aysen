@@ -340,6 +340,15 @@
       transform: translateY(-1px);
     }
     .deal-card.done { opacity: 0.35; filter: grayscale(0.7); }
+    .deal-card.unseen { border-color: var(--accent-blue); box-shadow: inset 3px 0 0 var(--accent-blue), 0 0 0 1px var(--accent-blue-soft); }
+    .badge-pill.unseen { background: var(--accent-blue-soft); color: var(--accent-blue); border: 1px solid var(--accent-blue); }
+    .visit-banner { display: flex; align-items: center; gap: 10px; flex-wrap: wrap; margin: 0 0 16px; padding: 12px 16px; border-radius: var(--radius); border: 1px solid var(--border); background: var(--surface); color: var(--text-secondary); font-size: 14px; }
+    .visit-banner b { color: var(--text-solid); }
+    .visit-banner.hay { border-color: var(--accent-blue); background: var(--accent-blue-soft); color: var(--text-main); }
+    .visit-banner .dot { width: 9px; height: 9px; border-radius: 50%; background: var(--text-muted); flex: none; }
+    .visit-banner.hay .dot { background: var(--accent-blue); box-shadow: 0 0 8px var(--accent-blue); }
+    .visit-banner button { margin-left: auto; background: none; border: 1px solid var(--border); color: var(--text-secondary); border-radius: var(--radius-sm); padding: 4px 10px; font: inherit; font-size: 12.5px; cursor: pointer; }
+    .visit-banner button:hover { color: var(--text-solid); border-color: var(--accent-blue); }
 
     /* Reloj / Temporizador */
     .deal-timer {
@@ -653,6 +662,8 @@
     </div>
   </section>
 
+  <div class="visit-banner" id="visita" hidden></div>
+
   <!-- Filtros -->
   <div class="filter-shelf">
     <div class="search-field">
@@ -706,6 +717,22 @@ const guardar = () => { try { localStorage.setItem('radar_estado', JSON.stringif
 let filtro = 'todas';
 try { filtro = localStorage.getItem('radar_filtro') || 'todas' } catch (e) {}
 
+// --- Compras no vistas desde tu última visita (se guarda en este navegador, por empresa) ---
+const K_VISTAS = 'radar_vistas_' + (D.empresa || ''), K_VISITA = 'radar_visita_' + (D.empresa || '');
+let vistas = null, ultimaVisita = null;
+try { vistas = JSON.parse(localStorage.getItem(K_VISTAS) || 'null'); ultimaVisita = localStorage.getItem(K_VISITA) } catch (e) {}
+const primeraVez = !vistas;
+if (!vistas) vistas = {};
+let noVistas = new Set(primeraVez ? [] : D.filas.map(f => f.codigo).filter(c => !(c in vistas) && !estado[c]));
+function marcarVistas() {
+  const ahora = Date.now(), limite = ahora - 30 * 864e5;
+  D.filas.forEach(f => { if (!(f.codigo in vistas)) vistas[f.codigo] = ahora });
+  for (const c in vistas) if (vistas[c] < limite) delete vistas[c];
+  try { localStorage.setItem(K_VISTAS, JSON.stringify(vistas)); localStorage.setItem(K_VISITA, new Date().toISOString()) } catch (e) {}
+}
+addEventListener('pagehide', marcarVistas);
+document.addEventListener('visibilitychange', () => { if (document.visibilityState === 'hidden') marcarVistas() });
+
 function reloj(iso) {
   const t = Date.parse(iso); if (isNaN(t)) return {t:'—', u:'', cls:'', grupo:'Sin fecha', orden:9};
   const h = (t - Date.now()) / 36e5, d = new Date(t);
@@ -738,7 +765,7 @@ function tarjeta(f) {
   const motivos = f.motivos.map(m => `<span class="tag-bubble matched">${esc(m)}</span>`).join('');
   const prods = f.productos.slice(0, 3).map(p => `<span class="tag-bubble"><span class="c-id">${esc(p[0])}</span>${esc(p[1])}</span>`).join('')
     + (f.productos.length > 3 ? `<span class="tag-bubble">+${f.productos.length - 3} más</span>` : '');
-  const cls = ['deal-card', r.cls, esRubro ? 'is-opportunity' : 'is-possible', st ? 'done' : ''].join(' ');
+  const cls = ['deal-card', r.cls, esRubro ? 'is-opportunity' : 'is-possible', st ? 'done' : '', noVistas.has(f.codigo) && !st ? 'unseen' : ''].join(' ');
 
   return `<article class="${cls}" data-cod="${esc(f.codigo)}">
     <div class="deal-timer">
@@ -750,6 +777,7 @@ function tarjeta(f) {
       <div class="deal-top">
         <a class="deal-code" href="${esc(f.link)}" target="_blank" rel="noopener">${esc(f.codigo)}</a>
         ${tipo}
+        ${noVistas.has(f.codigo) && !st ? '<span class="badge-pill unseen">No vista</span>' : ''}
         ${f.nueva ? '<span class="badge-pill new">Nueva</span>' : ''}
         ${nd}
       </div>
@@ -782,6 +810,8 @@ function pintar() {
     !(ocultar && estado[f.codigo]) &&
     (!q || [f.codigo, f.nombre, f.organismo, f.unidad, ...f.motivos, ...f.productos.flat()].join(' ').toLowerCase().includes(q)));
   
+  const nv = f => noVistas.has(f.codigo) ? 0 : 1;
+  if (orden === 'cierre') items = items.slice().sort((a, b) => nv(a) - nv(b));
   document.querySelectorAll('.segmented-tabs button').forEach(b => b.setAttribute('aria-pressed', b.dataset.f === filtro));
   const out = $('#lista');
   if (!items.length) { 
@@ -795,7 +825,7 @@ function pintar() {
     out.innerHTML = Object.entries(grupos).sort((a, b) => a[1].orden - b[1].orden).map(([g, v]) =>
       `<section class="group-section"><div class="group-label">${g} <span class="group-count">${v.xs.length}</span></div><div class="items-stream">${v.xs.map(tarjeta).join('')}</div></section>`).join('');
   } else {
-    items = items.slice().sort(orden === 'monto' ? (a, b) => (b.monto || 0) - (a.monto || 0) : (a, b) => (b.publicacion_iso || '').localeCompare(a.publicacion_iso || ''));
+    items = items.slice().sort(orden === 'monto' ? (a, b) => (b.monto || 0) - (a.monto || 0) : (a, b) => (b.publicacion_iso || '').localeCompare(a.publicacion_iso || '')).sort((a, b) => nv(a) - nv(b));
     out.innerHTML = `<section class="group-section"><div class="group-label">${orden === 'monto' ? 'Ordenado por Monto' : 'Publicaciones Recientes'} <span class="group-count">${items.length}</span></div><div class="items-stream">${items.map(tarjeta).join('')}</div></section>`;
   }
 }
@@ -804,7 +834,7 @@ $('#lista').addEventListener('click', e => {
   const b = e.target.closest('button[data-v]'); if (!b) return;
   const cod = b.closest('.deal-card').dataset.cod, v = b.dataset.v;
   if (estado[cod] === v) delete estado[cod]; else estado[cod] = v;
-  guardar(); pintar();
+  guardar(); pintarVisita(); pintar();
 });
 
 document.querySelectorAll('.segmented-tabs button').forEach(b => b.addEventListener('click', () => {
@@ -851,6 +881,18 @@ document.querySelectorAll('.segmented-tabs button').forEach(b => b.addEventListe
   if (min > 90) $('.live-dot').classList.add('old');
 })();
 
+function pintarVisita() {
+  const el = $('#visita'); el.hidden = false;
+  const cuando = ultimaVisita ? (() => { const d = new Date(ultimaVisita), hoy = new Date(), ay = new Date(); ay.setDate(hoy.getDate() - 1);
+    const h = d.toLocaleTimeString('es-CL', {hour:'2-digit', minute:'2-digit', hour12:false});
+    return d.toDateString() === hoy.toDateString() ? 'hoy ' + h : d.toDateString() === ay.toDateString() ? 'ayer ' + h : DIAS[d.getDay()] + ' ' + d.getDate() + '/' + (d.getMonth()+1) + ' ' + h })() : '';
+  const n = [...noVistas].filter(c => !estado[c]).length;
+  if (primeraVez) { el.className = 'visit-banner'; el.innerHTML = '<span class="dot"></span><span>Desde ahora te voy a destacar las compras que aparezcan después de esta visita.</span>'; return }
+  if (n) { el.className = 'visit-banner hay'; el.innerHTML = `<span class="dot"></span><span><b>${n} ${n === 1 ? 'nueva' : 'nuevas'}</b> desde tu última visita${cuando ? ' (' + cuando + ')' : ''} — destacadas como <b>No vista</b> y primero en su grupo.</span><button type="button" id="ya-vi">Marcar como vistas</button>`;
+    $('#ya-vi').onclick = () => { noVistas = new Set(); marcarVistas(); pintarVisita(); pintar() }; return }
+  el.className = 'visit-banner'; el.innerHTML = `<span class="dot"></span><span>Sin cambios desde tu última visita${cuando ? ' (' + cuando + ')' : ''}.</span>`;
+}
+pintarVisita();
 pintar();
 setInterval(pintar, 60000);
 </script>
