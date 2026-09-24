@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-24T08:36:30.859993-03:00",
+ "actualizado": "2026-09-24T09:41:51.474664-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
  "total_region": 271,
@@ -17,37 +17,33 @@
   {
    "tipo": "POSIBLE",
    "motivos": [
-    "audiovisual"
+    "radio"
    ],
    "nueva": false,
-   "codigo": "4066-387-COT26",
-   "nombre": "ADQ. DE EQUIPAMIENTO AUDIOVISUAL PROGRAMA FOMENTO PRODUCTIVO ",
-   "organismo": "I MUNICIPALIDAD RIO IBANEZ",
-   "unidad": "DIDECO",
-   "monto": 2813000,
-   "cierre_iso": "2026-09-24T06:00:00-03:00",
-   "publicacion": "22-09 06:56",
-   "publicacion_iso": "2026-09-22T06:56:00-03:00",
+   "codigo": "2713-1154-COT26",
+   "nombre": "EQUIPAMIENTO PARA RADIO FM. SOLICITUD 1188 ALCALDIA.",
+   "organismo": "I MUNICIPALIDAD DE AYSEN",
+   "unidad": "I.MUNICIPALIDAD AYSEN-ADQUISICIONES",
+   "monto": 4376140,
+   "cierre_iso": "2026-09-24T07:01:00-03:00",
+   "publicacion": "23-09 06:17",
+   "publicacion_iso": "2026-09-23T06:17:00-03:00",
    "ofertas": 0,
    "productos": [
     [
-     "25131705",
-     "Aviones objetivo o de reconocimiento"
+     "43201539",
+     "Unidad central de controlador de consola"
     ],
     [
-     "45121603",
-     "Lentes o filtros para cámaras"
+     "43201503",
+     "Procesadores o unidad central de procesamiento (CPU)"
     ],
     [
-     "86141702",
-     "Tecnología audiovisual"
-    ],
-    [
-     "53121603",
-     "Mochilas"
+     "52161520",
+     "Micrófonos"
     ]
    ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=4066-387-COT26",
+   "link": "https://buscador.mercadopublico.cl/ficha?code=2713-1154-COT26",
    "sin_detalle": false
   },
   {
@@ -55,7 +51,7 @@
    "motivos": [
     "radio"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "2713-1154-COT26",
    "nombre": "EQUIPAMIENTO PARA RADIO FM. SOLICITUD 1188 ALCALDIA.",
    "organismo": "I MUNICIPALIDAD DE AYSEN",
@@ -305,7 +301,7 @@
    "motivos": [
     "Publicidad en medios no impresos"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "1746-224-COT26",
    "nombre": "Contratación de agencia de comunicaciones-Plan Hantavirus (P 457 SEREMI)",
    "organismo": "SUBSECRETARIA DE SALUD PUBLICA",
@@ -326,6 +322,12 @@
   }
  ],
  "pendientes": [
+  {
+   "codigo": "932163-15-COT26",
+   "nombre": "ADQUISICION MAQUINA CHIPEADORA",
+   "organismo": "I MUNICIPALIDAD DE LAGO VERDE",
+   "link": "https://buscador.mercadopublico.cl/ficha?code=932163-15-COT26"
+  },
   {
    "codigo": "418-1393-COT26",
    "nombre": "POR - MAT. ASEO COSAM HPA",

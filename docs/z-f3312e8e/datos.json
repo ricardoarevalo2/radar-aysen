@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-24T08:36:30.859993-03:00",
+ "actualizado": "2026-09-24T09:41:51.474664-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
  "total_region": 271,
@@ -424,6 +424,114 @@
    "sin_detalle": false
   },
   {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "iluminación"
+   ],
+   "nueva": true,
+   "codigo": "3791-967-COT26",
+   "nombre": "AUDIO Y ILUMINACION ",
+   "organismo": "I MUNICIPALIDAD DE CISNES",
+   "unidad": "Finanzas",
+   "monto": 2500000,
+   "cierre_iso": "2026-09-25T07:00:00-03:00",
+   "publicacion": "24-09 06:22",
+   "publicacion_iso": "2026-09-24T06:22:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "80161507",
+     "Servicios Audio Visuales"
+    ],
+    [
+     "80161507",
+     "Servicios Audio Visuales"
+    ],
+    [
+     "80161507",
+     "Servicios Audio Visuales"
+    ],
+    [
+     "80161507",
+     "Servicios Audio Visuales"
+    ],
+    [
+     "80161507",
+     "Servicios Audio Visuales"
+    ],
+    [
+     "80161507",
+     "Servicios Audio Visuales"
+    ],
+    [
+     "80161507",
+     "Servicios Audio Visuales"
+    ],
+    [
+     "80161507",
+     "Servicios Audio Visuales"
+    ],
+    [
+     "80161507",
+     "Servicios Audio Visuales"
+    ],
+    [
+     "80161507",
+     "Servicios Audio Visuales"
+    ],
+    [
+     "80161507",
+     "Servicios Audio Visuales"
+    ],
+    [
+     "80161507",
+     "Servicios Audio Visuales"
+    ],
+    [
+     "80161507",
+     "Servicios Audio Visuales"
+    ],
+    [
+     "80161507",
+     "Servicios Audio Visuales"
+    ],
+    [
+     "80161507",
+     "Servicios Audio Visuales"
+    ],
+    [
+     "80161507",
+     "Servicios Audio Visuales"
+    ],
+    [
+     "80161507",
+     "Servicios Audio Visuales"
+    ],
+    [
+     "80161507",
+     "Servicios Audio Visuales"
+    ],
+    [
+     "80161507",
+     "Servicios Audio Visuales"
+    ],
+    [
+     "80161507",
+     "Servicios Audio Visuales"
+    ],
+    [
+     "80161507",
+     "Servicios Audio Visuales"
+    ],
+    [
+     "80161507",
+     "Servicios Audio Visuales"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=3791-967-COT26",
+   "sin_detalle": false
+  },
+  {
    "tipo": "OPORTUNIDAD",
    "motivos": [
     "Enfriamiento (aires acondicionados)"
@@ -700,6 +808,12 @@
   }
  ],
  "pendientes": [
+  {
+   "codigo": "932163-15-COT26",
+   "nombre": "ADQUISICION MAQUINA CHIPEADORA",
+   "organismo": "I MUNICIPALIDAD DE LAGO VERDE",
+   "link": "https://buscador.mercadopublico.cl/ficha?code=932163-15-COT26"
+  },
   {
    "codigo": "418-1393-COT26",
    "nombre": "POR - MAT. ASEO COSAM HPA",
