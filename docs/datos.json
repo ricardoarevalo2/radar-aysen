@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-09-24T17:37:42.460558-03:00",
+ "actualizado": "2026-09-24T18:34:45.452684-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
- "total_region": 253,
+ "total_region": 248,
  "rubros": {
   "80141600": "Ventas y marketing",
   "82101600": "Publicidad en medios no impresos",
@@ -25,9 +25,9 @@
    "organismo": "I MUNICIPALIDAD RIO IBANEZ",
    "unidad": "DIDECO",
    "monto": 700000,
-   "cierre_iso": "2026-09-25T06:00:00-03:00",
-   "publicacion": "23-09 15:02",
-   "publicacion_iso": "2026-09-23T15:02:00-03:00",
+   "cierre_iso": "2026-09-25T09:00:00-03:00",
+   "publicacion": "23-09 18:02",
+   "publicacion_iso": "2026-09-23T18:02:00-03:00",
    "ofertas": 0,
    "productos": [
     [
@@ -49,9 +49,9 @@
    "organismo": "I MUNICIPALIDAD DE COYHAIQUE",
    "unidad": "DIRECCION DESARROLLO COMUNITARIO",
    "monto": 6000000,
-   "cierre_iso": "2026-09-25T06:00:00-03:00",
-   "publicacion": "23-09 08:14",
-   "publicacion_iso": "2026-09-23T08:14:00-03:00",
+   "cierre_iso": "2026-09-25T09:00:00-03:00",
+   "publicacion": "23-09 11:14",
+   "publicacion_iso": "2026-09-23T11:14:00-03:00",
    "ofertas": 0,
    "productos": [
     [
@@ -74,9 +74,9 @@
    "organismo": "I MUNICIPALIDAD RIO IBANEZ",
    "unidad": "DIDECO",
    "monto": 990465,
-   "cierre_iso": "2026-09-25T07:00:00-03:00",
-   "publicacion": "23-09 13:45",
-   "publicacion_iso": "2026-09-23T13:45:00-03:00",
+   "cierre_iso": "2026-09-25T10:00:00-03:00",
+   "publicacion": "23-09 16:45",
+   "publicacion_iso": "2026-09-23T16:45:00-03:00",
    "ofertas": 0,
    "productos": [
     [
@@ -98,9 +98,9 @@
    "organismo": "I MUNICIPALIDAD RIO IBANEZ",
    "unidad": "DIDECO",
    "monto": 1500000,
-   "cierre_iso": "2026-09-25T07:00:00-03:00",
-   "publicacion": "23-09 13:28",
-   "publicacion_iso": "2026-09-23T13:28:00-03:00",
+   "cierre_iso": "2026-09-25T10:00:00-03:00",
+   "publicacion": "23-09 16:28",
+   "publicacion_iso": "2026-09-23T16:28:00-03:00",
    "ofertas": 0,
    "productos": [
     [
@@ -122,9 +122,9 @@
    "organismo": "I MUNICIPALIDAD RIO IBANEZ",
    "unidad": "DIDECO",
    "monto": 1296000,
-   "cierre_iso": "2026-09-25T07:00:00-03:00",
-   "publicacion": "23-09 13:24",
-   "publicacion_iso": "2026-09-23T13:24:00-03:00",
+   "cierre_iso": "2026-09-25T10:00:00-03:00",
+   "publicacion": "23-09 16:24",
+   "publicacion_iso": "2026-09-23T16:24:00-03:00",
    "ofertas": 0,
    "productos": [
     [
@@ -146,9 +146,9 @@
    "organismo": "I MUNICIPALIDAD RIO IBANEZ",
    "unidad": "DIDECO",
    "monto": 1200000,
-   "cierre_iso": "2026-09-25T07:00:00-03:00",
-   "publicacion": "23-09 13:20",
-   "publicacion_iso": "2026-09-23T13:20:00-03:00",
+   "cierre_iso": "2026-09-25T10:00:00-03:00",
+   "publicacion": "23-09 16:20",
+   "publicacion_iso": "2026-09-23T16:20:00-03:00",
    "ofertas": 0,
    "productos": [
     [
@@ -170,9 +170,9 @@
    "organismo": "DIRECCION SALUD RURAL",
    "unidad": "Dirección de Salud Rural",
    "monto": 50000,
-   "cierre_iso": "2026-09-25T09:30:00-03:00",
-   "publicacion": "24-09 08:57",
-   "publicacion_iso": "2026-09-24T08:57:00-03:00",
+   "cierre_iso": "2026-09-25T12:30:00-03:00",
+   "publicacion": "24-09 11:57",
+   "publicacion_iso": "2026-09-24T11:57:00-03:00",
    "ofertas": 0,
    "productos": [
     [
@@ -194,9 +194,9 @@
    "organismo": "SUBSECRETARIA DE SALUD PUBLICA",
    "unidad": "Seremi de Salud XI Región",
    "monto": 3000000,
-   "cierre_iso": "2026-09-25T10:00:00-03:00",
-   "publicacion": "23-09 05:53",
-   "publicacion_iso": "2026-09-23T05:53:00-03:00",
+   "cierre_iso": "2026-09-25T13:00:00-03:00",
+   "publicacion": "23-09 08:53",
+   "publicacion_iso": "2026-09-23T08:53:00-03:00",
    "ofertas": 0,
    "productos": [
     [
@@ -218,9 +218,9 @@
    "organismo": "Dirección Regional de Gendarmeria - Coyhaique",
    "unidad": "Región de Aysén",
    "monto": 3500000,
-   "cierre_iso": "2026-09-25T14:30:00-03:00",
-   "publicacion": "24-09 14:20",
-   "publicacion_iso": "2026-09-24T14:20:00-03:00",
+   "cierre_iso": "2026-09-25T17:30:00-03:00",
+   "publicacion": "24-09 17:20",
+   "publicacion_iso": "2026-09-24T17:20:00-03:00",
    "ofertas": 0,
    "productos": [
     [
@@ -242,9 +242,9 @@
    "organismo": "UNIVERSIDAD DE AYSEN",
    "unidad": "Proyectos",
    "monto": 730000,
-   "cierre_iso": "2026-09-28T05:00:00-03:00",
-   "publicacion": "24-09 12:56",
-   "publicacion_iso": "2026-09-24T12:56:00-03:00",
+   "cierre_iso": "2026-09-28T08:00:00-03:00",
+   "publicacion": "24-09 15:56",
+   "publicacion_iso": "2026-09-24T15:56:00-03:00",
    "ofertas": 0,
    "productos": [
     [
@@ -270,9 +270,9 @@
    "organismo": "I MUNICIPALIDAD DE AYSEN",
    "unidad": "I.MUNICIPALIDAD AYSEN-ADQUISICIONES",
    "monto": 4376140,
-   "cierre_iso": "2026-09-28T06:01:00-03:00",
-   "publicacion": "23-09 06:17",
-   "publicacion_iso": "2026-09-23T06:17:00-03:00",
+   "cierre_iso": "2026-09-28T09:01:00-03:00",
+   "publicacion": "23-09 09:17",
+   "publicacion_iso": "2026-09-23T09:17:00-03:00",
    "ofertas": 1,
    "productos": [
     [

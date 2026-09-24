@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-09-24T17:37:42.460558-03:00",
+ "actualizado": "2026-09-24T18:34:45.452684-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
- "total_region": 253,
+ "total_region": 248,
  "rubros": {
   "25172700": "Aire acondicionado",
   "25173900": "Componentes eléctricos",
@@ -20,38 +20,6 @@
  },
  "filas": [
   {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Interruptores, controles y relés"
-   ],
-   "nueva": true,
-   "codigo": "3171-143-COT26",
-   "nombre": "ADQUISICIÓN DE INTERRUPTORES DE BATERIA, RELES ACR Y FUSIBLES 60 AMP PARA LPM ARCANGEL 4409",
-   "organismo": "GOBERNACION MARITIMA DE AYSEN",
-   "unidad": "GOBERNACION MARITIMA DE AYSEN",
-   "monto": 2173333,
-   "cierre_iso": "2026-09-24T15:30:00-03:00",
-   "publicacion": "23-09 15:13",
-   "publicacion_iso": "2026-09-23T15:13:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "39121501",
-     "Interruptores de seguridad"
-    ],
-    [
-     "39121520",
-     "Relés de sobrecarga"
-    ],
-    [
-     "44103004",
-     "Fusibles"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=3171-143-COT26",
-   "sin_detalle": false
-  },
-  {
    "tipo": "POSIBLE",
    "motivos": [
     "certificación sec",
@@ -63,9 +31,9 @@
    "organismo": "UNIVERSIDAD DE AYSEN",
    "unidad": "Universidad de Aysen",
    "monto": 360000,
-   "cierre_iso": "2026-09-25T05:30:00-03:00",
-   "publicacion": "23-09 14:18",
-   "publicacion_iso": "2026-09-23T14:18:00-03:00",
+   "cierre_iso": "2026-09-25T08:30:00-03:00",
+   "publicacion": "23-09 17:18",
+   "publicacion_iso": "2026-09-23T17:18:00-03:00",
    "ofertas": 0,
    "productos": [
     [
@@ -89,9 +57,9 @@
    "organismo": "Ejercito de Chile",
    "unidad": "Centro Clínico Militar Coyhaique",
    "monto": 340000,
-   "cierre_iso": "2026-09-25T06:00:00-03:00",
-   "publicacion": "23-09 13:36",
-   "publicacion_iso": "2026-09-23T13:36:00-03:00",
+   "cierre_iso": "2026-09-25T09:00:00-03:00",
+   "publicacion": "23-09 16:36",
+   "publicacion_iso": "2026-09-23T16:36:00-03:00",
    "ofertas": 0,
    "productos": [
     [
@@ -157,9 +125,9 @@
    "organismo": "I MUNICIPALIDAD DE CISNES",
    "unidad": "Finanzas",
    "monto": 2500000,
-   "cierre_iso": "2026-09-25T07:00:00-03:00",
-   "publicacion": "24-09 06:22",
-   "publicacion_iso": "2026-09-24T06:22:00-03:00",
+   "cierre_iso": "2026-09-25T10:00:00-03:00",
+   "publicacion": "24-09 09:22",
+   "publicacion_iso": "2026-09-24T09:22:00-03:00",
    "ofertas": 0,
    "productos": [
     [
@@ -265,9 +233,9 @@
    "organismo": "MINISTERIO DE OBRAS PUBLICAS DIREC CION GRAL DE OO PP DCYF",
    "unidad": "Dirección de Aeropuertos - XI Región",
    "monto": 210000,
-   "cierre_iso": "2026-09-25T08:00:00-03:00",
-   "publicacion": "24-09 07:41",
-   "publicacion_iso": "2026-09-24T07:41:00-03:00",
+   "cierre_iso": "2026-09-25T11:00:00-03:00",
+   "publicacion": "24-09 10:41",
+   "publicacion_iso": "2026-09-24T10:41:00-03:00",
    "ofertas": 0,
    "productos": [
     [
@@ -291,9 +259,9 @@
    "organismo": "CONSULTORIO GENERAL URBANO DR ALEJANDRO GUTIERREZ",
    "unidad": "ID 3949 - CESFAM Dr Alejandro Gutiérrez",
    "monto": 2600000,
-   "cierre_iso": "2026-09-25T09:15:00-03:00",
-   "publicacion": "24-09 08:58",
-   "publicacion_iso": "2026-09-24T08:58:00-03:00",
+   "cierre_iso": "2026-09-25T12:15:00-03:00",
+   "publicacion": "24-09 11:58",
+   "publicacion_iso": "2026-09-24T11:58:00-03:00",
    "ofertas": 0,
    "productos": [
     [
@@ -331,9 +299,9 @@
    "organismo": "SERVICIO NACIONAL DE SALUD HOSPITAL DE PUERTO AYSEN",
    "unidad": "H Puerto Aysén",
    "monto": 1700000,
-   "cierre_iso": "2026-09-25T10:00:00-03:00",
-   "publicacion": "23-09 12:55",
-   "publicacion_iso": "2026-09-23T12:55:00-03:00",
+   "cierre_iso": "2026-09-25T13:00:00-03:00",
+   "publicacion": "23-09 15:55",
+   "publicacion_iso": "2026-09-23T15:55:00-03:00",
    "ofertas": 0,
    "productos": [
     [
@@ -355,9 +323,9 @@
    "organismo": "JEFATURA ADMINISTRATIVA Y LOGISTICA DE LA GUARNICION COYHAIQUE",
    "unidad": "JAL - Guarnición \"Coyhaique\"",
    "monto": 570000,
-   "cierre_iso": "2026-09-25T10:41:00-03:00",
-   "publicacion": "21-09 12:18",
-   "publicacion_iso": "2026-09-21T12:18:00-03:00",
+   "cierre_iso": "2026-09-25T13:41:00-03:00",
+   "publicacion": "21-09 15:18",
+   "publicacion_iso": "2026-09-21T15:18:00-03:00",
    "ofertas": 0,
    "productos": [
     [
@@ -379,9 +347,9 @@
    "organismo": "CORP NACIONAL FORESTAL",
    "unidad": "XI Región - Oficina Provincial Aysen",
    "monto": 1200000,
-   "cierre_iso": "2026-09-25T11:30:00-03:00",
-   "publicacion": "24-09 08:26",
-   "publicacion_iso": "2026-09-24T08:26:00-03:00",
+   "cierre_iso": "2026-09-25T14:30:00-03:00",
+   "publicacion": "24-09 11:26",
+   "publicacion_iso": "2026-09-24T11:26:00-03:00",
    "ofertas": 0,
    "productos": [
     [
@@ -406,9 +374,9 @@
    "organismo": "SERVICIO AGRICOLA Y GANADERO",
    "unidad": "SAG - Aysen",
    "monto": 2200000,
-   "cierre_iso": "2026-09-25T12:00:00-03:00",
-   "publicacion": "22-09 10:35",
-   "publicacion_iso": "2026-09-22T10:35:00-03:00",
+   "cierre_iso": "2026-09-25T15:00:00-03:00",
+   "publicacion": "22-09 13:35",
+   "publicacion_iso": "2026-09-22T13:35:00-03:00",
    "ofertas": 0,
    "productos": [
     [
@@ -430,9 +398,9 @@
    "organismo": "DIRECCION DEL TRABAJO",
    "unidad": "Dirección del Trabajo XI Región Aysén",
    "monto": 1500000,
-   "cierre_iso": "2026-09-25T12:00:00-03:00",
-   "publicacion": "22-09 08:58",
-   "publicacion_iso": "2026-09-22T08:58:00-03:00",
+   "cierre_iso": "2026-09-25T15:00:00-03:00",
+   "publicacion": "22-09 11:58",
+   "publicacion_iso": "2026-09-22T11:58:00-03:00",
    "ofertas": 0,
    "productos": [
     [
@@ -454,9 +422,9 @@
    "organismo": "I MUNICIPALIDAD DE AYSEN",
    "unidad": "I.MUNICIPALIDAD AYSEN-ADQUISICIONES",
    "monto": 700000,
-   "cierre_iso": "2026-09-25T13:00:00-03:00",
-   "publicacion": "24-09 12:59",
-   "publicacion_iso": "2026-09-24T12:59:00-03:00",
+   "cierre_iso": "2026-09-25T16:00:00-03:00",
+   "publicacion": "24-09 15:59",
+   "publicacion_iso": "2026-09-24T15:59:00-03:00",
    "ofertas": 0,
    "productos": [
     [
@@ -478,9 +446,9 @@
    "organismo": "CONSULTORIO GENERAL URBANO DR ALEJANDRO GUTIERREZ",
    "unidad": "ID 3949 - CESFAM Dr Alejandro Gutiérrez",
    "monto": 980000,
-   "cierre_iso": "2026-09-25T13:10:00-03:00",
-   "publicacion": "24-09 13:07",
-   "publicacion_iso": "2026-09-24T13:07:00-03:00",
+   "cierre_iso": "2026-09-25T16:10:00-03:00",
+   "publicacion": "24-09 16:07",
+   "publicacion_iso": "2026-09-24T16:07:00-03:00",
    "ofertas": 0,
    "productos": [
     [
@@ -526,9 +494,9 @@
    "organismo": "JEFATURA ADMINISTRATIVA Y LOGISTICA DE LA GUARNICION COYHAIQUE",
    "unidad": "JAL - Guarnición \"Coyhaique\"",
    "monto": 1620104,
-   "cierre_iso": "2026-09-25T13:51:00-03:00",
-   "publicacion": "04-09 07:07",
-   "publicacion_iso": "2026-09-04T07:07:00-03:00",
+   "cierre_iso": "2026-09-25T16:51:00-03:00",
+   "publicacion": "04-09 10:07",
+   "publicacion_iso": "2026-09-04T10:07:00-04:00",
    "ofertas": 1,
    "productos": [
     [
@@ -586,9 +554,9 @@
    "organismo": "Dirección Regional de Gendarmeria - Coyhaique",
    "unidad": "Región de Aysén",
    "monto": 1000000,
-   "cierre_iso": "2026-09-25T15:30:00-03:00",
-   "publicacion": "22-09 09:11",
-   "publicacion_iso": "2026-09-22T09:11:00-03:00",
+   "cierre_iso": "2026-09-25T18:30:00-03:00",
+   "publicacion": "22-09 12:11",
+   "publicacion_iso": "2026-09-22T12:11:00-03:00",
    "ofertas": 2,
    "productos": [
     [
@@ -614,9 +582,9 @@
    "organismo": "I MUNICIPALIDAD DE COYHAIQUE",
    "unidad": "DIRECCION DESARROLLO COMUNITARIO",
    "monto": 200000,
-   "cierre_iso": "2026-09-26T06:20:00-03:00",
-   "publicacion": "14-09 07:39",
-   "publicacion_iso": "2026-09-14T07:39:00-03:00",
+   "cierre_iso": "2026-09-26T09:20:00-03:00",
+   "publicacion": "14-09 10:39",
+   "publicacion_iso": "2026-09-14T10:39:00-03:00",
    "ofertas": 0,
    "productos": [
     [
@@ -638,9 +606,9 @@
    "organismo": "INSTITUTO NACIONAL DE DEPORTES DE CHILE",
    "unidad": "I.N.D. REGION XI",
    "monto": 4000000,
-   "cierre_iso": "2026-09-26T13:00:00-03:00",
-   "publicacion": "22-09 06:02",
-   "publicacion_iso": "2026-09-22T06:02:00-03:00",
+   "cierre_iso": "2026-09-26T16:00:00-03:00",
+   "publicacion": "22-09 09:02",
+   "publicacion_iso": "2026-09-22T09:02:00-03:00",
    "ofertas": 0,
    "productos": [
     [
@@ -666,9 +634,9 @@
    "organismo": "SERVICIO NACIONAL DE SALUD HOSPITAL DE C",
    "unidad": "Compras de Insumos y Servicios Generales",
    "monto": 380109,
-   "cierre_iso": "2026-09-27T02:18:00-03:00",
-   "publicacion": "15-09 13:31",
-   "publicacion_iso": "2026-09-15T13:31:00-03:00",
+   "cierre_iso": "2026-09-27T05:18:00-03:00",
+   "publicacion": "15-09 16:31",
+   "publicacion_iso": "2026-09-15T16:31:00-03:00",
    "ofertas": 1,
    "productos": [
     [
@@ -730,9 +698,9 @@
    "organismo": "SERVICIO NACIONAL DE SALUD HOSPITAL DE PUERTO AYSEN",
    "unidad": "H Puerto Aysén",
    "monto": 3500000,
-   "cierre_iso": "2026-09-30T05:00:00-03:00",
-   "publicacion": "24-09 11:57",
-   "publicacion_iso": "2026-09-24T11:57:00-03:00",
+   "cierre_iso": "2026-09-30T08:00:00-03:00",
+   "publicacion": "24-09 14:57",
+   "publicacion_iso": "2026-09-24T14:57:00-03:00",
    "ofertas": 0,
    "productos": [
     [
