@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-09-24T09:41:51.474664-03:00",
+ "actualizado": "2026-09-24T10:38:19.116842-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
- "total_region": 271,
+ "total_region": 253,
  "rubros": {
   "25172700": "Aire acondicionado",
   "25173900": "Componentes eléctricos",
@@ -19,90 +19,6 @@
   "39121400": "Conectores, enchufes y terminales"
  },
  "filas": [
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "aire acondicionado"
-   ],
-   "nueva": false,
-   "codigo": "711-176-COT26",
-   "nombre": "PROCESO DE COMPRA ÁGIL PARA SERVICIO DE TRASLADO DE EQUIPOS DE AIRE ACONDICIONADO TIPO SPLIT A SEREMITT DE LA REGION DE AYSÉN",
-   "organismo": "SUBSECRETARIA DE TRANSPORTES",
-   "unidad": "SUBSECRETARÍA DE TRANSPORTES",
-   "monto": 2000000,
-   "cierre_iso": "2026-09-24T07:00:00-03:00",
-   "publicacion": "16-09 12:21",
-   "publicacion_iso": "2026-09-16T12:21:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "90121503",
-     "Servicio de fletes"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=711-176-COT26",
-   "sin_detalle": false
-  },
-  {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Conectores, enchufes y terminales"
-   ],
-   "nueva": false,
-   "codigo": "1403-387-COT26",
-   "nombre": "COMPRA DE MATERIALES COMEDORES CONDENADOS CDP PTO AYSEN",
-   "organismo": "Dirección Regional de Gendarmeria - Coyhaique",
-   "unidad": "Región de Aysén",
-   "monto": 690000,
-   "cierre_iso": "2026-09-24T07:10:00-03:00",
-   "publicacion": "22-09 14:10",
-   "publicacion_iso": "2026-09-22T14:10:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "30103604",
-     "Revestimiento o láminas de madera"
-    ],
-    [
-     "30101501",
-     "Ángulos de aleación ferrosa"
-    ],
-    [
-     "31111506",
-     "Extrusiones de perfiles de aleación ferrosa"
-    ],
-    [
-     "39121436",
-     "Electrodos"
-    ],
-    [
-     "31191506",
-     "Discos abrasivos"
-    ],
-    [
-     "15121802",
-     "Lubricantes anticorrosivos"
-    ],
-    [
-     "31161601",
-     "Pernos de anclaje"
-    ],
-    [
-     "31161511",
-     "Tornillos de apriete"
-    ],
-    [
-     "31191506",
-     "Discos abrasivos"
-    ],
-    [
-     "27112801",
-     "Brocas"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1403-387-COT26",
-   "sin_detalle": false
-  },
   {
    "tipo": "POSIBLE",
    "motivos": [
@@ -133,7 +49,7 @@
    "motivos": [
     "Conectores, enchufes y terminales"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "1043-39-COT26",
    "nombre": "Solicitud de cotización materiales para trabajos aeródromo Lago Verde",
    "organismo": "MINISTERIO DE OBRAS PUBLICAS DIREC CION GRAL DE OO PP DCYF",

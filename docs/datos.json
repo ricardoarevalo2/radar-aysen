@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-09-24T09:41:51.474664-03:00",
+ "actualizado": "2026-09-24T10:38:19.116842-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
- "total_region": 271,
+ "total_region": 253,
  "rubros": {
   "80141600": "Ventas y marketing",
   "82101600": "Publicidad en medios no impresos",
@@ -14,94 +14,6 @@
   "83121700": "Comunicación social y de masas"
  },
  "filas": [
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "radio"
-   ],
-   "nueva": false,
-   "codigo": "2713-1154-COT26",
-   "nombre": "EQUIPAMIENTO PARA RADIO FM. SOLICITUD 1188 ALCALDIA.",
-   "organismo": "I MUNICIPALIDAD DE AYSEN",
-   "unidad": "I.MUNICIPALIDAD AYSEN-ADQUISICIONES",
-   "monto": 4376140,
-   "cierre_iso": "2026-09-24T07:01:00-03:00",
-   "publicacion": "23-09 06:17",
-   "publicacion_iso": "2026-09-23T06:17:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "43201539",
-     "Unidad central de controlador de consola"
-    ],
-    [
-     "43201503",
-     "Procesadores o unidad central de procesamiento (CPU)"
-    ],
-    [
-     "52161520",
-     "Micrófonos"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=2713-1154-COT26",
-   "sin_detalle": false
-  },
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "radio"
-   ],
-   "nueva": false,
-   "codigo": "2713-1154-COT26",
-   "nombre": "EQUIPAMIENTO PARA RADIO FM. SOLICITUD 1188 ALCALDIA.",
-   "organismo": "I MUNICIPALIDAD DE AYSEN",
-   "unidad": "I.MUNICIPALIDAD AYSEN-ADQUISICIONES",
-   "monto": 4376140,
-   "cierre_iso": "2026-09-24T07:01:00-03:00",
-   "publicacion": "23-09 06:17",
-   "publicacion_iso": "2026-09-23T06:17:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "43201539",
-     "Unidad central de controlador de consola"
-    ],
-    [
-     "43201503",
-     "Procesadores o unidad central de procesamiento (CPU)"
-    ],
-    [
-     "52161520",
-     "Micrófonos"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=2713-1154-COT26",
-   "sin_detalle": false
-  },
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "audiovisual"
-   ],
-   "nueva": true,
-   "codigo": "1057062-418-COT26",
-   "nombre": "Servicios de Producción Audiovisual - Videos Institucionales Red 22992",
-   "organismo": "UNIVERSIDAD DE AYSEN",
-   "unidad": "Proyectos",
-   "monto": 7100000,
-   "cierre_iso": "2026-09-24T07:30:00-03:00",
-   "publicacion": "23-09 07:11",
-   "publicacion_iso": "2026-09-23T07:11:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "80161507",
-     "Servicios Audio Visuales"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1057062-418-COT26",
-   "sin_detalle": false
-  },
   {
    "tipo": "POSIBLE",
    "motivos": [
