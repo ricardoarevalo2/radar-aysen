@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-09-24T16:34:23.247283-03:00",
+ "actualizado": "2026-09-24T17:37:42.460558-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
- "total_region": 255,
+ "total_region": 253,
  "rubros": {
   "80141600": "Ventas y marketing",
   "82101600": "Publicidad en medios no impresos",
@@ -68,7 +68,7 @@
     "difusión",
     "publicidad"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "4066-394-COT26",
    "nombre": " SERVICIO DE PUBLICACIÓN DE NOTA DE PRENSA INSTITUCIONAL EN MEDIO DE COMUNICACIÓN REGIONAL",
    "organismo": "I MUNICIPALIDAD RIO IBANEZ",
@@ -92,7 +92,7 @@
    "motivos": [
     "Inserciones publicitarias en medios"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "4066-393-COT26",
    "nombre": "SERVICIO DE DIFUSION EN REDES SOCIALES DIGITALES DE LAS ACTIVIDADES DEL PROGRAMA DE TRANSFERENCIA DE FORTALECIMIENTO PRODUCTIVO PARA LA COMUNA DE RÍO IBAÑEZ CODIGO BIP 40066883-0",
    "organismo": "I MUNICIPALIDAD RIO IBANEZ",
@@ -116,7 +116,7 @@
    "motivos": [
     "Publicidad en medios no impresos"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "4066-392-COT26",
    "nombre": "SERV. DE DIFUSION A TRAVES RADIAL DEL PROGRAMA TRANSFERENCIA DE FORTALECIMIENTO PRODUCTIVO PARA LA COMUNA DE RIO IBAÑEZ CODIGO BIP 40066883-0",
    "organismo": "I MUNICIPALIDAD RIO IBANEZ",
@@ -140,7 +140,7 @@
    "motivos": [
     "Publicidad en medios no impresos"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "4066-391-COT26",
    "nombre": "SERVICIO  DE DIFUSION TELEVISIVA COMPONENTE DE COMUNICACION Y DIFUSION DEL PROGRAMA TRANSFERENCIA DE FORTALECIMIENTO PROCUTIVO PARA LA COMUNA DE RIO IBÁÑEZ CODIGO BIP 40066883-0",
    "organismo": "I MUNICIPALIDAD RIO IBANEZ",
@@ -205,6 +205,30 @@
     ]
    ],
    "link": "https://buscador.mercadopublico.cl/ficha?code=1746-224-COT26",
+   "sin_detalle": false
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "radio"
+   ],
+   "nueva": true,
+   "codigo": "1403-391-COT26",
+   "nombre": "ADQ. SERV. TRASLADO LACTANTE DESDE EL CCP A JARDIN INFANTIL ",
+   "organismo": "Dirección Regional de Gendarmeria - Coyhaique",
+   "unidad": "Región de Aysén",
+   "monto": 3500000,
+   "cierre_iso": "2026-09-25T14:30:00-03:00",
+   "publicacion": "24-09 14:20",
+   "publicacion_iso": "2026-09-24T14:20:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "78111804",
+     "Servicios de taxi"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1403-391-COT26",
    "sin_detalle": false
   },
   {

@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-09-24T16:34:23.247283-03:00",
+ "actualizado": "2026-09-24T17:37:42.460558-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
- "total_region": 255,
+ "total_region": 253,
  "rubros": {
   "25172700": "Aire acondicionado",
   "25173900": "Componentes eléctricos",
@@ -19,90 +19,6 @@
   "39121400": "Conectores, enchufes y terminales"
  },
  "filas": [
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "electricidad",
-    "eléctrico",
-    "eléctricos",
-    "instalaciones eléctricas",
-    "servicios eléctricos"
-   ],
-   "nueva": true,
-   "codigo": "1195-496-COT26",
-   "nombre": "Servicios Eléctricos ",
-   "organismo": "I MUNICIPALIDAD DE COYHAIQUE",
-   "unidad": "Ilustre Municipalidad de Coyhaique",
-   "monto": 3000000,
-   "cierre_iso": "2026-09-24T14:00:00-03:00",
-   "publicacion": "23-09 13:08",
-   "publicacion_iso": "2026-09-23T13:08:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "81101701",
-     "Ingeniería eléctrica"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1195-496-COT26",
-   "sin_detalle": false
-  },
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "instalación eléctrica"
-   ],
-   "nueva": false,
-   "codigo": "1343645-108-COT26",
-   "nombre": "Instalación Estufas a Pellet ",
-   "organismo": "I MUNICIPALIDAD DE O HIGGINS",
-   "unidad": "SECPLAN",
-   "monto": 1500000,
-   "cierre_iso": "2026-09-24T14:00:00-03:00",
-   "publicacion": "14-09 09:22",
-   "publicacion_iso": "2026-09-14T09:22:00-03:00",
-   "ofertas": 1,
-   "productos": [
-    [
-     "80111613",
-     "Mano de obra temporal"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1343645-108-COT26",
-   "sin_detalle": false
-  },
-  {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Enfriamiento (aires acondicionados)"
-   ],
-   "nueva": true,
-   "codigo": "418-1409-COT26",
-   "nombre": "ENFRIADOR DE AIRE CLIMATIZADOR PORTATIL, VENTILADOR Y CALEFACTOR ",
-   "organismo": "SERVICIO NACIONAL DE SALUD HOSPITAL DE PUERTO AYSEN",
-   "unidad": "H Puerto Aysén",
-   "monto": 700000,
-   "cierre_iso": "2026-09-24T14:19:00-03:00",
-   "publicacion": "23-09 14:17",
-   "publicacion_iso": "2026-09-23T14:17:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "40101701",
-     "Aires acondicionados"
-    ],
-    [
-     "52141510",
-     "Ventiladores"
-    ],
-    [
-     "52141510",
-     "Ventiladores"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=418-1409-COT26",
-   "sin_detalle": false
-  },
   {
    "tipo": "OPORTUNIDAD",
    "motivos": [
@@ -141,7 +57,7 @@
     "certificación sec",
     "eléctrico"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "886182-202-COT26",
    "nombre": "Adquisición de 2 estufas de calefacción eléctrica_FISABS 2225",
    "organismo": "UNIVERSIDAD DE AYSEN",
@@ -167,7 +83,7 @@
     "Cajas y accesorios eléctricos",
     "Conectores, enchufes y terminales"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "5019-55-COT26",
    "nombre": "Adquisición de Elementos de Construcción",
    "organismo": "Ejercito de Chile",
@@ -409,7 +325,7 @@
    "motivos": [
     "Enfriamiento (aires acondicionados)"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "418-1407-COT26",
    "nombre": "COHM-SERVICIO DE SUMINISTRO Y INSTALACION DE EQUIPOS SPLIT MURO INVERTER R32 ECO FLOW 18.000 BTU ",
    "organismo": "SERVICIO NACIONAL DE SALUD HOSPITAL DE PUERTO AYSEN",
@@ -657,6 +573,34 @@
     ]
    ],
    "link": "https://buscador.mercadopublico.cl/ficha?code=951405-240-COT26",
+   "sin_detalle": false
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "iluminación"
+   ],
+   "nueva": true,
+   "codigo": "1403-385-COT26",
+   "nombre": "COMPRA DE EQUIPOS ODONTOLIGICOS PARA POLICLINICO REGIONAL DEL PERSONAL",
+   "organismo": "Dirección Regional de Gendarmeria - Coyhaique",
+   "unidad": "Región de Aysén",
+   "monto": 1000000,
+   "cierre_iso": "2026-09-25T15:30:00-03:00",
+   "publicacion": "22-09 09:11",
+   "publicacion_iso": "2026-09-22T09:11:00-03:00",
+   "ofertas": 2,
+   "productos": [
+    [
+     "42172015",
+     "Kits de tratamiento odontológico para los servicios médicos de urgencias"
+    ],
+    [
+     "42172015",
+     "Kits de tratamiento odontológico para los servicios médicos de urgencias"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1403-385-COT26",
    "sin_detalle": false
   },
   {
