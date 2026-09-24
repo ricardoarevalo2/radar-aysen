@@ -1,6 +1,6 @@
 {
- "actualizado": "2026-09-23T19:42:53.193051-03:00",
- "empresa": "Radio Santa María",
+ "actualizado": "2026-09-23T22:43:45.853543-03:00",
+ "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
  "total_region": 274,
  "rubros": {
@@ -19,7 +19,7 @@
    "motivos": [
     "radio"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "734-163-COT26",
    "nombre": "servicio de transporte de funcionarios del COSAM Coyhaique durante el mes de octubre de 2026",
    "organismo": "SERVICIO DE SALUD AYSEN CARLOS IBANEZ DEL CAMPO",
