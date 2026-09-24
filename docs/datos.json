@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-09-23T23:27:46.959798-03:00",
+ "actualizado": "2026-09-24T06:37:08.691225-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
- "total_region": 274,
+ "total_region": 272,
  "rubros": {
   "80141600": "Ventas y marketing",
   "82101600": "Publicidad en medios no impresos",
@@ -14,30 +14,6 @@
   "83121700": "Comunicación social y de masas"
  },
  "filas": [
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "radio"
-   ],
-   "nueva": false,
-   "codigo": "734-163-COT26",
-   "nombre": "servicio de transporte de funcionarios del COSAM Coyhaique durante el mes de octubre de 2026",
-   "organismo": "SERVICIO DE SALUD AYSEN CARLOS IBANEZ DEL CAMPO",
-   "unidad": "DIRECCION",
-   "monto": 3400000,
-   "cierre_iso": "2026-09-24T00:00:00-03:00",
-   "publicacion": "22-09 13:36",
-   "publicacion_iso": "2026-09-22T13:36:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "20102301",
-     "Transportes de personal"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=734-163-COT26",
-   "sin_detalle": false
-  },
   {
    "tipo": "POSIBLE",
    "motivos": [
