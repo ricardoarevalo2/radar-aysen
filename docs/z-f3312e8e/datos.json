@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-24T18:34:45.452684-03:00",
+ "actualizado": "2026-09-24T19:34:43.114908-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
  "total_region": 248,
@@ -569,6 +569,30 @@
     ]
    ],
    "link": "https://buscador.mercadopublico.cl/ficha?code=1403-385-COT26",
+   "sin_detalle": false
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "grupo electrógeno"
+   ],
+   "nueva": true,
+   "codigo": "657-81-COT26",
+   "nombre": "SERVICIO DE MANTENCION PREVENTIVA CORRECTIVA GRUPO ELECTROGENO DE ENERGIA",
+   "organismo": "SERVICIO DE VIVIENDA Y URBANIZACION XI REGION",
+   "unidad": "SERVIU XI REGION",
+   "monto": 1000000,
+   "cierre_iso": "2026-09-25T19:10:00-03:00",
+   "publicacion": "24-09 18:51",
+   "publicacion_iso": "2026-09-24T18:51:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "26111601",
+     "Generadores diesel"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=657-81-COT26",
    "sin_detalle": false
   },
   {

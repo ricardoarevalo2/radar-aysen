@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-24T18:34:45.452684-03:00",
+ "actualizado": "2026-09-24T19:34:43.114908-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
  "total_region": 248,
@@ -19,7 +19,7 @@
    "motivos": [
     "streaming"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "4066-395-COT26",
    "nombre": "Servicio de streaming para transmitir el Festival Comunal Online de Talentos Artísticos para Personas Mayores",
    "organismo": "I MUNICIPALIDAD RIO IBANEZ",
