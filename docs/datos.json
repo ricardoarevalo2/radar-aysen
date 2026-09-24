@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-09-24T14:34:41.376190-03:00",
+ "actualizado": "2026-09-24T15:38:46.115411-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
- "total_region": 259,
+ "total_region": 250,
  "rubros": {
   "80141600": "Ventas y marketing",
   "82101600": "Publicidad en medios no impresos",
@@ -14,30 +14,6 @@
   "83121700": "Comunicación social y de masas"
  },
  "filas": [
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "publicitarios"
-   ],
-   "nueva": false,
-   "codigo": "1405-32-COT26",
-   "nombre": "Adquisición pendón TIPO ARAÑA GET",
-   "organismo": "DELEGACIÓN PRESIDENCIAL PROVINCIAL DE CAPITÁN PRAT",
-   "unidad": "DELEGACIÓN PRESIDENCIAL PROVINCIAL DE CAPITÁN PRAT",
-   "monto": 84000,
-   "cierre_iso": "2026-09-24T12:00:00-03:00",
-   "publicacion": "22-09 06:51",
-   "publicacion_iso": "2026-09-22T06:51:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "82101501",
-     "Letreros publicitarios"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1405-32-COT26",
-   "sin_detalle": false
-  },
   {
    "tipo": "POSIBLE",
    "motivos": [

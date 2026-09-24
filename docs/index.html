@@ -340,6 +340,15 @@
       transform: translateY(-1px);
     }
     .deal-card.done { opacity: 0.35; filter: grayscale(0.7); }
+    .deal-card.unseen { border-color: var(--accent-blue); box-shadow: inset 3px 0 0 var(--accent-blue), 0 0 0 1px var(--accent-blue-soft); }
+    .badge-pill.unseen { background: var(--accent-blue-soft); color: var(--accent-blue); border: 1px solid var(--accent-blue); }
+    .visit-banner { display: flex; align-items: center; gap: 10px; flex-wrap: wrap; margin: 0 0 16px; padding: 12px 16px; border-radius: var(--radius); border: 1px solid var(--border); background: var(--surface); color: var(--text-secondary); font-size: 14px; }
+    .visit-banner b { color: var(--text-solid); }
+    .visit-banner.hay { border-color: var(--accent-blue); background: var(--accent-blue-soft); color: var(--text-main); }
+    .visit-banner .dot { width: 9px; height: 9px; border-radius: 50%; background: var(--text-muted); flex: none; }
+    .visit-banner.hay .dot { background: var(--accent-blue); box-shadow: 0 0 8px var(--accent-blue); }
+    .visit-banner button { margin-left: auto; background: none; border: 1px solid var(--border); color: var(--text-secondary); border-radius: var(--radius-sm); padding: 4px 10px; font: inherit; font-size: 12.5px; cursor: pointer; }
+    .visit-banner button:hover { color: var(--text-solid); border-color: var(--accent-blue); }
 
     /* Reloj / Temporizador */
     .deal-timer {
@@ -653,6 +662,8 @@
     </div>
   </section>
 
+  <div class="visit-banner" id="visita" hidden></div>
+
   <!-- Filtros -->
   <div class="filter-shelf">
     <div class="search-field">
@@ -693,7 +704,7 @@
   </footer>
 </div>
 
-<script type="application/json" id="datos">{"actualizado": "2026-09-24T14:34:41.376190-03:00", "empresa": "Santa María Radio y TV", "region": "Región de Aysén", "total_region": 259, "rubros": {"80141600": "Ventas y marketing", "82101600": "Publicidad en medios no impresos", "82101800": "Agencias de publicidad", "82101900": "Inserciones publicitarias en medios", "82131600": "Fotógrafos y camarógrafos", "83111800": "Servicios de televisión", "83111900": "Servicios de radio", "83121700": "Comunicación social y de masas"}, "filas": [{"tipo": "POSIBLE", "motivos": ["publicitarios"], "nueva": false, "codigo": "1405-32-COT26", "nombre": "Adquisición pendón TIPO ARAÑA GET", "organismo": "DELEGACIÓN PRESIDENCIAL PROVINCIAL DE CAPITÁN PRAT", "unidad": "DELEGACIÓN PRESIDENCIAL PROVINCIAL DE CAPITÁN PRAT", "monto": 84000, "cierre_iso": "2026-09-24T12:00:00-03:00", "publicacion": "22-09 06:51", "publicacion_iso": "2026-09-22T06:51:00-03:00", "ofertas": 0, "productos": [["82101501", "Letreros publicitarios"]], "link": "https://buscador.mercadopublico.cl/ficha?code=1405-32-COT26", "sin_detalle": false}, {"tipo": "POSIBLE", "motivos": ["streaming"], "nueva": true, "codigo": "4066-395-COT26", "nombre": "Servicio de streaming para transmitir el Festival Comunal Online de Talentos Artísticos para Personas Mayores", "organismo": "I MUNICIPALIDAD RIO IBANEZ", "unidad": "DIDECO", "monto": 700000, "cierre_iso": "2026-09-25T06:00:00-03:00", "publicacion": "23-09 15:02", "publicacion_iso": "2026-09-23T15:02:00-03:00", "ofertas": 0, "productos": [["43223207", "Sistema de transmisión por secuencias de video"]], "link": "https://buscador.mercadopublico.cl/ficha?code=4066-395-COT26", "sin_detalle": false}, {"tipo": "OPORTUNIDAD", "motivos": ["Ventas y marketing"], "nueva": false, "codigo": "2495-518-COT26", "nombre": "SERVICIO DE PRODUCCIÓN DE EVENTOS PARA SEMINARIO EMPRESARIAS AL FIN DEL MUNDO", "organismo": "I MUNICIPALIDAD DE COYHAIQUE", "unidad": "DIRECCION DESARROLLO COMUNITARIO", "monto": 6000000, "cierre_iso": "2026-09-25T06:00:00-03:00", "publicacion": "23-09 08:14", "publicacion_iso": "2026-09-23T08:14:00-03:00", "ofertas": 0, "productos": [["80141607", "Producción de eventos"]], "link": "https://buscador.mercadopublico.cl/ficha?code=2495-518-COT26", "sin_detalle": false}, {"tipo": "POSIBLE", "motivos": ["difusión", "publicidad"], "nueva": true, "codigo": "4066-394-COT26", "nombre": " SERVICIO DE PUBLICACIÓN DE NOTA DE PRENSA INSTITUCIONAL EN MEDIO DE COMUNICACIÓN REGIONAL", "organismo": "I MUNICIPALIDAD RIO IBANEZ", "unidad": "DIDECO", "monto": 990465, "cierre_iso": "2026-09-25T07:00:00-03:00", "publicacion": "23-09 13:45", "publicacion_iso": "2026-09-23T13:45:00-03:00", "ofertas": 0, "productos": [["82101504", "Publicidad en periódicos"]], "link": "https://buscador.mercadopublico.cl/ficha?code=4066-394-COT26", "sin_detalle": false}, {"tipo": "OPORTUNIDAD", "motivos": ["Inserciones publicitarias en medios"], "nueva": true, "codigo": "4066-393-COT26", "nombre": "SERVICIO DE DIFUSION EN REDES SOCIALES DIGITALES DE LAS ACTIVIDADES DEL PROGRAMA DE TRANSFERENCIA DE FORTALECIMIENTO PRODUCTIVO PARA LA COMUNA DE RÍO IBAÑEZ CODIGO BIP 40066883-0", "organismo": "I MUNICIPALIDAD RIO IBANEZ", "unidad": "DIDECO", "monto": 1500000, "cierre_iso": "2026-09-25T07:00:00-03:00", "publicacion": "23-09 13:28", "publicacion_iso": "2026-09-23T13:28:00-03:00", "ofertas": 0, "productos": [["82101903", "Avisos en Internet"]], "link": "https://buscador.mercadopublico.cl/ficha?code=4066-393-COT26", "sin_detalle": false}, {"tipo": "OPORTUNIDAD", "motivos": ["Publicidad en medios no impresos"], "nueva": true, "codigo": "4066-392-COT26", "nombre": "SERV. DE DIFUSION A TRAVES RADIAL DEL PROGRAMA TRANSFERENCIA DE FORTALECIMIENTO PRODUCTIVO PARA LA COMUNA DE RIO IBAÑEZ CODIGO BIP 40066883-0", "organismo": "I MUNICIPALIDAD RIO IBANEZ", "unidad": "DIDECO", "monto": 1296000, "cierre_iso": "2026-09-25T07:00:00-03:00", "publicacion": "23-09 13:24", "publicacion_iso": "2026-09-23T13:24:00-03:00", "ofertas": 0, "productos": [["82101601", "Publicidad en radio"]], "link": "https://buscador.mercadopublico.cl/ficha?code=4066-392-COT26", "sin_detalle": false}, {"tipo": "OPORTUNIDAD", "motivos": ["Publicidad en medios no impresos"], "nueva": true, "codigo": "4066-391-COT26", "nombre": "SERVICIO  DE DIFUSION TELEVISIVA COMPONENTE DE COMUNICACION Y DIFUSION DEL PROGRAMA TRANSFERENCIA DE FORTALECIMIENTO PROCUTIVO PARA LA COMUNA DE RIO IBÁÑEZ CODIGO BIP 40066883-0", "organismo": "I MUNICIPALIDAD RIO IBANEZ", "unidad": "DIDECO", "monto": 1200000, "cierre_iso": "2026-09-25T07:00:00-03:00", "publicacion": "23-09 13:20", "publicacion_iso": "2026-09-23T13:20:00-03:00", "ofertas": 0, "productos": [["82101602", "Publicidad en televisión"]], "link": "https://buscador.mercadopublico.cl/ficha?code=4066-391-COT26", "sin_detalle": false}, {"tipo": "POSIBLE", "motivos": ["streaming"], "nueva": true, "codigo": "3950-615-COT26", "nombre": "roku tv streaming stick 2025 hd ", "organismo": "DIRECCION SALUD RURAL", "unidad": "Dirección de Salud Rural", "monto": 50000, "cierre_iso": "2026-09-25T09:30:00-03:00", "publicacion": "24-09 08:57", "publicacion_iso": "2026-09-24T08:57:00-03:00", "ofertas": 0, "productos": [["43201552", "Adaptadores de telefonía o hardware"]], "link": "https://buscador.mercadopublico.cl/ficha?code=3950-615-COT26", "sin_detalle": false}, {"tipo": "OPORTUNIDAD", "motivos": ["Publicidad en medios no impresos"], "nueva": false, "codigo": "1746-224-COT26", "nombre": "Contratación de agencia de comunicaciones-Plan Hantavirus (P 457 SEREMI)", "organismo": "SUBSECRETARIA DE SALUD PUBLICA", "unidad": "Seremi de Salud XI Región", "monto": 3000000, "cierre_iso": "2026-09-25T10:00:00-03:00", "publicacion": "23-09 05:53", "publicacion_iso": "2026-09-23T05:53:00-03:00", "ofertas": 0, "productos": [["82101601", "Publicidad en radio"]], "link": "https://buscador.mercadopublico.cl/ficha?code=1746-224-COT26", "sin_detalle": false}, {"tipo": "POSIBLE", "motivos": ["radio"], "nueva": true, "codigo": "2713-1154-COT26", "nombre": "EQUIPAMIENTO PARA RADIO FM. SOLICITUD 1188 ALCALDIA.", "organismo": "I MUNICIPALIDAD DE AYSEN", "unidad": "I.MUNICIPALIDAD AYSEN-ADQUISICIONES", "monto": 4376140, "cierre_iso": "2026-09-28T06:01:00-03:00", "publicacion": "23-09 06:17", "publicacion_iso": "2026-09-23T06:17:00-03:00", "ofertas": 1, "productos": [["43201539", "Unidad central de controlador de consola"], ["43201503", "Procesadores o unidad central de procesamiento (CPU)"], ["52161520", "Micrófonos"]], "link": "https://buscador.mercadopublico.cl/ficha?code=2713-1154-COT26", "sin_detalle": false}], "pendientes": [{"codigo": "1057062-428-COT26", "nombre": "Adquisición materiales de oficina según FISABS 2102, URY 2457.", "organismo": "UNIVERSIDAD DE AYSEN", "link": "https://buscador.mercadopublico.cl/ficha?code=1057062-428-COT26"}, {"codigo": "418-1393-COT26", "nombre": "POR - MAT. ASEO COSAM HPA", "organismo": "SERVICIO NACIONAL DE SALUD HOSPITAL DE PUERTO AYSEN", "link": "https://buscador.mercadopublico.cl/ficha?code=418-1393-COT26"}]}</script>
+<script type="application/json" id="datos">{"actualizado": "2026-09-24T15:38:46.115411-03:00", "empresa": "Santa María Radio y TV", "region": "Región de Aysén", "total_region": 250, "rubros": {"80141600": "Ventas y marketing", "82101600": "Publicidad en medios no impresos", "82101800": "Agencias de publicidad", "82101900": "Inserciones publicitarias en medios", "82131600": "Fotógrafos y camarógrafos", "83111800": "Servicios de televisión", "83111900": "Servicios de radio", "83121700": "Comunicación social y de masas"}, "filas": [{"tipo": "POSIBLE", "motivos": ["streaming"], "nueva": true, "codigo": "4066-395-COT26", "nombre": "Servicio de streaming para transmitir el Festival Comunal Online de Talentos Artísticos para Personas Mayores", "organismo": "I MUNICIPALIDAD RIO IBANEZ", "unidad": "DIDECO", "monto": 700000, "cierre_iso": "2026-09-25T06:00:00-03:00", "publicacion": "23-09 15:02", "publicacion_iso": "2026-09-23T15:02:00-03:00", "ofertas": 0, "productos": [["43223207", "Sistema de transmisión por secuencias de video"]], "link": "https://buscador.mercadopublico.cl/ficha?code=4066-395-COT26", "sin_detalle": false}, {"tipo": "OPORTUNIDAD", "motivos": ["Ventas y marketing"], "nueva": false, "codigo": "2495-518-COT26", "nombre": "SERVICIO DE PRODUCCIÓN DE EVENTOS PARA SEMINARIO EMPRESARIAS AL FIN DEL MUNDO", "organismo": "I MUNICIPALIDAD DE COYHAIQUE", "unidad": "DIRECCION DESARROLLO COMUNITARIO", "monto": 6000000, "cierre_iso": "2026-09-25T06:00:00-03:00", "publicacion": "23-09 08:14", "publicacion_iso": "2026-09-23T08:14:00-03:00", "ofertas": 0, "productos": [["80141607", "Producción de eventos"]], "link": "https://buscador.mercadopublico.cl/ficha?code=2495-518-COT26", "sin_detalle": false}, {"tipo": "POSIBLE", "motivos": ["difusión", "publicidad"], "nueva": true, "codigo": "4066-394-COT26", "nombre": " SERVICIO DE PUBLICACIÓN DE NOTA DE PRENSA INSTITUCIONAL EN MEDIO DE COMUNICACIÓN REGIONAL", "organismo": "I MUNICIPALIDAD RIO IBANEZ", "unidad": "DIDECO", "monto": 990465, "cierre_iso": "2026-09-25T07:00:00-03:00", "publicacion": "23-09 13:45", "publicacion_iso": "2026-09-23T13:45:00-03:00", "ofertas": 0, "productos": [["82101504", "Publicidad en periódicos"]], "link": "https://buscador.mercadopublico.cl/ficha?code=4066-394-COT26", "sin_detalle": false}, {"tipo": "OPORTUNIDAD", "motivos": ["Inserciones publicitarias en medios"], "nueva": true, "codigo": "4066-393-COT26", "nombre": "SERVICIO DE DIFUSION EN REDES SOCIALES DIGITALES DE LAS ACTIVIDADES DEL PROGRAMA DE TRANSFERENCIA DE FORTALECIMIENTO PRODUCTIVO PARA LA COMUNA DE RÍO IBAÑEZ CODIGO BIP 40066883-0", "organismo": "I MUNICIPALIDAD RIO IBANEZ", "unidad": "DIDECO", "monto": 1500000, "cierre_iso": "2026-09-25T07:00:00-03:00", "publicacion": "23-09 13:28", "publicacion_iso": "2026-09-23T13:28:00-03:00", "ofertas": 0, "productos": [["82101903", "Avisos en Internet"]], "link": "https://buscador.mercadopublico.cl/ficha?code=4066-393-COT26", "sin_detalle": false}, {"tipo": "OPORTUNIDAD", "motivos": ["Publicidad en medios no impresos"], "nueva": true, "codigo": "4066-392-COT26", "nombre": "SERV. DE DIFUSION A TRAVES RADIAL DEL PROGRAMA TRANSFERENCIA DE FORTALECIMIENTO PRODUCTIVO PARA LA COMUNA DE RIO IBAÑEZ CODIGO BIP 40066883-0", "organismo": "I MUNICIPALIDAD RIO IBANEZ", "unidad": "DIDECO", "monto": 1296000, "cierre_iso": "2026-09-25T07:00:00-03:00", "publicacion": "23-09 13:24", "publicacion_iso": "2026-09-23T13:24:00-03:00", "ofertas": 0, "productos": [["82101601", "Publicidad en radio"]], "link": "https://buscador.mercadopublico.cl/ficha?code=4066-392-COT26", "sin_detalle": false}, {"tipo": "OPORTUNIDAD", "motivos": ["Publicidad en medios no impresos"], "nueva": true, "codigo": "4066-391-COT26", "nombre": "SERVICIO  DE DIFUSION TELEVISIVA COMPONENTE DE COMUNICACION Y DIFUSION DEL PROGRAMA TRANSFERENCIA DE FORTALECIMIENTO PROCUTIVO PARA LA COMUNA DE RIO IBÁÑEZ CODIGO BIP 40066883-0", "organismo": "I MUNICIPALIDAD RIO IBANEZ", "unidad": "DIDECO", "monto": 1200000, "cierre_iso": "2026-09-25T07:00:00-03:00", "publicacion": "23-09 13:20", "publicacion_iso": "2026-09-23T13:20:00-03:00", "ofertas": 0, "productos": [["82101602", "Publicidad en televisión"]], "link": "https://buscador.mercadopublico.cl/ficha?code=4066-391-COT26", "sin_detalle": false}, {"tipo": "POSIBLE", "motivos": ["streaming"], "nueva": true, "codigo": "3950-615-COT26", "nombre": "roku tv streaming stick 2025 hd ", "organismo": "DIRECCION SALUD RURAL", "unidad": "Dirección de Salud Rural", "monto": 50000, "cierre_iso": "2026-09-25T09:30:00-03:00", "publicacion": "24-09 08:57", "publicacion_iso": "2026-09-24T08:57:00-03:00", "ofertas": 0, "productos": [["43201552", "Adaptadores de telefonía o hardware"]], "link": "https://buscador.mercadopublico.cl/ficha?code=3950-615-COT26", "sin_detalle": false}, {"tipo": "OPORTUNIDAD", "motivos": ["Publicidad en medios no impresos"], "nueva": false, "codigo": "1746-224-COT26", "nombre": "Contratación de agencia de comunicaciones-Plan Hantavirus (P 457 SEREMI)", "organismo": "SUBSECRETARIA DE SALUD PUBLICA", "unidad": "Seremi de Salud XI Región", "monto": 3000000, "cierre_iso": "2026-09-25T10:00:00-03:00", "publicacion": "23-09 05:53", "publicacion_iso": "2026-09-23T05:53:00-03:00", "ofertas": 0, "productos": [["82101601", "Publicidad en radio"]], "link": "https://buscador.mercadopublico.cl/ficha?code=1746-224-COT26", "sin_detalle": false}, {"tipo": "POSIBLE", "motivos": ["radio"], "nueva": true, "codigo": "2713-1154-COT26", "nombre": "EQUIPAMIENTO PARA RADIO FM. SOLICITUD 1188 ALCALDIA.", "organismo": "I MUNICIPALIDAD DE AYSEN", "unidad": "I.MUNICIPALIDAD AYSEN-ADQUISICIONES", "monto": 4376140, "cierre_iso": "2026-09-28T06:01:00-03:00", "publicacion": "23-09 06:17", "publicacion_iso": "2026-09-23T06:17:00-03:00", "ofertas": 1, "productos": [["43201539", "Unidad central de controlador de consola"], ["43201503", "Procesadores o unidad central de procesamiento (CPU)"], ["52161520", "Micrófonos"]], "link": "https://buscador.mercadopublico.cl/ficha?code=2713-1154-COT26", "sin_detalle": false}], "pendientes": [{"codigo": "1057062-428-COT26", "nombre": "Adquisición materiales de oficina según FISABS 2102, URY 2457.", "organismo": "UNIVERSIDAD DE AYSEN", "link": "https://buscador.mercadopublico.cl/ficha?code=1057062-428-COT26"}, {"codigo": "418-1393-COT26", "nombre": "POR - MAT. ASEO COSAM HPA", "organismo": "SERVICIO NACIONAL DE SALUD HOSPITAL DE PUERTO AYSEN", "link": "https://buscador.mercadopublico.cl/ficha?code=418-1393-COT26"}]}</script>
 
 <script>
 const D = JSON.parse(document.getElementById('datos').textContent);
@@ -705,6 +716,22 @@ let estado = {}; try { estado = JSON.parse(localStorage.getItem('radar_estado') 
 const guardar = () => { try { localStorage.setItem('radar_estado', JSON.stringify(estado)) } catch (e) {} };
 let filtro = 'todas';
 try { filtro = localStorage.getItem('radar_filtro') || 'todas' } catch (e) {}
+
+// --- Compras no vistas desde tu última visita (se guarda en este navegador, por empresa) ---
+const K_VISTAS = 'radar_vistas_' + (D.empresa || ''), K_VISITA = 'radar_visita_' + (D.empresa || '');
+let vistas = null, ultimaVisita = null;
+try { vistas = JSON.parse(localStorage.getItem(K_VISTAS) || 'null'); ultimaVisita = localStorage.getItem(K_VISITA) } catch (e) {}
+const primeraVez = !vistas;
+if (!vistas) vistas = {};
+let noVistas = new Set(primeraVez ? [] : D.filas.map(f => f.codigo).filter(c => !(c in vistas) && !estado[c]));
+function marcarVistas() {
+  const ahora = Date.now(), limite = ahora - 30 * 864e5;
+  D.filas.forEach(f => { if (!(f.codigo in vistas)) vistas[f.codigo] = ahora });
+  for (const c in vistas) if (vistas[c] < limite) delete vistas[c];
+  try { localStorage.setItem(K_VISTAS, JSON.stringify(vistas)); localStorage.setItem(K_VISITA, new Date().toISOString()) } catch (e) {}
+}
+addEventListener('pagehide', marcarVistas);
+document.addEventListener('visibilitychange', () => { if (document.visibilityState === 'hidden') marcarVistas() });
 
 function reloj(iso) {
   const t = Date.parse(iso); if (isNaN(t)) return {t:'—', u:'', cls:'', grupo:'Sin fecha', orden:9};
@@ -738,7 +765,7 @@ function tarjeta(f) {
   const motivos = f.motivos.map(m => `<span class="tag-bubble matched">${esc(m)}</span>`).join('');
   const prods = f.productos.slice(0, 3).map(p => `<span class="tag-bubble"><span class="c-id">${esc(p[0])}</span>${esc(p[1])}</span>`).join('')
     + (f.productos.length > 3 ? `<span class="tag-bubble">+${f.productos.length - 3} más</span>` : '');
-  const cls = ['deal-card', r.cls, esRubro ? 'is-opportunity' : 'is-possible', st ? 'done' : ''].join(' ');
+  const cls = ['deal-card', r.cls, esRubro ? 'is-opportunity' : 'is-possible', st ? 'done' : '', noVistas.has(f.codigo) && !st ? 'unseen' : ''].join(' ');
 
   return `<article class="${cls}" data-cod="${esc(f.codigo)}">
     <div class="deal-timer">
@@ -750,6 +777,7 @@ function tarjeta(f) {
       <div class="deal-top">
         <a class="deal-code" href="${esc(f.link)}" target="_blank" rel="noopener">${esc(f.codigo)}</a>
         ${tipo}
+        ${noVistas.has(f.codigo) && !st ? '<span class="badge-pill unseen">No vista</span>' : ''}
         ${f.nueva ? '<span class="badge-pill new">Nueva</span>' : ''}
         ${nd}
       </div>
@@ -782,6 +810,8 @@ function pintar() {
     !(ocultar && estado[f.codigo]) &&
     (!q || [f.codigo, f.nombre, f.organismo, f.unidad, ...f.motivos, ...f.productos.flat()].join(' ').toLowerCase().includes(q)));
   
+  const nv = f => noVistas.has(f.codigo) ? 0 : 1;
+  if (orden === 'cierre') items = items.slice().sort((a, b) => nv(a) - nv(b));
   document.querySelectorAll('.segmented-tabs button').forEach(b => b.setAttribute('aria-pressed', b.dataset.f === filtro));
   const out = $('#lista');
   if (!items.length) { 
@@ -795,7 +825,7 @@ function pintar() {
     out.innerHTML = Object.entries(grupos).sort((a, b) => a[1].orden - b[1].orden).map(([g, v]) =>
       `<section class="group-section"><div class="group-label">${g} <span class="group-count">${v.xs.length}</span></div><div class="items-stream">${v.xs.map(tarjeta).join('')}</div></section>`).join('');
   } else {
-    items = items.slice().sort(orden === 'monto' ? (a, b) => (b.monto || 0) - (a.monto || 0) : (a, b) => (b.publicacion_iso || '').localeCompare(a.publicacion_iso || ''));
+    items = items.slice().sort(orden === 'monto' ? (a, b) => (b.monto || 0) - (a.monto || 0) : (a, b) => (b.publicacion_iso || '').localeCompare(a.publicacion_iso || '')).sort((a, b) => nv(a) - nv(b));
     out.innerHTML = `<section class="group-section"><div class="group-label">${orden === 'monto' ? 'Ordenado por Monto' : 'Publicaciones Recientes'} <span class="group-count">${items.length}</span></div><div class="items-stream">${items.map(tarjeta).join('')}</div></section>`;
   }
 }
@@ -804,7 +834,7 @@ $('#lista').addEventListener('click', e => {
   const b = e.target.closest('button[data-v]'); if (!b) return;
   const cod = b.closest('.deal-card').dataset.cod, v = b.dataset.v;
   if (estado[cod] === v) delete estado[cod]; else estado[cod] = v;
-  guardar(); pintar();
+  guardar(); pintarVisita(); pintar();
 });
 
 document.querySelectorAll('.segmented-tabs button').forEach(b => b.addEventListener('click', () => {
@@ -851,6 +881,18 @@ document.querySelectorAll('.segmented-tabs button').forEach(b => b.addEventListe
   if (min > 90) $('.live-dot').classList.add('old');
 })();
 
+function pintarVisita() {
+  const el = $('#visita'); el.hidden = false;
+  const cuando = ultimaVisita ? (() => { const d = new Date(ultimaVisita), hoy = new Date(), ay = new Date(); ay.setDate(hoy.getDate() - 1);
+    const h = d.toLocaleTimeString('es-CL', {hour:'2-digit', minute:'2-digit', hour12:false});
+    return d.toDateString() === hoy.toDateString() ? 'hoy ' + h : d.toDateString() === ay.toDateString() ? 'ayer ' + h : DIAS[d.getDay()] + ' ' + d.getDate() + '/' + (d.getMonth()+1) + ' ' + h })() : '';
+  const n = [...noVistas].filter(c => !estado[c]).length;
+  if (primeraVez) { el.className = 'visit-banner'; el.innerHTML = '<span class="dot"></span><span>Desde ahora te voy a destacar las compras que aparezcan después de esta visita.</span>'; return }
+  if (n) { el.className = 'visit-banner hay'; el.innerHTML = `<span class="dot"></span><span><b>${n} ${n === 1 ? 'nueva' : 'nuevas'}</b> desde tu última visita${cuando ? ' (' + cuando + ')' : ''} — destacadas como <b>No vista</b> y primero en su grupo.</span><button type="button" id="ya-vi">Marcar como vistas</button>`;
+    $('#ya-vi').onclick = () => { noVistas = new Set(); marcarVistas(); pintarVisita(); pintar() }; return }
+  el.className = 'visit-banner'; el.innerHTML = `<span class="dot"></span><span>Sin cambios desde tu última visita${cuando ? ' (' + cuando + ')' : ''}.</span>`;
+}
+pintarVisita();
 pintar();
 setInterval(pintar, 60000);
 </script>

@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-09-24T14:34:41.376190-03:00",
+ "actualizado": "2026-09-24T15:38:46.115411-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
- "total_region": 259,
+ "total_region": 250,
  "rubros": {
   "25172700": "Aire acondicionado",
   "25173900": "Componentes eléctricos",
@@ -19,90 +19,6 @@
   "39121400": "Conectores, enchufes y terminales"
  },
  "filas": [
-  {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Conectores, enchufes y terminales"
-   ],
-   "nueva": false,
-   "codigo": "1043-39-COT26",
-   "nombre": "Solicitud de cotización materiales para trabajos aeródromo Lago Verde",
-   "organismo": "MINISTERIO DE OBRAS PUBLICAS DIREC CION GRAL DE OO PP DCYF",
-   "unidad": "Dirección de Aeropuertos - XI Región",
-   "monto": 2238080,
-   "cierre_iso": "2026-09-24T12:00:00-03:00",
-   "publicacion": "23-09 06:56",
-   "publicacion_iso": "2026-09-23T06:56:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "30102204",
-     "Plancha de acero"
-    ],
-    [
-     "30102204",
-     "Plancha de acero"
-    ],
-    [
-     "23131703",
-     "Discos de cabbing"
-    ],
-    [
-     "23131703",
-     "Discos de cabbing"
-    ],
-    [
-     "39121436",
-     "Electrodos"
-    ],
-    [
-     "39121436",
-     "Electrodos"
-    ],
-    [
-     "31161601",
-     "Pernos de anclaje"
-    ],
-    [
-     "15121802",
-     "Lubricantes anticorrosivos"
-    ],
-    [
-     "31211904",
-     "Brochas"
-    ],
-    [
-     "30101606",
-     "Barras de aluminio"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1043-39-COT26",
-   "sin_detalle": false
-  },
-  {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Gasfitería, calefacción y aire acondicionado"
-   ],
-   "nueva": false,
-   "codigo": "4218-11-COT26",
-   "nombre": "Servicio reparación de vivienda fiscal Calle José Miguel Carrera N° 531 Ciudad Coyhaique.-",
-   "organismo": "Dirección General de Aeronáutica Civil",
-   "unidad": "UNIDAD DE COMPRA BIENESTAR SOCIAL  COYHAIQUE",
-   "monto": 4329620,
-   "cierre_iso": "2026-09-24T12:00:00-03:00",
-   "publicacion": "15-09 12:18",
-   "publicacion_iso": "2026-09-15T12:18:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "72102304",
-     "Mantenimiento o reparación de sistemas de fontanería, gasfitería"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=4218-11-COT26",
-   "sin_detalle": false
-  },
   {
    "tipo": "POSIBLE",
    "motivos": [
@@ -785,6 +701,90 @@
     ]
    ],
    "link": "https://buscador.mercadopublico.cl/ficha?code=4778-285-COT26",
+   "sin_detalle": false
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "eléctrico"
+   ],
+   "nueva": true,
+   "codigo": "418-1416-COT26",
+   "nombre": "POR - QUIPAMIENTO Y MOBILARIO  SEGUN DETALLE ADJUNTO PARA LOS PROGRAMAS SENDA (INFANTO-ADOLESCENTE Y ADULTO) ",
+   "organismo": "SERVICIO NACIONAL DE SALUD HOSPITAL DE PUERTO AYSEN",
+   "unidad": "H Puerto Aysén",
+   "monto": 3500000,
+   "cierre_iso": "2026-09-30T05:00:00-03:00",
+   "publicacion": "24-09 11:57",
+   "publicacion_iso": "2026-09-24T11:57:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "56101532",
+     "Mobiliario"
+    ],
+    [
+     "56101532",
+     "Mobiliario"
+    ],
+    [
+     "56101532",
+     "Mobiliario"
+    ],
+    [
+     "56101532",
+     "Mobiliario"
+    ],
+    [
+     "56101532",
+     "Mobiliario"
+    ],
+    [
+     "56101532",
+     "Mobiliario"
+    ],
+    [
+     "56101532",
+     "Mobiliario"
+    ],
+    [
+     "56101532",
+     "Mobiliario"
+    ],
+    [
+     "56101532",
+     "Mobiliario"
+    ],
+    [
+     "56101532",
+     "Mobiliario"
+    ],
+    [
+     "56101532",
+     "Mobiliario"
+    ],
+    [
+     "56101532",
+     "Mobiliario"
+    ],
+    [
+     "56101532",
+     "Mobiliario"
+    ],
+    [
+     "56101532",
+     "Mobiliario"
+    ],
+    [
+     "56101532",
+     "Mobiliario"
+    ],
+    [
+     "56101532",
+     "Mobiliario"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=418-1416-COT26",
    "sin_detalle": false
   }
  ],
