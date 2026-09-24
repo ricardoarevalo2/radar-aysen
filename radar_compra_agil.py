@@ -43,6 +43,11 @@ MODO_WEB = os.environ.get("RADAR_MODO") == "web"
 # ───────────── CONFIGURACIÓN ─────────────
 ZONA = timezone(timedelta(hours=-3))  # hora de Chile continental (verano/invierno aprox.)
 CARPETA_PERFILES = os.path.join(CARPETA, "perfiles")
+try:
+    from zoneinfo import ZoneInfo
+    ZONA_MP = ZoneInfo("America/Santiago")   # zona horaria en que Mercado Público publica sus fechas
+except Exception:
+    ZONA_MP = ZONA
 REGIONES = {
     1: "Región de Tarapacá", 2: "Región de Antofagasta", 3: "Región de Atacama", 4: "Región de Coquimbo",
     5: "Región de Valparaíso", 6: "Región de O'Higgins", 7: "Región del Maule", 8: "Región del Biobío",
@@ -175,7 +180,10 @@ def a_local(iso):
     if not iso:
         return None
     try:
-        return datetime.fromisoformat(iso.replace("Z", "+00:00")).astimezone(ZONA)
+        # La API entrega la hora de Chile continental aunque venga marcada como UTC ("Z")
+        # o sin zona: se toma la hora tal cual y se le asigna la zona de Santiago.
+        d = datetime.fromisoformat(iso.replace("Z", "+00:00")).replace(tzinfo=None)
+        return d.replace(tzinfo=ZONA_MP)
     except ValueError:
         return None
 
