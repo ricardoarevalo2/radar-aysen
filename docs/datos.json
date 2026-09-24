@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-09-24T11:38:39.423915-03:00",
+ "actualizado": "2026-09-24T12:37:12.655518-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
- "total_region": 256,
+ "total_region": 264,
  "rubros": {
   "80141600": "Ventas y marketing",
   "82101600": "Publicidad en medios no impresos",
@@ -209,6 +209,30 @@
    "sin_detalle": false
   },
   {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "streaming"
+   ],
+   "nueva": true,
+   "codigo": "3950-615-COT26",
+   "nombre": "roku tv streaming stick 2025 hd ",
+   "organismo": "DIRECCION SALUD RURAL",
+   "unidad": "Dirección de Salud Rural",
+   "monto": 50000,
+   "cierre_iso": "2026-09-25T09:30:00-03:00",
+   "publicacion": "24-09 08:57",
+   "publicacion_iso": "2026-09-24T08:57:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "43201552",
+     "Adaptadores de telefonía o hardware"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=3950-615-COT26",
+   "sin_detalle": false
+  },
+  {
    "tipo": "OPORTUNIDAD",
    "motivos": [
     "Publicidad en medios no impresos"
@@ -230,6 +254,38 @@
     ]
    ],
    "link": "https://buscador.mercadopublico.cl/ficha?code=1746-224-COT26",
+   "sin_detalle": false
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "radio"
+   ],
+   "nueva": true,
+   "codigo": "2713-1154-COT26",
+   "nombre": "EQUIPAMIENTO PARA RADIO FM. SOLICITUD 1188 ALCALDIA.",
+   "organismo": "I MUNICIPALIDAD DE AYSEN",
+   "unidad": "I.MUNICIPALIDAD AYSEN-ADQUISICIONES",
+   "monto": 4376140,
+   "cierre_iso": "2026-09-25T10:21:00-03:00",
+   "publicacion": "23-09 06:17",
+   "publicacion_iso": "2026-09-23T06:17:00-03:00",
+   "ofertas": 1,
+   "productos": [
+    [
+     "43201539",
+     "Unidad central de controlador de consola"
+    ],
+    [
+     "43201503",
+     "Procesadores o unidad central de procesamiento (CPU)"
+    ],
+    [
+     "52161520",
+     "Micrófonos"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=2713-1154-COT26",
    "sin_detalle": false
   }
  ],

@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-09-24T11:38:39.423915-03:00",
+ "actualizado": "2026-09-24T12:37:12.655518-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
- "total_region": 256,
+ "total_region": 264,
  "rubros": {
   "25172700": "Aire acondicionado",
   "25173900": "Componentes eléctricos",
@@ -444,6 +444,48 @@
     ]
    ],
    "link": "https://buscador.mercadopublico.cl/ficha?code=1043-40-COT26",
+   "sin_detalle": false
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "eléctrico",
+    "iluminación",
+    "sistema eléctrico"
+   ],
+   "nueva": true,
+   "codigo": "3949-234-COT26",
+   "nombre": "REPARACIÓN Y SUMINISTRO DE REPUESTOS DE EQUIPOS DENTALES",
+   "organismo": "CONSULTORIO GENERAL URBANO DR ALEJANDRO GUTIERREZ",
+   "unidad": "ID 3949 - CESFAM Dr Alejandro Gutiérrez",
+   "monto": 2600000,
+   "cierre_iso": "2026-09-25T09:15:00-03:00",
+   "publicacion": "24-09 08:58",
+   "publicacion_iso": "2026-09-24T08:58:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "30201903",
+     "Unidades dentales"
+    ],
+    [
+     "30201903",
+     "Unidades dentales"
+    ],
+    [
+     "30201903",
+     "Unidades dentales"
+    ],
+    [
+     "30201903",
+     "Unidades dentales"
+    ],
+    [
+     "30201903",
+     "Unidades dentales"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=3949-234-COT26",
    "sin_detalle": false
   },
   {
