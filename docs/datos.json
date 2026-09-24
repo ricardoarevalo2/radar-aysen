@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-09-24T10:38:19.116842-03:00",
+ "actualizado": "2026-09-24T11:38:39.423915-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
- "total_region": 253,
+ "total_region": 256,
  "rubros": {
   "80141600": "Ventas y marketing",
   "82101600": "Publicidad en medios no impresos",
@@ -92,7 +92,7 @@
    "motivos": [
     "Ventas y marketing"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "2495-518-COT26",
    "nombre": "SERVICIO DE PRODUCCIÓN DE EVENTOS PARA SEMINARIO EMPRESARIAS AL FIN DEL MUNDO",
    "organismo": "I MUNICIPALIDAD DE COYHAIQUE",
@@ -234,12 +234,6 @@
   }
  ],
  "pendientes": [
-  {
-   "codigo": "932163-15-COT26",
-   "nombre": "ADQUISICION MAQUINA CHIPEADORA",
-   "organismo": "I MUNICIPALIDAD DE LAGO VERDE",
-   "link": "https://buscador.mercadopublico.cl/ficha?code=932163-15-COT26"
-  },
   {
    "codigo": "418-1393-COT26",
    "nombre": "POR - MAT. ASEO COSAM HPA",

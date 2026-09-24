@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-09-24T10:38:19.116842-03:00",
+ "actualizado": "2026-09-24T11:38:39.423915-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
- "total_region": 253,
+ "total_region": 256,
  "rubros": {
   "25172700": "Aire acondicionado",
   "25173900": "Componentes eléctricos",
@@ -19,31 +19,6 @@
   "39121400": "Conectores, enchufes y terminales"
  },
  "filas": [
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "eléctrico",
-    "generador"
-   ],
-   "nueva": false,
-   "codigo": "1746-222-COT26",
-   "nombre": "GENERADOR ISONORIZADO ELÉCTRICO A GASOLINA (P 452 LABORATORIO)",
-   "organismo": "SUBSECRETARIA DE SALUD PUBLICA",
-   "unidad": "Seremi de Salud XI Región",
-   "monto": 1580000,
-   "cierre_iso": "2026-09-24T08:00:00-03:00",
-   "publicacion": "22-09 08:54",
-   "publicacion_iso": "2026-09-22T08:54:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "26111601",
-     "Generadores diesel"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1746-222-COT26",
-   "sin_detalle": false
-  },
   {
    "tipo": "OPORTUNIDAD",
    "motivos": [
@@ -448,6 +423,30 @@
    "sin_detalle": false
   },
   {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "interruptor"
+   ],
+   "nueva": true,
+   "codigo": "1043-40-COT26",
+   "nombre": "Solicitud de cotización esmeril angular 7\" CAD",
+   "organismo": "MINISTERIO DE OBRAS PUBLICAS DIREC CION GRAL DE OO PP DCYF",
+   "unidad": "Dirección de Aeropuertos - XI Región",
+   "monto": 210000,
+   "cierre_iso": "2026-09-25T08:00:00-03:00",
+   "publicacion": "24-09 07:41",
+   "publicacion_iso": "2026-09-24T07:41:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "11101502",
+     "Esmeril"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1043-40-COT26",
+   "sin_detalle": false
+  },
+  {
    "tipo": "OPORTUNIDAD",
    "motivos": [
     "Enfriamiento (aires acondicionados)"
@@ -493,6 +492,30 @@
     ]
    ],
    "link": "https://buscador.mercadopublico.cl/ficha?code=951405-245-COT26",
+   "sin_detalle": false
+  },
+  {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Gasfitería, calefacción y aire acondicionado"
+   ],
+   "nueva": true,
+   "codigo": "4644-71-COT26",
+   "nombre": "SERVICIO DE MANTENCIÓN Y REPARACIÓN DE CALDERA DE RESERVA NACIONAL RIO SIMPSON",
+   "organismo": "CORP NACIONAL FORESTAL",
+   "unidad": "XI Región - Oficina Provincial Aysen",
+   "monto": 1200000,
+   "cierre_iso": "2026-09-25T11:30:00-03:00",
+   "publicacion": "24-09 08:26",
+   "publicacion_iso": "2026-09-24T08:26:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "72102301",
+     "Supervisión de instalación, ajuste o mantenimiento de calderas"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=4644-71-COT26",
    "sin_detalle": false
   },
   {
@@ -724,12 +747,6 @@
   }
  ],
  "pendientes": [
-  {
-   "codigo": "932163-15-COT26",
-   "nombre": "ADQUISICION MAQUINA CHIPEADORA",
-   "organismo": "I MUNICIPALIDAD DE LAGO VERDE",
-   "link": "https://buscador.mercadopublico.cl/ficha?code=932163-15-COT26"
-  },
   {
    "codigo": "418-1393-COT26",
    "nombre": "POR - MAT. ASEO COSAM HPA",
