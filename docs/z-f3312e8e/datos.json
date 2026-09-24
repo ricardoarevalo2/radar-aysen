@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-09-24T12:37:12.655518-03:00",
+ "actualizado": "2026-09-24T13:37:40.265644-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
- "total_region": 264,
+ "total_region": 263,
  "rubros": {
   "25172700": "Aire acondicionado",
   "25173900": "Componentes eléctricos",
@@ -789,6 +789,12 @@
   }
  ],
  "pendientes": [
+  {
+   "codigo": "1057062-428-COT26",
+   "nombre": "Adquisición materiales de oficina según FISABS 2102, URY 2457.",
+   "organismo": "UNIVERSIDAD DE AYSEN",
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1057062-428-COT26"
+  },
   {
    "codigo": "418-1393-COT26",
    "nombre": "POR - MAT. ASEO COSAM HPA",
