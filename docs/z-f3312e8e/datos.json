@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-09-25T08:37:32.633874-03:00",
+ "actualizado": "2026-09-25T09:41:16.136433-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
- "total_region": 232,
+ "total_region": 236,
  "rubros": {
   "25172700": "Aire acondicionado",
   "25173900": "Componentes eléctricos",
@@ -19,76 +19,6 @@
   "39121400": "Conectores, enchufes y terminales"
  },
  "filas": [
-  {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Cables eléctricos y accesorios",
-    "Cajas y accesorios eléctricos",
-    "Conectores, enchufes y terminales"
-   ],
-   "nueva": false,
-   "codigo": "5019-55-COT26",
-   "nombre": "Adquisición de Elementos de Construcción",
-   "organismo": "Ejercito de Chile",
-   "unidad": "Centro Clínico Militar Coyhaique",
-   "monto": 340000,
-   "cierre_iso": "2026-09-25T09:00:00-03:00",
-   "publicacion": "23-09 16:36",
-   "publicacion_iso": "2026-09-23T16:36:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "31231313",
-     "Tubería de plástico"
-    ],
-    [
-     "46171503",
-     "Juegos de cerraduras"
-    ],
-    [
-     "30151701",
-     "Tubos de bajada"
-    ],
-    [
-     "31231313",
-     "Tubería de plástico"
-    ],
-    [
-     "40141608",
-     "Válvulas hidráulicas"
-    ],
-    [
-     "39101605",
-     "ampolletas fluorescentes"
-    ],
-    [
-     "26121634",
-     "Cable de cobre"
-    ],
-    [
-     "39121402",
-     "Enchufes eléctricos"
-    ],
-    [
-     "30171514",
-     "Cierres de puertas"
-    ],
-    [
-     "46171505",
-     "Llaves"
-    ],
-    [
-     "39101605",
-     "ampolletas fluorescentes"
-    ],
-    [
-     "39121311",
-     "Accesorios eléctricos"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=5019-55-COT26",
-   "sin_detalle": false
-  },
   {
    "tipo": "POSIBLE",
    "motivos": [
@@ -363,6 +293,33 @@
    "sin_detalle": false
   },
   {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "eléctricos",
+    "interruptor",
+    "interruptores",
+    "luminarias"
+   ],
+   "nueva": false,
+   "codigo": "907-79-COT26",
+   "nombre": "AAH CAMBIO DE LUMINARIAS LABORATORIO",
+   "organismo": "SERVICIO AGRICOLA Y GANADERO",
+   "unidad": "SAG - Aysen",
+   "monto": 2200000,
+   "cierre_iso": "2026-09-25T15:00:00-03:00",
+   "publicacion": "22-09 13:35",
+   "publicacion_iso": "2026-09-22T13:35:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "39111512",
+     "Luces de banco de laboratorio"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=907-79-COT26",
+   "sin_detalle": false
+  },
+  {
    "tipo": "OPORTUNIDAD",
    "motivos": [
     "Gasfitería, calefacción y aire acondicionado"
@@ -595,6 +552,83 @@
    "sin_detalle": false
   },
   {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "enchufe",
+    "interruptor"
+   ],
+   "nueva": true,
+   "codigo": "1403-392-COT26",
+   "nombre": "COMPRA DE MATERIALES ELECTRICOS Y DATOS PARA HABILITAR OFICINAS PARA LA DIRREG AYSEN Y UNIDADES PENALES",
+   "organismo": "Dirección Regional de Gendarmeria - Coyhaique",
+   "unidad": "Región de Aysén",
+   "monto": 1317000,
+   "cierre_iso": "2026-09-26T12:00:00-03:00",
+   "publicacion": "25-09 09:23",
+   "publicacion_iso": "2026-09-25T09:23:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "72131702",
+     "Construcción de obras civiles"
+    ],
+    [
+     "72131702",
+     "Construcción de obras civiles"
+    ],
+    [
+     "72131702",
+     "Construcción de obras civiles"
+    ],
+    [
+     "72131702",
+     "Construcción de obras civiles"
+    ],
+    [
+     "72131702",
+     "Construcción de obras civiles"
+    ],
+    [
+     "72131702",
+     "Construcción de obras civiles"
+    ],
+    [
+     "72131702",
+     "Construcción de obras civiles"
+    ],
+    [
+     "72131702",
+     "Construcción de obras civiles"
+    ],
+    [
+     "72131702",
+     "Construcción de obras civiles"
+    ],
+    [
+     "72131702",
+     "Construcción de obras civiles"
+    ],
+    [
+     "72131702",
+     "Construcción de obras civiles"
+    ],
+    [
+     "72131702",
+     "Construcción de obras civiles"
+    ],
+    [
+     "72131702",
+     "Construcción de obras civiles"
+    ],
+    [
+     "72131702",
+     "Construcción de obras civiles"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1403-392-COT26",
+   "sin_detalle": false
+  },
+  {
    "tipo": "OPORTUNIDAD",
    "motivos": [
     "Servicios eléctricos"
@@ -684,6 +718,30 @@
     ]
    ],
    "link": "https://buscador.mercadopublico.cl/ficha?code=4778-285-COT26",
+   "sin_detalle": false
+  },
+  {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Gasfitería, calefacción y aire acondicionado"
+   ],
+   "nueva": true,
+   "codigo": "4140-78-COT26",
+   "nombre": "SERVICIO DE MANTENCION AIRE ACONDICIONADO, DPTO FINANZAS MUNICIPALIDAD DE LAGO VERDE ",
+   "organismo": "I MUNICIPALIDAD DE LAGO VERDE",
+   "unidad": "Adquisiciones",
+   "monto": 300000,
+   "cierre_iso": "2026-09-28T08:30:00-03:00",
+   "publicacion": "25-09 09:13",
+   "publicacion_iso": "2026-09-25T09:13:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "72102305",
+     "Servicios de reparación, mantenimiento o reparación de aire acondicionado"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=4140-78-COT26",
    "sin_detalle": false
   },
   {

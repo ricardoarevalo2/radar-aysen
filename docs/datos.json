@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-09-25T08:37:32.633874-03:00",
+ "actualizado": "2026-09-25T09:41:16.136433-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
- "total_region": 232,
+ "total_region": 236,
  "rubros": {
   "80141600": "Ventas y marketing",
   "82101600": "Publicidad en medios no impresos",
@@ -14,54 +14,6 @@
   "83121700": "Comunicación social y de masas"
  },
  "filas": [
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "streaming"
-   ],
-   "nueva": false,
-   "codigo": "4066-395-COT26",
-   "nombre": "Servicio de streaming para transmitir el Festival Comunal Online de Talentos Artísticos para Personas Mayores",
-   "organismo": "I MUNICIPALIDAD RIO IBANEZ",
-   "unidad": "DIDECO",
-   "monto": 700000,
-   "cierre_iso": "2026-09-25T09:00:00-03:00",
-   "publicacion": "23-09 18:02",
-   "publicacion_iso": "2026-09-23T18:02:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "43223207",
-     "Sistema de transmisión por secuencias de video"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=4066-395-COT26",
-   "sin_detalle": false
-  },
-  {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Ventas y marketing"
-   ],
-   "nueva": false,
-   "codigo": "2495-518-COT26",
-   "nombre": "SERVICIO DE PRODUCCIÓN DE EVENTOS PARA SEMINARIO EMPRESARIAS AL FIN DEL MUNDO",
-   "organismo": "I MUNICIPALIDAD DE COYHAIQUE",
-   "unidad": "DIRECCION DESARROLLO COMUNITARIO",
-   "monto": 6000000,
-   "cierre_iso": "2026-09-25T09:00:00-03:00",
-   "publicacion": "23-09 11:14",
-   "publicacion_iso": "2026-09-23T11:14:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "80141607",
-     "Producción de eventos"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=2495-518-COT26",
-   "sin_detalle": false
-  },
   {
    "tipo": "POSIBLE",
    "motivos": [
