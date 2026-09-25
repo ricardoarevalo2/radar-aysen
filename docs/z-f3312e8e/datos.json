@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-09-25T17:36:30.797764-03:00",
+ "actualizado": "2026-09-25T18:36:18.792028-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
- "total_region": 240,
+ "total_region": 235,
  "rubros": {
   "25172700": "Aire acondicionado",
   "25173900": "Componentes eléctricos",
@@ -19,39 +19,6 @@
   "39121400": "Conectores, enchufes y terminales"
  },
  "filas": [
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "iluminación"
-   ],
-   "nueva": true,
-   "codigo": "1403-385-COT26",
-   "nombre": "COMPRA DE EQUIPOS ODONTOLIGICOS PARA POLICLINICO REGIONAL DEL PERSONAL",
-   "organismo": "Dirección Regional de Gendarmeria - Coyhaique",
-   "unidad": "Región de Aysén",
-   "monto": 1000000,
-   "cierre_iso": "2026-09-25T18:30:00-03:00",
-   "publicacion": "22-09 12:11",
-   "publicacion_iso": "2026-09-22T12:11:00-03:00",
-   "ofertas": 2,
-   "productos": [
-    [
-     "42172015",
-     "Kits de tratamiento odontológico para los servicios médicos de urgencias",
-     1,
-     "LAMPARA LED DE FOTOCURADO ODONTOLOGICO, EQUIPO INALAMBRICO PARA POLIMERIZACIÓN DE MATERIALES ODONTOLOGICOS FOTOPOLIMERIZABLES, CON LAS SIGUIENTES CARACTERISITICAS TÉCNICAS MINIMAS: TECNOLOGIA LED, IRRADICANCIA MINIMA IGUAL O SUPUERIOR A 1.400 MW/CM2, RANGO ESPECTRAL UTIL MINIMO DE 430-480 MM O RANGO SUPERIOR QUE INCLUYE DICHAS LONGITUDES DE ONDA, HAZ DE LUZ COLIMADO Y HOMOGENIO. MAYOR INFORMACIÓN EN DOCUMENTO ADJUNTO."
-    ],
-    [
-     "42172015",
-     "Kits de tratamiento odontológico para los servicios médicos de urgencias",
-     2,
-     "SISTEMA DE LUPAS BINOCULARES DE MAGNIFICACIÓN ODONTOLOGICA CON ILUMINACIÓN LED COAXIAL, SISTEMA DESTINADO A MEJORAR LA VISUALIZACIÓN DEL CAMPO OPERATORIO Y FAVORECER UNA POSTURA CLINICA ERGONOMICA, CON LAS SIGUIENTES CARACTERISTICAS, MAGNIFICACIÓN SELECCIONABLE DE 2.5X Y/O 3.5X. MAYOR INFORMACIÓN EN DOCUMENTO ADJUNTO."
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1403-385-COT26",
-   "sin_detalle": false,
-   "descripcion": "E1ORT9 - COMPRA DE EQUIPOS ODONTOLIGICOS PARA POLICLINICO REGIONAL DEL PERSONAL. CRITERIOS DE EVALUACIÓN. PRECIO 88% - PLAZO DE ENTREGA 10% - SUSTENTABILIDAD 2%"
-  },
   {
    "tipo": "POSIBLE",
    "motivos": [
