@@ -210,7 +210,7 @@ def preparar_datos(perfil, filas, ahora, total_region, pendientes=()):
         "rubros": perfil["rubros"],
         "filas": [{k: f[k] for k in ("tipo", "motivos", "nueva", "codigo", "nombre", "organismo", "unidad", "monto",
                                      "cierre_iso", "publicacion", "publicacion_iso", "ofertas", "productos", "link",
-                                     "sin_detalle")} for f in filas],
+                                     "sin_detalle", "descripcion")} for f in filas],
         "pendientes": [{"codigo": c["codigo"], "nombre": (c.get("nombre") or "")[:110],
                         "organismo": (c.get("institucion") or {}).get("organismo_comprador") or "",
                         "link": f"https://buscador.mercadopublico.cl/ficha?code={c['codigo']}"} for c in pendientes],
@@ -334,7 +334,10 @@ def generar_perfil(perfil, compras, cache, ahora):
         fechas = c.get("fechas") or {}
         cierre = a_local(fechas.get("fecha_cierre"))
         pub = a_local(fechas.get("fecha_publicacion"))
-        visto = a_local(det.get("visto")) if det.get("visto") else None
+        try:
+            visto = datetime.fromisoformat(det["visto"]) if det.get("visto") else None
+        except ValueError:
+            visto = None
         if visto and visto.tzinfo is None:
             visto = visto.replace(tzinfo=ZONA)
         filas.append({
@@ -354,8 +357,10 @@ def generar_perfil(perfil, compras, cache, ahora):
             "sin_detalle": sin_detalle,
             "ofertas": (c.get("resumen") or {}).get("total_ofertas_recibidas", 0),
             "productos": [] if sin_detalle else
-                         [[str(p.get('codigo_producto') or ''), p.get('nombre') or '']
+                         [[str(p.get('codigo_producto') or ''), p.get('nombre') or '',
+                           p.get('cantidad'), (p.get('descripcion') or '').strip()]
                           for p in det.get("productos_solicitados") or []],
+            "descripcion": "" if sin_detalle else (det.get("descripcion") or "").strip(),
             "link": f"https://buscador.mercadopublico.cl/ficha?code={c['codigo']}",
         })
     filas.sort(key=lambda f: f["cierre_iso"] or "9999")

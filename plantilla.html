@@ -492,6 +492,25 @@
     }
     .deal-offers-note b { color: var(--text-solid); font-weight: 700; }
 
+    .deal-link2 { display: inline-flex; align-items: center; gap: 4px; margin-top: 6px; font-size: 11.5px; font-weight: 600; color: var(--accent-blue); text-decoration: none; }
+    .deal-link2:hover { text-decoration: underline; }
+    .deal-detail { margin-top: 10px; }
+    .deal-detail > summary { display: inline-flex; align-items: center; gap: 6px; cursor: pointer; list-style: none; font-size: 12px; font-weight: 700; color: var(--text-secondary); padding: 4px 10px; border: 1px solid var(--border); border-radius: var(--radius-sm); background: var(--surface-subtle); user-select: none; }
+    .deal-detail > summary::-webkit-details-marker { display: none; }
+    .deal-detail > summary::after { content: '▾'; font-size: 11px; transition: transform .15s; }
+    .deal-detail[open] > summary::after { transform: rotate(180deg); }
+    .deal-detail > summary:hover { color: var(--text-solid); border-color: var(--accent-blue); }
+    .detail-body { margin-top: 10px; padding: 12px 14px; border-radius: var(--radius-sm); background: var(--surface-subtle); border: 1px solid var(--border); font-size: 13px; line-height: 1.5; color: var(--text-main); }
+    .detail-body .d-label { font-size: 10.5px; font-weight: 700; letter-spacing: .06em; text-transform: uppercase; color: var(--text-muted); margin-bottom: 4px; }
+    .detail-body .d-desc { margin-bottom: 12px; white-space: pre-line; }
+    .detail-body ol { margin: 0; padding-left: 18px; }
+    .detail-body li { margin-bottom: 8px; }
+    .detail-body li:last-child { margin-bottom: 0; }
+    .detail-body .p-head { font-weight: 600; color: var(--text-solid); }
+    .detail-body .p-qty { font-family: "JetBrains Mono", monospace; color: var(--accent-blue); margin-right: 6px; }
+    .detail-body .p-code { font-family: "JetBrains Mono", monospace; color: var(--text-muted); font-size: 11.5px; margin-left: 6px; }
+    .detail-body .p-desc { color: var(--text-secondary); white-space: pre-line; }
+    .ofertas-aviso { color: var(--text-muted); cursor: help; }
     .deal-actions {
       display: flex;
       gap: 6px;
@@ -699,6 +718,7 @@
     <div>
       <span id="total">0</span> compras ágiles abiertas en la región al momento de la revisión. Fuente: API Compra Ágil de Mercado Público.
       Se revisa cada hora entre 06:30 y 21:30.
+      <br>* El número de ofertas viene de la API de Mercado Público y puede estar atrasado; el dato al día está en la ficha.
     </div>
     <div class="rubros-stream" id="rubros"></div>
   </footer>
@@ -757,6 +777,18 @@ const ICON = {
   ext: '<svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/><polyline points="15 3 21 3 21 9"/><line x1="10" y1="14" x2="21" y2="3"/></svg>'
 };
 
+const abiertos = new Set();
+function detalle(f) {
+  let body;
+  if (f.sin_detalle) body = '<div class="p-desc">Mercado Público no entregó el detalle de esta compra. Revisa la ficha.</div>';
+  else {
+    const desc = f.descripcion ? `<div class="d-label">Descripción</div><div class="d-desc">${esc(f.descripcion)}</div>` : '';
+    const prods = (f.productos || []).map(p => `<li><div class="p-head">${p[2] != null ? `<span class="p-qty">${esc(p[2])} ×</span>` : ''}${esc(p[1])}<span class="p-code">${esc(p[0])}</span></div>${p[3] ? `<div class="p-desc">${esc(p[3])}</div>` : ''}</li>`).join('');
+    body = desc + (prods ? `<div class="d-label">Productos solicitados (${f.productos.length})</div><ol>${prods}</ol>` : '');
+  }
+  return `<details class="deal-detail" data-cod="${esc(f.codigo)}"${abiertos.has(f.codigo) ? ' open' : ''}><summary>Ver detalle</summary><div class="detail-body">${body}</div></details>`;
+}
+
 function tarjeta(f) {
   const r = reloj(f.cierre_iso), st = estado[f.codigo];
   const esRubro = f.tipo === 'OPORTUNIDAD';
@@ -787,11 +819,13 @@ function tarjeta(f) {
         ${f.unidad ? '<span>· ' + esc(f.unidad) + '</span>' : ''}
       </div>
       <div class="deal-tags">${motivos}${prods}</div>
+      ${detalle(f)}
     </div>
     <div class="deal-aside">
       <div>
         <div class="deal-amount-val">${pesos(f.monto)}</div>
-        <div class="deal-offers-note"><b>${f.ofertas || 0}</b> ofertas · ${esc(f.publicacion)}</div>
+        <div class="deal-offers-note"><span class="ofertas-aviso" title="Dato de la API de Mercado Público: puede venir atrasado. El número al día está en la ficha."><b>${f.ofertas || 0}</b> ofertas*</span> · ${esc(f.publicacion)}</div>
+        <a class="deal-link2" href="https://compra-agil.mercadopublico.cl/resumen-cotizacion/${encodeURIComponent(f.codigo)}" target="_blank" rel="noopener" title="Requiere tener la sesión iniciada en Mercado Público">Ver en Compra Ágil ${ICON.ext}</a>
       </div>
       <div class="deal-actions">
         <a class="btn-deal btn-primary" href="${esc(f.link)}" target="_blank" rel="noopener">Ficha ${ICON.ext}</a>
@@ -808,7 +842,7 @@ function pintar() {
   let items = D.filas.filter(f =>
     (filtro === 'todas' || (filtro === 'rubro' ? f.tipo === 'OPORTUNIDAD' : f.tipo === 'POSIBLE')) &&
     !(ocultar && estado[f.codigo]) &&
-    (!q || [f.codigo, f.nombre, f.organismo, f.unidad, ...f.motivos, ...f.productos.flat()].join(' ').toLowerCase().includes(q)));
+    (!q || [f.codigo, f.nombre, f.organismo, f.unidad, f.descripcion, ...f.motivos, ...f.productos.flat()].join(' ').toLowerCase().includes(q)));
   
   const nv = f => noVistas.has(f.codigo) ? 0 : 1;
   if (orden === 'cierre') items = items.slice().sort((a, b) => nv(a) - nv(b));
@@ -829,6 +863,11 @@ function pintar() {
     out.innerHTML = `<section class="group-section"><div class="group-label">${orden === 'monto' ? 'Ordenado por Monto' : 'Publicaciones Recientes'} <span class="group-count">${items.length}</span></div><div class="items-stream">${items.map(tarjeta).join('')}</div></section>`;
   }
 }
+
+$('#lista').addEventListener('toggle', e => {
+  const d = e.target; if (!d.classList || !d.classList.contains('deal-detail')) return;
+  if (d.open) abiertos.add(d.dataset.cod); else abiertos.delete(d.dataset.cod);
+}, true);
 
 $('#lista').addEventListener('click', e => {
   const b = e.target.closest('button[data-v]'); if (!b) return;
