@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-09-25T16:34:15.056558-03:00",
+ "actualizado": "2026-09-25T17:36:30.797764-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
- "total_region": 237,
+ "total_region": 240,
  "rubros": {
   "80141600": "Ventas y marketing",
   "82101600": "Publicidad en medios no impresos",
@@ -14,33 +14,6 @@
   "83121700": "Comunicación social y de masas"
  },
  "filas": [
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "radio"
-   ],
-   "nueva": true,
-   "codigo": "1403-391-COT26",
-   "nombre": "ADQ. SERV. TRASLADO LACTANTE DESDE EL CCP A JARDIN INFANTIL ",
-   "organismo": "Dirección Regional de Gendarmeria - Coyhaique",
-   "unidad": "Región de Aysén",
-   "monto": 3500000,
-   "cierre_iso": "2026-09-25T17:30:00-03:00",
-   "publicacion": "24-09 17:20",
-   "publicacion_iso": "2026-09-24T17:20:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "78111804",
-     "Servicios de taxi",
-     100,
-     "SERVICIO DE TRASLADO URBANO, DESDE EL CCP COYHAIQUE AL JARDIN INFANTIL FUTURO AUSTRAL, POR SERVICIO REALIZADO.\nPOR PERIODO DE 3 MESES.\nCUMPLIR CON LOS ANTECEDENTES TÉCNICOS SOLICITADOS."
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1403-391-COT26",
-   "sin_detalle": false,
-   "descripcion": "SERVICIO DE TRASLADO DIARIO, POR SERVICIO REALIZADO DENTRO DEL RADIO URBANO, DESDE EL CCP A JARDÍN INFANTIL FUTURO AUSTRAL.\nCUMPLIR CON LOS REQUISITOS SOLICITADOS EN REQ. ADMINISTRATIVO Y DOCUMENTACIÓN (VIGENTE DEL VEHICULO)"
-  },
   {
    "tipo": "POSIBLE",
    "motivos": [
@@ -100,7 +73,7 @@
    "motivos": [
     "televisión"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "1057062-430-COT26",
    "nombre": "Adquisición de 2 televisores LED de 43\" y 2 soporte articulado, según fisabs 2210 proyecto AIUE 2455",
    "organismo": "UNIVERSIDAD DE AYSEN",

@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-09-25T16:34:15.056558-03:00",
+ "actualizado": "2026-09-25T17:36:30.797764-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
- "total_region": 237,
+ "total_region": 240,
  "rubros": {
   "25172700": "Aire acondicionado",
   "25173900": "Componentes eléctricos",
@@ -19,87 +19,6 @@
   "39121400": "Conectores, enchufes y terminales"
  },
  "filas": [
-  {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Conectores, enchufes y terminales"
-   ],
-   "nueva": false,
-   "codigo": "951405-240-COT26",
-   "nombre": "(REME_IDPM) DESMOT_FTC_ADQUISICIÓN DE MATERIALES DE REPARACIÓN PARA LA UNIDAD",
-   "organismo": "JEFATURA ADMINISTRATIVA Y LOGISTICA DE LA GUARNICION COYHAIQUE",
-   "unidad": "JAL - Guarnición \"Coyhaique\"",
-   "monto": 1620104,
-   "cierre_iso": "2026-09-25T16:51:00-03:00",
-   "publicacion": "04-09 10:07",
-   "publicacion_iso": "2026-09-04T10:07:00-04:00",
-   "ofertas": 1,
-   "productos": [
-    [
-     "31162301",
-     "Perfiles de montaje",
-     2,
-     "PERFIL ANGULO DOBLE 30 X 30 X 2 MM"
-    ],
-    [
-     "31162301",
-     "Perfiles de montaje",
-     8,
-     "PERFIL ANGULO DOBLE 20 X 20 X 2 MM"
-    ],
-    [
-     "31191515",
-     "Malla abrasiva",
-     2,
-     "MALLA ACMA CG 5050 10 1 0X2 MTS"
-    ],
-    [
-     "39121436",
-     "Electrodos",
-     3,
-     "ELECTRODO 6011 3 32 1 KL"
-    ],
-    [
-     "31162404",
-     "Grapas de ferretería",
-     3,
-     "BISAGRAS L 84 4X4"
-    ],
-    [
-     "31161620",
-     "Pernos de cabeza hexagonal",
-     1,
-     "PERNO HEXAGONAL 5/8 M 6 X 25 2 UNID"
-    ],
-    [
-     "31162301",
-     "Perfiles de montaje",
-     3,
-     "PERFIL CUADRADO 30 X 30 X 2"
-    ],
-    [
-     "30151602",
-     "Planchas de escurrimiento",
-     8,
-     "PLANCHA SIMPLISIMA TEXTURA AMBAR 6 MM 120 X 240 3 UNIDADES"
-    ],
-    [
-     "46171503",
-     "Juegos de cerraduras",
-     2,
-     "PICAPORTE 1 2 CAN 100 MM BRONCE"
-    ],
-    [
-     "30171505",
-     "Puertas de metal",
-     1,
-     "KIT PUERTA LISTA ACERO 2 P BLANCA 90 X 200"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=951405-240-COT26",
-   "sin_detalle": false,
-   "descripcion": "SE REQUIERE ADQUIRIR MATERIALES DE CONSTRUCCIÓN PARA REPARACIÓN DE DEPENDENCIAS DE LA IDPM. 1) LA OFERTA SERÁ A SUMA ALZADA Y NO PODRÁ SUPERAR EL PRESUPUESTO DISPONIBLE. 2) LOS COSTOS DE ENVÍO DEBEN SER INCLUIDOS EN EL VALOR TOTAL DE LA COMPRA (SI CORRESPONDE). 3) LUGAR DE ENTREGA:EN DEPENDENCIAS DEL CAMPO MILITAR COYHAIQUE. 4) SE PREVILIGIARÁ EL PLAZO DE ENTREGA (NO DESPACHO) Y CON LA FINALIDAD DE PROMOVER LA ECONOMÍA LOCAL SE PRIVILIGIARÁ A PROVEEDORES LOCALES."
-  },
   {
    "tipo": "POSIBLE",
    "motivos": [
@@ -412,6 +331,45 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=4778-285-COT26",
    "sin_detalle": false,
    "descripcion": "1. LEER ADJUNTOS PARA AJUSTARSE A ESPECIFICACIONES.\n2. INCLUIR FOTOS,COTIZACIÓN FORMAL Y ESPECIFICACIONES TÉCNICAS EN ESPAÑOL.\n   INDIQUE GARANTÍAS, PLAZOS DE REPOSICIÓN Y TODA INFORMACIÓN ÚTIL PARA EL \n   ANÁLISIS Y COMPARACIÓN  DE OFERTAS. \n3. INCLUIR EMBALAJE Y FLETE A DIRECCIÓN DE DESPACHO.\n4. VIGENCIA DEL PRODUCTO DEBE SER SUPERIOR A UN AÑO COMO MÍNIMO. \n5. NO PARCIALIZAR DESPACHO (UN SÓLO ENVÍO)\n6. NO DEBE ESTAR SUJETA A STOCK\n   (COTIZACIONES Y MARCAS Y VALORES ADJUNTOS SON REFERENCIALES)"
+  },
+  {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Enfriamiento (aires acondicionados)"
+   ],
+   "nueva": true,
+   "codigo": "418-1422-COT26",
+   "nombre": "Enfriador de aire climatizador, Ventilador y Calefactor",
+   "organismo": "SERVICIO NACIONAL DE SALUD HOSPITAL DE PUERTO AYSEN",
+   "unidad": "H Puerto Aysén",
+   "monto": 570761,
+   "cierre_iso": "2026-09-28T08:30:00-03:00",
+   "publicacion": "25-09 16:54",
+   "publicacion_iso": "2026-09-25T16:54:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "52141510",
+     "Ventiladores",
+     2,
+     "2 ventiladores de oficina"
+    ],
+    [
+     "42281514",
+     "Calefactores de higienización o accesorios",
+     1,
+     "1 calefactor de oficina"
+    ],
+    [
+     "40101703",
+     "Enfriadores por evaporación",
+     1,
+     "Enfriador de aire climatizador portátil de alto flujo"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=418-1422-COT26",
+   "sin_detalle": false,
+   "descripcion": "Enfriador de aire climatizador, Ventilador y Calefactor para oficinas"
   },
   {
    "tipo": "OPORTUNIDAD",
