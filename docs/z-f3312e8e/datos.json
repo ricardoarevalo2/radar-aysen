@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-09-25T13:38:35.706000-03:00",
+ "actualizado": "2026-09-25T14:36:31.569074-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
- "total_region": 247,
+ "total_region": 242,
  "rubros": {
   "25172700": "Aire acondicionado",
   "25173900": "Componentes eléctricos",
@@ -19,60 +19,6 @@
   "39121400": "Conectores, enchufes y terminales"
  },
  "filas": [
-  {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Enfriamiento (aires acondicionados)"
-   ],
-   "nueva": false,
-   "codigo": "951405-245-COT26",
-   "nombre": "(F.INT_CC.PELUQUERÍA) JAL_CAJ_ADQ. DE EQUIPO DE AIRE ACONDICIONADO PARA LA PELUQUERÍA DEL CIELB.",
-   "organismo": "JEFATURA ADMINISTRATIVA Y LOGISTICA DE LA GUARNICION COYHAIQUE",
-   "unidad": "JAL - Guarnición \"Coyhaique\"",
-   "monto": 570000,
-   "cierre_iso": "2026-09-25T13:41:00-03:00",
-   "publicacion": "21-09 15:18",
-   "publicacion_iso": "2026-09-21T15:18:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "40101701",
-     "Aires acondicionados",
-     1,
-     "EQUIPO ELÉCTRICO, INSTALACIÓN SUPERIOR EN MURO, CAPACIDAD FRÍO BTUH:22.499, CAPACIDAD CALOR BTUH: 23.000, CONSUMO FRÍO 2: 60,87, CONSUMO CALOR W: 55,,41, CONSUMO MÁXIMO W: 2.850, CON SISTEMA DE AUTOLIMPIEZA, MODO ECO, CONTROL REMOTO (SIMILAR O EQUIVALENTE A \"CONFEE BY MIDEA\")"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=951405-245-COT26",
-   "sin_detalle": false,
-   "descripcion": "1) COTIZACIONES A SUMA ALZADA. 2) TODA COORDINACIÓN SERÁ CON EL ADMINISTRADOR O CONTACTO PREVIO AL ENVÍO. 3) CONSIDERAR LA TOTALIDAD DE LOS BIENES SOLICITADOS Y CON STOCK DE LOS MISMOS (CONFIRMAR). 4) LA OFERTA NO DEBERÁ SOBREPASAR EL MONTO DISPONIBLE. 5) TENDRÁ UN PLAZO DE CINCO (5) DÍAS HÁBILES PARA LA ENTREGA. 6) LA ENTREGA SE REALIZARÁ EN AVDA. BAQUEDANO ESQUINA EJÉRCITO S/N.° (AL INTERIOR DE CMC), CIUDAD DE COYHAIQUE, REGIÓN DE AYSÉN. 7) SE PRIVILEGIARÁ AL PROVEEDOR CON ENTREGA MÁS RÁPIDA."
-  },
-  {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Gasfitería, calefacción y aire acondicionado"
-   ],
-   "nueva": false,
-   "codigo": "4644-71-COT26",
-   "nombre": "SERVICIO DE MANTENCIÓN Y REPARACIÓN DE CALDERA DE RESERVA NACIONAL RIO SIMPSON",
-   "organismo": "CORP NACIONAL FORESTAL",
-   "unidad": "XI Región - Oficina Provincial Aysen",
-   "monto": 1200000,
-   "cierre_iso": "2026-09-25T14:30:00-03:00",
-   "publicacion": "24-09 11:26",
-   "publicacion_iso": "2026-09-24T11:26:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "72102301",
-     "Supervisión de instalación, ajuste o mantenimiento de calderas",
-     1,
-     "Servicio mantención caldera a pellet de Reserva Nacional Rio Simpson, Según bases adjuntas"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=4644-71-COT26",
-   "sin_detalle": false,
-   "descripcion": "Servicio de Mantención caldera Rio Simpson, según bases administrativas adjuntas."
-  },
   {
    "tipo": "POSIBLE",
    "motivos": [
