@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-09-25T10:37:19.751909-03:00",
+ "actualizado": "2026-09-25T11:38:21.653602-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
- "total_region": 243,
+ "total_region": 254,
  "rubros": {
   "80141600": "Ventas y marketing",
   "82101600": "Publicidad en medios no impresos",
@@ -121,6 +121,33 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=3797-427-COT26",
    "sin_detalle": false,
    "descripcion": "ADQUIRIR PREMIOS SOUVENIRS, ARTICULOS PROMOCIONALES, MATERIAL GRAFICO Y ELEMENTOS DE APOYO DESTINADOS A LA EJECUCION DE LA ACTIVIDAD 12 LANZAMIENTO TEMPORADA TURISTICA"
+  },
+  {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Inserciones publicitarias en medios"
+   ],
+   "nueva": true,
+   "codigo": "4066-393-COT26",
+   "nombre": "SERVICIO DE DIFUSION EN REDES SOCIALES DIGITALES DE LAS ACTIVIDADES DEL PROGRAMA DE TRANSFERENCIA DE FORTALECIMIENTO PRODUCTIVO PARA LA COMUNA DE RÍO IBAÑEZ CODIGO BIP 40066883-0",
+   "organismo": "I MUNICIPALIDAD RIO IBANEZ",
+   "unidad": "DIDECO",
+   "monto": 1500000,
+   "cierre_iso": "2026-09-27T04:13:00-03:00",
+   "publicacion": "23-09 16:28",
+   "publicacion_iso": "2026-09-23T16:28:00-03:00",
+   "ofertas": 1,
+   "productos": [
+    [
+     "82101903",
+     "Avisos en Internet",
+     1,
+     "SERVICIO DE DIFUSION EN REDES SOCIALES DIGITALES DE LAS ACTIVIDADES DEL PROGRAMA DE TRANSFERENCIA DE FORTALECIMIENTO PRODUCTIVO PARA LA COMUNA DE RÍO IBAÑEZ CODIGO BIP 40066883-0\n\n3 ESTADOS DE PAGO OCTUBRE NOVIEMBRE DICIEMBRE"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=4066-393-COT26",
+   "sin_detalle": false,
+   "descripcion": "SE REQUIERE CONTRATAR EL SERVICIO DE DIFUSION EN REDES SOCIALES DIGITALES DE LAS ACTIVIDADES DEL PROGRAMA DE TRANSFERENCIA DE FORTALECIMIENTO PRODUCTIVO PARA LA COMUNA DE RÍO IBAÑEZ CODIGO BIP 40066883-0, SEGUN EL COMPONENTE DE COMUNICACION Y DIFUSION, SEGUN TERMINOS DE REFERENCIA ADJUNTO EN 3 ESTADOS DE PAGO DESDE EL MES DE OCTUBRE-NOVIEMBRE-DICIEMBRE 2026"
   },
   {
    "tipo": "POSIBLE",
