@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-09-25T12:36:24.147327-03:00",
+ "actualizado": "2026-09-25T13:38:35.706000-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
- "total_region": 257,
+ "total_region": 247,
  "rubros": {
   "25172700": "Aire acondicionado",
   "25173900": "Componentes eléctricos",
@@ -19,33 +19,6 @@
   "39121400": "Conectores, enchufes y terminales"
  },
  "filas": [
-  {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Enfriamiento (aires acondicionados)"
-   ],
-   "nueva": false,
-   "codigo": "418-1407-COT26",
-   "nombre": "COHM-SERVICIO DE SUMINISTRO Y INSTALACION DE EQUIPOS SPLIT MURO INVERTER R32 ECO FLOW 18.000 BTU ",
-   "organismo": "SERVICIO NACIONAL DE SALUD HOSPITAL DE PUERTO AYSEN",
-   "unidad": "H Puerto Aysén",
-   "monto": 1700000,
-   "cierre_iso": "2026-09-25T13:00:00-03:00",
-   "publicacion": "23-09 15:55",
-   "publicacion_iso": "2026-09-23T15:55:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "40101701",
-     "Aires acondicionados",
-     2,
-     "SE REQUIERE SERVICIO DE SUMINISTRO Y INSTALACION DE 02 UNIDADES DE EQUIPO SPLIT MURO INVERTER R32 ECO FLOW 18.000 BTU EN DEPENDENCIAS HOSPITAL DE PUERTO AYSEN."
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=418-1407-COT26",
-   "sin_detalle": false,
-   "descripcion": "SE REQUIERE ADQUIRIR SERVICIO DE SUMINISTRO Y INSTALACION DE 02 UNIDADES DE EQUIPOS SPLIT MURO INVERTER R32 ECO FLOW 18.000 BTU EN HOSPITAL DE PUERTO AYSEN. SE EXIGE COTIZAR LA TOTALIDAD DEL SERVICIO. COTIZACIÓN VÁLIDA POR 30 DÍAS. ADJUNTAR FICHA TÉCNICA DE LOS EQUIPOS. ADJUNTAR TELÉFONO Y CORREO PARA REALIZAR SEGUIMIENTO. DEBE INCORPORAR DATOS BANCARIOS EN LA COTIZACIÓN."
-  },
   {
    "tipo": "OPORTUNIDAD",
    "motivos": [
@@ -418,159 +391,6 @@
   {
    "tipo": "POSIBLE",
    "motivos": [
-    "iluminación"
-   ],
-   "nueva": false,
-   "codigo": "3791-967-COT26",
-   "nombre": "AUDIO Y ILUMINACION ",
-   "organismo": "I MUNICIPALIDAD DE CISNES",
-   "unidad": "Finanzas",
-   "monto": 2500000,
-   "cierre_iso": "2026-09-26T10:37:00-03:00",
-   "publicacion": "24-09 09:22",
-   "publicacion_iso": "2026-09-24T09:22:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "80161507",
-     "Servicios Audio Visuales",
-     8,
-     "SISTEMA LINE ARRAY"
-    ],
-    [
-     "80161507",
-     "Servicios Audio Visuales",
-     1,
-     "CONSOLA DE AUDIO DIGITAL"
-    ],
-    [
-     "80161507",
-     "Servicios Audio Visuales",
-     3,
-     "SUB BAJOS"
-    ],
-    [
-     "80161507",
-     "Servicios Audio Visuales",
-     2,
-     "AMPLIFICADOR DIGITAL"
-    ],
-    [
-     "80161507",
-     "Servicios Audio Visuales",
-     1,
-     "PROCESADOR DE AUDIO"
-    ],
-    [
-     "80161507",
-     "Servicios Audio Visuales",
-     4,
-     "MONITORES DE PISO"
-    ],
-    [
-     "80161507",
-     "Servicios Audio Visuales",
-     15,
-     "MICROFONOS DINAMICOS"
-    ],
-    [
-     "80161507",
-     "Servicios Audio Visuales",
-     4,
-     "MICROFONOS INALAMBRICOS"
-    ],
-    [
-     "80161507",
-     "Servicios Audio Visuales",
-     12,
-     "CAJAS DIRECTAS"
-    ],
-    [
-     "80161507",
-     "Servicios Audio Visuales",
-     2,
-     "ACONDICIONADOR DE ENERGIA 220 VOLT"
-    ],
-    [
-     "80161507",
-     "Servicios Audio Visuales",
-     40,
-     "LINEAS XLR"
-    ],
-    [
-     "80161507",
-     "Servicios Audio Visuales",
-     1,
-     "INGENIERO DE SONIDO"
-    ],
-    [
-     "80161507",
-     "Servicios Audio Visuales",
-     2,
-     "ASISTENTE DE AUDIO"
-    ],
-    [
-     "80161507",
-     "Servicios Audio Visuales",
-     1,
-     "CONSOLA ILUMINACION"
-    ],
-    [
-     "80161507",
-     "Servicios Audio Visuales",
-     4,
-     "CABEZALES MOVILES BEAM 230 7R"
-    ],
-    [
-     "80161507",
-     "Servicios Audio Visuales",
-     6,
-     "CABEZALES MOVILES WASH"
-    ],
-    [
-     "80161507",
-     "Servicios Audio Visuales",
-     8,
-     "FOCOS LED"
-    ],
-    [
-     "80161507",
-     "Servicios Audio Visuales",
-     2,
-     "BLINDER DE 4 LAMPARAS"
-    ],
-    [
-     "80161507",
-     "Servicios Audio Visuales",
-     5,
-     "FOCOS COB"
-    ],
-    [
-     "80161507",
-     "Servicios Audio Visuales",
-     6,
-     "TRUSS 3 METROS DE 30X30CM"
-    ],
-    [
-     "80161507",
-     "Servicios Audio Visuales",
-     4,
-     "TECLES 1 TONELADA"
-    ],
-    [
-     "80161507",
-     "Servicios Audio Visuales",
-     32,
-     "MODULO LED 50X50"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=3791-967-COT26",
-   "sin_detalle": false,
-   "descripcion": "ADQUISICIÓN DE LOS SERVICIOS DE AUDIO, ILUMINACIÓN Y PANTALLA PARA LA ACTIVIDAD ENCUENTRO DE ARTESANAS QUE SE REALIZARA EN LA LOCALIDAD DE PUYUHUAPI EL 03 DE OCTUBRE DE 2026. SE ADJUNTAN ANEXOS"
-  },
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
     "enchufe",
     "interruptor"
    ],
@@ -878,6 +698,159 @@
   {
    "tipo": "POSIBLE",
    "motivos": [
+    "iluminación"
+   ],
+   "nueva": false,
+   "codigo": "3791-967-COT26",
+   "nombre": "AUDIO Y ILUMINACION ",
+   "organismo": "I MUNICIPALIDAD DE CISNES",
+   "unidad": "Finanzas",
+   "monto": 2500000,
+   "cierre_iso": "2026-09-28T10:30:00-03:00",
+   "publicacion": "24-09 09:22",
+   "publicacion_iso": "2026-09-24T09:22:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "80161507",
+     "Servicios Audio Visuales",
+     8,
+     "SISTEMA LINE ARRAY"
+    ],
+    [
+     "80161507",
+     "Servicios Audio Visuales",
+     1,
+     "CONSOLA DE AUDIO DIGITAL"
+    ],
+    [
+     "80161507",
+     "Servicios Audio Visuales",
+     3,
+     "SUB BAJOS"
+    ],
+    [
+     "80161507",
+     "Servicios Audio Visuales",
+     2,
+     "AMPLIFICADOR DIGITAL"
+    ],
+    [
+     "80161507",
+     "Servicios Audio Visuales",
+     1,
+     "PROCESADOR DE AUDIO"
+    ],
+    [
+     "80161507",
+     "Servicios Audio Visuales",
+     4,
+     "MONITORES DE PISO"
+    ],
+    [
+     "80161507",
+     "Servicios Audio Visuales",
+     15,
+     "MICROFONOS DINAMICOS"
+    ],
+    [
+     "80161507",
+     "Servicios Audio Visuales",
+     4,
+     "MICROFONOS INALAMBRICOS"
+    ],
+    [
+     "80161507",
+     "Servicios Audio Visuales",
+     12,
+     "CAJAS DIRECTAS"
+    ],
+    [
+     "80161507",
+     "Servicios Audio Visuales",
+     2,
+     "ACONDICIONADOR DE ENERGIA 220 VOLT"
+    ],
+    [
+     "80161507",
+     "Servicios Audio Visuales",
+     40,
+     "LINEAS XLR"
+    ],
+    [
+     "80161507",
+     "Servicios Audio Visuales",
+     1,
+     "INGENIERO DE SONIDO"
+    ],
+    [
+     "80161507",
+     "Servicios Audio Visuales",
+     2,
+     "ASISTENTE DE AUDIO"
+    ],
+    [
+     "80161507",
+     "Servicios Audio Visuales",
+     1,
+     "CONSOLA ILUMINACION"
+    ],
+    [
+     "80161507",
+     "Servicios Audio Visuales",
+     4,
+     "CABEZALES MOVILES BEAM 230 7R"
+    ],
+    [
+     "80161507",
+     "Servicios Audio Visuales",
+     6,
+     "CABEZALES MOVILES WASH"
+    ],
+    [
+     "80161507",
+     "Servicios Audio Visuales",
+     8,
+     "FOCOS LED"
+    ],
+    [
+     "80161507",
+     "Servicios Audio Visuales",
+     2,
+     "BLINDER DE 4 LAMPARAS"
+    ],
+    [
+     "80161507",
+     "Servicios Audio Visuales",
+     5,
+     "FOCOS COB"
+    ],
+    [
+     "80161507",
+     "Servicios Audio Visuales",
+     6,
+     "TRUSS 3 METROS DE 30X30CM"
+    ],
+    [
+     "80161507",
+     "Servicios Audio Visuales",
+     4,
+     "TECLES 1 TONELADA"
+    ],
+    [
+     "80161507",
+     "Servicios Audio Visuales",
+     32,
+     "MODULO LED 50X50"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=3791-967-COT26",
+   "sin_detalle": false,
+   "descripcion": "ADQUISICIÓN DE LOS SERVICIOS DE AUDIO, ILUMINACIÓN Y PANTALLA PARA LA ACTIVIDAD ENCUENTRO DE ARTESANAS QUE SE REALIZARA EN LA LOCALIDAD DE PUYUHUAPI EL 03 DE OCTUBRE DE 2026. SE ADJUNTAN ANEXOS"
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
     "eléctrico"
    ],
    "nueva": true,
@@ -999,12 +972,6 @@
    "nombre": "Materiales de oficina Centro de las Mujeres",
    "organismo": "I MUNICIPALIDAD DE COYHAIQUE",
    "link": "https://buscador.mercadopublico.cl/ficha?code=2495-523-COT26"
-  },
-  {
-   "codigo": "1057062-428-COT26",
-   "nombre": "Adquisición materiales de oficina según FISABS 2102, URY 2457.",
-   "organismo": "UNIVERSIDAD DE AYSEN",
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1057062-428-COT26"
   },
   {
    "codigo": "418-1393-COT26",

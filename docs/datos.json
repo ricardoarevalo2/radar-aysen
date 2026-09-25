@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-09-25T12:36:24.147327-03:00",
+ "actualizado": "2026-09-25T13:38:35.706000-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
- "total_region": 257,
+ "total_region": 247,
  "rubros": {
   "80141600": "Ventas y marketing",
   "82101600": "Publicidad en medios no impresos",
@@ -14,33 +14,6 @@
   "83121700": "Comunicación social y de masas"
  },
  "filas": [
-  {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Publicidad en medios no impresos"
-   ],
-   "nueva": false,
-   "codigo": "1746-224-COT26",
-   "nombre": "Contratación de agencia de comunicaciones-Plan Hantavirus (P 457 SEREMI)",
-   "organismo": "SUBSECRETARIA DE SALUD PUBLICA",
-   "unidad": "Seremi de Salud XI Región",
-   "monto": 3000000,
-   "cierre_iso": "2026-09-25T13:00:00-03:00",
-   "publicacion": "23-09 08:53",
-   "publicacion_iso": "2026-09-23T08:53:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "82101601",
-     "Publicidad en radio",
-     1,
-     "Contratación de agencia de comunicaciones para implementación de plan de medios de prevención de Hantavirus en la región de Aysén, desde el 01 de octubre al 15 de diciembre del 2026, de acuerdo con especificaciones indicadas en el adjunto"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1746-224-COT26",
-   "sin_detalle": false,
-   "descripcion": "Solicitado mediante Pedido de Materiales N° 457 de Gabinete Seremi de Salud Aysén"
-  },
   {
    "tipo": "POSIBLE",
    "motivos": [
@@ -160,7 +133,7 @@
    "motivos": [
     "radio"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "2713-1154-COT26",
    "nombre": "EQUIPAMIENTO PARA RADIO FM. SOLICITUD 1188 ALCALDIA.",
    "organismo": "I MUNICIPALIDAD DE AYSEN",
@@ -201,12 +174,6 @@
    "nombre": "Materiales de oficina Centro de las Mujeres",
    "organismo": "I MUNICIPALIDAD DE COYHAIQUE",
    "link": "https://buscador.mercadopublico.cl/ficha?code=2495-523-COT26"
-  },
-  {
-   "codigo": "1057062-428-COT26",
-   "nombre": "Adquisición materiales de oficina según FISABS 2102, URY 2457.",
-   "organismo": "UNIVERSIDAD DE AYSEN",
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1057062-428-COT26"
   },
   {
    "codigo": "418-1393-COT26",
