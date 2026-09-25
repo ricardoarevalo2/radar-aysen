@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-09-25T09:41:16.136433-03:00",
+ "actualizado": "2026-09-25T10:37:19.751909-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
- "total_region": 236,
+ "total_region": 243,
  "rubros": {
   "80141600": "Ventas y marketing",
   "82101600": "Publicidad en medios no impresos",
@@ -14,103 +14,6 @@
   "83121700": "Comunicación social y de masas"
  },
  "filas": [
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "difusión",
-    "publicidad"
-   ],
-   "nueva": false,
-   "codigo": "4066-394-COT26",
-   "nombre": " SERVICIO DE PUBLICACIÓN DE NOTA DE PRENSA INSTITUCIONAL EN MEDIO DE COMUNICACIÓN REGIONAL",
-   "organismo": "I MUNICIPALIDAD RIO IBANEZ",
-   "unidad": "DIDECO",
-   "monto": 990465,
-   "cierre_iso": "2026-09-25T10:00:00-03:00",
-   "publicacion": "23-09 16:45",
-   "publicacion_iso": "2026-09-23T16:45:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "82101504",
-     "Publicidad en periódicos"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=4066-394-COT26",
-   "sin_detalle": false
-  },
-  {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Inserciones publicitarias en medios"
-   ],
-   "nueva": false,
-   "codigo": "4066-393-COT26",
-   "nombre": "SERVICIO DE DIFUSION EN REDES SOCIALES DIGITALES DE LAS ACTIVIDADES DEL PROGRAMA DE TRANSFERENCIA DE FORTALECIMIENTO PRODUCTIVO PARA LA COMUNA DE RÍO IBAÑEZ CODIGO BIP 40066883-0",
-   "organismo": "I MUNICIPALIDAD RIO IBANEZ",
-   "unidad": "DIDECO",
-   "monto": 1500000,
-   "cierre_iso": "2026-09-25T10:00:00-03:00",
-   "publicacion": "23-09 16:28",
-   "publicacion_iso": "2026-09-23T16:28:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "82101903",
-     "Avisos en Internet"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=4066-393-COT26",
-   "sin_detalle": false
-  },
-  {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Publicidad en medios no impresos"
-   ],
-   "nueva": false,
-   "codigo": "4066-392-COT26",
-   "nombre": "SERV. DE DIFUSION A TRAVES RADIAL DEL PROGRAMA TRANSFERENCIA DE FORTALECIMIENTO PRODUCTIVO PARA LA COMUNA DE RIO IBAÑEZ CODIGO BIP 40066883-0",
-   "organismo": "I MUNICIPALIDAD RIO IBANEZ",
-   "unidad": "DIDECO",
-   "monto": 1296000,
-   "cierre_iso": "2026-09-25T10:00:00-03:00",
-   "publicacion": "23-09 16:24",
-   "publicacion_iso": "2026-09-23T16:24:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "82101601",
-     "Publicidad en radio"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=4066-392-COT26",
-   "sin_detalle": false
-  },
-  {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Publicidad en medios no impresos"
-   ],
-   "nueva": false,
-   "codigo": "4066-391-COT26",
-   "nombre": "SERVICIO  DE DIFUSION TELEVISIVA COMPONENTE DE COMUNICACION Y DIFUSION DEL PROGRAMA TRANSFERENCIA DE FORTALECIMIENTO PROCUTIVO PARA LA COMUNA DE RIO IBÁÑEZ CODIGO BIP 40066883-0",
-   "organismo": "I MUNICIPALIDAD RIO IBANEZ",
-   "unidad": "DIDECO",
-   "monto": 1200000,
-   "cierre_iso": "2026-09-25T10:00:00-03:00",
-   "publicacion": "23-09 16:20",
-   "publicacion_iso": "2026-09-23T16:20:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "82101602",
-     "Publicidad en televisión"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=4066-391-COT26",
-   "sin_detalle": false
-  },
   {
    "tipo": "POSIBLE",
    "motivos": [
@@ -129,11 +32,14 @@
    "productos": [
     [
      "43201552",
-     "Adaptadores de telefonía o hardware"
+     "Adaptadores de telefonía o hardware",
+     1,
+     "roku tv streaming stick 2025 hd O SIMILAR"
     ]
    ],
    "link": "https://buscador.mercadopublico.cl/ficha?code=3950-615-COT26",
-   "sin_detalle": false
+   "sin_detalle": false,
+   "descripcion": "INCLUIR DESPACHO EN COTIZACION"
   },
   {
    "tipo": "OPORTUNIDAD",
@@ -153,11 +59,14 @@
    "productos": [
     [
      "82101601",
-     "Publicidad en radio"
+     "Publicidad en radio",
+     1,
+     "Contratación de agencia de comunicaciones para implementación de plan de medios de prevención de Hantavirus en la región de Aysén, desde el 01 de octubre al 15 de diciembre del 2026, de acuerdo con especificaciones indicadas en el adjunto"
     ]
    ],
    "link": "https://buscador.mercadopublico.cl/ficha?code=1746-224-COT26",
-   "sin_detalle": false
+   "sin_detalle": false,
+   "descripcion": "Solicitado mediante Pedido de Materiales N° 457 de Gabinete Seremi de Salud Aysén"
   },
   {
    "tipo": "POSIBLE",
@@ -177,11 +86,14 @@
    "productos": [
     [
      "78111804",
-     "Servicios de taxi"
+     "Servicios de taxi",
+     100,
+     "SERVICIO DE TRASLADO URBANO, DESDE EL CCP COYHAIQUE AL JARDIN INFANTIL FUTURO AUSTRAL, POR SERVICIO REALIZADO.\nPOR PERIODO DE 3 MESES.\nCUMPLIR CON LOS ANTECEDENTES TÉCNICOS SOLICITADOS."
     ]
    ],
    "link": "https://buscador.mercadopublico.cl/ficha?code=1403-391-COT26",
-   "sin_detalle": false
+   "sin_detalle": false,
+   "descripcion": "SERVICIO DE TRASLADO DIARIO, POR SERVICIO REALIZADO DENTRO DEL RADIO URBANO, DESDE EL CCP A JARDÍN INFANTIL FUTURO AUSTRAL.\nCUMPLIR CON LOS REQUISITOS SOLICITADOS EN REQ. ADMINISTRATIVO Y DOCUMENTACIÓN (VIGENTE DEL VEHICULO)"
   },
   {
    "tipo": "POSIBLE",
@@ -201,11 +113,14 @@
    "productos": [
     [
      "49101602",
-     "Recuerdos o souvenirs"
+     "Recuerdos o souvenirs",
+     1,
+     "material de apoyo y marketing para premios , souvenirs artículos promocionales, material gráfico y elementos de apoyo de acuerdo a detalle adjunto (presentar cotizacion detallada)"
     ]
    ],
    "link": "https://buscador.mercadopublico.cl/ficha?code=3797-427-COT26",
-   "sin_detalle": false
+   "sin_detalle": false,
+   "descripcion": "ADQUIRIR PREMIOS SOUVENIRS, ARTICULOS PROMOCIONALES, MATERIAL GRAFICO Y ELEMENTOS DE APOYO DESTINADOS A LA EJECUCION DE LA ACTIVIDAD 12 LANZAMIENTO TEMPORADA TURISTICA"
   },
   {
    "tipo": "POSIBLE",
@@ -225,15 +140,20 @@
    "productos": [
     [
      "52161505",
-     "Televisores convencionales, de plasma y LCD"
+     "Televisores convencionales, de plasma y LCD",
+     2,
+     "Televisor LED UHD equivalente a SAMSUNG de 43 pulgadas\nTizenTM Smart TV (o plataforma equivalente como WebOS,\nGoogle TV/Android TV). \nsegún especificaciones técnicas adjunta (ver) (plazo\nmáximo de entrega: 5 días corridos)"
     ],
     [
      "45111802",
-     "Soportes de televisión"
+     "Soportes de televisión",
+     2,
+     "Soporte de Pared Articulado de 43 pulgadas Crystal UHD\nU8200F 4K Smart TV UN43U8200FGXZS. según especificaciones técnicas adjunta (ver) (plazo\nmáximo de entrega: 5 días corridos)"
     ]
    ],
    "link": "https://buscador.mercadopublico.cl/ficha?code=1057062-430-COT26",
-   "sin_detalle": false
+   "sin_detalle": false,
+   "descripcion": "Se requiere cotizar 2 Televisores LED de 43 pulgadas UHD equivalente a SAMSUNG de 43 pulgadas\nTizenTM Smart TV (o plataforma equivalente como WebOS, Google TV/Android TV) y 2 soporte de de pared articulado. Proveedor debe detallar lo ofertado que al menos cumpla con las especificaciones técnicas adjuntas (VER), debe indicar monto total y el plazo de entrega final en días corridos contados desde la emisión de la orden de compra, entrega en dependencias de la UAYSEN (*) Incluir flete."
   },
   {
    "tipo": "POSIBLE",
@@ -253,19 +173,26 @@
    "productos": [
     [
      "43201539",
-     "Unidad central de controlador de consola"
+     "Unidad central de controlador de consola",
+     1,
+     "Consola de audio broadcast. Según especificaciones de la ficha técnica adjunta."
     ],
     [
      "43201503",
-     "Procesadores o unidad central de procesamiento (CPU)"
+     "Procesadores o unidad central de procesamiento (CPU)",
+     1,
+     "Procesador de audio. Según especificaciones de la ficha técnica adjunta."
     ],
     [
      "52161520",
-     "Micrófonos"
+     "Micrófonos",
+     1,
+     "Kit equipamiento de audio. Según especificaciones de la ficha técnica adjunta."
     ]
    ],
    "link": "https://buscador.mercadopublico.cl/ficha?code=2713-1154-COT26",
-   "sin_detalle": false
+   "sin_detalle": false,
+   "descripcion": "EQUIPOS PARA RADIO FM, SEGUN BASES TECNICAS ADJUNTAS.COSTOS DE TRASLADOS A PUERTO AYSÉN SERÁN DEL OFERENTE. EL PLAZO DE ENTREGA SERÁN DE 15 DÍA HÁBIL, DE LO CONTRARIO SE DESCARTARAN.PROVEEDOR QUE NO INDIQUE PLAZO DE ENTREGA SE DESCARTARA SU COTIZACIÓN. OFERENTE DEBE INCLUIR FLETES EN EL PRECIO DEL PRODUCTO.SE SOLICITA ANEXAR FICHA TECNICA, DE LO CONTRARIO SE DESCARTARA. PLAZO DE ENTREGA COMIENZA A CONTAR DEL DIA HABIL SUBSIGUIENTE DEL ENVÍO DE ORDEN DE COMPRA.SE DEBE COTIZAR TODOS LOS PRODUCTOS."
   }
  ],
  "pendientes": [
