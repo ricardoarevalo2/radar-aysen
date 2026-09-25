@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-09-25T18:36:18.792028-03:00",
+ "actualizado": "2026-09-25T19:35:47.337519-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
- "total_region": 235,
+ "total_region": 234,
  "rubros": {
   "80141600": "Ventas y marketing",
   "82101600": "Publicidad en medios no impresos",
@@ -142,12 +142,6 @@
   }
  ],
  "pendientes": [
-  {
-   "codigo": "2495-523-COT26",
-   "nombre": "Materiales de oficina Centro de las Mujeres",
-   "organismo": "I MUNICIPALIDAD DE COYHAIQUE",
-   "link": "https://buscador.mercadopublico.cl/ficha?code=2495-523-COT26"
-  },
   {
    "codigo": "418-1393-COT26",
    "nombre": "POR - MAT. ASEO COSAM HPA",

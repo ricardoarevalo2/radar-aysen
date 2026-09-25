@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-09-25T18:36:18.792028-03:00",
+ "actualizado": "2026-09-25T19:35:47.337519-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
- "total_region": 235,
+ "total_region": 234,
  "rubros": {
   "25172700": "Aire acondicionado",
   "25173900": "Componentes eléctricos",
@@ -19,33 +19,6 @@
   "39121400": "Conectores, enchufes y terminales"
  },
  "filas": [
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "grupo electrógeno"
-   ],
-   "nueva": true,
-   "codigo": "657-81-COT26",
-   "nombre": "SERVICIO DE MANTENCION PREVENTIVA CORRECTIVA GRUPO ELECTROGENO DE ENERGIA",
-   "organismo": "SERVICIO DE VIVIENDA Y URBANIZACION XI REGION",
-   "unidad": "SERVIU XI REGION",
-   "monto": 1000000,
-   "cierre_iso": "2026-09-25T19:10:00-03:00",
-   "publicacion": "24-09 18:51",
-   "publicacion_iso": "2026-09-24T18:51:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "26111601",
-     "Generadores diesel",
-     1,
-     "SERVICIO DE MANTENCION PREVENTIVA CORRECTIVA GRUPO ELECTROGENO DE ENERGIA marca Caterpillar, modelo de motor 1104C, se adjunta especificaciones"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=657-81-COT26",
-   "sin_detalle": false,
-   "descripcion": "El SERVIU Región de Aysén requiere contratar el servicio de mantención preventiva y correctiva de un grupo electrógeno marca Caterpillar, modelo de motor 1104C, ubicado en el edificio institucional de SERVIU Región de Aysén, ubicado en calle Ramón Freire N° 5, comuna de Coyhaique. se adjunta especificaciones se requiere que el proveedor sea regional y adjunte documentacion requerida"
-  },
   {
    "tipo": "OPORTUNIDAD",
    "motivos": [
@@ -775,12 +748,6 @@
   }
  ],
  "pendientes": [
-  {
-   "codigo": "2495-523-COT26",
-   "nombre": "Materiales de oficina Centro de las Mujeres",
-   "organismo": "I MUNICIPALIDAD DE COYHAIQUE",
-   "link": "https://buscador.mercadopublico.cl/ficha?code=2495-523-COT26"
-  },
   {
    "codigo": "418-1393-COT26",
    "nombre": "POR - MAT. ASEO COSAM HPA",
