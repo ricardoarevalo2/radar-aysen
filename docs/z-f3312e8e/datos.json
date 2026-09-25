@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-09-25T14:36:31.569074-03:00",
+ "actualizado": "2026-09-25T15:38:20.807696-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
- "total_region": 242,
+ "total_region": 247,
  "rubros": {
   "25172700": "Aire acondicionado",
   "25173900": "Componentes eléctricos",
@@ -19,63 +19,6 @@
   "39121400": "Conectores, enchufes y terminales"
  },
  "filas": [
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "eléctricos",
-    "interruptor",
-    "interruptores",
-    "luminarias"
-   ],
-   "nueva": false,
-   "codigo": "907-79-COT26",
-   "nombre": "AAH CAMBIO DE LUMINARIAS LABORATORIO",
-   "organismo": "SERVICIO AGRICOLA Y GANADERO",
-   "unidad": "SAG - Aysen",
-   "monto": 2200000,
-   "cierre_iso": "2026-09-25T15:00:00-03:00",
-   "publicacion": "22-09 13:35",
-   "publicacion_iso": "2026-09-22T13:35:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "39111512",
-     "Luces de banco de laboratorio",
-     31,
-     "Adquisición e instalación de focos y paneles LED para Laboratorio Regional Pecuario SAG, incluyendo adecuaciones de circuitos eléctricos e interruptores independientes y cambio de interruptor en sala de aguas. todo señalados en los adjuntos."
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=907-79-COT26",
-   "sin_detalle": false,
-   "descripcion": "Las condiciones técnicas, cantidades, requisitos de instalación, visita a terreno, garantía, plazo de ejecución, antecedentes que debe presentar el proveedor y criterios de evaluación se encuentran detallados en los Términos de Referencia que forman parte de la solicitud de cotización."
-  },
-  {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Gasfitería, calefacción y aire acondicionado"
-   ],
-   "nueva": false,
-   "codigo": "4626-30-COT26",
-   "nombre": "Servicio anual mantención y reparación de Calefactores Murales a Gas para oficinas dependientes de la Dirección Regional del Trabajo de Aysén.",
-   "organismo": "DIRECCION DEL TRABAJO",
-   "unidad": "Dirección del Trabajo XI Región Aysén",
-   "monto": 1500000,
-   "cierre_iso": "2026-09-25T15:00:00-03:00",
-   "publicacion": "22-09 11:58",
-   "publicacion_iso": "2026-09-22T11:58:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "72102304",
-     "Mantenimiento o reparación de sistemas de fontanería, gasfitería",
-     1,
-     "Servicio anual mantención y reparación de Calefactores Murales a Gas para oficinas dependientes de la Dirección Regional del Trabajo de Aysén, con la finalidad de garantizar el correcto funcionamiento, eficiencia y continuidad de los calefactores murales a gas, de acuerdo con lo establecido en los \"Requerimientos Técnicos\" que se adjuntan (se solicita leer detenidamente documento adjunto, para dar cumplimiento a los requerimientos allí establecidos al presentar su oferta)"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=4626-30-COT26",
-   "sin_detalle": false,
-   "descripcion": "Servicio anual mantención y reparación de Calefactores Murales a Gas para oficinas dependientes de la Dirección Regional del Trabajo de Aysén."
-  },
   {
    "tipo": "OPORTUNIDAD",
    "motivos": [
