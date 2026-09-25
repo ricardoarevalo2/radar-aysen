@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-09-25T11:38:21.653602-03:00",
+ "actualizado": "2026-09-25T12:36:24.147327-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
- "total_region": 254,
+ "total_region": 257,
  "rubros": {
   "80141600": "Ventas y marketing",
   "82101600": "Publicidad en medios no impresos",
@@ -14,33 +14,6 @@
   "83121700": "Comunicación social y de masas"
  },
  "filas": [
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "streaming"
-   ],
-   "nueva": true,
-   "codigo": "3950-615-COT26",
-   "nombre": "roku tv streaming stick 2025 hd ",
-   "organismo": "DIRECCION SALUD RURAL",
-   "unidad": "Dirección de Salud Rural",
-   "monto": 50000,
-   "cierre_iso": "2026-09-25T12:30:00-03:00",
-   "publicacion": "24-09 11:57",
-   "publicacion_iso": "2026-09-24T11:57:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "43201552",
-     "Adaptadores de telefonía o hardware",
-     1,
-     "roku tv streaming stick 2025 hd O SIMILAR"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=3950-615-COT26",
-   "sin_detalle": false,
-   "descripcion": "INCLUIR DESPACHO EN COTIZACION"
-  },
   {
    "tipo": "OPORTUNIDAD",
    "motivos": [
@@ -223,6 +196,12 @@
   }
  ],
  "pendientes": [
+  {
+   "codigo": "2495-523-COT26",
+   "nombre": "Materiales de oficina Centro de las Mujeres",
+   "organismo": "I MUNICIPALIDAD DE COYHAIQUE",
+   "link": "https://buscador.mercadopublico.cl/ficha?code=2495-523-COT26"
+  },
   {
    "codigo": "1057062-428-COT26",
    "nombre": "Adquisición materiales de oficina según FISABS 2102, URY 2457.",

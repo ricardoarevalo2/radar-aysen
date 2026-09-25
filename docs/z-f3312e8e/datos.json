@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-09-25T11:38:21.653602-03:00",
+ "actualizado": "2026-09-25T12:36:24.147327-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
- "total_region": 254,
+ "total_region": 257,
  "rubros": {
   "25172700": "Aire acondicionado",
   "25173900": "Componentes eléctricos",
@@ -19,59 +19,6 @@
   "39121400": "Conectores, enchufes y terminales"
  },
  "filas": [
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "eléctrico",
-    "iluminación",
-    "sistema eléctrico"
-   ],
-   "nueva": true,
-   "codigo": "3949-234-COT26",
-   "nombre": "REPARACIÓN Y SUMINISTRO DE REPUESTOS DE EQUIPOS DENTALES",
-   "organismo": "CONSULTORIO GENERAL URBANO DR ALEJANDRO GUTIERREZ",
-   "unidad": "ID 3949 - CESFAM Dr Alejandro Gutiérrez",
-   "monto": 2600000,
-   "cierre_iso": "2026-09-25T12:15:00-03:00",
-   "publicacion": "24-09 11:58",
-   "publicacion_iso": "2026-09-24T11:58:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "30201903",
-     "Unidades dentales",
-     7,
-     "Instalación de sistemas de filtración de aire y agua en las unidades dentales correspondientes a los Boxes 1, 2, 3 y 4 del Consultorio Alejandro Gutiérrez (CAG), así como en los boxes dentales de los establecimientos educacionales Escuela Alborada, Escuela Butiña y Escuela Pedro Quintana Mansilla. La instalación de los componentes deberá ejecutarse de manera que no interfiera ni altere, bajo ninguna circunstancia, el correcto funcionamiento (Ver especificaciones)"
-    ],
-    [
-     "30201903",
-     "Unidades dentales",
-     3,
-     "Cambio de la lámpara del sillón dental correspondiente a los Boxes 1 del Consultorio Alejandro Gutiérrez (CAG), Cecosf así como en los boxes dentales de los establecimientos educacionales Escuela Alborada y Liceo Ricardo Navarrete. Los repuestos utilizados deben ser originales de la marca de la unidad dental o 100% compatibles, garantizando el nivel de iluminación (lux) e intensidad adecuados para la práctica odontológica clínica. (Ver especificaciones)"
-    ],
-    [
-     "30201903",
-     "Unidades dentales",
-     1,
-     "Cambio de pedal reóstato del sillón dental correspondiente al Boxs 1 del Consultorio Alejandro Gutiérrez (CAG). El repuesto utilizado debe ser original de la marca de la unidad dental o 100% compatible, garantizando la integración con el sistema electrónico y neumático del equipo. (ver especificaciones)"
-    ],
-    [
-     "30201903",
-     "Unidades dentales",
-     1,
-     "Cambio de tarjeta electrónica del sillón dental correspondiente al Box 4 del Consultorio Alejandro Gutiérrez (CAG). El repuesto utilizado debe ser original de la marca de la unidad dental o 100% compatibles, garantizando la integración con el sistema eléctrico, electrónico y neumático del equipo.El componente suministrado debe restituir de manera íntegra la totalidad de los comandos (Ver especificaciones)"
-    ],
-    [
-     "30201903",
-     "Unidades dentales",
-     1,
-     "Cambio de la válvula reguladora del compresor de aire del box de la escuela Butiña. El componente suministrado debe garantizar una regulación precisa, constante y segura de la presión de salida del aire comprimido hacia la unidad dental (Ver especificaciones)"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=3949-234-COT26",
-   "sin_detalle": false,
-   "descripcion": "Se requiere adquirir la reparación y suministro de repuestos de equipos dentales dependientes del Cesfam Dr. Alejandro gutierrez. Proveedor Regional con disponibilidad inmediata, se debe ajustar explicitamente a lo solicitado en documento adjunto."
-  },
   {
    "tipo": "OPORTUNIDAD",
    "motivos": [
@@ -131,7 +78,7 @@
    "motivos": [
     "Gasfitería, calefacción y aire acondicionado"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "4644-71-COT26",
    "nombre": "SERVICIO DE MANTENCIÓN Y REPARACIÓN DE CALDERA DE RESERVA NACIONAL RIO SIMPSON",
    "organismo": "CORP NACIONAL FORESTAL",
@@ -853,6 +800,33 @@
     "Gasfitería, calefacción y aire acondicionado"
    ],
    "nueva": true,
+   "codigo": "2500-80-COT26",
+   "nombre": "SERVICIO DE REPARACION DE FUGA AGUA DE CAÑERIA",
+   "organismo": "I MUNICIPALIDAD DE COYHAIQUE",
+   "unidad": "ADMINISTRACIÓN Y FINANZAS",
+   "monto": 80000,
+   "cierre_iso": "2026-09-27T12:00:00-03:00",
+   "publicacion": "25-09 11:53",
+   "publicacion_iso": "2026-09-25T11:53:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "72102304",
+     "Mantenimiento o reparación de sistemas de fontanería, gasfitería",
+     1,
+     "SE REQUIERE SERVICIO DE REPARACION Y PROVISION DE MATERIALES PARA REPARACION DE CAÑERIA LAVAPLATOS COMEDOR BODEGA MUNICIPAL, DIRECCION LOS NOTROS S/N\nSE REQUIERE PROVISION DE LLAVE MONOCOMANDO, FLEXIBLES Y MATERIALES NECESARIOS PARA REPARACION"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=2500-80-COT26",
+   "sin_detalle": false,
+   "descripcion": "SE REQUIERE SERVICIO DE REPARACION Y PROVISION DE MATERIALES FUGA DE AGUA LAVAPLATOS BODEGA MUNICIPAL, MUNICIPALIDAD DE COYHAIQUE"
+  },
+  {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Gasfitería, calefacción y aire acondicionado"
+   ],
+   "nueva": true,
    "codigo": "4140-78-COT26",
    "nombre": "SERVICIO DE MANTENCION AIRE ACONDICIONADO, DPTO FINANZAS MUNICIPALIDAD DE LAGO VERDE ",
    "organismo": "I MUNICIPALIDAD DE LAGO VERDE",
@@ -873,6 +847,33 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=4140-78-COT26",
    "sin_detalle": false,
    "descripcion": "SE REQUIERE SERVICIO DE MANTENCION A AIRE ACONDICIONADO CON BOMBA DE CALOR MONTAJE EN PARED MODELO 12-ASM-12MDS UI"
+  },
+  {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Gasfitería, calefacción y aire acondicionado"
+   ],
+   "nueva": true,
+   "codigo": "911089-84-COT26",
+   "nombre": "ADQUISICION DEL SERVICIO DE MANTENCION , REGULARIZACION E INSCRIPCION DE CALDERA DE CALEFACCION EN LA SEREMI DE SALUD AYSEN",
+   "organismo": "Zona de Bienestar \"Coyhaique\"",
+   "unidad": "Zona de Bienestar Coyhaique",
+   "monto": 4500000,
+   "cierre_iso": "2026-09-28T10:30:00-03:00",
+   "publicacion": "25-09 12:14",
+   "publicacion_iso": "2026-09-25T12:14:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "72102301",
+     "Supervisión de instalación, ajuste o mantenimiento de calderas",
+     1,
+     "01 SERVICIO DE MANTENCION REGULARIZACION E INSCRIPCION DE CALDERA DE CALEFACCIÓN PARA AGUA AGUA CALIENTE SEGUN DECRETO SUPREMO N°10. QUE CONTEMPLE LA TOTALIDAD DE LOS INSUMOS, MATERIALES, COMPONENTES Y MANO DE OBRA PARA LA REGULARIZACION Y HABILITACION DE REDES ELECTRICAS, HIDRAULICAS E INFRAESTRUCTURA ASOCIADA.\n\nSEGUN ANEXO ADJUNTO"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=911089-84-COT26",
+   "sin_detalle": false,
+   "descripcion": "SE SOLICITA LA ADQUISICION DEL SERVICIO DE MANTENCION , REGULARIZACION E INSCRIPCION DE CALDERA DE CALEFACCION EN LA SEREMI DE SALUD AYSEN , PARA LA SC Y JI PEQUITAS.\n\nADJUNTAR:\n\nSE SOLICITA LLENAR EL ANEXO QUE SE ADJUNTA (DECLARACION JURADA SIMPLE) PARA LOS OFERENTES POSTULANTES, QUIEN NO LO PRESENTE FIRMADO QUEDA FUERA DE POSTULACION\n\nFORMULARIO DE ACREDITACIÓN DE PERSONAL FACULTADO Y CALIFICADO,QUIEN NO LO PRESENTE CON SU DOCUMENTACION ADJUNTA QUEDA FUERA DE POSTULACION"
   },
   {
    "tipo": "POSIBLE",
@@ -993,6 +994,12 @@
   }
  ],
  "pendientes": [
+  {
+   "codigo": "2495-523-COT26",
+   "nombre": "Materiales de oficina Centro de las Mujeres",
+   "organismo": "I MUNICIPALIDAD DE COYHAIQUE",
+   "link": "https://buscador.mercadopublico.cl/ficha?code=2495-523-COT26"
+  },
   {
    "codigo": "1057062-428-COT26",
    "nombre": "Adquisición materiales de oficina según FISABS 2102, URY 2457.",
