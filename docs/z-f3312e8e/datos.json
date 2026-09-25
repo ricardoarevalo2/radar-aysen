@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-09-25T15:38:20.807696-03:00",
+ "actualizado": "2026-09-25T16:34:15.056558-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
- "total_region": 247,
+ "total_region": 237,
  "rubros": {
   "25172700": "Aire acondicionado",
   "25173900": "Componentes eléctricos",
@@ -19,96 +19,6 @@
   "39121400": "Conectores, enchufes y terminales"
  },
  "filas": [
-  {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Gasfitería, calefacción y aire acondicionado"
-   ],
-   "nueva": true,
-   "codigo": "2713-1161-COT26",
-   "nombre": "FARMACIA MUNICIPAL . AIRE ACONDICIONADO.",
-   "organismo": "I MUNICIPALIDAD DE AYSEN",
-   "unidad": "I.MUNICIPALIDAD AYSEN-ADQUISICIONES",
-   "monto": 700000,
-   "cierre_iso": "2026-09-25T16:00:00-03:00",
-   "publicacion": "24-09 15:59",
-   "publicacion_iso": "2026-09-24T15:59:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "72102305",
-     "Servicios de reparación, mantenimiento o reparación de aire acondicionado",
-     1,
-     "Adquisición de un servicio de instalación de un equipo aire acondicionado, según especificaciones técnicas adjuntas.La empresa debe\ncontar con certificación SEC para la manipulación de gases refrigerantes.\n• La instalación se debe realizar en ubicada en Edificio Consistorial.\nModelo de equipo:\nAR12TSFZAWKN\n• Capacidad\nfrio/calor: 12.000\nbtu/h\n• Frecuencia y\ntension nominal:\n220-240 v-50 hz\n• Corriente nominal\nfrio/calor: 5.0 A /\n4.5 A\n• Potencia de\nentrada frio/calor:\n1060 W\n• Marca: Samsung"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=2713-1161-COT26",
-   "sin_detalle": false,
-   "descripcion": "Adquisición de un servicio de instalación de un equipo aire acondicionado, según especificaciones técnicas adjuntas los montos de las ofertas deben incluir la totalidad de la especificaciones tecnica, en la localidad de Puerto Aysén, las ofertas que sobrepasen el monto presupuestario disponible, no oferten todo lo requerido, ,plazo entrega desde el dia subsiguinete al envio de la O/C. serán desestimadas.Cotización formal con especifiaciones solicitadas."
-  },
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "disyuntor"
-   ],
-   "nueva": true,
-   "codigo": "3949-237-COT26",
-   "nombre": "INSUMOS ODONTÓLOGICOS ",
-   "organismo": "CONSULTORIO GENERAL URBANO DR ALEJANDRO GUTIERREZ",
-   "unidad": "ID 3949 - CESFAM Dr Alejandro Gutiérrez",
-   "monto": 980000,
-   "cierre_iso": "2026-09-25T16:10:00-03:00",
-   "publicacion": "24-09 16:07",
-   "publicacion_iso": "2026-09-24T16:07:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "42151626",
-     "Accesorios de instrumentos dentales de afilar",
-     1,
-     "ARCOS TITANIO MOLIBDENO TMA 17X25 ARCADA SUPERIOR (VER ESPECIFICACIONES TECNICAS) PAQUETE DE 10 UN"
-    ],
-    [
-     "42151626",
-     "Accesorios de instrumentos dentales de afilar",
-     1,
-     "ARCOS BIOFORCE 0.16X0.22 ARCADA SUPERIOR ((VER ESPECIFICACIONES TECNICAS) PAQUETE DE 10 UN"
-    ],
-    [
-     "42295506",
-     "Implantes o ajustes maxilofacial oral",
-     3,
-     "KIT (DISYUNTOR 4F +4 MICROTORNILLOS DE TITANIO HS MARPE) (VER ESPECIFICACIONES TECNICAS)"
-    ],
-    [
-     "42295506",
-     "Implantes o ajustes maxilofacial oral",
-     6,
-     "MINI IMPLANTE EXTRALVEOLAR (VER ESPECIFICACIONES TECNICAS)"
-    ],
-    [
-     "42295506",
-     "Implantes o ajustes maxilofacial oral",
-     4,
-     "MINI IMPLANTE INTERRADICULAR (VER ESPECIFICACIONES TECNICAS)"
-    ],
-    [
-     "42151625",
-     "Instrumentos de higiene dental",
-     4,
-     "4 TUBOS PARA CEMENTAR DE ORTODONCIA DE PRIMEROS MOLARES (VER ESPECIFICACIONES TECNICAS)"
-    ],
-    [
-     "42151625",
-     "Instrumentos de higiene dental",
-     4,
-     "4 TUBOS PARA CEMENTAR DE ORTODONCIA DE SEGUNDO MOLARES (VER ESPECIFICACIONES TECNICAS)"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=3949-237-COT26",
-   "sin_detalle": false,
-   "descripcion": "Se requiere adquirir insumos odontólogicos con despacho incluido en coyhaique, proveedor debe cumplir con especificaciones tecnicas adjuntas, aquel que no cumpla con la totalidad de lo solicitado, quedará inadmisible."
-  },
   {
    "tipo": "OPORTUNIDAD",
    "motivos": [
@@ -509,33 +419,6 @@
     "Gasfitería, calefacción y aire acondicionado"
    ],
    "nueva": true,
-   "codigo": "2500-80-COT26",
-   "nombre": "SERVICIO DE REPARACION DE FUGA AGUA DE CAÑERIA",
-   "organismo": "I MUNICIPALIDAD DE COYHAIQUE",
-   "unidad": "ADMINISTRACIÓN Y FINANZAS",
-   "monto": 80000,
-   "cierre_iso": "2026-09-27T12:00:00-03:00",
-   "publicacion": "25-09 11:53",
-   "publicacion_iso": "2026-09-25T11:53:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "72102304",
-     "Mantenimiento o reparación de sistemas de fontanería, gasfitería",
-     1,
-     "SE REQUIERE SERVICIO DE REPARACION Y PROVISION DE MATERIALES PARA REPARACION DE CAÑERIA LAVAPLATOS COMEDOR BODEGA MUNICIPAL, DIRECCION LOS NOTROS S/N\nSE REQUIERE PROVISION DE LLAVE MONOCOMANDO, FLEXIBLES Y MATERIALES NECESARIOS PARA REPARACION"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=2500-80-COT26",
-   "sin_detalle": false,
-   "descripcion": "SE REQUIERE SERVICIO DE REPARACION Y PROVISION DE MATERIALES FUGA DE AGUA LAVAPLATOS BODEGA MUNICIPAL, MUNICIPALIDAD DE COYHAIQUE"
-  },
-  {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Gasfitería, calefacción y aire acondicionado"
-   ],
-   "nueva": true,
    "codigo": "4140-78-COT26",
    "nombre": "SERVICIO DE MANTENCION AIRE ACONDICIONADO, DPTO FINANZAS MUNICIPALIDAD DE LAGO VERDE ",
    "organismo": "I MUNICIPALIDAD DE LAGO VERDE",
@@ -556,6 +439,117 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=4140-78-COT26",
    "sin_detalle": false,
    "descripcion": "SE REQUIERE SERVICIO DE MANTENCION A AIRE ACONDICIONADO CON BOMBA DE CALOR MONTAJE EN PARED MODELO 12-ASM-12MDS UI"
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "eléctrico"
+   ],
+   "nueva": true,
+   "codigo": "551423-37-COT26",
+   "nombre": "TERMO ELÉCTRICO Y ACCESORIOS (Orasmi DPR AYSÉN) ",
+   "organismo": "DELEGACIÓN PRESIDENCIAL REGIONAL DE AYSÉN DEL GENERAL CARLOS IBÁÑEZ DE",
+   "unidad": "ORASMI DELEGACION PRESIDENCIAL REGIONAL DE AYSEN",
+   "monto": 350000,
+   "cierre_iso": "2026-09-28T09:00:00-03:00",
+   "publicacion": "25-09 16:25",
+   "publicacion_iso": "2026-09-25T16:25:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "52152010",
+     "Termos domésticos",
+     1,
+     "01 Termo agua electrico 80 Litros o superior. El valor debe incluir despacho a domicilio y la entrega debe ser al tercer día hábil una vez generada la Orden de Compra."
+    ],
+    [
+     "40141901",
+     "Conductos flexibles",
+     2,
+     "02 Flexibles agua HI/HI 1/2 X 35 CM. El valor debe incluir despacho a domicilio y la entrega debe ser al tercer día hábil una vez generada la Orden de Compra."
+    ],
+    [
+     "40141901",
+     "Conductos flexibles",
+     1,
+     "01 Flexible agua HI/HE 1/2 40 cm. El valor debe incluir despacho a domicilio y la entrega debe ser al tercer día hábil una vez generada la Orden de Compra."
+    ],
+    [
+     "40142317",
+     "Codo de tubería",
+     2,
+     "02 Codo fusión 20 mm x HE 1/2. El valor debe incluir despacho a domicilio y la entrega debe ser al tercer día hábil una vez generada la Orden de Compra."
+    ],
+    [
+     "40142317",
+     "Codo de tubería",
+     12,
+     "12 Codo fusión 20 mm SO/SO. El valor debe incluir despacho a domicilio y la entrega debe ser al tercer día hábil una vez generada la Orden de Compra."
+    ],
+    [
+     "40142317",
+     "Codo de tubería",
+     1,
+     "01 Codo doble HI Fusión HI 20 x 1/2. El valor debe incluir despacho a domicilio y la entrega debe ser al tercer día hábil una vez generada la Orden de Compra."
+    ],
+    [
+     "40142320",
+     "Uniones de tubería",
+     2,
+     "02 Tee fusión 20 HE. El valor debe incluir despacho a domicilio y la entrega debe ser al tercer día hábil una vez generada la Orden de Compra."
+    ],
+    [
+     "40142320",
+     "Uniones de tubería",
+     1,
+     "01 Tee fusión 20 mm. El valor debe incluir despacho a domicilio y la entrega debe ser al tercer día hábil una vez generada la Orden de Compra."
+    ],
+    [
+     "40142320",
+     "Uniones de tubería",
+     1,
+     "01 Terminal fusión HI20 x 1/2. 02 Tee fusión 20 HE. El valor debe incluir despacho a domicilio y la entrega debe ser al tercer día hábil una vez generada la Orden de Compra."
+    ],
+    [
+     "40142320",
+     "Uniones de tubería",
+     1,
+     "01 Tee fusión 20 mm x HI. 02 Tee fusión 20 HE. El valor debe incluir despacho a domicilio y la entrega debe ser al tercer día hábil una vez generada la Orden de Compra."
+    ],
+    [
+     "40142320",
+     "Uniones de tubería",
+     1,
+     "01 Unión americana fusión 20. 02 Tee fusión 20 HE. El valor debe incluir despacho a domicilio y la entrega debe ser al tercer día hábil una vez generada la Orden de Compra."
+    ],
+    [
+     "46171505",
+     "Llaves",
+     1,
+     "01 Llave jardín 1/2 A 3/4 GENEBRE / TAUMM. El valor debe incluir despacho a domicilio y la entrega debe ser al tercer día hábil una vez generada la Orden de Compra."
+    ],
+    [
+     "46171505",
+     "Llaves",
+     2,
+     "02 Llave paso bola fusión PPR 25MMM SO/SO PLASTIC. El valor debe incluir despacho a domicilio y la entrega debe ser al tercer día hábil una vez generada la Orden de Compra."
+    ],
+    [
+     "27112103",
+     "Abrazaderas",
+     10,
+     "10 Abrazadera fusión 20mm. El valor debe incluir despacho a domicilio y la entrega debe ser al tercer día hábil una vez generada la Orden de Compra."
+    ],
+    [
+     "31231313",
+     "Tubería de plástico",
+     1,
+     "Tubo fusión 20mm x 6 mts. El valor debe incluir despacho a domicilio y la entrega debe ser al tercer día hábil una vez generada la Orden de Compra."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=551423-37-COT26",
+   "sin_detalle": false,
+   "descripcion": "TERMO ELÉCTRICO Y ACCESORIOS (Orasmi DPR AYSÉN)"
   },
   {
    "tipo": "OPORTUNIDAD",
@@ -742,7 +736,7 @@
    "motivos": [
     "eléctrico"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "418-1416-COT26",
    "nombre": "POR - QUIPAMIENTO Y MOBILARIO  SEGUN DETALLE ADJUNTO PARA LOS PROGRAMAS SENDA (INFANTO-ADOLESCENTE Y ADULTO) ",
    "organismo": "SERVICIO NACIONAL DE SALUD HOSPITAL DE PUERTO AYSEN",
