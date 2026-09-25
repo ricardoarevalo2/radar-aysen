@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-09-25T07:37:10.115825-03:00",
+ "actualizado": "2026-09-25T08:37:32.633874-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
- "total_region": 243,
+ "total_region": 232,
  "rubros": {
   "25172700": "Aire acondicionado",
   "25173900": "Componentes eléctricos",
@@ -19,31 +19,6 @@
   "39121400": "Conectores, enchufes y terminales"
  },
  "filas": [
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "certificación sec",
-    "eléctrico"
-   ],
-   "nueva": false,
-   "codigo": "886182-202-COT26",
-   "nombre": "Adquisición de 2 estufas de calefacción eléctrica_FISABS 2225",
-   "organismo": "UNIVERSIDAD DE AYSEN",
-   "unidad": "Universidad de Aysen",
-   "monto": 360000,
-   "cierre_iso": "2026-09-25T08:30:00-03:00",
-   "publicacion": "23-09 17:18",
-   "publicacion_iso": "2026-09-23T17:18:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "40101808",
-     "Estufas de la calefacción"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=886182-202-COT26",
-   "sin_detalle": false
-  },
   {
    "tipo": "OPORTUNIDAD",
    "motivos": [
