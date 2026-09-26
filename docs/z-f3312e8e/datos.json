@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-09-26T09:39:27.647265-03:00",
+ "actualizado": "2026-09-26T10:34:37.597139-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
- "total_region": 222,
+ "total_region": 214,
  "rubros": {
   "25172700": "Aire acondicionado",
   "25173900": "Componentes eléctricos",
@@ -25,7 +25,7 @@
     "enchufe",
     "interruptor"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "1403-392-COT26",
    "nombre": "COMPRA DE MATERIALES ELECTRICOS Y DATOS PARA HABILITAR OFICINAS PARA LA DIRREG AYSEN Y UNIDADES PENALES",
    "organismo": "Dirección Regional de Gendarmeria - Coyhaique",
@@ -289,7 +289,7 @@
    "motivos": [
     "Gasfitería, calefacción y aire acondicionado"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "4140-78-COT26",
    "nombre": "SERVICIO DE MANTENCION AIRE ACONDICIONADO, DPTO FINANZAS MUNICIPALIDAD DE LAGO VERDE ",
    "organismo": "I MUNICIPALIDAD DE LAGO VERDE",
