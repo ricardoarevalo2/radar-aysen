@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-09-26T15:38:54.753847-03:00",
+ "actualizado": "2026-09-26T16:33:29.867371-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
- "total_region": 192,
+ "total_region": 190,
  "rubros": {
   "25172700": "Aire acondicionado",
   "25173900": "Componentes eléctricos",
@@ -19,39 +19,6 @@
   "39121400": "Conectores, enchufes y terminales"
  },
  "filas": [
-  {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Servicios eléctricos"
-   ],
-   "nueva": false,
-   "codigo": "1201-156-COT26",
-   "nombre": "REPARACIÓN Y REPOSICIÓN CANALETAS, HOJALATERIA Y SELLOS DE PAREDES EN ESTADIO REGIONAL IND COYHAIQUE",
-   "organismo": "INSTITUTO NACIONAL DE DEPORTES DE CHILE",
-   "unidad": "I.N.D. REGION XI",
-   "monto": 4000000,
-   "cierre_iso": "2026-09-26T16:00:00-03:00",
-   "publicacion": "22-09 09:02",
-   "publicacion_iso": "2026-09-22T09:02:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "72102205",
-     "Asistencia o mantenimiento de servicio de telecomunicaciones",
-     1,
-     "Reparación canaletas, según tdr adjunta"
-    ],
-    [
-     "72102205",
-     "Asistencia o mantenimiento de servicio de telecomunicaciones",
-     1,
-     "Servicio reposición hojalataría, según TDR"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1201-156-COT26",
-   "sin_detalle": false,
-   "descripcion": "Compra de Servicio de reparación y reposición de canaletas, hojalatería y sellos de\nparedes concreto en sector pabellón Pista Atlética y graderías de la misma. El cual por los\nvientos, nieve y desfiguración del terreno, se ha deteriorado con los años y la propia\nutilidad de los espacios antes mencionados. Se desprendió de la fijación por mal estado\nde los materiales que lo componen, dicha reparación ayuda al correcto funcionamiento y\nresguardo del recinto o sus instalaciones."
-  },
   {
    "tipo": "OPORTUNIDAD",
    "motivos": [
