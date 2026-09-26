@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-09-26T11:35:33.004782-03:00",
+ "actualizado": "2026-09-26T12:36:33.083543-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
- "total_region": 209,
+ "total_region": 197,
  "rubros": {
   "80141600": "Ventas y marketing",
   "82101600": "Publicidad en medios no impresos",
@@ -15,38 +15,11 @@
  },
  "filas": [
   {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "marketing"
-   ],
-   "nueva": false,
-   "codigo": "3797-427-COT26",
-   "nombre": "MATERIAL APOYO MARKETING LANZAMIENTO TEMPORADA TURISTICA",
-   "organismo": "I MUNICIPALIDAD DE COCHRANE",
-   "unidad": "I MUNICIPALIDAD DE COCHRANE",
-   "monto": 6000000,
-   "cierre_iso": "2026-09-26T12:00:00-03:00",
-   "publicacion": "25-09 08:00",
-   "publicacion_iso": "2026-09-25T08:00:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "49101602",
-     "Recuerdos o souvenirs",
-     1,
-     "material de apoyo y marketing para premios , souvenirs artículos promocionales, material gráfico y elementos de apoyo de acuerdo a detalle adjunto (presentar cotizacion detallada)"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=3797-427-COT26",
-   "sin_detalle": false,
-   "descripcion": "ADQUIRIR PREMIOS SOUVENIRS, ARTICULOS PROMOCIONALES, MATERIAL GRAFICO Y ELEMENTOS DE APOYO DESTINADOS A LA EJECUCION DE LA ACTIVIDAD 12 LANZAMIENTO TEMPORADA TURISTICA"
-  },
-  {
    "tipo": "OPORTUNIDAD",
    "motivos": [
     "Inserciones publicitarias en medios"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "4066-393-COT26",
    "nombre": "SERVICIO DE DIFUSION EN REDES SOCIALES DIGITALES DE LAS ACTIVIDADES DEL PROGRAMA DE TRANSFERENCIA DE FORTALECIMIENTO PRODUCTIVO PARA LA COMUNA DE RÍO IBAÑEZ CODIGO BIP 40066883-0",
    "organismo": "I MUNICIPALIDAD RIO IBANEZ",

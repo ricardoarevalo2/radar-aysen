@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-09-26T11:35:33.004782-03:00",
+ "actualizado": "2026-09-26T12:36:33.083543-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
- "total_region": 209,
+ "total_region": 197,
  "rubros": {
   "25172700": "Aire acondicionado",
   "25173900": "Componentes eléctricos",
@@ -19,112 +19,6 @@
   "39121400": "Conectores, enchufes y terminales"
  },
  "filas": [
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "enchufe",
-    "interruptor"
-   ],
-   "nueva": false,
-   "codigo": "1403-392-COT26",
-   "nombre": "COMPRA DE MATERIALES ELECTRICOS Y DATOS PARA HABILITAR OFICINAS PARA LA DIRREG AYSEN Y UNIDADES PENALES",
-   "organismo": "Dirección Regional de Gendarmeria - Coyhaique",
-   "unidad": "Región de Aysén",
-   "monto": 1317000,
-   "cierre_iso": "2026-09-26T12:00:00-03:00",
-   "publicacion": "25-09 09:23",
-   "publicacion_iso": "2026-09-25T09:23:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "72131702",
-     "Construcción de obras civiles",
-     30,
-     "CAJA CHUQUI"
-    ],
-    [
-     "72131702",
-     "Construcción de obras civiles",
-     100,
-     "CABLE THHNA 12 ROJO (METRO)"
-    ],
-    [
-     "72131702",
-     "Construcción de obras civiles",
-     100,
-     "CABLE THHNA 12 BLANCO (METRO)"
-    ],
-    [
-     "72131702",
-     "Construcción de obras civiles",
-     100,
-     "CABLE THHNA 12 VERDE (METRO)"
-    ],
-    [
-     "72131702",
-     "Construcción de obras civiles",
-     20,
-     "ENCHUFE TRIPLEX 2P +AT 10A BLANCO"
-    ],
-    [
-     "72131702",
-     "Construcción de obras civiles",
-     20,
-     "TAPA CIEGA ANDROMEDA WH"
-    ],
-    [
-     "72131702",
-     "Construcción de obras civiles",
-     15,
-     "ROSETA RJ45 5E"
-    ],
-    [
-     "72131702",
-     "Construcción de obras civiles",
-     200,
-     "CONECTORES RJ43 5E"
-    ],
-    [
-     "72131702",
-     "Construcción de obras civiles",
-     3,
-     "CAJA CABLE RED RJ45 5E"
-    ],
-    [
-     "72131702",
-     "Construcción de obras civiles",
-     10,
-     "HUINCHA AISLADORA"
-    ],
-    [
-     "72131702",
-     "Construcción de obras civiles",
-     2,
-     "INTERRUPTOR DIFERENCIAL 25A EASY 9"
-    ],
-    [
-     "72131702",
-     "Construcción de obras civiles",
-     2,
-     "INTERRUPTOR AUTOMATICO TERMOMAGNETICO 40A EASY 9"
-    ],
-    [
-     "72131702",
-     "Construcción de obras civiles",
-     30,
-     "CONDUIT 20 MM 3 METROS"
-    ],
-    [
-     "72131702",
-     "Construcción de obras civiles",
-     30,
-     "CANALETA 40X25MM CON TABIQUE INTERNO"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1403-392-COT26",
-   "sin_detalle": false,
-   "descripcion": "E1O2RT9 - COMPRA DE MATERIALES ELECTRICOS Y DATOS PARA HABILITAR OFICINAS PARA LA DIRREG AYSEN Y UNIDADES PENALES. CRITERIOS DE EVALUACIÓN: PRECIO 88% - PLAZO DE ENTREGA 10% - SUSTENTABILIDAD 2%"
-  },
   {
    "tipo": "OPORTUNIDAD",
    "motivos": [
@@ -427,7 +321,7 @@
    "motivos": [
     "Gasfitería, calefacción y aire acondicionado"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "911089-84-COT26",
    "nombre": "ADQUISICION DEL SERVICIO DE MANTENCION , REGULARIZACION E INSCRIPCION DE CALDERA DE CALEFACCION EN LA SEREMI DE SALUD AYSEN",
    "organismo": "Zona de Bienestar \"Coyhaique\"",
