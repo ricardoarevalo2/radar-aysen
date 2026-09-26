@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-09-26T17:35:31.370867-03:00",
+ "actualizado": "2026-09-26T18:34:48.743935-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
- "total_region": 190,
+ "total_region": 187,
  "rubros": {
   "25172700": "Aire acondicionado",
   "25173900": "Componentes eléctricos",
@@ -111,7 +111,7 @@
    "motivos": [
     "Enfriamiento (aires acondicionados)"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "418-1422-COT26",
    "nombre": "Enfriador de aire climatizador, Ventilador y Calefactor",
    "organismo": "SERVICIO NACIONAL DE SALUD HOSPITAL DE PUERTO AYSEN",
