@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-09-26T08:35:01.300856-03:00",
+ "actualizado": "2026-09-26T09:39:27.647265-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
- "total_region": 226,
+ "total_region": 222,
  "rubros": {
   "25172700": "Aire acondicionado",
   "25173900": "Componentes eléctricos",
@@ -19,33 +19,6 @@
   "39121400": "Conectores, enchufes y terminales"
  },
  "filas": [
-  {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Gasfitería, calefacción y aire acondicionado"
-   ],
-   "nueva": false,
-   "codigo": "2495-501-COT26",
-   "nombre": "Adquisición de camisa de quemador tubular para caldera a gas mural Genus Premium Evo HP 150 k/h",
-   "organismo": "I MUNICIPALIDAD DE COYHAIQUE",
-   "unidad": "DIRECCION DESARROLLO COMUNITARIO",
-   "monto": 200000,
-   "cierre_iso": "2026-09-26T09:20:00-03:00",
-   "publicacion": "14-09 10:39",
-   "publicacion_iso": "2026-09-14T10:39:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "72102301",
-     "Supervisión de instalación, ajuste o mantenimiento de calderas",
-     1,
-     "camisa de quemador tubular para caldera, fabricada en malla metálica perforada, con un diámetro exterior de 70 mm, diámetro interior de 62 mm y una altura de 110 mm, correspondiente a la versión de 25 kW. El repuesto deberá ser compatible con una base de cerámica de aproximadamente 155 mm de diámetro, considerando una altura total aproximada de 145 mm con la base. El suministro deberá ser compatible con la caldera existente y considerar su correcta instalación y puesta en funcionamiento."
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=2495-501-COT26",
-   "sin_detalle": false,
-   "descripcion": "Adquisición de repuesto de camisa de quemador tubular para caldera a gas mural Genus Premium Evo HP 150 k/h, que incluya el suministro del repuesto, traslado, instalación, montaje y puesta en funcionamiento."
-  },
   {
    "tipo": "POSIBLE",
    "motivos": [
