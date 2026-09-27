@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-09-26T21:42:45.286768-03:00",
+ "actualizado": "2026-09-27T06:36:09.608529-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
- "total_region": 186,
+ "total_region": 181,
  "rubros": {
   "25172700": "Aire acondicionado",
   "25173900": "Componentes eléctricos",
@@ -19,93 +19,6 @@
   "39121400": "Conectores, enchufes y terminales"
  },
  "filas": [
-  {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Conectores, enchufes y terminales"
-   ],
-   "nueva": false,
-   "codigo": "4778-285-COT26",
-   "nombre": "VEM-ALMOHADAS, CUBRE COLCHÓN, JUEGO DE VAJILLA, JUEGO DE VASOS, TAZONES, INDIVIDUALES, CUCHARAS, CUCHARA DE TÉ, TENEDOR, CUCHILLO, ALARGADOR O ZAPATILLA ELÉCTRICA",
-   "organismo": "SERVICIO NACIONAL DE SALUD HOSPITAL DE C",
-   "unidad": "Compras de Insumos y Servicios Generales",
-   "monto": 380109,
-   "cierre_iso": "2026-09-27T05:18:00-03:00",
-   "publicacion": "15-09 16:31",
-   "publicacion_iso": "2026-09-15T16:31:00-03:00",
-   "ofertas": 1,
-   "productos": [
-    [
-     "52152016",
-     "Vajilla de uso doméstico",
-     2,
-     "VASOS DE 6 UDS.\nVasos de vidrio templado o policarbonato de alta resistencia"
-    ],
-    [
-     "52152016",
-     "Vajilla de uso doméstico",
-     10,
-     "TAZONES\nFabricados en cerámica esmaltada de alta resistencia  o  loza gruesa; capacidad  mínima de 320 cC;  asa ergonómica  reforzada;  aptos para uso en microondas y lavado institucional automático"
-    ],
-    [
-     "52152016",
-     "Vajilla de uso doméstico",
-     8,
-     "INDIVIDUAL ECOCUERO\nDe mesa confeccionados  en ecocuero  (cuero sintético) de  alta  densidad  y  doble  costura   o  bordes sellados; superficie  100% impermeable, lavable con paño húmedo y soluciones desinfectantes; propiedad antideslizante y resistencia térmica  moderada"
-    ],
-    [
-     "52152016",
-     "Vajilla de uso doméstico",
-     6,
-     "CUCHARA SOPERA\nFabricados  íntegramente  en acero  inoxidable  de calidad alimentaria,  set básico para uso intensivo (JUEGO DE 3)"
-    ],
-    [
-     "52152016",
-     "Vajilla de uso doméstico",
-     6,
-     "CUCHARA DE TÉ\nFabricada   en  acero  inoxidable de calidad   alimentaria; tamaño estándar para servicio de té/café;  espesor mínimo de 1.2  mm a 1.5  mm de alta resistencia al doblado (JUEGO DE 3)"
-    ],
-    [
-     "52152016",
-     "Vajilla de uso doméstico",
-     6,
-     "TENEDOR\nFabricado en acero inoxidable de calidad alimentaria; 4 dientes alineados y afilados de forma segura; espesor mínimo de 1.8 mm a 2 mm; alta resistencia estructural para uso diario intensivo (JUEGO DE 3)"
-    ],
-    [
-     "52152016",
-     "Vajilla de uso doméstico",
-     6,
-     "CUCHILLO\nFabricado en acero inoxidable de alta calidad con aleación apta para mantener el filo de mesa;  hoja con sierra fina/fina dentada (JUEGO DE 3)"
-    ],
-    [
-     "39121409",
-     "Conectores de cables eléctricos",
-     3,
-     "ALARGADOR\nUnidades debidamente certificadas por la SEC (Superintendencia de Electricidad  y Combustibles), con un mínimo  de  4 a 6 alvéolos (enchufes) con toma de tierra, cable de extensión  mínimo de 1.5  a 3 metros  de  largo,  e interruptor  de   encendido/apagado con   protección   de sobrecarga (fusible o interruptor térmico integrado)."
-    ],
-    [
-     "42132104",
-     "Almohadas antimicrobianas de hospital",
-     8,
-     "ALMOHADAS\nTamaño estándar (aprox. 50x70 cm), relleno hipoalergénico de fibra siliconada con memoria o alta resiliencia (que no pierda forma rápidamente), funda exterior lavable de composición transpirable (algodón/poliéster)."
-    ],
-    [
-     "52121504",
-     "Fundas de colchón",
-     8,
-     "CUBRE COLCHÓN\nFormato  para colchón de 1    plaza  (estándar  institucional), confeccionado con tela superior suave (algodón o microfibra) y lámina posterior inferior de poliuretano (PU) u otro material 100% impermeable, lavable en máquina, con elástico perimetral ajustable para fijación segura"
-    ],
-    [
-     "52152016",
-     "Vajilla de uso doméstico",
-     2,
-     "JUEGO DE VAJILLA DE 8 UDS.\nSet de loza o porcelana de alta resistencia al impacto térmico y mecánico (apto para uso institucional intensivo), apto para microondas y lavavajillas.  Debe incluir platos hondos,  platos planos y platos de pan (para la cantidadde usuarios determinada por el centro)."
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=4778-285-COT26",
-   "sin_detalle": false,
-   "descripcion": "1. LEER ADJUNTOS PARA AJUSTARSE A ESPECIFICACIONES.\n2. INCLUIR FOTOS,COTIZACIÓN FORMAL Y ESPECIFICACIONES TÉCNICAS EN ESPAÑOL.\n   INDIQUE GARANTÍAS, PLAZOS DE REPOSICIÓN Y TODA INFORMACIÓN ÚTIL PARA EL \n   ANÁLISIS Y COMPARACIÓN  DE OFERTAS. \n3. INCLUIR EMBALAJE Y FLETE A DIRECCIÓN DE DESPACHO.\n4. VIGENCIA DEL PRODUCTO DEBE SER SUPERIOR A UN AÑO COMO MÍNIMO. \n5. NO PARCIALIZAR DESPACHO (UN SÓLO ENVÍO)\n6. NO DEBE ESTAR SUJETA A STOCK\n   (COTIZACIONES Y MARCAS Y VALORES ADJUNTOS SON REFERENCIALES)"
-  },
   {
    "tipo": "OPORTUNIDAD",
    "motivos": [
