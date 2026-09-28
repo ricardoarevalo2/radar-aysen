@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-09-28T17:38:04.156171-03:00",
+ "actualizado": "2026-09-28T18:36:11.392310-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
- "total_region": 175,
+ "total_region": 174,
  "rubros": {
   "25172700": "Aire acondicionado",
   "25173900": "Componentes eléctricos",
@@ -384,6 +384,129 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=5019-56-COT26",
    "sin_detalle": false,
    "descripcion": "Servicio de Mantención Preventiva del Grupo Electrógeno del CCM \"Coyhaique\". Las ofertas serán declaradas inadmisibles cuando: Cotización sobrepase presupuesto disponible, cuando sobrepasen el tiempo de ejecución. Característica Técnica en anexo adjunto."
+  },
+  {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Conectores, enchufes y terminales"
+   ],
+   "nueva": true,
+   "codigo": "1521-72-COT26",
+   "nombre": "Insumos de Oficina Departamento Provincial ",
+   "organismo": "Departamento Provincial de Coyhaique",
+   "unidad": "Departamento Provincial de Coyhaique",
+   "monto": 450000,
+   "cierre_iso": "2026-09-30T16:00:00-03:00",
+   "publicacion": "28-09 17:48",
+   "publicacion_iso": "2026-09-28T17:48:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "55121616",
+     "Banderitas autoadhesivas",
+     10,
+     "10 Set Banderitas de 7 colores 12 mm fluor"
+    ],
+    [
+     "14111530",
+     "Notas de papel autoadhesivo",
+     10,
+     "10 Set Notas  Adhesivas Neon 5 colores 75*75mm fluor"
+    ],
+    [
+     "44121704",
+     "Lápiz pasta",
+     30,
+     "30 unidades Lapiz gel 0.5 Azul"
+    ],
+    [
+     "44121704",
+     "Lápiz pasta",
+     30,
+     "30 unidades Lapiz gel 0.5 colores"
+    ],
+    [
+     "44111503",
+     "Bandejas de correspondencia",
+     5,
+     "5 Unidades Organizador archivos/revistero"
+    ],
+    [
+     "44122011",
+     "Carpetas para archivos",
+     40,
+     "40 unidades carpetas plastificadas azul con sobre"
+    ],
+    [
+     "39121402",
+     "Enchufes eléctricos",
+     1,
+     "alrgador 4 tomas 2 usb-a/ 1 USB-C 15 mts"
+    ],
+    [
+     "53131624",
+     "Toallitas húmedas",
+     5,
+     "5 unidades toallas desinfectantes 50 unidades c/u"
+    ],
+    [
+     "44112004",
+     "Planificadores de reunión",
+     12,
+     "12 unidades planners, calendario 2027. (no agendas)"
+    ],
+    [
+     "55121606",
+     "Etiquetas autoadhesivas",
+     6,
+     "6 Set etiquetas Blancas tipo Adetec 22*73mm"
+    ],
+    [
+     "60123001",
+     "Figuras de goma Eva",
+     6,
+     "6 Set estuches goma eva hand fluor 6 hojas"
+    ],
+    [
+     "54111604",
+     "Relojes de arena",
+     2,
+     "2 unidades reloj de arena 5 minutos"
+    ],
+    [
+     "44121801",
+     "Cinta correctora",
+     6,
+     "6 unidades corrector cinta retractil colores"
+    ],
+    [
+     "44122118",
+     "Fasteners o sujetadores no autoadhesivos",
+     2,
+     "2 cajas accoclip/fastener plástico 50 unidades"
+    ],
+    [
+     "53131606",
+     "Desodorantes",
+     1,
+     "latas automáticas tipo matic de 250 ml tipo Air Wick Freshnatic"
+    ],
+    [
+     "44122011",
+     "Carpetas para archivos",
+     50,
+     "50 unidades fundas transparentes tamaño carta"
+    ],
+    [
+     "44122011",
+     "Carpetas para archivos",
+     50,
+     "50 unidades fundas transparentes tamaño oficio"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1521-72-COT26",
+   "sin_detalle": false,
+   "descripcion": "Insumos de Oficina Departamento Provincial"
   },
   {
    "tipo": "POSIBLE",
