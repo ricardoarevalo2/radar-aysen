@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-09-28T07:38:22.447818-03:00",
+ "actualizado": "2026-09-28T08:40:05.524555-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
- "total_region": 161,
+ "total_region": 144,
  "rubros": {
   "25172700": "Aire acondicionado",
   "25173900": "Componentes eléctricos",
@@ -19,72 +19,6 @@
   "39121400": "Conectores, enchufes y terminales"
  },
  "filas": [
-  {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Enfriamiento (aires acondicionados)"
-   ],
-   "nueva": false,
-   "codigo": "418-1422-COT26",
-   "nombre": "Enfriador de aire climatizador, Ventilador y Calefactor",
-   "organismo": "SERVICIO NACIONAL DE SALUD HOSPITAL DE PUERTO AYSEN",
-   "unidad": "H Puerto Aysén",
-   "monto": 570761,
-   "cierre_iso": "2026-09-28T08:30:00-03:00",
-   "publicacion": "25-09 16:54",
-   "publicacion_iso": "2026-09-25T16:54:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "52141510",
-     "Ventiladores",
-     2,
-     "2 ventiladores de oficina"
-    ],
-    [
-     "42281514",
-     "Calefactores de higienización o accesorios",
-     1,
-     "1 calefactor de oficina"
-    ],
-    [
-     "40101703",
-     "Enfriadores por evaporación",
-     1,
-     "Enfriador de aire climatizador portátil de alto flujo"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=418-1422-COT26",
-   "sin_detalle": false,
-   "descripcion": "Enfriador de aire climatizador, Ventilador y Calefactor para oficinas"
-  },
-  {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Gasfitería, calefacción y aire acondicionado"
-   ],
-   "nueva": false,
-   "codigo": "4140-78-COT26",
-   "nombre": "SERVICIO DE MANTENCION AIRE ACONDICIONADO, DPTO FINANZAS MUNICIPALIDAD DE LAGO VERDE ",
-   "organismo": "I MUNICIPALIDAD DE LAGO VERDE",
-   "unidad": "Adquisiciones",
-   "monto": 300000,
-   "cierre_iso": "2026-09-28T08:30:00-03:00",
-   "publicacion": "25-09 09:13",
-   "publicacion_iso": "2026-09-25T09:13:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "72102305",
-     "Servicios de reparación, mantenimiento o reparación de aire acondicionado",
-     1,
-     "SERVICIO DE MANTENCION EQUIPO DE AIRE ACONDICIONADO DPTO. DE FINANZAS"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=4140-78-COT26",
-   "sin_detalle": false,
-   "descripcion": "SE REQUIERE SERVICIO DE MANTENCION A AIRE ACONDICIONADO CON BOMBA DE CALOR MONTAJE EN PARED MODELO 12-ASM-12MDS UI"
-  },
   {
    "tipo": "POSIBLE",
    "motivos": [
@@ -494,12 +428,5 @@
    "descripcion": "SE SOLICITA LA ADQUISICIÓN DE EQUIPAMIENTO Y MOBILARIO PARA LOS PROGRAMAS SENDA (INFANTO-ADOLESCENTE Y ADULTO) DISPOSITIVOS DEPENDIENTES DEL HOSPITAL DE PUERTO AYSEN.  (INFANTO-ADOLESCENTE Y ADULTO) DISPOSITIVOS DEPENDIENTES DEL HOSPITAL DE PUERTO AYSEN. EL PLAZO DE ENTREGA ES DE 10 DÍAS DE CORRIDO, UNA VEZ EMITIDA LA ORDEN DE COMPRA. LA COTIZACIÓN DEBE INCLUIR EL VALOR DEL FLETE, LOS PRODUCTOS DEBEN SER ENTREGADOS EN CALLE DR. STEFENS N°515,-A PUERTO AYSÉN"
   }
  ],
- "pendientes": [
-  {
-   "codigo": "418-1393-COT26",
-   "nombre": "POR - MAT. ASEO COSAM HPA",
-   "organismo": "SERVICIO NACIONAL DE SALUD HOSPITAL DE PUERTO AYSEN",
-   "link": "https://buscador.mercadopublico.cl/ficha?code=418-1393-COT26"
-  }
- ]
+ "pendientes": []
 }
