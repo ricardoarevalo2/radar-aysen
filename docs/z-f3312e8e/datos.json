@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-09-28T15:41:25.909918-03:00",
+ "actualizado": "2026-09-28T16:37:55.634328-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
- "total_region": 157,
+ "total_region": 174,
  "rubros": {
   "25172700": "Aire acondicionado",
   "25173900": "Componentes eléctricos",
@@ -257,6 +257,81 @@
    "descripcion": "SE SOLICITA LA ADQUISICIÓN DE EQUIPAMIENTO Y MOBILARIO PARA LOS PROGRAMAS SENDA (INFANTO-ADOLESCENTE Y ADULTO) DISPOSITIVOS DEPENDIENTES DEL HOSPITAL DE PUERTO AYSEN.  (INFANTO-ADOLESCENTE Y ADULTO) DISPOSITIVOS DEPENDIENTES DEL HOSPITAL DE PUERTO AYSEN. EL PLAZO DE ENTREGA ES DE 10 DÍAS DE CORRIDO, UNA VEZ EMITIDA LA ORDEN DE COMPRA. LA COTIZACIÓN DEBE INCLUIR EL VALOR DEL FLETE, LOS PRODUCTOS DEBEN SER ENTREGADOS EN CALLE DR. STEFENS N°515,-A PUERTO AYSÉN"
   },
   {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Conectores, enchufes y terminales"
+   ],
+   "nueva": true,
+   "codigo": "951405-254-COT26",
+   "nombre": "(F.PPTO_REME.IDPM) DESMOT.14_CAJ_ADQ. DE MATERIALES PARA REPARACIÓN DEL IDPM DEL CMC.",
+   "organismo": "JEFATURA ADMINISTRATIVA Y LOGISTICA DE LA GUARNICION COYHAIQUE",
+   "unidad": "JAL - Guarnición \"Coyhaique\"",
+   "monto": 1800000,
+   "cierre_iso": "2026-09-30T12:00:00-03:00",
+   "publicacion": "28-09 15:44",
+   "publicacion_iso": "2026-09-28T15:44:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "30171505",
+     "Puertas de metal",
+     1,
+     "KIT PUERTA LISTA ACERO 2 P BLANCA 90 X 200"
+    ],
+    [
+     "31161620",
+     "Pernos de cabeza hexagonal",
+     1,
+     "PERNO HEXAGONAL 5/8 M 6 X 25 2 UNID"
+    ],
+    [
+     "31162301",
+     "Perfiles de montaje",
+     3,
+     "PERFIL CUADRADO 30 X 30 X 2"
+    ],
+    [
+     "31162301",
+     "Perfiles de montaje",
+     2,
+     "PERFIL ANGULO DOBLE 30 X 30 X 2 MM"
+    ],
+    [
+     "31162301",
+     "Perfiles de montaje",
+     8,
+     "PERFIL ANGULO DOBLE 20 X 20 X 2 MM"
+    ],
+    [
+     "31162403",
+     "Goznes",
+     3,
+     "BISAGRAS L 84 4X4"
+    ],
+    [
+     "31191515",
+     "Malla abrasiva",
+     2,
+     "MALLA ACMA CG 5050 10 1 0X2 MTS"
+    ],
+    [
+     "39121436",
+     "Electrodos",
+     3,
+     "ELECTRODO 6011 3 32 1 KL"
+    ],
+    [
+     "30151602",
+     "Planchas de escurrimiento",
+     7,
+     "PLANCHA SIMPLISIMA TEXTURA AMBAR 6 MM 120 X 240 3 UNIDADES"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=951405-254-COT26",
+   "sin_detalle": false,
+   "descripcion": "1) COTIZACIONES A SUMA ALZADA. 2) TODA COORDINACIÓN SERÁ CON EL CONTACTO PREVIO AL ENVÍO. 3) CONSIDERAR LA TOTALIDAD DE LOS BIENES SOLICITADOS Y CON STOCK DE LOS MISMOS (CONFIRMAR). 4) LA OFERTA NO DEBERÁ SOBREPASAR EL MONTO DISPONIBLE. 5) TENDRÁ UN PLAZO DE DIEZ (10) DÍAS HÁBILES PARA LA ENTREGA (NO DESPACHO). 6) LA ENTREGA SE REALIZARÁ EN AVDA. BAQUEDANO ESQUINA EJÉRCITO S/N.° (INTERIOR DE CMC), CIUDAD DE COYHAIQUE, REGIÓN DE AYSÉN. 7) SE PRIVILEGIARÁ AL PROVEEDOR CON ENTREGA MÁS RÁPIDA."
+  },
+  {
    "tipo": "POSIBLE",
    "motivos": [
     "grupo electrógeno"
@@ -282,6 +357,75 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=5019-56-COT26",
    "sin_detalle": false,
    "descripcion": "Servicio de Mantención Preventiva del Grupo Electrógeno del CCM \"Coyhaique\". Las ofertas serán declaradas inadmisibles cuando: Cotización sobrepase presupuesto disponible, cuando sobrepasen el tiempo de ejecución. Característica Técnica en anexo adjunto."
+  },
+  {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Enfriamiento (aires acondicionados)"
+   ],
+   "nueva": true,
+   "codigo": "3431-113-COT26",
+   "nombre": "FI - Adquisición de elementos que serán utilizados en el Casino de Suboficiales de la UR.",
+   "organismo": "Ejercito de Chile",
+   "unidad": "Regimiento N° 8 Chiloé",
+   "monto": 2500000,
+   "cierre_iso": "2026-10-02T15:00:00-03:00",
+   "publicacion": "28-09 15:47",
+   "publicacion_iso": "2026-09-28T15:47:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "23201202",
+     "Secadores de aire",
+     1,
+     "Secador de mano HD 2001 WLS."
+    ],
+    [
+     "44111815",
+     "Cubiertas para mesa de diseño",
+     1,
+     "Encimera radiante VM 4TR."
+    ],
+    [
+     "47121602",
+     "Aspiradoras",
+     1,
+     "Aspiradora 20 Lts. 1000 W."
+    ],
+    [
+     "52161515",
+     "Reproductor o grabador de CD",
+     1,
+     "Reproductor Streaming TV Ultra 4K"
+    ],
+    [
+     "40101701",
+     "Aires acondicionados",
+     1,
+     "Equipo de aire acondicionado sico 9000"
+    ],
+    [
+     "30181515",
+     "Estanque del WC",
+     25,
+     "Kit de reparación de estanque plast."
+    ],
+    [
+     "40141716",
+     "Sifones en P",
+     25,
+     "Sifón, Kit instalación lavatorio stand."
+    ],
+    [
+     "30181503",
+     "Duchas",
+     20,
+     "Ducha set soporte flexible nikel 1,75 Mts."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=3431-113-COT26",
+   "sin_detalle": false,
+   "descripcion": "Adquisición de elementos para el normal funcionamiento del personal del Casino de Suboficiales de la UR. (Conforme a solicitud de cotización)."
   }
  ],
  "pendientes": []

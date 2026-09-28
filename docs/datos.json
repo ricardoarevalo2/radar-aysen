@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-09-28T15:41:25.909918-03:00",
+ "actualizado": "2026-09-28T16:37:55.634328-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
- "total_region": 157,
+ "total_region": 174,
  "rubros": {
   "80141600": "Ventas y marketing",
   "82101600": "Publicidad en medios no impresos",
@@ -40,6 +40,33 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=4066-396-COT26",
    "sin_detalle": false,
    "descripcion": "SE REQUIERE CONTRATAR EL SERVICIO DE DIFUSION EN REDES SOCIALES DIGITALES DE LAS ACTIVIDADES DEL PROGRAMA DE TRANSFERENCIA DE FORTALECIMIENTO PRODUCTIVO PARA LA COMUNA DE RÍO IBAÑEZ CODIGO BIP 40066883-0, SEGUN EL COMPONENTE DE COMUNICACION Y DIFUSION, SEGUN TERMINOS DE REFERENCIA ADJUNTO EN 3 ESTADOS DE PAGO DESDE EL MES DE OCTUBRE-NOVIEMBRE-DICIEMBRE 2026"
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "difusión"
+   ],
+   "nueva": true,
+   "codigo": "1233615-744-COT26",
+   "nombre": "RMG-INT00259-SLEP Aysén, publicación consejeros electos CLEP, diario de difusión regional",
+   "organismo": "Servicio Local de Educación Pública Aysén",
+   "unidad": "Servicio Local de Educación Pública Aysén",
+   "monto": 124000,
+   "cierre_iso": "2026-09-29T16:00:00-03:00",
+   "publicacion": "28-09 15:45",
+   "publicacion_iso": "2026-09-28T15:45:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "55101505",
+     "Publicaciones",
+     1,
+     "Según detalle adjunto, publicación en diario digital de difusión regional, consejeros electos CLEP"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1233615-744-COT26",
+   "sin_detalle": false,
+   "descripcion": "Según detalle adjunto"
   },
   {
    "tipo": "POSIBLE",
@@ -125,6 +152,90 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=1233615-743-COT26",
    "sin_detalle": false,
    "descripcion": "Según detalle adjunto"
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "audiovisual",
+    "radio"
+   ],
+   "nueva": true,
+   "codigo": "1182705-181-COT26",
+   "nombre": "SERVICIO DE ARRIENDO PARA JORNADA INSTITUCIONAL POST CNED 2026",
+   "organismo": "CENTRO DE FORMACIÓN TÉCNICA DE LA REGIÓN DE AYSÉN DEL GENERAL CARLOS I",
+   "unidad": "FINANZAS",
+   "monto": 2160000,
+   "cierre_iso": "2026-09-29T16:27:00-03:00",
+   "publicacion": "28-09 16:20",
+   "publicacion_iso": "2026-09-28T16:20:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "90111603",
+     "Salas de reuniones o banquetes",
+     1,
+     "FECHA 30/09/2026\nCANTIDAD DE PERSONAS: 48\nHORARIO: 11:30 A 15:30\nLA DEPENDENCIA DEBE INCLUIR MESAS, SILLAS, SERVICIOS HIGENICOS SUFICIENTES, EQUIPAMIENTO AUDIOVISUAL (PARLANTES Y MICROFONO) Y CALEFACCION- LA DEPENDENCIA DEBE ESTAR UBICADA DENTRO DEL RADIO URBANO DE PUERTO AYSEN - SERVICIO DE BUFFET SE ADJUNTA DETALLE"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1182705-181-COT26",
+   "sin_detalle": false,
+   "descripcion": "ESPACIO PARA JORNADA INSTITUCIONAL DIA 30/09/2026  DIRIGIDA A 48 PERSONAS (FUNCIONARIOS DEL CFT DE AYSEN - CASA CENTRAL, LA DEPENDENCIA DEBE INCLUIR MESAS, SILLAS, SERVICIOS HIGENICOS SUFICIENTES, EQUIPAMIENTO AUDIOVISUAL (PARLANTES Y MICROFONO) Y CALEFACCION- LA DEPENDENCIA DEBE ESTAR UBICADA DENTRO DEL RADIO URBANO DE PUERTO AYSEN- HORARIO DE LA ACTIVIDAD 11:30 a 15:30 - SE SOLICITA ADJUNTAR COTIZACION"
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "difusión",
+    "publicidad",
+    "publicitarios"
+   ],
+   "nueva": true,
+   "codigo": "2495-527-COT26",
+   "nombre": "FLYER CENTRO DE LAS MUJERES",
+   "organismo": "I MUNICIPALIDAD DE COYHAIQUE",
+   "unidad": "DIRECCION DESARROLLO COMUNITARIO",
+   "monto": 500000,
+   "cierre_iso": "2026-09-30T09:00:00-03:00",
+   "publicacion": "28-09 16:34",
+   "publicacion_iso": "2026-09-28T16:34:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "82101507",
+     "Folletos y catálogos publicitarios, servicios de publicidad y distribución",
+     800,
+     "800 flyers, impresos en papel couché, con terminación y calidad adecuada para difusión institucional y calidad adecuada para difusión institucional"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=2495-527-COT26",
+   "sin_detalle": false,
+   "descripcion": "800 folletos tipo flyer, impresos en papel couché, con terminación y calidad adecuada para difusión institucional. Monto que deberá considerar impresión y despacho a domicilio."
+  },
+  {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Ventas y marketing"
+   ],
+   "nueva": true,
+   "codigo": "2713-1176-COT26",
+   "nombre": "SERVICIO PRODUCCION EVENTO. FOLIO 1220 DIDECO.",
+   "organismo": "I MUNICIPALIDAD DE AYSEN",
+   "unidad": "I.MUNICIPALIDAD AYSEN-ADQUISICIONES",
+   "monto": 1700000,
+   "cierre_iso": "2026-09-30T09:30:00-03:00",
+   "publicacion": "28-09 16:02",
+   "publicacion_iso": "2026-09-28T16:02:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "80141607",
+     "Producción de eventos",
+     1,
+     "SERVICIO DE PRODUCCION DE EVENTO, SEGUN BASES TECNICAS ADJUNTAS."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=2713-1176-COT26",
+   "sin_detalle": false,
+   "descripcion": "COTIZACIÓN DE SERVICIO PRODUCCION EVENTO SEGUN BASES TECNICAS ADJUNTAS PARA EL DIA 23-10-26. LOS COSTOS DE TRASLADOS A PUERTO AYSÉN SERÁN DEL OFERENTE. OFERENTE DEBE INCLUIR FLETES EN EL PRECIO DEL PRODUCTO.SE SOLICITA ANEXAR PROPUESTA TECNICA Y LOS DOCUMENTOS REQUERIDOS, DE LO CONTRARIO SE DESCARTARA."
   },
   {
    "tipo": "OPORTUNIDAD",
@@ -306,6 +417,75 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=1458-21-COT26",
    "sin_detalle": false,
    "descripcion": "La Secretaría Regional Ministerial de Desarrollo Social y Familia de la región de Aysén, requiere adquirir Material de Difusión destinado a la realización de diferentes actividades del Sistema Elige Vivir Sano (EVS), para dar cumplimiento al respectivo plan de trabajo regional. \n\nLa Adquisición se efectuará mediante el procedimiento de compra Ágil, de conformidad  con la Ley N°18.886 y su reglamento, aprobado mediante Decreto Supremo N°661 de 2024. (VER TÉRMINOS DE REFERENCIA)"
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "streaming"
+   ],
+   "nueva": true,
+   "codigo": "3431-113-COT26",
+   "nombre": "FI - Adquisición de elementos que serán utilizados en el Casino de Suboficiales de la UR.",
+   "organismo": "Ejercito de Chile",
+   "unidad": "Regimiento N° 8 Chiloé",
+   "monto": 2500000,
+   "cierre_iso": "2026-10-02T15:00:00-03:00",
+   "publicacion": "28-09 15:47",
+   "publicacion_iso": "2026-09-28T15:47:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "23201202",
+     "Secadores de aire",
+     1,
+     "Secador de mano HD 2001 WLS."
+    ],
+    [
+     "44111815",
+     "Cubiertas para mesa de diseño",
+     1,
+     "Encimera radiante VM 4TR."
+    ],
+    [
+     "47121602",
+     "Aspiradoras",
+     1,
+     "Aspiradora 20 Lts. 1000 W."
+    ],
+    [
+     "52161515",
+     "Reproductor o grabador de CD",
+     1,
+     "Reproductor Streaming TV Ultra 4K"
+    ],
+    [
+     "40101701",
+     "Aires acondicionados",
+     1,
+     "Equipo de aire acondicionado sico 9000"
+    ],
+    [
+     "30181515",
+     "Estanque del WC",
+     25,
+     "Kit de reparación de estanque plast."
+    ],
+    [
+     "40141716",
+     "Sifones en P",
+     25,
+     "Sifón, Kit instalación lavatorio stand."
+    ],
+    [
+     "30181503",
+     "Duchas",
+     20,
+     "Ducha set soporte flexible nikel 1,75 Mts."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=3431-113-COT26",
+   "sin_detalle": false,
+   "descripcion": "Adquisición de elementos para el normal funcionamiento del personal del Casino de Suboficiales de la UR. (Conforme a solicitud de cotización)."
   }
  ],
  "pendientes": []
