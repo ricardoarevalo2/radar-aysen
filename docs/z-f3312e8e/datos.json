@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-09-28T12:39:20.017294-03:00",
+ "actualizado": "2026-09-28T13:38:25.102215-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
- "total_region": 149,
+ "total_region": 151,
  "rubros": {
   "25172700": "Aire acondicionado",
   "25173900": "Componentes eléctricos",
@@ -191,5 +191,12 @@
    "descripcion": "SE SOLICITA LA ADQUISICIÓN DE EQUIPAMIENTO Y MOBILARIO PARA LOS PROGRAMAS SENDA (INFANTO-ADOLESCENTE Y ADULTO) DISPOSITIVOS DEPENDIENTES DEL HOSPITAL DE PUERTO AYSEN.  (INFANTO-ADOLESCENTE Y ADULTO) DISPOSITIVOS DEPENDIENTES DEL HOSPITAL DE PUERTO AYSEN. EL PLAZO DE ENTREGA ES DE 10 DÍAS DE CORRIDO, UNA VEZ EMITIDA LA ORDEN DE COMPRA. LA COTIZACIÓN DEBE INCLUIR EL VALOR DEL FLETE, LOS PRODUCTOS DEBEN SER ENTREGADOS EN CALLE DR. STEFENS N°515,-A PUERTO AYSÉN"
   }
  ],
- "pendientes": []
+ "pendientes": [
+  {
+   "codigo": "4644-76-COT26",
+   "nombre": " EPP, Área de Intervención Vivero el Mallín SIC 414",
+   "organismo": "CORP NACIONAL FORESTAL",
+   "link": "https://buscador.mercadopublico.cl/ficha?code=4644-76-COT26"
+  }
+ ]
 }

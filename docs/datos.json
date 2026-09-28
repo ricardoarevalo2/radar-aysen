@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-09-28T12:39:20.017294-03:00",
+ "actualizado": "2026-09-28T13:38:25.102215-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
- "total_region": 149,
+ "total_region": 151,
  "rubros": {
   "80141600": "Ventas y marketing",
   "82101600": "Publicidad en medios no impresos",
@@ -75,5 +75,12 @@
    "descripcion": "Solicitado mediante Pedido de Materiales N° 437 del Departamento de Acción Sanitaria."
   }
  ],
- "pendientes": []
+ "pendientes": [
+  {
+   "codigo": "4644-76-COT26",
+   "nombre": " EPP, Área de Intervención Vivero el Mallín SIC 414",
+   "organismo": "CORP NACIONAL FORESTAL",
+   "link": "https://buscador.mercadopublico.cl/ficha?code=4644-76-COT26"
+  }
+ ]
 }
