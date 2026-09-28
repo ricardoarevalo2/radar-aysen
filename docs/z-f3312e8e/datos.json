@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-09-28T16:37:55.634328-03:00",
+ "actualizado": "2026-09-28T17:38:04.156171-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
- "total_region": 174,
+ "total_region": 175,
  "rubros": {
   "25172700": "Aire acondicionado",
   "25173900": "Componentes eléctricos",
@@ -259,6 +259,33 @@
   {
    "tipo": "OPORTUNIDAD",
    "motivos": [
+    "Cajas y accesorios eléctricos"
+   ],
+   "nueva": true,
+   "codigo": "2495-528-COT26",
+   "nombre": "Adquisición 40 cajas cartón americana 260 x 300 x 420",
+   "organismo": "I MUNICIPALIDAD DE COYHAIQUE",
+   "unidad": "DIRECCION DESARROLLO COMUNITARIO",
+   "monto": 150000,
+   "cierre_iso": "2026-09-30T09:00:00-03:00",
+   "publicacion": "28-09 16:39",
+   "publicacion_iso": "2026-09-28T16:39:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "39121310",
+     "Cajas de uso general",
+     40,
+     "40 cajas de cartón tipo americana, de medidas 260 x 300 x 420"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=2495-528-COT26",
+   "sin_detalle": false,
+   "descripcion": "Se requiere la adquisición de 40 cajas de cartón tipo americana, de medidas 260 x 300 x 420, destinadas a labores de almacenamiento y traslado de documentación y/o materiales. El valor ofertado deberá considerar el despacho a domicilio incluido, sin generar costos adicionales."
+  },
+  {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
     "Conectores, enchufes y terminales"
    ],
    "nueva": true,
@@ -357,6 +384,39 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=5019-56-COT26",
    "sin_detalle": false,
    "descripcion": "Servicio de Mantención Preventiva del Grupo Electrógeno del CCM \"Coyhaique\". Las ofertas serán declaradas inadmisibles cuando: Cotización sobrepase presupuesto disponible, cuando sobrepasen el tiempo de ejecución. Característica Técnica en anexo adjunto."
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "iluminación"
+   ],
+   "nueva": true,
+   "codigo": "2713-1178-COT26",
+   "nombre": "DIDECO/Turismo, adquisicion de materiales electricos, solicitud foilio 1196",
+   "organismo": "I MUNICIPALIDAD DE AYSEN",
+   "unidad": "I.MUNICIPALIDAD AYSEN-ADQUISICIONES",
+   "monto": 90000,
+   "cierre_iso": "2026-10-01T08:00:00-03:00",
+   "publicacion": "28-09 17:19",
+   "publicacion_iso": "2026-09-28T17:19:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "39101701",
+     "Tubos fluorescentes",
+     10,
+     "tubos LED tipo T8, potencia de 18 W, longitud aproximada de 1200 mm, tensión de alimentación 220-240 V AC, 50/60 Hz, flujo luminoso mínimo de 1600 lúmenes.Para uso de interior, con encendido instantáneo y sin parpadeo perceptible. Se aceptarán productos de características técnicas equivalentes o superiores"
+    ],
+    [
+     "39101701",
+     "Tubos fluorescentes",
+     2,
+     "focos/proyector LED para iluminación exterior, potencia de 50W, tensión de alimentación 220-240 V AC, flujo luminoso de mínimo 4000 lúmenes, equipado con sensor de movimiento, con ángulo de detección mínimo de 120° y alcance mínimo de 6 metros, deberá contar con grado de protección mínimo IP65, soporte de montaje orientable y ser apto para instalación en exteriores. Se aceptarán productos de características equivalentes o superiores"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=2713-1178-COT26",
+   "sin_detalle": false,
+   "descripcion": "Adquisicion de materiales electricos, los montos de las ofertas deben incluir todos los gastos necesarios, para la entrega de los muebles de los materiales lectricos, en las oficinas de turismo, en puerto aysén, las ofertas que sobrepasen el monto presupuestario disponible, no cumplan con las especificaciones, no cumplan o no indiquen el plazo de entrega no serán evaluadas.el plazo de entrega comienza correr al segundo dia habil desde enviada la orden de compra."
   },
   {
    "tipo": "OPORTUNIDAD",
