@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-09-28T13:38:25.102215-03:00",
+ "actualizado": "2026-09-28T14:37:15.836252-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
- "total_region": 151,
+ "total_region": 153,
  "rubros": {
   "25172700": "Aire acondicionado",
   "25173900": "Componentes eléctricos",
@@ -72,6 +72,39 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=1343645-111-COT26",
    "sin_detalle": false,
    "descripcion": "La Ilustre Municipalidad de O´Higgins, ubicada en la Región de Aysén, requiere Cotizar la\ninstalación de 7 estufas a Pellet en diversos edificios municipales. En los cuales se requiere\ninstalación eléctrica para su conexión como se indica en detalle de los trabajos (Punto N°7) y la\nprovisión de escantillón para\ntodas las combustiones a pellet."
+  },
+  {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Gasfitería, calefacción y aire acondicionado"
+   ],
+   "nueva": true,
+   "codigo": "1608-82-COT26",
+   "nombre": "Cambio de dos llaves de lavaplatos y reparación de desagüe de lavamanos.",
+   "organismo": "DELEGACIÓN PRESIDENCIAL REGIONAL DE AYSÉN DEL GENERAL CARLOS IBÁÑEZ DE",
+   "unidad": "DELEGACION PRESIDENCIAL REGIONAL DE AYSEN",
+   "monto": 250000,
+   "cierre_iso": "2026-09-29T15:00:00-03:00",
+   "publicacion": "28-09 14:13",
+   "publicacion_iso": "2026-09-28T14:13:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "72102304",
+     "Mantenimiento o reparación de sistemas de fontanería, gasfitería",
+     2,
+     "Se requiere el cambio de dos llaves de lavaplatos de combinación lavaplatos cromado, (Una en casino de Plaza 485 y otra en casino de Errazuriz 375, ambas en la ciudad de Coyhaique. IMPORTANTE!! REVISAR DOCUMENTO ADJUNTO!!"
+    ],
+    [
+     "72102304",
+     "Mantenimiento o reparación de sistemas de fontanería, gasfitería",
+     1,
+     "Al mismo tiempo se requiere, la reparación de desagüe de lavamanos en baño 1er nivel del edificio de Plaza 485, Coyhaique. (Para este trabajo, se aconseja de manera opcional la visita a terreno, la cual se fija para el día 29 de Septiembre a las 11:00am hasta la 11:30am).  IMPORTANTE!! REVISAR DOCUMENTO ADJUNTO!!"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1608-82-COT26",
+   "sin_detalle": false,
+   "descripcion": "Cambio de dos llaves de lavaplatos y reparación de desagüe de lavamanos."
   },
   {
    "tipo": "POSIBLE",
@@ -191,12 +224,5 @@
    "descripcion": "SE SOLICITA LA ADQUISICIÓN DE EQUIPAMIENTO Y MOBILARIO PARA LOS PROGRAMAS SENDA (INFANTO-ADOLESCENTE Y ADULTO) DISPOSITIVOS DEPENDIENTES DEL HOSPITAL DE PUERTO AYSEN.  (INFANTO-ADOLESCENTE Y ADULTO) DISPOSITIVOS DEPENDIENTES DEL HOSPITAL DE PUERTO AYSEN. EL PLAZO DE ENTREGA ES DE 10 DÍAS DE CORRIDO, UNA VEZ EMITIDA LA ORDEN DE COMPRA. LA COTIZACIÓN DEBE INCLUIR EL VALOR DEL FLETE, LOS PRODUCTOS DEBEN SER ENTREGADOS EN CALLE DR. STEFENS N°515,-A PUERTO AYSÉN"
   }
  ],
- "pendientes": [
-  {
-   "codigo": "4644-76-COT26",
-   "nombre": " EPP, Área de Intervención Vivero el Mallín SIC 414",
-   "organismo": "CORP NACIONAL FORESTAL",
-   "link": "https://buscador.mercadopublico.cl/ficha?code=4644-76-COT26"
-  }
- ]
+ "pendientes": []
 }
