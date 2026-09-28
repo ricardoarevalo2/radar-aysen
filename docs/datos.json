@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-09-28T09:45:02.713312-03:00",
+ "actualizado": "2026-09-28T10:39:54.163122-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
- "total_region": 139,
+ "total_region": 131,
  "rubros": {
   "80141600": "Ventas y marketing",
   "82101600": "Publicidad en medios no impresos",
@@ -13,6 +13,34 @@
   "83111900": "Servicios de radio",
   "83121700": "Comunicación social y de masas"
  },
- "filas": [],
+ "filas": [
+  {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Inserciones publicitarias en medios"
+   ],
+   "nueva": true,
+   "codigo": "4066-396-COT26",
+   "nombre": " SERVICIO DE DIFUSION EN REDES SOCIALES DIGITALES DE LAS ACTIVIDADES DEL PROGRAMA DE TRANSFERENCIA DE FORTALECIMIENTO PRODUCTIVO PARA LA COMUNA DE RÍO IBAÑEZ CODIGO BIP 40066883-0",
+   "organismo": "I MUNICIPALIDAD RIO IBANEZ",
+   "unidad": "DIDECO",
+   "monto": 1500000,
+   "cierre_iso": "2026-09-29T11:00:00-03:00",
+   "publicacion": "28-09 10:33",
+   "publicacion_iso": "2026-09-28T10:33:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "82101903",
+     "Avisos en Internet",
+     1,
+     "SERVICIO DE DIFUSION EN REDES SOCIALES DIGITALES DE LAS ACTIVIDADES DEL PROGRAMA DE TRANSFERENCIA DE FORTALECIMIENTO PRODUCTIVO PARA LA COMUNA DE RÍO IBAÑEZ CODIGO BIP 40066883-0 3 ESTADOS DE PAGO OCTUBRE NOVIEMBRE DICIEMBRE"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=4066-396-COT26",
+   "sin_detalle": false,
+   "descripcion": "SE REQUIERE CONTRATAR EL SERVICIO DE DIFUSION EN REDES SOCIALES DIGITALES DE LAS ACTIVIDADES DEL PROGRAMA DE TRANSFERENCIA DE FORTALECIMIENTO PRODUCTIVO PARA LA COMUNA DE RÍO IBAÑEZ CODIGO BIP 40066883-0, SEGUN EL COMPONENTE DE COMUNICACION Y DIFUSION, SEGUN TERMINOS DE REFERENCIA ADJUNTO EN 3 ESTADOS DE PAGO DESDE EL MES DE OCTUBRE-NOVIEMBRE-DICIEMBRE 2026"
+  }
+ ],
  "pendientes": []
 }

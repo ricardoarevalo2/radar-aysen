@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-09-28T09:45:02.713312-03:00",
+ "actualizado": "2026-09-28T10:39:54.163122-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
- "total_region": 139,
+ "total_region": 131,
  "rubros": {
   "25172700": "Aire acondicionado",
   "25173900": "Componentes eléctricos",
@@ -20,184 +20,31 @@
  },
  "filas": [
   {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Gasfitería, calefacción y aire acondicionado"
-   ],
-   "nueva": false,
-   "codigo": "911089-84-COT26",
-   "nombre": "ADQUISICION DEL SERVICIO DE MANTENCION , REGULARIZACION E INSCRIPCION DE CALDERA DE CALEFACCION EN LA SEREMI DE SALUD AYSEN",
-   "organismo": "Zona de Bienestar \"Coyhaique\"",
-   "unidad": "Zona de Bienestar Coyhaique",
-   "monto": 4500000,
-   "cierre_iso": "2026-09-28T10:30:00-03:00",
-   "publicacion": "25-09 12:14",
-   "publicacion_iso": "2026-09-25T12:14:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "72102301",
-     "Supervisión de instalación, ajuste o mantenimiento de calderas",
-     1,
-     "01 SERVICIO DE MANTENCION REGULARIZACION E INSCRIPCION DE CALDERA DE CALEFACCIÓN PARA AGUA AGUA CALIENTE SEGUN DECRETO SUPREMO N°10. QUE CONTEMPLE LA TOTALIDAD DE LOS INSUMOS, MATERIALES, COMPONENTES Y MANO DE OBRA PARA LA REGULARIZACION Y HABILITACION DE REDES ELECTRICAS, HIDRAULICAS E INFRAESTRUCTURA ASOCIADA.\n\nSEGUN ANEXO ADJUNTO"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=911089-84-COT26",
-   "sin_detalle": false,
-   "descripcion": "SE SOLICITA LA ADQUISICION DEL SERVICIO DE MANTENCION , REGULARIZACION E INSCRIPCION DE CALDERA DE CALEFACCION EN LA SEREMI DE SALUD AYSEN , PARA LA SC Y JI PEQUITAS.\n\nADJUNTAR:\n\nSE SOLICITA LLENAR EL ANEXO QUE SE ADJUNTA (DECLARACION JURADA SIMPLE) PARA LOS OFERENTES POSTULANTES, QUIEN NO LO PRESENTE FIRMADO QUEDA FUERA DE POSTULACION\n\nFORMULARIO DE ACREDITACIÓN DE PERSONAL FACULTADO Y CALIFICADO,QUIEN NO LO PRESENTE CON SU DOCUMENTACION ADJUNTA QUEDA FUERA DE POSTULACION"
-  },
-  {
    "tipo": "POSIBLE",
    "motivos": [
-    "iluminación"
+    "instalación eléctrica"
    ],
-   "nueva": false,
-   "codigo": "3791-967-COT26",
-   "nombre": "AUDIO Y ILUMINACION ",
-   "organismo": "I MUNICIPALIDAD DE CISNES",
-   "unidad": "Finanzas",
-   "monto": 2500000,
-   "cierre_iso": "2026-09-28T10:30:00-03:00",
-   "publicacion": "24-09 09:22",
-   "publicacion_iso": "2026-09-24T09:22:00-03:00",
+   "nueva": true,
+   "codigo": "1343645-111-COT26",
+   "nombre": "Instalación Estufas a Pellet",
+   "organismo": "I MUNICIPALIDAD DE O HIGGINS",
+   "unidad": "SECPLAN",
+   "monto": 1500000,
+   "cierre_iso": "2026-09-29T13:00:00-03:00",
+   "publicacion": "28-09 10:10",
+   "publicacion_iso": "2026-09-28T10:10:00-03:00",
    "ofertas": 0,
    "productos": [
     [
-     "80161507",
-     "Servicios Audio Visuales",
-     8,
-     "SISTEMA LINE ARRAY"
-    ],
-    [
-     "80161507",
-     "Servicios Audio Visuales",
+     "80111613",
+     "Mano de obra temporal",
      1,
-     "CONSOLA DE AUDIO DIGITAL"
-    ],
-    [
-     "80161507",
-     "Servicios Audio Visuales",
-     3,
-     "SUB BAJOS"
-    ],
-    [
-     "80161507",
-     "Servicios Audio Visuales",
-     2,
-     "AMPLIFICADOR DIGITAL"
-    ],
-    [
-     "80161507",
-     "Servicios Audio Visuales",
-     1,
-     "PROCESADOR DE AUDIO"
-    ],
-    [
-     "80161507",
-     "Servicios Audio Visuales",
-     4,
-     "MONITORES DE PISO"
-    ],
-    [
-     "80161507",
-     "Servicios Audio Visuales",
-     15,
-     "MICROFONOS DINAMICOS"
-    ],
-    [
-     "80161507",
-     "Servicios Audio Visuales",
-     4,
-     "MICROFONOS INALAMBRICOS"
-    ],
-    [
-     "80161507",
-     "Servicios Audio Visuales",
-     12,
-     "CAJAS DIRECTAS"
-    ],
-    [
-     "80161507",
-     "Servicios Audio Visuales",
-     2,
-     "ACONDICIONADOR DE ENERGIA 220 VOLT"
-    ],
-    [
-     "80161507",
-     "Servicios Audio Visuales",
-     40,
-     "LINEAS XLR"
-    ],
-    [
-     "80161507",
-     "Servicios Audio Visuales",
-     1,
-     "INGENIERO DE SONIDO"
-    ],
-    [
-     "80161507",
-     "Servicios Audio Visuales",
-     2,
-     "ASISTENTE DE AUDIO"
-    ],
-    [
-     "80161507",
-     "Servicios Audio Visuales",
-     1,
-     "CONSOLA ILUMINACION"
-    ],
-    [
-     "80161507",
-     "Servicios Audio Visuales",
-     4,
-     "CABEZALES MOVILES BEAM 230 7R"
-    ],
-    [
-     "80161507",
-     "Servicios Audio Visuales",
-     6,
-     "CABEZALES MOVILES WASH"
-    ],
-    [
-     "80161507",
-     "Servicios Audio Visuales",
-     8,
-     "FOCOS LED"
-    ],
-    [
-     "80161507",
-     "Servicios Audio Visuales",
-     2,
-     "BLINDER DE 4 LAMPARAS"
-    ],
-    [
-     "80161507",
-     "Servicios Audio Visuales",
-     5,
-     "FOCOS COB"
-    ],
-    [
-     "80161507",
-     "Servicios Audio Visuales",
-     6,
-     "TRUSS 3 METROS DE 30X30CM"
-    ],
-    [
-     "80161507",
-     "Servicios Audio Visuales",
-     4,
-     "TECLES 1 TONELADA"
-    ],
-    [
-     "80161507",
-     "Servicios Audio Visuales",
-     32,
-     "MODULO LED 50X50"
+     "La Ilustre Municipalidad de O´Higgins, ubicada en la Región de Aysén, requiere Cotizar la\ninstalación de 7 estufas a Pellet en diversos edificios municipales. En los cuales se requiere\ninstalación eléctrica para su conexión como se indica en detalle de los trabajos (Punto N°7) y la\nprovisión de escantillón para\ntodas las combustiones a pellet.\nEl proveedor deberá acreditar experiencia en el rubro de la instalación de estos artefactos para\npoder cotizar."
     ]
    ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=3791-967-COT26",
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1343645-111-COT26",
    "sin_detalle": false,
-   "descripcion": "ADQUISICIÓN DE LOS SERVICIOS DE AUDIO, ILUMINACIÓN Y PANTALLA PARA LA ACTIVIDAD ENCUENTRO DE ARTESANAS QUE SE REALIZARA EN LA LOCALIDAD DE PUYUHUAPI EL 03 DE OCTUBRE DE 2026. SE ADJUNTAN ANEXOS"
+   "descripcion": "La Ilustre Municipalidad de O´Higgins, ubicada en la Región de Aysén, requiere Cotizar la\ninstalación de 7 estufas a Pellet en diversos edificios municipales. En los cuales se requiere\ninstalación eléctrica para su conexión como se indica en detalle de los trabajos (Punto N°7) y la\nprovisión de escantillón para\ntodas las combustiones a pellet."
   },
   {
    "tipo": "POSIBLE",
