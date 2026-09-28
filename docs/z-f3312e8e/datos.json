@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-09-28T14:37:15.836252-03:00",
+ "actualizado": "2026-09-28T15:41:25.909918-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
- "total_region": 153,
+ "total_region": 157,
  "rubros": {
   "25172700": "Aire acondicionado",
   "25173900": "Componentes eléctricos",
@@ -72,6 +72,39 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=1343645-111-COT26",
    "sin_detalle": false,
    "descripcion": "La Ilustre Municipalidad de O´Higgins, ubicada en la Región de Aysén, requiere Cotizar la\ninstalación de 7 estufas a Pellet en diversos edificios municipales. En los cuales se requiere\ninstalación eléctrica para su conexión como se indica en detalle de los trabajos (Punto N°7) y la\nprovisión de escantillón para\ntodas las combustiones a pellet."
+  },
+  {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Interruptores, controles y relés"
+   ],
+   "nueva": true,
+   "codigo": "1692-574-COT26",
+   "nombre": "ADQUISICION DE REPUESTOS PARA CENTRAL DE AIRE MEDICINAL DEL HOSPITAL DE COCHRANE",
+   "organismo": "SERVICIO NACIONAL DE SALUD HOSPITAL DE COCHRANE",
+   "unidad": "Hospital Cochrane",
+   "monto": 600000,
+   "cierre_iso": "2026-09-29T15:00:00-03:00",
+   "publicacion": "28-09 14:46",
+   "publicacion_iso": "2026-09-28T14:46:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "39121529",
+     "Contactores",
+     4,
+     "Contactores de potencia igual o similar siemens sirius, Código 3RT2015-1AK61, 3 Polos, 3KW A 400V, Bobina 110V, AC/50 Hz- 120V AC/60 Hz, se debe adjuntar ficha técnica de los productos y debe incluir despacho hasta la comuna de Cochrane."
+    ],
+    [
+     "39121506",
+     "Interruptores automáticos por caída de presión",
+     2,
+     "Guardamotor/ interruptor automático de protección de motores igual o similar siemens sirius 3RV2, Rango regulable 7-10 A, Tamaño S00, Clase 10, protección magnética de corto circuito de 130ª, uso en circuitos de hasta 690V AC, se debe adjuntar ficha técnica de los productos y debe incluir despacho hasta la comuna de Cochrane."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1692-574-COT26",
+   "sin_detalle": false,
+   "descripcion": "SE REQUIERE ADQUIRIR CONTACTORES DE POTENCIA Y GUARDAMOTOR PARA LA CENTRAL DE AIRE MEDICINAL DEL HOSPITAL DE COCHRANE, SE DEBE ADJUNTAR FICHA TECNICA DE LOS PRODUCTOS OFERTADOS Y DEBE INCLUIR DESPACHO HASTA LA COMUNA DE COCHRANE. LOS PRODUCTOS DEBEN SER ENVIADOS CON GUIA DE DESPACHO."
   },
   {
    "tipo": "OPORTUNIDAD",
@@ -222,6 +255,33 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=418-1416-COT26",
    "sin_detalle": false,
    "descripcion": "SE SOLICITA LA ADQUISICIÓN DE EQUIPAMIENTO Y MOBILARIO PARA LOS PROGRAMAS SENDA (INFANTO-ADOLESCENTE Y ADULTO) DISPOSITIVOS DEPENDIENTES DEL HOSPITAL DE PUERTO AYSEN.  (INFANTO-ADOLESCENTE Y ADULTO) DISPOSITIVOS DEPENDIENTES DEL HOSPITAL DE PUERTO AYSEN. EL PLAZO DE ENTREGA ES DE 10 DÍAS DE CORRIDO, UNA VEZ EMITIDA LA ORDEN DE COMPRA. LA COTIZACIÓN DEBE INCLUIR EL VALOR DEL FLETE, LOS PRODUCTOS DEBEN SER ENTREGADOS EN CALLE DR. STEFENS N°515,-A PUERTO AYSÉN"
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "grupo electrógeno"
+   ],
+   "nueva": true,
+   "codigo": "5019-56-COT26",
+   "nombre": "Servicio de Mantención  Preventiva del Grupo Electrógeno",
+   "organismo": "Ejercito de Chile",
+   "unidad": "Centro Clínico Militar Coyhaique",
+   "monto": 1500000,
+   "cierre_iso": "2026-09-30T14:00:00-03:00",
+   "publicacion": "28-09 14:40",
+   "publicacion_iso": "2026-09-28T14:40:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "25202004",
+     "Sistemas de grupo electrógeno de pista (APU)",
+     1,
+     "Servicio de Mantención Preventiva del Grupo Electrógeno (De acuerdo a requerimiento Técnico Adjunto)"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=5019-56-COT26",
+   "sin_detalle": false,
+   "descripcion": "Servicio de Mantención Preventiva del Grupo Electrógeno del CCM \"Coyhaique\". Las ofertas serán declaradas inadmisibles cuando: Cotización sobrepase presupuesto disponible, cuando sobrepasen el tiempo de ejecución. Característica Técnica en anexo adjunto."
   }
  ],
  "pendientes": []
