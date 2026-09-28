@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-09-28T08:40:05.524555-03:00",
+ "actualizado": "2026-09-28T09:45:02.713312-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
- "total_region": 144,
+ "total_region": 139,
  "rubros": {
   "25172700": "Aire acondicionado",
   "25173900": "Componentes eléctricos",
@@ -19,117 +19,6 @@
   "39121400": "Conectores, enchufes y terminales"
  },
  "filas": [
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "eléctrico"
-   ],
-   "nueva": false,
-   "codigo": "551423-37-COT26",
-   "nombre": "TERMO ELÉCTRICO Y ACCESORIOS (Orasmi DPR AYSÉN) ",
-   "organismo": "DELEGACIÓN PRESIDENCIAL REGIONAL DE AYSÉN DEL GENERAL CARLOS IBÁÑEZ DE",
-   "unidad": "ORASMI DELEGACION PRESIDENCIAL REGIONAL DE AYSEN",
-   "monto": 350000,
-   "cierre_iso": "2026-09-28T09:00:00-03:00",
-   "publicacion": "25-09 16:25",
-   "publicacion_iso": "2026-09-25T16:25:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "52152010",
-     "Termos domésticos",
-     1,
-     "01 Termo agua electrico 80 Litros o superior. El valor debe incluir despacho a domicilio y la entrega debe ser al tercer día hábil una vez generada la Orden de Compra."
-    ],
-    [
-     "40141901",
-     "Conductos flexibles",
-     2,
-     "02 Flexibles agua HI/HI 1/2 X 35 CM. El valor debe incluir despacho a domicilio y la entrega debe ser al tercer día hábil una vez generada la Orden de Compra."
-    ],
-    [
-     "40141901",
-     "Conductos flexibles",
-     1,
-     "01 Flexible agua HI/HE 1/2 40 cm. El valor debe incluir despacho a domicilio y la entrega debe ser al tercer día hábil una vez generada la Orden de Compra."
-    ],
-    [
-     "40142317",
-     "Codo de tubería",
-     2,
-     "02 Codo fusión 20 mm x HE 1/2. El valor debe incluir despacho a domicilio y la entrega debe ser al tercer día hábil una vez generada la Orden de Compra."
-    ],
-    [
-     "40142317",
-     "Codo de tubería",
-     12,
-     "12 Codo fusión 20 mm SO/SO. El valor debe incluir despacho a domicilio y la entrega debe ser al tercer día hábil una vez generada la Orden de Compra."
-    ],
-    [
-     "40142317",
-     "Codo de tubería",
-     1,
-     "01 Codo doble HI Fusión HI 20 x 1/2. El valor debe incluir despacho a domicilio y la entrega debe ser al tercer día hábil una vez generada la Orden de Compra."
-    ],
-    [
-     "40142320",
-     "Uniones de tubería",
-     2,
-     "02 Tee fusión 20 HE. El valor debe incluir despacho a domicilio y la entrega debe ser al tercer día hábil una vez generada la Orden de Compra."
-    ],
-    [
-     "40142320",
-     "Uniones de tubería",
-     1,
-     "01 Tee fusión 20 mm. El valor debe incluir despacho a domicilio y la entrega debe ser al tercer día hábil una vez generada la Orden de Compra."
-    ],
-    [
-     "40142320",
-     "Uniones de tubería",
-     1,
-     "01 Terminal fusión HI20 x 1/2. 02 Tee fusión 20 HE. El valor debe incluir despacho a domicilio y la entrega debe ser al tercer día hábil una vez generada la Orden de Compra."
-    ],
-    [
-     "40142320",
-     "Uniones de tubería",
-     1,
-     "01 Tee fusión 20 mm x HI. 02 Tee fusión 20 HE. El valor debe incluir despacho a domicilio y la entrega debe ser al tercer día hábil una vez generada la Orden de Compra."
-    ],
-    [
-     "40142320",
-     "Uniones de tubería",
-     1,
-     "01 Unión americana fusión 20. 02 Tee fusión 20 HE. El valor debe incluir despacho a domicilio y la entrega debe ser al tercer día hábil una vez generada la Orden de Compra."
-    ],
-    [
-     "46171505",
-     "Llaves",
-     1,
-     "01 Llave jardín 1/2 A 3/4 GENEBRE / TAUMM. El valor debe incluir despacho a domicilio y la entrega debe ser al tercer día hábil una vez generada la Orden de Compra."
-    ],
-    [
-     "46171505",
-     "Llaves",
-     2,
-     "02 Llave paso bola fusión PPR 25MMM SO/SO PLASTIC. El valor debe incluir despacho a domicilio y la entrega debe ser al tercer día hábil una vez generada la Orden de Compra."
-    ],
-    [
-     "27112103",
-     "Abrazaderas",
-     10,
-     "10 Abrazadera fusión 20mm. El valor debe incluir despacho a domicilio y la entrega debe ser al tercer día hábil una vez generada la Orden de Compra."
-    ],
-    [
-     "31231313",
-     "Tubería de plástico",
-     1,
-     "Tubo fusión 20mm x 6 mts. El valor debe incluir despacho a domicilio y la entrega debe ser al tercer día hábil una vez generada la Orden de Compra."
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=551423-37-COT26",
-   "sin_detalle": false,
-   "descripcion": "TERMO ELÉCTRICO Y ACCESORIOS (Orasmi DPR AYSÉN)"
-  },
   {
    "tipo": "OPORTUNIDAD",
    "motivos": [
