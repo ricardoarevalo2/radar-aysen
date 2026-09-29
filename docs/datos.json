@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-09-29T13:40:00.336436-03:00",
+ "actualizado": "2026-09-29T14:38:25.747026-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
- "total_region": 199,
+ "total_region": 194,
  "rubros": {
   "80141600": "Ventas y marketing",
   "82101600": "Publicidad en medios no impresos",
@@ -330,7 +330,7 @@
     "difusión",
     "publicitarios"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "1458-21-COT26",
    "nombre": "Adquisición de Material de Difusión del Sistema Elige Vivir Sano. ",
    "organismo": "SERPLAC XI Región",
