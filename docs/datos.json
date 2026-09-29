@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-09-29T08:37:26.086143-03:00",
+ "actualizado": "2026-09-29T09:44:39.358500-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
- "total_region": 172,
+ "total_region": 182,
  "rubros": {
   "80141600": "Ventas y marketing",
   "82101600": "Publicidad en medios no impresos",
@@ -209,6 +209,33 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=2495-527-COT26",
    "sin_detalle": false,
    "descripcion": "800 folletos tipo flyer, impresos en papel couché, con terminación y calidad adecuada para difusión institucional. Monto que deberá considerar impresión y despacho a domicilio."
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "locución"
+   ],
+   "nueva": true,
+   "codigo": "1294237-42-COT26",
+   "nombre": "SERVICIO DE ANIMACIÓN Y LOCUCIÓN BINGO COMUNITARIO / 02 DE OCTUBRE ",
+   "organismo": "CONSULTORIO GENERAL URBANO DR ALEJANDRO GUTIERREZ",
+   "unidad": "ID 1294237 - Centro Comunal CCS",
+   "monto": 1311895,
+   "cierre_iso": "2026-09-30T09:15:00-03:00",
+   "publicacion": "29-09 09:06",
+   "publicacion_iso": "2026-09-29T09:06:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "30221003",
+     "Cafetería",
+     1,
+     "SERVICIO DE ANIMACIÓN Y LOCUCIÓN PARA CANTO DE NÚMEROS DE BINGO COMUNITARIO, QUE INCLUYA UN ESPACIO DE SNACK SALUDABLE, CON MINI SANDWICHE VARIEDAD DE SABORES, JUGOS, AGUA, TÉ, CAFÉ A CONVENIR. PARA 200 PERSONAS (PROVEEDOR DEBE SUBIR PROPUESTA TECNICA)"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1294237-42-COT26",
+   "sin_detalle": false,
+   "descripcion": "Se requiere adquirir Servicio de animación de bingo comunitario de promoción salud del programa más Adulto Mayor Autoevalente a realizarse el día 02 de octubre desde las 14:00 a las 17:00 horas en la Escuela Baquedano. El proveedor debe incluir un servicio de Snack saludable para 200 personas que incluya mini sandwiches con diferentes tipos de rellenos saludables acompañado con 1 vaso de jugo por persona, montaje vajilla, entre otros. Proveedor Local (Se evaluará especificaciones técnicas)"
   },
   {
    "tipo": "OPORTUNIDAD",
