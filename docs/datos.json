@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-09-29T11:39:47.482041-03:00",
+ "actualizado": "2026-09-29T12:39:45.869701-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
- "total_region": 189,
+ "total_region": 188,
  "rubros": {
   "80141600": "Ventas y marketing",
   "82101600": "Publicidad en medios no impresos",
@@ -242,7 +242,7 @@
    "motivos": [
     "Ventas y marketing"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "1746-225-COT26",
    "nombre": "DISEÑO E IMPRESIÓN DE CRDENCIALES Y PIN P 437 DAS",
    "organismo": "SUBSECRETARIA DE SALUD PUBLICA",
