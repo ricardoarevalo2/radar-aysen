@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-09-29T16:37:59.597590-03:00",
+ "actualizado": "2026-09-29T17:38:53.532786-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
- "total_region": 198,
+ "total_region": 216,
  "rubros": {
   "80141600": "Ventas y marketing",
   "82101600": "Publicidad en medios no impresos",
@@ -210,6 +210,60 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=1080289-24-COT26",
    "sin_detalle": false,
    "descripcion": "Solicitado mediante Pedido de Materiales N° 466 del Departamento de Acción Sanitaria."
+  },
+  {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Ventas y marketing"
+   ],
+   "nueva": true,
+   "codigo": "4609-264-COT26",
+   "nombre": "MERCHANDISING",
+   "organismo": "I MUNICIPALIDAD DE CHILE CHICO",
+   "unidad": "Finanzas",
+   "monto": 250000,
+   "cierre_iso": "2026-09-30T17:00:00-03:00",
+   "publicacion": "29-09 16:59",
+   "publicacion_iso": "2026-09-29T16:59:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "80141605",
+     "Regalos publicitarios",
+     1,
+     "ADQUISICION DE MERCHANDISING PARA EL II ENCUENTRO BINACIONAL DE TURISMO. (Ver TDR)."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=4609-264-COT26",
+   "sin_detalle": false,
+   "descripcion": "COTIZACION MERCHANDISING"
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "radio"
+   ],
+   "nueva": true,
+   "codigo": "1403-410-COT26",
+   "nombre": "SERVICIO DE MANTENCIÓN PREVENTIVA 120.000 KM. DE VEHICULO FISCAL MITSUBISHI MOVIL 271 PLACA PATENTE LZGC-29 D.REGIONAL",
+   "organismo": "Dirección Regional de Gendarmeria - Coyhaique",
+   "unidad": "Región de Aysén",
+   "monto": 553117,
+   "cierre_iso": "2026-09-30T17:00:00-03:00",
+   "publicacion": "29-09 16:53",
+   "publicacion_iso": "2026-09-29T16:53:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "25101702",
+     "Vehículos de policía",
+     1,
+     "MANUTENCIÓN PREVENTIVA 120.000 KM, INSPECCIÓN, CAMBIO DE FILTRO Y LUBRICANTES CORRESPONDIENTES."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1403-410-COT26",
+   "sin_detalle": false,
+   "descripcion": "E1O2RT9-SERVICIO DE MANUTENCIÓN PREVENTIVA 120.000 KM. DE VEHÍCULO FISCAL MITSUBISHI MÓVIL 271 PLACA PATENTE LZGC-29 D.REGIONAL, EL CUAL DEBE CONTEMPLAR CAMBIOS DE FILTRO, CAMBIO DE ACEITE, CAMBIO DE LIQUIDO DE FRENOS, INSPECCIÓN GENERAL Y DEMÁS PROCESOS RELATIVOS A LA MANUTENCIÓN DEL VEHÍCULO.EL PROVEEDOR QUE SE ENCUENTRE DENTRO DEL RADIO URBANO DE COYHAIQUE Y CON 03 DÍA HÁBIL DE PLAZO."
   },
   {
    "tipo": "POSIBLE",

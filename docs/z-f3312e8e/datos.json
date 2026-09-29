@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-09-29T16:37:59.597590-03:00",
+ "actualizado": "2026-09-29T17:38:53.532786-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
- "total_region": 198,
+ "total_region": 216,
  "rubros": {
   "25172700": "Aire acondicionado",
   "25173900": "Componentes eléctricos",
@@ -141,7 +141,7 @@
    "motivos": [
     "Cajas y accesorios eléctricos"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "2495-528-COT26",
    "nombre": "Adquisición 40 cajas cartón americana 260 x 300 x 420",
    "organismo": "I MUNICIPALIDAD DE COYHAIQUE",
@@ -486,7 +486,7 @@
    "motivos": [
     "iluminación"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "2713-1178-COT26",
    "nombre": "DIDECO/Turismo, adquisicion de materiales electricos, solicitud foilio 1196",
    "organismo": "I MUNICIPALIDAD DE AYSEN",
@@ -513,6 +513,39 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=2713-1178-COT26",
    "sin_detalle": false,
    "descripcion": "Adquisicion de materiales electricos, los montos de las ofertas deben incluir todos los gastos necesarios, para la entrega de los muebles de los materiales lectricos, en las oficinas de turismo, en puerto aysén, las ofertas que sobrepasen el monto presupuestario disponible, no cumplan con las especificaciones, no cumplan o no indiquen el plazo de entrega no serán evaluadas.el plazo de entrega comienza correr al segundo dia habil desde enviada la orden de compra."
+  },
+  {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Conectores, enchufes y terminales"
+   ],
+   "nueva": true,
+   "codigo": "3765-259-COT26",
+   "nombre": "SE REQUIEREN INSUMOS PARA ELECTROTERAPIA ",
+   "organismo": "SERVICIO NACIONAL DE SALUD HOSPITAL DE C",
+   "unidad": "Hospital Doctor  Leopoldo Ortega Rodríguez",
+   "monto": 450000,
+   "cierre_iso": "2026-10-01T10:00:00-03:00",
+   "publicacion": "29-09 17:14",
+   "publicacion_iso": "2026-09-29T17:14:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "39121436",
+     "Electrodos",
+     40,
+     "40 PACK DE 4 UNIDADES DE ELECTRODOS PARA TENS DE 5X5, CUADRADOS, ADHESIVOS."
+    ],
+    [
+     "39121436",
+     "Electrodos",
+     30,
+     "30 PACK DE 4 UNIDADES DE ELECTRODOS PARA TENS, 9X5 CMS, CUADRADOS, ADHESIVOS"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=3765-259-COT26",
+   "sin_detalle": false,
+   "descripcion": "SE REQUIEREN INSUMOS PARA ELECTROTERAPIA :\nELECTRODOS PARA TENS, 5X5 CMS, CUADRADOS, ADHESIVOS (PACK DE 4 UNIDADES)\nELECTRODOS PARA TENS, 9X5 CM, CUADRADOS, ADHESIVOS (PACK DE 4 UNIDADES)"
   },
   {
    "tipo": "POSIBLE",
