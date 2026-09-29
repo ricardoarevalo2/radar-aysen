@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-09-29T17:38:53.532786-03:00",
+ "actualizado": "2026-09-29T18:37:15.756481-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
- "total_region": 216,
+ "total_region": 221,
  "rubros": {
   "80141600": "Ventas y marketing",
   "82101600": "Publicidad en medios no impresos",
@@ -264,6 +264,33 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=1403-410-COT26",
    "sin_detalle": false,
    "descripcion": "E1O2RT9-SERVICIO DE MANUTENCIÓN PREVENTIVA 120.000 KM. DE VEHÍCULO FISCAL MITSUBISHI MÓVIL 271 PLACA PATENTE LZGC-29 D.REGIONAL, EL CUAL DEBE CONTEMPLAR CAMBIOS DE FILTRO, CAMBIO DE ACEITE, CAMBIO DE LIQUIDO DE FRENOS, INSPECCIÓN GENERAL Y DEMÁS PROCESOS RELATIVOS A LA MANUTENCIÓN DEL VEHÍCULO.EL PROVEEDOR QUE SE ENCUENTRE DENTRO DEL RADIO URBANO DE COYHAIQUE Y CON 03 DÍA HÁBIL DE PLAZO."
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "publicitarios"
+   ],
+   "nueva": true,
+   "codigo": "2494-251-COT26",
+   "nombre": "LETRERO TIENDA CORAZON DE LA PATAGONIA ",
+   "organismo": "I MUNICIPALIDAD DE COYHAIQUE",
+   "unidad": "SECRETARIA COMUNAL DE PLANIFICACION",
+   "monto": 6000000,
+   "cierre_iso": "2026-09-30T21:00:00-03:00",
+   "publicacion": "29-09 18:12",
+   "publicacion_iso": "2026-09-29T18:12:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "82101501",
+     "Letreros publicitarios",
+     1,
+     "LETRERO SEGUN DETALLE"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=2494-251-COT26",
+   "sin_detalle": false,
+   "descripcion": "SE REQUIERE LETRERO ILUMINADO PARA TIENDA CORAZON DE LA PATAGONIA/ODEON DE LA PLAZA SEGUN MODELO ENVIADO ADJUNTO, DEBE CONSIDERAR ENVIO E INSTALACION MAXIMO EL DIA 6 DE OCTUBRE, TAMAÑO DEL LETRERO 170 CM DE ANCHO POR 100 CM DE ALTO POR 15 CM DE PROFUNDIDAD, MATERIAL RESISTENTE A LLUVIAS , VIENTO Y HELADAS PROPIAS DEL LUGAR"
   },
   {
    "tipo": "POSIBLE",

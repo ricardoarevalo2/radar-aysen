@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-09-29T17:38:53.532786-03:00",
+ "actualizado": "2026-09-29T18:37:15.756481-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
- "total_region": 216,
+ "total_region": 221,
  "rubros": {
   "25172700": "Aire acondicionado",
   "25173900": "Componentes eléctricos",
@@ -363,7 +363,7 @@
    "motivos": [
     "Conectores, enchufes y terminales"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "1521-72-COT26",
    "nombre": "Insumos de Oficina Departamento Provincial ",
    "organismo": "Departamento Provincial de Coyhaique",
