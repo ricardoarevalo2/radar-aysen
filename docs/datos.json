@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-09-29T09:44:39.358500-03:00",
+ "actualizado": "2026-09-29T10:40:40.701222-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
- "total_region": 182,
+ "total_region": 181,
  "rubros": {
   "80141600": "Ventas y marketing",
   "82101600": "Publicidad en medios no impresos",
@@ -19,7 +19,7 @@
    "motivos": [
     "Inserciones publicitarias en medios"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "4066-396-COT26",
    "nombre": " SERVICIO DE DIFUSION EN REDES SOCIALES DIGITALES DE LAS ACTIVIDADES DEL PROGRAMA DE TRANSFERENCIA DE FORTALECIMIENTO PRODUCTIVO PARA LA COMUNA DE RÍO IBAÑEZ CODIGO BIP 40066883-0",
    "organismo": "I MUNICIPALIDAD RIO IBANEZ",

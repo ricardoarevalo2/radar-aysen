@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-09-29T09:44:39.358500-03:00",
+ "actualizado": "2026-09-29T10:40:40.701222-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
- "total_region": 182,
+ "total_region": 181,
  "rubros": {
   "25172700": "Aire acondicionado",
   "25173900": "Componentes eléctricos",
@@ -51,7 +51,7 @@
    "motivos": [
     "instalación eléctrica"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "1343645-111-COT26",
    "nombre": "Instalación Estufas a Pellet",
    "organismo": "I MUNICIPALIDAD DE O HIGGINS",
@@ -282,6 +282,33 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=2495-528-COT26",
    "sin_detalle": false,
    "descripcion": "Se requiere la adquisición de 40 cajas de cartón tipo americana, de medidas 260 x 300 x 420, destinadas a labores de almacenamiento y traslado de documentación y/o materiales. El valor ofertado deberá considerar el despacho a domicilio incluido, sin generar costos adicionales."
+  },
+  {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Gasfitería, calefacción y aire acondicionado"
+   ],
+   "nueva": true,
+   "codigo": "2500-81-COT26",
+   "nombre": "REPARACION Y PROVISION DE MATERIALES FUGA DE AGUA.",
+   "organismo": "I MUNICIPALIDAD DE COYHAIQUE",
+   "unidad": "ADMINISTRACIÓN Y FINANZAS",
+   "monto": 100000,
+   "cierre_iso": "2026-09-30T12:00:00-03:00",
+   "publicacion": "29-09 10:29",
+   "publicacion_iso": "2026-09-29T10:29:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "72102304",
+     "Mantenimiento o reparación de sistemas de fontanería, gasfitería",
+     1,
+     "SE REQUIERE REPARACION Y OROVISION DE MATERIALES, COMEDOR BPDEGA MUNIOCIPAL UBOACAD EN LOS NOTROS S/N, COYHAIQUE"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=2500-81-COT26",
+   "sin_detalle": false,
+   "descripcion": "SE REQUIER4 SERVICIO DE REPARACION Y POBISION DE MATERIALES FUGA DE AGUA EN COMEDOR BODEGA MUNICIPAL, LOS NOTROS S/N"
   },
   {
    "tipo": "OPORTUNIDAD",
