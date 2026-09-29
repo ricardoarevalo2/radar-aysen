@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-09-29T15:41:49.196885-03:00",
+ "actualizado": "2026-09-29T16:37:59.597590-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
- "total_region": 196,
+ "total_region": 198,
  "rubros": {
   "80141600": "Ventas y marketing",
   "82101600": "Publicidad en medios no impresos",
@@ -17,151 +17,11 @@
   {
    "tipo": "POSIBLE",
    "motivos": [
-    "difusión"
-   ],
-   "nueva": true,
-   "codigo": "1233615-744-COT26",
-   "nombre": "RMG-INT00259-SLEP Aysén, publicación consejeros electos CLEP, diario de difusión regional",
-   "organismo": "Servicio Local de Educación Pública Aysén",
-   "unidad": "Servicio Local de Educación Pública Aysén",
-   "monto": 124000,
-   "cierre_iso": "2026-09-29T16:00:00-03:00",
-   "publicacion": "28-09 15:45",
-   "publicacion_iso": "2026-09-28T15:45:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "55101505",
-     "Publicaciones",
-     1,
-     "Según detalle adjunto, publicación en diario digital de difusión regional, consejeros electos CLEP"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1233615-744-COT26",
-   "sin_detalle": false,
-   "descripcion": "Según detalle adjunto"
-  },
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "audiovisual",
-    "fotografía"
-   ],
-   "nueva": false,
-   "codigo": "1057062-432-COT26",
-   "nombre": "Servicio de 6 Talleres de Extensión Universitaria 2026_URY 2593__FISABS2226",
-   "organismo": "UNIVERSIDAD DE AYSEN",
-   "unidad": "Proyectos",
-   "monto": 5100000,
-   "cierre_iso": "2026-09-29T16:00:00-03:00",
-   "publicacion": "28-09 15:32",
-   "publicacion_iso": "2026-09-28T15:32:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "80111504",
-     "Formación, capacitación y entrenamiento de personal",
-     1,
-     "SERVICIO 1: Taller de Fotografía y video. Tiempo de ejecución: 2 meses de octubre a noviembre. Cantidad de sesiones: 9 sesiones (una vez por semana de 18:00 a 19:30 hrs).  Cantidad de asistentes: 20 personas.  Modalidad: Presencial en las dependencias de la Universidad de Aysén. Competencias técnicas tallerista: Profesional audiovisual, periodista, comunicador/a u otro/a. De acuerdo con las especificaciones técnicas adjuntas."
-    ],
-    [
-     "80111504",
-     "Formación, capacitación y entrenamiento de personal",
-     1,
-     "SERVICIO 2: Taller de pintura y dibujo. Tiempo de ejecución: 2 meses de octubre a noviembre. Cantidad de sesiones: 8 sesiones (una vez por semana de 18:00 a 19:30 hrs).  Cantidad de asistentes: 20 personas.  ? Modalidad: Presencial en las dependencias de la Universidad de Aysén. Cantidad de asistentes: 20 personas.  ? Modalidad: Presencial en las dependencias de la Universidad de Aysén. De acuerdo con las especificaciones técnicas adjuntas."
-    ],
-    [
-     "80111504",
-     "Formación, capacitación y entrenamiento de personal",
-     1,
-     "SERVICIO 3: Taller pilates. Tiempo de ejecución: 2 meses de octubre a noviembre. ? Cantidad de sesiones: 8 sesiones (una vez por semana de 18:00 a 19:30 hrs).   Cantidad de asistentes: 20 personas.  ? Modalidad: Presencial en las dependencias de la Universidad de Aysén. Competencias técnicas tallerista: Monitor/a de pilates, Profesor/a educación física u otro/a . De acuerdo con las especificaciones técnicas adjuntas."
-    ],
-    [
-     "80111504",
-     "Formación, capacitación y entrenamiento de personal",
-     1,
-     "SERVICIO 4: Taller de Astronomía. Tiempo de ejecución: 2 meses de octubre a noviembre. ? Cantidad de sesiones: 8 sesiones (una vez por semana de 18:00 a 19:30 hrs).  Cantidad de asistentes: 20 personas.  Competencias técnicas tallerista: Profesor, profesional de ciencias u otro/a. De acuerdo con las especificaciones técnicas adjuntas."
-    ],
-    [
-     "80111504",
-     "Formación, capacitación y entrenamiento de personal",
-     1,
-     "SERVICIO 5: Taller de Huertos Urbanos. Tiempo de ejecución: 2 meses de octubre a noviembre. ? Cantidad de sesiones: 4 sesiones (dos sábados por mes de  10:00 a 12:00 hrs).  Cantidad de asistentes: 20 personas.  Competencias técnicas tallerista: Ingeniero/a agrónomo, técnico/a agrícola, educador/a ambiental u otro/a. De acuerdo con las especificaciones técnicas adjuntas."
-    ],
-    [
-     "80111504",
-     "Formación, capacitación y entrenamiento de personal",
-     1,
-     "SERVICIO 6: Taller de trekking. Tiempo de ejecución: 2 meses de octubre a noviembre. ? Cantidad de sesiones: 4 salidas (dos sábados por mes de  9:00 a 13:00 hrs).  ? Cantidad de asistentes: 30 personas.  ? Modalidad: Presencial en Reservas Naturales y parques. ? 2 salidas: Reserva Nacional Coyhaique. ? 1 salida: Reserva Nacional río Simpson. ? 1 salida: Parque el Cóndor. Competencias técnicas tallerista: Guía de trekking/turismo, profesionales del área del turismo u otro/a. De acuerdo con las es"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1057062-432-COT26",
-   "sin_detalle": false,
-   "descripcion": "Se requiere cotizar talleres para “URY ADAIN 2593 Escuelas UAysén: Ciencia, Deporte y Arte para la comunidad según EETT adjuntas. Cotización debe indicar el detalle de lo ofertado, indicando valores unitarios por talleristas y valor total de la propuesta. La adjudicación se realizará al proveedor que cumpla con la totalidad de los requisitos técnicos solicitados. Se podrá privilegiar el menor plazo ofertado que cumpla con lo especificado."
-  },
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "difusión"
-   ],
-   "nueva": false,
-   "codigo": "1233615-743-COT26",
-   "nombre": "RMG-INT00258-SLEP Aysén, publicación de candidaturas CLEP, diario digital de difusión regional",
-   "organismo": "Servicio Local de Educación Pública Aysén",
-   "unidad": "Servicio Local de Educación Pública Aysén",
-   "monto": 206000,
-   "cierre_iso": "2026-09-29T16:00:00-03:00",
-   "publicacion": "28-09 15:30",
-   "publicacion_iso": "2026-09-28T15:30:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "55101505",
-     "Publicaciones",
-     1,
-     "Según detalle adjunto"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1233615-743-COT26",
-   "sin_detalle": false,
-   "descripcion": "Según detalle adjunto"
-  },
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "audiovisual",
-    "radio"
-   ],
-   "nueva": true,
-   "codigo": "1182705-181-COT26",
-   "nombre": "SERVICIO DE ARRIENDO PARA JORNADA INSTITUCIONAL POST CNED 2026",
-   "organismo": "CENTRO DE FORMACIÓN TÉCNICA DE LA REGIÓN DE AYSÉN DEL GENERAL CARLOS I",
-   "unidad": "FINANZAS",
-   "monto": 2160000,
-   "cierre_iso": "2026-09-29T16:27:00-03:00",
-   "publicacion": "28-09 16:20",
-   "publicacion_iso": "2026-09-28T16:20:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "90111603",
-     "Salas de reuniones o banquetes",
-     1,
-     "FECHA 30/09/2026\nCANTIDAD DE PERSONAS: 48\nHORARIO: 11:30 A 15:30\nLA DEPENDENCIA DEBE INCLUIR MESAS, SILLAS, SERVICIOS HIGENICOS SUFICIENTES, EQUIPAMIENTO AUDIOVISUAL (PARLANTES Y MICROFONO) Y CALEFACCION- LA DEPENDENCIA DEBE ESTAR UBICADA DENTRO DEL RADIO URBANO DE PUERTO AYSEN - SERVICIO DE BUFFET SE ADJUNTA DETALLE"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1182705-181-COT26",
-   "sin_detalle": false,
-   "descripcion": "ESPACIO PARA JORNADA INSTITUCIONAL DIA 30/09/2026  DIRIGIDA A 48 PERSONAS (FUNCIONARIOS DEL CFT DE AYSEN - CASA CENTRAL, LA DEPENDENCIA DEBE INCLUIR MESAS, SILLAS, SERVICIOS HIGENICOS SUFICIENTES, EQUIPAMIENTO AUDIOVISUAL (PARLANTES Y MICROFONO) Y CALEFACCION- LA DEPENDENCIA DEBE ESTAR UBICADA DENTRO DEL RADIO URBANO DE PUERTO AYSEN- HORARIO DE LA ACTIVIDAD 11:30 a 15:30 - SE SOLICITA ADJUNTAR COTIZACION"
-  },
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
     "difusión",
     "publicidad",
     "publicitarios"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "2495-527-COT26",
    "nombre": "FLYER CENTRO DE LAS MUJERES",
    "organismo": "I MUNICIPALIDAD DE COYHAIQUE",
@@ -215,7 +75,7 @@
    "motivos": [
     "Ventas y marketing"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "2713-1176-COT26",
    "nombre": "SERVICIO PRODUCCION EVENTO. FOLIO 1220 DIDECO.",
    "organismo": "I MUNICIPALIDAD DE AYSEN",
@@ -450,7 +310,7 @@
    "motivos": [
     "streaming"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "3431-113-COT26",
    "nombre": "FI - Adquisición de elementos que serán utilizados en el Casino de Suboficiales de la UR.",
    "organismo": "Ejercito de Chile",

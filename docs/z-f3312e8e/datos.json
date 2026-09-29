@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-09-29T15:41:49.196885-03:00",
+ "actualizado": "2026-09-29T16:37:59.597590-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
- "total_region": 196,
+ "total_region": 198,
  "rubros": {
   "25172700": "Aire acondicionado",
   "25173900": "Componentes eléctricos",
@@ -195,7 +195,7 @@
    "motivos": [
     "Conectores, enchufes y terminales"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "951405-254-COT26",
    "nombre": "(F.PPTO_REME.IDPM) DESMOT.14_CAJ_ADQ. DE MATERIALES PARA REPARACIÓN DEL IDPM DEL CMC.",
    "organismo": "JEFATURA ADMINISTRATIVA Y LOGISTICA DE LA GUARNICION COYHAIQUE",
@@ -324,6 +324,39 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=1692-574-COT26",
    "sin_detalle": false,
    "descripcion": "SE REQUIERE ADQUIRIR CONTACTORES DE POTENCIA Y GUARDAMOTOR PARA LA CENTRAL DE AIRE MEDICINAL DEL HOSPITAL DE COCHRANE, SE DEBE ADJUNTAR FICHA TECNICA DE LOS PRODUCTOS OFERTADOS Y DEBE INCLUIR DESPACHO HASTA LA COMUNA DE COCHRANE. LOS PRODUCTOS DEBEN SER ENVIADOS CON GUIA DE DESPACHO."
+  },
+  {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Conectores, enchufes y terminales"
+   ],
+   "nueva": true,
+   "codigo": "1274667-380-COT26",
+   "nombre": "RVB -  ELECTRODOS PARA DEA PEDIATRICOS Y ADULTO",
+   "organismo": "CENTRO DE SALUD FAMILIAR PUERTO AYSÉN",
+   "unidad": "CENTRO DE SALUD FAMILIAR PUERTO AYSÉN",
+   "monto": 800000,
+   "cierre_iso": "2026-09-30T16:00:00-03:00",
+   "publicacion": "29-09 15:47",
+   "publicacion_iso": "2026-09-29T15:47:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "39121436",
+     "Electrodos",
+     6,
+     "Electrodos adultos para DEA"
+    ],
+    [
+     "39121436",
+     "Electrodos",
+     6,
+     "Electrodos pediátricos para DEA"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1274667-380-COT26",
+   "sin_detalle": false,
+   "descripcion": "ADJUNTAR COTIZACION - ADJUNTAR FICHA TECNICA PARA PODER EVALUAR CORRECTAMENTE LA OFERTA - DATOS BANCARIOS - CONTACTO PARA RESOLVER DUDAS - EN CASO DE ADJUDICACION FAVOR EMITIR DESPACHO CON GUIA - MARCAS MENCIONADAS SON SOLAMENTE REFERENCIALES. DETALLES EN DOCUMENTO ADJUNTO. AJUSTAR OFERTAS A PRESUPUSTO DISPONIBLE."
   },
   {
    "tipo": "OPORTUNIDAD",
@@ -595,9 +628,36 @@
   {
    "tipo": "OPORTUNIDAD",
    "motivos": [
-    "Enfriamiento (aires acondicionados)"
+    "Conectores, enchufes y terminales"
    ],
    "nueva": true,
+   "codigo": "3765-258-COT26",
+   "nombre": "CONFIGURACIÓN Y PARAMETRIZACIÓN DE RECONECTADOR.",
+   "organismo": "SERVICIO NACIONAL DE SALUD HOSPITAL DE C",
+   "unidad": "Hospital Doctor  Leopoldo Ortega Rodríguez",
+   "monto": 6000000,
+   "cierre_iso": "2026-10-02T09:00:00-03:00",
+   "publicacion": "29-09 16:27",
+   "publicacion_iso": "2026-09-29T16:27:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "39121409",
+     "Conectores de cables eléctricos",
+     1,
+     "CONFIGURACIÓN Y PARAMETRIZACIÓN DE RECONECTADOR - INSPECCIÓN EXTERNA A RECONECTADOR; - CONFIGURACIÓN Y PRUEBAS EFECTIVAS INYECCIÓN SECUNDARIA DE PROTECCIONES: - VERIFICACIÓN ALAMBRADA ASOCIADOS A PROTECCIÓN - CARGA Y CONFIGURACIÓN DE AJUSTES DE PROTECCIONES DE ACUERDO CON ECAP - PUEBAS EFECTIVAS DE OPERACIPON DE FUNCIONES DE PROTECCIÓN A TRAVES DE INYECCIÓN DE PARAMETROS SECUNDARIOS - EMISIÓN DE INFORMES Y PROTOCOLOS DE PRUEBAS. DE ACUERDO A INFORME ADJUNTO."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=3765-258-COT26",
+   "sin_detalle": false,
+   "descripcion": "SE REQUIERE CONFIGURACIÓN Y PARAMETRIZACIÓN DE RECONECTADOR PARA LA EJECUCIÓN SATISFACTORIA DEL PROCESO DE AUMENTO DE POTENCIA, SE REQUIERE REALIZAR AJUSTES EN EQUIPO FANOX 23 kV BAJO LAS EPECIFICACIONES TECNICAS EMITIDAS POR LA EMPRESA EDELAYSEN."
+  },
+  {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Enfriamiento (aires acondicionados)"
+   ],
+   "nueva": false,
    "codigo": "3431-113-COT26",
    "nombre": "FI - Adquisición de elementos que serán utilizados en el Casino de Suboficiales de la UR.",
    "organismo": "Ejercito de Chile",
