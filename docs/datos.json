@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-09-30T17:37:54.505560-03:00",
+ "actualizado": "2026-09-30T18:39:21.331971-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
- "total_region": 195,
+ "total_region": 190,
  "rubros": {
   "80141600": "Ventas y marketing",
   "82101600": "Publicidad en medios no impresos",
@@ -19,7 +19,7 @@
    "motivos": [
     "publicitarios"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "2494-251-COT26",
    "nombre": "LETRERO TIENDA CORAZON DE LA PATAGONIA ",
    "organismo": "I MUNICIPALIDAD DE COYHAIQUE",
@@ -46,7 +46,7 @@
    "motivos": [
     "Ventas y marketing"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "4609-264-COT26",
    "nombre": "MERCHANDISING",
    "organismo": "I MUNICIPALIDAD DE CHILE CHICO",
