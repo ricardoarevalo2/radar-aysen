@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-09-30T07:39:23.392113-03:00",
+ "actualizado": "2026-09-30T08:37:34.266544-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
- "total_region": 217,
+ "total_region": 214,
  "rubros": {
   "25172700": "Aire acondicionado",
   "25173900": "Componentes eléctricos",
@@ -19,123 +19,6 @@
   "39121400": "Conectores, enchufes y terminales"
  },
  "filas": [
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "eléctrico"
-   ],
-   "nueva": false,
-   "codigo": "418-1416-COT26",
-   "nombre": "POR - QUIPAMIENTO Y MOBILARIO  SEGUN DETALLE ADJUNTO PARA LOS PROGRAMAS SENDA (INFANTO-ADOLESCENTE Y ADULTO) ",
-   "organismo": "SERVICIO NACIONAL DE SALUD HOSPITAL DE PUERTO AYSEN",
-   "unidad": "H Puerto Aysén",
-   "monto": 3500000,
-   "cierre_iso": "2026-09-30T08:00:00-03:00",
-   "publicacion": "24-09 14:57",
-   "publicacion_iso": "2026-09-24T14:57:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "56101532",
-     "Mobiliario",
-     1,
-     "Mesa de Juegos Giratoria 4 en 1 Pool Air Hockey Ping Pong - Dimensiones: largo 213 x ancho 112 x alto 81 cm"
-    ],
-    [
-     "56101532",
-     "Mobiliario",
-     2,
-     "Futón Magnus Gris 181x91x85 cm"
-    ],
-    [
-     "56101532",
-     "Mobiliario",
-     2,
-     "Set de repisas hexagonales melamina 03 niveles 36x31x12 blanco"
-    ],
-    [
-     "56101532",
-     "Mobiliario",
-     2,
-     "Set 4 repisas de madera con baranda de seguridad flotantes"
-    ],
-    [
-     "56101532",
-     "Mobiliario",
-     1,
-     "Escritorio 02 repisas 123x53x80 cm blanco"
-    ],
-    [
-     "56101532",
-     "Mobiliario",
-     1,
-     "Silla ergonómica blanca, Ancho: 48 cm., Alto asiento: 45 cm., Alto total respaldo: 82 cm."
-    ],
-    [
-     "56101532",
-     "Mobiliario",
-     1,
-     "Mueble De Oficina Cajonera Archivador Gabinete 90x59x34cm"
-    ],
-    [
-     "56101532",
-     "Mobiliario",
-     1,
-     "Mesa de Centro Ovalada 76x37x42 cm"
-    ],
-    [
-     "56101532",
-     "Mobiliario",
-     1,
-     "Biblioteca Librero De Árbol Organizador De Libros Alto 147cm., ancho 34 cm., profundidad 20 cm."
-    ],
-    [
-     "56101532",
-     "Mobiliario",
-     1,
-     "Rack Tv Esquinero Ancho Extendible 153-218cm., alto 40cm., profundidad 30 cm., material melamina."
-    ],
-    [
-     "56101532",
-     "Mobiliario",
-     2,
-     "Repisa Melamina 1 Nivel(es) 120x3.8x25 cm Blanco"
-    ],
-    [
-     "56101532",
-     "Mobiliario",
-     1,
-     "Estante pared 50 cm; Repisa flotante 50 cm; Montaje pared dvd dvr, blanco."
-    ],
-    [
-     "56101532",
-     "Mobiliario",
-     2,
-     "Dispensador Agua Eléctrico Pedestal Frío y Caliente, Medidas: 32 x 32 x 97 cm Peso 5,0 kg Voltaje 220-240 V"
-    ],
-    [
-     "56101532",
-     "Mobiliario",
-     6,
-     "Puff Pera Oxford 90X110 Cm, color Azul, con relleno de aproximado 200 a 250 lts. de poliestireno expandido (pelotitas de plumavit)."
-    ],
-    [
-     "56101532",
-     "Mobiliario",
-     1,
-     "Cortina Roller Duo Zebra Día Y Noche 170 X 240 Cm Alto."
-    ],
-    [
-     "56101532",
-     "Mobiliario",
-     1,
-     "Comedor 6 sillas Ana 76x136x75 cm."
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=418-1416-COT26",
-   "sin_detalle": false,
-   "descripcion": "SE SOLICITA LA ADQUISICIÓN DE EQUIPAMIENTO Y MOBILARIO PARA LOS PROGRAMAS SENDA (INFANTO-ADOLESCENTE Y ADULTO) DISPOSITIVOS DEPENDIENTES DEL HOSPITAL DE PUERTO AYSEN.  (INFANTO-ADOLESCENTE Y ADULTO) DISPOSITIVOS DEPENDIENTES DEL HOSPITAL DE PUERTO AYSEN. EL PLAZO DE ENTREGA ES DE 10 DÍAS DE CORRIDO, UNA VEZ EMITIDA LA ORDEN DE COMPRA. LA COTIZACIÓN DEBE INCLUIR EL VALOR DEL FLETE, LOS PRODUCTOS DEBEN SER ENTREGADOS EN CALLE DR. STEFENS N°515,-A PUERTO AYSÉN"
-  },
   {
    "tipo": "OPORTUNIDAD",
    "motivos": [
@@ -291,6 +174,39 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=5019-56-COT26",
    "sin_detalle": false,
    "descripcion": "Servicio de Mantención Preventiva del Grupo Electrógeno del CCM \"Coyhaique\". Las ofertas serán declaradas inadmisibles cuando: Cotización sobrepase presupuesto disponible, cuando sobrepasen el tiempo de ejecución. Característica Técnica en anexo adjunto."
+  },
+  {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Interruptores, controles y relés"
+   ],
+   "nueva": false,
+   "codigo": "1692-574-COT26",
+   "nombre": "ADQUISICION DE REPUESTOS PARA CENTRAL DE AIRE MEDICINAL DEL HOSPITAL DE COCHRANE",
+   "organismo": "SERVICIO NACIONAL DE SALUD HOSPITAL DE COCHRANE",
+   "unidad": "Hospital Cochrane",
+   "monto": 600000,
+   "cierre_iso": "2026-09-30T15:13:00-03:00",
+   "publicacion": "28-09 14:46",
+   "publicacion_iso": "2026-09-28T14:46:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "39121529",
+     "Contactores",
+     4,
+     "Contactores de potencia igual o similar siemens sirius, Código 3RT2015-1AK61, 3 Polos, 3KW A 400V, Bobina 110V, AC/50 Hz- 120V AC/60 Hz, se debe adjuntar ficha técnica de los productos y debe incluir despacho hasta la comuna de Cochrane."
+    ],
+    [
+     "39121506",
+     "Interruptores automáticos por caída de presión",
+     2,
+     "Guardamotor/ interruptor automático de protección de motores igual o similar siemens sirius 3RV2, Rango regulable 7-10 A, Tamaño S00, Clase 10, protección magnética de corto circuito de 130ª, uso en circuitos de hasta 690V AC, se debe adjuntar ficha técnica de los productos y debe incluir despacho hasta la comuna de Cochrane."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1692-574-COT26",
+   "sin_detalle": false,
+   "descripcion": "SE REQUIERE ADQUIRIR CONTACTORES DE POTENCIA Y GUARDAMOTOR PARA LA CENTRAL DE AIRE MEDICINAL DEL HOSPITAL DE COCHRANE, SE DEBE ADJUNTAR FICHA TECNICA DE LOS PRODUCTOS OFERTADOS Y DEBE INCLUIR DESPACHO HASTA LA COMUNA DE COCHRANE. LOS PRODUCTOS DEBEN SER ENVIADOS CON GUIA DE DESPACHO."
   },
   {
    "tipo": "OPORTUNIDAD",
