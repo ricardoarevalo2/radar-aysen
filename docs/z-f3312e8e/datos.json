@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-09-30T15:42:01.784040-03:00",
+ "actualizado": "2026-09-30T16:36:58.931401-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
- "total_region": 182,
+ "total_region": 183,
  "rubros": {
   "25172700": "Aire acondicionado",
   "25173900": "Componentes eléctricos",
@@ -19,162 +19,6 @@
   "39121400": "Conectores, enchufes y terminales"
  },
  "filas": [
-  {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Conectores, enchufes y terminales"
-   ],
-   "nueva": true,
-   "codigo": "1274667-380-COT26",
-   "nombre": "RVB -  ELECTRODOS PARA DEA PEDIATRICOS Y ADULTO",
-   "organismo": "CENTRO DE SALUD FAMILIAR PUERTO AYSÉN",
-   "unidad": "CENTRO DE SALUD FAMILIAR PUERTO AYSÉN",
-   "monto": 800000,
-   "cierre_iso": "2026-09-30T16:00:00-03:00",
-   "publicacion": "29-09 15:47",
-   "publicacion_iso": "2026-09-29T15:47:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "39121436",
-     "Electrodos",
-     6,
-     "Electrodos adultos para DEA"
-    ],
-    [
-     "39121436",
-     "Electrodos",
-     6,
-     "Electrodos pediátricos para DEA"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1274667-380-COT26",
-   "sin_detalle": false,
-   "descripcion": "ADJUNTAR COTIZACION - ADJUNTAR FICHA TECNICA PARA PODER EVALUAR CORRECTAMENTE LA OFERTA - DATOS BANCARIOS - CONTACTO PARA RESOLVER DUDAS - EN CASO DE ADJUDICACION FAVOR EMITIR DESPACHO CON GUIA - MARCAS MENCIONADAS SON SOLAMENTE REFERENCIALES. DETALLES EN DOCUMENTO ADJUNTO. AJUSTAR OFERTAS A PRESUPUSTO DISPONIBLE."
-  },
-  {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Conectores, enchufes y terminales"
-   ],
-   "nueva": false,
-   "codigo": "1521-72-COT26",
-   "nombre": "Insumos de Oficina Departamento Provincial ",
-   "organismo": "Departamento Provincial de Coyhaique",
-   "unidad": "Departamento Provincial de Coyhaique",
-   "monto": 450000,
-   "cierre_iso": "2026-09-30T16:00:00-03:00",
-   "publicacion": "28-09 17:48",
-   "publicacion_iso": "2026-09-28T17:48:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "55121616",
-     "Banderitas autoadhesivas",
-     10,
-     "10 Set Banderitas de 7 colores 12 mm fluor"
-    ],
-    [
-     "14111530",
-     "Notas de papel autoadhesivo",
-     10,
-     "10 Set Notas  Adhesivas Neon 5 colores 75*75mm fluor"
-    ],
-    [
-     "44121704",
-     "Lápiz pasta",
-     30,
-     "30 unidades Lapiz gel 0.5 Azul"
-    ],
-    [
-     "44121704",
-     "Lápiz pasta",
-     30,
-     "30 unidades Lapiz gel 0.5 colores"
-    ],
-    [
-     "44111503",
-     "Bandejas de correspondencia",
-     5,
-     "5 Unidades Organizador archivos/revistero"
-    ],
-    [
-     "44122011",
-     "Carpetas para archivos",
-     40,
-     "40 unidades carpetas plastificadas azul con sobre"
-    ],
-    [
-     "39121402",
-     "Enchufes eléctricos",
-     1,
-     "alrgador 4 tomas 2 usb-a/ 1 USB-C 15 mts"
-    ],
-    [
-     "53131624",
-     "Toallitas húmedas",
-     5,
-     "5 unidades toallas desinfectantes 50 unidades c/u"
-    ],
-    [
-     "44112004",
-     "Planificadores de reunión",
-     12,
-     "12 unidades planners, calendario 2027. (no agendas)"
-    ],
-    [
-     "55121606",
-     "Etiquetas autoadhesivas",
-     6,
-     "6 Set etiquetas Blancas tipo Adetec 22*73mm"
-    ],
-    [
-     "60123001",
-     "Figuras de goma Eva",
-     6,
-     "6 Set estuches goma eva hand fluor 6 hojas"
-    ],
-    [
-     "54111604",
-     "Relojes de arena",
-     2,
-     "2 unidades reloj de arena 5 minutos"
-    ],
-    [
-     "44121801",
-     "Cinta correctora",
-     6,
-     "6 unidades corrector cinta retractil colores"
-    ],
-    [
-     "44122118",
-     "Fasteners o sujetadores no autoadhesivos",
-     2,
-     "2 cajas accoclip/fastener plástico 50 unidades"
-    ],
-    [
-     "53131606",
-     "Desodorantes",
-     1,
-     "latas automáticas tipo matic de 250 ml tipo Air Wick Freshnatic"
-    ],
-    [
-     "44122011",
-     "Carpetas para archivos",
-     50,
-     "50 unidades fundas transparentes tamaño carta"
-    ],
-    [
-     "44122011",
-     "Carpetas para archivos",
-     50,
-     "50 unidades fundas transparentes tamaño oficio"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1521-72-COT26",
-   "sin_detalle": false,
-   "descripcion": "Insumos de Oficina Departamento Provincial"
-  },
   {
    "tipo": "POSIBLE",
    "motivos": [
@@ -240,6 +84,33 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=3765-259-COT26",
    "sin_detalle": false,
    "descripcion": "SE REQUIEREN INSUMOS PARA ELECTROTERAPIA :\nELECTRODOS PARA TENS, 5X5 CMS, CUADRADOS, ADHESIVOS (PACK DE 4 UNIDADES)\nELECTRODOS PARA TENS, 9X5 CM, CUADRADOS, ADHESIVOS (PACK DE 4 UNIDADES)"
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "generador"
+   ],
+   "nueva": true,
+   "codigo": "3791-989-COT26",
+   "nombre": "TRASLADO DE GENERADOR ",
+   "organismo": "I MUNICIPALIDAD DE CISNES",
+   "unidad": "Finanzas",
+   "monto": 500000,
+   "cierre_iso": "2026-10-01T16:00:00-03:00",
+   "publicacion": "30-09 15:49",
+   "publicacion_iso": "2026-09-30T15:49:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "25101602",
+     "Camiones de remolque",
+     1,
+     "SERVICIO DE TRASLADO DE GENERADOR PARA ENCUENTRO DE ARTESANAS EN PUYUHUAPI"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=3791-989-COT26",
+   "sin_detalle": false,
+   "descripcion": "SERVICIO DE TRASLADO DE GENERADOR PARA ENCUENTRO DE ARTESANAS EN PUYUHUAPI. SE ADJUNTA ANEXOS"
   },
   {
    "tipo": "POSIBLE",

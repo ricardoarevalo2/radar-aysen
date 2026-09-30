@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-09-30T15:42:01.784040-03:00",
+ "actualizado": "2026-09-30T16:36:58.931401-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
- "total_region": 182,
+ "total_region": 183,
  "rubros": {
   "80141600": "Ventas y marketing",
   "82101600": "Publicidad en medios no impresos",
@@ -14,60 +14,6 @@
   "83121700": "Comunicación social y de masas"
  },
  "filas": [
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "audiovisual"
-   ],
-   "nueva": false,
-   "codigo": "2495-532-COT26",
-   "nombre": "Adquisición discos duro",
-   "organismo": "I MUNICIPALIDAD DE COYHAIQUE",
-   "unidad": "DIRECCION DESARROLLO COMUNITARIO",
-   "monto": 550000,
-   "cierre_iso": "2026-09-30T16:00:00-03:00",
-   "publicacion": "29-09 15:30",
-   "publicacion_iso": "2026-09-29T15:30:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "43201803",
-     "Discos duros",
-     2,
-     "Disco duro externo portátil de 2 TB de capacidad cada uno, orientados a labores de producción y respaldo de material audiovisual en terreno. Los dispositivos deben cumplir estrictamente con los siguientes requisitos técnicos señalados en los términos de referencia adjuntos."
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=2495-532-COT26",
-   "sin_detalle": false,
-   "descripcion": "Se requiere la adquisición de 2 unidades de disco duro externo portátil de 2 TB de capacidad cada uno, orientados a labores de producción y respaldo de material audiovisual en terreno. Los dispositivos deben cumplir estrictamente con los siguientes requisitos técnicos señalados en los términos de referencia adjuntos."
-  },
-  {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Ventas y marketing"
-   ],
-   "nueva": true,
-   "codigo": "4609-264-COT26",
-   "nombre": "MERCHANDISING",
-   "organismo": "I MUNICIPALIDAD DE CHILE CHICO",
-   "unidad": "Finanzas",
-   "monto": 250000,
-   "cierre_iso": "2026-09-30T17:00:00-03:00",
-   "publicacion": "29-09 16:59",
-   "publicacion_iso": "2026-09-29T16:59:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "80141605",
-     "Regalos publicitarios",
-     1,
-     "ADQUISICION DE MERCHANDISING PARA EL II ENCUENTRO BINACIONAL DE TURISMO. (Ver TDR)."
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=4609-264-COT26",
-   "sin_detalle": false,
-   "descripcion": "COTIZACION MERCHANDISING"
-  },
   {
    "tipo": "POSIBLE",
    "motivos": [
@@ -121,6 +67,33 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=2494-251-COT26",
    "sin_detalle": false,
    "descripcion": "SE REQUIERE LETRERO ILUMINADO PARA TIENDA CORAZON DE LA PATAGONIA/ODEON DE LA PLAZA SEGUN MODELO ENVIADO ADJUNTO, DEBE CONSIDERAR ENVIO E INSTALACION MAXIMO EL DIA 6 DE OCTUBRE, TAMAÑO DEL LETRERO 170 CM DE ANCHO POR 100 CM DE ALTO POR 15 CM DE PROFUNDIDAD, MATERIAL RESISTENTE A LLUVIAS , VIENTO Y HELADAS PROPIAS DEL LUGAR"
+  },
+  {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Ventas y marketing"
+   ],
+   "nueva": true,
+   "codigo": "4609-264-COT26",
+   "nombre": "MERCHANDISING",
+   "organismo": "I MUNICIPALIDAD DE CHILE CHICO",
+   "unidad": "Finanzas",
+   "monto": 250000,
+   "cierre_iso": "2026-10-01T09:00:00-03:00",
+   "publicacion": "29-09 16:59",
+   "publicacion_iso": "2026-09-29T16:59:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "80141605",
+     "Regalos publicitarios",
+     1,
+     "ADQUISICION DE MERCHANDISING PARA EL II ENCUENTRO BINACIONAL DE TURISMO. (Ver TDR)."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=4609-264-COT26",
+   "sin_detalle": false,
+   "descripcion": "COTIZACION MERCHANDISING"
   },
   {
    "tipo": "POSIBLE",
