@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-09-30T11:41:27.729162-03:00",
+ "actualizado": "2026-09-30T12:41:07.281842-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
- "total_region": 202,
+ "total_region": 198,
  "rubros": {
   "80141600": "Ventas y marketing",
   "82101600": "Publicidad en medios no impresos",
@@ -175,6 +175,33 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=2494-251-COT26",
    "sin_detalle": false,
    "descripcion": "SE REQUIERE LETRERO ILUMINADO PARA TIENDA CORAZON DE LA PATAGONIA/ODEON DE LA PLAZA SEGUN MODELO ENVIADO ADJUNTO, DEBE CONSIDERAR ENVIO E INSTALACION MAXIMO EL DIA 6 DE OCTUBRE, TAMAÑO DEL LETRERO 170 CM DE ANCHO POR 100 CM DE ALTO POR 15 CM DE PROFUNDIDAD, MATERIAL RESISTENTE A LLUVIAS , VIENTO Y HELADAS PROPIAS DEL LUGAR"
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "audiovisual"
+   ],
+   "nueva": true,
+   "codigo": "1080289-26-COT26",
+   "nombre": "SERVICIO DE EDICIÓN DE MATERIAL AUDIOVISUAL ",
+   "organismo": "SUBSECRETARIA DE SALUD PUBLICA",
+   "unidad": "Adm Fondos o Fondos Extrapresupuestarios Aysén",
+   "monto": 500000,
+   "cierre_iso": "2026-10-01T16:00:00-03:00",
+   "publicacion": "30-09 11:56",
+   "publicacion_iso": "2026-09-30T11:56:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "86131504",
+     "Formación en comunicación audiovisual",
+     1,
+     "SERVICIO DE EDICIÓN DE MATERIAL AUDIOVISUAL: MEDIDAS DE PREVENCIÓN DE HIDATIDOSIS EDUCADORAS DE JARDINES INFANTILES.\nCUMPLIR CON LA TOTALIDAD DE LAS ESPECIFICACIONES TÉCNICAS SEÑALDAS EN DOCUMENTO ADJUNTO PM N° 469 DAS"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1080289-26-COT26",
+   "sin_detalle": false,
+   "descripcion": "SERVICIO DE EDICIÓN DE MATERIAL AUDIOVISUAL: MEDIDAS DE PREVENCIÓN DE HIDATIDOSIS EDUCADORAS DE JARDINES INFANTILES.\nCUMPLIR CON LA TOTALIDAD DE LAS ESPECIFICACIONES TÉCNICAS SEÑALDAS EN DOCUMENTO ADJUNTO PM N° 469 DAS"
   },
   {
    "tipo": "OPORTUNIDAD",
@@ -367,18 +394,5 @@
    "descripcion": "Adquisición de elementos para el normal funcionamiento del personal del Casino de Suboficiales de la UR. (Conforme a solicitud de cotización)."
   }
  ],
- "pendientes": [
-  {
-   "codigo": "911089-86-COT26",
-   "nombre": "ADQUISICION DE UTENSILIOS Y MENAJE DE COCINA PARA LA SC Y JI PEQUITAS",
-   "organismo": "Zona de Bienestar \"Coyhaique\"",
-   "link": "https://buscador.mercadopublico.cl/ficha?code=911089-86-COT26"
-  },
-  {
-   "codigo": "1274667-377-COT26",
-   "nombre": "RVB - ARTICULOS DE ESCRITORIO // CECOSF RIBERA SUR",
-   "organismo": "CENTRO DE SALUD FAMILIAR PUERTO AYSÉN",
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1274667-377-COT26"
-  }
- ]
+ "pendientes": []
 }
