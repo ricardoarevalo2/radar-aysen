@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-09-30T09:47:27.258881-03:00",
+ "actualizado": "2026-09-30T10:38:37.845037-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
- "total_region": 213,
+ "total_region": 209,
  "rubros": {
   "80141600": "Ventas y marketing",
   "82101600": "Publicidad en medios no impresos",
@@ -14,39 +14,6 @@
   "83121700": "Comunicación social y de masas"
  },
  "filas": [
-  {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Ventas y marketing"
-   ],
-   "nueva": false,
-   "codigo": "1746-225-COT26",
-   "nombre": "DISEÑO E IMPRESIÓN DE CRDENCIALES Y PIN P 437 DAS",
-   "organismo": "SUBSECRETARIA DE SALUD PUBLICA",
-   "unidad": "Seremi de Salud XI Región",
-   "monto": 800000,
-   "cierre_iso": "2026-09-30T10:00:00-03:00",
-   "publicacion": "28-09 12:24",
-   "publicacion_iso": "2026-09-28T12:24:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "80141618",
-     "Agencias de marketing de ventas, incluidas las impresiones",
-     150,
-     "Diseño e impresión de credenciales, de acuerdo con especificaciones indicadas en el adjunto"
-    ],
-    [
-     "80141618",
-     "Agencias de marketing de ventas, incluidas las impresiones",
-     200,
-     "Diseño e impresión de PIN, de acuerdo con especificaciones indicadas en el adjunto"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1746-225-COT26",
-   "sin_detalle": false,
-   "descripcion": "Solicitado mediante Pedido de Materiales N° 437 del Departamento de Acción Sanitaria."
-  },
   {
    "tipo": "OPORTUNIDAD",
    "motivos": [
