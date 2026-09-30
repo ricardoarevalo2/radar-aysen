@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-09-30T08:37:34.266544-03:00",
+ "actualizado": "2026-09-30T09:47:27.258881-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
- "total_region": 214,
+ "total_region": 213,
  "rubros": {
   "25172700": "Aire acondicionado",
   "25173900": "Componentes eléctricos",
@@ -19,33 +19,6 @@
   "39121400": "Conectores, enchufes y terminales"
  },
  "filas": [
-  {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Cajas y accesorios eléctricos"
-   ],
-   "nueva": false,
-   "codigo": "2495-528-COT26",
-   "nombre": "Adquisición 40 cajas cartón americana 260 x 300 x 420",
-   "organismo": "I MUNICIPALIDAD DE COYHAIQUE",
-   "unidad": "DIRECCION DESARROLLO COMUNITARIO",
-   "monto": 150000,
-   "cierre_iso": "2026-09-30T09:00:00-03:00",
-   "publicacion": "28-09 16:39",
-   "publicacion_iso": "2026-09-28T16:39:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "39121310",
-     "Cajas de uso general",
-     40,
-     "40 cajas de cartón tipo americana, de medidas 260 x 300 x 420"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=2495-528-COT26",
-   "sin_detalle": false,
-   "descripcion": "Se requiere la adquisición de 40 cajas de cartón tipo americana, de medidas 260 x 300 x 420, destinadas a labores de almacenamiento y traslado de documentación y/o materiales. El valor ofertado deberá considerar el despacho a domicilio incluido, sin generar costos adicionales."
-  },
   {
    "tipo": "OPORTUNIDAD",
    "motivos": [
@@ -174,39 +147,6 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=5019-56-COT26",
    "sin_detalle": false,
    "descripcion": "Servicio de Mantención Preventiva del Grupo Electrógeno del CCM \"Coyhaique\". Las ofertas serán declaradas inadmisibles cuando: Cotización sobrepase presupuesto disponible, cuando sobrepasen el tiempo de ejecución. Característica Técnica en anexo adjunto."
-  },
-  {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Interruptores, controles y relés"
-   ],
-   "nueva": false,
-   "codigo": "1692-574-COT26",
-   "nombre": "ADQUISICION DE REPUESTOS PARA CENTRAL DE AIRE MEDICINAL DEL HOSPITAL DE COCHRANE",
-   "organismo": "SERVICIO NACIONAL DE SALUD HOSPITAL DE COCHRANE",
-   "unidad": "Hospital Cochrane",
-   "monto": 600000,
-   "cierre_iso": "2026-09-30T15:13:00-03:00",
-   "publicacion": "28-09 14:46",
-   "publicacion_iso": "2026-09-28T14:46:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "39121529",
-     "Contactores",
-     4,
-     "Contactores de potencia igual o similar siemens sirius, Código 3RT2015-1AK61, 3 Polos, 3KW A 400V, Bobina 110V, AC/50 Hz- 120V AC/60 Hz, se debe adjuntar ficha técnica de los productos y debe incluir despacho hasta la comuna de Cochrane."
-    ],
-    [
-     "39121506",
-     "Interruptores automáticos por caída de presión",
-     2,
-     "Guardamotor/ interruptor automático de protección de motores igual o similar siemens sirius 3RV2, Rango regulable 7-10 A, Tamaño S00, Clase 10, protección magnética de corto circuito de 130ª, uso en circuitos de hasta 690V AC, se debe adjuntar ficha técnica de los productos y debe incluir despacho hasta la comuna de Cochrane."
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1692-574-COT26",
-   "sin_detalle": false,
-   "descripcion": "SE REQUIERE ADQUIRIR CONTACTORES DE POTENCIA Y GUARDAMOTOR PARA LA CENTRAL DE AIRE MEDICINAL DEL HOSPITAL DE COCHRANE, SE DEBE ADJUNTAR FICHA TECNICA DE LOS PRODUCTOS OFERTADOS Y DEBE INCLUIR DESPACHO HASTA LA COMUNA DE COCHRANE. LOS PRODUCTOS DEBEN SER ENVIADOS CON GUIA DE DESPACHO."
   },
   {
    "tipo": "OPORTUNIDAD",
