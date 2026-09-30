@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-09-30T10:38:37.845037-03:00",
+ "actualizado": "2026-09-30T11:41:27.729162-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
- "total_region": 209,
+ "total_region": 202,
  "rubros": {
   "80141600": "Ventas y marketing",
   "82101600": "Publicidad en medios no impresos",
@@ -367,5 +367,18 @@
    "descripcion": "Adquisición de elementos para el normal funcionamiento del personal del Casino de Suboficiales de la UR. (Conforme a solicitud de cotización)."
   }
  ],
- "pendientes": []
+ "pendientes": [
+  {
+   "codigo": "911089-86-COT26",
+   "nombre": "ADQUISICION DE UTENSILIOS Y MENAJE DE COCINA PARA LA SC Y JI PEQUITAS",
+   "organismo": "Zona de Bienestar \"Coyhaique\"",
+   "link": "https://buscador.mercadopublico.cl/ficha?code=911089-86-COT26"
+  },
+  {
+   "codigo": "1274667-377-COT26",
+   "nombre": "RVB - ARTICULOS DE ESCRITORIO // CECOSF RIBERA SUR",
+   "organismo": "CENTRO DE SALUD FAMILIAR PUERTO AYSÉN",
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1274667-377-COT26"
+  }
+ ]
 }
