@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-09-30T16:36:58.931401-03:00",
+ "actualizado": "2026-09-30T17:37:54.505560-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
- "total_region": 183,
+ "total_region": 195,
  "rubros": {
   "80141600": "Ventas y marketing",
   "82101600": "Publicidad en medios no impresos",
@@ -14,33 +14,6 @@
   "83121700": "Comunicación social y de masas"
  },
  "filas": [
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "radio"
-   ],
-   "nueva": true,
-   "codigo": "1403-410-COT26",
-   "nombre": "SERVICIO DE MANTENCIÓN PREVENTIVA 120.000 KM. DE VEHICULO FISCAL MITSUBISHI MOVIL 271 PLACA PATENTE LZGC-29 D.REGIONAL",
-   "organismo": "Dirección Regional de Gendarmeria - Coyhaique",
-   "unidad": "Región de Aysén",
-   "monto": 553117,
-   "cierre_iso": "2026-09-30T17:00:00-03:00",
-   "publicacion": "29-09 16:53",
-   "publicacion_iso": "2026-09-29T16:53:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "25101702",
-     "Vehículos de policía",
-     1,
-     "MANUTENCIÓN PREVENTIVA 120.000 KM, INSPECCIÓN, CAMBIO DE FILTRO Y LUBRICANTES CORRESPONDIENTES."
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1403-410-COT26",
-   "sin_detalle": false,
-   "descripcion": "E1O2RT9-SERVICIO DE MANUTENCIÓN PREVENTIVA 120.000 KM. DE VEHÍCULO FISCAL MITSUBISHI MÓVIL 271 PLACA PATENTE LZGC-29 D.REGIONAL, EL CUAL DEBE CONTEMPLAR CAMBIOS DE FILTRO, CAMBIO DE ACEITE, CAMBIO DE LIQUIDO DE FRENOS, INSPECCIÓN GENERAL Y DEMÁS PROCESOS RELATIVOS A LA MANUTENCIÓN DEL VEHÍCULO.EL PROVEEDOR QUE SE ENCUENTRE DENTRO DEL RADIO URBANO DE COYHAIQUE Y CON 03 DÍA HÁBIL DE PLAZO."
-  },
   {
    "tipo": "POSIBLE",
    "motivos": [
@@ -121,6 +94,33 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=1080289-26-COT26",
    "sin_detalle": false,
    "descripcion": "SERVICIO DE EDICIÓN DE MATERIAL AUDIOVISUAL: MEDIDAS DE PREVENCIÓN DE HIDATIDOSIS EDUCADORAS DE JARDINES INFANTILES.\nCUMPLIR CON LA TOTALIDAD DE LAS ESPECIFICACIONES TÉCNICAS SEÑALDAS EN DOCUMENTO ADJUNTO PM N° 469 DAS"
+  },
+  {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Ventas y marketing"
+   ],
+   "nueva": true,
+   "codigo": "1343644-104-COT26",
+   "nombre": "Servicio de producción y coordinación de recorrido turístico comunal",
+   "organismo": "I MUNICIPALIDAD DE O HIGGINS",
+   "unidad": "DIDECO",
+   "monto": 452800,
+   "cierre_iso": "2026-10-01T17:15:00-03:00",
+   "publicacion": "30-09 17:14",
+   "publicacion_iso": "2026-09-30T17:14:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "80141607",
+     "Producción de eventos",
+     1,
+     "Servicio de producción y coordinación de recorrido turístico comunal, segun requerimiento adjunto, donde se detalla servicio a cumplir y lo que debe cumplir el proveedor al momento de cotizar."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1343644-104-COT26",
+   "sin_detalle": false,
+   "descripcion": "La Ilustre Municipalidad de O’Higgins requiere contratar un servicio de producción y\ncoordinación de recorrido turístico comunal, destinado a la realización de un circuito guiado por\ndistintos atractivos y puntos de interés de la comuna de O’Higgins"
   },
   {
    "tipo": "OPORTUNIDAD",
