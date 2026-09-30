@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-09-30T13:39:22.470411-03:00",
+ "actualizado": "2026-09-30T14:37:53.433170-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
- "total_region": 194,
+ "total_region": 190,
  "rubros": {
   "25172700": "Aire acondicionado",
   "25173900": "Componentes eléctricos",
@@ -19,33 +19,6 @@
   "39121400": "Conectores, enchufes y terminales"
  },
  "filas": [
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "grupo electrógeno"
-   ],
-   "nueva": false,
-   "codigo": "5019-56-COT26",
-   "nombre": "Servicio de Mantención  Preventiva del Grupo Electrógeno",
-   "organismo": "Ejercito de Chile",
-   "unidad": "Centro Clínico Militar Coyhaique",
-   "monto": 1500000,
-   "cierre_iso": "2026-09-30T14:00:00-03:00",
-   "publicacion": "28-09 14:40",
-   "publicacion_iso": "2026-09-28T14:40:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "25202004",
-     "Sistemas de grupo electrógeno de pista (APU)",
-     1,
-     "Servicio de Mantención Preventiva del Grupo Electrógeno (De acuerdo a requerimiento Técnico Adjunto)"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=5019-56-COT26",
-   "sin_detalle": false,
-   "descripcion": "Servicio de Mantención Preventiva del Grupo Electrógeno del CCM \"Coyhaique\". Las ofertas serán declaradas inadmisibles cuando: Cotización sobrepase presupuesto disponible, cuando sobrepasen el tiempo de ejecución. Característica Técnica en anexo adjunto."
-  },
   {
    "tipo": "OPORTUNIDAD",
    "motivos": [
