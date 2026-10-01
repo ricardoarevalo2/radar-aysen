@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-10-01T07:39:06.446675-03:00",
+ "actualizado": "2026-10-01T08:38:37.343355-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
- "total_region": 190,
+ "total_region": 185,
  "rubros": {
   "25172700": "Aire acondicionado",
   "25173900": "Componentes eléctricos",
@@ -19,39 +19,6 @@
   "39121400": "Conectores, enchufes y terminales"
  },
  "filas": [
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "iluminación"
-   ],
-   "nueva": false,
-   "codigo": "2713-1178-COT26",
-   "nombre": "DIDECO/Turismo, adquisicion de materiales electricos, solicitud foilio 1196",
-   "organismo": "I MUNICIPALIDAD DE AYSEN",
-   "unidad": "I.MUNICIPALIDAD AYSEN-ADQUISICIONES",
-   "monto": 90000,
-   "cierre_iso": "2026-10-01T08:00:00-03:00",
-   "publicacion": "28-09 17:19",
-   "publicacion_iso": "2026-09-28T17:19:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "39101701",
-     "Tubos fluorescentes",
-     10,
-     "tubos LED tipo T8, potencia de 18 W, longitud aproximada de 1200 mm, tensión de alimentación 220-240 V AC, 50/60 Hz, flujo luminoso mínimo de 1600 lúmenes.Para uso de interior, con encendido instantáneo y sin parpadeo perceptible. Se aceptarán productos de características técnicas equivalentes o superiores"
-    ],
-    [
-     "39101701",
-     "Tubos fluorescentes",
-     2,
-     "focos/proyector LED para iluminación exterior, potencia de 50W, tensión de alimentación 220-240 V AC, flujo luminoso de mínimo 4000 lúmenes, equipado con sensor de movimiento, con ángulo de detección mínimo de 120° y alcance mínimo de 6 metros, deberá contar con grado de protección mínimo IP65, soporte de montaje orientable y ser apto para instalación en exteriores. Se aceptarán productos de características equivalentes o superiores"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=2713-1178-COT26",
-   "sin_detalle": false,
-   "descripcion": "Adquisicion de materiales electricos, los montos de las ofertas deben incluir todos los gastos necesarios, para la entrega de los muebles de los materiales lectricos, en las oficinas de turismo, en puerto aysén, las ofertas que sobrepasen el monto presupuestario disponible, no cumplan con las especificaciones, no cumplan o no indiquen el plazo de entrega no serán evaluadas.el plazo de entrega comienza correr al segundo dia habil desde enviada la orden de compra."
-  },
   {
    "tipo": "OPORTUNIDAD",
    "motivos": [
@@ -522,6 +489,39 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=2713-1188-COT26",
    "sin_detalle": false,
    "descripcion": "ADQUISICION DE MATERIALES DE OFICINA SEGUN DETALLES Y ESPECIFICACIONES ADJUNTAS, LOS MONTOS DE LAS OFERTAS DEBEN INCLUIR TODOS LOS GASTOS NECESARIOS, PARA LA ENTREGA DE LOS MATERIALES DE OFICINA EN LAS DEPENDENCIAS DE GALERIA DE ARTESANOS, EN PUERTO AYSÉN, LAS OFERTAS QUE SOBREPASEN EL MONTO PRESUPUESTARIO DISPONIBLE, NO CUMPLAN CON LAS ESPECIFICACIONES, NO CUMPLAN O NO INDIQUEN EL PLAZO DE ENTREGA NO SERÁN EVALUADAS."
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "iluminación"
+   ],
+   "nueva": false,
+   "codigo": "2713-1178-COT26",
+   "nombre": "DIDECO/Turismo, adquisicion de materiales electricos, solicitud foilio 1196",
+   "organismo": "I MUNICIPALIDAD DE AYSEN",
+   "unidad": "I.MUNICIPALIDAD AYSEN-ADQUISICIONES",
+   "monto": 90000,
+   "cierre_iso": "2026-10-03T22:40:00-03:00",
+   "publicacion": "28-09 17:19",
+   "publicacion_iso": "2026-09-28T17:19:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "39101701",
+     "Tubos fluorescentes",
+     10,
+     "tubos LED tipo T8, potencia de 18 W, longitud aproximada de 1200 mm, tensión de alimentación 220-240 V AC, 50/60 Hz, flujo luminoso mínimo de 1600 lúmenes.Para uso de interior, con encendido instantáneo y sin parpadeo perceptible. Se aceptarán productos de características técnicas equivalentes o superiores"
+    ],
+    [
+     "39101701",
+     "Tubos fluorescentes",
+     2,
+     "focos/proyector LED para iluminación exterior, potencia de 50W, tensión de alimentación 220-240 V AC, flujo luminoso de mínimo 4000 lúmenes, equipado con sensor de movimiento, con ángulo de detección mínimo de 120° y alcance mínimo de 6 metros, deberá contar con grado de protección mínimo IP65, soporte de montaje orientable y ser apto para instalación en exteriores. Se aceptarán productos de características equivalentes o superiores"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=2713-1178-COT26",
+   "sin_detalle": false,
+   "descripcion": "Adquisicion de materiales electricos, los montos de las ofertas deben incluir todos los gastos necesarios, para la entrega de los muebles de los materiales lectricos, en las oficinas de turismo, en puerto aysén, las ofertas que sobrepasen el monto presupuestario disponible, no cumplan con las especificaciones, no cumplan o no indiquen el plazo de entrega no serán evaluadas.el plazo de entrega comienza correr al segundo dia habil desde enviada la orden de compra."
   }
  ],
  "pendientes": []
