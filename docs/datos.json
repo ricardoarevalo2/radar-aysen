@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-09-30T20:36:16.793568-03:00",
+ "actualizado": "2026-09-30T21:47:01.728355-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
- "total_region": 194,
+ "total_region": 192,
  "rubros": {
   "80141600": "Ventas y marketing",
   "82101600": "Publicidad en medios no impresos",
@@ -14,33 +14,6 @@
   "83121700": "Comunicación social y de masas"
  },
  "filas": [
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "publicitarios"
-   ],
-   "nueva": false,
-   "codigo": "2494-251-COT26",
-   "nombre": "LETRERO TIENDA CORAZON DE LA PATAGONIA ",
-   "organismo": "I MUNICIPALIDAD DE COYHAIQUE",
-   "unidad": "SECRETARIA COMUNAL DE PLANIFICACION",
-   "monto": 6000000,
-   "cierre_iso": "2026-09-30T21:00:00-03:00",
-   "publicacion": "29-09 18:12",
-   "publicacion_iso": "2026-09-29T18:12:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "82101501",
-     "Letreros publicitarios",
-     1,
-     "LETRERO SEGUN DETALLE"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=2494-251-COT26",
-   "sin_detalle": false,
-   "descripcion": "SE REQUIERE LETRERO ILUMINADO PARA TIENDA CORAZON DE LA PATAGONIA/ODEON DE LA PLAZA SEGUN MODELO ENVIADO ADJUNTO, DEBE CONSIDERAR ENVIO E INSTALACION MAXIMO EL DIA 6 DE OCTUBRE, TAMAÑO DEL LETRERO 170 CM DE ANCHO POR 100 CM DE ALTO POR 15 CM DE PROFUNDIDAD, MATERIAL RESISTENTE A LLUVIAS , VIENTO Y HELADAS PROPIAS DEL LUGAR"
-  },
   {
    "tipo": "OPORTUNIDAD",
    "motivos": [
