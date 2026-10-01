@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-10-01T17:39:59.563776-03:00",
+ "actualizado": "2026-10-01T18:39:34.723524-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
- "total_region": 291,
+ "total_region": 286,
  "rubros": {
   "25172700": "Aire acondicionado",
   "25173900": "Componentes eléctricos",
@@ -829,6 +829,33 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=2713-1178-COT26",
    "sin_detalle": false,
    "descripcion": "Adquisicion de materiales electricos, los montos de las ofertas deben incluir todos los gastos necesarios, para la entrega de los muebles de los materiales lectricos, en las oficinas de turismo, en puerto aysén, las ofertas que sobrepasen el monto presupuestario disponible, no cumplan con las especificaciones, no cumplan o no indiquen el plazo de entrega no serán evaluadas.el plazo de entrega comienza correr al segundo dia habil desde enviada la orden de compra."
+  },
+  {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Gasfitería, calefacción y aire acondicionado"
+   ],
+   "nueva": true,
+   "codigo": "3325-29-COT26",
+   "nombre": "SERVICIO DE MANTENIMIENTO Y REPARACION DE AIRES ACONDICIONADOS",
+   "organismo": "POLICIA DE INVESTIGACIONES DE CHILE",
+   "unidad": "LOGISTICA COYHAIQUE",
+   "monto": 6400000,
+   "cierre_iso": "2026-10-09T09:00:00-03:00",
+   "publicacion": "01-10 18:02",
+   "publicacion_iso": "2026-10-01T18:02:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "72102305",
+     "Servicios de reparación, mantenimiento o reparación de aire acondicionado",
+     1,
+     "SERVICIO DE MANTENCIÓN Y REPARACIÓN DE EQUIPOS DE AIRE ACONDICIONADO – REGION DE AYSÉN"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=3325-29-COT26",
+   "sin_detalle": false,
+   "descripcion": "ADQUISICION DE SERVICIO DE MANTENIMIENTO Y REPARACION DE AIRES ACONDICIONADOS"
   }
  ],
  "pendientes": [
