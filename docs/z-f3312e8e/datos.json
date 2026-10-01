@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-10-01T16:37:57.784801-03:00",
+ "actualizado": "2026-10-01T17:39:59.563776-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
- "total_region": 292,
+ "total_region": 291,
  "rubros": {
   "25172700": "Aire acondicionado",
   "25173900": "Componentes eléctricos",
@@ -697,7 +697,7 @@
    "motivos": [
     "interruptor"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "2713-1188-COT26",
    "nombre": "DIDECO/PROMOS, adquisicion de materiales de oficina, solicitud folio 1205",
    "organismo": "I MUNICIPALIDAD DE AYSEN",
