@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-10-01T09:45:52.037628-03:00",
+ "actualizado": "2026-10-01T10:40:31.818088-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
- "total_region": 192,
+ "total_region": 189,
  "rubros": {
   "25172700": "Aire acondicionado",
   "25173900": "Componentes eléctricos",
@@ -19,39 +19,6 @@
   "39121400": "Conectores, enchufes y terminales"
  },
  "filas": [
-  {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Conectores, enchufes y terminales"
-   ],
-   "nueva": false,
-   "codigo": "3765-259-COT26",
-   "nombre": "SE REQUIEREN INSUMOS PARA ELECTROTERAPIA ",
-   "organismo": "SERVICIO NACIONAL DE SALUD HOSPITAL DE C",
-   "unidad": "Hospital Doctor  Leopoldo Ortega Rodríguez",
-   "monto": 450000,
-   "cierre_iso": "2026-10-01T10:00:00-03:00",
-   "publicacion": "29-09 17:14",
-   "publicacion_iso": "2026-09-29T17:14:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "39121436",
-     "Electrodos",
-     40,
-     "40 PACK DE 4 UNIDADES DE ELECTRODOS PARA TENS DE 5X5, CUADRADOS, ADHESIVOS."
-    ],
-    [
-     "39121436",
-     "Electrodos",
-     30,
-     "30 PACK DE 4 UNIDADES DE ELECTRODOS PARA TENS, 9X5 CMS, CUADRADOS, ADHESIVOS"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=3765-259-COT26",
-   "sin_detalle": false,
-   "descripcion": "SE REQUIEREN INSUMOS PARA ELECTROTERAPIA :\nELECTRODOS PARA TENS, 5X5 CMS, CUADRADOS, ADHESIVOS (PACK DE 4 UNIDADES)\nELECTRODOS PARA TENS, 9X5 CM, CUADRADOS, ADHESIVOS (PACK DE 4 UNIDADES)"
-  },
   {
    "tipo": "POSIBLE",
    "motivos": [
@@ -294,7 +261,7 @@
    "motivos": [
     "aire acondicionado"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "1104680-14-COT26",
    "nombre": " SE REQUIERE ADQUISICION Y INSTALACION DE SISTEMA DE CLIMATIZACION EN RECINTO \"CASA SENDA\"",
    "organismo": "SERVICIO NACIONAL DE SALUD HOSPITAL DE C",
