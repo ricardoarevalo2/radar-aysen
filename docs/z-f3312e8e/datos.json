@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-10-01T11:41:21.976893-03:00",
+ "actualizado": "2026-10-01T12:39:39.762088-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
- "total_region": 208,
+ "total_region": 224,
  "rubros": {
   "25172700": "Aire acondicionado",
   "25173900": "Componentes eléctricos",
@@ -284,6 +284,33 @@
    "descripcion": "Adquisición de materiales eléctricos según anexo adjunto. Las ofertas deberán: incluir la totalidad de los productos, ajustarse al presupuesto disponible y asumir el COSTO DE TRANSPORTE (no desglosarlo). Debe indicar plazo de entrega (NO se aceptará \"plazo de despacho\" y el plazo de entrega iniciará el día hábil subsiguiente al envío de la OC), presentar cotización con la totalidad de los productos solicitados. Ofertas que incumplan lo anterior serán rechazadas."
   },
   {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Cajas y accesorios eléctricos"
+   ],
+   "nueva": true,
+   "codigo": "2713-1199-COT26",
+   "nombre": "Materiales eléctricos - DIDECO - Asistencial - 1228",
+   "organismo": "I MUNICIPALIDAD DE AYSEN",
+   "unidad": "I.MUNICIPALIDAD AYSEN-ADQUISICIONES",
+   "monto": 5800000,
+   "cierre_iso": "2026-10-02T11:30:00-03:00",
+   "publicacion": "01-10 11:20",
+   "publicacion_iso": "2026-10-01T11:20:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "39121311",
+     "Accesorios eléctricos",
+     1,
+     "Adquisición de materiales eléctricos, presentar cotización con la totalidad de los productos solicitado"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=2713-1199-COT26",
+   "sin_detalle": false,
+   "descripcion": "Adquisición de materiales eléctricos según anexo adjunto. Las ofertas deberán: incluir la totalidad de los productos, ajustarse al presupuesto disponible y asumir el COSTO DE TRANSPORTE (no desglosarlo). Debe indicar plazo de entrega (NO se aceptará \"plazo de despacho\" y el plazo de entrega iniciará el día hábil subsiguiente al envío de la OC), presentar cotización con la totalidad de los productos solicitados. Ofertas que incumplan lo anterior serán rechazadas."
+  },
+  {
    "tipo": "POSIBLE",
    "motivos": [
     "aire acondicionado"
@@ -309,6 +336,139 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=1104680-14-COT26",
    "sin_detalle": false,
    "descripcion": "SE REQUIERE ADQUISICION Y INSTALACION DE SISTEMA DE CLIMATIZACION EN RECINTO \"CASA SENDA\" UBICADA EN CALLE JOSE MIGUEL CARRERA S/N, COMUNA DE CHILE CHICO, REGION DE AYSEN, INCLUYENDO SUMINISTROS DE EQUIPOS, TRASLADO, INSTLACION Y PUESTA EN FUNCIONAMIENTO EQUIPOS CONSIDERADOS: \n- 1 EQUIPO AIRE ACONDICIONADO MULTI SPLIT 5X1 DE 9000 BTU C/U \n- 2 EQUIPO AIRE ACONDICIONADO SPLIT INVERTER DE 22000 BT\n- 1 EQUIPO AIRE ACONDICIONADO SPLIT INVERTER DE 12000 BTU \nSE ADJUNTA PLANO REFERENCIAL CON DETALLES"
+  },
+  {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Servicios eléctricos"
+   ],
+   "nueva": true,
+   "codigo": "886182-212-COT26",
+   "nombre": "Servicio Provisión e Instalación Remarcador Trifásico en Tablero General Campus Patagonia_FISABS 2248",
+   "organismo": "UNIVERSIDAD DE AYSEN",
+   "unidad": "Universidad de Aysen",
+   "monto": 606000,
+   "cierre_iso": "2026-10-02T12:36:00-03:00",
+   "publicacion": "01-10 12:34",
+   "publicacion_iso": "2026-10-01T12:34:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "72102201",
+     "Instalación o servicio de sistemas de energía eléctrica",
+     1,
+     "Provisión e Instalación Remarcador Trifásico en Tablero General, Campus Patagonia.\n- Medidor De Energía (remarcador) 5(80)a 3p+n, Riel Din\n- Cable Eléctrico 6 mm, Libre Halógeno (3 Fase, Neutro)\n- Conectores Ferrul, Tornillos y Otros Materiales necesarios para realizar el trabajo."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=886182-212-COT26",
+   "sin_detalle": false,
+   "descripcion": "Se requiere cotizar servicio de provisión e instalación de remarcador trifásico en tablero general. El proveedor debe adjuntar cotización con el detalle de lo ofertado, debe estar Certificado, y deberá indicar el plazo de entrega en días corridos. El proveedor adjudicado tendrá un plazo de 24 horas para aceptar la orden de compra desde la notificación. El valor ofertado debe incluir impuestos. Se podrá privilegiar el menor plazo ofertado que cumpla con lo especificado."
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "enchufe",
+    "interruptor"
+   ],
+   "nueva": true,
+   "codigo": "1403-392-COT26",
+   "nombre": "COMPRA DE MATERIALES ELECTRICOS Y DATOS PARA HABILITAR OFICINAS PARA LA DIRREG AYSEN Y UNIDADES PENALES",
+   "organismo": "Dirección Regional de Gendarmeria - Coyhaique",
+   "unidad": "Región de Aysén",
+   "monto": 1317000,
+   "cierre_iso": "2026-10-02T14:41:00-03:00",
+   "publicacion": "25-09 09:23",
+   "publicacion_iso": "2026-09-25T09:23:00-03:00",
+   "ofertas": 2,
+   "productos": [
+    [
+     "72131702",
+     "Construcción de obras civiles",
+     30,
+     "CAJA CHUQUI"
+    ],
+    [
+     "72131702",
+     "Construcción de obras civiles",
+     100,
+     "CABLE THHNA 12 ROJO (METRO)"
+    ],
+    [
+     "72131702",
+     "Construcción de obras civiles",
+     100,
+     "CABLE THHNA 12 BLANCO (METRO)"
+    ],
+    [
+     "72131702",
+     "Construcción de obras civiles",
+     100,
+     "CABLE THHNA 12 VERDE (METRO)"
+    ],
+    [
+     "72131702",
+     "Construcción de obras civiles",
+     20,
+     "ENCHUFE TRIPLEX 2P +AT 10A BLANCO"
+    ],
+    [
+     "72131702",
+     "Construcción de obras civiles",
+     20,
+     "TAPA CIEGA ANDROMEDA WH"
+    ],
+    [
+     "72131702",
+     "Construcción de obras civiles",
+     15,
+     "ROSETA RJ45 5E"
+    ],
+    [
+     "72131702",
+     "Construcción de obras civiles",
+     200,
+     "CONECTORES RJ43 5E"
+    ],
+    [
+     "72131702",
+     "Construcción de obras civiles",
+     3,
+     "CAJA CABLE RED RJ45 5E"
+    ],
+    [
+     "72131702",
+     "Construcción de obras civiles",
+     10,
+     "HUINCHA AISLADORA"
+    ],
+    [
+     "72131702",
+     "Construcción de obras civiles",
+     2,
+     "INTERRUPTOR DIFERENCIAL 25A EASY 9"
+    ],
+    [
+     "72131702",
+     "Construcción de obras civiles",
+     2,
+     "INTERRUPTOR AUTOMATICO TERMOMAGNETICO 40A EASY 9"
+    ],
+    [
+     "72131702",
+     "Construcción de obras civiles",
+     30,
+     "CONDUIT 20 MM 3 METROS"
+    ],
+    [
+     "72131702",
+     "Construcción de obras civiles",
+     30,
+     "CANALETA 40X25MM CON TABIQUE INTERNO"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1403-392-COT26",
+   "sin_detalle": false,
+   "descripcion": "E1O2RT9 - COMPRA DE MATERIALES ELECTRICOS Y DATOS PARA HABILITAR OFICINAS PARA LA DIRREG AYSEN Y UNIDADES PENALES. CRITERIOS DE EVALUACIÓN: PRECIO 88% - PLAZO DE ENTREGA 10% - SUSTENTABILIDAD 2%"
   },
   {
    "tipo": "OPORTUNIDAD",
