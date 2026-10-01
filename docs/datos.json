@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-10-01T13:38:14.319552-03:00",
+ "actualizado": "2026-10-01T14:38:42.876004-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
- "total_region": 229,
+ "total_region": 241,
  "rubros": {
   "80141600": "Ventas y marketing",
   "82101600": "Publicidad en medios no impresos",
@@ -194,7 +194,7 @@
    "motivos": [
     "spot"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "4778-304-COT26",
    "nombre": "ADQUISICION DE INSUMOS CLINICOS PARA MONITOREO DE PACIENTES",
    "organismo": "SERVICIO NACIONAL DE SALUD HOSPITAL DE C",
