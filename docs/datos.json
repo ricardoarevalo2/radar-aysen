@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-10-01T12:39:39.762088-03:00",
+ "actualizado": "2026-10-01T13:38:14.319552-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
- "total_region": 224,
+ "total_region": 229,
  "rubros": {
   "80141600": "Ventas y marketing",
   "82101600": "Publicidad en medios no impresos",
@@ -19,7 +19,7 @@
    "motivos": [
     "audiovisual"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "1080289-26-COT26",
    "nombre": "SERVICIO DE EDICIÓN DE MATERIAL AUDIOVISUAL ",
    "organismo": "SUBSECRETARIA DE SALUD PUBLICA",
@@ -431,5 +431,12 @@
    "descripcion": "Contratación de servicio especializado de publicidad y difusión para posicionar las actividades productivas de la comuna de Coyhaique, mediante la elaboración y publicación de dos publirreportajes en un medio de alcance nacional o interregional, conforme a las especificaciones técnicas del programa BIP N°40071494-0."
   }
  ],
- "pendientes": []
+ "pendientes": [
+  {
+   "codigo": "2495-535-COT26",
+   "nombre": "MATERIALES DE OFICINA CENTRO DE LAS MUJERES",
+   "organismo": "I MUNICIPALIDAD DE COYHAIQUE",
+   "link": "https://buscador.mercadopublico.cl/ficha?code=2495-535-COT26"
+  }
+ ]
 }
