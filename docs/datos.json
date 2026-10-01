@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-10-01T08:38:37.343355-03:00",
+ "actualizado": "2026-10-01T09:45:52.037628-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
- "total_region": 185,
+ "total_region": 192,
  "rubros": {
   "80141600": "Ventas y marketing",
   "82101600": "Publicidad en medios no impresos",
@@ -14,33 +14,6 @@
   "83121700": "Comunicación social y de masas"
  },
  "filas": [
-  {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Ventas y marketing"
-   ],
-   "nueva": false,
-   "codigo": "4609-264-COT26",
-   "nombre": "MERCHANDISING",
-   "organismo": "I MUNICIPALIDAD DE CHILE CHICO",
-   "unidad": "Finanzas",
-   "monto": 250000,
-   "cierre_iso": "2026-10-01T09:00:00-03:00",
-   "publicacion": "29-09 16:59",
-   "publicacion_iso": "2026-09-29T16:59:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "80141605",
-     "Regalos publicitarios",
-     1,
-     "ADQUISICION DE MERCHANDISING PARA EL II ENCUENTRO BINACIONAL DE TURISMO. (Ver TDR)."
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=4609-264-COT26",
-   "sin_detalle": false,
-   "descripcion": "COTIZACION MERCHANDISING"
-  },
   {
    "tipo": "POSIBLE",
    "motivos": [
@@ -121,60 +94,6 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=2713-1176-COT26",
    "sin_detalle": false,
    "descripcion": "COTIZACIÓN DE SERVICIO PRODUCCION EVENTO SEGUN BASES TECNICAS ADJUNTAS PARA EL DIA 23-10-26. LOS COSTOS DE TRASLADOS A PUERTO AYSÉN SERÁN DEL OFERENTE. OFERENTE DEBE INCLUIR FLETES EN EL PRECIO DEL PRODUCTO.SE SOLICITA ANEXAR PROPUESTA TECNICA Y LOS DOCUMENTOS REQUERIDOS, DE LO CONTRARIO SE DESCARTARA."
-  },
-  {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Ventas y marketing"
-   ],
-   "nueva": false,
-   "codigo": "1080289-24-COT26",
-   "nombre": "APOYO EJECUCIÓN DE ESCUELA DE GESTORES EN COCHRANE (P 466 das)",
-   "organismo": "SUBSECRETARIA DE SALUD PUBLICA",
-   "unidad": "Adm Fondos o Fondos Extrapresupuestarios Aysén",
-   "monto": 500000,
-   "cierre_iso": "2026-10-02T10:00:00-03:00",
-   "publicacion": "28-09 15:27",
-   "publicacion_iso": "2026-09-28T15:27:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "80141620",
-     "Producción de eventos en el concesionario",
-     1,
-     "Apoyo ejecución de escuela de gestores en Cochrane, durante los días 13 y 14 de octubre del 2026, de acuerdo con especificaciones indicadas en el anexo"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1080289-24-COT26",
-   "sin_detalle": false,
-   "descripcion": "Solicitado mediante Pedido de Materiales N° 466 del Departamento de Acción Sanitaria."
-  },
-  {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Ventas y marketing"
-   ],
-   "nueva": false,
-   "codigo": "1080289-23-COT26",
-   "nombre": "APOYO EJECUCIÓN ESCUELA DE GESTORES EN CHILE CHICO (P467 DAS)",
-   "organismo": "SUBSECRETARIA DE SALUD PUBLICA",
-   "unidad": "Adm Fondos o Fondos Extrapresupuestarios Aysén",
-   "monto": 850000,
-   "cierre_iso": "2026-10-02T10:00:00-03:00",
-   "publicacion": "28-09 15:15",
-   "publicacion_iso": "2026-09-28T15:15:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "80141620",
-     "Producción de eventos en el concesionario",
-     1,
-     "Apoyo ejecución de escuela de gestores en Chile Chico, durante los días 14 y 15 de octubre del 2026, de acuerdo con especificaciones indicadas en el anexo"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1080289-23-COT26",
-   "sin_detalle": false,
-   "descripcion": "Solicitado mediante Pedido de Materiales N° 467 del Departamento de Acción Sanitaria."
   },
   {
    "tipo": "POSIBLE",
