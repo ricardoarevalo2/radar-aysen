@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-10-01T10:40:31.818088-03:00",
+ "actualizado": "2026-10-01T11:41:21.976893-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
- "total_region": 189,
+ "total_region": 208,
  "rubros": {
   "80141600": "Ventas y marketing",
   "82101600": "Publicidad en medios no impresos",
@@ -305,6 +305,33 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=4778-304-COT26",
    "sin_detalle": false,
    "descripcion": "ADQUISICION DE INSUMOS CLINICOS PARA MONITOREO DE PACIENTES, SENSORES SPO2, CABLES ECG, BRAZALETES DE PRESION ARTERIAL Y ADAPTADORES DE CONEXION, SEGUN SOLICITUD EXTRAORDINARIA N° 3726/2026 DE LA UNIDAD DE EQUIPOS MEDICOS."
+  },
+  {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Inserciones publicitarias en medios"
+   ],
+   "nueva": true,
+   "codigo": "1335-8-COT26",
+   "nombre": "Servicio de avisaje Segunda Convocatoria  Programa Transferencia para el Fortalecimiento Productivo Litoral de Aysén (Cód. BIP 40072626-0)",
+   "organismo": "CORPORACION DE FOMENTO DE LA PRODUCCION",
+   "unidad": "CORFO XI REGION - AYSEN",
+   "monto": 165650,
+   "cierre_iso": "2026-10-02T13:00:00-03:00",
+   "publicacion": "01-10 10:43",
+   "publicacion_iso": "2026-10-01T10:43:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "82101903",
+     "Avisos en Internet",
+     2,
+     "Servicio de publicación de 2 avisos para la difusión de las Convocatorias en el marco del Programa Transferencia para el Fortalecimiento Productivo Litoral de Aysén BIP 40072626-0. Condiciones de servicio y para ofertar de acuerdo a EETT adjuntas. Oferentes deberán adjuntar obligatoriamente cotización con detalle del servicio y monto unitario y total contratación, plazo de entrega y acreditación cobertura regional."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1335-8-COT26",
+   "sin_detalle": false,
+   "descripcion": "Se requiere contratar el servicio de publicación de 2 avisos para la difusión de las Convocatorias en el marco del Programa Transferencia para el Fortalecimiento Productivo Litoral de Aysén BIP 40072626-0. Condiciones de servicio y para ofertar de acuerdo a EETT adjuntas. Oferentes deberán adjuntar obligatoriamente cotización con detalle del servicio y monto contratación, plazo de entrega y acreditación cobertura regional."
   },
   {
    "tipo": "POSIBLE",
