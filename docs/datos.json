@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-10-01T15:43:06.599395-03:00",
+ "actualizado": "2026-10-01T16:37:57.784801-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
- "total_region": 275,
+ "total_region": 292,
  "rubros": {
   "80141600": "Ventas y marketing",
   "82101600": "Publicidad en medios no impresos",
@@ -14,33 +14,6 @@
   "83121700": "Comunicación social y de masas"
  },
  "filas": [
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "audiovisual"
-   ],
-   "nueva": false,
-   "codigo": "1080289-26-COT26",
-   "nombre": "SERVICIO DE EDICIÓN DE MATERIAL AUDIOVISUAL ",
-   "organismo": "SUBSECRETARIA DE SALUD PUBLICA",
-   "unidad": "Adm Fondos o Fondos Extrapresupuestarios Aysén",
-   "monto": 500000,
-   "cierre_iso": "2026-10-01T16:00:00-03:00",
-   "publicacion": "30-09 11:56",
-   "publicacion_iso": "2026-09-30T11:56:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "86131504",
-     "Formación en comunicación audiovisual",
-     1,
-     "SERVICIO DE EDICIÓN DE MATERIAL AUDIOVISUAL: MEDIDAS DE PREVENCIÓN DE HIDATIDOSIS EDUCADORAS DE JARDINES INFANTILES.\nCUMPLIR CON LA TOTALIDAD DE LAS ESPECIFICACIONES TÉCNICAS SEÑALDAS EN DOCUMENTO ADJUNTO PM N° 469 DAS"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1080289-26-COT26",
-   "sin_detalle": false,
-   "descripcion": "SERVICIO DE EDICIÓN DE MATERIAL AUDIOVISUAL: MEDIDAS DE PREVENCIÓN DE HIDATIDOSIS EDUCADORAS DE JARDINES INFANTILES.\nCUMPLIR CON LA TOTALIDAD DE LAS ESPECIFICACIONES TÉCNICAS SEÑALDAS EN DOCUMENTO ADJUNTO PM N° 469 DAS"
-  },
   {
    "tipo": "OPORTUNIDAD",
    "motivos": [

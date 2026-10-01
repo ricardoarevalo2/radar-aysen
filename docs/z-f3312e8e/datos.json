@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-10-01T15:43:06.599395-03:00",
+ "actualizado": "2026-10-01T16:37:57.784801-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
- "total_region": 275,
+ "total_region": 292,
  "rubros": {
   "25172700": "Aire acondicionado",
   "25173900": "Componentes eléctricos",
@@ -19,33 +19,6 @@
   "39121400": "Conectores, enchufes y terminales"
  },
  "filas": [
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "generador"
-   ],
-   "nueva": true,
-   "codigo": "3791-989-COT26",
-   "nombre": "TRASLADO DE GENERADOR ",
-   "organismo": "I MUNICIPALIDAD DE CISNES",
-   "unidad": "Finanzas",
-   "monto": 500000,
-   "cierre_iso": "2026-10-01T16:00:00-03:00",
-   "publicacion": "30-09 15:49",
-   "publicacion_iso": "2026-09-30T15:49:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "25101602",
-     "Camiones de remolque",
-     1,
-     "SERVICIO DE TRASLADO DE GENERADOR PARA ENCUENTRO DE ARTESANAS EN PUYUHUAPI"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=3791-989-COT26",
-   "sin_detalle": false,
-   "descripcion": "SERVICIO DE TRASLADO DE GENERADOR PARA ENCUENTRO DE ARTESANAS EN PUYUHUAPI. SE ADJUNTA ANEXOS"
-  },
   {
    "tipo": "POSIBLE",
    "motivos": [
