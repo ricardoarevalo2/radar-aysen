@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-10-01T14:38:42.876004-03:00",
+ "actualizado": "2026-10-01T15:43:06.599395-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
- "total_region": 241,
+ "total_region": 275,
  "rubros": {
   "80141600": "Ventas y marketing",
   "82101600": "Publicidad en medios no impresos",
@@ -401,6 +401,33 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=3431-113-COT26",
    "sin_detalle": false,
    "descripcion": "Adquisición de elementos para el normal funcionamiento del personal del Casino de Suboficiales de la UR. (Conforme a solicitud de cotización)."
+  },
+  {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Publicidad en medios no impresos"
+   ],
+   "nueva": true,
+   "codigo": "1758-217-COT26",
+   "nombre": "GRABACIÓN Y EMISION DE 07 PROGRAMAS RADIALES A TRAVÉS DE RADIOEMISORA DE COBERTURA REGIONAL.",
+   "organismo": "SECRETARIA REGIONAL MINISTERIAL DE EDUCACION XI REGION",
+   "unidad": "Mineduc Administración XI Región",
+   "monto": 1650000,
+   "cierre_iso": "2026-10-05T10:00:00-03:00",
+   "publicacion": "01-10 15:29",
+   "publicacion_iso": "2026-10-01T15:29:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "82101601",
+     "Publicidad en radio",
+     1,
+     "GRABACION Y EMISIÓN DE 07 PROGRAMAS RADIALES QUE CUENTE CON LOS SIGUIENTE:\n- CADA PROGRAMA DEBE TENER UNA DURACIÓN DE 25 MIN. EFECTIVOS (30 EN TOTAL).\n- 4 PERSONAS EN ESTUDIO, 2 ENTREVISTADORES Y 2 ENTREVISTADOS.\n- EMISION SEMANAL EN HORARIO ENTRE LAS 18:00 Y 21:00 HRS.\n- INICIO DEL PROGRAMA CON CORTINA MUSICAL DE IDENTIDAD SONORA.\n- DOS CAPSULAS PROMOCIONALES POR SEMANA INVITANDO A ESCUCHAR EL PROGRAMA.\n- ENTREGA AL CONTRATANTE DE LA GRABACION DE LOS PROGRAMAS EN FORMATO AUDIO Y VIDEO."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1758-217-COT26",
+   "sin_detalle": false,
+   "descripcion": "GRABACION Y EMISIÓN DE 07 PROGRAMAS RADIALES EN RADIOEMISORA DE COBERTURA REGIONAL, CUENTE CON LOS SIGUIENTE:\n- CADA PROGRAMA DEBE TENER UNA DURACIÓN DE 25 MIN. EFECTIVOS (30 TOTAL).\n- 4 PERSONAS EN ESTUDIO, 2 ENTREVISTADORES Y 2 ENTREVISTADOS.\n- EMISION SEMANAL EN HORARIO ENTRE LAS 18:00 Y 21:00 HRS.\n- INICIO DEL PROGRAMA CON CORTINA MUSICAL DE IDENTIDAD SONORA.\n- DOS CAPSULAS PROMOCIONALES POR SEMANA INVITANDO A ESCUCHAR LOS PROGRAMAS.\n- ENTREGA AL CONTRATANTE DE LA GRABACION DE LOS PROGRAMAS"
   },
   {
    "tipo": "POSIBLE",

@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-10-01T14:38:42.876004-03:00",
+ "actualizado": "2026-10-01T15:43:06.599395-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
- "total_region": 241,
+ "total_region": 275,
  "rubros": {
   "25172700": "Aire acondicionado",
   "25173900": "Componentes eléctricos",
@@ -162,7 +162,7 @@
    "motivos": [
     "Servicios eléctricos"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "1274667-381-COT26",
    "nombre": "RVB -  SOLICITA SERVICIO DE APROVISIONAMIENTO Y REVESTIMIENTO DE GENERADOR Y CONECTIVIDAD ELÉCTRICA DE GENERADOR A SALA TEA",
    "organismo": "CENTRO DE SALUD FAMILIAR PUERTO AYSÉN",
@@ -449,6 +449,51 @@
     "iluminación"
    ],
    "nueva": true,
+   "codigo": "1079689-474-COT26",
+   "nombre": "ADQUISICIÓN DE UNA TORRE DE ILUMINACIÓN LED INALÁMBRICA Y ACCESORIOS PARA LA SECCIÓN CRIMINALÍSTICA COYHAIQUE",
+   "organismo": "SECCIÓN COMPRAS XI ZONA",
+   "unidad": "SEC DE COMP ZONA AYSÉN DEL GRAL CARL IBAÑ DEL CAMP",
+   "monto": 1479170,
+   "cierre_iso": "2026-10-02T15:00:00-03:00",
+   "publicacion": "01-10 14:41",
+   "publicacion_iso": "2026-10-01T14:41:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "39111505",
+     "Iluminación empotrada",
+     1,
+     "TORRE DE ILUMINACIÓN LED INALÁMBRICA M18 ROCKET 6000 LÚMENES EQUIVALENTE O SUPERIOR EN CALIDAD A MARCA MILWAUKEE 2136-20"
+    ],
+    [
+     "39111505",
+     "Iluminación empotrada",
+     1,
+     "CARGADOR MULTIVOLTAJE MULTIBATERÍA M-12 - M18 EQUIVALENTE O SUPERIOR EN CALIDAD A MARCA MILWAUKEE 48-1959"
+    ],
+    [
+     "39111505",
+     "Iluminación empotrada",
+     2,
+     "BATERÍA M18 HIGH OUTPUT XC 6.0 EQUIVALENTE O SUPERIOR EN CALIDAD A MARCA MILWAUKEE 48-11-1865"
+    ],
+    [
+     "39111505",
+     "Iluminación empotrada",
+     1,
+     "BOLSA DE TRANSPORTE DE LUZ DE TORRE ROCKET EQUIVALENTE O SUPERIOR EN CALIDAD A MARCA MILWAUKEE 42-55-2137"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1079689-474-COT26",
+   "sin_detalle": false,
+   "descripcion": "ADQUISICIÓN DE UNA TORRE DE ILUMINACIÓN LED INALÁMBRICA CON ACCESORIOS PARA LA SECCIÓN CRIMINALÍSTICA COYHAIQUE. CON DESPACHO A DOMICILIO. INDICAR PLAZO DE ENTREGA, ADJUNTAR COTIZACIÓN Y COMPLETAR CADA RUBRO DEL ANEXO DE REQUERIMIENTOS TÉCNICOS, SINO ADJUNTA DICHOS ANTECEDENTES Y NO COMPLETA DICHO ANEXO, NO SERÁ EVALUADO."
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "iluminación"
+   ],
+   "nueva": true,
    "codigo": "1079689-476-COT26",
    "nombre": "ADQUISICIÓN DE LINTERNAS PORTÁTILES PARA LA SECCIÓN CRIMINALÍSTICA COYHAIQUE.",
    "organismo": "SECCIÓN COMPRAS XI ZONA",
@@ -583,6 +628,63 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=1079689-470-COT26",
    "sin_detalle": false,
    "descripcion": "ADQUISICIÓN DE REPUESTOS PARA MÁQUINA DESMALEZADORA MARCA STHILL 2 TIEMPO 1.8 HP 308 CC. DE LA HOSPEDERÍA DE LA 4TA. COMISARÍA COCHRANE (F). CON DESPACHO A DOMICILIO EN LA CIUDAD DE COCHRANE. INDICAR PLAZO DE ENTREGA Y ADJUNTAR COTIZACIÓN. DE NO INDICAR PLAZO DE ENTREGA NI ADJUNTAR COTIZACIÓN, NO SERÁ EVALUADO."
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "iluminación"
+   ],
+   "nueva": true,
+   "codigo": "1182705-167-COT26",
+   "nombre": " Equipamiento para TNS en Turismo",
+   "organismo": "CENTRO DE FORMACIÓN TÉCNICA DE LA REGIÓN DE AYSÉN DEL GENERAL CARLOS I",
+   "unidad": "FINANZAS",
+   "monto": 1010000,
+   "cierre_iso": "2026-10-02T16:30:00-03:00",
+   "publicacion": "03-09 13:32",
+   "publicacion_iso": "2026-09-03T13:32:00-04:00",
+   "ofertas": 1,
+   "productos": [
+    [
+     "60106206",
+     "Materiales de enseñanza del medio ambiente",
+     1,
+     "Mapamundi para Sala de Clases. Vinilo Autoadhesivo: Papel mural vinilico opaco de alta calidad y adherencia. Textura lisa. Autoadhesivo. Elaborado a la medida 1,2 x 2,4 mts (2,44 m²)."
+    ],
+    [
+     "60106206",
+     "Materiales de enseñanza del medio ambiente",
+     10,
+     "Set de Lupas Botánicas, aumento de 30X y 60X, Luz led blanca, Lente de 22 mm de diámetro y aumento de 30X Lente de 12 mm de diámetro y aumento de 60X."
+    ],
+    [
+     "60106206",
+     "Materiales de enseñanza del medio ambiente",
+     20,
+     "BASTÓN AJUSTE RÁPIDO Y PRECISO DE SENDERISMO MT500. Mango de goma larga y densa tipo 3D. Asa cómoda. Correa de muñeca suave.Aluminio 7075-T6 / 6061-T6.Diámetros de tubo de 18/16/14 mm.Punta de tungsteno.240 g/bastón.Bloqueador externo y push-pin auto.Ajuste preciso y rápido. De 105 a 130 cm."
+    ],
+    [
+     "60106206",
+     "Materiales de enseñanza del medio ambiente",
+     6,
+     "LINTERNA FRONTAL RECARGABLE - 120 LÚMENES- HL100 USB. Autonomía: 17 h en modo eco. 4 h en modo alto. Batería recargable por micro-USB. Versatilidad: 3 modos de iluminación: rojo, blanco eco y blanco alto. Peso 72 g. DIMENSIONES (L x H x P) 55 x 39 x 31 mm (sin cinta)\""
+    ],
+    [
+     "60106206",
+     "Materiales de enseñanza del medio ambiente",
+     4,
+     "Binocular: Binocular Konus Basic Plus 10x42 para Observación de Naturaleza. Aumento 10x Diámetro del objetivo 42 mm Tipo de prisma Roof (BAK-7) Revestimiento óptico Multitratado Pupila de salida 5.1 mm Material del cuerpo Recubrimiento de goma Sistema de enfoque Central rápido Peso 0.484 kg\""
+    ],
+    [
+     "60106206",
+     "Materiales de enseñanza del medio ambiente",
+     21,
+     "Capa o poncho de agua Unixes. Impermeable. - 100% PVC.- Costuras completamente selladas (impermeable). - Talla única.- Unisex. Con Bordado de Logo."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1182705-167-COT26",
+   "sin_detalle": false,
+   "descripcion": "se requiere la compra de Equipamiento para TNS en Turismo, se solicita adjuntar ficha tecnica de los productos ofertados, costo de despacho hasta nuestras dependencias."
   },
   {
    "tipo": "POSIBLE",
