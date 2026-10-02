@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-10-02T12:40:32.922693-03:00",
+ "actualizado": "2026-10-02T13:40:58.524932-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
- "total_region": 272,
+ "total_region": 260,
  "rubros": {
   "80141600": "Ventas y marketing",
   "82101600": "Publicidad en medios no impresos",
@@ -14,33 +14,6 @@
   "83121700": "Comunicación social y de masas"
  },
  "filas": [
-  {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Inserciones publicitarias en medios"
-   ],
-   "nueva": false,
-   "codigo": "1335-8-COT26",
-   "nombre": "Servicio de avisaje Segunda Convocatoria  Programa Transferencia para el Fortalecimiento Productivo Litoral de Aysén (Cód. BIP 40072626-0)",
-   "organismo": "CORPORACION DE FOMENTO DE LA PRODUCCION",
-   "unidad": "CORFO XI REGION - AYSEN",
-   "monto": 165650,
-   "cierre_iso": "2026-10-02T13:00:00-03:00",
-   "publicacion": "01-10 10:43",
-   "publicacion_iso": "2026-10-01T10:43:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "82101903",
-     "Avisos en Internet",
-     2,
-     "Servicio de publicación de 2 avisos para la difusión de las Convocatorias en el marco del Programa Transferencia para el Fortalecimiento Productivo Litoral de Aysén BIP 40072626-0. Condiciones de servicio y para ofertar de acuerdo a EETT adjuntas. Oferentes deberán adjuntar obligatoriamente cotización con detalle del servicio y monto unitario y total contratación, plazo de entrega y acreditación cobertura regional."
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1335-8-COT26",
-   "sin_detalle": false,
-   "descripcion": "Se requiere contratar el servicio de publicación de 2 avisos para la difusión de las Convocatorias en el marco del Programa Transferencia para el Fortalecimiento Productivo Litoral de Aysén BIP 40072626-0. Condiciones de servicio y para ofertar de acuerdo a EETT adjuntas. Oferentes deberán adjuntar obligatoriamente cotización con detalle del servicio y monto contratación, plazo de entrega y acreditación cobertura regional."
-  },
   {
    "tipo": "POSIBLE",
    "motivos": [
@@ -379,14 +352,14 @@
     "Ventas y marketing"
    ],
    "nueva": true,
-   "codigo": "4733-372-COT26",
+   "codigo": "4733-375-COT26",
    "nombre": " EVENTO INTERGENERACIONAL MATEANDO LA HISTORIA LOCAL",
    "organismo": "I MUNICIPALIDAD DE LAS GUAITECAS",
    "unidad": "I MUNICIPALIDAD DE LAS GUAITECAS",
    "monto": 3865400,
-   "cierre_iso": "2026-10-08T08:00:00-03:00",
-   "publicacion": "02-10 09:59",
-   "publicacion_iso": "2026-10-02T09:59:00-03:00",
+   "cierre_iso": "2026-10-08T10:00:00-03:00",
+   "publicacion": "02-10 13:00",
+   "publicacion_iso": "2026-10-02T13:00:00-03:00",
    "ofertas": 0,
    "productos": [
     [
@@ -396,7 +369,7 @@
      "EVENTO INTERGENERACIONAL MATEANDO LA HISTORIA LOCAL"
     ]
    ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=4733-372-COT26",
+   "link": "https://buscador.mercadopublico.cl/ficha?code=4733-375-COT26",
    "sin_detalle": false,
    "descripcion": "Se requiere contratar el servicio de producción artística para el evento Intergeneracional Mateando la Historia Local según especificaciones técnicas adjuntas, adjuntar cotización.-"
   }
