@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-10-02T08:39:06.188588-03:00",
+ "actualizado": "2026-10-02T09:45:00.222100-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
- "total_region": 273,
+ "total_region": 268,
  "rubros": {
   "25172700": "Aire acondicionado",
   "25173900": "Componentes eléctricos",
@@ -19,33 +19,6 @@
   "39121400": "Conectores, enchufes y terminales"
  },
  "filas": [
-  {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Conectores, enchufes y terminales"
-   ],
-   "nueva": false,
-   "codigo": "3765-258-COT26",
-   "nombre": "CONFIGURACIÓN Y PARAMETRIZACIÓN DE RECONECTADOR.",
-   "organismo": "SERVICIO NACIONAL DE SALUD HOSPITAL DE C",
-   "unidad": "Hospital Doctor  Leopoldo Ortega Rodríguez",
-   "monto": 6000000,
-   "cierre_iso": "2026-10-02T09:00:00-03:00",
-   "publicacion": "29-09 16:27",
-   "publicacion_iso": "2026-09-29T16:27:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "39121409",
-     "Conectores de cables eléctricos",
-     1,
-     "CONFIGURACIÓN Y PARAMETRIZACIÓN DE RECONECTADOR - INSPECCIÓN EXTERNA A RECONECTADOR; - CONFIGURACIÓN Y PRUEBAS EFECTIVAS INYECCIÓN SECUNDARIA DE PROTECCIONES: - VERIFICACIÓN ALAMBRADA ASOCIADOS A PROTECCIÓN - CARGA Y CONFIGURACIÓN DE AJUSTES DE PROTECCIONES DE ACUERDO CON ECAP - PUEBAS EFECTIVAS DE OPERACIPON DE FUNCIONES DE PROTECCIÓN A TRAVES DE INYECCIÓN DE PARAMETROS SECUNDARIOS - EMISIÓN DE INFORMES Y PROTOCOLOS DE PRUEBAS. DE ACUERDO A INFORME ADJUNTO."
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=3765-258-COT26",
-   "sin_detalle": false,
-   "descripcion": "SE REQUIERE CONFIGURACIÓN Y PARAMETRIZACIÓN DE RECONECTADOR PARA LA EJECUCIÓN SATISFACTORIA DEL PROCESO DE AUMENTO DE POTENCIA, SE REQUIERE REALIZAR AJUSTES EN EQUIPO FANOX 23 kV BAJO LAS EPECIFICACIONES TECNICAS EMITIDAS POR LA EMPRESA EDELAYSEN."
-  },
   {
    "tipo": "OPORTUNIDAD",
    "motivos": [
@@ -90,33 +63,6 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=817607-28-COT26",
    "sin_detalle": false,
    "descripcion": "Se requiere realizar reparación a camión polibrazos considerando la reparación del sistema eléctrico, sistema hidráulico, frenos y de petróleo, de acuerdo con los detalles descritos más adelante. Considerando mano de obra y materiales. Los trabajos se deben realizar en Bahía Murta, ademas para postular debe adjuntar copia de patente comercial al día del oferente."
-  },
-  {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Cajas y accesorios eléctricos"
-   ],
-   "nueva": true,
-   "codigo": "2713-1199-COT26",
-   "nombre": "Materiales eléctricos - DIDECO - Asistencial - 1228",
-   "organismo": "I MUNICIPALIDAD DE AYSEN",
-   "unidad": "I.MUNICIPALIDAD AYSEN-ADQUISICIONES",
-   "monto": 5800000,
-   "cierre_iso": "2026-10-02T11:30:00-03:00",
-   "publicacion": "01-10 11:20",
-   "publicacion_iso": "2026-10-01T11:20:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "39121311",
-     "Accesorios eléctricos",
-     1,
-     "Adquisición de materiales eléctricos, presentar cotización con la totalidad de los productos solicitado"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=2713-1199-COT26",
-   "sin_detalle": false,
-   "descripcion": "Adquisición de materiales eléctricos según anexo adjunto. Las ofertas deberán: incluir la totalidad de los productos, ajustarse al presupuesto disponible y asumir el COSTO DE TRANSPORTE (no desglosarlo). Debe indicar plazo de entrega (NO se aceptará \"plazo de despacho\" y el plazo de entrega iniciará el día hábil subsiguiente al envío de la OC), presentar cotización con la totalidad de los productos solicitados. Ofertas que incumplan lo anterior serán rechazadas."
   },
   {
    "tipo": "POSIBLE",
@@ -691,6 +637,33 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=2713-1178-COT26",
    "sin_detalle": false,
    "descripcion": "Adquisicion de materiales electricos, los montos de las ofertas deben incluir todos los gastos necesarios, para la entrega de los muebles de los materiales lectricos, en las oficinas de turismo, en puerto aysén, las ofertas que sobrepasen el monto presupuestario disponible, no cumplan con las especificaciones, no cumplan o no indiquen el plazo de entrega no serán evaluadas.el plazo de entrega comienza correr al segundo dia habil desde enviada la orden de compra."
+  },
+  {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Cajas y accesorios eléctricos"
+   ],
+   "nueva": true,
+   "codigo": "2713-1199-COT26",
+   "nombre": "Materiales eléctricos - DIDECO - Asistencial - 1228",
+   "organismo": "I MUNICIPALIDAD DE AYSEN",
+   "unidad": "I.MUNICIPALIDAD AYSEN-ADQUISICIONES",
+   "monto": 5800000,
+   "cierre_iso": "2026-10-05T12:00:00-03:00",
+   "publicacion": "01-10 11:20",
+   "publicacion_iso": "2026-10-01T11:20:00-03:00",
+   "ofertas": 1,
+   "productos": [
+    [
+     "39121311",
+     "Accesorios eléctricos",
+     1,
+     "Adquisición de materiales eléctricos, presentar cotización con la totalidad de los productos solicitado"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=2713-1199-COT26",
+   "sin_detalle": false,
+   "descripcion": "Adquisición de materiales eléctricos según anexo adjunto. Las ofertas deberán: incluir la totalidad de los productos, ajustarse al presupuesto disponible y asumir el COSTO DE TRANSPORTE (no desglosarlo). Debe indicar plazo de entrega (NO se aceptará \"plazo de despacho\" y el plazo de entrega iniciará el día hábil subsiguiente al envío de la OC), presentar cotización con la totalidad de los productos solicitados. Ofertas que incumplan lo anterior serán rechazadas."
   },
   {
    "tipo": "OPORTUNIDAD",

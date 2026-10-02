@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-10-02T08:39:06.188588-03:00",
+ "actualizado": "2026-10-02T09:45:00.222100-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
- "total_region": 273,
+ "total_region": 268,
  "rubros": {
   "80141600": "Ventas y marketing",
   "82101600": "Publicidad en medios no impresos",
@@ -375,6 +375,39 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=2495-534-COT26",
    "sin_detalle": false,
    "descripcion": "Contratación de servicio especializado de publicidad y difusión para posicionar las actividades productivas de la comuna de Coyhaique, mediante la elaboración y publicación de dos publirreportajes en un medio de alcance nacional o interregional, conforme a las especificaciones técnicas del programa BIP N°40071494-0."
+  },
+  {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Ventas y marketing"
+   ],
+   "nueva": true,
+   "codigo": "1746-232-COT26",
+   "nombre": "DISEÑO E IMPRESIÓN DE CREDENCIALES Y PIN (P 476 DAS)",
+   "organismo": "SUBSECRETARIA DE SALUD PUBLICA",
+   "unidad": "Seremi de Salud XI Región",
+   "monto": 1100000,
+   "cierre_iso": "2026-10-06T12:00:00-03:00",
+   "publicacion": "02-10 09:30",
+   "publicacion_iso": "2026-10-02T09:30:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "80141618",
+     "Agencias de marketing de ventas, incluidas las impresiones",
+     150,
+     "Diseño e impresión de credenciales, de acuerdo con especificaciones indicadas en el adjunto"
+    ],
+    [
+     "80141618",
+     "Agencias de marketing de ventas, incluidas las impresiones",
+     200,
+     "Diseño e impresión de PIN, de acuerdo con especificaciones indicadas en el adjunto."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1746-232-COT26",
+   "sin_detalle": false,
+   "descripcion": "Solicitado mediante Pedido de Materiales N° 476 del Departamento de Acción Sanitaria"
   }
  ],
  "pendientes": [
