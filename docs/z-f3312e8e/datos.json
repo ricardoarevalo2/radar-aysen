@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-10-02T11:41:15.005912-03:00",
+ "actualizado": "2026-10-02T12:40:32.922693-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
- "total_region": 286,
+ "total_region": 272,
  "rubros": {
   "25172700": "Aire acondicionado",
   "25173900": "Componentes eléctricos",
@@ -22,64 +22,10 @@
   {
    "tipo": "POSIBLE",
    "motivos": [
-    "aire acondicionado"
-   ],
-   "nueva": false,
-   "codigo": "1104680-14-COT26",
-   "nombre": " SE REQUIERE ADQUISICION Y INSTALACION DE SISTEMA DE CLIMATIZACION EN RECINTO \"CASA SENDA\"",
-   "organismo": "SERVICIO NACIONAL DE SALUD HOSPITAL DE C",
-   "unidad": "Fondos Extrapresupestarios",
-   "monto": 5000000,
-   "cierre_iso": "2026-10-02T12:00:00-03:00",
-   "publicacion": "30-09 10:27",
-   "publicacion_iso": "2026-09-30T10:27:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "73161517",
-     "Servicios de fabricación de equipo de aire acondicionado, ventilación o refrigeración",
-     1,
-     "SE REQUIERE ADQUISICION Y INSTALACION DE SISTEMA DE CLIMATIZACION EN RECINTO \"CASA SENDA\"\nINSTLACION Y PUESTA EN FUNCIONAMIENTO EQUIPOS CONSIDERADOS: \n- 1 EQUIPO AIRE ACONDICIONADO MULTI SPLIT 5X1 DE 9000 BTU C/U \n- 2 EQUIPO AIRE ACONDICIONADO SPLIT INVERTER DE 22000 BT\n- 1 EQUIPO AIRE ACONDICIONADO SPLIT INVERTER DE 12000 BTU \nSE ADJUNTA PLANO REFERENCIAL CON DETALLES"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1104680-14-COT26",
-   "sin_detalle": false,
-   "descripcion": "SE REQUIERE ADQUISICION Y INSTALACION DE SISTEMA DE CLIMATIZACION EN RECINTO \"CASA SENDA\" UBICADA EN CALLE JOSE MIGUEL CARRERA S/N, COMUNA DE CHILE CHICO, REGION DE AYSEN, INCLUYENDO SUMINISTROS DE EQUIPOS, TRASLADO, INSTLACION Y PUESTA EN FUNCIONAMIENTO EQUIPOS CONSIDERADOS: \n- 1 EQUIPO AIRE ACONDICIONADO MULTI SPLIT 5X1 DE 9000 BTU C/U \n- 2 EQUIPO AIRE ACONDICIONADO SPLIT INVERTER DE 22000 BT\n- 1 EQUIPO AIRE ACONDICIONADO SPLIT INVERTER DE 12000 BTU \nSE ADJUNTA PLANO REFERENCIAL CON DETALLES"
-  },
-  {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Servicios eléctricos"
-   ],
-   "nueva": true,
-   "codigo": "886182-212-COT26",
-   "nombre": "Servicio Provisión e Instalación Remarcador Trifásico en Tablero General Campus Patagonia_FISABS 2248",
-   "organismo": "UNIVERSIDAD DE AYSEN",
-   "unidad": "Universidad de Aysen",
-   "monto": 606000,
-   "cierre_iso": "2026-10-02T12:36:00-03:00",
-   "publicacion": "01-10 12:34",
-   "publicacion_iso": "2026-10-01T12:34:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "72102201",
-     "Instalación o servicio de sistemas de energía eléctrica",
-     1,
-     "Provisión e Instalación Remarcador Trifásico en Tablero General, Campus Patagonia.\n- Medidor De Energía (remarcador) 5(80)a 3p+n, Riel Din\n- Cable Eléctrico 6 mm, Libre Halógeno (3 Fase, Neutro)\n- Conectores Ferrul, Tornillos y Otros Materiales necesarios para realizar el trabajo."
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=886182-212-COT26",
-   "sin_detalle": false,
-   "descripcion": "Se requiere cotizar servicio de provisión e instalación de remarcador trifásico en tablero general. El proveedor debe adjuntar cotización con el detalle de lo ofertado, debe estar Certificado, y deberá indicar el plazo de entrega en días corridos. El proveedor adjudicado tendrá un plazo de 24 horas para aceptar la orden de compra desde la notificación. El valor ofertado debe incluir impuestos. Se podrá privilegiar el menor plazo ofertado que cumpla con lo especificado."
-  },
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
     "enchufe",
     "interruptor"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "1403-392-COT26",
    "nombre": "COMPRA DE MATERIALES ELECTRICOS Y DATOS PARA HABILITAR OFICINAS PARA LA DIRREG AYSEN Y UNIDADES PENALES",
    "organismo": "Dirección Regional de Gendarmeria - Coyhaique",
@@ -427,7 +373,7 @@
    "motivos": [
     "iluminación"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "1005-16-COT26",
    "nombre": "SUMINISTRO DE HORMIGON PUESTO EN OBRA",
    "organismo": "MINISTERIO DE OBRAS PUBLICAS DIREC CION GRAL DE OO PP DCYF",
@@ -594,11 +540,122 @@
    "descripcion": "Adquisicion de materiales electricos, los montos de las ofertas deben incluir todos los gastos necesarios, para la entrega de los muebles de los materiales lectricos, en las oficinas de turismo, en puerto aysén, las ofertas que sobrepasen el monto presupuestario disponible, no cumplan con las especificaciones, no cumplan o no indiquen el plazo de entrega no serán evaluadas.el plazo de entrega comienza correr al segundo dia habil desde enviada la orden de compra."
   },
   {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "eléctrico"
+   ],
+   "nueva": true,
+   "codigo": "551423-40-COT26",
+   "nombre": "TERMO ELÉCTRICO Y ACCESORIOS (Orasmi DPR AYSÉN)",
+   "organismo": "DELEGACIÓN PRESIDENCIAL REGIONAL DE AYSÉN DEL GENERAL CARLOS IBÁÑEZ DE",
+   "unidad": "ORASMI DELEGACION PRESIDENCIAL REGIONAL DE AYSEN",
+   "monto": 350000,
+   "cierre_iso": "2026-10-05T10:00:00-03:00",
+   "publicacion": "02-10 12:15",
+   "publicacion_iso": "2026-10-02T12:15:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "52152010",
+     "Termos domésticos",
+     1,
+     "01 Termo agua eléctrico 80 Litros o superior. El valor debe incluir despacho a domicilio y la entrega debe ser al tercer día hábil una vez generada la Orden de Compra."
+    ],
+    [
+     "40141901",
+     "Conductos flexibles",
+     2,
+     "02 Flexibles agua HI/HI 1/2 X 35 CM. El valor debe incluir despacho a domicilio y la entrega debe ser al tercer día hábil una vez generada la Orden de Compra."
+    ],
+    [
+     "40141901",
+     "Conductos flexibles",
+     1,
+     "01 Flexible agua HI/HE 1/2 40 cm. El valor debe incluir despacho a domicilio y la entrega debe ser al tercer día hábil una vez generada la Orden de Compra."
+    ],
+    [
+     "40142317",
+     "Codo de tubería",
+     2,
+     "02 Codo fusión 20 mm x HE 1/2. El valor debe incluir despacho a domicilio y la entrega debe ser al tercer día hábil una vez generada la Orden de Compra."
+    ],
+    [
+     "40142317",
+     "Codo de tubería",
+     12,
+     "12 Codo fusión 20 mm SO/SO. El valor debe incluir despacho a domicilio y la entrega debe ser al tercer día hábil una vez generada la Orden de Compra."
+    ],
+    [
+     "40142317",
+     "Codo de tubería",
+     1,
+     "01 Codo doble HI Fusión HI 20 x 1/2. El valor debe incluir despacho a domicilio y la entrega debe ser al tercer día hábil una vez generada la Orden de Compra."
+    ],
+    [
+     "40142320",
+     "Uniones de tubería",
+     2,
+     "02 Tee fusión 20 HE. El valor debe incluir despacho a domicilio y la entrega debe ser al tercer día hábil una vez generada la Orden de Compra."
+    ],
+    [
+     "40142320",
+     "Uniones de tubería",
+     1,
+     "01 Tee fusión 20 mm. El valor debe incluir despacho a domicilio y la entrega debe ser al tercer día hábil una vez generada la Orden de Compra."
+    ],
+    [
+     "40142320",
+     "Uniones de tubería",
+     1,
+     "01 Terminal fusión HI20 x 1/2. 02 Tee fusión 20 HE. El valor debe incluir despacho a domicilio y la entrega debe ser al tercer día hábil una vez generada la Orden de Compra."
+    ],
+    [
+     "40142320",
+     "Uniones de tubería",
+     1,
+     "01 Tee fusión 20 mm x HI. 02 Tee fusión 20 HE. El valor debe incluir despacho a domicilio y la entrega debe ser al tercer día hábil una vez generada la Orden de Compra."
+    ],
+    [
+     "40142320",
+     "Uniones de tubería",
+     1,
+     "01 Unión americana fusión 20. 02 Tee fusión 20 HE. El valor debe incluir despacho a domicilio y la entrega debe ser al tercer día hábil una vez generada la Orden de Compra."
+    ],
+    [
+     "46171505",
+     "Llaves",
+     1,
+     "01 Llave jardín 1/2 A 3/4 GENEBRE / TAUMM. El valor debe incluir despacho a domicilio y la entrega debe ser al tercer día hábil una vez generada la Orden de Compra."
+    ],
+    [
+     "46171505",
+     "Llaves",
+     2,
+     "02 Llave paso bola fusión PPR 25MMM SO/SO PLASTIC. El valor debe incluir despacho a domicilio y la entrega debe ser al tercer día hábil una vez generada la Orden de Compra."
+    ],
+    [
+     "27112103",
+     "Abrazaderas",
+     10,
+     "10 Abrazadera fusión 20mm. El valor debe incluir despacho a domicilio y la entrega debe ser al tercer día hábil una vez generada la Orden de Compra."
+    ],
+    [
+     "31231313",
+     "Tubería de plástico",
+     1,
+     "Tubo fusión 20mm x 6 mts. El valor debe incluir despacho a domicilio y la entrega debe ser al tercer día hábil una vez generada la Orden de Compra."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=551423-40-COT26",
+   "sin_detalle": false,
+   "descripcion": "TERMO ELÉCTRICO Y ACCESORIOS (Orasmi DPR AYSÉN)"
+  },
+  {
    "tipo": "OPORTUNIDAD",
    "motivos": [
     "Cajas y accesorios eléctricos"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "2713-1199-COT26",
    "nombre": "Materiales eléctricos - DIDECO - Asistencial - 1228",
    "organismo": "I MUNICIPALIDAD DE AYSEN",

@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-10-02T11:41:15.005912-03:00",
+ "actualizado": "2026-10-02T12:40:32.922693-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
- "total_region": 286,
+ "total_region": 272,
  "rubros": {
   "80141600": "Ventas y marketing",
   "82101600": "Publicidad en medios no impresos",
@@ -15,128 +15,11 @@
  },
  "filas": [
   {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "spot"
-   ],
-   "nueva": false,
-   "codigo": "4778-304-COT26",
-   "nombre": "ADQUISICION DE INSUMOS CLINICOS PARA MONITOREO DE PACIENTES",
-   "organismo": "SERVICIO NACIONAL DE SALUD HOSPITAL DE C",
-   "unidad": "Compras de Insumos y Servicios Generales",
-   "monto": 5909540,
-   "cierre_iso": "2026-10-02T12:00:00-03:00",
-   "publicacion": "30-09 12:41",
-   "publicacion_iso": "2026-09-30T12:41:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "41111927",
-     "Sensores de presión",
-     20,
-     "U410-205D SENSOR SPO2 CLIP ADULTO 3 M, BIOLIGHT V6"
-    ],
-    [
-     "41111927",
-     "Sensores de presión",
-     10,
-     "U910-205D SENSOR CLIP OREJA 3 M, BIOLIGHT V6"
-    ],
-    [
-     "41111927",
-     "Sensores de presión",
-     30,
-     "U410-21MR SENSOR SPO2 ADULTO 3 M / NELLCOR"
-    ],
-    [
-     "41111927",
-     "Sensores de presión",
-     10,
-     "U910-21MR SENSOR OREJA 3 M / GENERAL ELECTRIC"
-    ],
-    [
-     "41111927",
-     "Sensores de presión",
-     10,
-     "U410-48 SENSOR SPO2 CLIP ADULTO 3 M EDAN X12"
-    ],
-    [
-     "41111927",
-     "Sensores de presión",
-     10,
-     "U410-48 SENSOR SPO2 CLIP DEDO ADULTO EDAN IM12"
-    ],
-    [
-     "41111927",
-     "Sensores de presión",
-     3,
-     "U410-48 SENSOR SPO2 CLIP DEDO ADULTO EDAN IM3"
-    ],
-    [
-     "41111927",
-     "Sensores de presión",
-     5,
-     "U910-48 SENSOR SPO2 OREJA 3 M EDAN IM20"
-    ],
-    [
-     "41111927",
-     "Sensores de presión",
-     2,
-     "U410-189 SENSOR SPO2 CLIP ADULTO 3 M MATTIE MED"
-    ],
-    [
-     "41111927",
-     "Sensores de presión",
-     2,
-     "U410-48MR SENSOR SPO2 CLIP ADULTO 3 M, MINDRAY BENEVIEW T5"
-    ],
-    [
-     "41111927",
-     "Sensores de presión",
-     2,
-     "U410-48MR SENSOR SPO2 ADULTO 3 M, MINDRAY IPM12"
-    ],
-    [
-     "41111927",
-     "Sensores de presión",
-     5,
-     "U410-01XP SENSOR CLIP DEDO ADULTO 3 M WELCH ALLYN SPOT"
-    ],
-    [
-     "41111927",
-     "Sensores de presión",
-     1,
-     "U410-70P SENSOR SPO2 CLIP ADULTO 3 M ALLYN ALLYN PROPAQ"
-    ],
-    [
-     "41111927",
-     "Sensores de presión",
-     2,
-     "U410-205D SENSOR SPO2 CLIP ADULTO 3 M, BIOLIGHT S12"
-    ],
-    [
-     "41111927",
-     "Sensores de presión",
-     2,
-     "U410-61D SENSOR SPO2 CLIP ADULTO CREATIVE PC900"
-    ],
-    [
-     "41111927",
-     "Sensores de presión",
-     5,
-     "U410-74 SENSOR SPO2 CLIP DEDO ADULTO 3 M SPACELABS"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=4778-304-COT26",
-   "sin_detalle": false,
-   "descripcion": "ADQUISICION DE INSUMOS CLINICOS PARA MONITOREO DE PACIENTES, SENSORES SPO2, CABLES ECG, BRAZALETES DE PRESION ARTERIAL Y ADAPTADORES DE CONEXION, SEGUN SOLICITUD EXTRAORDINARIA N° 3726/2026 DE LA UNIDAD DE EQUIPOS MEDICOS."
-  },
-  {
    "tipo": "OPORTUNIDAD",
    "motivos": [
     "Inserciones publicitarias en medios"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "1335-8-COT26",
    "nombre": "Servicio de avisaje Segunda Convocatoria  Programa Transferencia para el Fortalecimiento Productivo Litoral de Aysén (Cód. BIP 40072626-0)",
    "organismo": "CORPORACION DE FOMENTO DE LA PRODUCCION",
