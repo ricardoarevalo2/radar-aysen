@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-10-02T07:38:44.897634-03:00",
+ "actualizado": "2026-10-02T08:39:06.188588-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
- "total_region": 277,
+ "total_region": 273,
  "rubros": {
   "25172700": "Aire acondicionado",
   "25173900": "Componentes eléctricos",
@@ -19,33 +19,6 @@
   "39121400": "Conectores, enchufes y terminales"
  },
  "filas": [
-  {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Servicios eléctricos"
-   ],
-   "nueva": false,
-   "codigo": "1274667-381-COT26",
-   "nombre": "RVB -  SOLICITA SERVICIO DE APROVISIONAMIENTO Y REVESTIMIENTO DE GENERADOR Y CONECTIVIDAD ELÉCTRICA DE GENERADOR A SALA TEA",
-   "organismo": "CENTRO DE SALUD FAMILIAR PUERTO AYSÉN",
-   "unidad": "CENTRO DE SALUD FAMILIAR PUERTO AYSÉN",
-   "monto": 4500000,
-   "cierre_iso": "2026-10-02T08:00:00-03:00",
-   "publicacion": "30-09 15:38",
-   "publicacion_iso": "2026-09-30T15:38:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "72102201",
-     "Instalación o servicio de sistemas de energía eléctrica",
-     1,
-     "Se solicita la contratación de servicio para provisión e instalación de sistema de respaldo eléctrico para la Sala de Rehabilitación NNA con Enfoque TEA, de acuerdo con especificaciones técnicas indicadas en documento adjunto."
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1274667-381-COT26",
-   "sin_detalle": false,
-   "descripcion": "SE REQUIERE COTIZACION FORMAL - DESPACHO INCLUIDO HASTA NUESTRAS DEPENDENCIAS - SE SOLICITA GESTIONAR ENVIO MAS RAPIDO CON LAS EMPRESAS DE TRANSPORTE (OPCION PRIORITARIO) -DATOS BANCARIOS"
-  },
   {
    "tipo": "OPORTUNIDAD",
    "motivos": [
