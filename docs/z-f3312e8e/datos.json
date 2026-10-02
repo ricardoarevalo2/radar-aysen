@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-10-02T09:45:00.222100-03:00",
+ "actualizado": "2026-10-02T10:40:23.154873-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
- "total_region": 268,
+ "total_region": 273,
  "rubros": {
   "25172700": "Aire acondicionado",
   "25173900": "Componentes eléctricos",
@@ -19,51 +19,6 @@
   "39121400": "Conectores, enchufes y terminales"
  },
  "filas": [
-  {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Servicios eléctricos"
-   ],
-   "nueva": false,
-   "codigo": "817607-28-COT26",
-   "nombre": "REPARACIÓN CAMION POLIBRAZOS MUNICIPALIDAD RÍO IBÁÑEZ",
-   "organismo": "I MUNICIPALIDAD RIO IBANEZ",
-   "unidad": "Bodega",
-   "monto": 1200000,
-   "cierre_iso": "2026-10-02T10:00:00-03:00",
-   "publicacion": "30-09 11:52",
-   "publicacion_iso": "2026-09-30T11:52:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "25171702",
-     "Sistemas de frenado para automóviles",
-     1,
-     "Reparación de sistema de frenos considerando revisión de mangueras y cambio de las que presenten perdidas, regulación de frenos."
-    ],
-    [
-     "25172405",
-     "Sistemas de inyección de combustible",
-     1,
-     "Confección soportes y reparación filtraciones estanque de petróleo."
-    ],
-    [
-     "25172802",
-     "Sistemas hidráulicos para automóviles",
-     1,
-     "Reparación sistema hidráulico donde se realizará cambio completo aceite del sistema hidráulico, revisión y cambio de mangueras en mal estado, revisión bomba hidráulica principal, reparación filtraciones estanque hidráulico"
-    ],
-    [
-     "72102201",
-     "Instalación o servicio de sistemas de energía eléctrica",
-     1,
-     "Realizar reparación sistema eléctrico, considerando cableado completo, instalación de luces laterales y focos traseros"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=817607-28-COT26",
-   "sin_detalle": false,
-   "descripcion": "Se requiere realizar reparación a camión polibrazos considerando la reparación del sistema eléctrico, sistema hidráulico, frenos y de petróleo, de acuerdo con los detalles descritos más adelante. Considerando mano de obra y materiales. Los trabajos se deben realizar en Bahía Murta, ademas para postular debe adjuntar copia de patente comercial al día del oferente."
-  },
   {
    "tipo": "POSIBLE",
    "motivos": [
@@ -694,6 +649,12 @@
   }
  ],
  "pendientes": [
+  {
+   "codigo": "3950-629-COT26",
+   "nombre": "Artículos Prog. Salud Mental CLJ ",
+   "organismo": "DIRECCION SALUD RURAL",
+   "link": "https://buscador.mercadopublico.cl/ficha?code=3950-629-COT26"
+  },
   {
    "codigo": "2495-535-COT26",
    "nombre": "MATERIALES DE OFICINA CENTRO DE LAS MUJERES",
