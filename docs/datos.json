@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-10-02T14:38:12.514430-03:00",
+ "actualizado": "2026-10-02T15:42:09.734549-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
- "total_region": 263,
+ "total_region": 246,
  "rubros": {
   "80141600": "Ventas y marketing",
   "82101600": "Publicidad en medios no impresos",
@@ -14,75 +14,6 @@
   "83121700": "Comunicación social y de masas"
  },
  "filas": [
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "streaming"
-   ],
-   "nueva": false,
-   "codigo": "3431-113-COT26",
-   "nombre": "FI - Adquisición de elementos que serán utilizados en el Casino de Suboficiales de la UR.",
-   "organismo": "Ejercito de Chile",
-   "unidad": "Regimiento N° 8 Chiloé",
-   "monto": 2500000,
-   "cierre_iso": "2026-10-02T15:00:00-03:00",
-   "publicacion": "28-09 15:47",
-   "publicacion_iso": "2026-09-28T15:47:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "23201202",
-     "Secadores de aire",
-     1,
-     "Secador de mano HD 2001 WLS."
-    ],
-    [
-     "44111815",
-     "Cubiertas para mesa de diseño",
-     1,
-     "Encimera radiante VM 4TR."
-    ],
-    [
-     "47121602",
-     "Aspiradoras",
-     1,
-     "Aspiradora 20 Lts. 1000 W."
-    ],
-    [
-     "52161515",
-     "Reproductor o grabador de CD",
-     1,
-     "Reproductor Streaming TV Ultra 4K"
-    ],
-    [
-     "40101701",
-     "Aires acondicionados",
-     1,
-     "Equipo de aire acondicionado sico 9000"
-    ],
-    [
-     "30181515",
-     "Estanque del WC",
-     25,
-     "Kit de reparación de estanque plast."
-    ],
-    [
-     "40141716",
-     "Sifones en P",
-     25,
-     "Sifón, Kit instalación lavatorio stand."
-    ],
-    [
-     "30181503",
-     "Duchas",
-     20,
-     "Ducha set soporte flexible nikel 1,75 Mts."
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=3431-113-COT26",
-   "sin_detalle": false,
-   "descripcion": "Adquisición de elementos para el normal funcionamiento del personal del Casino de Suboficiales de la UR. (Conforme a solicitud de cotización)."
-  },
   {
    "tipo": "OPORTUNIDAD",
    "motivos": [
@@ -136,6 +67,33 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=1758-217-COT26",
    "sin_detalle": false,
    "descripcion": "GRABACION Y EMISIÓN DE 07 PROGRAMAS RADIALES EN RADIOEMISORA DE COBERTURA REGIONAL, CUENTE CON LOS SIGUIENTE:\n- CADA PROGRAMA DEBE TENER UNA DURACIÓN DE 25 MIN. EFECTIVOS (30 TOTAL).\n- 4 PERSONAS EN ESTUDIO, 2 ENTREVISTADORES Y 2 ENTREVISTADOS.\n- EMISION SEMANAL EN HORARIO ENTRE LAS 18:00 Y 21:00 HRS.\n- INICIO DEL PROGRAMA CON CORTINA MUSICAL DE IDENTIDAD SONORA.\n- DOS CAPSULAS PROMOCIONALES POR SEMANA INVITANDO A ESCUCHAR LOS PROGRAMAS.\n- ENTREGA AL CONTRATANTE DE LA GRABACION DE LOS PROGRAMAS"
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "televisión"
+   ],
+   "nueva": true,
+   "codigo": "1057062-439-COT26",
+   "nombre": "Adquisición Rack Soporte TV con Ruedas, URY 2457, FCA 63 (FISABS 2102)",
+   "organismo": "UNIVERSIDAD DE AYSEN",
+   "unidad": "Proyectos",
+   "monto": 123690,
+   "cierre_iso": "2026-10-05T12:00:00-03:00",
+   "publicacion": "02-10 15:01",
+   "publicacion_iso": "2026-10-02T15:01:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "45111802",
+     "Soportes de televisión",
+     2,
+     "Se requiere cotizar soporte de 32\" a 70\" pulgadas. Bandeja inferior soporta hasta 50kg, medidas de 485X293mm. Bandeja superior de 298x228mm. Vesa máxima de 600x400. Ajuste vertical 10°, tamaño total 180cm altura X 91cm ancho X 44cm Profundidad."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1057062-439-COT26",
+   "sin_detalle": false,
+   "descripcion": "Se requiere cotizar adquisición rack soporte TV con ruedas. Cotización debe indicar especificaciones técnicas de lo ofertado. Debe indicar plazo de entrega ofertado, considerando entrega en dependencias de U. Aysén. Valor cotizado debe incluir flete e impuestos. Se podrá privilegiar el menor plazo de entrega ofertado, siempre que cumpla con todas las especificaciones requeridas."
   },
   {
    "tipo": "POSIBLE",
