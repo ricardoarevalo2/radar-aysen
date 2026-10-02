@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-10-02T10:40:23.154873-03:00",
+ "actualizado": "2026-10-02T11:41:15.005912-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
- "total_region": 273,
+ "total_region": 286,
  "rubros": {
   "25172700": "Aire acondicionado",
   "25173900": "Componentes eléctricos",
@@ -619,6 +619,60 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=2713-1199-COT26",
    "sin_detalle": false,
    "descripcion": "Adquisición de materiales eléctricos según anexo adjunto. Las ofertas deberán: incluir la totalidad de los productos, ajustarse al presupuesto disponible y asumir el COSTO DE TRANSPORTE (no desglosarlo). Debe indicar plazo de entrega (NO se aceptará \"plazo de despacho\" y el plazo de entrega iniciará el día hábil subsiguiente al envío de la OC), presentar cotización con la totalidad de los productos solicitados. Ofertas que incumplan lo anterior serán rechazadas."
+  },
+  {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Gasfitería, calefacción y aire acondicionado"
+   ],
+   "nueva": true,
+   "codigo": "4889-39-COT26",
+   "nombre": "MANTENIMIENTO SENTINA - OFICINAS SEREMI DE LAS CULTURAS",
+   "organismo": "Subsecretaria de las Culturas y las Artes Región de Aysen",
+   "unidad": "Consejo Regional de Cultura Región de Aysen",
+   "monto": 250000,
+   "cierre_iso": "2026-10-07T15:00:00-03:00",
+   "publicacion": "02-10 10:46",
+   "publicacion_iso": "2026-10-02T10:46:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "72102304",
+     "Mantenimiento o reparación de sistemas de fontanería, gasfitería",
+     1,
+     "MANTENIMIENTO SENTINA - CAMARA DE RECOLECCION DE RESIDUOS SOLIDOS DOMICILIARIOS - CARACTERÍSTICAS SEGUN ARCHIVO ADJUNTO"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=4889-39-COT26",
+   "sin_detalle": false,
+   "descripcion": "MANTENIMIENTO SENTINA - OFICINAS SEREMI DE LAS CULTURAS\nCARACTERÍSTICAS SEGUN ARCHIVO ADJUNTO"
+  },
+  {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Gasfitería, calefacción y aire acondicionado"
+   ],
+   "nueva": true,
+   "codigo": "868-88-COT26",
+   "nombre": "PROVISION E INSTALACION DE 02 EQUIPOS DE CLIMATIZACION EN EDIFICIO GOBIERNO REGIONAL DE AYSEN.",
+   "organismo": "GOBIERNO REGIONAL DE AYSEN",
+   "unidad": "Gobierno Regional de Aysen - XI Región",
+   "monto": 7200000,
+   "cierre_iso": "2026-10-08T12:00:00-03:00",
+   "publicacion": "02-10 11:36",
+   "publicacion_iso": "2026-10-02T11:36:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "72102305",
+     "Servicios de reparación, mantenimiento o reparación de aire acondicionado",
+     1,
+     "PROVISION E INSTALACION DE 02 EQUIPOS DE CLIMATIZACION EN EDIFICIO GOBIERNO REGIONAL DE AYSEN"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=868-88-COT26",
+   "sin_detalle": false,
+   "descripcion": "PROVISION E INSTALACION DE 02 EQUIPOS DE CLIMATIZACION EN EDIFICIO GOBIERNO REGIONAL DE AYSEN."
   },
   {
    "tipo": "OPORTUNIDAD",
