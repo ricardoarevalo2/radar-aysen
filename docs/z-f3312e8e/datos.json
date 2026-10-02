@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-10-02T15:42:09.734549-03:00",
+ "actualizado": "2026-10-02T16:39:18.534638-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
- "total_region": 246,
+ "total_region": 238,
  "rubros": {
   "25172700": "Aire acondicionado",
   "25173900": "Componentes eléctricos",
@@ -19,63 +19,6 @@
   "39121400": "Conectores, enchufes y terminales"
  },
  "filas": [
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "iluminación"
-   ],
-   "nueva": true,
-   "codigo": "1182705-167-COT26",
-   "nombre": " Equipamiento para TNS en Turismo",
-   "organismo": "CENTRO DE FORMACIÓN TÉCNICA DE LA REGIÓN DE AYSÉN DEL GENERAL CARLOS I",
-   "unidad": "FINANZAS",
-   "monto": 1010000,
-   "cierre_iso": "2026-10-02T16:30:00-03:00",
-   "publicacion": "03-09 13:32",
-   "publicacion_iso": "2026-09-03T13:32:00-04:00",
-   "ofertas": 1,
-   "productos": [
-    [
-     "60106206",
-     "Materiales de enseñanza del medio ambiente",
-     1,
-     "Mapamundi para Sala de Clases. Vinilo Autoadhesivo: Papel mural vinilico opaco de alta calidad y adherencia. Textura lisa. Autoadhesivo. Elaborado a la medida 1,2 x 2,4 mts (2,44 m²)."
-    ],
-    [
-     "60106206",
-     "Materiales de enseñanza del medio ambiente",
-     10,
-     "Set de Lupas Botánicas, aumento de 30X y 60X, Luz led blanca, Lente de 22 mm de diámetro y aumento de 30X Lente de 12 mm de diámetro y aumento de 60X."
-    ],
-    [
-     "60106206",
-     "Materiales de enseñanza del medio ambiente",
-     20,
-     "BASTÓN AJUSTE RÁPIDO Y PRECISO DE SENDERISMO MT500. Mango de goma larga y densa tipo 3D. Asa cómoda. Correa de muñeca suave.Aluminio 7075-T6 / 6061-T6.Diámetros de tubo de 18/16/14 mm.Punta de tungsteno.240 g/bastón.Bloqueador externo y push-pin auto.Ajuste preciso y rápido. De 105 a 130 cm."
-    ],
-    [
-     "60106206",
-     "Materiales de enseñanza del medio ambiente",
-     6,
-     "LINTERNA FRONTAL RECARGABLE - 120 LÚMENES- HL100 USB. Autonomía: 17 h en modo eco. 4 h en modo alto. Batería recargable por micro-USB. Versatilidad: 3 modos de iluminación: rojo, blanco eco y blanco alto. Peso 72 g. DIMENSIONES (L x H x P) 55 x 39 x 31 mm (sin cinta)\""
-    ],
-    [
-     "60106206",
-     "Materiales de enseñanza del medio ambiente",
-     4,
-     "Binocular: Binocular Konus Basic Plus 10x42 para Observación de Naturaleza. Aumento 10x Diámetro del objetivo 42 mm Tipo de prisma Roof (BAK-7) Revestimiento óptico Multitratado Pupila de salida 5.1 mm Material del cuerpo Recubrimiento de goma Sistema de enfoque Central rápido Peso 0.484 kg\""
-    ],
-    [
-     "60106206",
-     "Materiales de enseñanza del medio ambiente",
-     21,
-     "Capa o poncho de agua Unixes. Impermeable. - 100% PVC.- Costuras completamente selladas (impermeable). - Talla única.- Unisex. Con Bordado de Logo."
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1182705-167-COT26",
-   "sin_detalle": false,
-   "descripcion": "se requiere la compra de Equipamiento para TNS en Turismo, se solicita adjuntar ficha tecnica de los productos ofertados, costo de despacho hasta nuestras dependencias."
-  },
   {
    "tipo": "POSIBLE",
    "motivos": [
@@ -213,6 +156,39 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=2713-1188-COT26",
    "sin_detalle": false,
    "descripcion": "ADQUISICION DE MATERIALES DE OFICINA SEGUN DETALLES Y ESPECIFICACIONES ADJUNTAS, LOS MONTOS DE LAS OFERTAS DEBEN INCLUIR TODOS LOS GASTOS NECESARIOS, PARA LA ENTREGA DE LOS MATERIALES DE OFICINA EN LAS DEPENDENCIAS DE GALERIA DE ARTESANOS, EN PUERTO AYSÉN, LAS OFERTAS QUE SOBREPASEN EL MONTO PRESUPUESTARIO DISPONIBLE, NO CUMPLAN CON LAS ESPECIFICACIONES, NO CUMPLAN O NO INDIQUEN EL PLAZO DE ENTREGA NO SERÁN EVALUADAS."
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "iluminación"
+   ],
+   "nueva": true,
+   "codigo": "2713-1178-COT26",
+   "nombre": "DIDECO/Turismo, adquisicion de materiales electricos, solicitud foilio 1196",
+   "organismo": "I MUNICIPALIDAD DE AYSEN",
+   "unidad": "I.MUNICIPALIDAD AYSEN-ADQUISICIONES",
+   "monto": 90000,
+   "cierre_iso": "2026-10-03T22:40:00-03:00",
+   "publicacion": "28-09 17:19",
+   "publicacion_iso": "2026-09-28T17:19:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "39101701",
+     "Tubos fluorescentes",
+     10,
+     "tubos LED tipo T8, potencia de 18 W, longitud aproximada de 1200 mm, tensión de alimentación 220-240 V AC, 50/60 Hz, flujo luminoso mínimo de 1600 lúmenes.Para uso de interior, con encendido instantáneo y sin parpadeo perceptible. Se aceptarán productos de características técnicas equivalentes o superiores"
+    ],
+    [
+     "39101701",
+     "Tubos fluorescentes",
+     2,
+     "focos/proyector LED para iluminación exterior, potencia de 50W, tensión de alimentación 220-240 V AC, flujo luminoso de mínimo 4000 lúmenes, equipado con sensor de movimiento, con ángulo de detección mínimo de 120° y alcance mínimo de 6 metros, deberá contar con grado de protección mínimo IP65, soporte de montaje orientable y ser apto para instalación en exteriores. Se aceptarán productos de características equivalentes o superiores"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=2713-1178-COT26",
+   "sin_detalle": false,
+   "descripcion": "Adquisicion de materiales electricos, los montos de las ofertas deben incluir todos los gastos necesarios, para la entrega de los muebles de los materiales lectricos, en las oficinas de turismo, en puerto aysén, las ofertas que sobrepasen el monto presupuestario disponible, no cumplan con las especificaciones, no cumplan o no indiquen el plazo de entrega no serán evaluadas.el plazo de entrega comienza correr al segundo dia habil desde enviada la orden de compra."
   },
   {
    "tipo": "POSIBLE",

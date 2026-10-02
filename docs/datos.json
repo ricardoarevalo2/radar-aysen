@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-10-02T15:42:09.734549-03:00",
+ "actualizado": "2026-10-02T16:39:18.534638-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
- "total_region": 246,
+ "total_region": 238,
  "rubros": {
   "80141600": "Ventas y marketing",
   "82101600": "Publicidad en medios no impresos",
@@ -46,7 +46,7 @@
    "motivos": [
     "Publicidad en medios no impresos"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "1758-217-COT26",
    "nombre": "GRABACIÓN Y EMISION DE 07 PROGRAMAS RADIALES A TRAVÉS DE RADIOEMISORA DE COBERTURA REGIONAL.",
    "organismo": "SECRETARIA REGIONAL MINISTERIAL DE EDUCACION XI REGION",
