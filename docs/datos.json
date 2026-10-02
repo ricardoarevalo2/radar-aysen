@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-02T17:38:47.536503-03:00",
+ "actualizado": "2026-10-02T18:38:43.807860-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
  "total_region": 232,
@@ -94,6 +94,33 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=1758-217-COT26",
    "sin_detalle": false,
    "descripcion": "GRABACION Y EMISIÓN DE 07 PROGRAMAS RADIALES EN RADIOEMISORA DE COBERTURA REGIONAL, CUENTE CON LOS SIGUIENTE:\n- CADA PROGRAMA DEBE TENER UNA DURACIÓN DE 25 MIN. EFECTIVOS (30 TOTAL).\n- 4 PERSONAS EN ESTUDIO, 2 ENTREVISTADORES Y 2 ENTREVISTADOS.\n- EMISION SEMANAL EN HORARIO ENTRE LAS 18:00 Y 21:00 HRS.\n- INICIO DEL PROGRAMA CON CORTINA MUSICAL DE IDENTIDAD SONORA.\n- DOS CAPSULAS PROMOCIONALES POR SEMANA INVITANDO A ESCUCHAR LOS PROGRAMAS.\n- ENTREGA AL CONTRATANTE DE LA GRABACION DE LOS PROGRAMAS"
+  },
+  {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Ventas y marketing"
+   ],
+   "nueva": true,
+   "codigo": "1195-503-COT26",
+   "nombre": "producción integral para seminario EMPRESARIAS AL FIN DEL MUNDO 2026",
+   "organismo": "I MUNICIPALIDAD DE COYHAIQUE",
+   "unidad": "Ilustre Municipalidad de Coyhaique",
+   "monto": 6900000,
+   "cierre_iso": "2026-10-05T12:00:00-03:00",
+   "publicacion": "02-10 18:01",
+   "publicacion_iso": "2026-10-02T18:01:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "80141607",
+     "Producción de eventos",
+     1,
+     "Seminario 09/10 en Centro Cultural Coyhaique para 70 pers. Requerido: 4 módulos escenario, audio respaldo, fotógrafo, 2 micros, operador técnico, 70 kits merchandising (bolsa, agenda, lápiz). Alimentación: 2 coffee breaks (mañana/tarde) para 70 pers, 25 almuerzos ejecutivos en restaurante local. Sábado 10/10: entrega 08:30 am de 25 box desayuno (sándwich, jugo, fruta, queque) en Magallanes 283. Incluye gestión/pago de 2 noches hotel para expositor (categoría turística superior)"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1195-503-COT26",
+   "sin_detalle": false,
+   "descripcion": "Producción y apoyo logístico para Seminario \"Empresarias al Fin del Mundo\" 2026 en Coyhaique. Incluye montaje de escenario, operador técnico, fotógrafo, catering para 70 personas (2 coffee breaks), almuerzo para 25 personas en restaurante local, box de desayuno para 25 personas, hotel para expositor (2 noches) y 70 kits de merchandising personalizado. Modalidad Compra Ágil con presupuesto máximo de $6.900.000 IVA incl. Criterios: 50% Exp, 20% Cursos/Capacitac, 10% Precio, 10% Sello M, 10% Patent"
   },
   {
    "tipo": "POSIBLE",

@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-02T17:38:47.536503-03:00",
+ "actualizado": "2026-10-02T18:38:43.807860-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
  "total_region": 232,
@@ -19,39 +19,6 @@
   "39121400": "Conectores, enchufes y terminales"
  },
  "filas": [
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "iluminación"
-   ],
-   "nueva": false,
-   "codigo": "1005-16-COT26",
-   "nombre": "SUMINISTRO DE HORMIGON PUESTO EN OBRA",
-   "organismo": "MINISTERIO DE OBRAS PUBLICAS DIREC CION GRAL DE OO PP DCYF",
-   "unidad": "Dirección de Vialidad - XI Región - Provincia Puerto Aysen",
-   "monto": 3046400,
-   "cierre_iso": "2026-10-02T18:00:00-03:00",
-   "publicacion": "01-10 10:54",
-   "publicacion_iso": "2026-10-01T10:54:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "11111611",
-     "Grava",
-     4,
-     "HORMIGON POR DOSIS DE CEMENTO A ENTREGAR EN RUTA 240, SECTOR VILLA LOS TORREONES"
-    ],
-    [
-     "11111611",
-     "Grava",
-     12,
-     "HORMIGON POR DOSIS DE CEMENTO A ENTREGAR EN CAMINO S/R RUTA 240 CRUCE X-550"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1005-16-COT26",
-   "sin_detalle": false,
-   "descripcion": "SUMINISTRO DE HORMIGÓN DOSIFICADO PARA LA CONSTRUCCION DE FUNDACIONES DESTINADAS A LA INSTALACIÓN DE POSTES DE ILUMINACIÓN DE ACUERDO A INFORMACIÓN ADJUNTA"
-  },
   {
    "tipo": "POSIBLE",
    "motivos": [
