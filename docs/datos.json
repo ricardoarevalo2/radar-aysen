@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-10-02T16:39:18.534638-03:00",
+ "actualizado": "2026-10-02T17:38:47.536503-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
- "total_region": 238,
+ "total_region": 232,
  "rubros": {
   "80141600": "Ventas y marketing",
   "82101600": "Publicidad en medios no impresos",
@@ -40,6 +40,33 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=2495-537-COT26",
    "sin_detalle": false,
    "descripcion": "Se requiere servicio producción para encuentro pluricultural de mujeres el cual debe incluir: Instructor/a de baile entretenido, mini bus para traslado de las participantes ida y vuelta, 30 premios en formato de llavero (diseño entrega municipalidad), coffee con punto caliente, galletas, queque, vasos, cafe, te, entre otros, para 30 personas. Se privilegiará proveedor local con disponibilidad inmediata."
+  },
+  {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Fotógrafos y camarógrafos"
+   ],
+   "nueva": true,
+   "codigo": "1195-501-COT26",
+   "nombre": "Servicio de transmisión en vivo (streaming) jornada completa Expo Aniversario Coyhaique 2026",
+   "organismo": "I MUNICIPALIDAD DE COYHAIQUE",
+   "unidad": "Ilustre Municipalidad de Coyhaique",
+   "monto": 4500000,
+   "cierre_iso": "2026-10-04T12:00:00-03:00",
+   "publicacion": "02-10 16:47",
+   "publicacion_iso": "2026-10-02T16:47:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "82131603",
+     "Producción de vídeo",
+     1,
+     "Transmisión streaming de la jornada completa de la Expo Aniversario Coyhaique - ADJUNTO CON ESPECIFICACIONES TÉCNICAS"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1195-501-COT26",
+   "sin_detalle": false,
+   "descripcion": "Contratación de servicio de producción audiovisual y transmisión en vivo vía streaming (Facebook y YouTube) de la jornada completa de la Expo Aniversario Coyhaique 2026, incluyendo show principal, backstage y móvil con emprendedores.Se priorizará proveedor local, precio y equipos según especificaciones técnicas."
   },
   {
    "tipo": "OPORTUNIDAD",
@@ -333,12 +360,6 @@
   }
  ],
  "pendientes": [
-  {
-   "codigo": "3950-629-COT26",
-   "nombre": "Artículos Prog. Salud Mental CLJ ",
-   "organismo": "DIRECCION SALUD RURAL",
-   "link": "https://buscador.mercadopublico.cl/ficha?code=3950-629-COT26"
-  },
   {
    "codigo": "2495-535-COT26",
    "nombre": "MATERIALES DE OFICINA CENTRO DE LAS MUJERES",

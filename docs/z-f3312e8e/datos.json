@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-10-02T16:39:18.534638-03:00",
+ "actualizado": "2026-10-02T17:38:47.536503-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
- "total_region": 238,
+ "total_region": 232,
  "rubros": {
   "25172700": "Aire acondicionado",
   "25173900": "Componentes eléctricos",
@@ -438,12 +438,6 @@
   }
  ],
  "pendientes": [
-  {
-   "codigo": "3950-629-COT26",
-   "nombre": "Artículos Prog. Salud Mental CLJ ",
-   "organismo": "DIRECCION SALUD RURAL",
-   "link": "https://buscador.mercadopublico.cl/ficha?code=3950-629-COT26"
-  },
   {
    "codigo": "2495-535-COT26",
    "nombre": "MATERIALES DE OFICINA CENTRO DE LAS MUJERES",
