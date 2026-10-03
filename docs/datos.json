@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-10-03T11:45:45.206222-03:00",
+ "actualizado": "2026-10-03T16:45:12.792056-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
- "total_region": 217,
+ "total_region": 194,
  "rubros": {
   "80141600": "Ventas y marketing",
   "82101600": "Publicidad en medios no impresos",
@@ -14,33 +14,6 @@
   "83121700": "Comunicación social y de masas"
  },
  "filas": [
-  {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Ventas y marketing"
-   ],
-   "nueva": false,
-   "codigo": "2495-537-COT26",
-   "nombre": "Servicio producción Encuentro de mujeres pluricultural",
-   "organismo": "I MUNICIPALIDAD DE COYHAIQUE",
-   "unidad": "DIRECCION DESARROLLO COMUNITARIO",
-   "monto": 800000,
-   "cierre_iso": "2026-10-03T16:00:00-03:00",
-   "publicacion": "02-10 10:59",
-   "publicacion_iso": "2026-10-02T10:59:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "80141607",
-     "Producción de eventos",
-     1,
-     "Se requiere servicio producción para encuentro pluricultural de mujeres el cual debe incluir: Instructor/a de baile entretenido, mini bus para traslado de las participantes ida y vuelta, 30 premios en formato de llavero (diseño entrega municipalidad), coffee con punto caliente, galletas, queque, vasos, cafe, te, entre otros, para 30 personas. Se privilegiará proveedor local con disponibilidad inmediata."
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=2495-537-COT26",
-   "sin_detalle": false,
-   "descripcion": "Se requiere servicio producción para encuentro pluricultural de mujeres el cual debe incluir: Instructor/a de baile entretenido, mini bus para traslado de las participantes ida y vuelta, 30 premios en formato de llavero (diseño entrega municipalidad), coffee con punto caliente, galletas, queque, vasos, cafe, te, entre otros, para 30 personas. Se privilegiará proveedor local con disponibilidad inmediata."
-  },
   {
    "tipo": "OPORTUNIDAD",
    "motivos": [
@@ -127,7 +100,7 @@
    "motivos": [
     "televisión"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "1057062-439-COT26",
    "nombre": "Adquisición Rack Soporte TV con Ruedas, URY 2457, FCA 63 (FISABS 2102)",
    "organismo": "UNIVERSIDAD DE AYSEN",
@@ -363,7 +336,7 @@
    "motivos": [
     "Ventas y marketing"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "4733-375-COT26",
    "nombre": " EVENTO INTERGENERACIONAL MATEANDO LA HISTORIA LOCAL",
    "organismo": "I MUNICIPALIDAD DE LAS GUAITECAS",

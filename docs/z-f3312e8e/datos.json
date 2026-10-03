@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-10-03T11:45:45.206222-03:00",
+ "actualizado": "2026-10-03T16:45:12.792056-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
- "total_region": 217,
+ "total_region": 194,
  "rubros": {
   "25172700": "Aire acondicionado",
   "25173900": "Componentes eléctricos",
@@ -24,7 +24,7 @@
    "motivos": [
     "iluminación"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "2713-1178-COT26",
    "nombre": "DIDECO/Turismo, adquisicion de materiales electricos, solicitud foilio 1196",
    "organismo": "I MUNICIPALIDAD DE AYSEN",
@@ -57,7 +57,7 @@
    "motivos": [
     "instalación eléctrica"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "1343645-112-COT26",
    "nombre": "Instalación Estufas a Pellet  ",
    "organismo": "I MUNICIPALIDAD DE O HIGGINS",
@@ -84,7 +84,7 @@
    "motivos": [
     "eléctrico"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "551423-40-COT26",
    "nombre": "TERMO ELÉCTRICO Y ACCESORIOS (Orasmi DPR AYSÉN)",
    "organismo": "DELEGACIÓN PRESIDENCIAL REGIONAL DE AYSÉN DEL GENERAL CARLOS IBÁÑEZ DE",
