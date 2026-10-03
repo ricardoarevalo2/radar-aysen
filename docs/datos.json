@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-10-03T07:48:57.457191-03:00",
+ "actualizado": "2026-10-03T11:45:45.206222-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
- "total_region": 235,
+ "total_region": 217,
  "rubros": {
   "80141600": "Ventas y marketing",
   "82101600": "Publicidad en medios no impresos",
@@ -19,7 +19,7 @@
    "motivos": [
     "Ventas y marketing"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "2495-537-COT26",
    "nombre": "Servicio producción Encuentro de mujeres pluricultural",
    "organismo": "I MUNICIPALIDAD DE COYHAIQUE",
@@ -182,7 +182,7 @@
    "motivos": [
     "difusión"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "1233615-744-COT26",
    "nombre": "RMG-INT00259-SLEP Aysén, publicación consejeros electos CLEP, diario de difusión regional",
    "organismo": "Servicio Local de Educación Pública Aysén",
@@ -209,7 +209,7 @@
    "motivos": [
     "difusión"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "1233615-743-COT26",
    "nombre": "RMG-INT00258-SLEP Aysén, publicación de candidaturas CLEP, diario digital de difusión regional",
    "organismo": "Servicio Local de Educación Pública Aysén",
@@ -330,7 +330,7 @@
    "motivos": [
     "Ventas y marketing"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "1746-232-COT26",
    "nombre": "DISEÑO E IMPRESIÓN DE CREDENCIALES Y PIN (P 476 DAS)",
    "organismo": "SUBSECRETARIA DE SALUD PUBLICA",
