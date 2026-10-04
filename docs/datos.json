@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-10-03T23:42:33.051043-03:00",
+ "actualizado": "2026-10-04T12:58:44.590470-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
- "total_region": 187,
+ "total_region": 184,
  "rubros": {
   "80141600": "Ventas y marketing",
   "82101600": "Publicidad en medios no impresos",
@@ -14,33 +14,6 @@
   "83121700": "Comunicación social y de masas"
  },
  "filas": [
-  {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Fotógrafos y camarógrafos"
-   ],
-   "nueva": false,
-   "codigo": "1195-501-COT26",
-   "nombre": "Servicio de transmisión en vivo (streaming) jornada completa Expo Aniversario Coyhaique 2026",
-   "organismo": "I MUNICIPALIDAD DE COYHAIQUE",
-   "unidad": "Ilustre Municipalidad de Coyhaique",
-   "monto": 4500000,
-   "cierre_iso": "2026-10-04T12:00:00-03:00",
-   "publicacion": "02-10 16:47",
-   "publicacion_iso": "2026-10-02T16:47:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "82131603",
-     "Producción de vídeo",
-     1,
-     "Transmisión streaming de la jornada completa de la Expo Aniversario Coyhaique - ADJUNTO CON ESPECIFICACIONES TÉCNICAS"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1195-501-COT26",
-   "sin_detalle": false,
-   "descripcion": "Contratación de servicio de producción audiovisual y transmisión en vivo vía streaming (Facebook y YouTube) de la jornada completa de la Expo Aniversario Coyhaique 2026, incluyendo show principal, backstage y móvil con emprendedores.Se priorizará proveedor local, precio y equipos según especificaciones técnicas."
-  },
   {
    "tipo": "OPORTUNIDAD",
    "motivos": [
