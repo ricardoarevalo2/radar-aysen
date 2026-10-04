@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-04T18:00:14.947038-03:00",
+ "actualizado": "2026-10-04T18:46:25.343332-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
  "total_region": 182,
@@ -288,6 +288,33 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=2713-1188-COT26",
    "sin_detalle": false,
    "descripcion": "ADQUISICION DE MATERIALES DE OFICINA SEGUN DETALLES Y ESPECIFICACIONES ADJUNTAS, LOS MONTOS DE LAS OFERTAS DEBEN INCLUIR TODOS LOS GASTOS NECESARIOS, PARA LA ENTREGA DE LOS MATERIALES DE OFICINA EN LAS DEPENDENCIAS DE GALERIA DE ARTESANOS, EN PUERTO AYSÉN, LAS OFERTAS QUE SOBREPASEN EL MONTO PRESUPUESTARIO DISPONIBLE, NO CUMPLAN CON LAS ESPECIFICACIONES, NO CUMPLAN O NO INDIQUEN EL PLAZO DE ENTREGA NO SERÁN EVALUADAS."
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "generador"
+   ],
+   "nueva": true,
+   "codigo": "1057062-445-COT26",
+   "nombre": "Adquisición de generador eólico 400W 48 V según Fisabs 2020_URY 21991",
+   "organismo": "UNIVERSIDAD DE AYSEN",
+   "unidad": "Proyectos",
+   "monto": 2150000,
+   "cierre_iso": "2026-10-07T09:30:00-03:00",
+   "publicacion": "04-10 18:14",
+   "publicacion_iso": "2026-10-04T18:14:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "26111603",
+     "Aerogeneradores",
+     5,
+     "Se requiere la adquisición de 5 Generadores eólicos 400W 48 V. Cotizaciones deben especificar el cumplimiento de todo lo solicitado en los requerimientos técnicos adjuntos. Deben considerar plazos de entrega en Coyhaique y no la empresa de transporte."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1057062-445-COT26",
+   "sin_detalle": false,
+   "descripcion": "Se requiere adquirir un generador eólico 400W 48 V según detalle adjunto. Cotización debe indicar especificaciones técnicas de lo ofertado. Debe indicar plazo de entrega ofertado, considerando entrega en Eusebio Lillo 667, Coyhaique. Valor cotizado debe incluir flete e impuestos. Se podrá privilegiar el menor plazo de entrega ofertado, siempre que cumpla con todas las especificaciones requeridas. Compra sujeta a posibles multas o sanciones por incumplimiento."
   },
   {
    "tipo": "OPORTUNIDAD",
