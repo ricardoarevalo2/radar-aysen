@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-10-04T12:58:44.590470-03:00",
+ "actualizado": "2026-10-04T18:00:14.947038-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
- "total_region": 184,
+ "total_region": 182,
  "rubros": {
   "25172700": "Aire acondicionado",
   "25173900": "Componentes eléctricos",
@@ -371,12 +371,5 @@
    "descripcion": "ADQUISICION DE SERVICIO DE MANTENIMIENTO Y REPARACION DE AIRES ACONDICIONADOS"
   }
  ],
- "pendientes": [
-  {
-   "codigo": "2495-535-COT26",
-   "nombre": "MATERIALES DE OFICINA CENTRO DE LAS MUJERES",
-   "organismo": "I MUNICIPALIDAD DE COYHAIQUE",
-   "link": "https://buscador.mercadopublico.cl/ficha?code=2495-535-COT26"
-  }
- ]
+ "pendientes": []
 }

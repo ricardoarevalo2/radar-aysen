@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-10-04T12:58:44.590470-03:00",
+ "actualizado": "2026-10-04T18:00:14.947038-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
- "total_region": 184,
+ "total_region": 182,
  "rubros": {
   "80141600": "Ventas y marketing",
   "82101600": "Publicidad en medios no impresos",
@@ -305,6 +305,63 @@
    "descripcion": "Solicitado mediante Pedido de Materiales N° 476 del Departamento de Acción Sanitaria"
   },
   {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "publicitaria"
+   ],
+   "nueva": true,
+   "codigo": "886182-215-COT26",
+   "nombre": "Adquisición de escudo y empavonados para rectoría según Fisabs N°2203",
+   "organismo": "UNIVERSIDAD DE AYSEN",
+   "unidad": "Universidad de Aysen",
+   "monto": 3147975,
+   "cierre_iso": "2026-10-06T16:30:00-03:00",
+   "publicacion": "04-10 13:44",
+   "publicacion_iso": "2026-10-04T13:44:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "82121505",
+     "Impresión promocional o publicitaria",
+     1,
+     "SE SOLICITA COMPRA DE ESCUDO ESCALERA EDIFICIO CAMPUS PATAGONIA - Escudo Escalera : 73 Cm. de ancho x 86.5 cm. de largo aprox., soporte acrílico transparente de 5 mm según las medidas, con 4 distanciadores topes metálicos y adhesivo full color, con instalación, se adjunta diseño."
+    ],
+    [
+     "31201611",
+     "Adhesivos de láminas",
+     5,
+     "Se solicita compra de los siguientes empavonados Oficina Rectoría: - 1 Puerta: 0.80 mts de ancho x 0.53 mts de largo aprox. - 3 Ventanas: 0.80 mts de ancho x 1.75 mts de largo aprox - 1 Lateral: 0.80 mts de ancho x 1.24 mts de largo aprox.\nEmpavonado troquelado, contorno recortado. DEBE INCLUIR INSTALACIÓN EN CAMPUS PATAGONIA."
+    ],
+    [
+     "31201611",
+     "Adhesivos de láminas",
+     4,
+     "Se solicita compra de los siguientes empavonados Entrada Principal Campus Patagonia: - 2 Ventanas: 0.80 mts de ancho x 0.92 mts largo aprox - 2 Puertas: 0.80 mts de ancho x 0.60 mts de largo aprox. Empavonado troquelado, contorno recortado. DEBE INCLUIR INSTALACIÓN EN CAMPUS PATAGONIA."
+    ],
+    [
+     "31201611",
+     "Adhesivos de láminas",
+     2,
+     "Se solicita compra de los siguientes empavonados Prorrectoría: - 1 Puerta: 0.63 mts de ancho aprox x 0.70 mts de largo aprox - 1 Ventana: 0.80 mts de ancho aprox x 1.47 mts largo aprox. Empavonado troquelado, contorno recortado. DEBE INCLUIR INSTALACIÓN EN CAMPUS PATAGONIA."
+    ],
+    [
+     "31201611",
+     "Adhesivos de láminas",
+     1,
+     "Se solicita compra de los siguientes empavonados Entrada Gabinete: - 1 Puerta 0.80 mts de ancho x 0.71 mts de largo aprox. empavonado troquelado, contorno recortado. DEBE INCLUIR INSTALACIÓN EN CAMPUS PATAGONIA."
+    ],
+    [
+     "31201611",
+     "Adhesivos de láminas",
+     1,
+     "Se solicita compra de los siguientes empavonados Puerta Oficina de Reuniones Rectoría: - 1 Puerta 0.80 mts de alto x 0.64 de ancho aprox. empavonado troquelado, contorno recortado. DEBE INCLUIR INSTALACIÓN EN CAMPUS PATAGONIA."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=886182-215-COT26",
+   "sin_detalle": false,
+   "descripcion": "Se requiere la adquisición de escudo y empavonados para rectoría según la descripción indicada. Cotización debe indicar especificaciones técnicas de lo ofertado. Debe indicar plazo de entrega ofertado, considerando entrega en Km. 4 Camino Coyhaique Alto, Coyhaique. Valor cotizado debe incluir flete e impuestos. Se podrá privilegiar el menor plazo de entrega ofertado, siempre que cumpla con todas las especificaciones requeridas. Compra sujeta a posibles multas o sanciones por incumplimiento."
+  },
+  {
    "tipo": "OPORTUNIDAD",
    "motivos": [
     "Ventas y marketing"
@@ -332,12 +389,5 @@
    "descripcion": "Se requiere contratar el servicio de producción artística para el evento Intergeneracional Mateando la Historia Local según especificaciones técnicas adjuntas, adjuntar cotización.-"
   }
  ],
- "pendientes": [
-  {
-   "codigo": "2495-535-COT26",
-   "nombre": "MATERIALES DE OFICINA CENTRO DE LAS MUJERES",
-   "organismo": "I MUNICIPALIDAD DE COYHAIQUE",
-   "link": "https://buscador.mercadopublico.cl/ficha?code=2495-535-COT26"
-  }
- ]
+ "pendientes": []
 }
