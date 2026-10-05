@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-10-05T07:40:48.845618-03:00",
+ "actualizado": "2026-10-05T08:41:51.325931-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
- "total_region": 179,
+ "total_region": 168,
  "rubros": {
   "25172700": "Aire acondicionado",
   "25173900": "Componentes eléctricos",
@@ -19,33 +19,6 @@
   "39121400": "Conectores, enchufes y terminales"
  },
  "filas": [
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "instalación eléctrica"
-   ],
-   "nueva": false,
-   "codigo": "1343645-112-COT26",
-   "nombre": "Instalación Estufas a Pellet  ",
-   "organismo": "I MUNICIPALIDAD DE O HIGGINS",
-   "unidad": "SECPLAN",
-   "monto": 1500000,
-   "cierre_iso": "2026-10-05T08:30:00-03:00",
-   "publicacion": "02-10 14:09",
-   "publicacion_iso": "2026-10-02T14:09:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "80111613",
-     "Mano de obra temporal",
-     1,
-     "La Ilustre Municipalidad de O´Higgins, ubicada en la Región de Aysén, requiere Cotizar la \ninstalación de 7 estufas a Pellet en diversos edificios municipales. En los cuales se requiere \ninstalación eléctrica para su conexión como se indica en detalle de los trabajos (Punto N°7) y la \nprovisión de escantillón para todas las combustiones a pellet.  \nEl proveedor deberá acreditar experiencia en el rubro de la instalación de estos artefactos para \npoder cotizar. según requerimiento adjunto"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1343645-112-COT26",
-   "sin_detalle": false,
-   "descripcion": "La Ilustre Municipalidad de O´Higgins, ubicada en la Región de Aysén, requiere Cotizar la \ninstalación de 7 estufas a Pellet en diversos edificios municipales. En los cuales se requiere \ninstalación eléctrica para su conexión como se indica en detalle de los trabajos (Punto N°7) y la \nprovisión de escantillón para todas las combustiones a pellet."
-  },
   {
    "tipo": "POSIBLE",
    "motivos": [
