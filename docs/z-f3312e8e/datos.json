@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-10-05T14:39:39.109742-03:00",
+ "actualizado": "2026-10-05T15:45:34.307367-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
- "total_region": 186,
+ "total_region": 197,
  "rubros": {
   "25172700": "Aire acondicionado",
   "25173900": "Componentes eléctricos",
@@ -585,6 +585,33 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=3325-29-COT26",
    "sin_detalle": false,
    "descripcion": "ADQUISICION DE SERVICIO DE MANTENIMIENTO Y REPARACION DE AIRES ACONDICIONADOS"
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "instalaciones eléctricas"
+   ],
+   "nueva": true,
+   "codigo": "5039-37-COT26",
+   "nombre": "CONSTRUCCIÓN MONOLITO DE IDENTIFICACIÓN HUMEDAL URBANO VIENTOS DEL CHELENKO, PUERTO INGENIERO IBÁÑEZ",
+   "organismo": "I MUNICIPALIDAD RIO IBANEZ",
+   "unidad": "SECPLAN",
+   "monto": 1500000,
+   "cierre_iso": "2026-10-09T15:00:00-03:00",
+   "publicacion": "05-10 15:20",
+   "publicacion_iso": "2026-10-05T15:20:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "72131702",
+     "Construcción de obras civiles",
+     1,
+     "Ejecución de las obras civiles, de carpintería, estructuras metálicas e instalaciones eléctricas necesarias para la construcción e instalación del Monolito Informativo del Humedal Urbano Vientos del Chelenko, ubicado en la costanera de Puerto Ingeniero Ibáñez, considerando su instalación sobre una base de hormigón preexistente, la cual será reutilizada para estos efectos."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=5039-37-COT26",
+   "sin_detalle": false,
+   "descripcion": "Contratar, bajo la modalidad de Suma Alzada, la ejecución de las obras civiles, de carpintería, estructuras metálicas e instalaciones eléctricas necesarias para la construcción e instalación del Monolito Informativo del Humedal Urbano Vientos del Chelenko, ubicado en la costanera de Puerto Ingeniero Ibáñez, considerando su instalación sobre una base de hormigón preexistente, la cual será reutilizada para estos efectos."
   }
  ],
  "pendientes": []
