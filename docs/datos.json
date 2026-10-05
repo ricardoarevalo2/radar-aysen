@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-10-05T12:41:57.909549-03:00",
+ "actualizado": "2026-10-05T13:42:04.470862-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
- "total_region": 180,
+ "total_region": 184,
  "rubros": {
   "80141600": "Ventas y marketing",
   "82101600": "Publicidad en medios no impresos",
@@ -338,6 +338,33 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=1428275-37-COT26",
    "sin_detalle": false,
    "descripcion": "Cintas para Brother TZeS261 Negro sobre blanco de 36mm para la Dirección Regional de Aysén - Incluir flete y fotografía."
+  },
+  {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Ventas y marketing"
+   ],
+   "nueva": true,
+   "codigo": "1746-234-COT26",
+   "nombre": "APOYO A EJECUCIÓN JORNADA NACIONAL 30 AÑOS DE HANTAVIRUS EN CHILE",
+   "organismo": "SUBSECRETARIA DE SALUD PUBLICA",
+   "unidad": "Seremi de Salud XI Región",
+   "monto": 800000,
+   "cierre_iso": "2026-10-07T10:00:00-03:00",
+   "publicacion": "05-10 12:48",
+   "publicacion_iso": "2026-10-05T12:48:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "80141607",
+     "Producción de eventos",
+     1,
+     "APOYO A EJECUCIÓN JORNADA NACIONAL 30 AÑOS DE HANTAVIRUS EN CHILE\nCUMPLIR CON LA TOTALIDAD DE LAS ESPECIFICACIONES TÉCNIAS MENCIONADAS EN DOCUMENTO ADJUNTO PM N° 480 DSP\nADJUNTAR PROPUESTA"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1746-234-COT26",
+   "sin_detalle": false,
+   "descripcion": "APOYO A EJECUCIÓN JORNADA NACIONAL 30 AÑOS DE HANTAVIRUS EN CHILE\nCUMPLIR CON LA TOTALIDAD DE LAS ESPECIFICACIONES TÉCNIAS MENCIONADAS EN DOCUMENTO ADJUNTO PM N° 480 DSP\nADJUNTAR PROPUESTA"
   },
   {
    "tipo": "POSIBLE",
