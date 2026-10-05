@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-10-05T09:47:17.850963-03:00",
+ "actualizado": "2026-10-05T10:43:17.930178-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
- "total_region": 158,
+ "total_region": 160,
  "rubros": {
   "80141600": "Ventas y marketing",
   "82101600": "Publicidad en medios no impresos",
@@ -14,33 +14,6 @@
   "83121700": "Comunicación social y de masas"
  },
  "filas": [
-  {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Publicidad en medios no impresos"
-   ],
-   "nueva": false,
-   "codigo": "1758-217-COT26",
-   "nombre": "GRABACIÓN Y EMISION DE 07 PROGRAMAS RADIALES A TRAVÉS DE RADIOEMISORA DE COBERTURA REGIONAL.",
-   "organismo": "SECRETARIA REGIONAL MINISTERIAL DE EDUCACION XI REGION",
-   "unidad": "Mineduc Administración XI Región",
-   "monto": 1650000,
-   "cierre_iso": "2026-10-05T10:00:00-03:00",
-   "publicacion": "01-10 15:29",
-   "publicacion_iso": "2026-10-01T15:29:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "82101601",
-     "Publicidad en radio",
-     1,
-     "GRABACION Y EMISIÓN DE 07 PROGRAMAS RADIALES QUE CUENTE CON LOS SIGUIENTE:\n- CADA PROGRAMA DEBE TENER UNA DURACIÓN DE 25 MIN. EFECTIVOS (30 EN TOTAL).\n- 4 PERSONAS EN ESTUDIO, 2 ENTREVISTADORES Y 2 ENTREVISTADOS.\n- EMISION SEMANAL EN HORARIO ENTRE LAS 18:00 Y 21:00 HRS.\n- INICIO DEL PROGRAMA CON CORTINA MUSICAL DE IDENTIDAD SONORA.\n- DOS CAPSULAS PROMOCIONALES POR SEMANA INVITANDO A ESCUCHAR EL PROGRAMA.\n- ENTREGA AL CONTRATANTE DE LA GRABACION DE LOS PROGRAMAS EN FORMATO AUDIO Y VIDEO."
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1758-217-COT26",
-   "sin_detalle": false,
-   "descripcion": "GRABACION Y EMISIÓN DE 07 PROGRAMAS RADIALES EN RADIOEMISORA DE COBERTURA REGIONAL, CUENTE CON LOS SIGUIENTE:\n- CADA PROGRAMA DEBE TENER UNA DURACIÓN DE 25 MIN. EFECTIVOS (30 TOTAL).\n- 4 PERSONAS EN ESTUDIO, 2 ENTREVISTADORES Y 2 ENTREVISTADOS.\n- EMISION SEMANAL EN HORARIO ENTRE LAS 18:00 Y 21:00 HRS.\n- INICIO DEL PROGRAMA CON CORTINA MUSICAL DE IDENTIDAD SONORA.\n- DOS CAPSULAS PROMOCIONALES POR SEMANA INVITANDO A ESCUCHAR LOS PROGRAMAS.\n- ENTREGA AL CONTRATANTE DE LA GRABACION DE LOS PROGRAMAS"
-  },
   {
    "tipo": "OPORTUNIDAD",
    "motivos": [
@@ -274,6 +247,66 @@
   {
    "tipo": "OPORTUNIDAD",
    "motivos": [
+    "Publicidad en medios no impresos"
+   ],
+   "nueva": true,
+   "codigo": "4609-271-COT26",
+   "nombre": "CAPSULAS RADIALES",
+   "organismo": "I MUNICIPALIDAD DE CHILE CHICO",
+   "unidad": "Finanzas",
+   "monto": 600000,
+   "cierre_iso": "2026-10-06T10:45:00-03:00",
+   "publicacion": "05-10 10:36",
+   "publicacion_iso": "2026-10-05T10:36:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "82101601",
+     "Publicidad en radio",
+     1,
+     "SERVICIO DE GRABACION Y DIFUSION DE 10 CAPSULAS RADIALES, CON EL FIN DE INFORMAR SOBRE LA REALIZACION DEL PROYECTO. LAS CAPSULAS DEBEN COMENZAR A DIFUNDIRSE DESDE EL 19.10.2026 AL 30.11.2026."
+    ],
+    [
+     "82101601",
+     "Publicidad en radio",
+     1,
+     "ENTREVISTA RADIAL EN ESTUDIO A LA DIRECTORA DIDECO JUNTO A LA ENCARGADA DEL DPTO. SOCIAL, CON LA FINALIDAD DE DIFUNDIR LA INICIATIVA, MIERCOLES 04.11.2026."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=4609-271-COT26",
+   "sin_detalle": false,
+   "descripcion": "COTIZACION SERVICIO GRABACION Y DIFUSION CAPSULAS RADIALES"
+  },
+  {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Publicidad en medios no impresos"
+   ],
+   "nueva": true,
+   "codigo": "1282238-66-COT26",
+   "nombre": "TRANSMISIÓN EN VIVO DE 3 DÍAS Y PUBLICIDAD EN RR.SS",
+   "organismo": "CORPORACION CULTURAL MUNICIPAL DE COYHAIQUE",
+   "unidad": "CORPORACION CULTURAL MUNICIPAL DE COYHAIQUE",
+   "monto": 1500000,
+   "cierre_iso": "2026-10-06T11:00:00-03:00",
+   "publicacion": "05-10 10:36",
+   "publicacion_iso": "2026-10-05T10:36:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "82101603",
+     "Publicidad en Internet",
+     1,
+     "TRANSMISIÓN EN VIVO DE 3 DÍAS JORNADA PM Y PUBLICIDAD EN RR.SS"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1282238-66-COT26",
+   "sin_detalle": false,
+   "descripcion": "SE NECESITA LA TRANSMISIÓN EN VIVO DE EVENTO EN PLATAFORMAS DIGITALES (INSTRAGRAM Y FACEBOK) Y ENTREVISTAS + REELS PARA PUBLICAR EN REDES.\n*PARA LA EVALUACIÓN, SE NECESITA QUE EL MEDIO TENGA ALCANCE REGIONAL, SOBRE 50.000 SEGUIDORES Y ADEMÁS QUE CUENTE CON EL EQUIPAMIENTO COMPLETO PARA LA REALIZACIÓN DEL SERVICIO, ADEMÁS EL MEDIO DEBE SER DE COYHAIQUE. JUNTO A ESTOS CRITERIOS SE EVALUARÁ EL PRECIO Y LA PRESENCIA DEL MEDIO (ADJUNTAR IMAGENES SI HA REALIZADO DESPACHOS A MEDIOS FUERA DE LA REGIÓN)."
+  },
+  {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
     "Ventas y marketing"
    ],
    "nueva": false,
@@ -360,6 +393,33 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=886182-215-COT26",
    "sin_detalle": false,
    "descripcion": "Se requiere la adquisición de escudo y empavonados para rectoría según la descripción indicada. Cotización debe indicar especificaciones técnicas de lo ofertado. Debe indicar plazo de entrega ofertado, considerando entrega en Km. 4 Camino Coyhaique Alto, Coyhaique. Valor cotizado debe incluir flete e impuestos. Se podrá privilegiar el menor plazo de entrega ofertado, siempre que cumpla con todas las especificaciones requeridas. Compra sujeta a posibles multas o sanciones por incumplimiento."
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "radial"
+   ],
+   "nueva": true,
+   "codigo": "734-167-COT26",
+   "nombre": "Adquisición de 20 neumáticos Mixto AT medidas 245-75r16, 10 telas",
+   "organismo": "SERVICIO DE SALUD AYSEN CARLOS IBANEZ DEL CAMPO",
+   "unidad": "DIRECCION",
+   "monto": 3180000,
+   "cierre_iso": "2026-10-07T16:00:00-03:00",
+   "publicacion": "05-10 09:58",
+   "publicacion_iso": "2026-10-05T09:58:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "25172504",
+     "Neumáticos para camionetas o automóviles",
+     20,
+     "Cantidad: 20 unidades\n- Medida: 245/75 R16\n- Tipo: AT (All Terrain)\n- Estructura: Radial\n- Capas: 10 telas (10PR) mínimo\n- Uso: Mixto carretera / off-road\n\nConsiderar:\n\n- Montaje de neumáticos\n- Balanceo"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=734-167-COT26",
+   "sin_detalle": false,
+   "descripcion": "Adquisición de 20 neumáticos Mixto AT medidas 245-75r16, 10 telas"
   },
   {
    "tipo": "OPORTUNIDAD",
