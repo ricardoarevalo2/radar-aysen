@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-10-05T08:41:51.325931-03:00",
+ "actualizado": "2026-10-05T09:47:17.850963-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
- "total_region": 168,
+ "total_region": 158,
  "rubros": {
   "25172700": "Aire acondicionado",
   "25173900": "Componentes eléctricos",
@@ -261,6 +261,78 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=2713-1188-COT26",
    "sin_detalle": false,
    "descripcion": "ADQUISICION DE MATERIALES DE OFICINA SEGUN DETALLES Y ESPECIFICACIONES ADJUNTAS, LOS MONTOS DE LAS OFERTAS DEBEN INCLUIR TODOS LOS GASTOS NECESARIOS, PARA LA ENTREGA DE LOS MATERIALES DE OFICINA EN LAS DEPENDENCIAS DE GALERIA DE ARTESANOS, EN PUERTO AYSÉN, LAS OFERTAS QUE SOBREPASEN EL MONTO PRESUPUESTARIO DISPONIBLE, NO CUMPLAN CON LAS ESPECIFICACIONES, NO CUMPLAN O NO INDIQUEN EL PLAZO DE ENTREGA NO SERÁN EVALUADAS."
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "iluminación"
+   ],
+   "nueva": true,
+   "codigo": "1079689-470-COT26",
+   "nombre": "ADQUISICIÓN DE REPUESTOS PARA MÁQUINA DESMALEZADORA MARCA STHILL 2 TIEMPO 1.8 HP 308 CC. DE LA HOSPEDERÍA DE LA 4TA. COMISARÍA COCHRANE (F).",
+   "organismo": "SECCIÓN COMPRAS XI ZONA",
+   "unidad": "SEC DE COMP ZONA AYSÉN DEL GRAL CARL IBAÑ DEL CAMP",
+   "monto": 71300,
+   "cierre_iso": "2026-10-06T10:22:00-03:00",
+   "publicacion": "01-10 14:30",
+   "publicacion_iso": "2026-10-01T14:30:00-03:00",
+   "ofertas": 1,
+   "productos": [
+    [
+     "39111504",
+     "Sistemas de iluminación de escenario o estudio",
+     1,
+     "CARGADOR MULTIVOLTAJE MULTIBATERÍA M-12 - M18 EQUIVALENTE O SUPERIOR EN CALIDAD A MARCA MILWAUKEE 48-1959"
+    ],
+    [
+     "39111504",
+     "Sistemas de iluminación de escenario o estudio",
+     2,
+     "BATERÍA M18 HIGH OUTPUT XC 6.0 EQUIVALENTE O SUPERIOR EN CALIDAD A MARCA MILWAUKEE 48-11-1865"
+    ],
+    [
+     "39111504",
+     "Sistemas de iluminación de escenario o estudio",
+     1,
+     "BOLSA DE TRANSPORTE DE LUZ DE TORRE ROCKET EQUIVALENTE O SUPERIOR EN CALIDAD A MARCA MILWAUKEE 42-55-2137"
+    ],
+    [
+     "39111504",
+     "Sistemas de iluminación de escenario o estudio",
+     1,
+     "TORRE DE ILUMINACIÓN LED INALÁMBRICA M18 ROCKET 6000 LÚMENES EQUIVALENTE O SUPERIOR EN CALIDAD A MARCA MILWAUKEE 2136-20"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1079689-470-COT26",
+   "sin_detalle": false,
+   "descripcion": "ADQUISICIÓN DE REPUESTOS PARA MÁQUINA DESMALEZADORA MARCA STHILL 2 TIEMPO 1.8 HP 308 CC. DE LA HOSPEDERÍA DE LA 4TA. COMISARÍA COCHRANE (F). CON DESPACHO A DOMICILIO EN LA CIUDAD DE COCHRANE. INDICAR PLAZO DE ENTREGA Y ADJUNTAR COTIZACIÓN. DE NO INDICAR PLAZO DE ENTREGA NI ADJUNTAR COTIZACIÓN, NO SERÁ EVALUADO."
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "eléctrico"
+   ],
+   "nueva": true,
+   "codigo": "5038-62-COT26",
+   "nombre": "Serivicio de normalizacion electrica Bandejon Central Puerto Rio Tranquilo",
+   "organismo": "I MUNICIPALIDAD RIO IBANEZ",
+   "unidad": "Administración Municipal",
+   "monto": 1700000,
+   "cierre_iso": "2026-10-06T11:00:00-03:00",
+   "publicacion": "05-10 09:41",
+   "publicacion_iso": "2026-10-05T09:41:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "26112105",
+     "Sistemas de frenado eléctrico",
+     1,
+     "Serivicio de normalizacion electrica Bandejon Central Puerto Rio Tranquilo segun tdr"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=5038-62-COT26",
+   "sin_detalle": false,
+   "descripcion": "Se requiere Contratar el servicio de normalizacion electrica para el bandejon central de puerto rio tranquilo, segun terminos de referencia adjuntos, se evaluara oferta economica y oferta tecnica"
   },
   {
    "tipo": "POSIBLE",
