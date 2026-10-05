@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-10-05T18:39:48.161650-03:00",
+ "actualizado": "2026-10-05T19:36:57.513230-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
- "total_region": 218,
+ "total_region": 219,
  "rubros": {
   "25172700": "Aire acondicionado",
   "25173900": "Componentes eléctricos",
@@ -471,7 +471,7 @@
    "motivos": [
     "generador"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "1057062-445-COT26",
    "nombre": "Adquisición de generador eólico 400W 48 V según Fisabs 2020_URY 21991",
    "organismo": "UNIVERSIDAD DE AYSEN",
@@ -740,12 +740,5 @@
    "descripcion": "La Fiscalía Regional de Aysén requiere contratar el servicio de mantención de 74 equipos de aire acondicionados en la región de Aysén. El detalle de los servicios y dirección de estos se encuentra en documento adjunto “CONDICIONES MÍNIMAS.pdf”. Se deberán adjuntar todos los certificados requeridos."
   }
  ],
- "pendientes": [
-  {
-   "codigo": "1274667-383-COT26",
-   "nombre": "RVB - ARTICULOS DE ESCRITORIO // CECOSF RIBERA SUR",
-   "organismo": "CENTRO DE SALUD FAMILIAR PUERTO AYSÉN",
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1274667-383-COT26"
-  }
- ]
+ "pendientes": []
 }

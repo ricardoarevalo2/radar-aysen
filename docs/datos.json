@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-10-05T18:39:48.161650-03:00",
+ "actualizado": "2026-10-05T19:36:57.513230-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
- "total_region": 218,
+ "total_region": 219,
  "rubros": {
   "80141600": "Ventas y marketing",
   "82101600": "Publicidad en medios no impresos",
@@ -481,12 +481,5 @@
    "descripcion": "Se requiere contratar el servicio de producción artística para el evento Intergeneracional Mateando la Historia Local según especificaciones técnicas adjuntas, adjuntar cotización.-"
   }
  ],
- "pendientes": [
-  {
-   "codigo": "1274667-383-COT26",
-   "nombre": "RVB - ARTICULOS DE ESCRITORIO // CECOSF RIBERA SUR",
-   "organismo": "CENTRO DE SALUD FAMILIAR PUERTO AYSÉN",
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1274667-383-COT26"
-  }
- ]
+ "pendientes": []
 }
