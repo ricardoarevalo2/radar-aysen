@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-10-05T10:43:17.930178-03:00",
+ "actualizado": "2026-10-05T11:42:41.069365-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
- "total_region": 160,
+ "total_region": 174,
  "rubros": {
   "25172700": "Aire acondicionado",
   "25173900": "Componentes eléctricos",
@@ -249,6 +249,105 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=5038-62-COT26",
    "sin_detalle": false,
    "descripcion": "Se requiere Contratar el servicio de normalizacion electrica para el bandejon central de puerto rio tranquilo, segun terminos de referencia adjuntos, se evaluara oferta economica y oferta tecnica"
+  },
+  {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Conductores eléctricos"
+   ],
+   "nueva": true,
+   "codigo": "2713-1198-COT26",
+   "nombre": "DAOMA, ADQUISICION MATERIALES DE CONSTRUCCION NAVIDAD 2026, SOLICITUD FOLIO 1231",
+   "organismo": "I MUNICIPALIDAD DE AYSEN",
+   "unidad": "I.MUNICIPALIDAD AYSEN-ADQUISICIONES",
+   "monto": 4590100,
+   "cierre_iso": "2026-10-06T16:00:00-03:00",
+   "publicacion": "05-10 10:58",
+   "publicacion_iso": "2026-10-05T10:58:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "11121611",
+     "Tablero de partículas",
+     30,
+     "plancha de terciado marino de 9mm de espesor, segun detalles y especificaciones adjuntas."
+    ],
+    [
+     "11121611",
+     "Tablero de partículas",
+     30,
+     "plancha de terciado marino de 15mm de espesor. segun detalles y especificaciones adjuntas."
+    ],
+    [
+     "31161509",
+     "Tornillos para muros en seco",
+     2000,
+     "unidades de tornillos volcanita de 6x1x5/8\" de acero. segun detalles y especificaciones adjuntas."
+    ],
+    [
+     "31162004",
+     "Clavos de mampostería",
+     50,
+     "kilo de clavos de 4\" material acero, segun detalles y especificaciones adjuntas."
+    ],
+    [
+     "31191506",
+     "Discos abrasivos",
+     200,
+     "unidad de discos de cortes metal 4 1/2\" o.8mm, segun detalles y especificaciones adjuntas."
+    ],
+    [
+     "31191506",
+     "Discos abrasivos",
+     200,
+     "unidad de discos de corte metal 7\" 1.6mm, inoxidable, segun detalles y especificaciones adjuntas."
+    ],
+    [
+     "26121522",
+     "Alambre desnudo",
+     50,
+     "kilos de alambre recocido N°18, segun detalles y especificaciones adjuntas."
+    ],
+    [
+     "30191501",
+     "Escaleras",
+     2,
+     "unidad de escalera multiproposito articulada de aluminio 3.19 mts. 12 peldaños,  segun detalles y especificaciones adjuntas."
+    ],
+    [
+     "30191501",
+     "Escaleras",
+     1,
+     "unidad escalera telescopica material aluminio 10 peldaños longitud maxima extendida 2.09mts, carga maxima 150 kgs., segun detalles y especificaciones adjuntas."
+    ],
+    [
+     "27112103",
+     "Abrazaderas",
+     30000,
+     "unidad de amarras plasticas de 3mm x20cms, segun detalles y especificaciones adjuntas."
+    ],
+    [
+     "11121610",
+     "Maderas duras",
+     100,
+     "unidad de pino dimensionado de 2x2\"x3.20mts, segun detalles y especificaciones adjuntas."
+    ],
+    [
+     "11121610",
+     "Maderas duras",
+     80,
+     "unidad de pino dimensionado de 2x3\"x3.2mts. segun detalles y especificaciones adjuntas."
+    ],
+    [
+     "11162111",
+     "Malla",
+     2,
+     "rollo de malla rachel color verde de 2.10x100mts, 80% de sombra, segun detalles y especificaciones adjuntas."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=2713-1198-COT26",
+   "sin_detalle": false,
+   "descripcion": "ADQUISICION DE MATERIALES DE CONSTRUCCION SEGUN DETALLES Y ESPECIFICACIONES ADJUNTAS,LOS MONTOS DE LAS OFERTAS DEBEN INCLUIR TODOS LOS GASTOS NECESARIOS,PARA LA ENTREGA DE LOS MATERIALES EN LA BODEGA MUNICIPAL,EN PTO. AYSÉN,LAS OFERTAS QUE SOBREPASEN EL MONTO PRESUPUESTARIO DISPONIBLE,NO CUMPLAN CON LAS ESPECIFICACIONES REQUERIDAS,NO CUMPLAN O NO INDIQUEN EL PLAZO DE ENTREGA NO SERÁN EVALUADAS.EL PLAZO DE ENTREGA COMIENZA CORRER AL DIA HABIL SUBSIGUIENTE DE ENVIADA LA ORDEN DE COMPRA."
   },
   {
    "tipo": "POSIBLE",
