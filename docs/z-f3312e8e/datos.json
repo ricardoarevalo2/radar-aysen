@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-10-05T11:42:41.069365-03:00",
+ "actualizado": "2026-10-05T12:41:57.909549-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
- "total_region": 174,
+ "total_region": 180,
  "rubros": {
   "25172700": "Aire acondicionado",
   "25173900": "Componentes eléctricos",
@@ -19,33 +19,6 @@
   "39121400": "Conectores, enchufes y terminales"
  },
  "filas": [
-  {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Cajas y accesorios eléctricos"
-   ],
-   "nueva": false,
-   "codigo": "2713-1199-COT26",
-   "nombre": "Materiales eléctricos - DIDECO - Asistencial - 1228",
-   "organismo": "I MUNICIPALIDAD DE AYSEN",
-   "unidad": "I.MUNICIPALIDAD AYSEN-ADQUISICIONES",
-   "monto": 5800000,
-   "cierre_iso": "2026-10-05T12:00:00-03:00",
-   "publicacion": "01-10 11:20",
-   "publicacion_iso": "2026-10-01T11:20:00-03:00",
-   "ofertas": 1,
-   "productos": [
-    [
-     "39121311",
-     "Accesorios eléctricos",
-     1,
-     "Adquisición de materiales eléctricos, presentar cotización con la totalidad de los productos solicitado"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=2713-1199-COT26",
-   "sin_detalle": false,
-   "descripcion": "Adquisición de materiales eléctricos según anexo adjunto. Las ofertas deberán: incluir la totalidad de los productos, ajustarse al presupuesto disponible y asumir el COSTO DE TRANSPORTE (no desglosarlo). Debe indicar plazo de entrega (NO se aceptará \"plazo de despacho\" y el plazo de entrega iniciará el día hábil subsiguiente al envío de la OC), presentar cotización con la totalidad de los productos solicitados. Ofertas que incumplan lo anterior serán rechazadas."
-  },
   {
    "tipo": "POSIBLE",
    "motivos": [
@@ -249,6 +222,51 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=5038-62-COT26",
    "sin_detalle": false,
    "descripcion": "Se requiere Contratar el servicio de normalizacion electrica para el bandejon central de puerto rio tranquilo, segun terminos de referencia adjuntos, se evaluara oferta economica y oferta tecnica"
+  },
+  {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Cajas y accesorios eléctricos"
+   ],
+   "nueva": true,
+   "codigo": "3950-634-COT26",
+   "nombre": "ARTICULOS PARA VACUNATORIO",
+   "organismo": "DIRECCION SALUD RURAL",
+   "unidad": "Dirección de Salud Rural",
+   "monto": 300000,
+   "cierre_iso": "2026-10-06T12:00:00-03:00",
+   "publicacion": "05-10 11:55",
+   "publicacion_iso": "2026-10-05T11:55:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "52151614",
+     "Coolers",
+     36,
+     "COOLER DE 13 LITROS"
+    ],
+    [
+     "40151607",
+     "Compresores refrigerantes",
+     36,
+     "UNIDADES REFRIGERANTES RIGIDAS"
+    ],
+    [
+     "39121310",
+     "Cajas de uso general",
+     18,
+     "CAJAS PLASTICAS DE 15 LITROS CON AZAS Y TAPA"
+    ],
+    [
+     "24111503",
+     "Bolsas de plástico",
+     200,
+     "BOLSAS CON CIERRE HERMETICO GRANDE 30 X 40 CM"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=3950-634-COT26",
+   "sin_detalle": false,
+   "descripcion": "INCLUIR DESAPCHO EN COTIZACION"
   },
   {
    "tipo": "OPORTUNIDAD",
@@ -513,6 +531,33 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=551423-40-COT26",
    "sin_detalle": false,
    "descripcion": "TERMO ELÉCTRICO Y ACCESORIOS (Orasmi DPR AYSÉN)"
+  },
+  {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Gasfitería, calefacción y aire acondicionado"
+   ],
+   "nueva": true,
+   "codigo": "868-90-COT26",
+   "nombre": "PROVISION E INSTALACION DE 02 EQUIPOS DE CLIMATIZACION EN EDIFICIO GOBIERNO REGIONAL DE AYSEN",
+   "organismo": "GOBIERNO REGIONAL DE AYSEN",
+   "unidad": "Gobierno Regional de Aysen - XI Región",
+   "monto": 7200000,
+   "cierre_iso": "2026-10-08T17:00:00-03:00",
+   "publicacion": "05-10 12:02",
+   "publicacion_iso": "2026-10-05T12:02:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "72102305",
+     "Servicios de reparación, mantenimiento o reparación de aire acondicionado",
+     1,
+     "El Gobierno Regional de Aysén, requiere contratar el Servicio de “PROVISION E INSTALACION DE 02 EQUIPOS DE CLIMATIZACION EN EDIFICIO GOBIERNO REGIONAL DE AYSEN “, para la dependencia ubicada en calle Ejercito N° 405"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=868-90-COT26",
+   "sin_detalle": false,
+   "descripcion": "El Gobierno Regional de Aysén, requiere contratar el Servicio de “PROVISION E INSTALACION DE 02 EQUIPOS DE CLIMATIZACION EN EDIFICIO GOBIERNO REGIONAL DE AYSEN “, para la dependencia ubicada en calle Ejercito N° 405.-"
   },
   {
    "tipo": "OPORTUNIDAD",

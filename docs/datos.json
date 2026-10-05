@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-10-05T11:42:41.069365-03:00",
+ "actualizado": "2026-10-05T12:41:57.909549-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
- "total_region": 174,
+ "total_region": 180,
  "rubros": {
   "80141600": "Ventas y marketing",
   "82101600": "Publicidad en medios no impresos",
@@ -15,88 +15,6 @@
  },
  "filas": [
   {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Ventas y marketing"
-   ],
-   "nueva": false,
-   "codigo": "1195-503-COT26",
-   "nombre": "producción integral para seminario EMPRESARIAS AL FIN DEL MUNDO 2026",
-   "organismo": "I MUNICIPALIDAD DE COYHAIQUE",
-   "unidad": "Ilustre Municipalidad de Coyhaique",
-   "monto": 6900000,
-   "cierre_iso": "2026-10-05T12:00:00-03:00",
-   "publicacion": "02-10 18:01",
-   "publicacion_iso": "2026-10-02T18:01:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "80141607",
-     "Producción de eventos",
-     1,
-     "Seminario 09/10 en Centro Cultural Coyhaique para 70 pers. Requerido: 4 módulos escenario, audio respaldo, fotógrafo, 2 micros, operador técnico, 70 kits merchandising (bolsa, agenda, lápiz). Alimentación: 2 coffee breaks (mañana/tarde) para 70 pers, 25 almuerzos ejecutivos en restaurante local. Sábado 10/10: entrega 08:30 am de 25 box desayuno (sándwich, jugo, fruta, queque) en Magallanes 283. Incluye gestión/pago de 2 noches hotel para expositor (categoría turística superior)"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1195-503-COT26",
-   "sin_detalle": false,
-   "descripcion": "Producción y apoyo logístico para Seminario \"Empresarias al Fin del Mundo\" 2026 en Coyhaique. Incluye montaje de escenario, operador técnico, fotógrafo, catering para 70 personas (2 coffee breaks), almuerzo para 25 personas en restaurante local, box de desayuno para 25 personas, hotel para expositor (2 noches) y 70 kits de merchandising personalizado. Modalidad Compra Ágil con presupuesto máximo de $6.900.000 IVA incl. Criterios: 50% Exp, 20% Cursos/Capacitac, 10% Precio, 10% Sello M, 10% Patent"
-  },
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "televisión"
-   ],
-   "nueva": false,
-   "codigo": "1057062-439-COT26",
-   "nombre": "Adquisición Rack Soporte TV con Ruedas, URY 2457, FCA 63 (FISABS 2102)",
-   "organismo": "UNIVERSIDAD DE AYSEN",
-   "unidad": "Proyectos",
-   "monto": 123690,
-   "cierre_iso": "2026-10-05T12:00:00-03:00",
-   "publicacion": "02-10 15:01",
-   "publicacion_iso": "2026-10-02T15:01:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "45111802",
-     "Soportes de televisión",
-     2,
-     "Se requiere cotizar soporte de 32\" a 70\" pulgadas. Bandeja inferior soporta hasta 50kg, medidas de 485X293mm. Bandeja superior de 298x228mm. Vesa máxima de 600x400. Ajuste vertical 10°, tamaño total 180cm altura X 91cm ancho X 44cm Profundidad."
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1057062-439-COT26",
-   "sin_detalle": false,
-   "descripcion": "Se requiere cotizar adquisición rack soporte TV con ruedas. Cotización debe indicar especificaciones técnicas de lo ofertado. Debe indicar plazo de entrega ofertado, considerando entrega en dependencias de U. Aysén. Valor cotizado debe incluir flete e impuestos. Se podrá privilegiar el menor plazo de entrega ofertado, siempre que cumpla con todas las especificaciones requeridas."
-  },
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "difusión",
-    "publicidad"
-   ],
-   "nueva": false,
-   "codigo": "2495-534-COT26",
-   "nombre": "Servicio de asesoría en publicidad y difusión para el Programa de Fomento Productivo código BIP 4071494-0, Ilustre Municipalidad de Coyhaique",
-   "organismo": "I MUNICIPALIDAD DE COYHAIQUE",
-   "unidad": "DIRECCION DESARROLLO COMUNITARIO",
-   "monto": 6000000,
-   "cierre_iso": "2026-10-05T12:00:00-03:00",
-   "publicacion": "01-10 10:07",
-   "publicacion_iso": "2026-10-01T10:07:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "82111904",
-     "Distribución de prensa",
-     2,
-     "Publirreportaje sobre identidad local, capacitaciones y turismo, y publirreportaje sobre eventos productivos (Expo Patagonia), incluyendo elaboración, gestión, validación y publicación en medio de alcance nacional o interregional, conforme a las especificaciones técnicas."
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=2495-534-COT26",
-   "sin_detalle": false,
-   "descripcion": "Contratación de servicio especializado de publicidad y difusión para posicionar las actividades productivas de la comuna de Coyhaique, mediante la elaboración y publicación de dos publirreportajes en un medio de alcance nacional o interregional, conforme a las especificaciones técnicas del programa BIP N°40071494-0."
-  },
-  {
    "tipo": "POSIBLE",
    "motivos": [
     "difusión"
@@ -107,7 +25,7 @@
    "organismo": "Servicio Local de Educación Pública Aysén",
    "unidad": "Servicio Local de Educación Pública Aysén",
    "monto": 124000,
-   "cierre_iso": "2026-10-05T14:00:00-03:00",
+   "cierre_iso": "2026-10-05T17:00:00-03:00",
    "publicacion": "28-09 15:45",
    "publicacion_iso": "2026-09-28T15:45:00-03:00",
    "ofertas": 2,
@@ -134,10 +52,10 @@
    "organismo": "Servicio Local de Educación Pública Aysén",
    "unidad": "Servicio Local de Educación Pública Aysén",
    "monto": 206000,
-   "cierre_iso": "2026-10-05T14:00:00-03:00",
+   "cierre_iso": "2026-10-05T17:00:00-03:00",
    "publicacion": "28-09 15:30",
    "publicacion_iso": "2026-09-28T15:30:00-03:00",
-   "ofertas": 3,
+   "ofertas": 4,
    "productos": [
     [
      "55101505",
@@ -393,6 +311,33 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=886182-215-COT26",
    "sin_detalle": false,
    "descripcion": "Se requiere la adquisición de escudo y empavonados para rectoría según la descripción indicada. Cotización debe indicar especificaciones técnicas de lo ofertado. Debe indicar plazo de entrega ofertado, considerando entrega en Km. 4 Camino Coyhaique Alto, Coyhaique. Valor cotizado debe incluir flete e impuestos. Se podrá privilegiar el menor plazo de entrega ofertado, siempre que cumpla con todas las especificaciones requeridas. Compra sujeta a posibles multas o sanciones por incumplimiento."
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "fotografía"
+   ],
+   "nueva": true,
+   "codigo": "1428275-37-COT26",
+   "nombre": "Cintas para Brother TZeS261 Negro sobre blanco - Incluir flete y fotografía",
+   "organismo": "SERVICIO NACIONAL DEL PATRIMONIO CULTURAL",
+   "unidad": "DIRECCIÓN REGIONAL DE AYSEN",
+   "monto": 100000,
+   "cierre_iso": "2026-10-07T08:30:00-03:00",
+   "publicacion": "05-10 12:27",
+   "publicacion_iso": "2026-10-05T12:27:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "44102412",
+     "Cartuchos de etiquetas adhesivas",
+     2,
+     "Cintas para Brother TZeS261 Negro sobre blanco de 36mm para la Dirección Regional de Aysén - Incluir flete y fotografía. *se adjunta imagen referencial y criterios de evaluación*"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1428275-37-COT26",
+   "sin_detalle": false,
+   "descripcion": "Cintas para Brother TZeS261 Negro sobre blanco de 36mm para la Dirección Regional de Aysén - Incluir flete y fotografía."
   },
   {
    "tipo": "POSIBLE",
