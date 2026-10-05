@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-10-05T15:45:34.307367-03:00",
+ "actualizado": "2026-10-05T18:39:48.161650-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
- "total_region": 197,
+ "total_region": 218,
  "rubros": {
   "25172700": "Aire acondicionado",
   "25173900": "Componentes eléctricos",
@@ -123,51 +123,6 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=2713-1188-COT26",
    "sin_detalle": false,
    "descripcion": "ADQUISICION DE MATERIALES DE OFICINA SEGUN DETALLES Y ESPECIFICACIONES ADJUNTAS, LOS MONTOS DE LAS OFERTAS DEBEN INCLUIR TODOS LOS GASTOS NECESARIOS, PARA LA ENTREGA DE LOS MATERIALES DE OFICINA EN LAS DEPENDENCIAS DE GALERIA DE ARTESANOS, EN PUERTO AYSÉN, LAS OFERTAS QUE SOBREPASEN EL MONTO PRESUPUESTARIO DISPONIBLE, NO CUMPLAN CON LAS ESPECIFICACIONES, NO CUMPLAN O NO INDIQUEN EL PLAZO DE ENTREGA NO SERÁN EVALUADAS."
-  },
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "iluminación"
-   ],
-   "nueva": true,
-   "codigo": "1079689-470-COT26",
-   "nombre": "ADQUISICIÓN DE REPUESTOS PARA MÁQUINA DESMALEZADORA MARCA STHILL 2 TIEMPO 1.8 HP 308 CC. DE LA HOSPEDERÍA DE LA 4TA. COMISARÍA COCHRANE (F).",
-   "organismo": "SECCIÓN COMPRAS XI ZONA",
-   "unidad": "SEC DE COMP ZONA AYSÉN DEL GRAL CARL IBAÑ DEL CAMP",
-   "monto": 71300,
-   "cierre_iso": "2026-10-06T10:22:00-03:00",
-   "publicacion": "01-10 14:30",
-   "publicacion_iso": "2026-10-01T14:30:00-03:00",
-   "ofertas": 1,
-   "productos": [
-    [
-     "39111504",
-     "Sistemas de iluminación de escenario o estudio",
-     1,
-     "CARGADOR MULTIVOLTAJE MULTIBATERÍA M-12 - M18 EQUIVALENTE O SUPERIOR EN CALIDAD A MARCA MILWAUKEE 48-1959"
-    ],
-    [
-     "39111504",
-     "Sistemas de iluminación de escenario o estudio",
-     2,
-     "BATERÍA M18 HIGH OUTPUT XC 6.0 EQUIVALENTE O SUPERIOR EN CALIDAD A MARCA MILWAUKEE 48-11-1865"
-    ],
-    [
-     "39111504",
-     "Sistemas de iluminación de escenario o estudio",
-     1,
-     "BOLSA DE TRANSPORTE DE LUZ DE TORRE ROCKET EQUIVALENTE O SUPERIOR EN CALIDAD A MARCA MILWAUKEE 42-55-2137"
-    ],
-    [
-     "39111504",
-     "Sistemas de iluminación de escenario o estudio",
-     1,
-     "TORRE DE ILUMINACIÓN LED INALÁMBRICA M18 ROCKET 6000 LÚMENES EQUIVALENTE O SUPERIOR EN CALIDAD A MARCA MILWAUKEE 2136-20"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1079689-470-COT26",
-   "sin_detalle": false,
-   "descripcion": "ADQUISICIÓN DE REPUESTOS PARA MÁQUINA DESMALEZADORA MARCA STHILL 2 TIEMPO 1.8 HP 308 CC. DE LA HOSPEDERÍA DE LA 4TA. COMISARÍA COCHRANE (F). CON DESPACHO A DOMICILIO EN LA CIUDAD DE COCHRANE. INDICAR PLAZO DE ENTREGA Y ADJUNTAR COTIZACIÓN. DE NO INDICAR PLAZO DE ENTREGA NI ADJUNTAR COTIZACIÓN, NO SERÁ EVALUADO."
   },
   {
    "tipo": "POSIBLE",
@@ -366,6 +321,150 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=2713-1198-COT26",
    "sin_detalle": false,
    "descripcion": "ADQUISICION DE MATERIALES DE CONSTRUCCION SEGUN DETALLES Y ESPECIFICACIONES ADJUNTAS,LOS MONTOS DE LAS OFERTAS DEBEN INCLUIR TODOS LOS GASTOS NECESARIOS,PARA LA ENTREGA DE LOS MATERIALES EN LA BODEGA MUNICIPAL,EN PTO. AYSÉN,LAS OFERTAS QUE SOBREPASEN EL MONTO PRESUPUESTARIO DISPONIBLE,NO CUMPLAN CON LAS ESPECIFICACIONES REQUERIDAS,NO CUMPLAN O NO INDIQUEN EL PLAZO DE ENTREGA NO SERÁN EVALUADAS.EL PLAZO DE ENTREGA COMIENZA CORRER AL DIA HABIL SUBSIGUIENTE DE ENVIADA LA ORDEN DE COMPRA."
+  },
+  {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Gasfitería, calefacción y aire acondicionado"
+   ],
+   "nueva": true,
+   "codigo": "657-86-COT26",
+   "nombre": "Mantención de 07 equipos climatizadores y adquisición de 14 tubos led",
+   "organismo": "SERVICIO DE VIVIENDA Y URBANIZACION XI REGION",
+   "unidad": "SERVIU XI REGION",
+   "monto": 520000,
+   "cierre_iso": "2026-10-06T17:00:00-03:00",
+   "publicacion": "05-10 16:42",
+   "publicacion_iso": "2026-10-05T16:42:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "39101701",
+     "Tubos fluorescentes",
+     10,
+     "10 tubos LED T8 de 9W (60 cm)."
+    ],
+    [
+     "39101701",
+     "Tubos fluorescentes",
+     4,
+     "4 tubos LED T8 de 18W (120 cm)."
+    ],
+    [
+     "72102302",
+     "Instalación, reparación o mantenimiento de sistemas de calefacción",
+     7,
+     "Se requiere contratar el servicio de mantención para 07 equipos climatizadores, los cuales se encuentran en la delegacion provincial de Cochrane ubicada en Doctor Steffens N.° 558 se adjunta especificacion de climatizadores"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=657-86-COT26",
+   "sin_detalle": false,
+   "descripcion": "Se requiere contratar el servicio de mantención para 07 equipos climatizadores, además de la adquisición de:\n•\t10 tubos LED T8 de 9W (60 cm).\n•\t4 tubos LED T8 de 18W (120 cm).\nLos trabajos e insumos están destinados a la Delegación Provincial de Cochrane, ubicada en Doctor Steffens N.° 558.\nComo requisito, el proveedor deberá ser de la comuna de Cochrane. Se adjunta ficha de los climatizadores y se solicita incorporar cotización y formulario de solicitud de transferencia."
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "iluminación"
+   ],
+   "nueva": true,
+   "codigo": "1057062-449-COT26",
+   "nombre": "Servicio de arriendo sala de teatro para el 15 de octubre coyhaique, ury 2493 segun fisabs 2269",
+   "organismo": "UNIVERSIDAD DE AYSEN",
+   "unidad": "Proyectos",
+   "monto": 300000,
+   "cierre_iso": "2026-10-07T08:00:00-03:00",
+   "publicacion": "05-10 17:35",
+   "publicacion_iso": "2026-10-05T17:35:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "90111604",
+     "Salones",
+     1,
+     "Servicio de ARRIENDO DE SALA DE TEATRO.Requerimientos del espacio\n? Sala de artes escénicas en formato cámara negra.\n? 24mts cuadrados de espacio escénico.\n? Capacidad para 50 espectadores.\n? Contar con espacio aparte para camarín que incluya baño.\n? Equipo de sonido e iluminación incluido y montado.\n? Técnico a cargo de operar durante toda la jornada.\nsegun especificacion tecnica adjunta ver"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1057062-449-COT26",
+   "sin_detalle": false,
+   "descripcion": "La Universidad de Aysén, requiere cotizar el ARRIENDO DE SALA DE TEATRO, jueves 15 de octubre de 2026, Lugar dentro del radio urbano de Coyhaique. de 15:00 a 20:00hrs Detalle del espacio: Según especificaciones técnicas. deben cumplir con las especificaciones técnicas en archivo adjunto. Proveedor deberá adjuntar cotizacion con servicio ofertado con detalle."
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "alargador"
+   ],
+   "nueva": true,
+   "codigo": "418-1532-COT26",
+   "nombre": "POR - INSUMOS PARA EL ASEO (SEGÚN DETALLE ADJUNTO) ",
+   "organismo": "SERVICIO NACIONAL DE SALUD HOSPITAL DE PUERTO AYSEN",
+   "unidad": "H Puerto Aysén",
+   "monto": 1,
+   "cierre_iso": "2026-10-07T08:00:00-03:00",
+   "publicacion": "05-10 16:05",
+   "publicacion_iso": "2026-10-05T16:05:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "47131618",
+     "Mopas húmedas",
+     1,
+     "MOPA  SECA INDUSTRIAL COMPLETA 90 CM (CON REPUESTO DE MOPA"
+    ],
+    [
+     "47121501",
+     "Carros para limpieza",
+     1,
+     "CARRO DE ASEO CON TAPA"
+    ],
+    [
+     "40142008",
+     "Mangueras para agua",
+     1,
+     "MANGUERA RETRACTIL 30 METROS"
+    ],
+    [
+     "23181506",
+     "Maquinaria de lavado",
+     1,
+     "HIDROLAVADORA ELECTRICA 1600 – 1800 W PARA LIMPIEZA DE VIDRIOS, FACHADA Y PATIO."
+    ],
+    [
+     "23153030",
+     "Guías de desplazamiento lineal",
+     1,
+     "ALARGADOR RETRÁCTIL DE AL MENOS 10 MTS"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=418-1532-COT26",
+   "sin_detalle": false,
+   "descripcion": "SE SOLICITA LA ADQUISICIÓN DE INSUMOS PARA EL ASEO (SEGÚN DETALLE ADJUNTO) DE LAS DEPENDENCIAS DE COSAM DE PUERTO AYSÉN. COTIZACIÓN VALIDA POR 30 DÍAS. ADJUNTAR FICHA TÉCNICA DEL PRODUCTO (SI CORRESPONDE). INDICAR NÚMERO DE TELEFONO Y/O CORREO PARA REALIZAR SEGUIMIENTO. INCLUIR DATOS BANCARIOS. SUBIR COTIZACIÓN COMO ARCHIVO ADJUNTO. DEBE INCLUIR DESPACHO HASTA PUERTO AYSÉN."
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "eléctricos"
+   ],
+   "nueva": true,
+   "codigo": "2493-97-COT26",
+   "nombre": "ADQUISICIÓN DE MATERIALES ELÉCTRICOS Y DE CANALIZACIÓN PARA REGULARIZACIÓN DE LA CAJA DE EMPALME DE SEMÁFOROS",
+   "organismo": "I MUNICIPALIDAD DE COYHAIQUE",
+   "unidad": "DIRECCION DE TRANSITO",
+   "monto": 300000,
+   "cierre_iso": "2026-10-07T09:00:00-03:00",
+   "publicacion": "05-10 15:54",
+   "publicacion_iso": "2026-10-05T15:54:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "31162404",
+     "Grapas de ferretería",
+     1,
+     "TOTAL DE LA LISTA DE PRODUCTOS REQUERIDOS PARA LA ADQUISICIÓN DE MATERIALES ELÉCTRICOS Y DE CANALIZACIÓN PARA REGULARIZACIÓN DE LA CAJA DE EMPALME."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=2493-97-COT26",
+   "sin_detalle": false,
+   "descripcion": "El presente requerimiento tiene por objeto la adquisición de materiales de canalización galvanizada, conductores eléctricos y accesorios de fijación y protección. Estos insumos serán destinados exclusivamente a las faenas de regularización de la caja de empalme de semáforos, ubicada en calle Arturo Prat N° 689, comuna de Coyhaique."
   },
   {
    "tipo": "POSIBLE",
@@ -612,7 +711,41 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=5039-37-COT26",
    "sin_detalle": false,
    "descripcion": "Contratar, bajo la modalidad de Suma Alzada, la ejecución de las obras civiles, de carpintería, estructuras metálicas e instalaciones eléctricas necesarias para la construcción e instalación del Monolito Informativo del Humedal Urbano Vientos del Chelenko, ubicado en la costanera de Puerto Ingeniero Ibáñez, considerando su instalación sobre una base de hormigón preexistente, la cual será reutilizada para estos efectos."
+  },
+  {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Gasfitería, calefacción y aire acondicionado"
+   ],
+   "nueva": true,
+   "codigo": "697209-29-COT26",
+   "nombre": "Servicio mantención equipos de aire acondicionado.",
+   "organismo": "MINISTERIO PUBLICO",
+   "unidad": "FR AYSEN",
+   "monto": 4000000,
+   "cierre_iso": "2026-10-13T16:00:00-03:00",
+   "publicacion": "05-10 17:45",
+   "publicacion_iso": "2026-10-05T17:45:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "72102305",
+     "Servicios de reparación, mantenimiento o reparación de aire acondicionado",
+     74,
+     "Conforme a ubicación en documento adjunto \"CONDICIONES MÍNIMAS.pdf\". Se deberá postular por la totalidad de las dependencias."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=697209-29-COT26",
+   "sin_detalle": false,
+   "descripcion": "La Fiscalía Regional de Aysén requiere contratar el servicio de mantención de 74 equipos de aire acondicionados en la región de Aysén. El detalle de los servicios y dirección de estos se encuentra en documento adjunto “CONDICIONES MÍNIMAS.pdf”. Se deberán adjuntar todos los certificados requeridos."
   }
  ],
- "pendientes": []
+ "pendientes": [
+  {
+   "codigo": "1274667-383-COT26",
+   "nombre": "RVB - ARTICULOS DE ESCRITORIO // CECOSF RIBERA SUR",
+   "organismo": "CENTRO DE SALUD FAMILIAR PUERTO AYSÉN",
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1274667-383-COT26"
+  }
+ ]
 }

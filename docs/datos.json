@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-10-05T15:45:34.307367-03:00",
+ "actualizado": "2026-10-05T18:39:48.161650-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
- "total_region": 197,
+ "total_region": 218,
  "rubros": {
   "80141600": "Ventas y marketing",
   "82101600": "Publicidad en medios no impresos",
@@ -14,60 +14,6 @@
   "83121700": "Comunicación social y de masas"
  },
  "filas": [
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "difusión"
-   ],
-   "nueva": false,
-   "codigo": "1233615-744-COT26",
-   "nombre": "RMG-INT00259-SLEP Aysén, publicación consejeros electos CLEP, diario de difusión regional",
-   "organismo": "Servicio Local de Educación Pública Aysén",
-   "unidad": "Servicio Local de Educación Pública Aysén",
-   "monto": 124000,
-   "cierre_iso": "2026-10-05T17:00:00-03:00",
-   "publicacion": "28-09 15:45",
-   "publicacion_iso": "2026-09-28T15:45:00-03:00",
-   "ofertas": 2,
-   "productos": [
-    [
-     "55101505",
-     "Publicaciones",
-     1,
-     "Según detalle adjunto, publicación en diario digital de difusión regional, consejeros electos CLEP"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1233615-744-COT26",
-   "sin_detalle": false,
-   "descripcion": "Según detalle adjunto"
-  },
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "difusión"
-   ],
-   "nueva": false,
-   "codigo": "1233615-743-COT26",
-   "nombre": "RMG-INT00258-SLEP Aysén, publicación de candidaturas CLEP, diario digital de difusión regional",
-   "organismo": "Servicio Local de Educación Pública Aysén",
-   "unidad": "Servicio Local de Educación Pública Aysén",
-   "monto": 206000,
-   "cierre_iso": "2026-10-05T17:00:00-03:00",
-   "publicacion": "28-09 15:30",
-   "publicacion_iso": "2026-09-28T15:30:00-03:00",
-   "ofertas": 4,
-   "productos": [
-    [
-     "55101505",
-     "Publicaciones",
-     1,
-     "Según detalle adjunto"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1233615-743-COT26",
-   "sin_detalle": false,
-   "descripcion": "Según detalle adjunto"
-  },
   {
    "tipo": "POSIBLE",
    "motivos": [
@@ -258,9 +204,42 @@
   {
    "tipo": "POSIBLE",
    "motivos": [
-    "publicitaria"
+    "publicidad"
    ],
    "nueva": true,
+   "codigo": "4778-306-COT26",
+   "nombre": "VEM-CARTEL INFORMATIVO TROVICEL Y TRÍPTICO INFORMATIVO",
+   "organismo": "SERVICIO NACIONAL DE SALUD HOSPITAL DE C",
+   "unidad": "Compras de Insumos y Servicios Generales",
+   "monto": 851445,
+   "cierre_iso": "2026-10-06T16:00:00-03:00",
+   "publicacion": "05-10 15:58",
+   "publicacion_iso": "2026-10-05T15:58:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "82101502",
+     "Publicidad en carteles",
+     5,
+     "CARTEL INFORMATIVO TROVICEL DE 5mm DE 0,7x55cm."
+    ],
+    [
+     "82101502",
+     "Publicidad en carteles",
+     500,
+     "TRÍPTICO INFORMATIVO LEY IVE, TAMAÑO OFICIO FULL COLOR EN PAPEL COUCHE DE 170grs,"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=4778-306-COT26",
+   "sin_detalle": false,
+   "descripcion": "(COTIZACIONES Y MARCAS Y VALORES ADJUNTOS SON REFERENCIALES) \n1. LEER ADJUNTOS PARA AJUSTARSE A ESPECIFICACIONES INDICADAS \n2. INCLUIR FOTOS,COTIZACIÓN FORMAL Y ESPECIFICACIONES TÉCNICAS EN ESPAÑOL \n3. INCLUIR VALOR FLETE A DIRECCIÓN DE DESPACHO \n4. FECHA DE VIGENCIA DEL PRODUCTO SUPERIOR A UN AÑO COMO MÍNIMO. \n5. NO PARCIALIZAR DESPACHO (UN SÓLO ENVÍO)"
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "publicitaria"
+   ],
+   "nueva": false,
    "codigo": "886182-215-COT26",
    "nombre": "Adquisición de escudo y empavonados para rectoría según Fisabs N°2203",
    "organismo": "UNIVERSIDAD DE AYSEN",
@@ -315,6 +294,33 @@
   {
    "tipo": "POSIBLE",
    "motivos": [
+    "radio"
+   ],
+   "nueva": true,
+   "codigo": "1057062-449-COT26",
+   "nombre": "Servicio de arriendo sala de teatro para el 15 de octubre coyhaique, ury 2493 segun fisabs 2269",
+   "organismo": "UNIVERSIDAD DE AYSEN",
+   "unidad": "Proyectos",
+   "monto": 300000,
+   "cierre_iso": "2026-10-07T08:00:00-03:00",
+   "publicacion": "05-10 17:35",
+   "publicacion_iso": "2026-10-05T17:35:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "90111604",
+     "Salones",
+     1,
+     "Servicio de ARRIENDO DE SALA DE TEATRO.Requerimientos del espacio\n? Sala de artes escénicas en formato cámara negra.\n? 24mts cuadrados de espacio escénico.\n? Capacidad para 50 espectadores.\n? Contar con espacio aparte para camarín que incluya baño.\n? Equipo de sonido e iluminación incluido y montado.\n? Técnico a cargo de operar durante toda la jornada.\nsegun especificacion tecnica adjunta ver"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1057062-449-COT26",
+   "sin_detalle": false,
+   "descripcion": "La Universidad de Aysén, requiere cotizar el ARRIENDO DE SALA DE TEATRO, jueves 15 de octubre de 2026, Lugar dentro del radio urbano de Coyhaique. de 15:00 a 20:00hrs Detalle del espacio: Según especificaciones técnicas. deben cumplir con las especificaciones técnicas en archivo adjunto. Proveedor deberá adjuntar cotizacion con servicio ofertado con detalle."
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
     "fotografía"
    ],
    "nueva": true,
@@ -338,6 +344,33 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=1428275-37-COT26",
    "sin_detalle": false,
    "descripcion": "Cintas para Brother TZeS261 Negro sobre blanco de 36mm para la Dirección Regional de Aysén - Incluir flete y fotografía."
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "fotografía"
+   ],
+   "nueva": true,
+   "codigo": "4066-415-COT26",
+   "nombre": "Adquisición de Indumentaria personal, calzado para OLN Y FIADI. 2026.",
+   "organismo": "I MUNICIPALIDAD RIO IBANEZ",
+   "unidad": "DIDECO",
+   "monto": 400000,
+   "cierre_iso": "2026-10-07T09:00:00-03:00",
+   "publicacion": "05-10 17:26",
+   "publicacion_iso": "2026-10-05T17:26:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "53111602",
+     "Zapatos de mujer",
+     4,
+     "Se necesita comprar 4 pares de botines, material de cuero, resistente a condiciones climáticas adversas. Según Específicaciones Técnicas adjuntas.(enviar fotografía)"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=4066-415-COT26",
+   "sin_detalle": false,
+   "descripcion": "Se necesita comprar calzado tipo botin, para 4 profesionales, equipo OLN, según espoecificaciones Técnicas, adjuntando fotografía."
   },
   {
    "tipo": "OPORTUNIDAD",
@@ -365,6 +398,33 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=1746-234-COT26",
    "sin_detalle": false,
    "descripcion": "APOYO A EJECUCIÓN JORNADA NACIONAL 30 AÑOS DE HANTAVIRUS EN CHILE\nCUMPLIR CON LA TOTALIDAD DE LAS ESPECIFICACIONES TÉCNIAS MENCIONADAS EN DOCUMENTO ADJUNTO PM N° 480 DSP\nADJUNTAR PROPUESTA"
+  },
+  {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Ventas y marketing"
+   ],
+   "nueva": true,
+   "codigo": "1746-235-COT26",
+   "nombre": "SERVICIOS GENERALES (PASAJES AEREOS, ALOJAMIENTO, ALIMENTACIÓN, TRASLADO, COFFE BREAK) PM N° 483 DAS",
+   "organismo": "SUBSECRETARIA DE SALUD PUBLICA",
+   "unidad": "Seremi de Salud XI Región",
+   "monto": 2800000,
+   "cierre_iso": "2026-10-07T11:00:00-03:00",
+   "publicacion": "05-10 15:46",
+   "publicacion_iso": "2026-10-05T15:46:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "80141607",
+     "Producción de eventos",
+     1,
+     "SERVICIOS GENERALES (PASAJES AEREOS, ALOJAMIENTO, ALIMENTACIÓN, TRASLADO, COFFE BREAK) \nCUMPLIR CON LAS ESPECIFICACIONES TÉCNICAS MENCIONADAS EN DOCUMENTO ADJUNTO PM N° 483 DAS."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1746-235-COT26",
+   "sin_detalle": false,
+   "descripcion": "SERVICIOS GENERALES (PASAJES AEREOS, ALOJAMIENTO, ALIMENTACIÓN, TRASLADO, COFFE BREAK) \nCUMPLIR CON LAS ESPECIFICACIONES TÉCNICAS MENCIONADAS EN DOCUMENTO ADJUNTO PM N° 483 DAS."
   },
   {
    "tipo": "POSIBLE",
@@ -421,5 +481,12 @@
    "descripcion": "Se requiere contratar el servicio de producción artística para el evento Intergeneracional Mateando la Historia Local según especificaciones técnicas adjuntas, adjuntar cotización.-"
   }
  ],
- "pendientes": []
+ "pendientes": [
+  {
+   "codigo": "1274667-383-COT26",
+   "nombre": "RVB - ARTICULOS DE ESCRITORIO // CECOSF RIBERA SUR",
+   "organismo": "CENTRO DE SALUD FAMILIAR PUERTO AYSÉN",
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1274667-383-COT26"
+  }
+ ]
 }
