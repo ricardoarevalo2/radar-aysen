@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-06T14:38:39.975667-03:00",
+ "actualizado": "2026-10-06T15:43:36.084267-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
  "total_region": 238,
@@ -556,6 +556,62 @@
   {
    "tipo": "OPORTUNIDAD",
    "motivos": [
+    "Gasfitería, calefacción y aire acondicionado"
+   ],
+   "nueva": true,
+   "codigo": "3431-115-COT26",
+   "nombre": "LP - Adquisición del servicio de mantenimiento y reparación de equipos de rancho de la UR.",
+   "organismo": "Ejercito de Chile",
+   "unidad": "Regimiento N° 8 Chiloé",
+   "monto": 657106,
+   "cierre_iso": "2026-10-08T15:00:00-03:00",
+   "publicacion": "06-10 15:22",
+   "publicacion_iso": "2026-10-06T15:22:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "72102304",
+     "Mantenimiento o reparación de sistemas de fontanería, gasfitería",
+     1,
+     "MANTENIMIENTO DE CAMARA FRIGORIFICA - 18° MARCA MISA. SE DEBE REALIZAR CAMBIO DE VÁLVULA DFS 3/8 NUEVA, CAMBIO DE BOBINA DANFOSS 11 W NUEVA Y VACIADO Y LLENADO DE GTAS REFRIGERANTE."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=3431-115-COT26",
+   "sin_detalle": false,
+   "descripcion": "Adquisición del servicio de mantenimiento y reparación de equipos de rancho de la UR, para su normal funcionamiento."
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "eléctrico",
+    "generador",
+    "generador eléctrico"
+   ],
+   "nueva": true,
+   "codigo": "1608-84-COT26",
+   "nombre": "Batería para generador eléctrico de  90  AMPERES /12 WOLTS",
+   "organismo": "DELEGACIÓN PRESIDENCIAL REGIONAL DE AYSÉN DEL GENERAL CARLOS IBÁÑEZ DE",
+   "unidad": "DELEGACION PRESIDENCIAL REGIONAL DE AYSEN",
+   "monto": 120000,
+   "cierre_iso": "2026-10-08T15:00:00-03:00",
+   "publicacion": "06-10 14:45",
+   "publicacion_iso": "2026-10-06T14:45:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "26111713",
+     "Baterías térmicas",
+     1,
+     "01 batería para generador eléctrico de  90  AMPERES /12 WOLTS. Positivo al lado derecho.\nIMPORTANTE!!! REVISAR DOCUMENTO ADJUNTO!!!"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1608-84-COT26",
+   "sin_detalle": false,
+   "descripcion": "Batería para generador eléctrico de  90  AMPERES /12 WOLTS"
+  },
+  {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
     "Aire acondicionado"
    ],
    "nueva": true,
@@ -730,12 +786,6 @@
   }
  ],
  "pendientes": [
-  {
-   "codigo": "3765-273-COT26",
-   "nombre": "MATERIALES DE ESCRITORIO SENDA",
-   "organismo": "SERVICIO NACIONAL DE SALUD HOSPITAL DE C",
-   "link": "https://buscador.mercadopublico.cl/ficha?code=3765-273-COT26"
-  },
   {
    "codigo": "1079689-492-COT26",
    "nombre": "ADQUISICIÓN DE FRUTAS Y VERDURAS PARA LOS MESES DE OCTUBRE, NOVIEMBRE Y DICIEMBRE AÑO 2026 PARA LA COMISIÓN RA",
