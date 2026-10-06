@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-10-06T18:38:50.723173-03:00",
+ "actualizado": "2026-10-06T19:38:27.731470-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
- "total_region": 268,
+ "total_region": 267,
  "rubros": {
   "80141600": "Ventas y marketing",
   "82101600": "Publicidad en medios no impresos",
@@ -19,7 +19,7 @@
    "motivos": [
     "radio"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "1057062-449-COT26",
    "nombre": "Servicio de arriendo sala de teatro para el 15 de octubre coyhaique, ury 2493 segun fisabs 2269",
    "organismo": "UNIVERSIDAD DE AYSEN",
@@ -73,7 +73,7 @@
    "motivos": [
     "fotografía"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "4066-415-COT26",
    "nombre": "Adquisición de Indumentaria personal, calzado para OLN Y FIADI. 2026.",
    "organismo": "I MUNICIPALIDAD RIO IBANEZ",
@@ -127,7 +127,7 @@
    "motivos": [
     "Ventas y marketing"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "1746-235-COT26",
    "nombre": "SERVICIOS GENERALES (PASAJES AEREOS, ALOJAMIENTO, ALIMENTACIÓN, TRASLADO, COFFE BREAK) PM N° 483 DAS",
    "organismo": "SUBSECRETARIA DE SALUD PUBLICA",

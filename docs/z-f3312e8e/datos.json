@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-10-06T18:38:50.723173-03:00",
+ "actualizado": "2026-10-06T19:38:27.731470-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
- "total_region": 268,
+ "total_region": 267,
  "rubros": {
   "25172700": "Aire acondicionado",
   "25173900": "Componentes eléctricos",
@@ -24,7 +24,7 @@
    "motivos": [
     "iluminación"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "1057062-449-COT26",
    "nombre": "Servicio de arriendo sala de teatro para el 15 de octubre coyhaique, ury 2493 segun fisabs 2269",
    "organismo": "UNIVERSIDAD DE AYSEN",
@@ -51,7 +51,7 @@
    "motivos": [
     "alargador"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "418-1532-COT26",
    "nombre": "POR - INSUMOS PARA EL ASEO (SEGÚN DETALLE ADJUNTO) ",
    "organismo": "SERVICIO NACIONAL DE SALUD HOSPITAL DE PUERTO AYSEN",
@@ -102,7 +102,7 @@
    "motivos": [
     "eléctricos"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "2493-97-COT26",
    "nombre": "ADQUISICIÓN DE MATERIALES ELÉCTRICOS Y DE CANALIZACIÓN PARA REGULARIZACIÓN DE LA CAJA DE EMPALME DE SEMÁFOROS",
    "organismo": "I MUNICIPALIDAD DE COYHAIQUE",
@@ -711,7 +711,7 @@
    "motivos": [
     "Gasfitería, calefacción y aire acondicionado"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "697209-29-COT26",
    "nombre": "Servicio mantención equipos de aire acondicionado.",
    "organismo": "MINISTERIO PUBLICO",
