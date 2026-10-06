@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-10-06T15:43:36.084267-03:00",
+ "actualizado": "2026-10-06T16:39:02.703919-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
- "total_region": 238,
+ "total_region": 250,
  "rubros": {
   "80141600": "Ventas y marketing",
   "82101600": "Publicidad en medios no impresos",
@@ -14,96 +14,6 @@
   "83121700": "Comunicación social y de masas"
  },
  "filas": [
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "publicidad"
-   ],
-   "nueva": true,
-   "codigo": "4778-306-COT26",
-   "nombre": "VEM-CARTEL INFORMATIVO TROVICEL Y TRÍPTICO INFORMATIVO",
-   "organismo": "SERVICIO NACIONAL DE SALUD HOSPITAL DE C",
-   "unidad": "Compras de Insumos y Servicios Generales",
-   "monto": 851445,
-   "cierre_iso": "2026-10-06T16:00:00-03:00",
-   "publicacion": "05-10 15:58",
-   "publicacion_iso": "2026-10-05T15:58:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "82101502",
-     "Publicidad en carteles",
-     5,
-     "CARTEL INFORMATIVO TROVICEL DE 5mm DE 0,7x55cm."
-    ],
-    [
-     "82101502",
-     "Publicidad en carteles",
-     500,
-     "TRÍPTICO INFORMATIVO LEY IVE, TAMAÑO OFICIO FULL COLOR EN PAPEL COUCHE DE 170grs,"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=4778-306-COT26",
-   "sin_detalle": false,
-   "descripcion": "(COTIZACIONES Y MARCAS Y VALORES ADJUNTOS SON REFERENCIALES) \n1. LEER ADJUNTOS PARA AJUSTARSE A ESPECIFICACIONES INDICADAS \n2. INCLUIR FOTOS,COTIZACIÓN FORMAL Y ESPECIFICACIONES TÉCNICAS EN ESPAÑOL \n3. INCLUIR VALOR FLETE A DIRECCIÓN DE DESPACHO \n4. FECHA DE VIGENCIA DEL PRODUCTO SUPERIOR A UN AÑO COMO MÍNIMO. \n5. NO PARCIALIZAR DESPACHO (UN SÓLO ENVÍO)"
-  },
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "publicitaria"
-   ],
-   "nueva": false,
-   "codigo": "886182-215-COT26",
-   "nombre": "Adquisición de escudo y empavonados para rectoría según Fisabs N°2203",
-   "organismo": "UNIVERSIDAD DE AYSEN",
-   "unidad": "Universidad de Aysen",
-   "monto": 3147975,
-   "cierre_iso": "2026-10-06T16:30:00-03:00",
-   "publicacion": "04-10 13:44",
-   "publicacion_iso": "2026-10-04T13:44:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "82121505",
-     "Impresión promocional o publicitaria",
-     1,
-     "SE SOLICITA COMPRA DE ESCUDO ESCALERA EDIFICIO CAMPUS PATAGONIA - Escudo Escalera : 73 Cm. de ancho x 86.5 cm. de largo aprox., soporte acrílico transparente de 5 mm según las medidas, con 4 distanciadores topes metálicos y adhesivo full color, con instalación, se adjunta diseño."
-    ],
-    [
-     "31201611",
-     "Adhesivos de láminas",
-     5,
-     "Se solicita compra de los siguientes empavonados Oficina Rectoría: - 1 Puerta: 0.80 mts de ancho x 0.53 mts de largo aprox. - 3 Ventanas: 0.80 mts de ancho x 1.75 mts de largo aprox - 1 Lateral: 0.80 mts de ancho x 1.24 mts de largo aprox.\nEmpavonado troquelado, contorno recortado. DEBE INCLUIR INSTALACIÓN EN CAMPUS PATAGONIA."
-    ],
-    [
-     "31201611",
-     "Adhesivos de láminas",
-     4,
-     "Se solicita compra de los siguientes empavonados Entrada Principal Campus Patagonia: - 2 Ventanas: 0.80 mts de ancho x 0.92 mts largo aprox - 2 Puertas: 0.80 mts de ancho x 0.60 mts de largo aprox. Empavonado troquelado, contorno recortado. DEBE INCLUIR INSTALACIÓN EN CAMPUS PATAGONIA."
-    ],
-    [
-     "31201611",
-     "Adhesivos de láminas",
-     2,
-     "Se solicita compra de los siguientes empavonados Prorrectoría: - 1 Puerta: 0.63 mts de ancho aprox x 0.70 mts de largo aprox - 1 Ventana: 0.80 mts de ancho aprox x 1.47 mts largo aprox. Empavonado troquelado, contorno recortado. DEBE INCLUIR INSTALACIÓN EN CAMPUS PATAGONIA."
-    ],
-    [
-     "31201611",
-     "Adhesivos de láminas",
-     1,
-     "Se solicita compra de los siguientes empavonados Entrada Gabinete: - 1 Puerta 0.80 mts de ancho x 0.71 mts de largo aprox. empavonado troquelado, contorno recortado. DEBE INCLUIR INSTALACIÓN EN CAMPUS PATAGONIA."
-    ],
-    [
-     "31201611",
-     "Adhesivos de láminas",
-     1,
-     "Se solicita compra de los siguientes empavonados Puerta Oficina de Reuniones Rectoría: - 1 Puerta 0.80 mts de alto x 0.64 de ancho aprox. empavonado troquelado, contorno recortado. DEBE INCLUIR INSTALACIÓN EN CAMPUS PATAGONIA."
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=886182-215-COT26",
-   "sin_detalle": false,
-   "descripcion": "Se requiere la adquisición de escudo y empavonados para rectoría según la descripción indicada. Cotización debe indicar especificaciones técnicas de lo ofertado. Debe indicar plazo de entrega ofertado, considerando entrega en Km. 4 Camino Coyhaique Alto, Coyhaique. Valor cotizado debe incluir flete e impuestos. Se podrá privilegiar el menor plazo de entrega ofertado, siempre que cumpla con todas las especificaciones requeridas. Compra sujeta a posibles multas o sanciones por incumplimiento."
-  },
   {
    "tipo": "POSIBLE",
    "motivos": [
@@ -292,6 +202,82 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=734-167-COT26",
    "sin_detalle": false,
    "descripcion": "Adquisición de 20 neumáticos Mixto AT medidas 245-75r16, 10 telas"
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "audiovisual",
+    "difusión",
+    "registro audiovisual",
+    "streaming",
+    "transmisión en vivo"
+   ],
+   "nueva": true,
+   "codigo": "3797-456-COT26",
+   "nombre": "Servicio de transmisión vía streaming para el Seminario de Turismo",
+   "organismo": "I MUNICIPALIDAD DE COCHRANE",
+   "unidad": "I MUNICIPALIDAD DE COCHRANE",
+   "monto": 1000000,
+   "cierre_iso": "2026-10-07T16:10:00-03:00",
+   "publicacion": "06-10 16:01",
+   "publicacion_iso": "2026-10-06T16:01:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "43223207",
+     "Sistema de transmisión por secuencias de video",
+     1,
+     "Adquisición Servicio de transmisión vía streaming para el Seminario de Turismo, correspondiente a la Actividad N°5 del programa “Transferencia para el Desarrollo del Turismo y Fomento Productivo de la Comuna de Cochrane”, Código BIP 40072539-0, conforme a las especificaciones técnicas establecidas en los Términos de Referencia adjuntos. Incluye instalación, configuración y operación de equipos, cámaras, captura y manejo de audio, conectividad, transmisión en vivo, personal técnico, monitoreo de"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=3797-456-COT26",
+   "sin_detalle": false,
+   "descripcion": ": Contratar servicios técnicos especializados de transmisión vía streaming para la ejecución del Seminario de Turismo, correspondiente a la Actividad N°5 del programa “Transferencia para el Desarrollo del Turismo y Fomento Productivo de la Comuna de Cochrane”, Código BIP 40072539-0, con el propósito de facilitar la difusión y participación remota en las actividades programadas, ampliar el alcance del seminario y disponer de un registro audiovisual de las jornadas. eett adjuntas"
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "fotografía"
+   ],
+   "nueva": true,
+   "codigo": "3949-244-COT26",
+   "nombre": "INSUMOS DE HIGIENE ORAL ",
+   "organismo": "CONSULTORIO GENERAL URBANO DR ALEJANDRO GUTIERREZ",
+   "unidad": "ID 3949 - CESFAM Dr Alejandro Gutiérrez",
+   "monto": 1200000,
+   "cierre_iso": "2026-10-07T16:30:00-03:00",
+   "publicacion": "06-10 16:19",
+   "publicacion_iso": "2026-10-06T16:19:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "42151504",
+     "Barniz dental",
+     1,
+     "Barniz flúor, 22.600 ppm fluoruro, monodosis, caja de 100 unidades. De preferencia incluir fotografía del producto. Fecha de vencimiento no menor a 18 meses al momento de la entrega."
+    ],
+    [
+     "53131503",
+     "Cepillos de dientes",
+     100,
+     "Cepillo dental triple cabezal,para limpieza simultánea de caras vestibular,oclusal y lingual/palatina.El producto deberá contar con cerdas suaves o ultrasuaves de nylon/PBT con puntas redondeadas,disponer de un mango ergonómico y antideslizante libre de BPA y látex(apto para cepillado autónomo o asistido),y venir en empaque primario individual sellado e higiénico.Debe dar cumplimiento a normativas de calidad internacionales(ISO 13485, CE o FDA) y estar debidamente rotulado en español (ver adjunt"
+    ],
+    [
+     "53131508",
+     "Tabletas para limpiar las prótesis dentales",
+     40,
+     "Tabletas limpiadoras de prótesis en presentación comercial de caja de 30 o 36 unidades, de rápida disolución en agua tibia (3 a 5 minutos) y solución de pH neutro a ligeramente alcalino (6,5 - 8,5) no abrasiva para resinas acrílicas y estructuras metálicas. El producto debe contar con acción antibacteriana y antifúngica comprobada, formulado a base de agentes oxidantes y efervescentes libres de sustancias dañinas para la mucosa tras el enjuague.Las tabletas deberán venir contenidas (ver adjunto)"
+    ],
+    [
+     "42151611",
+     "Cepillos operativos dentales",
+     60,
+     "Cepillo para prótesis removible.fabricados en material plástico duradero,higiénico y libre de BPA.Debe contar con un diseño de doble cabezal funcional:un cabezal principal de cerdas anchas y planas para la limpieza de las superficies lisas de la prótesis,y un cabezal secundario cónico o en ángulo para acceder a recovecos, caras internas y ganchos metálicos.Las cerdas deben ser de nylon o PBT resistentes pero no abrasivas, para prevenir el desgaste o rayado del acrílico.El mango debe(ver adjunto)"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=3949-244-COT26",
+   "sin_detalle": false,
+   "descripcion": "SE REQUIERE ADQUIRIR BARNIZ FLUOR, CEPILLO DENTAL TRIPLE CABEZAL, TABLETAS LIMPIADORAS DE PROTESIS,CEPILLO PARA PROTESIS REMOVIBLE (VER ADJUNTO REFERENCIA).ENVIO Y DESPACHO INCLUIDO. COTIZACION CON IMAGEN DEL PRODUCTO OFERTADO."
   },
   {
    "tipo": "OPORTUNIDAD",
