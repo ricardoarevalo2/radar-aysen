@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-10-06T19:38:27.731470-03:00",
+ "actualizado": "2026-10-06T20:37:55.015515-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
- "total_region": 267,
+ "total_region": 268,
  "rubros": {
   "80141600": "Ventas y marketing",
   "82101600": "Publicidad en medios no impresos",
@@ -497,12 +497,6 @@
   }
  ],
  "pendientes": [
-  {
-   "codigo": "1079689-492-COT26",
-   "nombre": "ADQUISICIÓN DE FRUTAS Y VERDURAS PARA LOS MESES DE OCTUBRE, NOVIEMBRE Y DICIEMBRE AÑO 2026 PARA LA COMISIÓN RA",
-   "organismo": "SECCIÓN COMPRAS XI ZONA",
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1079689-492-COT26"
-  },
   {
    "codigo": "3791-1001-COT26",
    "nombre": "INSUMOS DE ALIMENTACION ",
