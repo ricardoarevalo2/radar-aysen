@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-10-06T12:39:07.481188-03:00",
+ "actualizado": "2026-10-06T13:41:35.088826-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
- "total_region": 233,
+ "total_region": 235,
  "rubros": {
   "25172700": "Aire acondicionado",
   "25173900": "Componentes eléctricos",
@@ -554,6 +554,33 @@
    "descripcion": "SE REQUIERE ADQUIRIR SERVICIO DE SUMINISTRO Y INSTALACION DE 02 UNIDADES DE EQUIPOS SPLIT MURO INVERTER R32 ECO FLOW 18.000 BTU EN HOSPITAL DE PUERTO AYSEN. SE EXIGE COTIZAR LA TOTALIDAD DEL SERVICIO. COTIZACIÓN VÁLIDA POR 30 DÍAS. ADJUNTAR FICHA TÉCNICA DE LOS EQUIPOS. ADJUNTAR TELÉFONO Y CORREO PARA REALIZAR SEGUIMIENTO. DEBE INCORPORAR DATOS BANCARIOS EN LA COTIZACIÓN."
   },
   {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Aire acondicionado"
+   ],
+   "nueva": true,
+   "codigo": "272-17-COT26",
+   "nombre": "SERVICIO DE REPARACION Y MANTENCIÓN PARA VEHÍCULO INSTITUCIONAL",
+   "organismo": "SUBSECRETARIA DEL MINISTERIO DE AGRICULT",
+   "unidad": "SEREMI XI Región",
+   "monto": 900000,
+   "cierre_iso": "2026-10-08T15:00:00-03:00",
+   "publicacion": "06-10 12:40",
+   "publicacion_iso": "2026-10-06T12:40:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "25172704",
+     "Sistema control temperatura vehículo",
+     1,
+     "SERVICIO DE REPARACIÓN Y MANTENCIÓN DEL VEHÍCULO INSTITUCIONAL, SEGÚN ESPECIFICACIÓNES TÉCNICAS.\nFAVOR LEER Y REVISAR."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=272-17-COT26",
+   "sin_detalle": false,
+   "descripcion": "La Secretaría Regional Ministerial requiere contratar el Servicio de reparación y mantención para Vehículo Institucional, camioneta Mazda BT-50 año 2016, con el propósito de garantizar condiciones adecuadas de seguridad, operatividad y funcionamiento del vehículo institucional"
+  },
+  {
    "tipo": "POSIBLE",
    "motivos": [
     "eléctrico",
@@ -598,7 +625,7 @@
    "motivos": [
     "Gasfitería, calefacción y aire acondicionado"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "868-90-COT26",
    "nombre": "PROVISION E INSTALACION DE 02 EQUIPOS DE CLIMATIZACION EN EDIFICIO GOBIERNO REGIONAL DE AYSEN",
    "organismo": "GOBIERNO REGIONAL DE AYSEN",
