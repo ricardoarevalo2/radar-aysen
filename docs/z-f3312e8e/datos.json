@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-10-06T11:39:23.746105-03:00",
+ "actualizado": "2026-10-06T12:39:07.481188-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
- "total_region": 224,
+ "total_region": 233,
  "rubros": {
   "25172700": "Aire acondicionado",
   "25173900": "Componentes eléctricos",
@@ -22,54 +22,9 @@
   {
    "tipo": "OPORTUNIDAD",
    "motivos": [
-    "Cajas y accesorios eléctricos"
-   ],
-   "nueva": true,
-   "codigo": "3950-634-COT26",
-   "nombre": "ARTICULOS PARA VACUNATORIO",
-   "organismo": "DIRECCION SALUD RURAL",
-   "unidad": "Dirección de Salud Rural",
-   "monto": 300000,
-   "cierre_iso": "2026-10-06T12:00:00-03:00",
-   "publicacion": "05-10 11:55",
-   "publicacion_iso": "2026-10-05T11:55:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "52151614",
-     "Coolers",
-     36,
-     "COOLER DE 13 LITROS"
-    ],
-    [
-     "40151607",
-     "Compresores refrigerantes",
-     36,
-     "UNIDADES REFRIGERANTES RIGIDAS"
-    ],
-    [
-     "39121310",
-     "Cajas de uso general",
-     18,
-     "CAJAS PLASTICAS DE 15 LITROS CON AZAS Y TAPA"
-    ],
-    [
-     "24111503",
-     "Bolsas de plástico",
-     200,
-     "BOLSAS CON CIERRE HERMETICO GRANDE 30 X 40 CM"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=3950-634-COT26",
-   "sin_detalle": false,
-   "descripcion": "INCLUIR DESAPCHO EN COTIZACION"
-  },
-  {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
     "Conductores eléctricos"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "2713-1198-COT26",
    "nombre": "DAOMA, ADQUISICION MATERIALES DE CONSTRUCCION NAVIDAD 2026, SOLICITUD FOLIO 1231",
    "organismo": "I MUNICIPALIDAD DE AYSEN",
@@ -337,6 +292,105 @@
   {
    "tipo": "OPORTUNIDAD",
    "motivos": [
+    "Cables eléctricos y accesorios"
+   ],
+   "nueva": true,
+   "codigo": "1057062-450-COT26",
+   "nombre": "Equipamientos Tecnológicos Proyecto URY 20991 y FIU Territorios",
+   "organismo": "UNIVERSIDAD DE AYSEN",
+   "unidad": "Proyectos",
+   "monto": 7100000,
+   "cierre_iso": "2026-10-07T15:00:00-03:00",
+   "publicacion": "06-10 12:21",
+   "publicacion_iso": "2026-10-06T12:21:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "26121620",
+     "Cable para interconexiones",
+     9,
+     "Tipo dispositivo Hub multipuerto con Conector dual USB-A y USB-C Interfaz de conexión, se debe adjuntar oferta que acumpla al menos con lo indicado en el adjunto"
+    ],
+    [
+     "52161514",
+     "Audífonos",
+     6,
+     "Audífonos con micrófono y cancelación de ruido, se debe adjuntar oferta que acumpla al menos con lo indicado en el adjunto"
+    ],
+    [
+     "43211706",
+     "Teclados",
+     11,
+     "Kit Teclado y Mouse Inalámbrico, se debe adjuntar oferta que acumpla al menos con lo indicado en el adjunto"
+    ],
+    [
+     "43211503",
+     "Notebook, laptop o computador portátil excepto Tablet PC",
+     1,
+     "Notebook 14\" OLED, ASUS Zenbook A14 (UX3407) o equivalente, se debe adjuntar oferta que acumpla al menos con lo indicado en el adjunto"
+    ],
+    [
+     "43211509",
+     "Computadores portátiles tipo Tablet PC",
+     1,
+     "Tablet de alto desempeño tipo IPAD - Apple iPad Air M4 de 13 pulgadas Wi-Fi 512 GB o equivalente, se debe adjuntar oferta que acumpla al menos con lo indicado en el adjunto"
+    ],
+    [
+     "25173303",
+     "Sistemas informáticos para automóviles",
+     1,
+     "Computador todo en uno (All-in-One) de alto desempeño tipo IMAC -Apple iMac de 24 pulgadas con chip M4, 16 GB de memoria unificada y 256 GB SSD o equivalente, se debe adjuntar oferta que acumpla al menos con lo indicado en el adjunto"
+    ],
+    [
+     "27112718",
+     "Grabadores",
+     1,
+     "Grabadora de audio portátil profesional 360° Zoom H3-VR o equivalente, se debe adjuntar oferta que acumpla al menos con lo indicado en el adjunto"
+    ],
+    [
+     "43211503",
+     "Notebook, laptop o computador portátil excepto Tablet PC",
+     1,
+     "Notebook 15,6\" de alto desempeño, Lenovo LOQ 15i Gen 10 o equivalente, se debe adjuntar oferta que acumpla al menos con lo indicado en el adjunto"
+    ],
+    [
+     "45111609",
+     "Proyectores multimedia",
+     1,
+     "Sistema portátil de proyección (proyector y telón), Byintek P70 con telón portátil de 80 pulgadas o equivalente, se debe adjuntar oferta que acumpla al menos con lo indicado en el adjunto"
+    ],
+    [
+     "60101732",
+     "Apuntadores o punteros",
+     4,
+     "Presentador inalámbrico con receptor USB, se debe adjuntar oferta que acumpla al menos con lo indicado en el adjunto"
+    ],
+    [
+     "43201803",
+     "Discos duros",
+     5,
+     "Unidad de almacenamiento USB Flash de 1 TB de capacidad, con interfaz USB 3.0 o superior, se debe adjuntar oferta que acumpla al menos con lo indicado en el adjunto"
+    ],
+    [
+     "26121604",
+     "Cable para señales",
+     4,
+     "Cable HDMI versión 2.1 o superior, se debe adjuntar oferta que acumpla al menos con lo indicado en el adjunto"
+    ],
+    [
+     "23153202",
+     "Robots para coger y colocar",
+     2,
+     "Brazo robótico educativo y de investigación con visión artificial 3D integrada, equipado con al menos 6 grados de libertad y 6 servomotores inteligentes de alto torque para manipulación de objetos, se debe adjuntar oferta que acumpla al menos con lo indicado en el adjunto"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1057062-450-COT26",
+   "sin_detalle": false,
+   "descripcion": "Se requiere cotizar equipamiento tecnológico descrito en el presente cotizador, se debe detallar lo ofertado considerando que cumpla con al menos lo indicado en el documento adjunto, indicar el plazo de entrega el cual podría ser privilegiado, y la garantía post-venta, y considerar el envío a las dependencias de la Universidad. (plazo para aceptar la Orden de compra es de 2 días corridos, si no queda sin efecto, plazo que comienza a contar los dias de plazo. Adqusiicón asociada a multa según adj"
+  },
+  {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
     "Gasfitería, calefacción y aire acondicionado"
    ],
    "nueva": false,
@@ -471,6 +525,33 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=551423-40-COT26",
    "sin_detalle": false,
    "descripcion": "TERMO ELÉCTRICO Y ACCESORIOS (Orasmi DPR AYSÉN)"
+  },
+  {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Enfriamiento (aires acondicionados)"
+   ],
+   "nueva": true,
+   "codigo": "418-1407-COT26",
+   "nombre": "COHM-SERVICIO DE SUMINISTRO Y INSTALACION DE EQUIPOS SPLIT MURO INVERTER R32 ECO FLOW 18.000 BTU ",
+   "organismo": "SERVICIO NACIONAL DE SALUD HOSPITAL DE PUERTO AYSEN",
+   "unidad": "H Puerto Aysén",
+   "monto": 1700000,
+   "cierre_iso": "2026-10-08T09:29:00-03:00",
+   "publicacion": "23-09 15:55",
+   "publicacion_iso": "2026-09-23T15:55:00-03:00",
+   "ofertas": 3,
+   "productos": [
+    [
+     "40101701",
+     "Aires acondicionados",
+     2,
+     "SE REQUIERE SERVICIO DE SUMINISTRO Y INSTALACION DE 02 UNIDADES DE EQUIPO SPLIT MURO INVERTER R32 ECO FLOW 18.000 BTU EN DEPENDENCIAS HOSPITAL DE PUERTO AYSEN."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=418-1407-COT26",
+   "sin_detalle": false,
+   "descripcion": "SE REQUIERE ADQUIRIR SERVICIO DE SUMINISTRO Y INSTALACION DE 02 UNIDADES DE EQUIPOS SPLIT MURO INVERTER R32 ECO FLOW 18.000 BTU EN HOSPITAL DE PUERTO AYSEN. SE EXIGE COTIZAR LA TOTALIDAD DEL SERVICIO. COTIZACIÓN VÁLIDA POR 30 DÍAS. ADJUNTAR FICHA TÉCNICA DE LOS EQUIPOS. ADJUNTAR TELÉFONO Y CORREO PARA REALIZAR SEGUIMIENTO. DEBE INCORPORAR DATOS BANCARIOS EN LA COTIZACIÓN."
   },
   {
    "tipo": "POSIBLE",
@@ -622,6 +703,12 @@
   }
  ],
  "pendientes": [
+  {
+   "codigo": "1079689-492-COT26",
+   "nombre": "ADQUISICIÓN DE FRUTAS Y VERDURAS PARA LOS MESES DE OCTUBRE, NOVIEMBRE Y DICIEMBRE AÑO 2026 PARA LA COMISIÓN RA",
+   "organismo": "SECCIÓN COMPRAS XI ZONA",
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1079689-492-COT26"
+  },
   {
    "codigo": "3791-1001-COT26",
    "nombre": "INSUMOS DE ALIMENTACION ",

@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-10-06T11:39:23.746105-03:00",
+ "actualizado": "2026-10-06T12:39:07.481188-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
- "total_region": 224,
+ "total_region": 233,
  "rubros": {
   "80141600": "Ventas y marketing",
   "82101600": "Publicidad en medios no impresos",
@@ -14,39 +14,6 @@
   "83121700": "Comunicación social y de masas"
  },
  "filas": [
-  {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Ventas y marketing"
-   ],
-   "nueva": false,
-   "codigo": "1746-232-COT26",
-   "nombre": "DISEÑO E IMPRESIÓN DE CREDENCIALES Y PIN (P 476 DAS)",
-   "organismo": "SUBSECRETARIA DE SALUD PUBLICA",
-   "unidad": "Seremi de Salud XI Región",
-   "monto": 1100000,
-   "cierre_iso": "2026-10-06T12:00:00-03:00",
-   "publicacion": "02-10 09:30",
-   "publicacion_iso": "2026-10-02T09:30:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "80141618",
-     "Agencias de marketing de ventas, incluidas las impresiones",
-     150,
-     "Diseño e impresión de credenciales, de acuerdo con especificaciones indicadas en el adjunto"
-    ],
-    [
-     "80141618",
-     "Agencias de marketing de ventas, incluidas las impresiones",
-     200,
-     "Diseño e impresión de PIN, de acuerdo con especificaciones indicadas en el adjunto."
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1746-232-COT26",
-   "sin_detalle": false,
-   "descripcion": "Solicitado mediante Pedido de Materiales N° 476 del Departamento de Acción Sanitaria"
-  },
   {
    "tipo": "POSIBLE",
    "motivos": [
@@ -273,6 +240,33 @@
    "descripcion": "SERVICIOS GENERALES (PASAJES AEREOS, ALOJAMIENTO, ALIMENTACIÓN, TRASLADO, COFFE BREAK) \nCUMPLIR CON LAS ESPECIFICACIONES TÉCNICAS MENCIONADAS EN DOCUMENTO ADJUNTO PM N° 483 DAS."
   },
   {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Ventas y marketing"
+   ],
+   "nueva": true,
+   "codigo": "1195-507-COT26",
+   "nombre": "Compra de Arreglos Florales, Velas, Intérprete de Señas y Canastas para TeDeum",
+   "organismo": "I MUNICIPALIDAD DE COYHAIQUE",
+   "unidad": "Ilustre Municipalidad de Coyhaique",
+   "monto": 1100000,
+   "cierre_iso": "2026-10-07T12:15:00-03:00",
+   "publicacion": "06-10 12:09",
+   "publicacion_iso": "2026-10-06T12:09:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "80141607",
+     "Producción de eventos",
+     1,
+     "Contratación de servicios de intérprete de lengua de señas (2 ceremonias, 3hrs total), 4 arreglos florales y 150 velas blancas para Te Deum Católico (9 de oct, 10:30 hrs, Catedral) y Te Deum Evangélico (14 de oct, Centro Cultural). Incluye además 1 canasta de alimentos de ayuda social y 1 kit de cafetería/frutos secos. Ver detalle en documento adjunto. Se privilegiará proveedor local con disponibilidad inmediata."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1195-507-COT26",
+   "sin_detalle": false,
+   "descripcion": "Contratación de servicios de intérprete de lengua de señas (2 ceremonias, 3hrs total), 4 arreglos florales y 150 velas blancas para Te Deum Católico (9 de oct, 10:30 hrs, Catedral) y Te Deum Evangélico (14 de oct, Centro Cultural). Incluye además 1 canasta de alimentos de ayuda social y 1 kit de cafetería/frutos secos. Ver detalle en documento adjunto. Se privilegiará proveedor local con disponibilidad inmediata."
+  },
+  {
    "tipo": "POSIBLE",
    "motivos": [
     "radial"
@@ -325,6 +319,60 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=4733-375-COT26",
    "sin_detalle": false,
    "descripcion": "Se requiere contratar el servicio de producción artística para el evento Intergeneracional Mateando la Historia Local según especificaciones técnicas adjuntas, adjuntar cotización.-"
+  },
+  {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Ventas y marketing"
+   ],
+   "nueva": true,
+   "codigo": "1080289-28-COT26",
+   "nombre": " APOYO EJECUCIÓN ESCUELA DE GESTORES EN CHILE CHICO (P 484 DAS)",
+   "organismo": "SUBSECRETARIA DE SALUD PUBLICA",
+   "unidad": "Adm Fondos o Fondos Extrapresupuestarios Aysén",
+   "monto": 850000,
+   "cierre_iso": "2026-10-08T13:00:00-03:00",
+   "publicacion": "06-10 11:53",
+   "publicacion_iso": "2026-10-06T11:53:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "80141620",
+     "Producción de eventos en el concesionario",
+     1,
+     "Apoyo ejecución de escuela de gestores en Chile Chico, durante los días 14 y 15 de octubre del 2026, de acuerdo con especificaciones indicadas en el anexo"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1080289-28-COT26",
+   "sin_detalle": false,
+   "descripcion": "Solicitado mediante Pedido de Materiales N° 484 del Departamento de Acción Sanitaria."
+  },
+  {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Ventas y marketing"
+   ],
+   "nueva": true,
+   "codigo": "1080289-27-COT26",
+   "nombre": "APOYO EJECUCIÓN DE ESCUELA DE GESTORES EN COCHRANE (P 485 DAS)",
+   "organismo": "SUBSECRETARIA DE SALUD PUBLICA",
+   "unidad": "Adm Fondos o Fondos Extrapresupuestarios Aysén",
+   "monto": 500000,
+   "cierre_iso": "2026-10-08T13:00:00-03:00",
+   "publicacion": "06-10 11:43",
+   "publicacion_iso": "2026-10-06T11:43:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "80141620",
+     "Producción de eventos en el concesionario",
+     1,
+     "Apoyo ejecución de escuela de gestores en Cochrane, durante los días 13 y 14 de octubre del 2026, de acuerdo con especificaciones indicadas en el anexo"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1080289-27-COT26",
+   "sin_detalle": false,
+   "descripcion": "Solicitado mediante Pedido de Materiales N° 485 del Departamento de Acción Sanitaria."
   },
   {
    "tipo": "OPORTUNIDAD",
@@ -433,9 +481,42 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=418-1534-COT26",
    "sin_detalle": false,
    "descripcion": "Se requiere contratar un servicio artístico de pasacalles, que permita desarrollar una intervención dinámica, visual, participativa y apta para todo público, incorporando música, danza, intervenciones circenses y elementos visuales que favorezcan la interacción con la comunidad.\nFecha: Sábado 17 de Octubre de 2026 - Lugar: Calles Puerto Aysén según el siguiente recorrido:\nInicio en Plaza Mahuen. Horario 15:00 a 17:00 hrs - Duración 2 horas"
+  },
+  {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Ventas y marketing"
+   ],
+   "nueva": true,
+   "codigo": "418-1534-COT26",
+   "nombre": "POR - SERVICIO ARTISTICO DE PASACALLE (SEGUN DETALLE ADJUNTO)",
+   "organismo": "SERVICIO NACIONAL DE SALUD HOSPITAL DE PUERTO AYSEN",
+   "unidad": "H Puerto Aysén",
+   "monto": 1,
+   "cierre_iso": "2026-10-13T08:00:00-03:00",
+   "publicacion": "06-10 09:57",
+   "publicacion_iso": "2026-10-06T09:57:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "80141607",
+     "Producción de eventos",
+     1,
+     "servicio artístico de pasacalles, que permita desarrollar una intervención dinámica, visual, participativa y apta para todo público, incorporando música, danza, intervenciones circenses y elementos visuales que favorezcan la interacción con la comunidad. Fecha: Sábado 17 de Octubre de 2026 - Lugar: Calles Puerto Aysén según el siguiente recorrido - Inicio en Plaza Mahuen Horario 15:00 a 17:00 hrs\nDuración 2 horas"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=418-1534-COT26",
+   "sin_detalle": false,
+   "descripcion": "Se requiere contratar un servicio artístico de pasacalles, que permita desarrollar una intervención dinámica, visual, participativa y apta para todo público, incorporando música, danza, intervenciones circenses y elementos visuales que favorezcan la interacción con la comunidad.\nFecha: Sábado 17 de Octubre de 2026 - Lugar: Calles Puerto Aysén según el siguiente recorrido:\nInicio en Plaza Mahuen. Horario 15:00 a 17:00 hrs - Duración 2 horas"
   }
  ],
  "pendientes": [
+  {
+   "codigo": "1079689-492-COT26",
+   "nombre": "ADQUISICIÓN DE FRUTAS Y VERDURAS PARA LOS MESES DE OCTUBRE, NOVIEMBRE Y DICIEMBRE AÑO 2026 PARA LA COMISIÓN RA",
+   "organismo": "SECCIÓN COMPRAS XI ZONA",
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1079689-492-COT26"
+  },
   {
    "codigo": "3791-1001-COT26",
    "nombre": "INSUMOS DE ALIMENTACION ",
