@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-10-06T16:39:02.703919-03:00",
+ "actualizado": "2026-10-06T17:40:21.273695-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
- "total_region": 250,
+ "total_region": 267,
  "rubros": {
   "25172700": "Aire acondicionado",
   "25173900": "Componentes eléctricos",
@@ -19,45 +19,6 @@
   "39121400": "Conectores, enchufes y terminales"
  },
  "filas": [
-  {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Gasfitería, calefacción y aire acondicionado"
-   ],
-   "nueva": true,
-   "codigo": "657-86-COT26",
-   "nombre": "Mantención de 07 equipos climatizadores y adquisición de 14 tubos led",
-   "organismo": "SERVICIO DE VIVIENDA Y URBANIZACION XI REGION",
-   "unidad": "SERVIU XI REGION",
-   "monto": 520000,
-   "cierre_iso": "2026-10-06T17:00:00-03:00",
-   "publicacion": "05-10 16:42",
-   "publicacion_iso": "2026-10-05T16:42:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "39101701",
-     "Tubos fluorescentes",
-     10,
-     "10 tubos LED T8 de 9W (60 cm)."
-    ],
-    [
-     "39101701",
-     "Tubos fluorescentes",
-     4,
-     "4 tubos LED T8 de 18W (120 cm)."
-    ],
-    [
-     "72102302",
-     "Instalación, reparación o mantenimiento de sistemas de calefacción",
-     7,
-     "Se requiere contratar el servicio de mantención para 07 equipos climatizadores, los cuales se encuentran en la delegacion provincial de Cochrane ubicada en Doctor Steffens N.° 558 se adjunta especificacion de climatizadores"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=657-86-COT26",
-   "sin_detalle": false,
-   "descripcion": "Se requiere contratar el servicio de mantención para 07 equipos climatizadores, además de la adquisición de:\n•\t10 tubos LED T8 de 9W (60 cm).\n•\t4 tubos LED T8 de 18W (120 cm).\nLos trabajos e insumos están destinados a la Delegación Provincial de Cochrane, ubicada en Doctor Steffens N.° 558.\nComo requisito, el proveedor deberá ser de la comuna de Cochrane. Se adjunta ficha de los climatizadores y se solicita incorporar cotización y formulario de solicitud de transferencia."
-  },
   {
    "tipo": "POSIBLE",
    "motivos": [
@@ -352,6 +313,33 @@
   {
    "tipo": "POSIBLE",
    "motivos": [
+    "instalación eléctrica"
+   ],
+   "nueva": true,
+   "codigo": "1343645-114-COT26",
+   "nombre": "Instalación Estufas a Pellet ",
+   "organismo": "I MUNICIPALIDAD DE O HIGGINS",
+   "unidad": "SECPLAN",
+   "monto": 1800000,
+   "cierre_iso": "2026-10-07T17:30:00-03:00",
+   "publicacion": "06-10 17:06",
+   "publicacion_iso": "2026-10-06T17:06:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "80111613",
+     "Mano de obra temporal",
+     1,
+     "La Ilustre Municipalidad de O´Higgins, ubicada en la Región de Aysén, requiere Cotizar la\ninstalación de 7 estufas a Pellet en diversos edificios municipales. En los cuales se requiere\ninstalación eléctrica para su conexión como se indica en detalle de los trabajos (Punto N°7) y la\nprovisión de escantillón para todas las combustiones a pellet. según requerimiento adjunto"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1343645-114-COT26",
+   "sin_detalle": false,
+   "descripcion": "La Ilustre Municipalidad de O´Higgins, ubicada en la Región de Aysén, requiere Cotizar la\ninstalación de 7 estufas a Pellet en diversos edificios municipales. En los cuales se requiere\ninstalación eléctrica para su conexión como se indica en detalle de los trabajos (Punto N°7) y la\nprovisión de escantillón para todas las combustiones a pellet."
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
     "eléctrico"
    ],
    "nueva": false,
@@ -459,6 +447,33 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=551423-40-COT26",
    "sin_detalle": false,
    "descripcion": "TERMO ELÉCTRICO Y ACCESORIOS (Orasmi DPR AYSÉN)"
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "climatización"
+   ],
+   "nueva": true,
+   "codigo": "3765-282-COT26",
+   "nombre": "INSUMOS DE FERRETERIA HABILITACIÓN CASA SENDA ",
+   "organismo": "SERVICIO NACIONAL DE SALUD HOSPITAL DE C",
+   "unidad": "Hospital Doctor  Leopoldo Ortega Rodríguez",
+   "monto": 5000000,
+   "cierre_iso": "2026-10-08T09:00:00-03:00",
+   "publicacion": "06-10 16:57",
+   "publicacion_iso": "2026-10-06T16:57:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "31161503",
+     "Clavo-tornillo",
+     1,
+     "INSUMOS DE FERRETERÍA DETALLADOS EN ADJUNTO (SE DEBE ADJUNTAR EL DETALLE DE LOS PRECIOS POR PRODUCTO)"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=3765-282-COT26",
+   "sin_detalle": false,
+   "descripcion": "INSUMOS DE FERRETERÍA HABILITACIÓN CASA SENDA - INSUMOS ASOCIADOS A REVESTIMIENTOS, CLIMATIZACIÓN, TERMINACIONES E INSTALACIONES SANITARIAS"
   },
   {
    "tipo": "OPORTUNIDAD",

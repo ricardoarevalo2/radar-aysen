@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-10-06T16:39:02.703919-03:00",
+ "actualizado": "2026-10-06T17:40:21.273695-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
- "total_region": 250,
+ "total_region": 267,
  "rubros": {
   "80141600": "Ventas y marketing",
   "82101600": "Publicidad en medios no impresos",
@@ -278,6 +278,33 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=3949-244-COT26",
    "sin_detalle": false,
    "descripcion": "SE REQUIERE ADQUIRIR BARNIZ FLUOR, CEPILLO DENTAL TRIPLE CABEZAL, TABLETAS LIMPIADORAS DE PROTESIS,CEPILLO PARA PROTESIS REMOVIBLE (VER ADJUNTO REFERENCIA).ENVIO Y DESPACHO INCLUIDO. COTIZACION CON IMAGEN DEL PRODUCTO OFERTADO."
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "difusión"
+   ],
+   "nueva": true,
+   "codigo": "1233615-774-COT26",
+   "nombre": "JGS [INT-2026-00245] MATERIALES DIFUSIÓN HPV II COCHRANE.",
+   "organismo": "Servicio Local de Educación Pública Aysén",
+   "unidad": "Servicio Local de Educación Pública Aysén",
+   "monto": 1999995,
+   "cierre_iso": "2026-10-08T09:00:00-03:00",
+   "publicacion": "06-10 17:00",
+   "publicacion_iso": "2026-10-06T17:00:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "46171515",
+     "Estuches de llaves o llaveros",
+     1,
+     "programa HPV participa de diversas instancias, en las que se promueva la salud mental infantil y de la comunidad escolar en su totalidad, DETALLE CONFORME A DOCUMENTO ANEXO."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1233615-774-COT26",
+   "sin_detalle": false,
+   "descripcion": "MATERIALES DIFUSIÓN HPV II COCHRANE"
   },
   {
    "tipo": "OPORTUNIDAD",
