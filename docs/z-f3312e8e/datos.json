@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-10-06T10:40:22.632941-03:00",
+ "actualizado": "2026-10-06T11:39:23.746105-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
- "total_region": 229,
+ "total_region": 224,
  "rubros": {
   "25172700": "Aire acondicionado",
   "25173900": "Componentes eléctricos",
@@ -19,60 +19,6 @@
   "39121400": "Conectores, enchufes y terminales"
  },
  "filas": [
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "iluminación"
-   ],
-   "nueva": true,
-   "codigo": "1079689-476-COT26",
-   "nombre": "ADQUISICIÓN DE LINTERNAS PORTÁTILES PARA LA SECCIÓN CRIMINALÍSTICA COYHAIQUE.",
-   "organismo": "SECCIÓN COMPRAS XI ZONA",
-   "unidad": "SEC DE COMP ZONA AYSÉN DEL GRAL CARL IBAÑ DEL CAMP",
-   "monto": 599996,
-   "cierre_iso": "2026-10-06T10:45:00-03:00",
-   "publicacion": "01-10 14:27",
-   "publicacion_iso": "2026-10-01T14:27:00-03:00",
-   "ofertas": 9,
-   "productos": [
-    [
-     "39111609",
-     "Linternas de queroseno, propano o butano",
-     6,
-     "LINTERNAS PORTATILES ILUMINACIÓN MÓVIL EQUIVALENTE O SUPERIOR EN CALIDAD A MARCA STEELPRO SAFETY SF14 WATCHFUL TORCH. SE ADJUNTA ANEXO DE REQUERIMIENTOS TÉCNICOS EL CUAL DEBE SER COMPLETADO CON UNA X EN CADA UNO DE LOS RUBROS REQUERIDOS."
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1079689-476-COT26",
-   "sin_detalle": false,
-   "descripcion": "ADQUISICIÓN DE LINTERNAS PORTÁTILES PARA LA SECCIÓN CRIMINALÍSTICA COYHAIQUE. CON DESPACHO A DOMICILIO. INDICAR PLAZO DE ENTREGA, ADJUNTAR COTIZACIÓN Y COMPLETAR CADA RUBRO DEL ANEXO REQUERIMIENTOS TÉCNICOS. DE NO INDICAR PLAZO DE ENTREGA NI ADJUNTAR COTIZACIÓN Y ANEXO DE REQUERIMIENTOS TÉCNICOS, NO SERÁ EVALUADO."
-  },
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "eléctrico"
-   ],
-   "nueva": false,
-   "codigo": "5038-62-COT26",
-   "nombre": "Serivicio de normalizacion electrica Bandejon Central Puerto Rio Tranquilo",
-   "organismo": "I MUNICIPALIDAD RIO IBANEZ",
-   "unidad": "Administración Municipal",
-   "monto": 1700000,
-   "cierre_iso": "2026-10-06T11:00:00-03:00",
-   "publicacion": "05-10 09:41",
-   "publicacion_iso": "2026-10-05T09:41:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "26112105",
-     "Sistemas de frenado eléctrico",
-     1,
-     "Serivicio de normalizacion electrica Bandejon Central Puerto Rio Tranquilo segun tdr"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=5038-62-COT26",
-   "sin_detalle": false,
-   "descripcion": "Se requiere Contratar el servicio de normalizacion electrica para el bandejon central de puerto rio tranquilo, segun terminos de referencia adjuntos, se evaluara oferta economica y oferta tecnica"
-  },
   {
    "tipo": "OPORTUNIDAD",
    "motivos": [

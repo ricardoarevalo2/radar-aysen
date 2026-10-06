@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-10-06T10:40:22.632941-03:00",
+ "actualizado": "2026-10-06T11:39:23.746105-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
- "total_region": 229,
+ "total_region": 224,
  "rubros": {
   "80141600": "Ventas y marketing",
   "82101600": "Publicidad en medios no impresos",
@@ -14,66 +14,6 @@
   "83121700": "Comunicación social y de masas"
  },
  "filas": [
-  {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Publicidad en medios no impresos"
-   ],
-   "nueva": true,
-   "codigo": "4609-271-COT26",
-   "nombre": "CAPSULAS RADIALES",
-   "organismo": "I MUNICIPALIDAD DE CHILE CHICO",
-   "unidad": "Finanzas",
-   "monto": 600000,
-   "cierre_iso": "2026-10-06T10:45:00-03:00",
-   "publicacion": "05-10 10:36",
-   "publicacion_iso": "2026-10-05T10:36:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "82101601",
-     "Publicidad en radio",
-     1,
-     "SERVICIO DE GRABACION Y DIFUSION DE 10 CAPSULAS RADIALES, CON EL FIN DE INFORMAR SOBRE LA REALIZACION DEL PROYECTO. LAS CAPSULAS DEBEN COMENZAR A DIFUNDIRSE DESDE EL 19.10.2026 AL 30.11.2026."
-    ],
-    [
-     "82101601",
-     "Publicidad en radio",
-     1,
-     "ENTREVISTA RADIAL EN ESTUDIO A LA DIRECTORA DIDECO JUNTO A LA ENCARGADA DEL DPTO. SOCIAL, CON LA FINALIDAD DE DIFUNDIR LA INICIATIVA, MIERCOLES 04.11.2026."
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=4609-271-COT26",
-   "sin_detalle": false,
-   "descripcion": "COTIZACION SERVICIO GRABACION Y DIFUSION CAPSULAS RADIALES"
-  },
-  {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Publicidad en medios no impresos"
-   ],
-   "nueva": true,
-   "codigo": "1282238-66-COT26",
-   "nombre": "TRANSMISIÓN EN VIVO DE 3 DÍAS Y PUBLICIDAD EN RR.SS",
-   "organismo": "CORPORACION CULTURAL MUNICIPAL DE COYHAIQUE",
-   "unidad": "CORPORACION CULTURAL MUNICIPAL DE COYHAIQUE",
-   "monto": 1500000,
-   "cierre_iso": "2026-10-06T11:00:00-03:00",
-   "publicacion": "05-10 10:36",
-   "publicacion_iso": "2026-10-05T10:36:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "82101603",
-     "Publicidad en Internet",
-     1,
-     "TRANSMISIÓN EN VIVO DE 3 DÍAS JORNADA PM Y PUBLICIDAD EN RR.SS"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1282238-66-COT26",
-   "sin_detalle": false,
-   "descripcion": "SE NECESITA LA TRANSMISIÓN EN VIVO DE EVENTO EN PLATAFORMAS DIGITALES (INSTRAGRAM Y FACEBOK) Y ENTREVISTAS + REELS PARA PUBLICAR EN REDES.\n*PARA LA EVALUACIÓN, SE NECESITA QUE EL MEDIO TENGA ALCANCE REGIONAL, SOBRE 50.000 SEGUIDORES Y ADEMÁS QUE CUENTE CON EL EQUIPAMIENTO COMPLETO PARA LA REALIZACIÓN DEL SERVICIO, ADEMÁS EL MEDIO DEBE SER DE COYHAIQUE. JUNTO A ESTOS CRITERIOS SE EVALUARÁ EL PRECIO Y LA PRESENCIA DEL MEDIO (ADJUNTAR IMAGENES SI HA REALIZADO DESPACHOS A MEDIOS FUERA DE LA REGIÓN)."
-  },
   {
    "tipo": "OPORTUNIDAD",
    "motivos": [
@@ -337,7 +277,7 @@
    "motivos": [
     "radial"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "734-167-COT26",
    "nombre": "Adquisición de 20 neumáticos Mixto AT medidas 245-75r16, 10 telas",
    "organismo": "SERVICIO DE SALUD AYSEN CARLOS IBANEZ DEL CAMPO",
