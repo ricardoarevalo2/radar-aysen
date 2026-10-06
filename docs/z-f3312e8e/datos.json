@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-10-05T21:48:32.690029-03:00",
+ "actualizado": "2026-10-06T06:40:07.876298-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
- "total_region": 220,
+ "total_region": 219,
  "rubros": {
   "25172700": "Aire acondicionado",
   "25173900": "Componentes eléctricos",
@@ -19,111 +19,6 @@
   "39121400": "Conectores, enchufes y terminales"
  },
  "filas": [
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "interruptor"
-   ],
-   "nueva": false,
-   "codigo": "2713-1188-COT26",
-   "nombre": "DIDECO/PROMOS, adquisicion de materiales de oficina, solicitud folio 1205",
-   "organismo": "I MUNICIPALIDAD DE AYSEN",
-   "unidad": "I.MUNICIPALIDAD AYSEN-ADQUISICIONES",
-   "monto": 310000,
-   "cierre_iso": "2026-10-06T03:00:00-03:00",
-   "publicacion": "30-09 16:59",
-   "publicacion_iso": "2026-09-30T16:59:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "60121124",
-     "Papel kraft",
-     10,
-     "PLIEGO DE PAPEL KRAF DE 77 X 110 CM, DIMENSION MINIMA APROXIMADA"
-    ],
-    [
-     "60123001",
-     "Figuras de goma Eva",
-     20,
-     "LAMINA DE GOMA EVA DIMENSION MINIMA 20X30CM SIN ADHESIVO  10 LAMINAS COLOR ROSADO 10 LAMINAS COLOR MORADO"
-    ],
-    [
-     "49101609",
-     "Ornamentos y decoraciones",
-     50,
-     "UNIDADES DE GLOBOS DE LATEX LISOS  TAMAÑO MINIMO 23 CM 25 UNIDADES COLOR ROSADO 25 UNIDADES COLOR MORADO"
-    ],
-    [
-     "31201509",
-     "Cinta adhesiva de nilon",
-     2,
-     "UNIDADES DE CINTA ADHESIVAS DE ENMASCARAR USO GENERAL COLOR BEIGE DIMENSION MINIMA 18MM ANCHO POR 20 METROS LARGO"
-    ],
-    [
-     "14111530",
-     "Notas de papel autoadhesivo",
-     2,
-     "PACK DE NOTAS ADHESIVAS  CDA PACK DEBE CONTENER 5 BLOCK DE NOTAS ADHESIVAS DE 76X76X100HOJAS COLORES SURTIDOS"
-    ],
-    [
-     "60121502",
-     "Rotuladores de base disolvente",
-     6,
-     "UNIDADES PLUMONES PERMANENTES CON PUNTA REDONDA 2 COLOR AZUL, 2 COLOR NEGRO, 2 COLOR NARANJO"
-    ],
-    [
-     "44121704",
-     "Lápiz pasta",
-     10,
-     "UNIDAD DE LAPIZ PASTA COLOR AZUL"
-    ],
-    [
-     "12352310",
-     "Siliconas",
-     2,
-     "UNIDAD DE PISTOLAS ELECTRICAS PARA SILICONA CALIENTE, CON INTERRUPTOR DE ENCENDIDO Y APAGADO ALIMENTACION ELECTRICA 220V, COMPATIBLE CON BARRAS DE 7MM"
-    ],
-    [
-     "12352310",
-     "Siliconas",
-     20,
-     "BARRA DE SILICONA TERMOFUSIBLE TRANSPARENTE DIAMETRO MINIMO 7MM LARGO MINIMO 20CM"
-    ],
-    [
-     "44122106",
-     "Chinches y tachuelas",
-     50,
-     "UNIDADES DE CHINCHES DE COLORES PUSH PINS PARA PIZARRA"
-    ],
-    [
-     "14111610",
-     "Cartulina",
-     20,
-     "PLIEGOS DE CARTULINA DIMENSIONES MINIMAS 50X70CM, 10 PLIEGOS COLOR ROSADO Y 10 PLIEGOS COLOR MORADO"
-    ],
-    [
-     "30141602",
-     "Revestimiento de aislamiento no térmico",
-     4,
-     "PLANCHAS DE POLIESTIRENO EXPANDIDO (PLUMAVIT) COLOR BLANCO PARA TRABAJOS MANUALES DIMENSION MINIMA 50X100CM Y ESPESOR MINIMO 20MM"
-    ],
-    [
-     "44121618",
-     "Tijeras",
-     4,
-     "UNIDADES DE TIJERAS TAMAÑO APROXIMADO 17 A 21 CM HOJAS ACERO INOXIDABLE, MANGO PLASTICO, PUNTA ROMA O REDONDEADA."
-    ],
-    [
-     "44121708",
-     "Marcadores",
-     24,
-     "UNIDAD DE LAPICES MARCADORES PARA MANUALIDADES TINTA DE COLORES SURTIDOS PUNTA FINA O MEDIA APTO PARA ESCRITURA Y DIBUJO SOBRE PAPEL Y. CARTULINA"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=2713-1188-COT26",
-   "sin_detalle": false,
-   "descripcion": "ADQUISICION DE MATERIALES DE OFICINA SEGUN DETALLES Y ESPECIFICACIONES ADJUNTAS, LOS MONTOS DE LAS OFERTAS DEBEN INCLUIR TODOS LOS GASTOS NECESARIOS, PARA LA ENTREGA DE LOS MATERIALES DE OFICINA EN LAS DEPENDENCIAS DE GALERIA DE ARTESANOS, EN PUERTO AYSÉN, LAS OFERTAS QUE SOBREPASEN EL MONTO PRESUPUESTARIO DISPONIBLE, NO CUMPLAN CON LAS ESPECIFICACIONES, NO CUMPLAN O NO INDIQUEN EL PLAZO DE ENTREGA NO SERÁN EVALUADAS."
-  },
   {
    "tipo": "POSIBLE",
    "motivos": [

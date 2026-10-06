@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-10-05T21:48:32.690029-03:00",
+ "actualizado": "2026-10-06T06:40:07.876298-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
- "total_region": 220,
+ "total_region": 219,
  "rubros": {
   "80141600": "Ventas y marketing",
   "82101600": "Publicidad en medios no impresos",
@@ -14,100 +14,6 @@
   "83121700": "Comunicación social y de masas"
  },
  "filas": [
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "difusión",
-    "publicitarios"
-   ],
-   "nueva": false,
-   "codigo": "1458-21-COT26",
-   "nombre": "Adquisición de Material de Difusión del Sistema Elige Vivir Sano. ",
-   "organismo": "SERPLAC XI Región",
-   "unidad": "SERPLAC XI Región",
-   "monto": 2812000,
-   "cierre_iso": "2026-10-06T05:30:00-03:00",
-   "publicacion": "28-09 14:29",
-   "publicacion_iso": "2026-09-28T14:29:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "55121706",
-     "Banderas",
-     4,
-     "Bandera vela con mástil de 320 cm, impresión mediante serigrafía o técnica equivalente que asegure adecuada calidad y durabilidad. Debe incluir base y estructura necesaria para su instalación. (VER TÉRMINOS DE REFERENCIA)"
-    ],
-    [
-     "82101501",
-     "Letreros publicitarios",
-     1,
-     "1 Pendón tipo araña recto de 4 cuerpos, con frontal y laterales en telas, estructura incluida, impresión mediante serigrafía o técnica equivalente  y bolso para  transporte. (VER TÉRMINOS DE REFERENCIA)"
-    ],
-    [
-     "82101501",
-     "Letreros publicitarios",
-     3,
-     "Pendón tipo roller 100x200 cm, material  PVC o de características técnicas  equivalentes, con impresión full color y base de aluminio, o de material de resistencia equivalente. (VER TÉRMINOS DE REFERENCIA)"
-    ],
-    [
-     "55121706",
-     "Banderas",
-     4,
-     "Bandera tipo gota con mástil de 420 Cm, impresión mediante serigrafía o técnica equivalente. Debe incluir estructura necesaria para su instalación. (VER TÉRMINOS DE REFERENCIA)"
-    ],
-    [
-     "30151901",
-     "Toldos",
-     1,
-     "Toldo plegable de aproximadamente 3x3 mts., con 4 cenefas personalizadas mediante serigrafía o técnica equivalente. Debe incluir estructura metálica resistente. (VER TÉRMINOS DE REFERENCIA)"
-    ],
-    [
-     "56101703",
-     "Escritorios",
-     2,
-     "Mesón counter básico 180X80 80X30 terminación brillante, personalizado mediante serigrafía o técnica de impresión equivalente. (VER TÉRMINOS DE REFERENCIA)"
-    ],
-    [
-     "42142110",
-     "Botellas de agua terapéuticas de calentar o de enfriar",
-     400,
-     "Botella reutilizable de aproximadamente 500 cc, de capacidad, personalizada con logo institucional, con tapa rosca de acero inoxidable, o material de características equivalentes, medidas aproximadas de  21,5x6,5 color azul. (VER TÉRMINOS DE REFERENCIA)"
-    ],
-    [
-     "53121602",
-     "Bolsas de lona",
-     200,
-     "Bolsas tipo mochila de 2,9 litros, confeccionada  en tela no tejida tipo TNT o materiales de características equivalentes, con correas, dimensiones aproximadas de 35X44 CM, de color Azul, mediante  serigrafía o técnica equivalente. (VER TÉRMINOS DE REFERENCIA)"
-    ],
-    [
-     "53121608",
-     "Bolsas para compras",
-     200,
-     "Bolsas tipo mochila de 2,9 litros, confeccionada  en tela no tejida tipo TNT o materiales de características equivalentes, con correas, dimensiones aproximadas de 35X44 CM, de color rojo, mediante  serigrafía o técnica equivalente.(VER TÉRMINOS DE REFERENCIA)"
-    ],
-    [
-     "53102503",
-     "Sombreros",
-     200,
-     "Jockey tipo 169, o de características equivalentes, para adultos, talla única,  confeccionado en 6 paneles con sistema de ajuste mediante hebilla metálica o equivalente personalizado mediante impresión en DTF, o técnica equivalente que asegure adecuada calidad y durabilidad. Color Azul. (VER TÉRMINOS DE REFERENCIA)"
-    ],
-    [
-     "53102503",
-     "Sombreros",
-     100,
-     "Jockey tipo 169, o de características equivalentes, para adultos, talla única,  confeccionado en 6 paneles con sistema de ajuste mediante hebilla metálica o equivalente personalizado mediante impresión en DTF, o técnica equivalente que asegure adecuada calidad y durabilidad. Color Gris.(VER TÉRMINOS DE REFERENCIA)"
-    ],
-    [
-     "53102503",
-     "Sombreros",
-     100,
-     "Jockey tipo 169, o de características equivalentes, para adultos, talla única,  confeccionado en 6 paneles con sistema de ajuste mediante hebilla metálica o equivalente personalizado mediante impresión en DTF, o técnica equivalente que asegure adecuada calidad y durabilidad. Color Rojo. (VER TÉRMINOS DE REFERENCIA)"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1458-21-COT26",
-   "sin_detalle": false,
-   "descripcion": "La Secretaría Regional Ministerial de Desarrollo Social y Familia de la región de Aysén, requiere adquirir Material de Difusión destinado a la realización de diferentes actividades del Sistema Elige Vivir Sano (EVS), para dar cumplimiento al respectivo plan de trabajo regional. \n\nLa Adquisición se efectuará mediante el procedimiento de compra Ágil, de conformidad  con la Ley N°18.886 y su reglamento, aprobado mediante Decreto Supremo N°661 de 2024. (VER TÉRMINOS DE REFERENCIA)"
-  },
   {
    "tipo": "OPORTUNIDAD",
    "motivos": [
