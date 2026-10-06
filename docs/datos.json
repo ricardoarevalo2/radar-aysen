@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-10-06T08:38:56.646787-03:00",
+ "actualizado": "2026-10-06T10:40:22.632941-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
- "total_region": 219,
+ "total_region": 229,
  "rubros": {
   "80141600": "Ventas y marketing",
   "82101600": "Publicidad en medios no impresos",
@@ -385,7 +385,122 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=4733-375-COT26",
    "sin_detalle": false,
    "descripcion": "Se requiere contratar el servicio de producción artística para el evento Intergeneracional Mateando la Historia Local según especificaciones técnicas adjuntas, adjuntar cotización.-"
+  },
+  {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Ventas y marketing"
+   ],
+   "nueva": true,
+   "codigo": "4609-273-COT26",
+   "nombre": "SERVICIO PRODUCCION Y DESARROLLO DE EVENTO",
+   "organismo": "I MUNICIPALIDAD DE CHILE CHICO",
+   "unidad": "Finanzas",
+   "monto": 7170000,
+   "cierre_iso": "2026-10-09T10:00:00-03:00",
+   "publicacion": "06-10 10:39",
+   "publicacion_iso": "2026-10-06T10:39:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "80141607",
+     "Producción de eventos",
+     1,
+     "SERVICIO DE PRODUCCION TECNICA Y ARTISTICA - LANZAMIENTO DE TEMPORADA TURISTICA CHILE CHICO 2026 - 2027. (Detalle en TDR adjunto)."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=4609-273-COT26",
+   "sin_detalle": false,
+   "descripcion": "COTIZACION SERVICIO PRODUCCION Y DESARROLLO DE EVENTO, \"LANZAMIENTO DE TEMPORADA TURISTICA CHILE CHICO 2026-2027\""
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "fotografía"
+   ],
+   "nueva": true,
+   "codigo": "1201-168-COT26",
+   "nombre": "SERVICIO DE COLACIONES ENCUENTRO DEPORTIVO, PROGRAMA FORMACION PARA EL DEPORTE, COMPONENTE ENCUENTROS FORMATIVOS DEPORTIVOS 2026.",
+   "organismo": "INSTITUTO NACIONAL DE DEPORTES DE CHILE",
+   "unidad": "I.N.D. REGION XI",
+   "monto": 2500000,
+   "cierre_iso": "2026-10-09T10:00:00-03:00",
+   "publicacion": "06-10 10:12",
+   "publicacion_iso": "2026-10-06T10:12:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "90101603",
+     "Servicios de catering",
+     500,
+     "El kit de colación deberá contar\ncon los siguientes productos:\n1 Jugo tetra pack 200m1,\nvariedad de sabores.\n1 Galletón de avena de 40\ngramos (avena, avena\narándanos rojos, avena\nmanzana, avena\nalmendras o avena con\nchip de chocolate).\n1 Sándwich jamón-queso\ntamaño hallulla (120\ngramos aprox.)."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1201-168-COT26",
+   "sin_detalle": false,
+   "descripcion": "La necesidad de contar con colaciones para hito regional \"Festival Infantil de la Patagonia\", del Programa Formación para el Deporte componente Encuentros Formativos Deportivos a ejecutar por el departamento de Actividad Física del Instituto Nacional de Deportes Región de Aysén.\nLos productos a ofertar deberán considerar fotografía y una descripción técnica sobre sus\ncaracterísticas específicas."
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "publicitarios"
+   ],
+   "nueva": true,
+   "codigo": "1233615-770-COT26",
+   "nombre": "NDF/SOL 255/HPV2/Pendón tamaño 100 x 200 cms ",
+   "organismo": "Servicio Local de Educación Pública Aysén",
+   "unidad": "Servicio Local de Educación Pública Aysén",
+   "monto": 80000,
+   "cierre_iso": "2026-10-09T15:00:00-03:00",
+   "publicacion": "06-10 10:37",
+   "publicacion_iso": "2026-10-06T10:37:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "82101501",
+     "Letreros publicitarios",
+     1,
+     "Pendón tamaño 100 x 200 cms \nSe entregará diseño definitivo al proveedor adjudicado"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1233615-770-COT26",
+   "sin_detalle": false,
+   "descripcion": "El Servicio Local de Educación Publica de Aysen requeire adquirir Pendón tamaño 100 x 200 cms para difusición, los oferentes interesados deberan leer formulario adjunto y presentarlo en su propuesta. El diseño definitivo sera entrego al proveedor adjudicado."
+  },
+  {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Ventas y marketing"
+   ],
+   "nueva": true,
+   "codigo": "418-1534-COT26",
+   "nombre": "POR - SERVICIO ARTISTICO DE PASACALLE (SEGUN DETALLE ADJUNTO)",
+   "organismo": "SERVICIO NACIONAL DE SALUD HOSPITAL DE PUERTO AYSEN",
+   "unidad": "H Puerto Aysén",
+   "monto": 1,
+   "cierre_iso": "2026-10-13T08:00:00-03:00",
+   "publicacion": "06-10 09:57",
+   "publicacion_iso": "2026-10-06T09:57:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "80141607",
+     "Producción de eventos",
+     1,
+     "servicio artístico de pasacalles, que permita desarrollar una intervención dinámica, visual, participativa y apta para todo público, incorporando música, danza, intervenciones circenses y elementos visuales que favorezcan la interacción con la comunidad. Fecha: Sábado 17 de Octubre de 2026 - Lugar: Calles Puerto Aysén según el siguiente recorrido - Inicio en Plaza Mahuen Horario 15:00 a 17:00 hrs\nDuración 2 horas"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=418-1534-COT26",
+   "sin_detalle": false,
+   "descripcion": "Se requiere contratar un servicio artístico de pasacalles, que permita desarrollar una intervención dinámica, visual, participativa y apta para todo público, incorporando música, danza, intervenciones circenses y elementos visuales que favorezcan la interacción con la comunidad.\nFecha: Sábado 17 de Octubre de 2026 - Lugar: Calles Puerto Aysén según el siguiente recorrido:\nInicio en Plaza Mahuen. Horario 15:00 a 17:00 hrs - Duración 2 horas"
   }
  ],
- "pendientes": []
+ "pendientes": [
+  {
+   "codigo": "3791-1001-COT26",
+   "nombre": "INSUMOS DE ALIMENTACION ",
+   "organismo": "I MUNICIPALIDAD DE CISNES",
+   "link": "https://buscador.mercadopublico.cl/ficha?code=3791-1001-COT26"
+  }
+ ]
 }

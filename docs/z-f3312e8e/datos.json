@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-10-06T08:38:56.646787-03:00",
+ "actualizado": "2026-10-06T10:40:22.632941-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
- "total_region": 219,
+ "total_region": 229,
  "rubros": {
   "25172700": "Aire acondicionado",
   "25173900": "Componentes eléctricos",
@@ -51,7 +51,7 @@
    "motivos": [
     "eléctrico"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "5038-62-COT26",
    "nombre": "Serivicio de normalizacion electrica Bandejon Central Puerto Rio Tranquilo",
    "organismo": "I MUNICIPALIDAD RIO IBANEZ",
@@ -527,6 +527,46 @@
    "descripcion": "TERMO ELÉCTRICO Y ACCESORIOS (Orasmi DPR AYSÉN)"
   },
   {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "eléctrico",
+    "sistema eléctrico"
+   ],
+   "nueva": true,
+   "codigo": "4778-308-COT26",
+   "nombre": "RELE- SOLICITUD N° 9566- MANTENCION PREVENTIVA 3 TRANSPALETA ELECTRICAS SE ADJUNTA DETALLE",
+   "organismo": "SERVICIO NACIONAL DE SALUD HOSPITAL DE C",
+   "unidad": "Compras de Insumos y Servicios Generales",
+   "monto": 803250,
+   "cierre_iso": "2026-10-08T17:00:00-03:00",
+   "publicacion": "06-10 09:27",
+   "publicacion_iso": "2026-10-06T09:27:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "25181709",
+     "Pala cargadora",
+     1,
+     "Mantención preventiva para transpaletas electrohidráulicas\nTRANSPALETA ZHEJIANG SL15 702303015145"
+    ],
+    [
+     "25181709",
+     "Pala cargadora",
+     1,
+     "Mantención preventiva para transpaletas electrohidráulicas\nTRANSPALETA ZHEJIANG SL15 2108G0405"
+    ],
+    [
+     "25181709",
+     "Pala cargadora",
+     1,
+     "Mantención preventiva para transpaletas electrohidráulicas\nTRANSPALETA ZHEJIANG SL15L3  722305045535"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=4778-308-COT26",
+   "sin_detalle": false,
+   "descripcion": "Actividades mínimas a realizar:Limpieza sistema eléctrico y botón de seguridad;Limpieza de contactores;Verificar carga de batería;Cambio de aceite e hidráulico;Limpiar, revisar y lubricar sistema tándem de las horquillas;Engrasar rodamientos ruedas;Verificar levante uniforme de uñas;Medición de carga y normal funcionamiento del cargador batería;Cambio de rodamientos ruedas tándem;Entrega de informe final con observaciones y repuestos que requieran cambio;\nTRANSPALETA  ZHEJIANG SL15 SR. 70230301"
+  },
+  {
    "tipo": "OPORTUNIDAD",
    "motivos": [
     "Gasfitería, calefacción y aire acondicionado"
@@ -635,5 +675,12 @@
    "descripcion": "La Fiscalía Regional de Aysén requiere contratar el servicio de mantención de 74 equipos de aire acondicionados en la región de Aysén. El detalle de los servicios y dirección de estos se encuentra en documento adjunto “CONDICIONES MÍNIMAS.pdf”. Se deberán adjuntar todos los certificados requeridos."
   }
  ],
- "pendientes": []
+ "pendientes": [
+  {
+   "codigo": "3791-1001-COT26",
+   "nombre": "INSUMOS DE ALIMENTACION ",
+   "organismo": "I MUNICIPALIDAD DE CISNES",
+   "link": "https://buscador.mercadopublico.cl/ficha?code=3791-1001-COT26"
+  }
+ ]
 }
