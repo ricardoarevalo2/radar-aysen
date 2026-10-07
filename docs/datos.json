@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-10-07T17:39:25.418225-03:00",
+ "actualizado": "2026-10-07T18:40:30.424014-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
- "total_region": 304,
+ "total_region": 299,
  "rubros": {
   "80141600": "Ventas y marketing",
   "82101600": "Publicidad en medios no impresos",
@@ -46,7 +46,7 @@
    "motivos": [
     "difusión"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "1233615-774-COT26",
    "nombre": "JGS [INT-2026-00245] MATERIALES DIFUSIÓN HPV II COCHRANE.",
    "organismo": "Servicio Local de Educación Pública Aysén",
