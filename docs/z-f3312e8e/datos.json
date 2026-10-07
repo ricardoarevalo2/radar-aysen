@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-10-07T15:44:38.712911-03:00",
+ "actualizado": "2026-10-07T16:38:32.706346-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
- "total_region": 298,
+ "total_region": 297,
  "rubros": {
   "25172700": "Aire acondicionado",
   "25173900": "Componentes eléctricos",
@@ -19,39 +19,6 @@
   "39121400": "Conectores, enchufes y terminales"
  },
  "filas": [
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "iluminación"
-   ],
-   "nueva": true,
-   "codigo": "3949-243-COT26",
-   "nombre": "MALETIN TECNICO Y LINTERNAS FRONTAL (DENTAL)",
-   "organismo": "CONSULTORIO GENERAL URBANO DR ALEJANDRO GUTIERREZ",
-   "unidad": "ID 3949 - CESFAM Dr Alejandro Gutiérrez",
-   "monto": 500000,
-   "cierre_iso": "2026-10-07T16:00:00-03:00",
-   "publicacion": "06-10 15:51",
-   "publicacion_iso": "2026-10-06T15:51:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "53121501",
-     "Bolsos",
-     2,
-     "Maletín técnico para visitas domiciliarias de asistencia sanitaria, fabricado en poliéster 420D o tejido técnico de alta resistencia, impermeable, lavable y de estructura semi-rígida.Debe contar con un volumen útil de 18 a 20 litros, dimensiones aproximadas de 40 x 30 x 16 cm y un peso liviano (no mayor a 1,9 kg).Su distribución interna debe incluir compartimentos modulares con frontal transparente para rápida identificación de insumos, bolsillos de red de gran capacidad con banda (ver adjunto)"
-    ],
-    [
-     "39111702",
-     "Lámparas portátiles",
-     4,
-     "Linterna frontal, con tecnología de iluminación LED de alta eficiencia que provea un flujo luminoso de entre 350 y 450 lúmenes y una luz blanca neutra para la correcta apreciación de tejidos y mucosas.El equipo debe ser liviano (peso inferior a 160 g), de diseño ergonómico y contar con una cinta elástica de cabeza ajustable, desmontable y lavable que garantice el trabajo manos libres.Debe funcionar mediante pilas desechables de fácil adquisición(AAA o AA),garantizando disponibilidad(ver adjunto)"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=3949-243-COT26",
-   "sin_detalle": false,
-   "descripcion": "SE REQUIERE ADQUIRIR MALETIN TECNICO Y LINTERNA FRONTAL PARA VISITAS DOMICILIARIAS (VER DOCUMENTO ADJUNTO REFERENCIA). SE PRIORIZARA PROVEEDOR REGIONAL.ENVIO Y DESPACHO INCLUIDO. ENVIAR COTIZACION CON IMAGEN DEL PRODUCTO OFERTADO"
-  },
   {
    "tipo": "POSIBLE",
    "motivos": [
@@ -270,155 +237,6 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=3949-245-COT26",
    "sin_detalle": false,
    "descripcion": "SE SOLICITA MONITORA CON EXPERIENCIA EN PREPARACIÓN DE ARTESANIAS EN FIELTRO (VER ESPECIFICACIONES TÉCNICAS ADJUNTAS) DEBE INCLUIR LUGAR O SALÓN CON CALEFACCIÓN E ILUMINACIÓN ADECUADA, PROVEEDOR CON RESIDENCIA EN COYHAIQUE. LA CUAL AL FINAL DEL CURSO, DEBE CONTEMPLAR UNA CEREMONIA DE CIERRE CON DESGUSTACIÓN DE ALIMENTACIÓN CON PERTINENCIA INDIGENA. SE REALIZARÁ ENTREVISTA PERSONAL (EXCLUYENTE)"
-  },
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "ampolleta",
-    "enchufe",
-    "enchufes"
-   ],
-   "nueva": true,
-   "codigo": "3791-1008-COT26",
-   "nombre": "MANTENCION Y REPARACION GIM LA JUNTA ",
-   "organismo": "I MUNICIPALIDAD DE CISNES",
-   "unidad": "Finanzas",
-   "monto": 5144965,
-   "cierre_iso": "2026-10-08T12:40:00-03:00",
-   "publicacion": "07-10 12:36",
-   "publicacion_iso": "2026-10-07T12:36:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "27113201",
-     "Conjuntos generales de herramientas",
-     3,
-     "Plancha yeso-cartón 10 mm (RH)"
-    ],
-    [
-     "27113201",
-     "Conjuntos generales de herramientas",
-     2,
-     "Tornillos CRS 11/2\" (caja 100 u)"
-    ],
-    [
-     "27113201",
-     "Conjuntos generales de herramientas",
-     2,
-     "Tineta pintura esmalte al agua con aditivo antihongos"
-    ],
-    [
-     "27113201",
-     "Conjuntos generales de herramientas",
-     1,
-     "Pasta muro (galón)"
-    ],
-    [
-     "27113201",
-     "Conjuntos generales de herramientas",
-     4,
-     "Rodillos 23cm"
-    ],
-    [
-     "27113201",
-     "Conjuntos generales de herramientas",
-     4,
-     "Brochas 4\""
-    ],
-    [
-     "27113201",
-     "Conjuntos generales de herramientas",
-     4,
-     "Lijas grano fino"
-    ],
-    [
-     "27113201",
-     "Conjuntos generales de herramientas",
-     4,
-     "Lijas grano grueso"
-    ],
-    [
-     "27113201",
-     "Conjuntos generales de herramientas",
-     2,
-     "Cinta masking 48mm"
-    ],
-    [
-     "27113201",
-     "Conjuntos generales de herramientas",
-     4,
-     "Silicona antihongos transparente"
-    ],
-    [
-     "27113201",
-     "Conjuntos generales de herramientas",
-     12,
-     "Sellador de poliuretano / MS polímero (cartucho 300 ml)"
-    ],
-    [
-     "27113201",
-     "Conjuntos generales de herramientas",
-     75,
-     "Tornillo autoperforante de techo 6\" punta broca con golilla EPDM (caja 100un)"
-    ],
-    [
-     "27113201",
-     "Conjuntos generales de herramientas",
-     15,
-     "Cinta sello de butilo 75 mm (rollo 10 mts)"
-    ],
-    [
-     "27113201",
-     "Conjuntos generales de herramientas",
-     5,
-     "Tornillo de costura 1/4\" x 7/8\" (caja 100 u)"
-    ],
-    [
-     "27113201",
-     "Conjuntos generales de herramientas",
-     1,
-     "Ampolleta Luz blanca 15 W"
-    ],
-    [
-     "27113201",
-     "Conjuntos generales de herramientas",
-     1,
-     "Marco de madera 5\" puerta de bodega"
-    ],
-    [
-     "27113201",
-     "Conjuntos generales de herramientas",
-     1,
-     "Cerámica muro blanca (caja) 20 x 30"
-    ],
-    [
-     "27113201",
-     "Conjuntos generales de herramientas",
-     1,
-     "adhesivo ceramico AC (galón)"
-    ],
-    [
-     "27113201",
-     "Conjuntos generales de herramientas",
-     18,
-     "Enchufes simples embutidos 10Amp"
-    ],
-    [
-     "27113201",
-     "Conjuntos generales de herramientas",
-     3,
-     "Enchufe macho 10Amp"
-    ],
-    [
-     "27113201",
-     "Conjuntos generales de herramientas",
-     15,
-     "Luces de emergencia, 2 focos"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=3791-1008-COT26",
-   "sin_detalle": false,
-   "descripcion": "ADQUISICION DE MATERIALES PARA LA EJECUCION DE LA INICIATIVA DE INVERSION \"MANTENCION Y REPARACION DE GIMNASIO DE LA JUNTA, COMUA DE CISNES SEGUN DECRETO N°5160 DEL 05 DE OCTUBRE 2026. SE ADJUNTAN ANEXOS"
   },
   {
    "tipo": "POSIBLE",
@@ -942,6 +760,46 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=838101-30-COT26",
    "sin_detalle": false,
    "descripcion": "SE SOLICITA LA ADQUISICION DE ELEMENTOS PARA MANTENIMIENTO EN LA CH EL REFUGIO, DEPENDIENTE DE LA ZONA DE BIENESTAR COYHAIQUE\n\nINCLUIR EN EL VALOS DE LOS PRODUCTOS EL FLETE A LA LOCALIDAD DE COCHRANE\n\nSE SOLICITA LLENAR EL ANEXO QUE SE ADJUNTA (DECLARACION JURADA SIMPLE) PARA LOS OFERENTES POSTULANTES, QUIEN NO LO PRESENTE FIRMADO QUEDA FUERA DE POSTULACION"
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "eléctrico",
+    "sistema eléctrico"
+   ],
+   "nueva": true,
+   "codigo": "4778-308-COT26",
+   "nombre": "RELE- SOLICITUD N° 9566- MANTENCION PREVENTIVA 3 TRANSPALETA ELECTRICAS SE ADJUNTA DETALLE",
+   "organismo": "SERVICIO NACIONAL DE SALUD HOSPITAL DE C",
+   "unidad": "Compras de Insumos y Servicios Generales",
+   "monto": 803250,
+   "cierre_iso": "2026-10-08T17:00:00-03:00",
+   "publicacion": "06-10 09:27",
+   "publicacion_iso": "2026-10-06T09:27:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "25181709",
+     "Pala cargadora",
+     1,
+     "Mantención preventiva para transpaletas electrohidráulicas\nTRANSPALETA ZHEJIANG SL15 702303015145"
+    ],
+    [
+     "25181709",
+     "Pala cargadora",
+     1,
+     "Mantención preventiva para transpaletas electrohidráulicas\nTRANSPALETA ZHEJIANG SL15 2108G0405"
+    ],
+    [
+     "25181709",
+     "Pala cargadora",
+     1,
+     "Mantención preventiva para transpaletas electrohidráulicas\nTRANSPALETA ZHEJIANG SL15L3  722305045535"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=4778-308-COT26",
+   "sin_detalle": false,
+   "descripcion": "Actividades mínimas a realizar:Limpieza sistema eléctrico y botón de seguridad;Limpieza de contactores;Verificar carga de batería;Cambio de aceite e hidráulico;Limpiar, revisar y lubricar sistema tándem de las horquillas;Engrasar rodamientos ruedas;Verificar levante uniforme de uñas;Medición de carga y normal funcionamiento del cargador batería;Cambio de rodamientos ruedas tándem;Entrega de informe final con observaciones y repuestos que requieran cambio;\nTRANSPALETA  ZHEJIANG SL15 SR. 70230301"
   },
   {
    "tipo": "OPORTUNIDAD",

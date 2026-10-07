@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-10-07T15:44:38.712911-03:00",
+ "actualizado": "2026-10-07T16:38:32.706346-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
- "total_region": 298,
+ "total_region": 297,
  "rubros": {
   "80141600": "Ventas y marketing",
   "82101600": "Publicidad en medios no impresos",
@@ -14,109 +14,6 @@
   "83121700": "Comunicación social y de masas"
  },
  "filas": [
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "radial"
-   ],
-   "nueva": false,
-   "codigo": "734-167-COT26",
-   "nombre": "Adquisición de 20 neumáticos Mixto AT medidas 245-75r16, 10 telas",
-   "organismo": "SERVICIO DE SALUD AYSEN CARLOS IBANEZ DEL CAMPO",
-   "unidad": "DIRECCION",
-   "monto": 3180000,
-   "cierre_iso": "2026-10-07T16:00:00-03:00",
-   "publicacion": "05-10 09:58",
-   "publicacion_iso": "2026-10-05T09:58:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "25172504",
-     "Neumáticos para camionetas o automóviles",
-     20,
-     "Cantidad: 20 unidades\n- Medida: 245/75 R16\n- Tipo: AT (All Terrain)\n- Estructura: Radial\n- Capas: 10 telas (10PR) mínimo\n- Uso: Mixto carretera / off-road\n\nConsiderar:\n\n- Montaje de neumáticos\n- Balanceo"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=734-167-COT26",
-   "sin_detalle": false,
-   "descripcion": "Adquisición de 20 neumáticos Mixto AT medidas 245-75r16, 10 telas"
-  },
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "audiovisual",
-    "difusión",
-    "registro audiovisual",
-    "streaming",
-    "transmisión en vivo"
-   ],
-   "nueva": true,
-   "codigo": "3797-456-COT26",
-   "nombre": "Servicio de transmisión vía streaming para el Seminario de Turismo",
-   "organismo": "I MUNICIPALIDAD DE COCHRANE",
-   "unidad": "I MUNICIPALIDAD DE COCHRANE",
-   "monto": 1000000,
-   "cierre_iso": "2026-10-07T16:10:00-03:00",
-   "publicacion": "06-10 16:01",
-   "publicacion_iso": "2026-10-06T16:01:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "43223207",
-     "Sistema de transmisión por secuencias de video",
-     1,
-     "Adquisición Servicio de transmisión vía streaming para el Seminario de Turismo, correspondiente a la Actividad N°5 del programa “Transferencia para el Desarrollo del Turismo y Fomento Productivo de la Comuna de Cochrane”, Código BIP 40072539-0, conforme a las especificaciones técnicas establecidas en los Términos de Referencia adjuntos. Incluye instalación, configuración y operación de equipos, cámaras, captura y manejo de audio, conectividad, transmisión en vivo, personal técnico, monitoreo de"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=3797-456-COT26",
-   "sin_detalle": false,
-   "descripcion": ": Contratar servicios técnicos especializados de transmisión vía streaming para la ejecución del Seminario de Turismo, correspondiente a la Actividad N°5 del programa “Transferencia para el Desarrollo del Turismo y Fomento Productivo de la Comuna de Cochrane”, Código BIP 40072539-0, con el propósito de facilitar la difusión y participación remota en las actividades programadas, ampliar el alcance del seminario y disponer de un registro audiovisual de las jornadas. eett adjuntas"
-  },
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "fotografía"
-   ],
-   "nueva": true,
-   "codigo": "3949-244-COT26",
-   "nombre": "INSUMOS DE HIGIENE ORAL ",
-   "organismo": "CONSULTORIO GENERAL URBANO DR ALEJANDRO GUTIERREZ",
-   "unidad": "ID 3949 - CESFAM Dr Alejandro Gutiérrez",
-   "monto": 1200000,
-   "cierre_iso": "2026-10-07T16:30:00-03:00",
-   "publicacion": "06-10 16:19",
-   "publicacion_iso": "2026-10-06T16:19:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "42151504",
-     "Barniz dental",
-     1,
-     "Barniz flúor, 22.600 ppm fluoruro, monodosis, caja de 100 unidades. De preferencia incluir fotografía del producto. Fecha de vencimiento no menor a 18 meses al momento de la entrega."
-    ],
-    [
-     "53131503",
-     "Cepillos de dientes",
-     100,
-     "Cepillo dental triple cabezal,para limpieza simultánea de caras vestibular,oclusal y lingual/palatina.El producto deberá contar con cerdas suaves o ultrasuaves de nylon/PBT con puntas redondeadas,disponer de un mango ergonómico y antideslizante libre de BPA y látex(apto para cepillado autónomo o asistido),y venir en empaque primario individual sellado e higiénico.Debe dar cumplimiento a normativas de calidad internacionales(ISO 13485, CE o FDA) y estar debidamente rotulado en español (ver adjunt"
-    ],
-    [
-     "53131508",
-     "Tabletas para limpiar las prótesis dentales",
-     40,
-     "Tabletas limpiadoras de prótesis en presentación comercial de caja de 30 o 36 unidades, de rápida disolución en agua tibia (3 a 5 minutos) y solución de pH neutro a ligeramente alcalino (6,5 - 8,5) no abrasiva para resinas acrílicas y estructuras metálicas. El producto debe contar con acción antibacteriana y antifúngica comprobada, formulado a base de agentes oxidantes y efervescentes libres de sustancias dañinas para la mucosa tras el enjuague.Las tabletas deberán venir contenidas (ver adjunto)"
-    ],
-    [
-     "42151611",
-     "Cepillos operativos dentales",
-     60,
-     "Cepillo para prótesis removible.fabricados en material plástico duradero,higiénico y libre de BPA.Debe contar con un diseño de doble cabezal funcional:un cabezal principal de cerdas anchas y planas para la limpieza de las superficies lisas de la prótesis,y un cabezal secundario cónico o en ángulo para acceder a recovecos, caras internas y ganchos metálicos.Las cerdas deben ser de nylon o PBT resistentes pero no abrasivas, para prevenir el desgaste o rayado del acrílico.El mango debe(ver adjunto)"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=3949-244-COT26",
-   "sin_detalle": false,
-   "descripcion": "SE REQUIERE ADQUIRIR BARNIZ FLUOR, CEPILLO DENTAL TRIPLE CABEZAL, TABLETAS LIMPIADORAS DE PROTESIS,CEPILLO PARA PROTESIS REMOVIBLE (VER ADJUNTO REFERENCIA).ENVIO Y DESPACHO INCLUIDO. COTIZACION CON IMAGEN DEL PRODUCTO OFERTADO."
-  },
   {
    "tipo": "POSIBLE",
    "motivos": [
@@ -450,6 +347,33 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=1201-168-COT26",
    "sin_detalle": false,
    "descripcion": "La necesidad de contar con colaciones para hito regional \"Festival Infantil de la Patagonia\", del Programa Formación para el Deporte componente Encuentros Formativos Deportivos a ejecutar por el departamento de Actividad Física del Instituto Nacional de Deportes Región de Aysén.\nLos productos a ofertar deberán considerar fotografía y una descripción técnica sobre sus\ncaracterísticas específicas."
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "difusión"
+   ],
+   "nueva": true,
+   "codigo": "1092-59-COT26",
+   "nombre": "SIC 441 SIRE 417 Servicio Pantallas LED",
+   "organismo": "CORP NACIONAL FORESTAL",
+   "unidad": "XI Región - Oficina Regional de Aysén",
+   "monto": 800000,
+   "cierre_iso": "2026-10-09T12:00:00-03:00",
+   "publicacion": "07-10 15:41",
+   "publicacion_iso": "2026-10-07T15:41:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "45111603",
+     "Pantallas de proyección",
+     1,
+     "Se requiere sistema de pantalla Led de  3 Mts por 2 Mts, con las siguientes características:\n* Dimensiones: 3 Mts de ancho por 2 Mts de alto. P3.9 de Pixel pitch\nGabinetes modulares.\n* Procesador de video: Controlador Novastar.\n* Estructura y soporte: Bumpers para colgar o armar la estructura.\n* Transporte: Flight cases / cases de transporte especializados.\n* Cableado: Set completo de cables de poder y señal (RJ45)\nContar con técnico o profesional que haga labores de controlador. Ver doc. adj."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1092-59-COT26",
+   "sin_detalle": false,
+   "descripcion": "SERVICIO DE PANTALLAS LED PARA DIFUSIÓN EVENTO SEMANA DE LA PYME (RUBRO FORESTAL), PARA EL DÍA 13-10-2026 HORARIO DE 14:30 A 18:30 HORAS, EN CENTRO CULTURAL DE COYHAIQUE, BAQUEDANO ESQUINA EUSEBIO LILLO. VER DOCUMENTO ADJUNTO."
   },
   {
    "tipo": "POSIBLE",
