@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-10-07T09:48:04.266868-03:00",
+ "actualizado": "2026-10-07T10:40:35.607878-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
- "total_region": 285,
+ "total_region": 282,
  "rubros": {
   "25172700": "Aire acondicionado",
   "25173900": "Componentes eléctricos",
@@ -459,7 +459,7 @@
     "eléctrico",
     "sistema eléctrico"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "4778-308-COT26",
    "nombre": "RELE- SOLICITUD N° 9566- MANTENCION PREVENTIVA 3 TRANSPALETA ELECTRICAS SE ADJUNTA DETALLE",
    "organismo": "SERVICIO NACIONAL DE SALUD HOSPITAL DE C",
