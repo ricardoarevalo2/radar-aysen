@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-10-07T13:42:16.934861-03:00",
+ "actualizado": "2026-10-07T14:40:49.607928-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
- "total_region": 285,
+ "total_region": 287,
  "rubros": {
   "80141600": "Ventas y marketing",
   "82101600": "Publicidad en medios no impresos",
@@ -338,7 +338,7 @@
    "motivos": [
     "Ventas y marketing"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "418-1538-COT26",
    "nombre": "POR - SERVICIO ARTISTICO DE PASACALLE (SEGUN DETALLE ADJUNTO)",
    "organismo": "SERVICIO NACIONAL DE SALUD HOSPITAL DE PUERTO AYSEN",
