@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-10-07T10:40:35.607878-03:00",
+ "actualizado": "2026-10-07T11:40:39.863557-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
- "total_region": 282,
+ "total_region": 289,
  "rubros": {
   "80141600": "Ventas y marketing",
   "82101600": "Publicidad en medios no impresos",
@@ -14,33 +14,6 @@
   "83121700": "Comunicación social y de masas"
  },
  "filas": [
-  {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Ventas y marketing"
-   ],
-   "nueva": false,
-   "codigo": "1746-235-COT26",
-   "nombre": "SERVICIOS GENERALES (PASAJES AEREOS, ALOJAMIENTO, ALIMENTACIÓN, TRASLADO, COFFE BREAK) PM N° 483 DAS",
-   "organismo": "SUBSECRETARIA DE SALUD PUBLICA",
-   "unidad": "Seremi de Salud XI Región",
-   "monto": 2800000,
-   "cierre_iso": "2026-10-07T11:00:00-03:00",
-   "publicacion": "05-10 15:46",
-   "publicacion_iso": "2026-10-05T15:46:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "80141607",
-     "Producción de eventos",
-     1,
-     "SERVICIOS GENERALES (PASAJES AEREOS, ALOJAMIENTO, ALIMENTACIÓN, TRASLADO, COFFE BREAK) \nCUMPLIR CON LAS ESPECIFICACIONES TÉCNICAS MENCIONADAS EN DOCUMENTO ADJUNTO PM N° 483 DAS."
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1746-235-COT26",
-   "sin_detalle": false,
-   "descripcion": "SERVICIOS GENERALES (PASAJES AEREOS, ALOJAMIENTO, ALIMENTACIÓN, TRASLADO, COFFE BREAK) \nCUMPLIR CON LAS ESPECIFICACIONES TÉCNICAS MENCIONADAS EN DOCUMENTO ADJUNTO PM N° 483 DAS."
-  },
   {
    "tipo": "OPORTUNIDAD",
    "motivos": [
@@ -496,5 +469,12 @@
    "descripcion": "El Servicio Local de Educación Publica de Aysen requeire adquirir Pendón tamaño 100 x 200 cms para difusición, los oferentes interesados deberan leer formulario adjunto y presentarlo en su propuesta. El diseño definitivo sera entrego al proveedor adjudicado."
   }
  ],
- "pendientes": []
+ "pendientes": [
+  {
+   "codigo": "2495-543-COT26",
+   "nombre": "Compra de alimentos para jornadas de sensibilización del Programa Mujeres, derechos sexuales y reproductivos",
+   "organismo": "I MUNICIPALIDAD DE COYHAIQUE",
+   "link": "https://buscador.mercadopublico.cl/ficha?code=2495-543-COT26"
+  }
+ ]
 }

@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-10-07T10:40:35.607878-03:00",
+ "actualizado": "2026-10-07T11:40:39.863557-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
- "total_region": 282,
+ "total_region": 289,
  "rubros": {
   "25172700": "Aire acondicionado",
   "25173900": "Componentes eléctricos",
@@ -371,6 +371,39 @@
    "descripcion": "SE REQUIERE ADQUIRIR SERVICIO DE SUMINISTRO Y INSTALACION DE 02 UNIDADES DE EQUIPOS SPLIT MURO INVERTER R32 ECO FLOW 18.000 BTU EN HOSPITAL DE PUERTO AYSEN. SE EXIGE COTIZAR LA TOTALIDAD DEL SERVICIO. COTIZACIÓN VÁLIDA POR 30 DÍAS. ADJUNTAR FICHA TÉCNICA DE LOS EQUIPOS. ADJUNTAR TELÉFONO Y CORREO PARA REALIZAR SEGUIMIENTO. DEBE INCORPORAR DATOS BANCARIOS EN LA COTIZACIÓN."
   },
   {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "iluminación"
+   ],
+   "nueva": true,
+   "codigo": "1405-35-COT26",
+   "nombre": "Adquisición de 04 Plafones 24W y 02 Proyectores Led 40w con panel solar",
+   "organismo": "DELEGACIÓN PRESIDENCIAL PROVINCIAL DE CAPITÁN PRAT",
+   "unidad": "DELEGACIÓN PRESIDENCIAL PROVINCIAL DE CAPITÁN PRAT",
+   "monto": 214000,
+   "cierre_iso": "2026-10-08T14:00:00-03:00",
+   "publicacion": "07-10 11:33",
+   "publicacion_iso": "2026-10-07T11:33:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "39111521",
+     "Plafones",
+     4,
+     "04 plafones sobrepuesto redondo 24W . Luz Fría"
+    ],
+    [
+     "39111513",
+     "Iluminación solar interior",
+     2,
+     "02 Proyectores Led 40w con panel solar,6500K IP65."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1405-35-COT26",
+   "sin_detalle": false,
+   "descripcion": "Adquisición de 04 Planes Sobrepuesto 24W., Luz Fría y 02 Proyectores Led 40W., 6500K IP65.\nEl oferente deberá indicar si asume los costos de despacho. En caso afirmativo, dicho costo deberá encontrarse incluido en el valor total ofertado y no podrá ser presentado como un ítem."
+  },
+  {
    "tipo": "OPORTUNIDAD",
    "motivos": [
     "Gasfitería, calefacción y aire acondicionado"
@@ -657,5 +690,12 @@
    "descripcion": "PROCESO DE ADQUISICIÓN PARA EL SERVICIO DE LEVANTAMIENTO ELECTRICO, RETIRO E INSTALACIÓN DE EQUIUPOS DE CLIMATIZACIÓN PARA OFICINAS DE LA SEREMITT DE AYSÉN\n\nLA VISITA ENTERRENO SERÁ EL DÍA 9 DE OCTUBRE A LAS 10:00 HORAS\nVER  REQUERIMIENTO TÉCNICO"
   }
  ],
- "pendientes": []
+ "pendientes": [
+  {
+   "codigo": "2495-543-COT26",
+   "nombre": "Compra de alimentos para jornadas de sensibilización del Programa Mujeres, derechos sexuales y reproductivos",
+   "organismo": "I MUNICIPALIDAD DE COYHAIQUE",
+   "link": "https://buscador.mercadopublico.cl/ficha?code=2495-543-COT26"
+  }
+ ]
 }
