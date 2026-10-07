@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-10-07T16:38:32.706346-03:00",
+ "actualizado": "2026-10-07T17:39:25.418225-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
- "total_region": 297,
+ "total_region": 304,
  "rubros": {
   "25172700": "Aire acondicionado",
   "25173900": "Componentes eléctricos",
@@ -19,33 +19,6 @@
   "39121400": "Conectores, enchufes y terminales"
  },
  "filas": [
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "instalación eléctrica"
-   ],
-   "nueva": true,
-   "codigo": "1343645-114-COT26",
-   "nombre": "Instalación Estufas a Pellet ",
-   "organismo": "I MUNICIPALIDAD DE O HIGGINS",
-   "unidad": "SECPLAN",
-   "monto": 1800000,
-   "cierre_iso": "2026-10-07T17:30:00-03:00",
-   "publicacion": "06-10 17:06",
-   "publicacion_iso": "2026-10-06T17:06:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "80111613",
-     "Mano de obra temporal",
-     1,
-     "La Ilustre Municipalidad de O´Higgins, ubicada en la Región de Aysén, requiere Cotizar la\ninstalación de 7 estufas a Pellet en diversos edificios municipales. En los cuales se requiere\ninstalación eléctrica para su conexión como se indica en detalle de los trabajos (Punto N°7) y la\nprovisión de escantillón para todas las combustiones a pellet. según requerimiento adjunto"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1343645-114-COT26",
-   "sin_detalle": false,
-   "descripcion": "La Ilustre Municipalidad de O´Higgins, ubicada en la Región de Aysén, requiere Cotizar la\ninstalación de 7 estufas a Pellet en diversos edificios municipales. En los cuales se requiere\ninstalación eléctrica para su conexión como se indica en detalle de los trabajos (Punto N°7) y la\nprovisión de escantillón para todas las combustiones a pellet."
-  },
   {
    "tipo": "POSIBLE",
    "motivos": [
@@ -932,6 +905,33 @@
    "motivos": [
     "iluminación"
    ],
+   "nueva": true,
+   "codigo": "1195-514-COT26",
+   "nombre": "MANTENCION TORRES DE ILUMINACION",
+   "organismo": "I MUNICIPALIDAD DE COYHAIQUE",
+   "unidad": "Ilustre Municipalidad de Coyhaique",
+   "monto": 3500000,
+   "cierre_iso": "2026-10-08T18:00:00-03:00",
+   "publicacion": "07-10 17:13",
+   "publicacion_iso": "2026-10-07T17:13:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "39112002",
+     "Carro de iluminación",
+     6,
+     "SE REQUIERE CONTRATAR SERVICIO DE MANTENCION DE 6 TORRES DE ILUMINACION, CONTEMPLANDO LA REVICION Y MATENCION PREVENTIVA, REVICION Y REPARACION SISTEMA DE FRENO Y REPARACION DE TIROS DE ARRASTRE. SE ADJUNTA IMAGEN CON CARACTERISTICAS DE LAS TORRES."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1195-514-COT26",
+   "sin_detalle": false,
+   "descripcion": "SE REQUIERE CONTRATAR SERVICIO DE MANTENCION DE 6 TORRES DE ILUMINACION, CONTEMPLANDO LA REVICION Y MATENCION PREVENTIVA, REVICION Y REPARACION SISTEMA DE FRENO Y REPARACION DE TIROS DE ARRASTRE. SE DARA PRIORIDAD A PROVEEDOR LOCAL. SE ADJUNTA IMAGEN CON CARACTERISTICAS DE LAS TORRES."
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "iluminación"
+   ],
    "nueva": false,
    "codigo": "1057062-449-COT26",
    "nombre": "Servicio de arriendo sala de teatro para el 15 de octubre coyhaique, ury 2493 segun fisabs 2269",
@@ -1034,6 +1034,33 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=4889-39-COT26",
    "sin_detalle": false,
    "descripcion": "MANTENIMIENTO SENTINA - OFICINAS SEREMI DE LAS CULTURAS\nCARACTERÍSTICAS SEGUN ARCHIVO ADJUNTO"
+  },
+  {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Cajas y accesorios eléctricos"
+   ],
+   "nueva": true,
+   "codigo": "3540-252-COT26",
+   "nombre": "CORTA CORRIENTE 24 V 100AMP",
+   "organismo": "Ejercito de Chile",
+   "unidad": "Cuerpo Militar del Trabajo Subjefatura Zonal Coyhaique",
+   "monto": 90000,
+   "cierre_iso": "2026-10-13T10:00:00-03:00",
+   "publicacion": "07-10 16:44",
+   "publicacion_iso": "2026-10-07T16:44:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "39121308",
+     "Cajas de toma de corriente",
+     1,
+     "CORTA CORRIENTE 24VOLT 100AMP (Codigo RLD5-D011_1) para bus Hyunday County 29 DLX"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=3540-252-COT26",
+   "sin_detalle": false,
+   "descripcion": "Indicar plazo de entrega y datos de contacto. Se privilegiará proveedor de la región o que cuente con sucursal en Coyhaique y luego precio. Este proceso no considera ítem flete ni cargos adicionales, los costos deben estar incluidos en los valores unitarios. (LEER TÉRMINOS DE REFERENCIA ADJUNTO)"
   },
   {
    "tipo": "OPORTUNIDAD",

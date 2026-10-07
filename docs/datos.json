@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-10-07T16:38:32.706346-03:00",
+ "actualizado": "2026-10-07T17:39:25.418225-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
- "total_region": 297,
+ "total_region": 304,
  "rubros": {
   "80141600": "Ventas y marketing",
   "82101600": "Publicidad en medios no impresos",
@@ -212,6 +212,33 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=3791-1011-COT26",
    "sin_detalle": false,
    "descripcion": "ADQUISICION DE PENDONES ROLLERS,DIPTICOS Y AFICHES DE DIFUSION PARA LA OFICINA LOCAL DE LA NIÑEZ, SE ADJUNTAN ANEXOS"
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "radio"
+   ],
+   "nueva": true,
+   "codigo": "1280-67-COT26",
+   "nombre": "ARRIENDO CAMION CISTERNA",
+   "organismo": "MINISTERIO DE OBRAS PUBLICAS DIREC CION GRAL DE OO PP DCYF",
+   "unidad": "Direccion de Vialidad - XI Región - Provincia de Cochrane",
+   "monto": 6200000,
+   "cierre_iso": "2026-10-08T17:30:00-03:00",
+   "publicacion": "07-10 17:27",
+   "publicacion_iso": "2026-10-07T17:27:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "25101610",
+     "Camiones cisterna",
+     30,
+     "arriendo de camión cisterna con una capacidad de mínima de 10 m3, para faenas de conservación consideradas en un radio de 50 km de la localidad de Cochrane, Región de Aysén - ADJUNTAR PERMISO CIRCULACION"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1280-67-COT26",
+   "sin_detalle": false,
+   "descripcion": "La Oficina Provincial de Vialidad Capitán Prat, requiere contratar un arriendo de camión cisterna con una capacidad de mínima de 10 m3, para faenas de conservación consideradas en un radio de 50 km de la localidad de Cochrane, Región de Aysén."
   },
   {
    "tipo": "POSIBLE",
