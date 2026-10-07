@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-10-07T07:39:48.754600-03:00",
+ "actualizado": "2026-10-07T08:39:35.903032-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
- "total_region": 272,
+ "total_region": 269,
  "rubros": {
   "25172700": "Aire acondicionado",
   "25173900": "Componentes eléctricos",
@@ -19,84 +19,6 @@
   "39121400": "Conectores, enchufes y terminales"
  },
  "filas": [
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "iluminación"
-   ],
-   "nueva": false,
-   "codigo": "1057062-449-COT26",
-   "nombre": "Servicio de arriendo sala de teatro para el 15 de octubre coyhaique, ury 2493 segun fisabs 2269",
-   "organismo": "UNIVERSIDAD DE AYSEN",
-   "unidad": "Proyectos",
-   "monto": 300000,
-   "cierre_iso": "2026-10-07T08:00:00-03:00",
-   "publicacion": "05-10 17:35",
-   "publicacion_iso": "2026-10-05T17:35:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "90111604",
-     "Salones",
-     1,
-     "Servicio de ARRIENDO DE SALA DE TEATRO.Requerimientos del espacio\n? Sala de artes escénicas en formato cámara negra.\n? 24mts cuadrados de espacio escénico.\n? Capacidad para 50 espectadores.\n? Contar con espacio aparte para camarín que incluya baño.\n? Equipo de sonido e iluminación incluido y montado.\n? Técnico a cargo de operar durante toda la jornada.\nsegun especificacion tecnica adjunta ver"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1057062-449-COT26",
-   "sin_detalle": false,
-   "descripcion": "La Universidad de Aysén, requiere cotizar el ARRIENDO DE SALA DE TEATRO, jueves 15 de octubre de 2026, Lugar dentro del radio urbano de Coyhaique. de 15:00 a 20:00hrs Detalle del espacio: Según especificaciones técnicas. deben cumplir con las especificaciones técnicas en archivo adjunto. Proveedor deberá adjuntar cotizacion con servicio ofertado con detalle."
-  },
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "alargador"
-   ],
-   "nueva": false,
-   "codigo": "418-1532-COT26",
-   "nombre": "POR - INSUMOS PARA EL ASEO (SEGÚN DETALLE ADJUNTO) ",
-   "organismo": "SERVICIO NACIONAL DE SALUD HOSPITAL DE PUERTO AYSEN",
-   "unidad": "H Puerto Aysén",
-   "monto": 1,
-   "cierre_iso": "2026-10-07T08:00:00-03:00",
-   "publicacion": "05-10 16:05",
-   "publicacion_iso": "2026-10-05T16:05:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "47131618",
-     "Mopas húmedas",
-     1,
-     "MOPA  SECA INDUSTRIAL COMPLETA 90 CM (CON REPUESTO DE MOPA"
-    ],
-    [
-     "47121501",
-     "Carros para limpieza",
-     1,
-     "CARRO DE ASEO CON TAPA"
-    ],
-    [
-     "40142008",
-     "Mangueras para agua",
-     1,
-     "MANGUERA RETRACTIL 30 METROS"
-    ],
-    [
-     "23181506",
-     "Maquinaria de lavado",
-     1,
-     "HIDROLAVADORA ELECTRICA 1600 – 1800 W PARA LIMPIEZA DE VIDRIOS, FACHADA Y PATIO."
-    ],
-    [
-     "23153030",
-     "Guías de desplazamiento lineal",
-     1,
-     "ALARGADOR RETRÁCTIL DE AL MENOS 10 MTS"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=418-1532-COT26",
-   "sin_detalle": false,
-   "descripcion": "SE SOLICITA LA ADQUISICIÓN DE INSUMOS PARA EL ASEO (SEGÚN DETALLE ADJUNTO) DE LAS DEPENDENCIAS DE COSAM DE PUERTO AYSÉN. COTIZACIÓN VALIDA POR 30 DÍAS. ADJUNTAR FICHA TÉCNICA DEL PRODUCTO (SI CORRESPONDE). INDICAR NÚMERO DE TELEFONO Y/O CORREO PARA REALIZAR SEGUIMIENTO. INCLUIR DATOS BANCARIOS. SUBIR COTIZACIÓN COMO ARCHIVO ADJUNTO. DEBE INCLUIR DESPACHO HASTA PUERTO AYSÉN."
-  },
   {
    "tipo": "POSIBLE",
    "motivos": [
@@ -653,6 +575,33 @@
    "descripcion": "El Gobierno Regional de Aysén, requiere contratar el Servicio de “PROVISION E INSTALACION DE 02 EQUIPOS DE CLIMATIZACION EN EDIFICIO GOBIERNO REGIONAL DE AYSEN “, para la dependencia ubicada en calle Ejercito N° 405.-"
   },
   {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "iluminación"
+   ],
+   "nueva": false,
+   "codigo": "1057062-449-COT26",
+   "nombre": "Servicio de arriendo sala de teatro para el 15 de octubre coyhaique, ury 2493 segun fisabs 2269",
+   "organismo": "UNIVERSIDAD DE AYSEN",
+   "unidad": "Proyectos",
+   "monto": 300000,
+   "cierre_iso": "2026-10-08T22:24:00-03:00",
+   "publicacion": "05-10 17:35",
+   "publicacion_iso": "2026-10-05T17:35:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "90111604",
+     "Salones",
+     1,
+     "Servicio de ARRIENDO DE SALA DE TEATRO.Requerimientos del espacio\n? Sala de artes escénicas en formato cámara negra.\n? 24mts cuadrados de espacio escénico.\n? Capacidad para 50 espectadores.\n? Contar con espacio aparte para camarín que incluya baño.\n? Equipo de sonido e iluminación incluido y montado.\n? Técnico a cargo de operar durante toda la jornada.\nsegun especificacion tecnica adjunta ver"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1057062-449-COT26",
+   "sin_detalle": false,
+   "descripcion": "La Universidad de Aysén, requiere cotizar el ARRIENDO DE SALA DE TEATRO, jueves 15 de octubre de 2026, Lugar dentro del radio urbano de Coyhaique. de 15:00 a 20:00hrs Detalle del espacio: Según especificaciones técnicas. deben cumplir con las especificaciones técnicas en archivo adjunto. Proveedor deberá adjuntar cotizacion con servicio ofertado con detalle."
+  },
+  {
    "tipo": "OPORTUNIDAD",
    "motivos": [
     "Gasfitería, calefacción y aire acondicionado"
@@ -732,6 +681,34 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=697209-29-COT26",
    "sin_detalle": false,
    "descripcion": "La Fiscalía Regional de Aysén requiere contratar el servicio de mantención de 74 equipos de aire acondicionados en la región de Aysén. El detalle de los servicios y dirección de estos se encuentra en documento adjunto “CONDICIONES MÍNIMAS.pdf”. Se deberán adjuntar todos los certificados requeridos."
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "climatización",
+    "eléctricos"
+   ],
+   "nueva": true,
+   "codigo": "711-194-COT26",
+   "nombre": "PROCESO DE ADQUISICIÓN PARA EL SERVICIO DE LEVANTAMIENTO ELECTRICO, RETIRO E INSTALACIÓN DE EQUIUPOS DE CLIMATIZACIÓN PARA OFICINAS DE LA SEREMITT DE AYSÉN",
+   "organismo": "SUBSECRETARIA DE TRANSPORTES",
+   "unidad": "SUBSECRETARÍA DE TRANSPORTES",
+   "monto": 2400000,
+   "cierre_iso": "2026-10-15T10:00:00-03:00",
+   "publicacion": "07-10 08:20",
+   "publicacion_iso": "2026-10-07T08:20:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "73171510",
+     "Servicios de fabricación de accesorios o suministros eléctricos",
+     1,
+     "PROCESO DE ADQUISICIÓN PARA EL SERVICIO DE LEVANTAMIENTO ELECTRICO, RETIRO E INSTALACIÓN DE EQUIUPOS DE CLIMATIZACIÓN PARA OFICINAS DE LA SEREMITT DE AYSÉN\n\nVER REQUERIMIENTO TÉCNICO"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=711-194-COT26",
+   "sin_detalle": false,
+   "descripcion": "PROCESO DE ADQUISICIÓN PARA EL SERVICIO DE LEVANTAMIENTO ELECTRICO, RETIRO E INSTALACIÓN DE EQUIUPOS DE CLIMATIZACIÓN PARA OFICINAS DE LA SEREMITT DE AYSÉN\n\nLA VISITA ENTERRENO SERÁ EL DÍA 9 DE OCTUBRE A LAS 10:00 HORAS\nVER  REQUERIMIENTO TÉCNICO"
   }
  ],
  "pendientes": []

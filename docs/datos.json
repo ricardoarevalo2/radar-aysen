@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-10-07T07:39:48.754600-03:00",
+ "actualizado": "2026-10-07T08:39:35.903032-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
- "total_region": 272,
+ "total_region": 269,
  "rubros": {
   "80141600": "Ventas y marketing",
   "82101600": "Publicidad en medios no impresos",
@@ -14,60 +14,6 @@
   "83121700": "Comunicación social y de masas"
  },
  "filas": [
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "radio"
-   ],
-   "nueva": false,
-   "codigo": "1057062-449-COT26",
-   "nombre": "Servicio de arriendo sala de teatro para el 15 de octubre coyhaique, ury 2493 segun fisabs 2269",
-   "organismo": "UNIVERSIDAD DE AYSEN",
-   "unidad": "Proyectos",
-   "monto": 300000,
-   "cierre_iso": "2026-10-07T08:00:00-03:00",
-   "publicacion": "05-10 17:35",
-   "publicacion_iso": "2026-10-05T17:35:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "90111604",
-     "Salones",
-     1,
-     "Servicio de ARRIENDO DE SALA DE TEATRO.Requerimientos del espacio\n? Sala de artes escénicas en formato cámara negra.\n? 24mts cuadrados de espacio escénico.\n? Capacidad para 50 espectadores.\n? Contar con espacio aparte para camarín que incluya baño.\n? Equipo de sonido e iluminación incluido y montado.\n? Técnico a cargo de operar durante toda la jornada.\nsegun especificacion tecnica adjunta ver"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1057062-449-COT26",
-   "sin_detalle": false,
-   "descripcion": "La Universidad de Aysén, requiere cotizar el ARRIENDO DE SALA DE TEATRO, jueves 15 de octubre de 2026, Lugar dentro del radio urbano de Coyhaique. de 15:00 a 20:00hrs Detalle del espacio: Según especificaciones técnicas. deben cumplir con las especificaciones técnicas en archivo adjunto. Proveedor deberá adjuntar cotizacion con servicio ofertado con detalle."
-  },
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "fotografía"
-   ],
-   "nueva": false,
-   "codigo": "1428275-37-COT26",
-   "nombre": "Cintas para Brother TZeS261 Negro sobre blanco - Incluir flete y fotografía",
-   "organismo": "SERVICIO NACIONAL DEL PATRIMONIO CULTURAL",
-   "unidad": "DIRECCIÓN REGIONAL DE AYSEN",
-   "monto": 100000,
-   "cierre_iso": "2026-10-07T08:30:00-03:00",
-   "publicacion": "05-10 12:27",
-   "publicacion_iso": "2026-10-05T12:27:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "44102412",
-     "Cartuchos de etiquetas adhesivas",
-     2,
-     "Cintas para Brother TZeS261 Negro sobre blanco de 36mm para la Dirección Regional de Aysén - Incluir flete y fotografía. *se adjunta imagen referencial y criterios de evaluación*"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1428275-37-COT26",
-   "sin_detalle": false,
-   "descripcion": "Cintas para Brother TZeS261 Negro sobre blanco de 36mm para la Dirección Regional de Aysén - Incluir flete y fotografía."
-  },
   {
    "tipo": "POSIBLE",
    "motivos": [
@@ -413,6 +359,33 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=1080289-27-COT26",
    "sin_detalle": false,
    "descripcion": "Solicitado mediante Pedido de Materiales N° 485 del Departamento de Acción Sanitaria."
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "radio"
+   ],
+   "nueva": false,
+   "codigo": "1057062-449-COT26",
+   "nombre": "Servicio de arriendo sala de teatro para el 15 de octubre coyhaique, ury 2493 segun fisabs 2269",
+   "organismo": "UNIVERSIDAD DE AYSEN",
+   "unidad": "Proyectos",
+   "monto": 300000,
+   "cierre_iso": "2026-10-08T22:24:00-03:00",
+   "publicacion": "05-10 17:35",
+   "publicacion_iso": "2026-10-05T17:35:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "90111604",
+     "Salones",
+     1,
+     "Servicio de ARRIENDO DE SALA DE TEATRO.Requerimientos del espacio\n? Sala de artes escénicas en formato cámara negra.\n? 24mts cuadrados de espacio escénico.\n? Capacidad para 50 espectadores.\n? Contar con espacio aparte para camarín que incluya baño.\n? Equipo de sonido e iluminación incluido y montado.\n? Técnico a cargo de operar durante toda la jornada.\nsegun especificacion tecnica adjunta ver"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1057062-449-COT26",
+   "sin_detalle": false,
+   "descripcion": "La Universidad de Aysén, requiere cotizar el ARRIENDO DE SALA DE TEATRO, jueves 15 de octubre de 2026, Lugar dentro del radio urbano de Coyhaique. de 15:00 a 20:00hrs Detalle del espacio: Según especificaciones técnicas. deben cumplir con las especificaciones técnicas en archivo adjunto. Proveedor deberá adjuntar cotizacion con servicio ofertado con detalle."
   },
   {
    "tipo": "OPORTUNIDAD",
