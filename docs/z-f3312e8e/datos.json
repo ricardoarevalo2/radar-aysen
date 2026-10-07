@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-10-07T12:46:20.835221-03:00",
+ "actualizado": "2026-10-07T13:42:16.934861-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
- "total_region": 291,
+ "total_region": 285,
  "rubros": {
   "25172700": "Aire acondicionado",
   "25173900": "Componentes eléctricos",
@@ -679,7 +679,7 @@
    "motivos": [
     "Aire acondicionado"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "272-17-COT26",
    "nombre": "SERVICIO DE REPARACION Y MANTENCIÓN PARA VEHÍCULO INSTITUCIONAL",
    "organismo": "SUBSECRETARIA DEL MINISTERIO DE AGRICULT",
