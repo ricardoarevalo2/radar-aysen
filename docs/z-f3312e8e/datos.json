@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-10-07T11:40:39.863557-03:00",
+ "actualizado": "2026-10-07T12:46:20.835221-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
- "total_region": 289,
+ "total_region": 291,
  "rubros": {
   "25172700": "Aire acondicionado",
   "25173900": "Componentes eléctricos",
@@ -24,7 +24,7 @@
    "motivos": [
     "Cables eléctricos y accesorios"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "1057062-450-COT26",
    "nombre": "Equipamientos Tecnológicos Proyecto URY 20991 y FIU Territorios",
    "organismo": "UNIVERSIDAD DE AYSEN",
@@ -348,7 +348,7 @@
    "motivos": [
     "Enfriamiento (aires acondicionados)"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "418-1407-COT26",
    "nombre": "COHM-SERVICIO DE SUMINISTRO Y INSTALACION DE EQUIPOS SPLIT MURO INVERTER R32 ECO FLOW 18.000 BTU ",
    "organismo": "SERVICIO NACIONAL DE SALUD HOSPITAL DE PUERTO AYSEN",
@@ -369,6 +369,221 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=418-1407-COT26",
    "sin_detalle": false,
    "descripcion": "SE REQUIERE ADQUIRIR SERVICIO DE SUMINISTRO Y INSTALACION DE 02 UNIDADES DE EQUIPOS SPLIT MURO INVERTER R32 ECO FLOW 18.000 BTU EN HOSPITAL DE PUERTO AYSEN. SE EXIGE COTIZAR LA TOTALIDAD DEL SERVICIO. COTIZACIÓN VÁLIDA POR 30 DÍAS. ADJUNTAR FICHA TÉCNICA DE LOS EQUIPOS. ADJUNTAR TELÉFONO Y CORREO PARA REALIZAR SEGUIMIENTO. DEBE INCORPORAR DATOS BANCARIOS EN LA COTIZACIÓN."
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "iluminación"
+   ],
+   "nueva": true,
+   "codigo": "3949-245-COT26",
+   "nombre": "MONITORA DE ARTESANIAS DE FIELTRO POR UN PERIODO OCTUBRE A DICIEMBRE 2026 / 40 HORAS ",
+   "organismo": "CONSULTORIO GENERAL URBANO DR ALEJANDRO GUTIERREZ",
+   "unidad": "ID 3949 - CESFAM Dr Alejandro Gutiérrez",
+   "monto": 1400000,
+   "cierre_iso": "2026-10-08T12:30:00-03:00",
+   "publicacion": "07-10 12:14",
+   "publicacion_iso": "2026-10-07T12:14:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "86111604",
+     "Capacitación a empleados",
+     1,
+     "MONITORA CON EXPERIENCIA EN PREPARACIÓN DE ARTESANIAS EN FIELTRO, 2 HORAS POR CADA JORNADA, UN TOTAL DE 40 HORAS (VER ESPECIFICACIONES TECNICAS SOLICITADAS)"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=3949-245-COT26",
+   "sin_detalle": false,
+   "descripcion": "SE SOLICITA MONITORA CON EXPERIENCIA EN PREPARACIÓN DE ARTESANIAS EN FIELTRO (VER ESPECIFICACIONES TÉCNICAS ADJUNTAS) DEBE INCLUIR LUGAR O SALÓN CON CALEFACCIÓN E ILUMINACIÓN ADECUADA, PROVEEDOR CON RESIDENCIA EN COYHAIQUE. LA CUAL AL FINAL DEL CURSO, DEBE CONTEMPLAR UNA CEREMONIA DE CIERRE CON DESGUSTACIÓN DE ALIMENTACIÓN CON PERTINENCIA INDIGENA. SE REALIZARÁ ENTREVISTA PERSONAL (EXCLUYENTE)"
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "ampolleta",
+    "enchufe",
+    "enchufes"
+   ],
+   "nueva": true,
+   "codigo": "3791-1008-COT26",
+   "nombre": "MANTENCION Y REPARACION GIM LA JUNTA ",
+   "organismo": "I MUNICIPALIDAD DE CISNES",
+   "unidad": "Finanzas",
+   "monto": 5144965,
+   "cierre_iso": "2026-10-08T12:40:00-03:00",
+   "publicacion": "07-10 12:36",
+   "publicacion_iso": "2026-10-07T12:36:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "27113201",
+     "Conjuntos generales de herramientas",
+     3,
+     "Plancha yeso-cartón 10 mm (RH)"
+    ],
+    [
+     "27113201",
+     "Conjuntos generales de herramientas",
+     2,
+     "Tornillos CRS 11/2\" (caja 100 u)"
+    ],
+    [
+     "27113201",
+     "Conjuntos generales de herramientas",
+     2,
+     "Tineta pintura esmalte al agua con aditivo antihongos"
+    ],
+    [
+     "27113201",
+     "Conjuntos generales de herramientas",
+     1,
+     "Pasta muro (galón)"
+    ],
+    [
+     "27113201",
+     "Conjuntos generales de herramientas",
+     4,
+     "Rodillos 23cm"
+    ],
+    [
+     "27113201",
+     "Conjuntos generales de herramientas",
+     4,
+     "Brochas 4\""
+    ],
+    [
+     "27113201",
+     "Conjuntos generales de herramientas",
+     4,
+     "Lijas grano fino"
+    ],
+    [
+     "27113201",
+     "Conjuntos generales de herramientas",
+     4,
+     "Lijas grano grueso"
+    ],
+    [
+     "27113201",
+     "Conjuntos generales de herramientas",
+     2,
+     "Cinta masking 48mm"
+    ],
+    [
+     "27113201",
+     "Conjuntos generales de herramientas",
+     4,
+     "Silicona antihongos transparente"
+    ],
+    [
+     "27113201",
+     "Conjuntos generales de herramientas",
+     12,
+     "Sellador de poliuretano / MS polímero (cartucho 300 ml)"
+    ],
+    [
+     "27113201",
+     "Conjuntos generales de herramientas",
+     75,
+     "Tornillo autoperforante de techo 6\" punta broca con golilla EPDM (caja 100un)"
+    ],
+    [
+     "27113201",
+     "Conjuntos generales de herramientas",
+     15,
+     "Cinta sello de butilo 75 mm (rollo 10 mts)"
+    ],
+    [
+     "27113201",
+     "Conjuntos generales de herramientas",
+     5,
+     "Tornillo de costura 1/4\" x 7/8\" (caja 100 u)"
+    ],
+    [
+     "27113201",
+     "Conjuntos generales de herramientas",
+     1,
+     "Ampolleta Luz blanca 15 W"
+    ],
+    [
+     "27113201",
+     "Conjuntos generales de herramientas",
+     1,
+     "Marco de madera 5\" puerta de bodega"
+    ],
+    [
+     "27113201",
+     "Conjuntos generales de herramientas",
+     1,
+     "Cerámica muro blanca (caja) 20 x 30"
+    ],
+    [
+     "27113201",
+     "Conjuntos generales de herramientas",
+     1,
+     "adhesivo ceramico AC (galón)"
+    ],
+    [
+     "27113201",
+     "Conjuntos generales de herramientas",
+     18,
+     "Enchufes simples embutidos 10Amp"
+    ],
+    [
+     "27113201",
+     "Conjuntos generales de herramientas",
+     3,
+     "Enchufe macho 10Amp"
+    ],
+    [
+     "27113201",
+     "Conjuntos generales de herramientas",
+     15,
+     "Luces de emergencia, 2 focos"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=3791-1008-COT26",
+   "sin_detalle": false,
+   "descripcion": "ADQUISICION DE MATERIALES PARA LA EJECUCION DE LA INICIATIVA DE INVERSION \"MANTENCION Y REPARACION DE GIMNASIO DE LA JUNTA, COMUA DE CISNES SEGUN DECRETO N°5160 DEL 05 DE OCTUBRE 2026. SE ADJUNTAN ANEXOS"
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "eléctricos"
+   ],
+   "nueva": true,
+   "codigo": "1004-20-COT26",
+   "nombre": "SUMINISTRO DE AGUA PURIFICADA",
+   "organismo": "MINISTERIO DE OBRAS PUBLICAS DIREC CION GRAL DE OO PP DCYF",
+   "unidad": "Dirección de Vialidad - XI Región - Provincia de Coyhaique",
+   "monto": 4000000,
+   "cierre_iso": "2026-10-08T13:00:00-03:00",
+   "publicacion": "07-10 12:43",
+   "publicacion_iso": "2026-10-07T12:43:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "50202301",
+     "Agua",
+     1,
+     "Recarga de agua purificada en formatro de 20 lts. (considerar promedio de 300 al año). Incluir en el valor la entrega a domicilio en La Concepción 199 de Coyhaique por más de 10 unidades"
+    ],
+    [
+     "41101515",
+     "Bidones para medir líquido",
+     1,
+     "Bidones PET para agua purificada de 20 lts."
+    ],
+    [
+     "30222204",
+     "Depósito elevado de agua",
+     1,
+     "Dispensadores eléctricos recargables"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1004-20-COT26",
+   "sin_detalle": false,
+   "descripcion": "Que se requiere suscribir un Convenio para el suministro de agua purificada y los accesorios necesarios para utilizar este insumo (bidones, bombas, etc.) de uso común en las diferentes cuadrillas de maquinaria pesada, camiones, Cuadrillas multipropósito y de pavimentación de la Oficina Provincial Coyhaique que ejecutan faenas de Mantenimiento en la Red Vial.\n? Considerar Contrato a 36 meses"
   },
   {
    "tipo": "POSIBLE",
@@ -690,12 +905,5 @@
    "descripcion": "PROCESO DE ADQUISICIÓN PARA EL SERVICIO DE LEVANTAMIENTO ELECTRICO, RETIRO E INSTALACIÓN DE EQUIUPOS DE CLIMATIZACIÓN PARA OFICINAS DE LA SEREMITT DE AYSÉN\n\nLA VISITA ENTERRENO SERÁ EL DÍA 9 DE OCTUBRE A LAS 10:00 HORAS\nVER  REQUERIMIENTO TÉCNICO"
   }
  ],
- "pendientes": [
-  {
-   "codigo": "2495-543-COT26",
-   "nombre": "Compra de alimentos para jornadas de sensibilización del Programa Mujeres, derechos sexuales y reproductivos",
-   "organismo": "I MUNICIPALIDAD DE COYHAIQUE",
-   "link": "https://buscador.mercadopublico.cl/ficha?code=2495-543-COT26"
-  }
- ]
+ "pendientes": []
 }
