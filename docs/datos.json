@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-10-07T08:39:35.903032-03:00",
+ "actualizado": "2026-10-07T09:48:04.266868-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
- "total_region": 269,
+ "total_region": 285,
  "rubros": {
   "80141600": "Ventas y marketing",
   "82101600": "Publicidad en medios no impresos",
@@ -14,33 +14,6 @@
   "83121700": "Comunicación social y de masas"
  },
  "filas": [
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "fotografía"
-   ],
-   "nueva": false,
-   "codigo": "4066-415-COT26",
-   "nombre": "Adquisición de Indumentaria personal, calzado para OLN Y FIADI. 2026.",
-   "organismo": "I MUNICIPALIDAD RIO IBANEZ",
-   "unidad": "DIDECO",
-   "monto": 400000,
-   "cierre_iso": "2026-10-07T09:00:00-03:00",
-   "publicacion": "05-10 17:26",
-   "publicacion_iso": "2026-10-05T17:26:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "53111602",
-     "Zapatos de mujer",
-     4,
-     "Se necesita comprar 4 pares de botines, material de cuero, resistente a condiciones climáticas adversas. Según Específicaciones Técnicas adjuntas.(enviar fotografía)"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=4066-415-COT26",
-   "sin_detalle": false,
-   "descripcion": "Se necesita comprar calzado tipo botin, para 4 profesionales, equipo OLN, según espoecificaciones Técnicas, adjuntando fotografía."
-  },
   {
    "tipo": "OPORTUNIDAD",
    "motivos": [
@@ -359,6 +332,33 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=1080289-27-COT26",
    "sin_detalle": false,
    "descripcion": "Solicitado mediante Pedido de Materiales N° 485 del Departamento de Acción Sanitaria."
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "difusión"
+   ],
+   "nueva": true,
+   "codigo": "1092-57-COT26",
+   "nombre": "SIC 433 SIRE 414 Arriendo pantalla Led de 3 x 2 Metros",
+   "organismo": "CORP NACIONAL FORESTAL",
+   "unidad": "XI Región - Oficina Regional de Aysén",
+   "monto": 500000,
+   "cierre_iso": "2026-10-08T14:10:00-03:00",
+   "publicacion": "07-10 09:02",
+   "publicacion_iso": "2026-10-07T09:02:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "45111603",
+     "Pantallas de proyección",
+     1,
+     "Se requiere sistema de pantalla Led de  3 X 2 metros, con las siguientes características:\n* Dimensiones: 3 Mts de ancho por 2 Mts de alto. P3.9 de Pixel pitch\nGabinetes modulares.\n* Procesador de video: Controlador Novastar.\n* Estructura y soporte: Bumpers para colgar o armar la estructura.\n* Transporte: Flight cases / cases de transporte especializados.\n* Cableado: Set completo de cables de poder y señal (RJ45)\nDebe contar con técnico o profesional que haga labores de controlador. Ver Doc. Adj."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1092-57-COT26",
+   "sin_detalle": false,
+   "descripcion": "SERVICIO DE ARRIENDO PANTALLAS LED PARA DIFUSIÓN EVENTO SEMANA DE LA PYME (RUBRO FORESTAL). PARA EL DÍA 13 DE OCTUBRE 2026 DESDE LAS 14:30 HASTA LAS 18:30 HORAS EN CENTRO CULTURAL DE COYHAIQUE.  VER DOCUMENTO ADJUNTO."
   },
   {
    "tipo": "POSIBLE",

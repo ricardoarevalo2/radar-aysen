@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-10-07T08:39:35.903032-03:00",
+ "actualizado": "2026-10-07T09:48:04.266868-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
- "total_region": 269,
+ "total_region": 285,
  "rubros": {
   "25172700": "Aire acondicionado",
   "25173900": "Componentes eléctricos",
@@ -19,60 +19,6 @@
   "39121400": "Conectores, enchufes y terminales"
  },
  "filas": [
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "eléctricos"
-   ],
-   "nueva": false,
-   "codigo": "2493-97-COT26",
-   "nombre": "ADQUISICIÓN DE MATERIALES ELÉCTRICOS Y DE CANALIZACIÓN PARA REGULARIZACIÓN DE LA CAJA DE EMPALME DE SEMÁFOROS",
-   "organismo": "I MUNICIPALIDAD DE COYHAIQUE",
-   "unidad": "DIRECCION DE TRANSITO",
-   "monto": 300000,
-   "cierre_iso": "2026-10-07T09:00:00-03:00",
-   "publicacion": "05-10 15:54",
-   "publicacion_iso": "2026-10-05T15:54:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "31162404",
-     "Grapas de ferretería",
-     1,
-     "TOTAL DE LA LISTA DE PRODUCTOS REQUERIDOS PARA LA ADQUISICIÓN DE MATERIALES ELÉCTRICOS Y DE CANALIZACIÓN PARA REGULARIZACIÓN DE LA CAJA DE EMPALME."
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=2493-97-COT26",
-   "sin_detalle": false,
-   "descripcion": "El presente requerimiento tiene por objeto la adquisición de materiales de canalización galvanizada, conductores eléctricos y accesorios de fijación y protección. Estos insumos serán destinados exclusivamente a las faenas de regularización de la caja de empalme de semáforos, ubicada en calle Arturo Prat N° 689, comuna de Coyhaique."
-  },
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "generador"
-   ],
-   "nueva": false,
-   "codigo": "1057062-445-COT26",
-   "nombre": "Adquisición de generador eólico 400W 48 V según Fisabs 2020_URY 21991",
-   "organismo": "UNIVERSIDAD DE AYSEN",
-   "unidad": "Proyectos",
-   "monto": 2150000,
-   "cierre_iso": "2026-10-07T09:30:00-03:00",
-   "publicacion": "04-10 18:14",
-   "publicacion_iso": "2026-10-04T18:14:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "26111603",
-     "Aerogeneradores",
-     5,
-     "Se requiere la adquisición de 5 Generadores eólicos 400W 48 V. Cotizaciones deben especificar el cumplimiento de todo lo solicitado en los requerimientos técnicos adjuntos. Deben considerar plazos de entrega en Coyhaique y no la empresa de transporte."
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1057062-445-COT26",
-   "sin_detalle": false,
-   "descripcion": "Se requiere adquirir un generador eólico 400W 48 V según detalle adjunto. Cotización debe indicar especificaciones técnicas de lo ofertado. Debe indicar plazo de entrega ofertado, considerando entrega en Eusebio Lillo 667, Coyhaique. Valor cotizado debe incluir flete e impuestos. Se podrá privilegiar el menor plazo de entrega ofertado, siempre que cumpla con todas las especificaciones requeridas. Compra sujeta a posibles multas o sanciones por incumplimiento."
-  },
   {
    "tipo": "OPORTUNIDAD",
    "motivos": [
