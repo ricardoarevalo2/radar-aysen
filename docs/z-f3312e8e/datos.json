@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-07T06:41:11.153412-03:00",
+ "actualizado": "2026-10-07T07:39:48.754600-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
  "total_region": 272,
@@ -734,12 +734,5 @@
    "descripcion": "La Fiscalía Regional de Aysén requiere contratar el servicio de mantención de 74 equipos de aire acondicionados en la región de Aysén. El detalle de los servicios y dirección de estos se encuentra en documento adjunto “CONDICIONES MÍNIMAS.pdf”. Se deberán adjuntar todos los certificados requeridos."
   }
  ],
- "pendientes": [
-  {
-   "codigo": "3791-1001-COT26",
-   "nombre": "INSUMOS DE ALIMENTACION ",
-   "organismo": "I MUNICIPALIDAD DE CISNES",
-   "link": "https://buscador.mercadopublico.cl/ficha?code=3791-1001-COT26"
-  }
- ]
+ "pendientes": []
 }

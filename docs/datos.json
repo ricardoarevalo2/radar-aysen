@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-07T06:41:11.153412-03:00",
+ "actualizado": "2026-10-07T07:39:48.754600-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
  "total_region": 272,
@@ -523,12 +523,5 @@
    "descripcion": "El Servicio Local de Educación Publica de Aysen requeire adquirir Pendón tamaño 100 x 200 cms para difusición, los oferentes interesados deberan leer formulario adjunto y presentarlo en su propuesta. El diseño definitivo sera entrego al proveedor adjudicado."
   }
  ],
- "pendientes": [
-  {
-   "codigo": "3791-1001-COT26",
-   "nombre": "INSUMOS DE ALIMENTACION ",
-   "organismo": "I MUNICIPALIDAD DE CISNES",
-   "link": "https://buscador.mercadopublico.cl/ficha?code=3791-1001-COT26"
-  }
- ]
+ "pendientes": []
 }
