@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-10-07T14:40:49.607928-03:00",
+ "actualizado": "2026-10-07T15:44:38.712911-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
- "total_region": 287,
+ "total_region": 298,
  "rubros": {
   "80141600": "Ventas y marketing",
   "82101600": "Publicidad en medios no impresos",
@@ -255,29 +255,66 @@
   {
    "tipo": "POSIBLE",
    "motivos": [
-    "difusión"
+    "difusion",
+    "publicidad"
    ],
    "nueva": true,
-   "codigo": "1092-57-COT26",
-   "nombre": "SIC 433 SIRE 414 Arriendo pantalla Led de 3 x 2 Metros",
-   "organismo": "CORP NACIONAL FORESTAL",
-   "unidad": "XI Región - Oficina Regional de Aysén",
-   "monto": 500000,
-   "cierre_iso": "2026-10-08T14:10:00-03:00",
-   "publicacion": "07-10 09:02",
-   "publicacion_iso": "2026-10-07T09:02:00-03:00",
+   "codigo": "3791-1011-COT26",
+   "nombre": "MATERIALES DE DIFUSION",
+   "organismo": "I MUNICIPALIDAD DE CISNES",
+   "unidad": "Finanzas",
+   "monto": 2437722,
+   "cierre_iso": "2026-10-08T15:30:00-03:00",
+   "publicacion": "07-10 15:18",
+   "publicacion_iso": "2026-10-07T15:18:00-03:00",
    "ofertas": 0,
    "productos": [
     [
-     "45111603",
-     "Pantallas de proyección",
-     1,
-     "Se requiere sistema de pantalla Led de  3 X 2 metros, con las siguientes características:\n* Dimensiones: 3 Mts de ancho por 2 Mts de alto. P3.9 de Pixel pitch\nGabinetes modulares.\n* Procesador de video: Controlador Novastar.\n* Estructura y soporte: Bumpers para colgar o armar la estructura.\n* Transporte: Flight cases / cases de transporte especializados.\n* Cableado: Set completo de cables de poder y señal (RJ45)\nDebe contar con técnico o profesional que haga labores de controlador. Ver Doc. Adj."
+     "82101502",
+     "Publicidad en carteles",
+     3,
+     "Pendón Roller Estándar 90 X 200 CM"
+    ],
+    [
+     "82101502",
+     "Publicidad en carteles",
+     3,
+     "Pendón Roller Medio 100 X 200 CM"
+    ],
+    [
+     "82101502",
+     "Publicidad en carteles",
+     3,
+     "Mini Pendón Roller 21 X 30 CM MODELO 1"
+    ],
+    [
+     "82101502",
+     "Publicidad en carteles",
+     3,
+     "Mini Pendón Roller 21 X 30 CM MODELO 2"
+    ],
+    [
+     "82101502",
+     "Publicidad en carteles",
+     700,
+     "Dípticos 20cm x 15 / 2 caras"
+    ],
+    [
+     "82101502",
+     "Publicidad en carteles",
+     500,
+     "Trípticos"
+    ],
+    [
+     "82101502",
+     "Publicidad en carteles",
+     150,
+     "Afiche 50x 60cm"
     ]
    ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1092-57-COT26",
+   "link": "https://buscador.mercadopublico.cl/ficha?code=3791-1011-COT26",
    "sin_detalle": false,
-   "descripcion": "SERVICIO DE ARRIENDO PANTALLAS LED PARA DIFUSIÓN EVENTO SEMANA DE LA PYME (RUBRO FORESTAL). PARA EL DÍA 13 DE OCTUBRE 2026 DESDE LAS 14:30 HASTA LAS 18:30 HORAS EN CENTRO CULTURAL DE COYHAIQUE.  VER DOCUMENTO ADJUNTO."
+   "descripcion": "ADQUISICION DE PENDONES ROLLERS,DIPTICOS Y AFICHES DE DIFUSION PARA LA OFICINA LOCAL DE LA NIÑEZ, SE ADJUNTAN ANEXOS"
   },
   {
    "tipo": "POSIBLE",

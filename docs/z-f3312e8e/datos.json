@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-10-07T14:40:49.607928-03:00",
+ "actualizado": "2026-10-07T15:44:38.712911-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
- "total_region": 287,
+ "total_region": 298,
  "rubros": {
   "25172700": "Aire acondicionado",
   "25173900": "Componentes eléctricos",
@@ -19,132 +19,6 @@
   "39121400": "Conectores, enchufes y terminales"
  },
  "filas": [
-  {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Cables eléctricos y accesorios"
-   ],
-   "nueva": false,
-   "codigo": "1057062-450-COT26",
-   "nombre": "Equipamientos Tecnológicos Proyecto URY 20991 y FIU Territorios",
-   "organismo": "UNIVERSIDAD DE AYSEN",
-   "unidad": "Proyectos",
-   "monto": 7100000,
-   "cierre_iso": "2026-10-07T15:00:00-03:00",
-   "publicacion": "06-10 12:21",
-   "publicacion_iso": "2026-10-06T12:21:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "26121620",
-     "Cable para interconexiones",
-     9,
-     "Tipo dispositivo Hub multipuerto con Conector dual USB-A y USB-C Interfaz de conexión, se debe adjuntar oferta que acumpla al menos con lo indicado en el adjunto"
-    ],
-    [
-     "52161514",
-     "Audífonos",
-     6,
-     "Audífonos con micrófono y cancelación de ruido, se debe adjuntar oferta que acumpla al menos con lo indicado en el adjunto"
-    ],
-    [
-     "43211706",
-     "Teclados",
-     11,
-     "Kit Teclado y Mouse Inalámbrico, se debe adjuntar oferta que acumpla al menos con lo indicado en el adjunto"
-    ],
-    [
-     "43211503",
-     "Notebook, laptop o computador portátil excepto Tablet PC",
-     1,
-     "Notebook 14\" OLED, ASUS Zenbook A14 (UX3407) o equivalente, se debe adjuntar oferta que acumpla al menos con lo indicado en el adjunto"
-    ],
-    [
-     "43211509",
-     "Computadores portátiles tipo Tablet PC",
-     1,
-     "Tablet de alto desempeño tipo IPAD - Apple iPad Air M4 de 13 pulgadas Wi-Fi 512 GB o equivalente, se debe adjuntar oferta que acumpla al menos con lo indicado en el adjunto"
-    ],
-    [
-     "25173303",
-     "Sistemas informáticos para automóviles",
-     1,
-     "Computador todo en uno (All-in-One) de alto desempeño tipo IMAC -Apple iMac de 24 pulgadas con chip M4, 16 GB de memoria unificada y 256 GB SSD o equivalente, se debe adjuntar oferta que acumpla al menos con lo indicado en el adjunto"
-    ],
-    [
-     "27112718",
-     "Grabadores",
-     1,
-     "Grabadora de audio portátil profesional 360° Zoom H3-VR o equivalente, se debe adjuntar oferta que acumpla al menos con lo indicado en el adjunto"
-    ],
-    [
-     "43211503",
-     "Notebook, laptop o computador portátil excepto Tablet PC",
-     1,
-     "Notebook 15,6\" de alto desempeño, Lenovo LOQ 15i Gen 10 o equivalente, se debe adjuntar oferta que acumpla al menos con lo indicado en el adjunto"
-    ],
-    [
-     "45111609",
-     "Proyectores multimedia",
-     1,
-     "Sistema portátil de proyección (proyector y telón), Byintek P70 con telón portátil de 80 pulgadas o equivalente, se debe adjuntar oferta que acumpla al menos con lo indicado en el adjunto"
-    ],
-    [
-     "60101732",
-     "Apuntadores o punteros",
-     4,
-     "Presentador inalámbrico con receptor USB, se debe adjuntar oferta que acumpla al menos con lo indicado en el adjunto"
-    ],
-    [
-     "43201803",
-     "Discos duros",
-     5,
-     "Unidad de almacenamiento USB Flash de 1 TB de capacidad, con interfaz USB 3.0 o superior, se debe adjuntar oferta que acumpla al menos con lo indicado en el adjunto"
-    ],
-    [
-     "26121604",
-     "Cable para señales",
-     4,
-     "Cable HDMI versión 2.1 o superior, se debe adjuntar oferta que acumpla al menos con lo indicado en el adjunto"
-    ],
-    [
-     "23153202",
-     "Robots para coger y colocar",
-     2,
-     "Brazo robótico educativo y de investigación con visión artificial 3D integrada, equipado con al menos 6 grados de libertad y 6 servomotores inteligentes de alto torque para manipulación de objetos, se debe adjuntar oferta que acumpla al menos con lo indicado en el adjunto"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1057062-450-COT26",
-   "sin_detalle": false,
-   "descripcion": "Se requiere cotizar equipamiento tecnológico descrito en el presente cotizador, se debe detallar lo ofertado considerando que cumpla con al menos lo indicado en el documento adjunto, indicar el plazo de entrega el cual podría ser privilegiado, y la garantía post-venta, y considerar el envío a las dependencias de la Universidad. (plazo para aceptar la Orden de compra es de 2 días corridos, si no queda sin efecto, plazo que comienza a contar los dias de plazo. Adqusiicón asociada a multa según adj"
-  },
-  {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Gasfitería, calefacción y aire acondicionado"
-   ],
-   "nueva": false,
-   "codigo": "4889-39-COT26",
-   "nombre": "MANTENIMIENTO SENTINA - OFICINAS SEREMI DE LAS CULTURAS",
-   "organismo": "Subsecretaria de las Culturas y las Artes Región de Aysen",
-   "unidad": "Consejo Regional de Cultura Región de Aysen",
-   "monto": 250000,
-   "cierre_iso": "2026-10-07T15:00:00-03:00",
-   "publicacion": "02-10 10:46",
-   "publicacion_iso": "2026-10-02T10:46:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "72102304",
-     "Mantenimiento o reparación de sistemas de fontanería, gasfitería",
-     1,
-     "MANTENIMIENTO SENTINA - CAMARA DE RECOLECCION DE RESIDUOS SOLIDOS DOMICILIARIOS - CARACTERÍSTICAS SEGUN ARCHIVO ADJUNTO"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=4889-39-COT26",
-   "sin_detalle": false,
-   "descripcion": "MANTENIMIENTO SENTINA - OFICINAS SEREMI DE LAS CULTURAS\nCARACTERÍSTICAS SEGUN ARCHIVO ADJUNTO"
-  },
   {
    "tipo": "POSIBLE",
    "motivos": [
@@ -549,6 +423,155 @@
   {
    "tipo": "POSIBLE",
    "motivos": [
+    "ampolleta",
+    "enchufe",
+    "enchufes"
+   ],
+   "nueva": true,
+   "codigo": "3791-1008-COT26",
+   "nombre": "MANTENCION Y REPARACION GIM LA JUNTA ",
+   "organismo": "I MUNICIPALIDAD DE CISNES",
+   "unidad": "Finanzas",
+   "monto": 5144965,
+   "cierre_iso": "2026-10-08T12:40:00-03:00",
+   "publicacion": "07-10 12:36",
+   "publicacion_iso": "2026-10-07T12:36:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "27113201",
+     "Conjuntos generales de herramientas",
+     3,
+     "Plancha yeso-cartón 10 mm (RH)"
+    ],
+    [
+     "27113201",
+     "Conjuntos generales de herramientas",
+     2,
+     "Tornillos CRS 11/2\" (caja 100 u)"
+    ],
+    [
+     "27113201",
+     "Conjuntos generales de herramientas",
+     2,
+     "Tineta pintura esmalte al agua con aditivo antihongos"
+    ],
+    [
+     "27113201",
+     "Conjuntos generales de herramientas",
+     1,
+     "Pasta muro (galón)"
+    ],
+    [
+     "27113201",
+     "Conjuntos generales de herramientas",
+     4,
+     "Rodillos 23cm"
+    ],
+    [
+     "27113201",
+     "Conjuntos generales de herramientas",
+     4,
+     "Brochas 4\""
+    ],
+    [
+     "27113201",
+     "Conjuntos generales de herramientas",
+     4,
+     "Lijas grano fino"
+    ],
+    [
+     "27113201",
+     "Conjuntos generales de herramientas",
+     4,
+     "Lijas grano grueso"
+    ],
+    [
+     "27113201",
+     "Conjuntos generales de herramientas",
+     2,
+     "Cinta masking 48mm"
+    ],
+    [
+     "27113201",
+     "Conjuntos generales de herramientas",
+     4,
+     "Silicona antihongos transparente"
+    ],
+    [
+     "27113201",
+     "Conjuntos generales de herramientas",
+     12,
+     "Sellador de poliuretano / MS polímero (cartucho 300 ml)"
+    ],
+    [
+     "27113201",
+     "Conjuntos generales de herramientas",
+     75,
+     "Tornillo autoperforante de techo 6\" punta broca con golilla EPDM (caja 100un)"
+    ],
+    [
+     "27113201",
+     "Conjuntos generales de herramientas",
+     15,
+     "Cinta sello de butilo 75 mm (rollo 10 mts)"
+    ],
+    [
+     "27113201",
+     "Conjuntos generales de herramientas",
+     5,
+     "Tornillo de costura 1/4\" x 7/8\" (caja 100 u)"
+    ],
+    [
+     "27113201",
+     "Conjuntos generales de herramientas",
+     1,
+     "Ampolleta Luz blanca 15 W"
+    ],
+    [
+     "27113201",
+     "Conjuntos generales de herramientas",
+     1,
+     "Marco de madera 5\" puerta de bodega"
+    ],
+    [
+     "27113201",
+     "Conjuntos generales de herramientas",
+     1,
+     "Cerámica muro blanca (caja) 20 x 30"
+    ],
+    [
+     "27113201",
+     "Conjuntos generales de herramientas",
+     1,
+     "adhesivo ceramico AC (galón)"
+    ],
+    [
+     "27113201",
+     "Conjuntos generales de herramientas",
+     18,
+     "Enchufes simples embutidos 10Amp"
+    ],
+    [
+     "27113201",
+     "Conjuntos generales de herramientas",
+     3,
+     "Enchufe macho 10Amp"
+    ],
+    [
+     "27113201",
+     "Conjuntos generales de herramientas",
+     15,
+     "Luces de emergencia, 2 focos"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=3791-1008-COT26",
+   "sin_detalle": false,
+   "descripcion": "ADQUISICION DE MATERIALES PARA LA EJECUCION DE LA INICIATIVA DE INVERSION \"MANTENCION Y REPARACION DE GIMNASIO DE LA JUNTA, COMUA DE CISNES SEGUN DECRETO N°5160 DEL 05 DE OCTUBRE 2026. SE ADJUNTAN ANEXOS"
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
     "eléctricos"
    ],
    "nueva": true,
@@ -623,7 +646,7 @@
    "motivos": [
     "Gasfitería, calefacción y aire acondicionado"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "3431-115-COT26",
    "nombre": "LP - Adquisición del servicio de mantenimiento y reparación de equipos de rancho de la UR.",
    "organismo": "Ejercito de Chile",
@@ -652,7 +675,7 @@
     "generador",
     "generador eléctrico"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "1608-84-COT26",
    "nombre": "Batería para generador eléctrico de  90  AMPERES /12 WOLTS",
    "organismo": "DELEGACIÓN PRESIDENCIAL REGIONAL DE AYSÉN DEL GENERAL CARLOS IBÁÑEZ DE",
@@ -702,44 +725,223 @@
    "descripcion": "La Secretaría Regional Ministerial requiere contratar el Servicio de reparación y mantención para Vehículo Institucional, camioneta Mazda BT-50 año 2016, con el propósito de garantizar condiciones adecuadas de seguridad, operatividad y funcionamiento del vehículo institucional"
   },
   {
-   "tipo": "POSIBLE",
+   "tipo": "OPORTUNIDAD",
    "motivos": [
-    "eléctrico",
-    "sistema eléctrico"
+    "Cajas y accesorios eléctricos"
    ],
-   "nueva": false,
-   "codigo": "4778-308-COT26",
-   "nombre": "RELE- SOLICITUD N° 9566- MANTENCION PREVENTIVA 3 TRANSPALETA ELECTRICAS SE ADJUNTA DETALLE",
-   "organismo": "SERVICIO NACIONAL DE SALUD HOSPITAL DE C",
-   "unidad": "Compras de Insumos y Servicios Generales",
-   "monto": 803250,
-   "cierre_iso": "2026-10-08T17:00:00-03:00",
-   "publicacion": "06-10 09:27",
-   "publicacion_iso": "2026-10-06T09:27:00-03:00",
+   "nueva": true,
+   "codigo": "838101-30-COT26",
+   "nombre": "ADQUISICION DE ELEMENTOS PARA MANTENIMIENTO EN LA CH EL REFUGIO",
+   "organismo": "Zona Bienestar \"Coyhaique\" Bienestar Social",
+   "unidad": "División de Bienestar - ZB \"Coyhaique\" BSoc",
+   "monto": 1300000,
+   "cierre_iso": "2026-10-08T15:30:00-03:00",
+   "publicacion": "07-10 15:21",
+   "publicacion_iso": "2026-10-07T15:21:00-03:00",
    "ofertas": 0,
    "productos": [
     [
-     "25181709",
-     "Pala cargadora",
-     1,
-     "Mantención preventiva para transpaletas electrohidráulicas\nTRANSPALETA ZHEJIANG SL15 702303015145"
+     "53102102",
+     "Overol y sobretodo para hombre",
+     2,
+     "02 OVEROL TALLA \"L\""
     ],
     [
-     "25181709",
-     "Pala cargadora",
-     1,
-     "Mantención preventiva para transpaletas electrohidráulicas\nTRANSPALETA ZHEJIANG SL15 2108G0405"
+     "31161508",
+     "Tornillos para madera",
+     2,
+     "02 CAJAS DE TORNILLOS 6X2/50,8 mm"
     ],
     [
-     "25181709",
-     "Pala cargadora",
+     "27112004",
+     "Palas",
+     2,
+     "02 PALAS PUNTA HUEVO"
+    ],
+    [
+     "24101501",
+     "Carretillas",
      1,
-     "Mantención preventiva para transpaletas electrohidráulicas\nTRANSPALETA ZHEJIANG SL15L3  722305045535"
+     "01 CARRETILLA"
+    ],
+    [
+     "21101801",
+     "Aspersores",
+     4,
+     "04 ASPERSORES"
+    ],
+    [
+     "40142008",
+     "Mangueras para agua",
+     2,
+     "02 MANGUERAS DE RIEGO 50 METROS DE 1/2"
+    ],
+    [
+     "46171503",
+     "Juegos de cerraduras",
+     5,
+     "05 CHAPAS DE PUERTA DE DORMITORIO"
+    ],
+    [
+     "31211904",
+     "Brochas",
+     1,
+     "01 BROCHA 4\""
+    ],
+    [
+     "31211904",
+     "Brochas",
+     1,
+     "01 BROCHA 3 1/2\""
+    ],
+    [
+     "31211904",
+     "Brochas",
+     1,
+     "01 BROCHA 2 1/2\""
+    ],
+    [
+     "31211904",
+     "Brochas",
+     1,
+     "01 BROCHA DE 2\""
+    ],
+    [
+     "31211906",
+     "Rodillos de pintar",
+     2,
+     "02 RODILLOS DE ESPONJA 18 CM"
+    ],
+    [
+     "31241501",
+     "Lentes",
+     2,
+     "02 UNIDADES DE LENTES DE SEGURIDAD"
+    ],
+    [
+     "46181504",
+     "Guantes protectores",
+     2,
+     "02 GAUNTES DE PALMA DE GOMA TALLA \"L\""
+    ],
+    [
+     "10171701",
+     "Herbicida de malezas",
+     2,
+     "02 MATAMALEZA"
+    ],
+    [
+     "31191506",
+     "Discos abrasivos",
+     2,
+     "02 DISCO DESBROZADORA"
+    ],
+    [
+     "39101603",
+     "ampolletas solares",
+     24,
+     "24 UNIDADES AMPOLLETAS LED LUZ FRIA"
+    ],
+    [
+     "39121311",
+     "Accesorios eléctricos",
+     10,
+     "10 SOQUETES PORTALAMPARA PLASTICO"
+    ],
+    [
+     "40141702",
+     "Grifos",
+     10,
+     "10 MONOMANDO DUCHAS"
+    ],
+    [
+     "27112003",
+     "Rastrillos",
+     1,
+     "01 RASTRILLO BARRE HOJA"
+    ],
+    [
+     "27112002",
+     "Azadones",
+     2,
+     "02 AZADON CONBINADO"
+    ],
+    [
+     "53111601",
+     "Zapatos de hombre",
+     1,
+     "01 PAR DE ZAPATOS DE SUGURIDAD TALLA 43"
+    ],
+    [
+     "31211501",
+     "Pinturas al esmalte",
+     3,
+     "03 TARROS PINTURA BLANCA AL AGUA (TARRO LATA GALON)"
+    ],
+    [
+     "27112906",
+     "Pistolas de calafateado",
+     1,
+     "01 PISTOLA CALAFATERA"
+    ],
+    [
+     "24121802",
+     "Latas de pintura o barniz",
+     3,
+     "03 TARRO DE PINTURA BLANCA OLEO ( TARRO DE LATA GALON)"
+    ],
+    [
+     "31201602",
+     "Pastas",
+     5,
+     "05 KILOS DE PASTA MURO DE 1 KILO"
+    ],
+    [
+     "53102102",
+     "Overol y sobretodo para hombre",
+     1,
+     "01 OVERIL TERMICO TALLA \"L\""
+    ],
+    [
+     "30181515",
+     "Estanque del WC",
+     6,
+     "06 KIT DE ESTANQUE DE BAÑO"
+    ],
+    [
+     "40141720",
+     "Conectores para fontanería",
+     3,
+     "03 CONECTORES DE MANGUERA"
+    ],
+    [
+     "46181504",
+     "Guantes protectores",
+     2,
+     "02 PARES DE GUANTES DE FAENA"
+    ],
+    [
+     "27112004",
+     "Palas",
+     1,
+     "01 PALA PUNTA CUADRADA"
+    ],
+    [
+     "53102503",
+     "Sombreros",
+     1,
+     "01 JOKEY LEGIONARIO AJUSTABLE"
+    ],
+    [
+     "40141901",
+     "Conductos flexibles",
+     10,
+     "10 UNIDADSES DE FLEXIBLE PARA BAÑO"
     ]
    ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=4778-308-COT26",
+   "link": "https://buscador.mercadopublico.cl/ficha?code=838101-30-COT26",
    "sin_detalle": false,
-   "descripcion": "Actividades mínimas a realizar:Limpieza sistema eléctrico y botón de seguridad;Limpieza de contactores;Verificar carga de batería;Cambio de aceite e hidráulico;Limpiar, revisar y lubricar sistema tándem de las horquillas;Engrasar rodamientos ruedas;Verificar levante uniforme de uñas;Medición de carga y normal funcionamiento del cargador batería;Cambio de rodamientos ruedas tándem;Entrega de informe final con observaciones y repuestos que requieran cambio;\nTRANSPALETA  ZHEJIANG SL15 SR. 70230301"
+   "descripcion": "SE SOLICITA LA ADQUISICION DE ELEMENTOS PARA MANTENIMIENTO EN LA CH EL REFUGIO, DEPENDIENTE DE LA ZONA DE BIENESTAR COYHAIQUE\n\nINCLUIR EN EL VALOS DE LOS PRODUCTOS EL FLETE A LA LOCALIDAD DE COCHRANE\n\nSE SOLICITA LLENAR EL ANEXO QUE SE ADJUNTA (DECLARACION JURADA SIMPLE) PARA LOS OFERENTES POSTULANTES, QUIEN NO LO PRESENTE FIRMADO QUEDA FUERA DE POSTULACION"
   },
   {
    "tipo": "OPORTUNIDAD",
@@ -767,6 +969,105 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=868-90-COT26",
    "sin_detalle": false,
    "descripcion": "El Gobierno Regional de Aysén, requiere contratar el Servicio de “PROVISION E INSTALACION DE 02 EQUIPOS DE CLIMATIZACION EN EDIFICIO GOBIERNO REGIONAL DE AYSEN “, para la dependencia ubicada en calle Ejercito N° 405.-"
+  },
+  {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Cables eléctricos y accesorios"
+   ],
+   "nueva": false,
+   "codigo": "1057062-450-COT26",
+   "nombre": "Equipamientos Tecnológicos Proyecto URY 20991 y FIU Territorios",
+   "organismo": "UNIVERSIDAD DE AYSEN",
+   "unidad": "Proyectos",
+   "monto": 7100000,
+   "cierre_iso": "2026-10-08T17:38:00-03:00",
+   "publicacion": "06-10 12:21",
+   "publicacion_iso": "2026-10-06T12:21:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "26121620",
+     "Cable para interconexiones",
+     9,
+     "Tipo dispositivo Hub multipuerto con Conector dual USB-A y USB-C Interfaz de conexión, se debe adjuntar oferta que acumpla al menos con lo indicado en el adjunto"
+    ],
+    [
+     "52161514",
+     "Audífonos",
+     6,
+     "Audífonos con micrófono y cancelación de ruido, se debe adjuntar oferta que acumpla al menos con lo indicado en el adjunto"
+    ],
+    [
+     "43211706",
+     "Teclados",
+     11,
+     "Kit Teclado y Mouse Inalámbrico, se debe adjuntar oferta que acumpla al menos con lo indicado en el adjunto"
+    ],
+    [
+     "43211503",
+     "Notebook, laptop o computador portátil excepto Tablet PC",
+     1,
+     "Notebook 14\" OLED, ASUS Zenbook A14 (UX3407) o equivalente, se debe adjuntar oferta que acumpla al menos con lo indicado en el adjunto"
+    ],
+    [
+     "43211509",
+     "Computadores portátiles tipo Tablet PC",
+     1,
+     "Tablet de alto desempeño tipo IPAD - Apple iPad Air M4 de 13 pulgadas Wi-Fi 512 GB o equivalente, se debe adjuntar oferta que acumpla al menos con lo indicado en el adjunto"
+    ],
+    [
+     "25173303",
+     "Sistemas informáticos para automóviles",
+     1,
+     "Computador todo en uno (All-in-One) de alto desempeño tipo IMAC -Apple iMac de 24 pulgadas con chip M4, 16 GB de memoria unificada y 256 GB SSD o equivalente, se debe adjuntar oferta que acumpla al menos con lo indicado en el adjunto"
+    ],
+    [
+     "27112718",
+     "Grabadores",
+     1,
+     "Grabadora de audio portátil profesional 360° Zoom H3-VR o equivalente, se debe adjuntar oferta que acumpla al menos con lo indicado en el adjunto"
+    ],
+    [
+     "43211503",
+     "Notebook, laptop o computador portátil excepto Tablet PC",
+     1,
+     "Notebook 15,6\" de alto desempeño, Lenovo LOQ 15i Gen 10 o equivalente, se debe adjuntar oferta que acumpla al menos con lo indicado en el adjunto"
+    ],
+    [
+     "45111609",
+     "Proyectores multimedia",
+     1,
+     "Sistema portátil de proyección (proyector y telón), Byintek P70 con telón portátil de 80 pulgadas o equivalente, se debe adjuntar oferta que acumpla al menos con lo indicado en el adjunto"
+    ],
+    [
+     "60101732",
+     "Apuntadores o punteros",
+     4,
+     "Presentador inalámbrico con receptor USB, se debe adjuntar oferta que acumpla al menos con lo indicado en el adjunto"
+    ],
+    [
+     "43201803",
+     "Discos duros",
+     5,
+     "Unidad de almacenamiento USB Flash de 1 TB de capacidad, con interfaz USB 3.0 o superior, se debe adjuntar oferta que acumpla al menos con lo indicado en el adjunto"
+    ],
+    [
+     "26121604",
+     "Cable para señales",
+     4,
+     "Cable HDMI versión 2.1 o superior, se debe adjuntar oferta que acumpla al menos con lo indicado en el adjunto"
+    ],
+    [
+     "23153202",
+     "Robots para coger y colocar",
+     2,
+     "Brazo robótico educativo y de investigación con visión artificial 3D integrada, equipado con al menos 6 grados de libertad y 6 servomotores inteligentes de alto torque para manipulación de objetos, se debe adjuntar oferta que acumpla al menos con lo indicado en el adjunto"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1057062-450-COT26",
+   "sin_detalle": false,
+   "descripcion": "Se requiere cotizar equipamiento tecnológico descrito en el presente cotizador, se debe detallar lo ofertado considerando que cumpla con al menos lo indicado en el documento adjunto, indicar el plazo de entrega el cual podría ser privilegiado, y la garantía post-venta, y considerar el envío a las dependencias de la Universidad. (plazo para aceptar la Orden de compra es de 2 días corridos, si no queda sin efecto, plazo que comienza a contar los dias de plazo. Adqusiicón asociada a multa según adj"
   },
   {
    "tipo": "POSIBLE",
@@ -848,6 +1149,33 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=5039-37-COT26",
    "sin_detalle": false,
    "descripcion": "Contratar, bajo la modalidad de Suma Alzada, la ejecución de las obras civiles, de carpintería, estructuras metálicas e instalaciones eléctricas necesarias para la construcción e instalación del Monolito Informativo del Humedal Urbano Vientos del Chelenko, ubicado en la costanera de Puerto Ingeniero Ibáñez, considerando su instalación sobre una base de hormigón preexistente, la cual será reutilizada para estos efectos."
+  },
+  {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Gasfitería, calefacción y aire acondicionado"
+   ],
+   "nueva": false,
+   "codigo": "4889-39-COT26",
+   "nombre": "MANTENIMIENTO SENTINA - OFICINAS SEREMI DE LAS CULTURAS",
+   "organismo": "Subsecretaria de las Culturas y las Artes Región de Aysen",
+   "unidad": "Consejo Regional de Cultura Región de Aysen",
+   "monto": 250000,
+   "cierre_iso": "2026-10-12T19:13:00-03:00",
+   "publicacion": "02-10 10:46",
+   "publicacion_iso": "2026-10-02T10:46:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "72102304",
+     "Mantenimiento o reparación de sistemas de fontanería, gasfitería",
+     1,
+     "MANTENIMIENTO SENTINA - CAMARA DE RECOLECCION DE RESIDUOS SOLIDOS DOMICILIARIOS - CARACTERÍSTICAS SEGUN ARCHIVO ADJUNTO"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=4889-39-COT26",
+   "sin_detalle": false,
+   "descripcion": "MANTENIMIENTO SENTINA - OFICINAS SEREMI DE LAS CULTURAS\nCARACTERÍSTICAS SEGUN ARCHIVO ADJUNTO"
   },
   {
    "tipo": "OPORTUNIDAD",
