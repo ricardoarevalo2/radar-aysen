@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-10-08T12:42:47.841704-03:00",
+ "actualizado": "2026-10-08T13:43:20.739369-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
- "total_region": 281,
+ "total_region": 266,
  "rubros": {
   "80141600": "Ventas y marketing",
   "82101600": "Publicidad en medios no impresos",
@@ -14,60 +14,6 @@
   "83121700": "Comunicación social y de masas"
  },
  "filas": [
-  {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Ventas y marketing"
-   ],
-   "nueva": false,
-   "codigo": "1080289-28-COT26",
-   "nombre": " APOYO EJECUCIÓN ESCUELA DE GESTORES EN CHILE CHICO (P 484 DAS)",
-   "organismo": "SUBSECRETARIA DE SALUD PUBLICA",
-   "unidad": "Adm Fondos o Fondos Extrapresupuestarios Aysén",
-   "monto": 850000,
-   "cierre_iso": "2026-10-08T13:00:00-03:00",
-   "publicacion": "06-10 11:53",
-   "publicacion_iso": "2026-10-06T11:53:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "80141620",
-     "Producción de eventos en el concesionario",
-     1,
-     "Apoyo ejecución de escuela de gestores en Chile Chico, durante los días 14 y 15 de octubre del 2026, de acuerdo con especificaciones indicadas en el anexo"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1080289-28-COT26",
-   "sin_detalle": false,
-   "descripcion": "Solicitado mediante Pedido de Materiales N° 484 del Departamento de Acción Sanitaria."
-  },
-  {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Ventas y marketing"
-   ],
-   "nueva": false,
-   "codigo": "1080289-27-COT26",
-   "nombre": "APOYO EJECUCIÓN DE ESCUELA DE GESTORES EN COCHRANE (P 485 DAS)",
-   "organismo": "SUBSECRETARIA DE SALUD PUBLICA",
-   "unidad": "Adm Fondos o Fondos Extrapresupuestarios Aysén",
-   "monto": 500000,
-   "cierre_iso": "2026-10-08T13:00:00-03:00",
-   "publicacion": "06-10 11:43",
-   "publicacion_iso": "2026-10-06T11:43:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "80141620",
-     "Producción de eventos en el concesionario",
-     1,
-     "Apoyo ejecución de escuela de gestores en Cochrane, durante los días 13 y 14 de octubre del 2026, de acuerdo con especificaciones indicadas en el anexo"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1080289-27-COT26",
-   "sin_detalle": false,
-   "descripcion": "Solicitado mediante Pedido de Materiales N° 485 del Departamento de Acción Sanitaria."
-  },
   {
    "tipo": "POSIBLE",
    "motivos": [
