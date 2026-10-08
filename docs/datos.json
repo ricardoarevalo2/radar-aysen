@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-10-08T08:40:04.679152-03:00",
+ "actualizado": "2026-10-08T09:48:07.013329-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
- "total_region": 286,
+ "total_region": 277,
  "rubros": {
   "80141600": "Ventas y marketing",
   "82101600": "Publicidad en medios no impresos",
@@ -14,33 +14,6 @@
   "83121700": "Comunicación social y de masas"
  },
  "filas": [
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "difusión"
-   ],
-   "nueva": false,
-   "codigo": "1233615-774-COT26",
-   "nombre": "JGS [INT-2026-00245] MATERIALES DIFUSIÓN HPV II COCHRANE.",
-   "organismo": "Servicio Local de Educación Pública Aysén",
-   "unidad": "Servicio Local de Educación Pública Aysén",
-   "monto": 1999995,
-   "cierre_iso": "2026-10-08T09:00:00-03:00",
-   "publicacion": "06-10 17:00",
-   "publicacion_iso": "2026-10-06T17:00:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "46171515",
-     "Estuches de llaves o llaveros",
-     1,
-     "programa HPV participa de diversas instancias, en las que se promueva la salud mental infantil y de la comunidad escolar en su totalidad, DETALLE CONFORME A DOCUMENTO ANEXO."
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1233615-774-COT26",
-   "sin_detalle": false,
-   "descripcion": "MATERIALES DIFUSIÓN HPV II COCHRANE"
-  },
   {
    "tipo": "OPORTUNIDAD",
    "motivos": [
@@ -403,5 +376,12 @@
    "descripcion": "El Servicio Local de Educación Publica de Aysen requeire adquirir Pendón tamaño 100 x 200 cms para difusición, los oferentes interesados deberan leer formulario adjunto y presentarlo en su propuesta. El diseño definitivo sera entrego al proveedor adjudicado."
   }
  ],
- "pendientes": []
+ "pendientes": [
+  {
+   "codigo": "1692-588-COT26",
+   "nombre": "ADQUISICION DE ARTICULOS DE LIBRERIA PARA EL HOSPITAL DE COCHRANE Y POSTAS",
+   "organismo": "SERVICIO NACIONAL DE SALUD HOSPITAL DE COCHRANE",
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1692-588-COT26"
+  }
+ ]
 }
