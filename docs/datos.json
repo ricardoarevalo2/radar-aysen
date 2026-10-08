@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-10-08T15:45:09.366613-03:00",
+ "actualizado": "2026-10-08T16:39:57.892534-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
- "total_region": 260,
+ "total_region": 255,
  "rubros": {
   "80141600": "Ventas y marketing",
   "82101600": "Publicidad en medios no impresos",
@@ -232,7 +232,7 @@
    "motivos": [
     "difusión"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "1092-59-COT26",
    "nombre": "SIC 441 SIRE 417 Servicio Pantallas LED",
    "organismo": "CORP NACIONAL FORESTAL",
