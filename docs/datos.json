@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-10-08T10:42:26.294578-03:00",
+ "actualizado": "2026-10-08T11:43:12.017609-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
- "total_region": 269,
+ "total_region": 274,
  "rubros": {
   "80141600": "Ventas y marketing",
   "82101600": "Publicidad en medios no impresos",
@@ -295,6 +295,57 @@
    "descripcion": "La necesidad de contar con colaciones para hito regional \"Festival Infantil de la Patagonia\", del Programa Formación para el Deporte componente Encuentros Formativos Deportivos a ejecutar por el departamento de Actividad Física del Instituto Nacional de Deportes Región de Aysén.\nLos productos a ofertar deberán considerar fotografía y una descripción técnica sobre sus\ncaracterísticas específicas."
   },
   {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Ventas y marketing"
+   ],
+   "nueva": true,
+   "codigo": "2713-1226-COT26",
+   "nombre": "Servicio de producción de actividad \"Clínica de Música\" - DIDECO - Cultura - 1269",
+   "organismo": "I MUNICIPALIDAD DE AYSEN",
+   "unidad": "I.MUNICIPALIDAD AYSEN-ADQUISICIONES",
+   "monto": 2500000,
+   "cierre_iso": "2026-10-09T12:00:00-03:00",
+   "publicacion": "08-10 11:02",
+   "publicacion_iso": "2026-10-08T11:02:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "80141607",
+     "Producción de eventos",
+     1,
+     "Planificación, preparación y ejecución del módulo teórico – practico: Módulo N°1 – Instancia teórica"
+    ],
+    [
+     "80141607",
+     "Producción de eventos",
+     1,
+     "Planificación, preparación y ejecución del módulo teórico – practico: Módulo N°2 – Clínica de ejecución musical"
+    ],
+    [
+     "80141607",
+     "Producción de eventos",
+     1,
+     "Planificación, preparación y ejecución del módulo teórico – practico: Módulo N°3 – Laboratorio escénico"
+    ],
+    [
+     "80141607",
+     "Producción de eventos",
+     1,
+     "Planificación, preparación y ejecución del módulo teórico – practico: Módulo N°4 – Ensayo general"
+    ],
+    [
+     "80141607",
+     "Producción de eventos",
+     1,
+     "Planificación, preparación y ejecución del módulo teórico – practico: Módulo N°5 – Asesoría de identidad artística"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=2713-1226-COT26",
+   "sin_detalle": false,
+   "descripcion": "Servicio de producción de actividad, según detalle del anexo adjunto, las ofertas deberán: incluir la totalidad de los productos y servicios solicitados, ajustarse al presupuesto disponible , el oferente asumirá COSTO DE TRANSPORTE (no desglosarlo como ítem aparte), debe prestar el servicio los días 13 y 14 de octubre de 2026, previa coordinación con el encargado, según las bases técnicas. Ofertas que no cumplan con lo anterior serán rechazadas."
+  },
+  {
    "tipo": "POSIBLE",
    "motivos": [
     "difusión"
@@ -347,6 +398,33 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=1233615-770-COT26",
    "sin_detalle": false,
    "descripcion": "El Servicio Local de Educación Publica de Aysen requeire adquirir Pendón tamaño 100 x 200 cms para difusición, los oferentes interesados deberan leer formulario adjunto y presentarlo en su propuesta. El diseño definitivo sera entrego al proveedor adjudicado."
+  },
+  {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Ventas y marketing"
+   ],
+   "nueva": true,
+   "codigo": "4733-395-COT26",
+   "nombre": "CONCIERTO DE NAVIDAD",
+   "organismo": "I MUNICIPALIDAD DE LAS GUAITECAS",
+   "unidad": "I MUNICIPALIDAD DE LAS GUAITECAS",
+   "monto": 2000000,
+   "cierre_iso": "2026-10-15T10:00:00-03:00",
+   "publicacion": "08-10 11:30",
+   "publicacion_iso": "2026-10-08T11:30:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "80141607",
+     "Producción de eventos",
+     1,
+     "CONCIERTO DE NAVIDAD"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=4733-395-COT26",
+   "sin_detalle": false,
+   "descripcion": "Se requiere contratar el servicio de producción artística para concierto de navidad según especificaciones técnicas adjuntas, adjuntar cotización.-"
   }
  ],
  "pendientes": []

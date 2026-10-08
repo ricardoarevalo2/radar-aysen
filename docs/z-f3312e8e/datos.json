@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-10-08T10:42:26.294578-03:00",
+ "actualizado": "2026-10-08T11:43:12.017609-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
- "total_region": 269,
+ "total_region": 274,
  "rubros": {
   "25172700": "Aire acondicionado",
   "25173900": "Componentes eléctricos",
@@ -239,7 +239,7 @@
    "motivos": [
     "iluminación"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "1405-35-COT26",
    "nombre": "Adquisición de 04 Plafones 24W y 02 Proyectores Led 40w con panel solar",
    "organismo": "DELEGACIÓN PRESIDENCIAL PROVINCIAL DE CAPITÁN PRAT",
@@ -946,6 +946,33 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=3325-29-COT26",
    "sin_detalle": false,
    "descripcion": "ADQUISICION DE SERVICIO DE MANTENIMIENTO Y REPARACION DE AIRES ACONDICIONADOS"
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "generador"
+   ],
+   "nueva": true,
+   "codigo": "657-90-COT26",
+   "nombre": "INSUMOS E INSTALACION  PARA GRUPO ELECTROGENO DE ENERGIA",
+   "organismo": "SERVICIO DE VIVIENDA Y URBANIZACION XI REGION",
+   "unidad": "SERVIU XI REGION",
+   "monto": 847000,
+   "cierre_iso": "2026-10-09T12:00:00-03:00",
+   "publicacion": "08-10 11:39",
+   "publicacion_iso": "2026-10-08T11:39:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "40142203",
+     "Kits de reparación de regulador de fluidos",
+     1,
+     "SERVIU REQUIERE ADQUIRIR INSUMOS E INSTALACION PARA GRUPO ELECTROGENO DE ENERGIA, Liquido refrigerante CAT para generador DE 110GC, estanque de 19 litros.\nKit Mangueras c/tubería.\nKit Sellos Mecánicos.\nAbrazaderas fleje de diámetro menor. LOS INSUMOS DEBEN SER ORIGINALES DE LA MARCA CAT YA QUE EL EQUIPO ELECTROGENO NO TIENE MANTENCION HISTORICA Y PARA ASEGURAR LA VIDA UTIL DEL EQUIPO."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=657-90-COT26",
+   "sin_detalle": false,
+   "descripcion": "SERVIU REQUIERE ADQUIRIR INSUMOS E INSTALACION PARA GRUPO ELECTROGENO DE ENERGIA, Liquido refrigerante CAT para generador DE 110GC, estanque de 19 litros.\nKit Mangueras c/tubería.\nKit Sellos Mecánicos.\nAbrazaderas fleje de diámetro menor. LOS INSUMOS DEBEN SER ORIGINALES DE LA MARCA CAT YA QUE EL EQUIPO ELECTROGENO NO TIENE MANTENCION HISTORICA Y PARA ASEGURAR LA VIDA UTIL DEL EQUIPO."
   },
   {
    "tipo": "POSIBLE",
