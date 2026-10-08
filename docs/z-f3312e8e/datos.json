@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-10-08T14:39:51.572120-03:00",
+ "actualizado": "2026-10-08T15:45:09.366613-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
- "total_region": 267,
+ "total_region": 260,
  "rubros": {
   "25172700": "Aire acondicionado",
   "25173900": "Componentes eléctricos",
@@ -19,308 +19,6 @@
   "39121400": "Conectores, enchufes y terminales"
  },
  "filas": [
-  {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Gasfitería, calefacción y aire acondicionado"
-   ],
-   "nueva": false,
-   "codigo": "3431-115-COT26",
-   "nombre": "LP - Adquisición del servicio de mantenimiento y reparación de equipos de rancho de la UR.",
-   "organismo": "Ejercito de Chile",
-   "unidad": "Regimiento N° 8 Chiloé",
-   "monto": 657106,
-   "cierre_iso": "2026-10-08T15:00:00-03:00",
-   "publicacion": "06-10 15:22",
-   "publicacion_iso": "2026-10-06T15:22:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "72102304",
-     "Mantenimiento o reparación de sistemas de fontanería, gasfitería",
-     1,
-     "MANTENIMIENTO DE CAMARA FRIGORIFICA - 18° MARCA MISA. SE DEBE REALIZAR CAMBIO DE VÁLVULA DFS 3/8 NUEVA, CAMBIO DE BOBINA DANFOSS 11 W NUEVA Y VACIADO Y LLENADO DE GTAS REFRIGERANTE."
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=3431-115-COT26",
-   "sin_detalle": false,
-   "descripcion": "Adquisición del servicio de mantenimiento y reparación de equipos de rancho de la UR, para su normal funcionamiento."
-  },
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "eléctrico",
-    "generador",
-    "generador eléctrico"
-   ],
-   "nueva": false,
-   "codigo": "1608-84-COT26",
-   "nombre": "Batería para generador eléctrico de  90  AMPERES /12 WOLTS",
-   "organismo": "DELEGACIÓN PRESIDENCIAL REGIONAL DE AYSÉN DEL GENERAL CARLOS IBÁÑEZ DE",
-   "unidad": "DELEGACION PRESIDENCIAL REGIONAL DE AYSEN",
-   "monto": 120000,
-   "cierre_iso": "2026-10-08T15:00:00-03:00",
-   "publicacion": "06-10 14:45",
-   "publicacion_iso": "2026-10-06T14:45:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "26111713",
-     "Baterías térmicas",
-     1,
-     "01 batería para generador eléctrico de  90  AMPERES /12 WOLTS. Positivo al lado derecho.\nIMPORTANTE!!! REVISAR DOCUMENTO ADJUNTO!!!"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1608-84-COT26",
-   "sin_detalle": false,
-   "descripcion": "Batería para generador eléctrico de  90  AMPERES /12 WOLTS"
-  },
-  {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Aire acondicionado"
-   ],
-   "nueva": false,
-   "codigo": "272-17-COT26",
-   "nombre": "SERVICIO DE REPARACION Y MANTENCIÓN PARA VEHÍCULO INSTITUCIONAL",
-   "organismo": "SUBSECRETARIA DEL MINISTERIO DE AGRICULT",
-   "unidad": "SEREMI XI Región",
-   "monto": 900000,
-   "cierre_iso": "2026-10-08T15:00:00-03:00",
-   "publicacion": "06-10 12:40",
-   "publicacion_iso": "2026-10-06T12:40:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "25172704",
-     "Sistema control temperatura vehículo",
-     1,
-     "SERVICIO DE REPARACIÓN Y MANTENCIÓN DEL VEHÍCULO INSTITUCIONAL, SEGÚN ESPECIFICACIÓNES TÉCNICAS.\nFAVOR LEER Y REVISAR."
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=272-17-COT26",
-   "sin_detalle": false,
-   "descripcion": "La Secretaría Regional Ministerial requiere contratar el Servicio de reparación y mantención para Vehículo Institucional, camioneta Mazda BT-50 año 2016, con el propósito de garantizar condiciones adecuadas de seguridad, operatividad y funcionamiento del vehículo institucional"
-  },
-  {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Cajas y accesorios eléctricos"
-   ],
-   "nueva": true,
-   "codigo": "838101-30-COT26",
-   "nombre": "ADQUISICION DE ELEMENTOS PARA MANTENIMIENTO EN LA CH EL REFUGIO",
-   "organismo": "Zona Bienestar \"Coyhaique\" Bienestar Social",
-   "unidad": "División de Bienestar - ZB \"Coyhaique\" BSoc",
-   "monto": 1300000,
-   "cierre_iso": "2026-10-08T15:30:00-03:00",
-   "publicacion": "07-10 15:21",
-   "publicacion_iso": "2026-10-07T15:21:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "53102102",
-     "Overol y sobretodo para hombre",
-     2,
-     "02 OVEROL TALLA \"L\""
-    ],
-    [
-     "31161508",
-     "Tornillos para madera",
-     2,
-     "02 CAJAS DE TORNILLOS 6X2/50,8 mm"
-    ],
-    [
-     "27112004",
-     "Palas",
-     2,
-     "02 PALAS PUNTA HUEVO"
-    ],
-    [
-     "24101501",
-     "Carretillas",
-     1,
-     "01 CARRETILLA"
-    ],
-    [
-     "21101801",
-     "Aspersores",
-     4,
-     "04 ASPERSORES"
-    ],
-    [
-     "40142008",
-     "Mangueras para agua",
-     2,
-     "02 MANGUERAS DE RIEGO 50 METROS DE 1/2"
-    ],
-    [
-     "46171503",
-     "Juegos de cerraduras",
-     5,
-     "05 CHAPAS DE PUERTA DE DORMITORIO"
-    ],
-    [
-     "31211904",
-     "Brochas",
-     1,
-     "01 BROCHA 4\""
-    ],
-    [
-     "31211904",
-     "Brochas",
-     1,
-     "01 BROCHA 3 1/2\""
-    ],
-    [
-     "31211904",
-     "Brochas",
-     1,
-     "01 BROCHA 2 1/2\""
-    ],
-    [
-     "31211904",
-     "Brochas",
-     1,
-     "01 BROCHA DE 2\""
-    ],
-    [
-     "31211906",
-     "Rodillos de pintar",
-     2,
-     "02 RODILLOS DE ESPONJA 18 CM"
-    ],
-    [
-     "31241501",
-     "Lentes",
-     2,
-     "02 UNIDADES DE LENTES DE SEGURIDAD"
-    ],
-    [
-     "46181504",
-     "Guantes protectores",
-     2,
-     "02 GAUNTES DE PALMA DE GOMA TALLA \"L\""
-    ],
-    [
-     "10171701",
-     "Herbicida de malezas",
-     2,
-     "02 MATAMALEZA"
-    ],
-    [
-     "31191506",
-     "Discos abrasivos",
-     2,
-     "02 DISCO DESBROZADORA"
-    ],
-    [
-     "39101603",
-     "ampolletas solares",
-     24,
-     "24 UNIDADES AMPOLLETAS LED LUZ FRIA"
-    ],
-    [
-     "39121311",
-     "Accesorios eléctricos",
-     10,
-     "10 SOQUETES PORTALAMPARA PLASTICO"
-    ],
-    [
-     "40141702",
-     "Grifos",
-     10,
-     "10 MONOMANDO DUCHAS"
-    ],
-    [
-     "27112003",
-     "Rastrillos",
-     1,
-     "01 RASTRILLO BARRE HOJA"
-    ],
-    [
-     "27112002",
-     "Azadones",
-     2,
-     "02 AZADON CONBINADO"
-    ],
-    [
-     "53111601",
-     "Zapatos de hombre",
-     1,
-     "01 PAR DE ZAPATOS DE SUGURIDAD TALLA 43"
-    ],
-    [
-     "31211501",
-     "Pinturas al esmalte",
-     3,
-     "03 TARROS PINTURA BLANCA AL AGUA (TARRO LATA GALON)"
-    ],
-    [
-     "27112906",
-     "Pistolas de calafateado",
-     1,
-     "01 PISTOLA CALAFATERA"
-    ],
-    [
-     "24121802",
-     "Latas de pintura o barniz",
-     3,
-     "03 TARRO DE PINTURA BLANCA OLEO ( TARRO DE LATA GALON)"
-    ],
-    [
-     "31201602",
-     "Pastas",
-     5,
-     "05 KILOS DE PASTA MURO DE 1 KILO"
-    ],
-    [
-     "53102102",
-     "Overol y sobretodo para hombre",
-     1,
-     "01 OVERIL TERMICO TALLA \"L\""
-    ],
-    [
-     "30181515",
-     "Estanque del WC",
-     6,
-     "06 KIT DE ESTANQUE DE BAÑO"
-    ],
-    [
-     "40141720",
-     "Conectores para fontanería",
-     3,
-     "03 CONECTORES DE MANGUERA"
-    ],
-    [
-     "46181504",
-     "Guantes protectores",
-     2,
-     "02 PARES DE GUANTES DE FAENA"
-    ],
-    [
-     "27112004",
-     "Palas",
-     1,
-     "01 PALA PUNTA CUADRADA"
-    ],
-    [
-     "53102503",
-     "Sombreros",
-     1,
-     "01 JOKEY LEGIONARIO AJUSTABLE"
-    ],
-    [
-     "40141901",
-     "Conductos flexibles",
-     10,
-     "10 UNIDADSES DE FLEXIBLE PARA BAÑO"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=838101-30-COT26",
-   "sin_detalle": false,
-   "descripcion": "SE SOLICITA LA ADQUISICION DE ELEMENTOS PARA MANTENIMIENTO EN LA CH EL REFUGIO, DEPENDIENTE DE LA ZONA DE BIENESTAR COYHAIQUE\n\nINCLUIR EN EL VALOS DE LOS PRODUCTOS EL FLETE A LA LOCALIDAD DE COCHRANE\n\nSE SOLICITA LLENAR EL ANEXO QUE SE ADJUNTA (DECLARACION JURADA SIMPLE) PARA LOS OFERENTES POSTULANTES, QUIEN NO LO PRESENTE FIRMADO QUEDA FUERA DE POSTULACION"
-  },
   {
    "tipo": "POSIBLE",
    "motivos": [
@@ -752,6 +450,39 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=5039-37-COT26",
    "sin_detalle": false,
    "descripcion": "Contratar, bajo la modalidad de Suma Alzada, la ejecución de las obras civiles, de carpintería, estructuras metálicas e instalaciones eléctricas necesarias para la construcción e instalación del Monolito Informativo del Humedal Urbano Vientos del Chelenko, ubicado en la costanera de Puerto Ingeniero Ibáñez, considerando su instalación sobre una base de hormigón preexistente, la cual será reutilizada para estos efectos."
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "iluminación"
+   ],
+   "nueva": true,
+   "codigo": "3949-247-COT26",
+   "nombre": "MOCHILA O MALETIN TECNICO Y LINTERNAS FRONTAL (DENTAL)",
+   "organismo": "CONSULTORIO GENERAL URBANO DR ALEJANDRO GUTIERREZ",
+   "unidad": "ID 3949 - CESFAM Dr Alejandro Gutiérrez",
+   "monto": 1000000,
+   "cierre_iso": "2026-10-09T15:30:00-03:00",
+   "publicacion": "08-10 15:12",
+   "publicacion_iso": "2026-10-08T15:12:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "53121501",
+     "Bolsos",
+     2,
+     "Maletín técnico para visitas domiciliarias de asistencia sanitaria, fabricado en poliéster 420D o tejido técnico de alta resistencia, impermeable, lavable y de estructura semi-rígida.Debe contar con un volumen útil de 18 a 20 litros, dimensiones aproximadas de 40 x 30 x 16 cm y un peso liviano (no mayor a 1,9 kg).Su distribución interna debe incluir compartimentos modulares con frontal transparente para rápida identificación de insumos, bolsillos de red de gran capacidad con banda (ver adjunto)"
+    ],
+    [
+     "39111702",
+     "Lámparas portátiles",
+     4,
+     "Linterna frontal, con tecnología de iluminación LED de alta eficiencia que provea un flujo luminoso de entre 350 y 450 lúmenes y una luz blanca neutra para la correcta apreciación de tejidos y mucosas.El equipo debe ser liviano (peso inferior a 160 g), de diseño ergonómico y contar con una cinta elástica de cabeza ajustable, desmontable y lavable que garantice el trabajo manos libres.Debe funcionar mediante pilas desechables de fácil adquisición(AAA o AA),garantizando disponibilidad(ver adjunto)"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=3949-247-COT26",
+   "sin_detalle": false,
+   "descripcion": "SE REQUIERE ADQUIRIR MALETIN TECNICO Y LINTERNA FRONTAL PARA VISITAS DOMICILIARIAS (VER DOCUMENTOS ADJUNTOS COMO REFERENCIAS). SE PRIORIZARA PROVEEDOR REGIONAL.ENVIO Y DESPACHO INCLUIDO. ENVIAR COTIZACION CON IMAGEN DEL PRODUCTO OFERTADO Y SUS ESPECIFICACIONES TECNICAS."
   },
   {
    "tipo": "OPORTUNIDAD",

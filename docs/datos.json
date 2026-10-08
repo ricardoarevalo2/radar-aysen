@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-10-08T14:39:51.572120-03:00",
+ "actualizado": "2026-10-08T15:45:09.366613-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
- "total_region": 267,
+ "total_region": 260,
  "rubros": {
   "80141600": "Ventas y marketing",
   "82101600": "Publicidad en medios no impresos",
@@ -14,70 +14,6 @@
   "83121700": "Comunicación social y de masas"
  },
  "filas": [
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "difusion",
-    "publicidad"
-   ],
-   "nueva": true,
-   "codigo": "3791-1011-COT26",
-   "nombre": "MATERIALES DE DIFUSION",
-   "organismo": "I MUNICIPALIDAD DE CISNES",
-   "unidad": "Finanzas",
-   "monto": 2437722,
-   "cierre_iso": "2026-10-08T15:30:00-03:00",
-   "publicacion": "07-10 15:18",
-   "publicacion_iso": "2026-10-07T15:18:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "82101502",
-     "Publicidad en carteles",
-     3,
-     "Pendón Roller Estándar 90 X 200 CM"
-    ],
-    [
-     "82101502",
-     "Publicidad en carteles",
-     3,
-     "Pendón Roller Medio 100 X 200 CM"
-    ],
-    [
-     "82101502",
-     "Publicidad en carteles",
-     3,
-     "Mini Pendón Roller 21 X 30 CM MODELO 1"
-    ],
-    [
-     "82101502",
-     "Publicidad en carteles",
-     3,
-     "Mini Pendón Roller 21 X 30 CM MODELO 2"
-    ],
-    [
-     "82101502",
-     "Publicidad en carteles",
-     700,
-     "Dípticos 20cm x 15 / 2 caras"
-    ],
-    [
-     "82101502",
-     "Publicidad en carteles",
-     500,
-     "Trípticos"
-    ],
-    [
-     "82101502",
-     "Publicidad en carteles",
-     150,
-     "Afiche 50x 60cm"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=3791-1011-COT26",
-   "sin_detalle": false,
-   "descripcion": "ADQUISICION DE PENDONES ROLLERS,DIPTICOS Y AFICHES DE DIFUSION PARA LA OFICINA LOCAL DE LA NIÑEZ, SE ADJUNTAN ANEXOS"
-  },
   {
    "tipo": "POSIBLE",
    "motivos": [
@@ -371,6 +307,123 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=1233615-770-COT26",
    "sin_detalle": false,
    "descripcion": "El Servicio Local de Educación Publica de Aysen requeire adquirir Pendón tamaño 100 x 200 cms para difusición, los oferentes interesados deberan leer formulario adjunto y presentarlo en su propuesta. El diseño definitivo sera entrego al proveedor adjudicado."
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "spot"
+   ],
+   "nueva": true,
+   "codigo": "4778-304-COT26",
+   "nombre": "ADQUISICION DE INSUMOS CLINICOS PARA MONITOREO DE PACIENTES",
+   "organismo": "SERVICIO NACIONAL DE SALUD HOSPITAL DE C",
+   "unidad": "Compras de Insumos y Servicios Generales",
+   "monto": 5909540,
+   "cierre_iso": "2026-10-10T14:21:00-03:00",
+   "publicacion": "30-09 12:41",
+   "publicacion_iso": "2026-09-30T12:41:00-03:00",
+   "ofertas": 1,
+   "productos": [
+    [
+     "41111927",
+     "Sensores de presión",
+     20,
+     "U410-205D SENSOR SPO2 CLIP ADULTO 3 M, BIOLIGHT V6"
+    ],
+    [
+     "41111927",
+     "Sensores de presión",
+     10,
+     "U910-205D SENSOR CLIP OREJA 3 M, BIOLIGHT V6"
+    ],
+    [
+     "41111927",
+     "Sensores de presión",
+     30,
+     "U410-21MR SENSOR SPO2 ADULTO 3 M / NELLCOR"
+    ],
+    [
+     "41111927",
+     "Sensores de presión",
+     10,
+     "U910-21MR SENSOR OREJA 3 M / GENERAL ELECTRIC"
+    ],
+    [
+     "41111927",
+     "Sensores de presión",
+     10,
+     "U410-48 SENSOR SPO2 CLIP ADULTO 3 M EDAN X12"
+    ],
+    [
+     "41111927",
+     "Sensores de presión",
+     10,
+     "U410-48 SENSOR SPO2 CLIP DEDO ADULTO EDAN IM12"
+    ],
+    [
+     "41111927",
+     "Sensores de presión",
+     3,
+     "U410-48 SENSOR SPO2 CLIP DEDO ADULTO EDAN IM3"
+    ],
+    [
+     "41111927",
+     "Sensores de presión",
+     5,
+     "U910-48 SENSOR SPO2 OREJA 3 M EDAN IM20"
+    ],
+    [
+     "41111927",
+     "Sensores de presión",
+     2,
+     "U410-189 SENSOR SPO2 CLIP ADULTO 3 M MATTIE MED"
+    ],
+    [
+     "41111927",
+     "Sensores de presión",
+     2,
+     "U410-48MR SENSOR SPO2 CLIP ADULTO 3 M, MINDRAY BENEVIEW T5"
+    ],
+    [
+     "41111927",
+     "Sensores de presión",
+     2,
+     "U410-48MR SENSOR SPO2 ADULTO 3 M, MINDRAY IPM12"
+    ],
+    [
+     "41111927",
+     "Sensores de presión",
+     5,
+     "U410-01XP SENSOR CLIP DEDO ADULTO 3 M WELCH ALLYN SPOT"
+    ],
+    [
+     "41111927",
+     "Sensores de presión",
+     1,
+     "U410-70P SENSOR SPO2 CLIP ADULTO 3 M ALLYN ALLYN PROPAQ"
+    ],
+    [
+     "41111927",
+     "Sensores de presión",
+     2,
+     "U410-205D SENSOR SPO2 CLIP ADULTO 3 M, BIOLIGHT S12"
+    ],
+    [
+     "41111927",
+     "Sensores de presión",
+     2,
+     "U410-61D SENSOR SPO2 CLIP ADULTO CREATIVE PC900"
+    ],
+    [
+     "41111927",
+     "Sensores de presión",
+     5,
+     "U410-74 SENSOR SPO2 CLIP DEDO ADULTO 3 M SPACELABS"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=4778-304-COT26",
+   "sin_detalle": false,
+   "descripcion": "ADQUISICION DE INSUMOS CLINICOS PARA MONITOREO DE PACIENTES, SENSORES SPO2, CABLES ECG, BRAZALETES DE PRESION ARTERIAL Y ADAPTADORES DE CONEXION, SEGUN SOLICITUD EXTRAORDINARIA N° 3726/2026 DE LA UNIDAD DE EQUIPOS MEDICOS."
   },
   {
    "tipo": "OPORTUNIDAD",
