@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-10-08T16:39:57.892534-03:00",
+ "actualizado": "2026-10-08T17:41:19.865594-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
- "total_region": 255,
+ "total_region": 258,
  "rubros": {
   "80141600": "Ventas y marketing",
   "82101600": "Publicidad en medios no impresos",
@@ -14,33 +14,6 @@
   "83121700": "Comunicación social y de masas"
  },
  "filas": [
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "radio"
-   ],
-   "nueva": true,
-   "codigo": "1280-67-COT26",
-   "nombre": "ARRIENDO CAMION CISTERNA",
-   "organismo": "MINISTERIO DE OBRAS PUBLICAS DIREC CION GRAL DE OO PP DCYF",
-   "unidad": "Direccion de Vialidad - XI Región - Provincia de Cochrane",
-   "monto": 6200000,
-   "cierre_iso": "2026-10-08T17:30:00-03:00",
-   "publicacion": "07-10 17:27",
-   "publicacion_iso": "2026-10-07T17:27:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "25101610",
-     "Camiones cisterna",
-     30,
-     "arriendo de camión cisterna con una capacidad de mínima de 10 m3, para faenas de conservación consideradas en un radio de 50 km de la localidad de Cochrane, Región de Aysén - ADJUNTAR PERMISO CIRCULACION"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1280-67-COT26",
-   "sin_detalle": false,
-   "descripcion": "La Oficina Provincial de Vialidad Capitán Prat, requiere contratar un arriendo de camión cisterna con una capacidad de mínima de 10 m3, para faenas de conservación consideradas en un radio de 50 km de la localidad de Cochrane, Región de Aysén."
-  },
   {
    "tipo": "POSIBLE",
    "motivos": [
@@ -307,6 +280,105 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=1233615-770-COT26",
    "sin_detalle": false,
    "descripcion": "El Servicio Local de Educación Publica de Aysen requeire adquirir Pendón tamaño 100 x 200 cms para difusición, los oferentes interesados deberan leer formulario adjunto y presentarlo en su propuesta. El diseño definitivo sera entrego al proveedor adjudicado."
+  },
+  {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Ventas y marketing"
+   ],
+   "nueva": true,
+   "codigo": "2713-1229-COT26",
+   "nombre": "SERVICIO DE PRODUCCION. FOLIO 1275.DIDECO",
+   "organismo": "I MUNICIPALIDAD DE AYSEN",
+   "unidad": "I.MUNICIPALIDAD AYSEN-ADQUISICIONES",
+   "monto": 6990000,
+   "cierre_iso": "2026-10-09T17:59:00-03:00",
+   "publicacion": "08-10 17:33",
+   "publicacion_iso": "2026-10-08T17:33:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "80141607",
+     "Producción de eventos",
+     36,
+     "Luces Carpas. Segun Bases Tecnicas."
+    ],
+    [
+     "80141607",
+     "Producción de eventos",
+     1,
+     "Piso Carpa . Segun Bases Tecnicas."
+    ],
+    [
+     "80141607",
+     "Producción de eventos",
+     150,
+     "Servicio Mobiliario, (Montaje y desmontaje).Segun Bases Tecnicas."
+    ],
+    [
+     "80141607",
+     "Producción de eventos",
+     1,
+     "Ornamentación. Segun Bases Tecnicas."
+    ],
+    [
+     "80141607",
+     "Producción de eventos",
+     1,
+     "Servicio de Operación, Mantención y Aseo Completo del recinto (Incluye contenedores de basura). Segun Bases Tecnicas."
+    ],
+    [
+     "80141607",
+     "Producción de eventos",
+     1,
+     "Espacio Café Carpa Seminario. Segun Bases Tecnicas."
+    ],
+    [
+     "80141607",
+     "Producción de eventos",
+     1,
+     "Espacio Café Expositores. Segun Bases Tecnicas."
+    ],
+    [
+     "80141607",
+     "Producción de eventos",
+     2,
+     "Calefacción.  Segun Bases Tecnicas."
+    ],
+    [
+     "80141607",
+     "Producción de eventos",
+     40,
+     "Servicio de electrificación. Segun Bases Tecnicas."
+    ],
+    [
+     "80141607",
+     "Producción de eventos",
+     1,
+     "Taller: Turismo Sostenible, Ecoturismo y Conservación.Segun Bases Tecnicas."
+    ],
+    [
+     "80141607",
+     "Producción de eventos",
+     1,
+     "Grupo Musical . Segun Bases Tecnicas."
+    ],
+    [
+     "80141607",
+     "Producción de eventos",
+     1,
+     "Grupo Folclórico . Segun Bases Tecnicas."
+    ],
+    [
+     "80141607",
+     "Producción de eventos",
+     1,
+     "Backstage . Segun Bases Tecnicas."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=2713-1229-COT26",
+   "sin_detalle": false,
+   "descripcion": "COTIZACIÓN DE : SERVICIO DE PRODUCCION. LOS COSTOS DE TRASLADOS A PUERTO AYSÉN SERÁN DEL OFERENTE. EL PLAZO DE ENTREGA ES EL DIA 17-10-26. OFERENTE DEBE INCLUIR FLETES EN EL PRECIO DEL PRODUCTO."
   },
   {
    "tipo": "POSIBLE",

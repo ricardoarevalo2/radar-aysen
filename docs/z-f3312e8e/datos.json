@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-10-08T16:39:57.892534-03:00",
+ "actualizado": "2026-10-08T17:41:19.865594-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
- "total_region": 255,
+ "total_region": 258,
  "rubros": {
   "25172700": "Aire acondicionado",
   "25173900": "Componentes eléctricos",
@@ -19,73 +19,6 @@
   "39121400": "Conectores, enchufes y terminales"
  },
  "filas": [
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "eléctrico",
-    "sistema eléctrico"
-   ],
-   "nueva": false,
-   "codigo": "4778-308-COT26",
-   "nombre": "RELE- SOLICITUD N° 9566- MANTENCION PREVENTIVA 3 TRANSPALETA ELECTRICAS SE ADJUNTA DETALLE",
-   "organismo": "SERVICIO NACIONAL DE SALUD HOSPITAL DE C",
-   "unidad": "Compras de Insumos y Servicios Generales",
-   "monto": 803250,
-   "cierre_iso": "2026-10-08T17:00:00-03:00",
-   "publicacion": "06-10 09:27",
-   "publicacion_iso": "2026-10-06T09:27:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "25181709",
-     "Pala cargadora",
-     1,
-     "Mantención preventiva para transpaletas electrohidráulicas\nTRANSPALETA ZHEJIANG SL15 702303015145"
-    ],
-    [
-     "25181709",
-     "Pala cargadora",
-     1,
-     "Mantención preventiva para transpaletas electrohidráulicas\nTRANSPALETA ZHEJIANG SL15 2108G0405"
-    ],
-    [
-     "25181709",
-     "Pala cargadora",
-     1,
-     "Mantención preventiva para transpaletas electrohidráulicas\nTRANSPALETA ZHEJIANG SL15L3  722305045535"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=4778-308-COT26",
-   "sin_detalle": false,
-   "descripcion": "Actividades mínimas a realizar:Limpieza sistema eléctrico y botón de seguridad;Limpieza de contactores;Verificar carga de batería;Cambio de aceite e hidráulico;Limpiar, revisar y lubricar sistema tándem de las horquillas;Engrasar rodamientos ruedas;Verificar levante uniforme de uñas;Medición de carga y normal funcionamiento del cargador batería;Cambio de rodamientos ruedas tándem;Entrega de informe final con observaciones y repuestos que requieran cambio;\nTRANSPALETA  ZHEJIANG SL15 SR. 70230301"
-  },
-  {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Gasfitería, calefacción y aire acondicionado"
-   ],
-   "nueva": false,
-   "codigo": "868-90-COT26",
-   "nombre": "PROVISION E INSTALACION DE 02 EQUIPOS DE CLIMATIZACION EN EDIFICIO GOBIERNO REGIONAL DE AYSEN",
-   "organismo": "GOBIERNO REGIONAL DE AYSEN",
-   "unidad": "Gobierno Regional de Aysen - XI Región",
-   "monto": 7200000,
-   "cierre_iso": "2026-10-08T17:00:00-03:00",
-   "publicacion": "05-10 12:02",
-   "publicacion_iso": "2026-10-05T12:02:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "72102305",
-     "Servicios de reparación, mantenimiento o reparación de aire acondicionado",
-     1,
-     "El Gobierno Regional de Aysén, requiere contratar el Servicio de “PROVISION E INSTALACION DE 02 EQUIPOS DE CLIMATIZACION EN EDIFICIO GOBIERNO REGIONAL DE AYSEN “, para la dependencia ubicada en calle Ejercito N° 405"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=868-90-COT26",
-   "sin_detalle": false,
-   "descripcion": "El Gobierno Regional de Aysén, requiere contratar el Servicio de “PROVISION E INSTALACION DE 02 EQUIPOS DE CLIMATIZACION EN EDIFICIO GOBIERNO REGIONAL DE AYSEN “, para la dependencia ubicada en calle Ejercito N° 405.-"
-  },
   {
    "tipo": "OPORTUNIDAD",
    "motivos": [
@@ -222,7 +155,7 @@
    "motivos": [
     "iluminación"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "1195-514-COT26",
    "nombre": "MANTENCION TORRES DE ILUMINACION",
    "organismo": "I MUNICIPALIDAD DE COYHAIQUE",
@@ -485,6 +418,39 @@
    "descripcion": "SE REQUIERE ADQUIRIR MALETIN TECNICO Y LINTERNA FRONTAL PARA VISITAS DOMICILIARIAS (VER DOCUMENTOS ADJUNTOS COMO REFERENCIAS). SE PRIORIZARA PROVEEDOR REGIONAL.ENVIO Y DESPACHO INCLUIDO. ENVIAR COTIZACION CON IMAGEN DEL PRODUCTO OFERTADO Y SUS ESPECIFICACIONES TECNICAS."
   },
   {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "iluminación"
+   ],
+   "nueva": true,
+   "codigo": "1281188-12-COT26",
+   "nombre": "Adquisición de 04 Plafones 24W y 02 Proyectores Led 40w con panel solar.",
+   "organismo": "DELEGACIÓN PRESIDENCIAL PROVINCIAL DE CAPITÁN PRAT",
+   "unidad": "Pasos Fronterizos Provincial de Capitán Prat",
+   "monto": 214000,
+   "cierre_iso": "2026-10-09T23:00:00-03:00",
+   "publicacion": "08-10 17:38",
+   "publicacion_iso": "2026-10-08T17:38:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "39111521",
+     "Plafones",
+     4,
+     "04 plafones sobrepuesto redondo 24W . Luz Fría"
+    ],
+    [
+     "39111513",
+     "Iluminación solar interior",
+     2,
+     "02 proyectores Led 40W con panel solar, 6500 K IP65"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1281188-12-COT26",
+   "sin_detalle": false,
+   "descripcion": "Adquisición de 04 Planes Sobrepuesto 24W., Luz Fría y 02 Proyectores Led 40W., 6500K IP65. El oferente deberá indicar si asume los costos de despacho. En caso afirmativo, dicho costo deberá encontrarse incluido en el valor total ofertado y no podrá ser presentado como un ítem."
+  },
+  {
    "tipo": "OPORTUNIDAD",
    "motivos": [
     "Gasfitería, calefacción y aire acondicionado"
@@ -516,7 +482,7 @@
    "motivos": [
     "Cajas y accesorios eléctricos"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "3540-252-COT26",
    "nombre": "CORTA CORRIENTE 24 V 100AMP",
    "organismo": "Ejercito de Chile",
