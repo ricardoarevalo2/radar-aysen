@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-10-08T11:43:12.017609-03:00",
+ "actualizado": "2026-10-08T12:42:47.841704-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
- "total_region": 274,
+ "total_region": 281,
  "rubros": {
   "25172700": "Aire acondicionado",
   "25173900": "Componentes eléctricos",
@@ -19,33 +19,6 @@
   "39121400": "Conectores, enchufes y terminales"
  },
  "filas": [
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "iluminación"
-   ],
-   "nueva": true,
-   "codigo": "3949-245-COT26",
-   "nombre": "MONITORA DE ARTESANIAS DE FIELTRO POR UN PERIODO OCTUBRE A DICIEMBRE 2026 / 40 HORAS ",
-   "organismo": "CONSULTORIO GENERAL URBANO DR ALEJANDRO GUTIERREZ",
-   "unidad": "ID 3949 - CESFAM Dr Alejandro Gutiérrez",
-   "monto": 1400000,
-   "cierre_iso": "2026-10-08T12:30:00-03:00",
-   "publicacion": "07-10 12:14",
-   "publicacion_iso": "2026-10-07T12:14:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "86111604",
-     "Capacitación a empleados",
-     1,
-     "MONITORA CON EXPERIENCIA EN PREPARACIÓN DE ARTESANIAS EN FIELTRO, 2 HORAS POR CADA JORNADA, UN TOTAL DE 40 HORAS (VER ESPECIFICACIONES TECNICAS SOLICITADAS)"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=3949-245-COT26",
-   "sin_detalle": false,
-   "descripcion": "SE SOLICITA MONITORA CON EXPERIENCIA EN PREPARACIÓN DE ARTESANIAS EN FIELTRO (VER ESPECIFICACIONES TÉCNICAS ADJUNTAS) DEBE INCLUIR LUGAR O SALÓN CON CALEFACCIÓN E ILUMINACIÓN ADECUADA, PROVEEDOR CON RESIDENCIA EN COYHAIQUE. LA CUAL AL FINAL DEL CURSO, DEBE CONTEMPLAR UNA CEREMONIA DE CIERRE CON DESGUSTACIÓN DE ALIMENTACIÓN CON PERTINENCIA INDIGENA. SE REALIZARÁ ENTREVISTA PERSONAL (EXCLUYENTE)"
-  },
   {
    "tipo": "POSIBLE",
    "motivos": [

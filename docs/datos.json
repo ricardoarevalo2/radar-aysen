@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-10-08T11:43:12.017609-03:00",
+ "actualizado": "2026-10-08T12:42:47.841704-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
- "total_region": 274,
+ "total_region": 281,
  "rubros": {
   "80141600": "Ventas y marketing",
   "82101600": "Publicidad en medios no impresos",
@@ -371,6 +371,33 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=1092-59-COT26",
    "sin_detalle": false,
    "descripcion": "SERVICIO DE PANTALLAS LED PARA DIFUSIÓN EVENTO SEMANA DE LA PYME (RUBRO FORESTAL), PARA EL DÍA 13-10-2026 HORARIO DE 14:30 A 18:30 HORAS, EN CENTRO CULTURAL DE COYHAIQUE, BAQUEDANO ESQUINA EUSEBIO LILLO. VER DOCUMENTO ADJUNTO."
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "fotografía"
+   ],
+   "nueva": true,
+   "codigo": "3791-1013-COT26",
+   "nombre": "Servicio de Traslado de Residuos desde Gaviota ",
+   "organismo": "I MUNICIPALIDAD DE CISNES",
+   "unidad": "Finanzas",
+   "monto": 2380000,
+   "cierre_iso": "2026-10-09T15:00:00-03:00",
+   "publicacion": "08-10 11:45",
+   "publicacion_iso": "2026-10-08T11:45:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "78101903",
+     "Transporte carretera-marítimo",
+     1,
+     "traslado de residuos reciclables desde Puerto Gaviota a Puerto Cisnes.\n Los residuos reciclables deberán encontrarse separados y contenidos en sus respectivos sacos, de acuerdo con el tipo de\nmaterial reciclable. -Todos los sacos deberán estar debidamente etiquetados, indicando claramente el tipo de residuo que contienen. -El proveedor deberá registrar mediante fotografías la cantidad de residuos recolectados, el\nproceso de carga y traslado y una fotografía general de la actividad."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=3791-1013-COT26",
+   "sin_detalle": false,
+   "descripcion": "Se requiere contratar el servicio de traslado de residuos reciclables, correspondientes a vidrio, latas de aluminio y plásticos, desde la localidad de Puerto Gaviota hasta el Punto Limpio de Puerto Cisnes, con el objetivo de asegurar su correcta recolección, transporte y posterior valorización, promoviendo la gestión adecuada de los residuos\nreciclables en la localidad."
   },
   {
    "tipo": "POSIBLE",
