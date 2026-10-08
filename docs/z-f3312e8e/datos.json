@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-10-08T09:48:07.013329-03:00",
+ "actualizado": "2026-10-08T10:42:26.294578-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
- "total_region": 277,
+ "total_region": 269,
  "rubros": {
   "25172700": "Aire acondicionado",
   "25173900": "Componentes eléctricos",
@@ -45,155 +45,6 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=3949-245-COT26",
    "sin_detalle": false,
    "descripcion": "SE SOLICITA MONITORA CON EXPERIENCIA EN PREPARACIÓN DE ARTESANIAS EN FIELTRO (VER ESPECIFICACIONES TÉCNICAS ADJUNTAS) DEBE INCLUIR LUGAR O SALÓN CON CALEFACCIÓN E ILUMINACIÓN ADECUADA, PROVEEDOR CON RESIDENCIA EN COYHAIQUE. LA CUAL AL FINAL DEL CURSO, DEBE CONTEMPLAR UNA CEREMONIA DE CIERRE CON DESGUSTACIÓN DE ALIMENTACIÓN CON PERTINENCIA INDIGENA. SE REALIZARÁ ENTREVISTA PERSONAL (EXCLUYENTE)"
-  },
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "ampolleta",
-    "enchufe",
-    "enchufes"
-   ],
-   "nueva": true,
-   "codigo": "3791-1008-COT26",
-   "nombre": "MANTENCION Y REPARACION GIM LA JUNTA ",
-   "organismo": "I MUNICIPALIDAD DE CISNES",
-   "unidad": "Finanzas",
-   "monto": 5144965,
-   "cierre_iso": "2026-10-08T12:40:00-03:00",
-   "publicacion": "07-10 12:36",
-   "publicacion_iso": "2026-10-07T12:36:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "27113201",
-     "Conjuntos generales de herramientas",
-     3,
-     "Plancha yeso-cartón 10 mm (RH)"
-    ],
-    [
-     "27113201",
-     "Conjuntos generales de herramientas",
-     2,
-     "Tornillos CRS 11/2\" (caja 100 u)"
-    ],
-    [
-     "27113201",
-     "Conjuntos generales de herramientas",
-     2,
-     "Tineta pintura esmalte al agua con aditivo antihongos"
-    ],
-    [
-     "27113201",
-     "Conjuntos generales de herramientas",
-     1,
-     "Pasta muro (galón)"
-    ],
-    [
-     "27113201",
-     "Conjuntos generales de herramientas",
-     4,
-     "Rodillos 23cm"
-    ],
-    [
-     "27113201",
-     "Conjuntos generales de herramientas",
-     4,
-     "Brochas 4\""
-    ],
-    [
-     "27113201",
-     "Conjuntos generales de herramientas",
-     4,
-     "Lijas grano fino"
-    ],
-    [
-     "27113201",
-     "Conjuntos generales de herramientas",
-     4,
-     "Lijas grano grueso"
-    ],
-    [
-     "27113201",
-     "Conjuntos generales de herramientas",
-     2,
-     "Cinta masking 48mm"
-    ],
-    [
-     "27113201",
-     "Conjuntos generales de herramientas",
-     4,
-     "Silicona antihongos transparente"
-    ],
-    [
-     "27113201",
-     "Conjuntos generales de herramientas",
-     12,
-     "Sellador de poliuretano / MS polímero (cartucho 300 ml)"
-    ],
-    [
-     "27113201",
-     "Conjuntos generales de herramientas",
-     75,
-     "Tornillo autoperforante de techo 6\" punta broca con golilla EPDM (caja 100un)"
-    ],
-    [
-     "27113201",
-     "Conjuntos generales de herramientas",
-     15,
-     "Cinta sello de butilo 75 mm (rollo 10 mts)"
-    ],
-    [
-     "27113201",
-     "Conjuntos generales de herramientas",
-     5,
-     "Tornillo de costura 1/4\" x 7/8\" (caja 100 u)"
-    ],
-    [
-     "27113201",
-     "Conjuntos generales de herramientas",
-     1,
-     "Ampolleta Luz blanca 15 W"
-    ],
-    [
-     "27113201",
-     "Conjuntos generales de herramientas",
-     1,
-     "Marco de madera 5\" puerta de bodega"
-    ],
-    [
-     "27113201",
-     "Conjuntos generales de herramientas",
-     1,
-     "Cerámica muro blanca (caja) 20 x 30"
-    ],
-    [
-     "27113201",
-     "Conjuntos generales de herramientas",
-     1,
-     "adhesivo ceramico AC (galón)"
-    ],
-    [
-     "27113201",
-     "Conjuntos generales de herramientas",
-     18,
-     "Enchufes simples embutidos 10Amp"
-    ],
-    [
-     "27113201",
-     "Conjuntos generales de herramientas",
-     3,
-     "Enchufe macho 10Amp"
-    ],
-    [
-     "27113201",
-     "Conjuntos generales de herramientas",
-     15,
-     "Luces de emergencia, 2 focos"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=3791-1008-COT26",
-   "sin_detalle": false,
-   "descripcion": "ADQUISICION DE MATERIALES PARA LA EJECUCION DE LA INICIATIVA DE INVERSION \"MANTENCION Y REPARACION DE GIMNASIO DE LA JUNTA, COMUA DE CISNES SEGUN DECRETO N°5160 DEL 05 DE OCTUBRE 2026. SE ADJUNTAN ANEXOS"
   },
   {
    "tipo": "POSIBLE",
@@ -1261,12 +1112,5 @@
    "descripcion": "PROCESO DE ADQUISICIÓN PARA EL SERVICIO DE LEVANTAMIENTO ELECTRICO, RETIRO E INSTALACIÓN DE EQUIUPOS DE CLIMATIZACIÓN PARA OFICINAS DE LA SEREMITT DE AYSÉN\n\nLA VISITA ENTERRENO SERÁ EL DÍA 9 DE OCTUBRE A LAS 10:00 HORAS\nVER  REQUERIMIENTO TÉCNICO"
   }
  ],
- "pendientes": [
-  {
-   "codigo": "1692-588-COT26",
-   "nombre": "ADQUISICION DE ARTICULOS DE LIBRERIA PARA EL HOSPITAL DE COCHRANE Y POSTAS",
-   "organismo": "SERVICIO NACIONAL DE SALUD HOSPITAL DE COCHRANE",
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1692-588-COT26"
-  }
- ]
+ "pendientes": []
 }

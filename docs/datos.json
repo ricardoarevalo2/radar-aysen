@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-10-08T09:48:07.013329-03:00",
+ "actualizado": "2026-10-08T10:42:26.294578-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
- "total_region": 277,
+ "total_region": 269,
  "rubros": {
   "80141600": "Ventas y marketing",
   "82101600": "Publicidad en medios no impresos",
@@ -14,33 +14,6 @@
   "83121700": "Comunicación social y de masas"
  },
  "filas": [
-  {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Ventas y marketing"
-   ],
-   "nueva": false,
-   "codigo": "4733-375-COT26",
-   "nombre": " EVENTO INTERGENERACIONAL MATEANDO LA HISTORIA LOCAL",
-   "organismo": "I MUNICIPALIDAD DE LAS GUAITECAS",
-   "unidad": "I MUNICIPALIDAD DE LAS GUAITECAS",
-   "monto": 3865400,
-   "cierre_iso": "2026-10-08T10:00:00-03:00",
-   "publicacion": "02-10 13:00",
-   "publicacion_iso": "2026-10-02T13:00:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "80141607",
-     "Producción de eventos",
-     1,
-     "EVENTO INTERGENERACIONAL MATEANDO LA HISTORIA LOCAL"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=4733-375-COT26",
-   "sin_detalle": false,
-   "descripcion": "Se requiere contratar el servicio de producción artística para el evento Intergeneracional Mateando la Historia Local según especificaciones técnicas adjuntas, adjuntar cotización.-"
-  },
   {
    "tipo": "OPORTUNIDAD",
    "motivos": [
@@ -376,12 +349,5 @@
    "descripcion": "El Servicio Local de Educación Publica de Aysen requeire adquirir Pendón tamaño 100 x 200 cms para difusición, los oferentes interesados deberan leer formulario adjunto y presentarlo en su propuesta. El diseño definitivo sera entrego al proveedor adjudicado."
   }
  ],
- "pendientes": [
-  {
-   "codigo": "1692-588-COT26",
-   "nombre": "ADQUISICION DE ARTICULOS DE LIBRERIA PARA EL HOSPITAL DE COCHRANE Y POSTAS",
-   "organismo": "SERVICIO NACIONAL DE SALUD HOSPITAL DE COCHRANE",
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1692-588-COT26"
-  }
- ]
+ "pendientes": []
 }
