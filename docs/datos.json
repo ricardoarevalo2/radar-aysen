@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-10-07T21:49:42.446382-03:00",
+ "actualizado": "2026-10-08T06:41:16.463097-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
- "total_region": 294,
+ "total_region": 291,
  "rubros": {
   "80141600": "Ventas y marketing",
   "82101600": "Publicidad en medios no impresos",
@@ -14,33 +14,6 @@
   "83121700": "Comunicación social y de masas"
  },
  "filas": [
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "radio"
-   ],
-   "nueva": true,
-   "codigo": "1282238-75-COT26",
-   "nombre": "ALMUERZO DE CIERRE NACIONAL DE CUECA",
-   "organismo": "CORPORACION CULTURAL MUNICIPAL DE COYHAIQUE",
-   "unidad": "CORPORACION CULTURAL MUNICIPAL DE COYHAIQUE",
-   "monto": 820000,
-   "cierre_iso": "2026-10-07T23:50:00-03:00",
-   "publicacion": "06-10 21:53",
-   "publicacion_iso": "2026-10-06T21:53:00-03:00",
-   "ofertas": 1,
-   "productos": [
-    [
-     "91111603",
-     "Servicios de cocina o preparación de comidas",
-     50,
-     "ALMUERZO PARA CIERRE DE NACIONAL DE CUECA PARA EL DÍA 12.10.2026"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1282238-75-COT26",
-   "sin_detalle": false,
-   "descripcion": "Se requiere la contratación de un servicio integral de alimentación y banquetería (catering) para la jornada de cierre de delegaciones del Campeonato Nacional, a realizarse en un recinto ubicado fuera del radio urbano de la comuna de Coyhaique. El servicio contempla la atención completa para un total de 50 personas. Se debe ofrecer un menú completo para los asistentes. (incluir platos veganos). SE EVALUARÁ PRECIO."
-  },
   {
    "tipo": "POSIBLE",
    "motivos": [
