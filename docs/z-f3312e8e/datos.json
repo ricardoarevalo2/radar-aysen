@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-10-09T11:43:52.969706-03:00",
+ "actualizado": "2026-10-09T12:41:41.440519-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
- "total_region": 245,
+ "total_region": 237,
  "rubros": {
   "25172700": "Aire acondicionado",
   "25173900": "Componentes eléctricos",
@@ -19,33 +19,6 @@
   "39121400": "Conectores, enchufes y terminales"
  },
  "filas": [
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "generador"
-   ],
-   "nueva": false,
-   "codigo": "657-90-COT26",
-   "nombre": "INSUMOS E INSTALACION  PARA GRUPO ELECTROGENO DE ENERGIA",
-   "organismo": "SERVICIO DE VIVIENDA Y URBANIZACION XI REGION",
-   "unidad": "SERVIU XI REGION",
-   "monto": 847000,
-   "cierre_iso": "2026-10-09T12:00:00-03:00",
-   "publicacion": "08-10 11:39",
-   "publicacion_iso": "2026-10-08T11:39:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "40142203",
-     "Kits de reparación de regulador de fluidos",
-     1,
-     "SERVIU REQUIERE ADQUIRIR INSUMOS E INSTALACION PARA GRUPO ELECTROGENO DE ENERGIA, Liquido refrigerante CAT para generador DE 110GC, estanque de 19 litros.\nKit Mangueras c/tubería.\nKit Sellos Mecánicos.\nAbrazaderas fleje de diámetro menor. LOS INSUMOS DEBEN SER ORIGINALES DE LA MARCA CAT YA QUE EL EQUIPO ELECTROGENO NO TIENE MANTENCION HISTORICA Y PARA ASEGURAR LA VIDA UTIL DEL EQUIPO."
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=657-90-COT26",
-   "sin_detalle": false,
-   "descripcion": "SERVIU REQUIERE ADQUIRIR INSUMOS E INSTALACION PARA GRUPO ELECTROGENO DE ENERGIA, Liquido refrigerante CAT para generador DE 110GC, estanque de 19 litros.\nKit Mangueras c/tubería.\nKit Sellos Mecánicos.\nAbrazaderas fleje de diámetro menor. LOS INSUMOS DEBEN SER ORIGINALES DE LA MARCA CAT YA QUE EL EQUIPO ELECTROGENO NO TIENE MANTENCION HISTORICA Y PARA ASEGURAR LA VIDA UTIL DEL EQUIPO."
-  },
   {
    "tipo": "POSIBLE",
    "motivos": [
@@ -582,6 +555,34 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=1233615-778-COT26",
    "sin_detalle": false,
    "descripcion": "Se requiere la adquisición de alargadores para Centro de Educación Integrada de Adultos, el proveedor deberá contemplar despacho al establecimiento educacional, ubicado en Av. Ogana 1048-B"
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "climatización",
+    "eléctricos"
+   ],
+   "nueva": false,
+   "codigo": "711-194-COT26",
+   "nombre": "PROCESO DE ADQUISICIÓN PARA EL SERVICIO DE LEVANTAMIENTO ELECTRICO, RETIRO E INSTALACIÓN DE EQUIUPOS DE CLIMATIZACIÓN PARA OFICINAS DE LA SEREMITT DE AYSÉN",
+   "organismo": "SUBSECRETARIA DE TRANSPORTES",
+   "unidad": "SUBSECRETARÍA DE TRANSPORTES",
+   "monto": 2400000,
+   "cierre_iso": "2026-10-15T10:00:00-03:00",
+   "publicacion": "07-10 08:20",
+   "publicacion_iso": "2026-10-07T08:20:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "73171510",
+     "Servicios de fabricación de accesorios o suministros eléctricos",
+     1,
+     "PROCESO DE ADQUISICIÓN PARA EL SERVICIO DE LEVANTAMIENTO ELECTRICO, RETIRO E INSTALACIÓN DE EQUIUPOS DE CLIMATIZACIÓN PARA OFICINAS DE LA SEREMITT DE AYSÉN\n\nVER REQUERIMIENTO TÉCNICO"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=711-194-COT26",
+   "sin_detalle": false,
+   "descripcion": "PROCESO DE ADQUISICIÓN PARA EL SERVICIO DE LEVANTAMIENTO ELECTRICO, RETIRO E INSTALACIÓN DE EQUIUPOS DE CLIMATIZACIÓN PARA OFICINAS DE LA SEREMITT DE AYSÉN\n\nLA VISITA ENTERRENO SERÁ EL DÍA 9 DE OCTUBRE A LAS 10:00 HORAS\nVER  REQUERIMIENTO TÉCNICO"
   },
   {
    "tipo": "POSIBLE",

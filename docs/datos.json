@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-10-09T11:43:52.969706-03:00",
+ "actualizado": "2026-10-09T12:41:41.440519-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
- "total_region": 245,
+ "total_region": 237,
  "rubros": {
   "80141600": "Ventas y marketing",
   "82101600": "Publicidad en medios no impresos",
@@ -14,33 +14,6 @@
   "83121700": "Comunicación social y de masas"
  },
  "filas": [
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "difusión"
-   ],
-   "nueva": false,
-   "codigo": "1092-59-COT26",
-   "nombre": "SIC 441 SIRE 417 Servicio Pantallas LED",
-   "organismo": "CORP NACIONAL FORESTAL",
-   "unidad": "XI Región - Oficina Regional de Aysén",
-   "monto": 800000,
-   "cierre_iso": "2026-10-09T12:00:00-03:00",
-   "publicacion": "07-10 15:41",
-   "publicacion_iso": "2026-10-07T15:41:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "45111603",
-     "Pantallas de proyección",
-     1,
-     "Se requiere sistema de pantalla Led de  3 Mts por 2 Mts, con las siguientes características:\n* Dimensiones: 3 Mts de ancho por 2 Mts de alto. P3.9 de Pixel pitch\nGabinetes modulares.\n* Procesador de video: Controlador Novastar.\n* Estructura y soporte: Bumpers para colgar o armar la estructura.\n* Transporte: Flight cases / cases de transporte especializados.\n* Cableado: Set completo de cables de poder y señal (RJ45)\nContar con técnico o profesional que haga labores de controlador. Ver doc. adj."
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1092-59-COT26",
-   "sin_detalle": false,
-   "descripcion": "SERVICIO DE PANTALLAS LED PARA DIFUSIÓN EVENTO SEMANA DE LA PYME (RUBRO FORESTAL), PARA EL DÍA 13-10-2026 HORARIO DE 14:30 A 18:30 HORAS, EN CENTRO CULTURAL DE COYHAIQUE, BAQUEDANO ESQUINA EUSEBIO LILLO. VER DOCUMENTO ADJUNTO."
-  },
   {
    "tipo": "POSIBLE",
    "motivos": [
@@ -478,6 +451,33 @@
    "descripcion": "Contar con credenciales para cada integrante de las distintas delegaciones de la región\nde Aysén, representantes en los Juegos Binacionales de la Araucanía y Para Araucanía,\na realizarse en la región de Los Ríos."
   },
   {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Ventas y marketing"
+   ],
+   "nueva": true,
+   "codigo": "1746-237-COT26",
+   "nombre": " APOYO A EJECUCIÓN JORNADA NACIONAL 30 AÑOS DE HANTAVIRUS EN CHILE",
+   "organismo": "SUBSECRETARIA DE SALUD PUBLICA",
+   "unidad": "Seremi de Salud XI Región",
+   "monto": 800000,
+   "cierre_iso": "2026-10-13T16:00:00-03:00",
+   "publicacion": "09-10 12:08",
+   "publicacion_iso": "2026-10-09T12:08:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "80141607",
+     "Producción de eventos",
+     1,
+     "APOYO A EJECUCIÓN JORNADA NACIONAL 30 AÑOS DE HANTAVIRUS EN CHILE CUMPLIR CON LA TOTALIDAD DE LAS ESPECIFICACIONES TÉCNIAS MENCIONADAS EN DOCUMENTO ADJUNTO PM N° 480 DSP ADJUNTAR PROPUESTA"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1746-237-COT26",
+   "sin_detalle": false,
+   "descripcion": "APOYO A EJECUCIÓN JORNADA NACIONAL 30 AÑOS DE HANTAVIRUS EN CHILE CUMPLIR CON LA TOTALIDAD DE LAS ESPECIFICACIONES TÉCNIAS MENCIONADAS EN DOCUMENTO ADJUNTO PM N° 480 DSP ADJUNTAR PROPUESTA"
+  },
+  {
    "tipo": "POSIBLE",
    "motivos": [
     "difusion"
@@ -530,6 +530,64 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=4733-395-COT26",
    "sin_detalle": false,
    "descripcion": "Se requiere contratar el servicio de producción artística para concierto de navidad según especificaciones técnicas adjuntas, adjuntar cotización.-"
+  },
+  {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Fotógrafos y camarógrafos",
+    "Ventas y marketing"
+   ],
+   "nueva": true,
+   "codigo": "1282238-78-COT26",
+   "nombre": "Servicio de Diseño y Ejecución Encuentro Arte, Cultura y Patrimonio - FNDR 3465 Talleres Patrimoniales",
+   "organismo": "CORPORACION CULTURAL MUNICIPAL DE COYHAIQUE",
+   "unidad": "CORPORACION CULTURAL MUNICIPAL DE COYHAIQUE",
+   "monto": 2950000,
+   "cierre_iso": "2026-10-16T15:00:00-03:00",
+   "publicacion": "09-10 11:49",
+   "publicacion_iso": "2026-10-09T11:49:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "80141607",
+     "Producción de eventos",
+     1,
+     "Organización y coordinación del Encuentro Arte, Cultura y Patrimonio (04-12-2026, 4 horas, Centro Cultural de Coyhaique): planificación, guion, coordinación con la Corporación y con participantes de los talleres de Acordeón, Foto bordado, Teatro testimonial, Gastronomía local y Ciencia y Astronomía (Valle Simpson, Villa Ortega y Coyhaique), y supervisión de la jornada."
+    ],
+    [
+     "82141602",
+     "Montaje de exposiciones",
+     1,
+     "Montaje de piezas y ambientación: diseño, preparación, compra de insumos y montaje de la ambientación del espacio y de la exhibición de los trabajos elaborados por los participantes de los talleres; desmontaje al cierre."
+    ],
+    [
+     "93141701",
+     "Organizaciones de eventos culturales",
+     1,
+     "Maestra o maestro de ceremonia: conducción de la jornada, desarrollo de guion, presentación de cada taller, gestión de transiciones y cierre del encuentro."
+    ],
+    [
+     "93141711",
+     "Servicios de promoción de artesanía tradicional",
+     1,
+     "Taller de oficios textiles patrimoniales: taller práctico de 2 horas para hasta 80 personas, orientado a la exploración de prácticas patrimoniales de la Región de Aysén (técnica a definir con la Corporación), con todos los materiales incluidos."
+    ],
+    [
+     "80161507",
+     "Servicios Audio Visuales",
+     1,
+     "Sistema de amplificación para la jornada: parlantes, micrófonos y mesa de sonido, con operador, instalación y retiro."
+    ],
+    [
+     "82131603",
+     "Producción de vídeo",
+     1,
+     "Registro fotográfico y audiovisual de la jornada, con entrega de material editado para comunicaciones y archivo institucional."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1282238-78-COT26",
+   "sin_detalle": false,
+   "descripcion": "Diseño y ejecución del Encuentro Arte, Cultura y Patrimonio el 4 de diciembre de 2026 en el Centro Cultural de Coyhaique (jornada de 4 horas), proyecto FNDR código 3465. Incluye coordinación general, montaje y ambientación de la exhibición de trabajos de los talleres, maestra/o de ceremonia, taller de oficios textiles patrimoniales para hasta 80 personas con materiales, amplificación y registro audiovisual. Detalle en especificaciones adjuntas."
   }
  ],
  "pendientes": [
