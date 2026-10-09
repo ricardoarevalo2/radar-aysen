@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-10-08T20:38:47.815808-03:00",
+ "actualizado": "2026-10-08T21:52:33.194508-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
- "total_region": 257,
+ "total_region": 256,
  "rubros": {
   "25172700": "Aire acondicionado",
   "25173900": "Componentes eléctricos",
@@ -30,10 +30,10 @@
    "organismo": "UNIVERSIDAD DE AYSEN",
    "unidad": "Proyectos",
    "monto": 300000,
-   "cierre_iso": "2026-10-08T22:24:00-03:00",
+   "cierre_iso": "2026-10-09T08:00:00-03:00",
    "publicacion": "05-10 17:35",
    "publicacion_iso": "2026-10-05T17:35:00-03:00",
-   "ofertas": 0,
+   "ofertas": 1,
    "productos": [
     [
      "90111604",
