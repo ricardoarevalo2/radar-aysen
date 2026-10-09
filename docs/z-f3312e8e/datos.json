@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-10-09T18:39:53.257898-03:00",
+ "actualizado": "2026-10-09T19:39:44.487259-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
- "total_region": 229,
+ "total_region": 228,
  "rubros": {
   "25172700": "Aire acondicionado",
   "25173900": "Componentes eléctricos",
@@ -24,7 +24,7 @@
    "motivos": [
     "iluminación"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "1281188-14-COT26",
    "nombre": "Adquisición de 04 Plafones 24W y 02 Proyectores Led 40w con panel solar",
    "organismo": "DELEGACIÓN PRESIDENCIAL PROVINCIAL DE CAPITÁN PRAT",
