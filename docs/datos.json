@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-10-09T07:41:13.576998-03:00",
+ "actualizado": "2026-10-09T08:38:21.997869-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
- "total_region": 248,
+ "total_region": 242,
  "rubros": {
   "80141600": "Ventas y marketing",
   "82101600": "Publicidad en medios no impresos",
@@ -14,60 +14,6 @@
   "83121700": "Comunicación social y de masas"
  },
  "filas": [
-  {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Ventas y marketing"
-   ],
-   "nueva": false,
-   "codigo": "418-1538-COT26",
-   "nombre": "POR - SERVICIO ARTISTICO DE PASACALLE (SEGUN DETALLE ADJUNTO)",
-   "organismo": "SERVICIO NACIONAL DE SALUD HOSPITAL DE PUERTO AYSEN",
-   "unidad": "H Puerto Aysén",
-   "monto": 1,
-   "cierre_iso": "2026-10-09T08:00:00-03:00",
-   "publicacion": "06-10 14:17",
-   "publicacion_iso": "2026-10-06T14:17:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "80141607",
-     "Producción de eventos",
-     1,
-     "servicio artístico de pasacalles, que permita desarrollar una intervención dinámica, visual, participativa y apta para todo público, incorporando música, danza, intervenciones circenses y elementos visuales que favorezcan la interacción con la comunidad. Fecha: Sábado 17 de Octubre de 2026 - Lugar: Calles Puerto Aysén según el siguiente recorrido - Inicio en Plaza Mahuen Horario 15:00 a 17:00 hrs Duración 2 horas"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=418-1538-COT26",
-   "sin_detalle": false,
-   "descripcion": "Se requiere contratar un servicio artístico de pasacalles, que permita desarrollar una intervención dinámica, visual, participativa y apta para todo público, incorporando música, danza, intervenciones circenses y elementos visuales que favorezcan la interacción con la comunidad. Fecha: Sábado 17 de Octubre de 2026 - Lugar: Calles Puerto Aysén según el siguiente recorrido: Inicio en Plaza Mahuen. Horario 15:00 a 17:00 hrs - Duración 2 horas"
-  },
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "radio"
-   ],
-   "nueva": false,
-   "codigo": "1057062-449-COT26",
-   "nombre": "Servicio de arriendo sala de teatro para el 15 de octubre coyhaique, ury 2493 segun fisabs 2269",
-   "organismo": "UNIVERSIDAD DE AYSEN",
-   "unidad": "Proyectos",
-   "monto": 300000,
-   "cierre_iso": "2026-10-09T08:00:00-03:00",
-   "publicacion": "05-10 17:35",
-   "publicacion_iso": "2026-10-05T17:35:00-03:00",
-   "ofertas": 1,
-   "productos": [
-    [
-     "90111604",
-     "Salones",
-     1,
-     "Servicio de ARRIENDO DE SALA DE TEATRO.Requerimientos del espacio\n? Sala de artes escénicas en formato cámara negra.\n? 24mts cuadrados de espacio escénico.\n? Capacidad para 50 espectadores.\n? Contar con espacio aparte para camarín que incluya baño.\n? Equipo de sonido e iluminación incluido y montado.\n? Técnico a cargo de operar durante toda la jornada.\nsegun especificacion tecnica adjunta ver"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1057062-449-COT26",
-   "sin_detalle": false,
-   "descripcion": "La Universidad de Aysén, requiere cotizar el ARRIENDO DE SALA DE TEATRO, jueves 15 de octubre de 2026, Lugar dentro del radio urbano de Coyhaique. de 15:00 a 20:00hrs Detalle del espacio: Según especificaciones técnicas. deben cumplir con las especificaciones técnicas en archivo adjunto. Proveedor deberá adjuntar cotizacion con servicio ofertado con detalle."
-  },
   {
    "tipo": "OPORTUNIDAD",
    "motivos": [
@@ -469,6 +415,33 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=4778-304-COT26",
    "sin_detalle": false,
    "descripcion": "ADQUISICION DE INSUMOS CLINICOS PARA MONITOREO DE PACIENTES, SENSORES SPO2, CABLES ECG, BRAZALETES DE PRESION ARTERIAL Y ADAPTADORES DE CONEXION, SEGUN SOLICITUD EXTRAORDINARIA N° 3726/2026 DE LA UNIDAD DE EQUIPOS MEDICOS."
+  },
+  {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Ventas y marketing"
+   ],
+   "nueva": false,
+   "codigo": "418-1538-COT26",
+   "nombre": "POR - SERVICIO ARTISTICO DE PASACALLE (SEGUN DETALLE ADJUNTO)",
+   "organismo": "SERVICIO NACIONAL DE SALUD HOSPITAL DE PUERTO AYSEN",
+   "unidad": "H Puerto Aysén",
+   "monto": 1,
+   "cierre_iso": "2026-10-12T01:42:00-03:00",
+   "publicacion": "06-10 14:17",
+   "publicacion_iso": "2026-10-06T14:17:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "80141607",
+     "Producción de eventos",
+     1,
+     "servicio artístico de pasacalles, que permita desarrollar una intervención dinámica, visual, participativa y apta para todo público, incorporando música, danza, intervenciones circenses y elementos visuales que favorezcan la interacción con la comunidad. Fecha: Sábado 17 de Octubre de 2026 - Lugar: Calles Puerto Aysén según el siguiente recorrido - Inicio en Plaza Mahuen Horario 15:00 a 17:00 hrs Duración 2 horas"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=418-1538-COT26",
+   "sin_detalle": false,
+   "descripcion": "Se requiere contratar un servicio artístico de pasacalles, que permita desarrollar una intervención dinámica, visual, participativa y apta para todo público, incorporando música, danza, intervenciones circenses y elementos visuales que favorezcan la interacción con la comunidad. Fecha: Sábado 17 de Octubre de 2026 - Lugar: Calles Puerto Aysén según el siguiente recorrido: Inicio en Plaza Mahuen. Horario 15:00 a 17:00 hrs - Duración 2 horas"
   },
   {
    "tipo": "OPORTUNIDAD",

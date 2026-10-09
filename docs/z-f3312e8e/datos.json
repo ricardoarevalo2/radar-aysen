@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-10-09T07:41:13.576998-03:00",
+ "actualizado": "2026-10-09T08:38:21.997869-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
- "total_region": 248,
+ "total_region": 242,
  "rubros": {
   "25172700": "Aire acondicionado",
   "25173900": "Componentes eléctricos",
@@ -19,33 +19,6 @@
   "39121400": "Conectores, enchufes y terminales"
  },
  "filas": [
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "iluminación"
-   ],
-   "nueva": false,
-   "codigo": "1057062-449-COT26",
-   "nombre": "Servicio de arriendo sala de teatro para el 15 de octubre coyhaique, ury 2493 segun fisabs 2269",
-   "organismo": "UNIVERSIDAD DE AYSEN",
-   "unidad": "Proyectos",
-   "monto": 300000,
-   "cierre_iso": "2026-10-09T08:00:00-03:00",
-   "publicacion": "05-10 17:35",
-   "publicacion_iso": "2026-10-05T17:35:00-03:00",
-   "ofertas": 1,
-   "productos": [
-    [
-     "90111604",
-     "Salones",
-     1,
-     "Servicio de ARRIENDO DE SALA DE TEATRO.Requerimientos del espacio\n? Sala de artes escénicas en formato cámara negra.\n? 24mts cuadrados de espacio escénico.\n? Capacidad para 50 espectadores.\n? Contar con espacio aparte para camarín que incluya baño.\n? Equipo de sonido e iluminación incluido y montado.\n? Técnico a cargo de operar durante toda la jornada.\nsegun especificacion tecnica adjunta ver"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1057062-449-COT26",
-   "sin_detalle": false,
-   "descripcion": "La Universidad de Aysén, requiere cotizar el ARRIENDO DE SALA DE TEATRO, jueves 15 de octubre de 2026, Lugar dentro del radio urbano de Coyhaique. de 15:00 a 20:00hrs Detalle del espacio: Según especificaciones técnicas. deben cumplir con las especificaciones técnicas en archivo adjunto. Proveedor deberá adjuntar cotizacion con servicio ofertado con detalle."
-  },
   {
    "tipo": "OPORTUNIDAD",
    "motivos": [
