@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-09T08:38:21.997869-03:00",
+ "actualizado": "2026-10-09T09:46:22.286250-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
  "total_region": 242,
@@ -449,6 +449,94 @@
     "Ventas y marketing"
    ],
    "nueva": true,
+   "codigo": "3950-649-COT26",
+   "nombre": "Afiches para promoción de prevención de colonrrectal.",
+   "organismo": "DIRECCION SALUD RURAL",
+   "unidad": "Dirección de Salud Rural",
+   "monto": 200000,
+   "cierre_iso": "2026-10-13T08:00:00-03:00",
+   "publicacion": "09-10 09:17",
+   "publicacion_iso": "2026-10-09T09:17:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "80141611",
+     "Personalización de regalos o productos promocionales",
+     20,
+     "Afiches A3 (29,7 × 42 cm), full color, 1 cara, couché mate 170"
+    ],
+    [
+     "80141611",
+     "Personalización de regalos o productos promocionales",
+     100,
+     "Afiches A5 (14,8 × 21 cm), full color, 1 cara, couché mate 170g"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=3950-649-COT26",
+   "sin_detalle": false,
+   "descripcion": "Con despacho incluido"
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "publicidad",
+    "publicitarios"
+   ],
+   "nueva": true,
+   "codigo": "1201-174-COT26",
+   "nombre": "CREDENCIALES DELEGACIÓN REGIÓN DE AYSÉN 2026 JUEGOS BINACIONALES DE LA ARAUCANÍA y PARA ARAUCANÍA",
+   "organismo": "INSTITUTO NACIONAL DE DEPORTES DE CHILE",
+   "unidad": "I.N.D. REGION XI",
+   "monto": 150000,
+   "cierre_iso": "2026-10-13T10:00:00-03:00",
+   "publicacion": "09-10 09:42",
+   "publicacion_iso": "2026-10-09T09:42:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "82101507",
+     "Folletos y catálogos publicitarios, servicios de publicidad y distribución",
+     206,
+     "Ipresión credenciales, según TDR adjunta"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1201-174-COT26",
+   "sin_detalle": false,
+   "descripcion": "Contar con credenciales para cada integrante de las distintas delegaciones de la región\nde Aysén, representantes en los Juegos Binacionales de la Araucanía y Para Araucanía,\na realizarse en la región de Los Ríos."
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "difusion"
+   ],
+   "nueva": true,
+   "codigo": "4609-277-COT26",
+   "nombre": "MATERIALES DE DIFUSION ",
+   "organismo": "I MUNICIPALIDAD DE CHILE CHICO",
+   "unidad": "Finanzas",
+   "monto": 288000,
+   "cierre_iso": "2026-10-14T10:00:00-03:00",
+   "publicacion": "09-10 09:38",
+   "publicacion_iso": "2026-10-09T09:38:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "55101505",
+     "Publicaciones",
+     1,
+     "MATERIAL DE DIFUSION DE SENDA (Detalle en TDR adjunto)."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=4609-277-COT26",
+   "sin_detalle": false,
+   "descripcion": "COTIZACION MATERIALES DE DIFUSION"
+  },
+  {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Ventas y marketing"
+   ],
+   "nueva": true,
    "codigo": "4733-395-COT26",
    "nombre": "CONCIERTO DE NAVIDAD",
    "organismo": "I MUNICIPALIDAD DE LAS GUAITECAS",
@@ -471,5 +559,12 @@
    "descripcion": "Se requiere contratar el servicio de producción artística para concierto de navidad según especificaciones técnicas adjuntas, adjuntar cotización.-"
   }
  ],
- "pendientes": []
+ "pendientes": [
+  {
+   "codigo": "3791-1016-COT26",
+   "nombre": "MATERIALES DIDACTICOS ",
+   "organismo": "I MUNICIPALIDAD DE CISNES",
+   "link": "https://buscador.mercadopublico.cl/ficha?code=3791-1016-COT26"
+  }
+ ]
 }
