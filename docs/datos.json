@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-10-09T12:41:41.440519-03:00",
+ "actualizado": "2026-10-09T13:40:59.882642-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
- "total_region": 237,
+ "total_region": 234,
  "rubros": {
   "80141600": "Ventas y marketing",
   "82101600": "Publicidad en medios no impresos",
@@ -19,7 +19,7 @@
    "motivos": [
     "fotografía"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "3791-1013-COT26",
    "nombre": "Servicio de Traslado de Residuos desde Gaviota ",
    "organismo": "I MUNICIPALIDAD DE CISNES",
