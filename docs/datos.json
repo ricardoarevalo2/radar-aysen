@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-10-09T15:43:42.444016-03:00",
+ "actualizado": "2026-10-09T16:39:31.117751-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
- "total_region": 236,
+ "total_region": 240,
  "rubros": {
   "80141600": "Ventas y marketing",
   "82101600": "Publicidad en medios no impresos",
@@ -118,7 +118,7 @@
    "motivos": [
     "spot"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "4778-304-COT26",
    "nombre": "ADQUISICION DE INSUMOS CLINICOS PARA MONITOREO DE PACIENTES",
    "organismo": "SERVICIO NACIONAL DE SALUD HOSPITAL DE C",
@@ -287,6 +287,33 @@
     ]
    ],
    "link": "https://buscador.mercadopublico.cl/ficha?code=3950-649-COT26",
+   "sin_detalle": false,
+   "descripcion": "Con despacho incluido"
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "publicitarios"
+   ],
+   "nueva": true,
+   "codigo": "3950-651-COT26",
+   "nombre": "Señaléticas de información para abastecer en postas rurales",
+   "organismo": "DIRECCION SALUD RURAL",
+   "unidad": "Dirección de Salud Rural",
+   "monto": 300000,
+   "cierre_iso": "2026-10-13T09:00:00-03:00",
+   "publicacion": "09-10 16:06",
+   "publicacion_iso": "2026-10-09T16:06:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "82101501",
+     "Letreros publicitarios",
+     1,
+     "Servicio de impresión de letreros laminado en trovisel, fondo blanco con letras negras mayúsculas (14x6,8 cm)\nformato horizontal, de exterior.\n3 sala de reas\n2 sala de generador\n3 sala de caldera\n1 bodega de leña\n1 bodega de combustible\n1 entrada\n1 baño solo funcionarios\n2 box multipropósito"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=3950-651-COT26",
    "sin_detalle": false,
    "descripcion": "Con despacho incluido"
   },

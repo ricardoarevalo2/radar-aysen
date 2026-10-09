@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-10-09T15:43:42.444016-03:00",
+ "actualizado": "2026-10-09T16:39:31.117751-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
- "total_region": 236,
+ "total_region": 240,
  "rubros": {
   "25172700": "Aire acondicionado",
   "25173900": "Componentes eléctricos",
@@ -132,6 +132,33 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=1274667-388-COT26",
    "sin_detalle": false,
    "descripcion": "ADJUNTAR COTIZACION - ADJUNTAR FICHA TECNICA PARA PODER EVALUAR CORRECTAMENTE LA OFERTA - DATOS BANCARIOS - CONTACTO PARA RESOLVER DUDAS - EN CASO DE ADJUDICACION FAVOR EMITIR DESPACHO CON GUIA - MARCAS MENCIONADAS SON SOLAMENTE REFERENCIALES. DETALLES EN DOCUMENTO ADJUNTO."
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "generador"
+   ],
+   "nueva": true,
+   "codigo": "3950-651-COT26",
+   "nombre": "Señaléticas de información para abastecer en postas rurales",
+   "organismo": "DIRECCION SALUD RURAL",
+   "unidad": "Dirección de Salud Rural",
+   "monto": 300000,
+   "cierre_iso": "2026-10-13T09:00:00-03:00",
+   "publicacion": "09-10 16:06",
+   "publicacion_iso": "2026-10-09T16:06:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "82101501",
+     "Letreros publicitarios",
+     1,
+     "Servicio de impresión de letreros laminado en trovisel, fondo blanco con letras negras mayúsculas (14x6,8 cm)\nformato horizontal, de exterior.\n3 sala de reas\n2 sala de generador\n3 sala de caldera\n1 bodega de leña\n1 bodega de combustible\n1 entrada\n1 baño solo funcionarios\n2 box multipropósito"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=3950-651-COT26",
+   "sin_detalle": false,
+   "descripcion": "Con despacho incluido"
   },
   {
    "tipo": "POSIBLE",
