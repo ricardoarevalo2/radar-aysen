@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-10-09T10:42:11.610460-03:00",
+ "actualizado": "2026-10-09T11:43:52.969706-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
- "total_region": 243,
+ "total_region": 245,
  "rubros": {
   "80141600": "Ventas y marketing",
   "82101600": "Publicidad en medios no impresos",
@@ -14,57 +14,6 @@
   "83121700": "Comunicación social y de masas"
  },
  "filas": [
-  {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Ventas y marketing"
-   ],
-   "nueva": true,
-   "codigo": "2713-1226-COT26",
-   "nombre": "Servicio de producción de actividad \"Clínica de Música\" - DIDECO - Cultura - 1269",
-   "organismo": "I MUNICIPALIDAD DE AYSEN",
-   "unidad": "I.MUNICIPALIDAD AYSEN-ADQUISICIONES",
-   "monto": 2500000,
-   "cierre_iso": "2026-10-09T12:00:00-03:00",
-   "publicacion": "08-10 11:02",
-   "publicacion_iso": "2026-10-08T11:02:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "80141607",
-     "Producción de eventos",
-     1,
-     "Planificación, preparación y ejecución del módulo teórico – practico: Módulo N°1 – Instancia teórica"
-    ],
-    [
-     "80141607",
-     "Producción de eventos",
-     1,
-     "Planificación, preparación y ejecución del módulo teórico – practico: Módulo N°2 – Clínica de ejecución musical"
-    ],
-    [
-     "80141607",
-     "Producción de eventos",
-     1,
-     "Planificación, preparación y ejecución del módulo teórico – practico: Módulo N°3 – Laboratorio escénico"
-    ],
-    [
-     "80141607",
-     "Producción de eventos",
-     1,
-     "Planificación, preparación y ejecución del módulo teórico – practico: Módulo N°4 – Ensayo general"
-    ],
-    [
-     "80141607",
-     "Producción de eventos",
-     1,
-     "Planificación, preparación y ejecución del módulo teórico – practico: Módulo N°5 – Asesoría de identidad artística"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=2713-1226-COT26",
-   "sin_detalle": false,
-   "descripcion": "Servicio de producción de actividad, según detalle del anexo adjunto, las ofertas deberán: incluir la totalidad de los productos y servicios solicitados, ajustarse al presupuesto disponible , el oferente asumirá COSTO DE TRANSPORTE (no desglosarlo como ítem aparte), debe prestar el servicio los días 13 y 14 de octubre de 2026, previa coordinación con el encargado, según las bases técnicas. Ofertas que no cumplan con lo anterior serán rechazadas."
-  },
   {
    "tipo": "POSIBLE",
    "motivos": [
@@ -118,6 +67,57 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=3791-1013-COT26",
    "sin_detalle": false,
    "descripcion": "Se requiere contratar el servicio de traslado de residuos reciclables, correspondientes a vidrio, latas de aluminio y plásticos, desde la localidad de Puerto Gaviota hasta el Punto Limpio de Puerto Cisnes, con el objetivo de asegurar su correcta recolección, transporte y posterior valorización, promoviendo la gestión adecuada de los residuos\nreciclables en la localidad."
+  },
+  {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Ventas y marketing"
+   ],
+   "nueva": false,
+   "codigo": "2713-1226-COT26",
+   "nombre": "Servicio de producción de actividad \"Clínica de Música\" - DIDECO - Cultura - 1269",
+   "organismo": "I MUNICIPALIDAD DE AYSEN",
+   "unidad": "I.MUNICIPALIDAD AYSEN-ADQUISICIONES",
+   "monto": 2500000,
+   "cierre_iso": "2026-10-09T15:00:00-03:00",
+   "publicacion": "08-10 11:02",
+   "publicacion_iso": "2026-10-08T11:02:00-03:00",
+   "ofertas": 1,
+   "productos": [
+    [
+     "80141607",
+     "Producción de eventos",
+     1,
+     "Planificación, preparación y ejecución del módulo teórico – practico: Módulo N°1 – Instancia teórica"
+    ],
+    [
+     "80141607",
+     "Producción de eventos",
+     1,
+     "Planificación, preparación y ejecución del módulo teórico – practico: Módulo N°2 – Clínica de ejecución musical"
+    ],
+    [
+     "80141607",
+     "Producción de eventos",
+     1,
+     "Planificación, preparación y ejecución del módulo teórico – practico: Módulo N°3 – Laboratorio escénico"
+    ],
+    [
+     "80141607",
+     "Producción de eventos",
+     1,
+     "Planificación, preparación y ejecución del módulo teórico – practico: Módulo N°4 – Ensayo general"
+    ],
+    [
+     "80141607",
+     "Producción de eventos",
+     1,
+     "Planificación, preparación y ejecución del módulo teórico – practico: Módulo N°5 – Asesoría de identidad artística"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=2713-1226-COT26",
+   "sin_detalle": false,
+   "descripcion": "Servicio de producción de actividad, según detalle del anexo adjunto, las ofertas deberán: incluir la totalidad de los productos y servicios solicitados, ajustarse al presupuesto disponible , el oferente asumirá COSTO DE TRANSPORTE (no desglosarlo como ítem aparte), debe prestar el servicio los días 13 y 14 de octubre de 2026, previa coordinación con el encargado, según las bases técnicas. Ofertas que no cumplan con lo anterior serán rechazadas."
   },
   {
    "tipo": "POSIBLE",
@@ -423,6 +423,33 @@
    "descripcion": "Con despacho incluido"
   },
   {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Ventas y marketing"
+   ],
+   "nueva": true,
+   "codigo": "1332-38-COT26",
+   "nombre": "SERVICIO DE PRODUCCIÓN DE SEMINARIO DE TURISMO AYSENTIDO EN TU RELATO",
+   "organismo": "Servicio Nacional de Turismo",
+   "unidad": "Direccion Regional de Aysen",
+   "monto": 3200000,
+   "cierre_iso": "2026-10-13T09:00:00-03:00",
+   "publicacion": "09-10 11:37",
+   "publicacion_iso": "2026-10-09T11:37:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "80141607",
+     "Producción de eventos",
+     1,
+     "Se requiere la contratación del “SERVICIO DE PRODUCCIÓN DE SEMINARIO DE TURISMO AYSENTIDO EN TU RELATO\", orientado a facilitar un espacio de capacitación y transferencia de conocimiento del patrimonio natural y cultural de Aysén, dirigido a guías, prestadores de servicios turísticos y comunidad en general, con el objetivo de fortalecer el relato turístico en el destino Aysén Patagonia. De acuerdo a detalle adjunto."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1332-38-COT26",
+   "sin_detalle": false,
+   "descripcion": "Se requiere la contratación del “SERVICIO DE PRODUCCIÓN DE SEMINARIO DE TURISMO AYSENTIDO EN TU RELATO\", orientado a facilitar un espacio de capacitación y transferencia de conocimiento del patrimonio natural y cultural de Aysén, dirigido a guías, prestadores de servicios turísticos y comunidad en general, con el objetivo de fortalecer el relato turístico en el destino Aysén Patagonia."
+  },
+  {
    "tipo": "POSIBLE",
    "motivos": [
     "publicidad",
@@ -482,7 +509,7 @@
    "motivos": [
     "Ventas y marketing"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "4733-395-COT26",
    "nombre": "CONCIERTO DE NAVIDAD",
    "organismo": "I MUNICIPALIDAD DE LAS GUAITECAS",
@@ -506,12 +533,6 @@
   }
  ],
  "pendientes": [
-  {
-   "codigo": "3791-1018-COT26",
-   "nombre": "MAT. DIDACTICO Y EDUCATIVO ",
-   "organismo": "I MUNICIPALIDAD DE CISNES",
-   "link": "https://buscador.mercadopublico.cl/ficha?code=3791-1018-COT26"
-  },
   {
    "codigo": "3791-1016-COT26",
    "nombre": "MATERIALES DIDACTICOS ",

@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-10-09T10:42:11.610460-03:00",
+ "actualizado": "2026-10-09T11:43:52.969706-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
- "total_region": 243,
+ "total_region": 245,
  "rubros": {
   "25172700": "Aire acondicionado",
   "25173900": "Componentes eléctricos",
@@ -24,7 +24,7 @@
    "motivos": [
     "generador"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "657-90-COT26",
    "nombre": "INSUMOS E INSTALACION  PARA GRUPO ELECTROGENO DE ENERGIA",
    "organismo": "SERVICIO DE VIVIENDA Y URBANIZACION XI REGION",
@@ -219,6 +219,33 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=1274667-388-COT26",
    "sin_detalle": false,
    "descripcion": "ADJUNTAR COTIZACION - ADJUNTAR FICHA TECNICA PARA PODER EVALUAR CORRECTAMENTE LA OFERTA - DATOS BANCARIOS - CONTACTO PARA RESOLVER DUDAS - EN CASO DE ADJUDICACION FAVOR EMITIR DESPACHO CON GUIA - MARCAS MENCIONADAS SON SOLAMENTE REFERENCIALES. DETALLES EN DOCUMENTO ADJUNTO."
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "eléctrico"
+   ],
+   "nueva": true,
+   "codigo": "1403-437-COT26",
+   "nombre": "ADQUISICIÓN BAÑO MARÍA PARA SERV. ALIM. CCP COYHAIQUE",
+   "organismo": "Dirección Regional de Gendarmeria - Coyhaique",
+   "unidad": "Región de Aysén",
+   "monto": 1200000,
+   "cierre_iso": "2026-10-13T10:00:00-03:00",
+   "publicacion": "09-10 11:28",
+   "publicacion_iso": "2026-10-09T11:28:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "52141504",
+     "Cocinas domésticas",
+     1,
+     "BAÑO MARÍA ELÉCTRICO TRIFÁSICO, 4 DEPÓSITOS.\nSEGÚN FICHA TÉCNICA ADJUNTA (REFERENCIA)"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1403-437-COT26",
+   "sin_detalle": false,
+   "descripcion": "E1O2RT9\nSE REQUIERE ADQUIRIR BAÑO MARÍA DE ACUERDO A FICHA TÉCNICA ADJUNTA. ENTREGAR EN CALLE INDEPENDENCIA 12 COYHAIQUE, SIN RECARGO POR DESPACHO."
   },
   {
    "tipo": "OPORTUNIDAD",
@@ -586,12 +613,6 @@
   }
  ],
  "pendientes": [
-  {
-   "codigo": "3791-1018-COT26",
-   "nombre": "MAT. DIDACTICO Y EDUCATIVO ",
-   "organismo": "I MUNICIPALIDAD DE CISNES",
-   "link": "https://buscador.mercadopublico.cl/ficha?code=3791-1018-COT26"
-  },
   {
    "codigo": "3791-1016-COT26",
    "nombre": "MATERIALES DIDACTICOS ",
