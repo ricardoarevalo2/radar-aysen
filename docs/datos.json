@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-10-09T17:40:59.552861-03:00",
+ "actualizado": "2026-10-09T18:39:53.257898-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
- "total_region": 235,
+ "total_region": 229,
  "rubros": {
   "80141600": "Ventas y marketing",
   "82101600": "Publicidad en medios no impresos",
@@ -14,105 +14,6 @@
   "83121700": "Comunicación social y de masas"
  },
  "filas": [
-  {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Ventas y marketing"
-   ],
-   "nueva": true,
-   "codigo": "2713-1229-COT26",
-   "nombre": "SERVICIO DE PRODUCCION. FOLIO 1275.DIDECO",
-   "organismo": "I MUNICIPALIDAD DE AYSEN",
-   "unidad": "I.MUNICIPALIDAD AYSEN-ADQUISICIONES",
-   "monto": 6990000,
-   "cierre_iso": "2026-10-09T17:59:00-03:00",
-   "publicacion": "08-10 17:33",
-   "publicacion_iso": "2026-10-08T17:33:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "80141607",
-     "Producción de eventos",
-     36,
-     "Luces Carpas. Segun Bases Tecnicas."
-    ],
-    [
-     "80141607",
-     "Producción de eventos",
-     1,
-     "Piso Carpa . Segun Bases Tecnicas."
-    ],
-    [
-     "80141607",
-     "Producción de eventos",
-     150,
-     "Servicio Mobiliario, (Montaje y desmontaje).Segun Bases Tecnicas."
-    ],
-    [
-     "80141607",
-     "Producción de eventos",
-     1,
-     "Ornamentación. Segun Bases Tecnicas."
-    ],
-    [
-     "80141607",
-     "Producción de eventos",
-     1,
-     "Servicio de Operación, Mantención y Aseo Completo del recinto (Incluye contenedores de basura). Segun Bases Tecnicas."
-    ],
-    [
-     "80141607",
-     "Producción de eventos",
-     1,
-     "Espacio Café Carpa Seminario. Segun Bases Tecnicas."
-    ],
-    [
-     "80141607",
-     "Producción de eventos",
-     1,
-     "Espacio Café Expositores. Segun Bases Tecnicas."
-    ],
-    [
-     "80141607",
-     "Producción de eventos",
-     2,
-     "Calefacción.  Segun Bases Tecnicas."
-    ],
-    [
-     "80141607",
-     "Producción de eventos",
-     40,
-     "Servicio de electrificación. Segun Bases Tecnicas."
-    ],
-    [
-     "80141607",
-     "Producción de eventos",
-     1,
-     "Taller: Turismo Sostenible, Ecoturismo y Conservación.Segun Bases Tecnicas."
-    ],
-    [
-     "80141607",
-     "Producción de eventos",
-     1,
-     "Grupo Musical . Segun Bases Tecnicas."
-    ],
-    [
-     "80141607",
-     "Producción de eventos",
-     1,
-     "Grupo Folclórico . Segun Bases Tecnicas."
-    ],
-    [
-     "80141607",
-     "Producción de eventos",
-     1,
-     "Backstage . Segun Bases Tecnicas."
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=2713-1229-COT26",
-   "sin_detalle": false,
-   "descripcion": "COTIZACIÓN DE : SERVICIO DE PRODUCCION. LOS COSTOS DE TRASLADOS A PUERTO AYSÉN SERÁN DEL OFERENTE. EL PLAZO DE ENTREGA ES EL DIA 17-10-26. OFERENTE DEBE INCLUIR FLETES EN EL PRECIO DEL PRODUCTO."
-  },
   {
    "tipo": "POSIBLE",
    "motivos": [
@@ -229,6 +130,105 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=4778-304-COT26",
    "sin_detalle": false,
    "descripcion": "ADQUISICION DE INSUMOS CLINICOS PARA MONITOREO DE PACIENTES, SENSORES SPO2, CABLES ECG, BRAZALETES DE PRESION ARTERIAL Y ADAPTADORES DE CONEXION, SEGUN SOLICITUD EXTRAORDINARIA N° 3726/2026 DE LA UNIDAD DE EQUIPOS MEDICOS."
+  },
+  {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Ventas y marketing"
+   ],
+   "nueva": false,
+   "codigo": "2713-1229-COT26",
+   "nombre": "SERVICIO DE PRODUCCION. FOLIO 1275.DIDECO",
+   "organismo": "I MUNICIPALIDAD DE AYSEN",
+   "unidad": "I.MUNICIPALIDAD AYSEN-ADQUISICIONES",
+   "monto": 6990000,
+   "cierre_iso": "2026-10-10T18:24:00-03:00",
+   "publicacion": "08-10 17:33",
+   "publicacion_iso": "2026-10-08T17:33:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "80141607",
+     "Producción de eventos",
+     36,
+     "Luces Carpas. Segun Bases Tecnicas."
+    ],
+    [
+     "80141607",
+     "Producción de eventos",
+     1,
+     "Piso Carpa . Segun Bases Tecnicas."
+    ],
+    [
+     "80141607",
+     "Producción de eventos",
+     150,
+     "Servicio Mobiliario, (Montaje y desmontaje).Segun Bases Tecnicas."
+    ],
+    [
+     "80141607",
+     "Producción de eventos",
+     1,
+     "Ornamentación. Segun Bases Tecnicas."
+    ],
+    [
+     "80141607",
+     "Producción de eventos",
+     1,
+     "Servicio de Operación, Mantención y Aseo Completo del recinto (Incluye contenedores de basura). Segun Bases Tecnicas."
+    ],
+    [
+     "80141607",
+     "Producción de eventos",
+     1,
+     "Espacio Café Carpa Seminario. Segun Bases Tecnicas."
+    ],
+    [
+     "80141607",
+     "Producción de eventos",
+     1,
+     "Espacio Café Expositores. Segun Bases Tecnicas."
+    ],
+    [
+     "80141607",
+     "Producción de eventos",
+     2,
+     "Calefacción.  Segun Bases Tecnicas."
+    ],
+    [
+     "80141607",
+     "Producción de eventos",
+     40,
+     "Servicio de electrificación. Segun Bases Tecnicas."
+    ],
+    [
+     "80141607",
+     "Producción de eventos",
+     1,
+     "Taller: Turismo Sostenible, Ecoturismo y Conservación.Segun Bases Tecnicas."
+    ],
+    [
+     "80141607",
+     "Producción de eventos",
+     1,
+     "Grupo Musical . Segun Bases Tecnicas."
+    ],
+    [
+     "80141607",
+     "Producción de eventos",
+     1,
+     "Grupo Folclórico . Segun Bases Tecnicas."
+    ],
+    [
+     "80141607",
+     "Producción de eventos",
+     1,
+     "Backstage . Segun Bases Tecnicas."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=2713-1229-COT26",
+   "sin_detalle": false,
+   "descripcion": "COTIZACIÓN DE : SERVICIO DE PRODUCCION. LOS COSTOS DE TRASLADOS A PUERTO AYSÉN SERÁN DEL OFERENTE. EL PLAZO DE ENTREGA ES EL DIA 17-10-26. OFERENTE DEBE INCLUIR FLETES EN EL PRECIO DEL PRODUCTO."
   },
   {
    "tipo": "OPORTUNIDAD",
@@ -512,12 +512,5 @@
    "descripcion": "Diseño y ejecución del Encuentro Arte, Cultura y Patrimonio el 4 de diciembre de 2026 en el Centro Cultural de Coyhaique (jornada de 4 horas), proyecto FNDR código 3465. Incluye coordinación general, montaje y ambientación de la exhibición de trabajos de los talleres, maestra/o de ceremonia, taller de oficios textiles patrimoniales para hasta 80 personas con materiales, amplificación y registro audiovisual. Detalle en especificaciones adjuntas."
   }
  ],
- "pendientes": [
-  {
-   "codigo": "3791-1016-COT26",
-   "nombre": "MATERIALES DIDACTICOS ",
-   "organismo": "I MUNICIPALIDAD DE CISNES",
-   "link": "https://buscador.mercadopublico.cl/ficha?code=3791-1016-COT26"
-  }
- ]
+ "pendientes": []
 }

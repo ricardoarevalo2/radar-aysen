@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-10-09T17:40:59.552861-03:00",
+ "actualizado": "2026-10-09T18:39:53.257898-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
- "total_region": 235,
+ "total_region": 229,
  "rubros": {
   "25172700": "Aire acondicionado",
   "25173900": "Componentes eléctricos",
@@ -579,12 +579,5 @@
    "descripcion": "PROCESO DE ADQUISICIÓN PARA EL SERVICIO DE LEVANTAMIENTO ELECTRICO, RETIRO E INSTALACIÓN DE EQUIUPOS DE CLIMATIZACIÓN PARA OFICINAS DE LA SEREMITT DE AYSÉN\n\nLA VISITA ENTERRENO SERÁ EL DÍA 9 DE OCTUBRE A LAS 10:00 HORAS\nVER  REQUERIMIENTO TÉCNICO"
   }
  ],
- "pendientes": [
-  {
-   "codigo": "3791-1016-COT26",
-   "nombre": "MATERIALES DIDACTICOS ",
-   "organismo": "I MUNICIPALIDAD DE CISNES",
-   "link": "https://buscador.mercadopublico.cl/ficha?code=3791-1016-COT26"
-  }
- ]
+ "pendientes": []
 }
