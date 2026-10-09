@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-10-09T14:39:30.848289-03:00",
+ "actualizado": "2026-10-09T15:43:42.444016-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
- "total_region": 230,
+ "total_region": 236,
  "rubros": {
   "25172700": "Aire acondicionado",
   "25173900": "Componentes eléctricos",
@@ -19,66 +19,6 @@
   "39121400": "Conectores, enchufes y terminales"
  },
  "filas": [
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "instalaciones eléctricas"
-   ],
-   "nueva": false,
-   "codigo": "5039-37-COT26",
-   "nombre": "CONSTRUCCIÓN MONOLITO DE IDENTIFICACIÓN HUMEDAL URBANO VIENTOS DEL CHELENKO, PUERTO INGENIERO IBÁÑEZ",
-   "organismo": "I MUNICIPALIDAD RIO IBANEZ",
-   "unidad": "SECPLAN",
-   "monto": 1500000,
-   "cierre_iso": "2026-10-09T15:00:00-03:00",
-   "publicacion": "05-10 15:20",
-   "publicacion_iso": "2026-10-05T15:20:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "72131702",
-     "Construcción de obras civiles",
-     1,
-     "Ejecución de las obras civiles, de carpintería, estructuras metálicas e instalaciones eléctricas necesarias para la construcción e instalación del Monolito Informativo del Humedal Urbano Vientos del Chelenko, ubicado en la costanera de Puerto Ingeniero Ibáñez, considerando su instalación sobre una base de hormigón preexistente, la cual será reutilizada para estos efectos."
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=5039-37-COT26",
-   "sin_detalle": false,
-   "descripcion": "Contratar, bajo la modalidad de Suma Alzada, la ejecución de las obras civiles, de carpintería, estructuras metálicas e instalaciones eléctricas necesarias para la construcción e instalación del Monolito Informativo del Humedal Urbano Vientos del Chelenko, ubicado en la costanera de Puerto Ingeniero Ibáñez, considerando su instalación sobre una base de hormigón preexistente, la cual será reutilizada para estos efectos."
-  },
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "iluminación"
-   ],
-   "nueva": true,
-   "codigo": "3949-247-COT26",
-   "nombre": "MOCHILA O MALETIN TECNICO Y LINTERNAS FRONTAL (DENTAL)",
-   "organismo": "CONSULTORIO GENERAL URBANO DR ALEJANDRO GUTIERREZ",
-   "unidad": "ID 3949 - CESFAM Dr Alejandro Gutiérrez",
-   "monto": 1000000,
-   "cierre_iso": "2026-10-09T15:30:00-03:00",
-   "publicacion": "08-10 15:12",
-   "publicacion_iso": "2026-10-08T15:12:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "53121501",
-     "Bolsos",
-     2,
-     "Maletín técnico para visitas domiciliarias de asistencia sanitaria, fabricado en poliéster 420D o tejido técnico de alta resistencia, impermeable, lavable y de estructura semi-rígida.Debe contar con un volumen útil de 18 a 20 litros, dimensiones aproximadas de 40 x 30 x 16 cm y un peso liviano (no mayor a 1,9 kg).Su distribución interna debe incluir compartimentos modulares con frontal transparente para rápida identificación de insumos, bolsillos de red de gran capacidad con banda (ver adjunto)"
-    ],
-    [
-     "39111702",
-     "Lámparas portátiles",
-     4,
-     "Linterna frontal, con tecnología de iluminación LED de alta eficiencia que provea un flujo luminoso de entre 350 y 450 lúmenes y una luz blanca neutra para la correcta apreciación de tejidos y mucosas.El equipo debe ser liviano (peso inferior a 160 g), de diseño ergonómico y contar con una cinta elástica de cabeza ajustable, desmontable y lavable que garantice el trabajo manos libres.Debe funcionar mediante pilas desechables de fácil adquisición(AAA o AA),garantizando disponibilidad(ver adjunto)"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=3949-247-COT26",
-   "sin_detalle": false,
-   "descripcion": "SE REQUIERE ADQUIRIR MALETIN TECNICO Y LINTERNA FRONTAL PARA VISITAS DOMICILIARIAS (VER DOCUMENTOS ADJUNTOS COMO REFERENCIAS). SE PRIORIZARA PROVEEDOR REGIONAL.ENVIO Y DESPACHO INCLUIDO. ENVIAR COTIZACION CON IMAGEN DEL PRODUCTO OFERTADO Y SUS ESPECIFICACIONES TECNICAS."
-  },
   {
    "tipo": "POSIBLE",
    "motivos": [
@@ -473,6 +413,33 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=3540-255-COT26",
    "sin_detalle": false,
    "descripcion": "Indicar plazo de entrega y datos de contacto. Se privilegiará proveedor de la región o que cuente con sucursal en Coyhaique y luego precio. Este proceso no considera ítem flete ni cargos adicionales, los costos deben estar incluidos en los valores unitarios.\n(LEER TÉRMINOS DE REFERENCIA ADJUNTO)."
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "instalaciones eléctricas"
+   ],
+   "nueva": false,
+   "codigo": "5039-37-COT26",
+   "nombre": "CONSTRUCCIÓN MONOLITO DE IDENTIFICACIÓN HUMEDAL URBANO VIENTOS DEL CHELENKO, PUERTO INGENIERO IBÁÑEZ",
+   "organismo": "I MUNICIPALIDAD RIO IBANEZ",
+   "unidad": "SECPLAN",
+   "monto": 1500000,
+   "cierre_iso": "2026-10-13T14:39:00-03:00",
+   "publicacion": "05-10 15:20",
+   "publicacion_iso": "2026-10-05T15:20:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "72131702",
+     "Construcción de obras civiles",
+     1,
+     "Ejecución de las obras civiles, de carpintería, estructuras metálicas e instalaciones eléctricas necesarias para la construcción e instalación del Monolito Informativo del Humedal Urbano Vientos del Chelenko, ubicado en la costanera de Puerto Ingeniero Ibáñez, considerando su instalación sobre una base de hormigón preexistente, la cual será reutilizada para estos efectos."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=5039-37-COT26",
+   "sin_detalle": false,
+   "descripcion": "Contratar, bajo la modalidad de Suma Alzada, la ejecución de las obras civiles, de carpintería, estructuras metálicas e instalaciones eléctricas necesarias para la construcción e instalación del Monolito Informativo del Humedal Urbano Vientos del Chelenko, ubicado en la costanera de Puerto Ingeniero Ibáñez, considerando su instalación sobre una base de hormigón preexistente, la cual será reutilizada para estos efectos."
   },
   {
    "tipo": "OPORTUNIDAD",

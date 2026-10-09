@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-10-09T14:39:30.848289-03:00",
+ "actualizado": "2026-10-09T15:43:42.444016-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
- "total_region": 230,
+ "total_region": 236,
  "rubros": {
   "80141600": "Ventas y marketing",
   "82101600": "Publicidad en medios no impresos",
@@ -14,111 +14,6 @@
   "83121700": "Comunicación social y de masas"
  },
  "filas": [
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "fotografía"
-   ],
-   "nueva": false,
-   "codigo": "3791-1013-COT26",
-   "nombre": "Servicio de Traslado de Residuos desde Gaviota ",
-   "organismo": "I MUNICIPALIDAD DE CISNES",
-   "unidad": "Finanzas",
-   "monto": 2380000,
-   "cierre_iso": "2026-10-09T15:00:00-03:00",
-   "publicacion": "08-10 11:45",
-   "publicacion_iso": "2026-10-08T11:45:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "78101903",
-     "Transporte carretera-marítimo",
-     1,
-     "traslado de residuos reciclables desde Puerto Gaviota a Puerto Cisnes.\n Los residuos reciclables deberán encontrarse separados y contenidos en sus respectivos sacos, de acuerdo con el tipo de\nmaterial reciclable. -Todos los sacos deberán estar debidamente etiquetados, indicando claramente el tipo de residuo que contienen. -El proveedor deberá registrar mediante fotografías la cantidad de residuos recolectados, el\nproceso de carga y traslado y una fotografía general de la actividad."
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=3791-1013-COT26",
-   "sin_detalle": false,
-   "descripcion": "Se requiere contratar el servicio de traslado de residuos reciclables, correspondientes a vidrio, latas de aluminio y plásticos, desde la localidad de Puerto Gaviota hasta el Punto Limpio de Puerto Cisnes, con el objetivo de asegurar su correcta recolección, transporte y posterior valorización, promoviendo la gestión adecuada de los residuos\nreciclables en la localidad."
-  },
-  {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Ventas y marketing"
-   ],
-   "nueva": false,
-   "codigo": "2713-1226-COT26",
-   "nombre": "Servicio de producción de actividad \"Clínica de Música\" - DIDECO - Cultura - 1269",
-   "organismo": "I MUNICIPALIDAD DE AYSEN",
-   "unidad": "I.MUNICIPALIDAD AYSEN-ADQUISICIONES",
-   "monto": 2500000,
-   "cierre_iso": "2026-10-09T15:00:00-03:00",
-   "publicacion": "08-10 11:02",
-   "publicacion_iso": "2026-10-08T11:02:00-03:00",
-   "ofertas": 1,
-   "productos": [
-    [
-     "80141607",
-     "Producción de eventos",
-     1,
-     "Planificación, preparación y ejecución del módulo teórico – practico: Módulo N°1 – Instancia teórica"
-    ],
-    [
-     "80141607",
-     "Producción de eventos",
-     1,
-     "Planificación, preparación y ejecución del módulo teórico – practico: Módulo N°2 – Clínica de ejecución musical"
-    ],
-    [
-     "80141607",
-     "Producción de eventos",
-     1,
-     "Planificación, preparación y ejecución del módulo teórico – practico: Módulo N°3 – Laboratorio escénico"
-    ],
-    [
-     "80141607",
-     "Producción de eventos",
-     1,
-     "Planificación, preparación y ejecución del módulo teórico – practico: Módulo N°4 – Ensayo general"
-    ],
-    [
-     "80141607",
-     "Producción de eventos",
-     1,
-     "Planificación, preparación y ejecución del módulo teórico – practico: Módulo N°5 – Asesoría de identidad artística"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=2713-1226-COT26",
-   "sin_detalle": false,
-   "descripcion": "Servicio de producción de actividad, según detalle del anexo adjunto, las ofertas deberán: incluir la totalidad de los productos y servicios solicitados, ajustarse al presupuesto disponible , el oferente asumirá COSTO DE TRANSPORTE (no desglosarlo como ítem aparte), debe prestar el servicio los días 13 y 14 de octubre de 2026, previa coordinación con el encargado, según las bases técnicas. Ofertas que no cumplan con lo anterior serán rechazadas."
-  },
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "publicitarios"
-   ],
-   "nueva": false,
-   "codigo": "1233615-770-COT26",
-   "nombre": "NDF/SOL 255/HPV2/Pendón tamaño 100 x 200 cms ",
-   "organismo": "Servicio Local de Educación Pública Aysén",
-   "unidad": "Servicio Local de Educación Pública Aysén",
-   "monto": 80000,
-   "cierre_iso": "2026-10-09T15:00:00-03:00",
-   "publicacion": "06-10 10:37",
-   "publicacion_iso": "2026-10-06T10:37:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "82101501",
-     "Letreros publicitarios",
-     1,
-     "Pendón tamaño 100 x 200 cms \nSe entregará diseño definitivo al proveedor adjudicado"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1233615-770-COT26",
-   "sin_detalle": false,
-   "descripcion": "El Servicio Local de Educación Publica de Aysen requeire adquirir Pendón tamaño 100 x 200 cms para difusición, los oferentes interesados deberan leer formulario adjunto y presentarlo en su propuesta. El diseño definitivo sera entrego al proveedor adjudicado."
-  },
   {
    "tipo": "OPORTUNIDAD",
    "motivos": [
