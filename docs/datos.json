@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-10-09T09:46:22.286250-03:00",
+ "actualizado": "2026-10-09T10:42:11.610460-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
- "total_region": 242,
+ "total_region": 243,
  "rubros": {
   "80141600": "Ventas y marketing",
   "82101600": "Publicidad en medios no impresos",
@@ -14,60 +14,6 @@
   "83121700": "Comunicación social y de masas"
  },
  "filas": [
-  {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Ventas y marketing"
-   ],
-   "nueva": false,
-   "codigo": "4609-273-COT26",
-   "nombre": "SERVICIO PRODUCCION Y DESARROLLO DE EVENTO",
-   "organismo": "I MUNICIPALIDAD DE CHILE CHICO",
-   "unidad": "Finanzas",
-   "monto": 7170000,
-   "cierre_iso": "2026-10-09T10:00:00-03:00",
-   "publicacion": "06-10 10:39",
-   "publicacion_iso": "2026-10-06T10:39:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "80141607",
-     "Producción de eventos",
-     1,
-     "SERVICIO DE PRODUCCION TECNICA Y ARTISTICA - LANZAMIENTO DE TEMPORADA TURISTICA CHILE CHICO 2026 - 2027. (Detalle en TDR adjunto)."
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=4609-273-COT26",
-   "sin_detalle": false,
-   "descripcion": "COTIZACION SERVICIO PRODUCCION Y DESARROLLO DE EVENTO, \"LANZAMIENTO DE TEMPORADA TURISTICA CHILE CHICO 2026-2027\""
-  },
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "fotografía"
-   ],
-   "nueva": false,
-   "codigo": "1201-168-COT26",
-   "nombre": "SERVICIO DE COLACIONES ENCUENTRO DEPORTIVO, PROGRAMA FORMACION PARA EL DEPORTE, COMPONENTE ENCUENTROS FORMATIVOS DEPORTIVOS 2026.",
-   "organismo": "INSTITUTO NACIONAL DE DEPORTES DE CHILE",
-   "unidad": "I.N.D. REGION XI",
-   "monto": 2500000,
-   "cierre_iso": "2026-10-09T10:00:00-03:00",
-   "publicacion": "06-10 10:12",
-   "publicacion_iso": "2026-10-06T10:12:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "90101603",
-     "Servicios de catering",
-     500,
-     "El kit de colación deberá contar\ncon los siguientes productos:\n1 Jugo tetra pack 200m1,\nvariedad de sabores.\n1 Galletón de avena de 40\ngramos (avena, avena\narándanos rojos, avena\nmanzana, avena\nalmendras o avena con\nchip de chocolate).\n1 Sándwich jamón-queso\ntamaño hallulla (120\ngramos aprox.)."
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1201-168-COT26",
-   "sin_detalle": false,
-   "descripcion": "La necesidad de contar con colaciones para hito regional \"Festival Infantil de la Patagonia\", del Programa Formación para el Deporte componente Encuentros Formativos Deportivos a ejecutar por el departamento de Actividad Física del Instituto Nacional de Deportes Región de Aysén.\nLos productos a ofertar deberán considerar fotografía y una descripción técnica sobre sus\ncaracterísticas específicas."
-  },
   {
    "tipo": "OPORTUNIDAD",
    "motivos": [
@@ -560,6 +506,12 @@
   }
  ],
  "pendientes": [
+  {
+   "codigo": "3791-1018-COT26",
+   "nombre": "MAT. DIDACTICO Y EDUCATIVO ",
+   "organismo": "I MUNICIPALIDAD DE CISNES",
+   "link": "https://buscador.mercadopublico.cl/ficha?code=3791-1018-COT26"
+  },
   {
    "codigo": "3791-1016-COT26",
    "nombre": "MATERIALES DIDACTICOS ",
