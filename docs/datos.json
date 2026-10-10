@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-10-10T09:44:48.683608-03:00",
+ "actualizado": "2026-10-10T10:38:40.375935-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
- "total_region": 220,
+ "total_region": 216,
  "rubros": {
   "80141600": "Ventas y marketing",
   "82101600": "Publicidad en medios no impresos",
@@ -262,7 +262,7 @@
    "motivos": [
     "Ventas y marketing"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "3950-649-COT26",
    "nombre": "Afiches para promoción de prevención de colonrrectal.",
    "organismo": "DIRECCION SALUD RURAL",
@@ -350,7 +350,7 @@
     "publicidad",
     "publicitarios"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "1201-174-COT26",
    "nombre": "CREDENCIALES DELEGACIÓN REGIÓN DE AYSÉN 2026 JUEGOS BINACIONALES DE LA ARAUCANÍA y PARA ARAUCANÍA",
    "organismo": "INSTITUTO NACIONAL DE DEPORTES DE CHILE",
@@ -404,7 +404,7 @@
    "motivos": [
     "difusion"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "4609-277-COT26",
    "nombre": "MATERIALES DE DIFUSION ",
    "organismo": "I MUNICIPALIDAD DE CHILE CHICO",
