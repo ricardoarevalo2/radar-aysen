@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-10-10T16:37:00.703981-03:00",
+ "actualizado": "2026-10-10T17:39:10.381242-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
- "total_region": 199,
+ "total_region": 193,
  "rubros": {
   "80141600": "Ventas y marketing",
   "82101600": "Publicidad en medios no impresos",
@@ -178,7 +178,7 @@
    "motivos": [
     "publicitarios"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "3950-651-COT26",
    "nombre": "Señaléticas de información para abastecer en postas rurales",
    "organismo": "DIRECCION SALUD RURAL",
