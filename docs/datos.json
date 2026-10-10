@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-10-10T12:39:03.951239-03:00",
+ "actualizado": "2026-10-10T13:39:35.540076-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
- "total_region": 208,
+ "total_region": 206,
  "rubros": {
   "80141600": "Ventas y marketing",
   "82101600": "Publicidad en medios no impresos",
@@ -377,7 +377,7 @@
    "motivos": [
     "Ventas y marketing"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "1746-237-COT26",
    "nombre": " APOYO A EJECUCIÓN JORNADA NACIONAL 30 AÑOS DE HANTAVIRUS EN CHILE",
    "organismo": "SUBSECRETARIA DE SALUD PUBLICA",
@@ -459,7 +459,7 @@
     "Fotógrafos y camarógrafos",
     "Ventas y marketing"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "1282238-78-COT26",
    "nombre": "Servicio de Diseño y Ejecución Encuentro Arte, Cultura y Patrimonio - FNDR 3465 Talleres Patrimoniales",
    "organismo": "CORPORACION CULTURAL MUNICIPAL DE COYHAIQUE",
