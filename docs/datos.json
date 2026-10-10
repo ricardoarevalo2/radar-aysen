@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-10-10T11:38:27.935750-03:00",
+ "actualizado": "2026-10-10T12:39:03.951239-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
- "total_region": 212,
+ "total_region": 208,
  "rubros": {
   "80141600": "Ventas y marketing",
   "82101600": "Publicidad en medios no impresos",
@@ -322,7 +322,7 @@
    "motivos": [
     "Ventas y marketing"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "1332-38-COT26",
    "nombre": "SERVICIO DE PRODUCCIÓN DE SEMINARIO DE TURISMO AYSENTIDO EN TU RELATO",
    "organismo": "Servicio Nacional de Turismo",
