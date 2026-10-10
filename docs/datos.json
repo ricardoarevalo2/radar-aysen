@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-10-10T17:39:10.381242-03:00",
+ "actualizado": "2026-10-10T18:38:43.468459-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
- "total_region": 193,
+ "total_region": 190,
  "rubros": {
   "80141600": "Ventas y marketing",
   "82101600": "Publicidad en medios no impresos",
@@ -14,105 +14,6 @@
   "83121700": "Comunicación social y de masas"
  },
  "filas": [
-  {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Ventas y marketing"
-   ],
-   "nueva": false,
-   "codigo": "2713-1229-COT26",
-   "nombre": "SERVICIO DE PRODUCCION. FOLIO 1275.DIDECO",
-   "organismo": "I MUNICIPALIDAD DE AYSEN",
-   "unidad": "I.MUNICIPALIDAD AYSEN-ADQUISICIONES",
-   "monto": 6990000,
-   "cierre_iso": "2026-10-10T18:24:00-03:00",
-   "publicacion": "08-10 17:33",
-   "publicacion_iso": "2026-10-08T17:33:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "80141607",
-     "Producción de eventos",
-     36,
-     "Luces Carpas. Segun Bases Tecnicas."
-    ],
-    [
-     "80141607",
-     "Producción de eventos",
-     1,
-     "Piso Carpa . Segun Bases Tecnicas."
-    ],
-    [
-     "80141607",
-     "Producción de eventos",
-     150,
-     "Servicio Mobiliario, (Montaje y desmontaje).Segun Bases Tecnicas."
-    ],
-    [
-     "80141607",
-     "Producción de eventos",
-     1,
-     "Ornamentación. Segun Bases Tecnicas."
-    ],
-    [
-     "80141607",
-     "Producción de eventos",
-     1,
-     "Servicio de Operación, Mantención y Aseo Completo del recinto (Incluye contenedores de basura). Segun Bases Tecnicas."
-    ],
-    [
-     "80141607",
-     "Producción de eventos",
-     1,
-     "Espacio Café Carpa Seminario. Segun Bases Tecnicas."
-    ],
-    [
-     "80141607",
-     "Producción de eventos",
-     1,
-     "Espacio Café Expositores. Segun Bases Tecnicas."
-    ],
-    [
-     "80141607",
-     "Producción de eventos",
-     2,
-     "Calefacción.  Segun Bases Tecnicas."
-    ],
-    [
-     "80141607",
-     "Producción de eventos",
-     40,
-     "Servicio de electrificación. Segun Bases Tecnicas."
-    ],
-    [
-     "80141607",
-     "Producción de eventos",
-     1,
-     "Taller: Turismo Sostenible, Ecoturismo y Conservación.Segun Bases Tecnicas."
-    ],
-    [
-     "80141607",
-     "Producción de eventos",
-     1,
-     "Grupo Musical . Segun Bases Tecnicas."
-    ],
-    [
-     "80141607",
-     "Producción de eventos",
-     1,
-     "Grupo Folclórico . Segun Bases Tecnicas."
-    ],
-    [
-     "80141607",
-     "Producción de eventos",
-     1,
-     "Backstage . Segun Bases Tecnicas."
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=2713-1229-COT26",
-   "sin_detalle": false,
-   "descripcion": "COTIZACIÓN DE : SERVICIO DE PRODUCCION. LOS COSTOS DE TRASLADOS A PUERTO AYSÉN SERÁN DEL OFERENTE. EL PLAZO DE ENTREGA ES EL DIA 17-10-26. OFERENTE DEBE INCLUIR FLETES EN EL PRECIO DEL PRODUCTO."
-  },
   {
    "tipo": "OPORTUNIDAD",
    "motivos": [
