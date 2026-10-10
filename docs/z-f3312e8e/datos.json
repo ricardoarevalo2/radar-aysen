@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-10-10T10:38:40.375935-03:00",
+ "actualizado": "2026-10-10T11:38:27.935750-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
- "total_region": 216,
+ "total_region": 212,
  "rubros": {
   "25172700": "Aire acondicionado",
   "25173900": "Componentes eléctricos",
@@ -78,7 +78,7 @@
    "motivos": [
     "generador"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "1274667-388-COT26",
    "nombre": "RVB - SOLICITA SERVICIO MANTENCIÓN CORRECTIVA PARA GRUPO GENERADOR  CATERPILLAR DE CENTRO DE SALUD FAMILIAR PUERTO AYSÉN",
    "organismo": "CENTRO DE SALUD FAMILIAR PUERTO AYSÉN",
@@ -317,7 +317,7 @@
    "motivos": [
     "ampolleta"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "3791-1017-COT26",
    "nombre": "REPUESTOS MAQUINARIAS",
    "organismo": "I MUNICIPALIDAD DE CISNES",
@@ -467,7 +467,7 @@
    "motivos": [
     "enchufe"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "4626-32-COT26",
    "nombre": "Provisión e instalación de cuatro (4) puntos de red y provisión e instalación de un (1) enchufe triple para oficinas de la Dirección Regional del Trabajo Región de Aysén",
    "organismo": "DIRECCION DEL TRABAJO",
