@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-10-09T21:50:27.911032-03:00",
+ "actualizado": "2026-10-10T06:39:48.993397-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
- "total_region": 226,
+ "total_region": 223,
  "rubros": {
   "25172700": "Aire acondicionado",
   "25173900": "Componentes eléctricos",
@@ -19,39 +19,6 @@
   "39121400": "Conectores, enchufes y terminales"
  },
  "filas": [
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "iluminación"
-   ],
-   "nueva": false,
-   "codigo": "1281188-14-COT26",
-   "nombre": "Adquisición de 04 Plafones 24W y 02 Proyectores Led 40w con panel solar",
-   "organismo": "DELEGACIÓN PRESIDENCIAL PROVINCIAL DE CAPITÁN PRAT",
-   "unidad": "Pasos Fronterizos Provincial de Capitán Prat",
-   "monto": 214000,
-   "cierre_iso": "2026-10-09T23:00:00-03:00",
-   "publicacion": "08-10 18:22",
-   "publicacion_iso": "2026-10-08T18:22:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "39111513",
-     "Iluminación solar interior",
-     2,
-     "02 proyectores Led 40W con panel solar, 6500 K IP65."
-    ],
-    [
-     "39111521",
-     "Plafones",
-     4,
-     "04 plafones sobrepuesto redondo 24W . Luz Fría"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1281188-14-COT26",
-   "sin_detalle": false,
-   "descripcion": "Adquisición de 04 Planes Sobrepuesto 24W., Luz Fría y 02 Proyectores Led 40W., 6500K IP65. El oferente deberá indicar si asume los costos de despacho. En caso afirmativo, dicho costo deberá encontrarse incluido en el valor total ofertado y no podrá ser presentado como un ítem."
-  },
   {
    "tipo": "OPORTUNIDAD",
    "motivos": [
