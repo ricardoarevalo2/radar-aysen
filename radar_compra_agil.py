@@ -61,6 +61,9 @@ PAUSA = 0.4             # segundos entre páginas del listado
 HILOS = 4               # detalles consultados en paralelo (la API tarda ~20 s por detalle)
 REINTENTOS_FINALES = 2  # rondas extra para las compras que fallaron
 HORAS_NUEVA = 24        # una compra se marca NUEVA durante sus primeras 24 h en el radar
+DIAS_HISTORIAL = 7     # días que se conserva el historial de compras cerradas
+HORAS_REVISION_ADJ = 6  # horas mínimas entre revisiones de adjudicación por compra
+MAX_ADJ_POR_CORRIDA = 5 # máximo de consultas de adjudicación por corrida
 # ─────────────────────────────────────────
 
 SESION = requests.Session()
@@ -195,13 +198,170 @@ def pesos(n):
         return "—"
 
 
+def _iso_a_dt(iso_str):
+    """Convierte un string ISO a datetime con zona, o None si falla."""
+    if not iso_str:
+        return None
+    try:
+        d = datetime.fromisoformat(iso_str)
+        if d.tzinfo is None:
+            d = d.replace(tzinfo=ZONA)
+        return d
+    except (ValueError, TypeError):
+        return None
+
+
+# ───────────── HISTORIAL DE COMPRAS CERRADAS ─────────────
+
+def ruta_historial(perfil):
+    destino = os.path.join(SALIDA, perfil["carpeta"]) if perfil["carpeta"] else SALIDA
+    return os.path.join(destino, "historial.json")
+
+
+def cargar_historial(perfil):
+    try:
+        with open(ruta_historial(perfil), encoding="utf-8") as f:
+            return json.load(f)
+    except (FileNotFoundError, json.JSONDecodeError):
+        return {}
+
+
+def guardar_historial(perfil, historial):
+    destino = os.path.join(SALIDA, perfil["carpeta"]) if perfil["carpeta"] else SALIDA
+    os.makedirs(destino, exist_ok=True)
+    with open(ruta_historial(perfil), "w", encoding="utf-8") as f:
+        json.dump(historial, f, ensure_ascii=False, indent=1)
+
+
+def actualizar_historial(historial, filas, codigos_region, ahora):
+    """
+    Actualiza el historial de compras:
+    - Elimina entradas más antiguas que DIAS_HISTORIAL.
+    - Actualiza metadatos de compras que siguen activas en el radar.
+    - Marca como 'removida' las que ya no aparecen en la región.
+    - Agrega nuevas compras del radar que no estaban en el historial.
+    """
+    limite = ahora - timedelta(days=DIAS_HISTORIAL)
+    codigos_activos = {f["codigo"] for f in filas}
+    filas_por_codigo = {f["codigo"]: f for f in filas}
+
+    for cod in list(historial.keys()):
+        h = historial[cod]
+        ref = _iso_a_dt(h.get("cierre_iso") or h.get("primera_vista_iso"))
+        if ref and ref < limite:
+            del historial[cod]
+            continue
+        if cod in codigos_activos:
+            # Sigue activa en el radar: actualizar metadatos
+            fila = filas_por_codigo[cod]
+            h.update({
+                "nombre": fila["nombre"],
+                "organismo": fila["organismo"],
+                "unidad": fila.get("unidad", ""),
+                "monto": fila["monto"],
+                "cierre_iso": fila["cierre_iso"],
+                "tipo": fila["tipo"],
+                "motivos": fila["motivos"],
+                "ultima_activa_iso": ahora.isoformat(timespec="seconds"),
+                "removida_iso": None,
+            })
+        elif cod in codigos_region:
+            # Está en la región pero no en el filtro: sigue "viva"
+            h["ultima_activa_iso"] = ahora.isoformat(timespec="seconds")
+        elif not h.get("removida_iso"):
+            # Ya no está en la región: marcar como removida
+            h["removida_iso"] = ahora.isoformat(timespec="seconds")
+
+    # Agregar compras nuevas del radar que no estaban en el historial
+    for fila in filas:
+        cod = fila["codigo"]
+        if cod not in historial:
+            historial[cod] = {
+                "codigo": cod,
+                "nombre": fila["nombre"],
+                "organismo": fila["organismo"],
+                "unidad": fila.get("unidad", ""),
+                "monto": fila["monto"],
+                "cierre_iso": fila["cierre_iso"],
+                "tipo": fila["tipo"],
+                "motivos": fila["motivos"],
+                "link": fila["link"],
+                "primera_vista_iso": ahora.isoformat(timespec="seconds"),
+                "ultima_activa_iso": ahora.isoformat(timespec="seconds"),
+                "removida_iso": None,
+                "estado_api": None,
+                "adj_nombre": None,
+                "adj_monto": None,
+                "adj_iso": None,
+                "adj_revisado_iso": None,
+            }
+    return historial
+
+
+def verificar_adjudicaciones(historial, ahora):
+    """
+    Consulta la API de detalle para compras cerradas que aún no tienen
+    estado de adjudicación confirmado, con límite de MAX_ADJ_POR_CORRIDA.
+    """
+    umbral = ahora - timedelta(hours=HORAS_REVISION_ADJ)
+    estados_finales = {"adjudicada", "cerrada", "desierta", "cancelada", "revocada"}
+    pendientes = []
+
+    for cod, h in historial.items():
+        if not h.get("removida_iso"):
+            continue  # solo compras que ya salieron del listado
+        # Si ya tiene estado final con nombre de proveedor, no revisitar
+        if (h.get("estado_api") or "").lower() in estados_finales and h.get("adj_nombre"):
+            continue
+        # Respetar tiempo mínimo entre revisiones
+        ultima = _iso_a_dt(h.get("adj_revisado_iso"))
+        if ultima and ultima >= umbral:
+            continue
+        pendientes.append(cod)
+
+    if not pendientes:
+        return historial
+
+    lote = pendientes[:MAX_ADJ_POR_CORRIDA]
+    print(f"   🔍 Verificando adjudicación de {len(lote)} compra(s) cerrada(s)...")
+
+    for cod in lote:
+        det = llamar(f"/v2/compra-agil/{cod}", intentos=1)
+        historial[cod]["adj_revisado_iso"] = ahora.isoformat(timespec="seconds")
+        if det:
+            estado = (det.get("estado") or det.get("status") or "").lower()
+            historial[cod]["estado_api"] = estado
+            # Intentar extraer adjudicación con varios nombres de campo posibles
+            adjs = det.get("adjudicaciones") or det.get("adjudicacion") or []
+            if isinstance(adjs, dict):
+                adjs = [adjs]
+            elif not isinstance(adjs, list):
+                adjs = []
+            if adjs:
+                adj = adjs[0]
+                historial[cod]["adj_nombre"] = (
+                    adj.get("nombre_proveedor") or adj.get("nombre") or
+                    adj.get("razon_social") or adj.get("nombre_empresa") or
+                    adj.get("proveedor")
+                )
+                historial[cod]["adj_monto"] = (
+                    adj.get("monto") or adj.get("monto_adjudicado") or adj.get("monto_clp")
+                )
+                historial[cod]["adj_iso"] = (
+                    adj.get("fecha_adjudicacion") or adj.get("fecha") or adj.get("fecha_resolucion")
+                )
+        time.sleep(0.5)
+
+    return historial
+
+
 # ───────────── REPORTE HTML ─────────────
 # El diseño vive en plantilla.html (junto a este script). Aquí solo se preparan los datos
 # y se reemplaza __DATOS__ por el JSON. Para cambiar el look, edita plantilla.html.
 PLANTILLA = os.path.join(CARPETA, "plantilla.html")
 
 
-def preparar_datos(perfil, filas, ahora, total_region, pendientes=()):
+def preparar_datos(perfil, filas, ahora, total_region, hist_cerradas=(), pendientes=()):
     return {
         "actualizado": ahora.isoformat(),
         "empresa": perfil.get("nombre", ""),
@@ -211,6 +371,12 @@ def preparar_datos(perfil, filas, ahora, total_region, pendientes=()):
         "filas": [{k: f[k] for k in ("tipo", "motivos", "nueva", "codigo", "nombre", "organismo", "unidad", "monto",
                                      "cierre_iso", "publicacion", "publicacion_iso", "ofertas", "productos", "link",
                                      "sin_detalle", "descripcion")} for f in filas],
+        "historial": [
+            {k: h.get(k) for k in ("codigo", "nombre", "organismo", "monto", "cierre_iso", "tipo",
+                                   "motivos", "link", "primera_vista_iso", "removida_iso",
+                                   "estado_api", "adj_nombre", "adj_monto", "adj_iso")}
+            for h in hist_cerradas
+        ],
         "pendientes": [{"codigo": c["codigo"], "nombre": (c.get("nombre") or "")[:110],
                         "organismo": (c.get("institucion") or {}).get("organismo_comprador") or "",
                         "link": f"https://buscador.mercadopublico.cl/ficha?code={c['codigo']}"} for c in pendientes],
@@ -366,10 +532,22 @@ def generar_perfil(perfil, compras, cache, ahora):
     filas.sort(key=lambda f: f["cierre_iso"] or "9999")
     pendientes = [c for c in compras if c["codigo"] not in cache]
 
+    # ── Historial de compras cerradas ──
+    codigos_region = {c["codigo"] for c in compras}
+    historial = cargar_historial(perfil)
+    historial = actualizar_historial(historial, filas, codigos_region, ahora)
+    historial = verificar_adjudicaciones(historial, ahora)
+    guardar_historial(perfil, historial)
+    hist_cerradas = sorted(
+        [h for h in historial.values() if h.get("removida_iso")],
+        key=lambda h: h.get("cierre_iso") or "",
+        reverse=True,
+    )
+
     destino = os.path.join(SALIDA, perfil["carpeta"]) if perfil["carpeta"] else SALIDA
     os.makedirs(destino, exist_ok=True)
     ruta_html = os.path.join(destino, "index.html")
-    datos = preparar_datos(perfil, filas, ahora, len(compras), pendientes)
+    datos = preparar_datos(perfil, filas, ahora, len(compras), hist_cerradas, pendientes)
     with open(ruta_html, "w", encoding="utf-8") as f:
         f.write(generar_html(datos))
     with open(os.path.join(destino, "datos.json"), "w", encoding="utf-8") as f:
@@ -384,6 +562,8 @@ def generar_perfil(perfil, compras, cache, ahora):
     ops = [r for r in filas if r["tipo"] == "OPORTUNIDAD"]
     pos = [r for r in filas if r["tipo"] == "POSIBLE"]
     print(f"\n=== {perfil.get('nombre', perfil['id'])}: ✅ {len(ops)} en rubros · 🔎 {len(pos)} posibles → {ruta_html}")
+    if hist_cerradas:
+        print(f"   📋 Historial: {len(hist_cerradas)} compra(s) cerrada(s) en seguimiento")
     for r in ops:
         print(f"   {'🆕 ' if r['nueva'] else ''}{r['codigo']} | cierra {r['cierre']} | {pesos(r['monto'])} | {r['nombre'][:60]}")
     if "--abrir" in sys.argv:
