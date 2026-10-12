@@ -31,7 +31,7 @@
       /* Acentos luminosos para Dark Mode */
       --accent-blue: #38BDF8;
       --accent-blue-soft: rgba(56, 189, 248, 0.12);
-      
+
       --emerald: #34D399;
       --emerald-soft: rgba(52, 211, 153, 0.12);
       --emerald-border: rgba(52, 211, 153, 0.3);
@@ -617,6 +617,88 @@
       flex-wrap: wrap;
     }
 
+    /* ── Historial de compras cerradas ── */
+    .hist-panel {
+      margin-top: 24px;
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      overflow: hidden;
+    }
+    .hist-summary {
+      cursor: pointer;
+      list-style: none;
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      padding: 14px 20px;
+      font-weight: 600;
+      font-size: 13.5px;
+      color: var(--text-secondary);
+      user-select: none;
+    }
+    .hist-summary::-webkit-details-marker { display: none; }
+    .hist-summary:hover { color: var(--text-solid); }
+    .hist-badge {
+      font-family: "JetBrains Mono", monospace;
+      font-size: 11px;
+      font-weight: 700;
+      padding: 2px 8px;
+      background: var(--surface-subtle);
+      border: 1px solid var(--border);
+      border-radius: 9999px;
+      color: var(--text-muted);
+    }
+    .hist-chevron { margin-left: auto; color: var(--text-muted); transition: transform 0.15s; }
+    .hist-panel[open] .hist-chevron { transform: rotate(180deg); }
+    .hist-list { border-top: 1px solid var(--border); }
+    .hist-row {
+      display: grid;
+      grid-template-columns: 90px 1fr auto;
+      gap: 14px;
+      padding: 12px 20px;
+      border-bottom: 1px solid var(--border);
+      align-items: center;
+    }
+    .hist-row:last-child { border-bottom: 0; }
+    .hist-row:hover { background: var(--surface-hover); }
+    .hist-date {
+      font-family: "JetBrains Mono", monospace;
+      font-size: 11.5px;
+      color: var(--text-muted);
+      line-height: 1.4;
+    }
+    .hist-content { min-width: 0; }
+    .hist-meta { display: flex; align-items: center; gap: 6px; flex-wrap: wrap; margin-bottom: 3px; }
+    .hist-name {
+      font-weight: 600;
+      font-size: 14px;
+      color: var(--text-solid);
+      overflow: hidden;
+      text-overflow: ellipsis;
+      white-space: nowrap;
+    }
+    .hist-org { font-size: 12px; color: var(--text-secondary); }
+    .hist-status { text-align: right; min-width: 130px; }
+    .hist-adj-label { font-weight: 700; font-size: 13px; }
+    .hist-adj-label.ok { color: var(--emerald); }
+    .hist-adj-label.warn { color: var(--amber); }
+    .hist-adj-label.muted { color: var(--text-muted); }
+    .hist-adj-who {
+      font-size: 11.5px;
+      color: var(--text-secondary);
+      margin-top: 2px;
+      max-width: 180px;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      white-space: nowrap;
+    }
+    .hist-adj-monto { font-family: "JetBrains Mono", monospace; font-size: 12px; color: var(--text-muted); }
+    @media (max-width: 680px) {
+      .hist-row { grid-template-columns: 1fr; gap: 6px; }
+      .hist-status { text-align: left; }
+    }
+
     footer {
       margin-top: 40px;
       padding-top: 24px;
@@ -709,6 +791,16 @@
 
   <main id="lista"></main>
 
+  <!-- Historial de compras cerradas -->
+  <details class="hist-panel" id="hist-panel" hidden>
+    <summary class="hist-summary">
+      <span>Historial · últimos 15 días</span>
+      <span class="hist-badge" id="hist-n">0</span>
+      <svg class="hist-chevron" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round"><polyline points="6 9 12 15 18 9"/></svg>
+    </summary>
+    <div class="hist-list" id="hist-lista"></div>
+  </details>
+
   <details class="pending-expander" id="nd" hidden>
     <summary></summary>
     <ul></ul>
@@ -724,7 +816,7 @@
   </footer>
 </div>
 
-<script type="application/json" id="datos">{"actualizado": "2026-10-11T20:38:31.112675-03:00", "empresa": "Santa María Radio y TV", "region": "Región de Aysén", "total_region": 176, "rubros": {"80141600": "Ventas y marketing", "82101600": "Publicidad en medios no impresos", "82101800": "Agencias de publicidad", "82101900": "Inserciones publicitarias en medios", "82131600": "Fotógrafos y camarógrafos", "83111800": "Servicios de televisión", "83111900": "Servicios de radio", "83121700": "Comunicación social y de masas"}, "filas": [{"tipo": "OPORTUNIDAD", "motivos": ["Ventas y marketing"], "nueva": false, "codigo": "418-1538-COT26", "nombre": "POR - SERVICIO ARTISTICO DE PASACALLE (SEGUN DETALLE ADJUNTO)", "organismo": "SERVICIO NACIONAL DE SALUD HOSPITAL DE PUERTO AYSEN", "unidad": "H Puerto Aysén", "monto": 1, "cierre_iso": "2026-10-12T01:42:00-03:00", "publicacion": "06-10 14:17", "publicacion_iso": "2026-10-06T14:17:00-03:00", "ofertas": 0, "productos": [["80141607", "Producción de eventos", 1, "servicio artístico de pasacalles, que permita desarrollar una intervención dinámica, visual, participativa y apta para todo público, incorporando música, danza, intervenciones circenses y elementos visuales que favorezcan la interacción con la comunidad. Fecha: Sábado 17 de Octubre de 2026 - Lugar: Calles Puerto Aysén según el siguiente recorrido - Inicio en Plaza Mahuen Horario 15:00 a 17:00 hrs Duración 2 horas"]], "link": "https://buscador.mercadopublico.cl/ficha?code=418-1538-COT26", "sin_detalle": false, "descripcion": "Se requiere contratar un servicio artístico de pasacalles, que permita desarrollar una intervención dinámica, visual, participativa y apta para todo público, incorporando música, danza, intervenciones circenses y elementos visuales que favorezcan la interacción con la comunidad. Fecha: Sábado 17 de Octubre de 2026 - Lugar: Calles Puerto Aysén según el siguiente recorrido: Inicio en Plaza Mahuen. Horario 15:00 a 17:00 hrs - Duración 2 horas"}, {"tipo": "OPORTUNIDAD", "motivos": ["Ventas y marketing"], "nueva": false, "codigo": "3950-649-COT26", "nombre": "Afiches para promoción de prevención de colonrrectal.", "organismo": "DIRECCION SALUD RURAL", "unidad": "Dirección de Salud Rural", "monto": 200000, "cierre_iso": "2026-10-13T08:00:00-03:00", "publicacion": "09-10 09:17", "publicacion_iso": "2026-10-09T09:17:00-03:00", "ofertas": 0, "productos": [["80141611", "Personalización de regalos o productos promocionales", 20, "Afiches A3 (29,7 × 42 cm), full color, 1 cara, couché mate 170"], ["80141611", "Personalización de regalos o productos promocionales", 100, "Afiches A5 (14,8 × 21 cm), full color, 1 cara, couché mate 170g"]], "link": "https://buscador.mercadopublico.cl/ficha?code=3950-649-COT26", "sin_detalle": false, "descripcion": "Con despacho incluido"}, {"tipo": "POSIBLE", "motivos": ["publicitarios"], "nueva": false, "codigo": "3950-651-COT26", "nombre": "Señaléticas de información para abastecer en postas rurales", "organismo": "DIRECCION SALUD RURAL", "unidad": "Dirección de Salud Rural", "monto": 300000, "cierre_iso": "2026-10-13T09:00:00-03:00", "publicacion": "09-10 16:06", "publicacion_iso": "2026-10-09T16:06:00-03:00", "ofertas": 0, "productos": [["82101501", "Letreros publicitarios", 1, "Servicio de impresión de letreros laminado en trovisel, fondo blanco con letras negras mayúsculas (14x6,8 cm)\nformato horizontal, de exterior.\n3 sala de reas\n2 sala de generador\n3 sala de caldera\n1 bodega de leña\n1 bodega de combustible\n1 entrada\n1 baño solo funcionarios\n2 box multipropósito"]], "link": "https://buscador.mercadopublico.cl/ficha?code=3950-651-COT26", "sin_detalle": false, "descripcion": "Con despacho incluido"}, {"tipo": "OPORTUNIDAD", "motivos": ["Ventas y marketing"], "nueva": false, "codigo": "1332-38-COT26", "nombre": "SERVICIO DE PRODUCCIÓN DE SEMINARIO DE TURISMO AYSENTIDO EN TU RELATO", "organismo": "Servicio Nacional de Turismo", "unidad": "Direccion Regional de Aysen", "monto": 3200000, "cierre_iso": "2026-10-13T09:00:00-03:00", "publicacion": "09-10 11:37", "publicacion_iso": "2026-10-09T11:37:00-03:00", "ofertas": 0, "productos": [["80141607", "Producción de eventos", 1, "Se requiere la contratación del “SERVICIO DE PRODUCCIÓN DE SEMINARIO DE TURISMO AYSENTIDO EN TU RELATO\", orientado a facilitar un espacio de capacitación y transferencia de conocimiento del patrimonio natural y cultural de Aysén, dirigido a guías, prestadores de servicios turísticos y comunidad en general, con el objetivo de fortalecer el relato turístico en el destino Aysén Patagonia. De acuerdo a detalle adjunto."]], "link": "https://buscador.mercadopublico.cl/ficha?code=1332-38-COT26", "sin_detalle": false, "descripcion": "Se requiere la contratación del “SERVICIO DE PRODUCCIÓN DE SEMINARIO DE TURISMO AYSENTIDO EN TU RELATO\", orientado a facilitar un espacio de capacitación y transferencia de conocimiento del patrimonio natural y cultural de Aysén, dirigido a guías, prestadores de servicios turísticos y comunidad en general, con el objetivo de fortalecer el relato turístico en el destino Aysén Patagonia."}, {"tipo": "POSIBLE", "motivos": ["publicidad", "publicitarios"], "nueva": false, "codigo": "1201-174-COT26", "nombre": "CREDENCIALES DELEGACIÓN REGIÓN DE AYSÉN 2026 JUEGOS BINACIONALES DE LA ARAUCANÍA y PARA ARAUCANÍA", "organismo": "INSTITUTO NACIONAL DE DEPORTES DE CHILE", "unidad": "I.N.D. REGION XI", "monto": 150000, "cierre_iso": "2026-10-13T10:00:00-03:00", "publicacion": "09-10 09:42", "publicacion_iso": "2026-10-09T09:42:00-03:00", "ofertas": 0, "productos": [["82101507", "Folletos y catálogos publicitarios, servicios de publicidad y distribución", 206, "Ipresión credenciales, según TDR adjunta"]], "link": "https://buscador.mercadopublico.cl/ficha?code=1201-174-COT26", "sin_detalle": false, "descripcion": "Contar con credenciales para cada integrante de las distintas delegaciones de la región\nde Aysén, representantes en los Juegos Binacionales de la Araucanía y Para Araucanía,\na realizarse en la región de Los Ríos."}, {"tipo": "OPORTUNIDAD", "motivos": ["Ventas y marketing"], "nueva": false, "codigo": "1746-237-COT26", "nombre": " APOYO A EJECUCIÓN JORNADA NACIONAL 30 AÑOS DE HANTAVIRUS EN CHILE", "organismo": "SUBSECRETARIA DE SALUD PUBLICA", "unidad": "Seremi de Salud XI Región", "monto": 800000, "cierre_iso": "2026-10-13T16:00:00-03:00", "publicacion": "09-10 12:08", "publicacion_iso": "2026-10-09T12:08:00-03:00", "ofertas": 0, "productos": [["80141607", "Producción de eventos", 1, "APOYO A EJECUCIÓN JORNADA NACIONAL 30 AÑOS DE HANTAVIRUS EN CHILE CUMPLIR CON LA TOTALIDAD DE LAS ESPECIFICACIONES TÉCNIAS MENCIONADAS EN DOCUMENTO ADJUNTO PM N° 480 DSP ADJUNTAR PROPUESTA"]], "link": "https://buscador.mercadopublico.cl/ficha?code=1746-237-COT26", "sin_detalle": false, "descripcion": "APOYO A EJECUCIÓN JORNADA NACIONAL 30 AÑOS DE HANTAVIRUS EN CHILE CUMPLIR CON LA TOTALIDAD DE LAS ESPECIFICACIONES TÉCNIAS MENCIONADAS EN DOCUMENTO ADJUNTO PM N° 480 DSP ADJUNTAR PROPUESTA"}, {"tipo": "POSIBLE", "motivos": ["difusion"], "nueva": false, "codigo": "4609-277-COT26", "nombre": "MATERIALES DE DIFUSION ", "organismo": "I MUNICIPALIDAD DE CHILE CHICO", "unidad": "Finanzas", "monto": 288000, "cierre_iso": "2026-10-14T10:00:00-03:00", "publicacion": "09-10 09:38", "publicacion_iso": "2026-10-09T09:38:00-03:00", "ofertas": 0, "productos": [["55101505", "Publicaciones", 1, "MATERIAL DE DIFUSION DE SENDA (Detalle en TDR adjunto)."]], "link": "https://buscador.mercadopublico.cl/ficha?code=4609-277-COT26", "sin_detalle": false, "descripcion": "COTIZACION MATERIALES DE DIFUSION"}, {"tipo": "OPORTUNIDAD", "motivos": ["Ventas y marketing"], "nueva": false, "codigo": "4733-395-COT26", "nombre": "CONCIERTO DE NAVIDAD", "organismo": "I MUNICIPALIDAD DE LAS GUAITECAS", "unidad": "I MUNICIPALIDAD DE LAS GUAITECAS", "monto": 2000000, "cierre_iso": "2026-10-15T10:00:00-03:00", "publicacion": "08-10 11:30", "publicacion_iso": "2026-10-08T11:30:00-03:00", "ofertas": 0, "productos": [["80141607", "Producción de eventos", 1, "CONCIERTO DE NAVIDAD"]], "link": "https://buscador.mercadopublico.cl/ficha?code=4733-395-COT26", "sin_detalle": false, "descripcion": "Se requiere contratar el servicio de producción artística para concierto de navidad según especificaciones técnicas adjuntas, adjuntar cotización.-"}, {"tipo": "OPORTUNIDAD", "motivos": ["Fotógrafos y camarógrafos", "Ventas y marketing"], "nueva": false, "codigo": "1282238-78-COT26", "nombre": "Servicio de Diseño y Ejecución Encuentro Arte, Cultura y Patrimonio - FNDR 3465 Talleres Patrimoniales", "organismo": "CORPORACION CULTURAL MUNICIPAL DE COYHAIQUE", "unidad": "CORPORACION CULTURAL MUNICIPAL DE COYHAIQUE", "monto": 2950000, "cierre_iso": "2026-10-16T15:00:00-03:00", "publicacion": "09-10 11:49", "publicacion_iso": "2026-10-09T11:49:00-03:00", "ofertas": 0, "productos": [["80141607", "Producción de eventos", 1, "Organización y coordinación del Encuentro Arte, Cultura y Patrimonio (04-12-2026, 4 horas, Centro Cultural de Coyhaique): planificación, guion, coordinación con la Corporación y con participantes de los talleres de Acordeón, Foto bordado, Teatro testimonial, Gastronomía local y Ciencia y Astronomía (Valle Simpson, Villa Ortega y Coyhaique), y supervisión de la jornada."], ["82141602", "Montaje de exposiciones", 1, "Montaje de piezas y ambientación: diseño, preparación, compra de insumos y montaje de la ambientación del espacio y de la exhibición de los trabajos elaborados por los participantes de los talleres; desmontaje al cierre."], ["93141701", "Organizaciones de eventos culturales", 1, "Maestra o maestro de ceremonia: conducción de la jornada, desarrollo de guion, presentación de cada taller, gestión de transiciones y cierre del encuentro."], ["93141711", "Servicios de promoción de artesanía tradicional", 1, "Taller de oficios textiles patrimoniales: taller práctico de 2 horas para hasta 80 personas, orientado a la exploración de prácticas patrimoniales de la Región de Aysén (técnica a definir con la Corporación), con todos los materiales incluidos."], ["80161507", "Servicios Audio Visuales", 1, "Sistema de amplificación para la jornada: parlantes, micrófonos y mesa de sonido, con operador, instalación y retiro."], ["82131603", "Producción de vídeo", 1, "Registro fotográfico y audiovisual de la jornada, con entrega de material editado para comunicaciones y archivo institucional."]], "link": "https://buscador.mercadopublico.cl/ficha?code=1282238-78-COT26", "sin_detalle": false, "descripcion": "Diseño y ejecución del Encuentro Arte, Cultura y Patrimonio el 4 de diciembre de 2026 en el Centro Cultural de Coyhaique (jornada de 4 horas), proyecto FNDR código 3465. Incluye coordinación general, montaje y ambientación de la exhibición de trabajos de los talleres, maestra/o de ceremonia, taller de oficios textiles patrimoniales para hasta 80 personas con materiales, amplificación y registro audiovisual. Detalle en especificaciones adjuntas."}], "pendientes": []}</script>
+<script type="application/json" id="datos">{"actualizado": "2026-10-11T21:06:47.224619-03:00", "empresa": "Santa María Radio y TV", "region": "Región de Aysén", "total_region": 176, "rubros": {"80141600": "Ventas y marketing", "82101600": "Publicidad en medios no impresos", "82101800": "Agencias de publicidad", "82101900": "Inserciones publicitarias en medios", "82131600": "Fotógrafos y camarógrafos", "83111800": "Servicios de televisión", "83111900": "Servicios de radio", "83121700": "Comunicación social y de masas"}, "filas": [{"tipo": "OPORTUNIDAD", "motivos": ["Ventas y marketing"], "nueva": false, "codigo": "418-1538-COT26", "nombre": "POR - SERVICIO ARTISTICO DE PASACALLE (SEGUN DETALLE ADJUNTO)", "organismo": "SERVICIO NACIONAL DE SALUD HOSPITAL DE PUERTO AYSEN", "unidad": "H Puerto Aysén", "monto": 1, "cierre_iso": "2026-10-12T01:42:00-03:00", "publicacion": "06-10 14:17", "publicacion_iso": "2026-10-06T14:17:00-03:00", "ofertas": 0, "productos": [["80141607", "Producción de eventos", 1, "servicio artístico de pasacalles, que permita desarrollar una intervención dinámica, visual, participativa y apta para todo público, incorporando música, danza, intervenciones circenses y elementos visuales que favorezcan la interacción con la comunidad. Fecha: Sábado 17 de Octubre de 2026 - Lugar: Calles Puerto Aysén según el siguiente recorrido - Inicio en Plaza Mahuen Horario 15:00 a 17:00 hrs Duración 2 horas"]], "link": "https://buscador.mercadopublico.cl/ficha?code=418-1538-COT26", "sin_detalle": false, "descripcion": "Se requiere contratar un servicio artístico de pasacalles, que permita desarrollar una intervención dinámica, visual, participativa y apta para todo público, incorporando música, danza, intervenciones circenses y elementos visuales que favorezcan la interacción con la comunidad. Fecha: Sábado 17 de Octubre de 2026 - Lugar: Calles Puerto Aysén según el siguiente recorrido: Inicio en Plaza Mahuen. Horario 15:00 a 17:00 hrs - Duración 2 horas"}, {"tipo": "OPORTUNIDAD", "motivos": ["Ventas y marketing"], "nueva": false, "codigo": "3950-649-COT26", "nombre": "Afiches para promoción de prevención de colonrrectal.", "organismo": "DIRECCION SALUD RURAL", "unidad": "Dirección de Salud Rural", "monto": 200000, "cierre_iso": "2026-10-13T08:00:00-03:00", "publicacion": "09-10 09:17", "publicacion_iso": "2026-10-09T09:17:00-03:00", "ofertas": 0, "productos": [["80141611", "Personalización de regalos o productos promocionales", 20, "Afiches A3 (29,7 × 42 cm), full color, 1 cara, couché mate 170"], ["80141611", "Personalización de regalos o productos promocionales", 100, "Afiches A5 (14,8 × 21 cm), full color, 1 cara, couché mate 170g"]], "link": "https://buscador.mercadopublico.cl/ficha?code=3950-649-COT26", "sin_detalle": false, "descripcion": "Con despacho incluido"}, {"tipo": "POSIBLE", "motivos": ["publicitarios"], "nueva": false, "codigo": "3950-651-COT26", "nombre": "Señaléticas de información para abastecer en postas rurales", "organismo": "DIRECCION SALUD RURAL", "unidad": "Dirección de Salud Rural", "monto": 300000, "cierre_iso": "2026-10-13T09:00:00-03:00", "publicacion": "09-10 16:06", "publicacion_iso": "2026-10-09T16:06:00-03:00", "ofertas": 0, "productos": [["82101501", "Letreros publicitarios", 1, "Servicio de impresión de letreros laminado en trovisel, fondo blanco con letras negras mayúsculas (14x6,8 cm)\nformato horizontal, de exterior.\n3 sala de reas\n2 sala de generador\n3 sala de caldera\n1 bodega de leña\n1 bodega de combustible\n1 entrada\n1 baño solo funcionarios\n2 box multipropósito"]], "link": "https://buscador.mercadopublico.cl/ficha?code=3950-651-COT26", "sin_detalle": false, "descripcion": "Con despacho incluido"}, {"tipo": "OPORTUNIDAD", "motivos": ["Ventas y marketing"], "nueva": false, "codigo": "1332-38-COT26", "nombre": "SERVICIO DE PRODUCCIÓN DE SEMINARIO DE TURISMO AYSENTIDO EN TU RELATO", "organismo": "Servicio Nacional de Turismo", "unidad": "Direccion Regional de Aysen", "monto": 3200000, "cierre_iso": "2026-10-13T09:00:00-03:00", "publicacion": "09-10 11:37", "publicacion_iso": "2026-10-09T11:37:00-03:00", "ofertas": 0, "productos": [["80141607", "Producción de eventos", 1, "Se requiere la contratación del “SERVICIO DE PRODUCCIÓN DE SEMINARIO DE TURISMO AYSENTIDO EN TU RELATO\", orientado a facilitar un espacio de capacitación y transferencia de conocimiento del patrimonio natural y cultural de Aysén, dirigido a guías, prestadores de servicios turísticos y comunidad en general, con el objetivo de fortalecer el relato turístico en el destino Aysén Patagonia. De acuerdo a detalle adjunto."]], "link": "https://buscador.mercadopublico.cl/ficha?code=1332-38-COT26", "sin_detalle": false, "descripcion": "Se requiere la contratación del “SERVICIO DE PRODUCCIÓN DE SEMINARIO DE TURISMO AYSENTIDO EN TU RELATO\", orientado a facilitar un espacio de capacitación y transferencia de conocimiento del patrimonio natural y cultural de Aysén, dirigido a guías, prestadores de servicios turísticos y comunidad en general, con el objetivo de fortalecer el relato turístico en el destino Aysén Patagonia."}, {"tipo": "POSIBLE", "motivos": ["publicidad", "publicitarios"], "nueva": false, "codigo": "1201-174-COT26", "nombre": "CREDENCIALES DELEGACIÓN REGIÓN DE AYSÉN 2026 JUEGOS BINACIONALES DE LA ARAUCANÍA y PARA ARAUCANÍA", "organismo": "INSTITUTO NACIONAL DE DEPORTES DE CHILE", "unidad": "I.N.D. REGION XI", "monto": 150000, "cierre_iso": "2026-10-13T10:00:00-03:00", "publicacion": "09-10 09:42", "publicacion_iso": "2026-10-09T09:42:00-03:00", "ofertas": 0, "productos": [["82101507", "Folletos y catálogos publicitarios, servicios de publicidad y distribución", 206, "Ipresión credenciales, según TDR adjunta"]], "link": "https://buscador.mercadopublico.cl/ficha?code=1201-174-COT26", "sin_detalle": false, "descripcion": "Contar con credenciales para cada integrante de las distintas delegaciones de la región\nde Aysén, representantes en los Juegos Binacionales de la Araucanía y Para Araucanía,\na realizarse en la región de Los Ríos."}, {"tipo": "OPORTUNIDAD", "motivos": ["Ventas y marketing"], "nueva": false, "codigo": "1746-237-COT26", "nombre": " APOYO A EJECUCIÓN JORNADA NACIONAL 30 AÑOS DE HANTAVIRUS EN CHILE", "organismo": "SUBSECRETARIA DE SALUD PUBLICA", "unidad": "Seremi de Salud XI Región", "monto": 800000, "cierre_iso": "2026-10-13T16:00:00-03:00", "publicacion": "09-10 12:08", "publicacion_iso": "2026-10-09T12:08:00-03:00", "ofertas": 0, "productos": [["80141607", "Producción de eventos", 1, "APOYO A EJECUCIÓN JORNADA NACIONAL 30 AÑOS DE HANTAVIRUS EN CHILE CUMPLIR CON LA TOTALIDAD DE LAS ESPECIFICACIONES TÉCNIAS MENCIONADAS EN DOCUMENTO ADJUNTO PM N° 480 DSP ADJUNTAR PROPUESTA"]], "link": "https://buscador.mercadopublico.cl/ficha?code=1746-237-COT26", "sin_detalle": false, "descripcion": "APOYO A EJECUCIÓN JORNADA NACIONAL 30 AÑOS DE HANTAVIRUS EN CHILE CUMPLIR CON LA TOTALIDAD DE LAS ESPECIFICACIONES TÉCNIAS MENCIONADAS EN DOCUMENTO ADJUNTO PM N° 480 DSP ADJUNTAR PROPUESTA"}, {"tipo": "POSIBLE", "motivos": ["difusion"], "nueva": false, "codigo": "4609-277-COT26", "nombre": "MATERIALES DE DIFUSION ", "organismo": "I MUNICIPALIDAD DE CHILE CHICO", "unidad": "Finanzas", "monto": 288000, "cierre_iso": "2026-10-14T10:00:00-03:00", "publicacion": "09-10 09:38", "publicacion_iso": "2026-10-09T09:38:00-03:00", "ofertas": 0, "productos": [["55101505", "Publicaciones", 1, "MATERIAL DE DIFUSION DE SENDA (Detalle en TDR adjunto)."]], "link": "https://buscador.mercadopublico.cl/ficha?code=4609-277-COT26", "sin_detalle": false, "descripcion": "COTIZACION MATERIALES DE DIFUSION"}, {"tipo": "OPORTUNIDAD", "motivos": ["Ventas y marketing"], "nueva": false, "codigo": "4733-395-COT26", "nombre": "CONCIERTO DE NAVIDAD", "organismo": "I MUNICIPALIDAD DE LAS GUAITECAS", "unidad": "I MUNICIPALIDAD DE LAS GUAITECAS", "monto": 2000000, "cierre_iso": "2026-10-15T10:00:00-03:00", "publicacion": "08-10 11:30", "publicacion_iso": "2026-10-08T11:30:00-03:00", "ofertas": 0, "productos": [["80141607", "Producción de eventos", 1, "CONCIERTO DE NAVIDAD"]], "link": "https://buscador.mercadopublico.cl/ficha?code=4733-395-COT26", "sin_detalle": false, "descripcion": "Se requiere contratar el servicio de producción artística para concierto de navidad según especificaciones técnicas adjuntas, adjuntar cotización.-"}, {"tipo": "OPORTUNIDAD", "motivos": ["Fotógrafos y camarógrafos", "Ventas y marketing"], "nueva": false, "codigo": "1282238-78-COT26", "nombre": "Servicio de Diseño y Ejecución Encuentro Arte, Cultura y Patrimonio - FNDR 3465 Talleres Patrimoniales", "organismo": "CORPORACION CULTURAL MUNICIPAL DE COYHAIQUE", "unidad": "CORPORACION CULTURAL MUNICIPAL DE COYHAIQUE", "monto": 2950000, "cierre_iso": "2026-10-16T15:00:00-03:00", "publicacion": "09-10 11:49", "publicacion_iso": "2026-10-09T11:49:00-03:00", "ofertas": 0, "productos": [["80141607", "Producción de eventos", 1, "Organización y coordinación del Encuentro Arte, Cultura y Patrimonio (04-12-2026, 4 horas, Centro Cultural de Coyhaique): planificación, guion, coordinación con la Corporación y con participantes de los talleres de Acordeón, Foto bordado, Teatro testimonial, Gastronomía local y Ciencia y Astronomía (Valle Simpson, Villa Ortega y Coyhaique), y supervisión de la jornada."], ["82141602", "Montaje de exposiciones", 1, "Montaje de piezas y ambientación: diseño, preparación, compra de insumos y montaje de la ambientación del espacio y de la exhibición de los trabajos elaborados por los participantes de los talleres; desmontaje al cierre."], ["93141701", "Organizaciones de eventos culturales", 1, "Maestra o maestro de ceremonia: conducción de la jornada, desarrollo de guion, presentación de cada taller, gestión de transiciones y cierre del encuentro."], ["93141711", "Servicios de promoción de artesanía tradicional", 1, "Taller de oficios textiles patrimoniales: taller práctico de 2 horas para hasta 80 personas, orientado a la exploración de prácticas patrimoniales de la Región de Aysén (técnica a definir con la Corporación), con todos los materiales incluidos."], ["80161507", "Servicios Audio Visuales", 1, "Sistema de amplificación para la jornada: parlantes, micrófonos y mesa de sonido, con operador, instalación y retiro."], ["82131603", "Producción de vídeo", 1, "Registro fotográfico y audiovisual de la jornada, con entrega de material editado para comunicaciones y archivo institucional."]], "link": "https://buscador.mercadopublico.cl/ficha?code=1282238-78-COT26", "sin_detalle": false, "descripcion": "Diseño y ejecución del Encuentro Arte, Cultura y Patrimonio el 4 de diciembre de 2026 en el Centro Cultural de Coyhaique (jornada de 4 horas), proyecto FNDR código 3465. Incluye coordinación general, montaje y ambientación de la exhibición de trabajos de los talleres, maestra/o de ceremonia, taller de oficios textiles patrimoniales para hasta 80 personas con materiales, amplificación y registro audiovisual. Detalle en especificaciones adjuntas."}], "historial": [], "pendientes": []}</script>
 
 <script>
 const D = JSON.parse(document.getElementById('datos').textContent);
@@ -843,16 +935,16 @@ function pintar() {
     (filtro === 'todas' || (filtro === 'rubro' ? f.tipo === 'OPORTUNIDAD' : f.tipo === 'POSIBLE')) &&
     !(ocultar && estado[f.codigo]) &&
     (!q || [f.codigo, f.nombre, f.organismo, f.unidad, f.descripcion, ...f.motivos, ...f.productos.flat()].join(' ').toLowerCase().includes(q)));
-  
+
   const nv = f => noVistas.has(f.codigo) ? 0 : 1;
   if (orden === 'cierre') items = items.slice().sort((a, b) => nv(a) - nv(b));
   document.querySelectorAll('.segmented-tabs button').forEach(b => b.setAttribute('aria-pressed', b.dataset.f === filtro));
   const out = $('#lista');
-  if (!items.length) { 
-    out.innerHTML = `<div class="empty-shelf">${q ? 'Nada coincide con “' + esc(q) + '”.' : 'No hay oportunidades en esta sección.'}</div>`; 
-    return; 
+  if (!items.length) {
+    out.innerHTML = `<div class="empty-shelf">${q ? 'Nada coincide con "' + esc(q) + '".' : 'No hay oportunidades en esta sección.'}</div>`;
+    return;
   }
-  
+
   if (orden === 'cierre') {
     const grupos = {};
     items.forEach(f => { const r = reloj(f.cierre_iso); (grupos[r.grupo] ||= {orden:r.orden, xs:[]}).xs.push(f) });
@@ -888,23 +980,23 @@ document.querySelectorAll('.segmented-tabs button').forEach(b => b.addEventListe
   const urg = D.filas.filter(f => { const t = Date.parse(f.cierre_iso); return t >= ahora && t - ahora < 48 * 36e5 }).length;
   const monto = ops.reduce((s, f) => s + (f.monto || 0), 0), nuevas = D.filas.filter(f => f.nueva).length;
   const d = new Date(D.actualizado);
-  
+
   $('#fecha').textContent = d.toLocaleDateString('es-CL', {day:'2-digit', month:'2-digit'}) + ' ' + d.toLocaleTimeString('es-CL', {hour:'2-digit', minute:'2-digit', hour12:false});
-  $('#s-ops').textContent = ops.length; 
-  $('#s-pos').textContent = pos.length; 
+  $('#s-ops').textContent = ops.length;
+  $('#s-pos').textContent = pos.length;
   $('#s-urg').textContent = urg;
   if (urg > 0) $('#card-urg').classList.add('urgent');
-  
+
   $('#s-monto').textContent = monto ? pesos(monto) : '$0';$('#s-nuevas').textContent = nuevas;
-  $('#c-todas').textContent = D.filas.length; 
-  $('#c-rubro').textContent = ops.length; 
+  $('#c-todas').textContent = D.filas.length;
+  $('#c-rubro').textContent = ops.length;
   $('#c-pos').textContent = pos.length;
   $('#total').textContent = D.total_region;
   $('#region').textContent = D.region;
   if (D.empresa) { $('#empresa').textContent = D.empresa; document.title = 'Radar · ' + D.empresa; }
-  
+
   $('#rubros').innerHTML = Object.entries(D.rubros).map(([c, n]) => `<span class="rubro-capsule"><span class="k">${esc(c)}</span>${esc(n)}</span>`).join('');
-  
+
   if (D.pendientes && D.pendientes.length) {
     const n = D.pendientes.length;
     $('#nd').hidden = false;
@@ -934,6 +1026,54 @@ function pintarVisita() {
 pintarVisita();
 pintar();
 setInterval(pintar, 60000);
+
+// ── Historial de compras cerradas ──
+(function () {
+  const hist = D.historial || [];
+  if (!hist.length) return;
+  $('#hist-panel').hidden = false;
+  $('#hist-n').textContent = hist.length;
+
+  $('#hist-lista').innerHTML = hist.map(h => {
+    const d = h.cierre_iso ? new Date(h.cierre_iso) : null;
+    const fechaStr = d
+      ? (DIAS[d.getDay()] + ' ' + d.getDate() + '/' + (d.getMonth() + 1) + '<br>'
+         + d.toLocaleTimeString('es-CL', {hour: '2-digit', minute: '2-digit', hour12: false}))
+      : '—';
+    const tipoPill = h.tipo === 'OPORTUNIDAD'
+      ? '<span class="badge-pill rubro">Tu rubro</span>'
+      : '<span class="badge-pill pos">Posible</span>';
+
+    let statusHtml;
+    const estado = (h.estado_api || '').toLowerCase();
+    if (h.adj_nombre) {
+      statusHtml = `<div class="hist-adj-label ok">Adjudicada</div>`
+        + `<div class="hist-adj-who" title="${esc(h.adj_nombre)}">${esc(h.adj_nombre)}</div>`
+        + (h.adj_monto ? `<div class="hist-adj-monto">${pesos(h.adj_monto)}</div>` : '');
+    } else if (estado === 'adjudicada') {
+      statusHtml = `<div class="hist-adj-label ok">Adjudicada</div><div class="hist-adj-who">Consultando proveedor…</div>`;
+    } else if (estado === 'desierta') {
+      statusHtml = `<div class="hist-adj-label warn">Desierta</div>`;
+    } else if (estado === 'cancelada' || estado === 'revocada') {
+      statusHtml = `<div class="hist-adj-label warn">Cancelada</div>`;
+    } else {
+      statusHtml = `<div class="hist-adj-label muted">En revisión…</div>`;
+    }
+
+    return `<div class="hist-row">
+      <div class="hist-date mono">${fechaStr}</div>
+      <div class="hist-content">
+        <div class="hist-meta">
+          <a class="deal-code" href="${esc(h.link || '')}" target="_blank" rel="noopener">${esc(h.codigo)}</a>
+          ${tipoPill}
+        </div>
+        <div class="hist-name" title="${esc(h.nombre)}">${esc(h.nombre)}</div>
+        <div class="hist-org">${esc(h.organismo)}</div>
+      </div>
+      <div class="hist-status">${statusHtml}</div>
+    </div>`;
+  }).join('');
+})();
 </script>
 </body>
 </html>
