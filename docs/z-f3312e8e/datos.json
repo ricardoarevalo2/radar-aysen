@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-10-12T18:41:02.834158-03:00",
+ "actualizado": "2026-10-12T19:40:42.262451-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
- "total_region": 153,
+ "total_region": 152,
  "rubros": {
   "25172700": "Aire acondicionado",
   "25173900": "Componentes eléctricos",
@@ -19,33 +19,6 @@
   "39121400": "Conectores, enchufes y terminales"
  },
  "filas": [
-  {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Gasfitería, calefacción y aire acondicionado"
-   ],
-   "nueva": false,
-   "codigo": "4889-39-COT26",
-   "nombre": "MANTENIMIENTO SENTINA - OFICINAS SEREMI DE LAS CULTURAS",
-   "organismo": "Subsecretaria de las Culturas y las Artes Región de Aysen",
-   "unidad": "Consejo Regional de Cultura Región de Aysen",
-   "monto": 250000,
-   "cierre_iso": "2026-10-12T19:13:00-03:00",
-   "publicacion": "02-10 10:46",
-   "publicacion_iso": "2026-10-02T10:46:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "72102304",
-     "Mantenimiento o reparación de sistemas de fontanería, gasfitería",
-     1,
-     "MANTENIMIENTO SENTINA - CAMARA DE RECOLECCION DE RESIDUOS SOLIDOS DOMICILIARIOS - CARACTERÍSTICAS SEGUN ARCHIVO ADJUNTO"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=4889-39-COT26",
-   "sin_detalle": false,
-   "descripcion": "MANTENIMIENTO SENTINA - OFICINAS SEREMI DE LAS CULTURAS\nCARACTERÍSTICAS SEGUN ARCHIVO ADJUNTO"
-  },
   {
    "tipo": "POSIBLE",
    "motivos": [
@@ -520,6 +493,24 @@
   }
  ],
  "historial": [
+  {
+   "codigo": "4889-39-COT26",
+   "nombre": "MANTENIMIENTO SENTINA - OFICINAS SEREMI DE LAS CULTURAS",
+   "organismo": "Subsecretaria de las Culturas y las Artes Región de Aysen",
+   "monto": 250000,
+   "cierre_iso": "2026-10-12T19:13:00-03:00",
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Gasfitería, calefacción y aire acondicionado"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=4889-39-COT26",
+   "primera_vista_iso": "2026-10-11T21:06:47-03:00",
+   "removida_iso": "2026-10-12T19:40:42-03:00",
+   "estado_api": "",
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
   {
    "codigo": "1233615-783-COT26",
    "nombre": "JGS [SOL-2026-01838] Insumos computacionales / LICEO BICENTENARIO AUSTRAL LORD COCHRANE.",
