@@ -329,7 +329,8 @@ def verificar_adjudicaciones(historial, ahora):
         det = llamar(f"/v2/compra-agil/{cod}", intentos=1)
         historial[cod]["adj_revisado_iso"] = ahora.isoformat(timespec="seconds")
         if det:
-            estado = (det.get("estado") or det.get("status") or "").lower()
+            estado_raw = det.get("estado") or det.get("status") or ""
+            estado = (estado_raw if isinstance(estado_raw, str) else "").lower()
             historial[cod]["estado_api"] = estado
             # Intentar extraer adjudicación con varios nombres de campo posibles
             adjs = det.get("adjudicaciones") or det.get("adjudicacion") or []
