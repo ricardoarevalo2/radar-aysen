@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-10-12T08:44:03.029294-03:00",
+ "actualizado": "2026-10-12T10:05:54.995519-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
- "total_region": 163,
+ "total_region": 155,
  "rubros": {
   "25172700": "Aire acondicionado",
   "25173900": "Componentes eléctricos",
@@ -19,33 +19,6 @@
   "39121400": "Conectores, enchufes y terminales"
  },
  "filas": [
-  {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Materiales de física de electricidad"
-   ],
-   "nueva": false,
-   "codigo": "1233615-783-COT26",
-   "nombre": "JGS [SOL-2026-01838] Insumos computacionales / LICEO BICENTENARIO AUSTRAL LORD COCHRANE.",
-   "organismo": "Servicio Local de Educación Pública Aysén",
-   "unidad": "Servicio Local de Educación Pública Aysén",
-   "monto": 947000,
-   "cierre_iso": "2026-10-12T09:00:00-03:00",
-   "publicacion": "09-10 09:10",
-   "publicacion_iso": "2026-10-09T09:10:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "60104912",
-     "Cables o electrodos eléctricos",
-     1,
-     "Insumos computacionales / LICEO BICENTENARIO AUSTRAL LORD COCHRANE.CONFORME A DETALLE ADJUNTO."
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1233615-783-COT26",
-   "sin_detalle": false,
-   "descripcion": "Insumos computacionales / LICEO BICENTENARIO AUSTRAL LORD COCHRANE."
-  },
   {
    "tipo": "OPORTUNIDAD",
    "motivos": [
@@ -546,6 +519,25 @@
    "descripcion": "PROCESO DE ADQUISICIÓN PARA EL SERVICIO DE LEVANTAMIENTO ELECTRICO, RETIRO E INSTALACIÓN DE EQUIUPOS DE CLIMATIZACIÓN PARA OFICINAS DE LA SEREMITT DE AYSÉN\n\nLA VISITA ENTERRENO SERÁ EL DÍA 9 DE OCTUBRE A LAS 10:00 HORAS\nVER  REQUERIMIENTO TÉCNICO"
   }
  ],
- "historial": [],
+ "historial": [
+  {
+   "codigo": "1233615-783-COT26",
+   "nombre": "JGS [SOL-2026-01838] Insumos computacionales / LICEO BICENTENARIO AUSTRAL LORD COCHRANE.",
+   "organismo": "Servicio Local de Educación Pública Aysén",
+   "monto": 947000,
+   "cierre_iso": "2026-10-12T09:00:00-03:00",
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Materiales de física de electricidad"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1233615-783-COT26",
+   "primera_vista_iso": "2026-10-11T21:06:47-03:00",
+   "removida_iso": "2026-10-12T10:05:54-03:00",
+   "estado_api": "",
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  }
+ ],
  "pendientes": []
 }
