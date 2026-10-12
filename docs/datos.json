@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-10-11T21:52:27.136553-03:00",
+ "actualizado": "2026-10-12T07:17:55.184072-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
- "total_region": 176,
+ "total_region": 167,
  "rubros": {
   "80141600": "Ventas y marketing",
   "82101600": "Publicidad en medios no impresos",
@@ -14,33 +14,6 @@
   "83121700": "Comunicación social y de masas"
  },
  "filas": [
-  {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Ventas y marketing"
-   ],
-   "nueva": false,
-   "codigo": "418-1538-COT26",
-   "nombre": "POR - SERVICIO ARTISTICO DE PASACALLE (SEGUN DETALLE ADJUNTO)",
-   "organismo": "SERVICIO NACIONAL DE SALUD HOSPITAL DE PUERTO AYSEN",
-   "unidad": "H Puerto Aysén",
-   "monto": 1,
-   "cierre_iso": "2026-10-12T01:42:00-03:00",
-   "publicacion": "06-10 14:17",
-   "publicacion_iso": "2026-10-06T14:17:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "80141607",
-     "Producción de eventos",
-     1,
-     "servicio artístico de pasacalles, que permita desarrollar una intervención dinámica, visual, participativa y apta para todo público, incorporando música, danza, intervenciones circenses y elementos visuales que favorezcan la interacción con la comunidad. Fecha: Sábado 17 de Octubre de 2026 - Lugar: Calles Puerto Aysén según el siguiente recorrido - Inicio en Plaza Mahuen Horario 15:00 a 17:00 hrs Duración 2 horas"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=418-1538-COT26",
-   "sin_detalle": false,
-   "descripcion": "Se requiere contratar un servicio artístico de pasacalles, que permita desarrollar una intervención dinámica, visual, participativa y apta para todo público, incorporando música, danza, intervenciones circenses y elementos visuales que favorezcan la interacción con la comunidad. Fecha: Sábado 17 de Octubre de 2026 - Lugar: Calles Puerto Aysén según el siguiente recorrido: Inicio en Plaza Mahuen. Horario 15:00 a 17:00 hrs - Duración 2 horas"
-  },
   {
    "tipo": "OPORTUNIDAD",
    "motivos": [
@@ -296,6 +269,25 @@
    "descripcion": "Diseño y ejecución del Encuentro Arte, Cultura y Patrimonio el 4 de diciembre de 2026 en el Centro Cultural de Coyhaique (jornada de 4 horas), proyecto FNDR código 3465. Incluye coordinación general, montaje y ambientación de la exhibición de trabajos de los talleres, maestra/o de ceremonia, taller de oficios textiles patrimoniales para hasta 80 personas con materiales, amplificación y registro audiovisual. Detalle en especificaciones adjuntas."
   }
  ],
- "historial": [],
+ "historial": [
+  {
+   "codigo": "418-1538-COT26",
+   "nombre": "POR - SERVICIO ARTISTICO DE PASACALLE (SEGUN DETALLE ADJUNTO)",
+   "organismo": "SERVICIO NACIONAL DE SALUD HOSPITAL DE PUERTO AYSEN",
+   "monto": 1,
+   "cierre_iso": "2026-10-12T01:42:00-03:00",
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Ventas y marketing"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=418-1538-COT26",
+   "primera_vista_iso": "2026-10-11T21:06:47-03:00",
+   "removida_iso": "2026-10-12T07:17:55-03:00",
+   "estado_api": "",
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  }
+ ],
  "pendientes": []
 }
