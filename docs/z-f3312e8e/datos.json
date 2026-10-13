@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-10-13T14:41:53.059950-03:00",
+ "actualizado": "2026-10-13T15:51:46.524105-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
- "total_region": 159,
+ "total_region": 183,
  "rubros": {
   "25172700": "Aire acondicionado",
   "25173900": "Componentes eléctricos",
@@ -19,33 +19,6 @@
   "39121400": "Conectores, enchufes y terminales"
  },
  "filas": [
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "instalaciones eléctricas"
-   ],
-   "nueva": false,
-   "codigo": "5039-37-COT26",
-   "nombre": "CONSTRUCCIÓN MONOLITO DE IDENTIFICACIÓN HUMEDAL URBANO VIENTOS DEL CHELENKO, PUERTO INGENIERO IBÁÑEZ",
-   "organismo": "I MUNICIPALIDAD RIO IBANEZ",
-   "unidad": "SECPLAN",
-   "monto": 1500000,
-   "cierre_iso": "2026-10-13T14:39:00-03:00",
-   "publicacion": "05-10 15:20",
-   "publicacion_iso": "2026-10-05T15:20:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "72131702",
-     "Construcción de obras civiles",
-     1,
-     "Ejecución de las obras civiles, de carpintería, estructuras metálicas e instalaciones eléctricas necesarias para la construcción e instalación del Monolito Informativo del Humedal Urbano Vientos del Chelenko, ubicado en la costanera de Puerto Ingeniero Ibáñez, considerando su instalación sobre una base de hormigón preexistente, la cual será reutilizada para estos efectos."
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=5039-37-COT26",
-   "sin_detalle": false,
-   "descripcion": "Contratar, bajo la modalidad de Suma Alzada, la ejecución de las obras civiles, de carpintería, estructuras metálicas e instalaciones eléctricas necesarias para la construcción e instalación del Monolito Informativo del Humedal Urbano Vientos del Chelenko, ubicado en la costanera de Puerto Ingeniero Ibáñez, considerando su instalación sobre una base de hormigón preexistente, la cual será reutilizada para estos efectos."
-  },
   {
    "tipo": "OPORTUNIDAD",
    "motivos": [
@@ -397,6 +370,33 @@
    "descripcion": "La Corporación Nacional Forestal por medio del Departamento de Protección Contra Incendios Forestales Región de Aysén, requiere adquirir Servicio de mantención e instalación eléctrica en Base de Brigada de Villa Mañihuales, ubicada en Arturo Prat #1850, Villa Mañihuales Región de Aysén. (ver especificaciones técnicas adjuntas) y requisitos excluyentes"
   },
   {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "generador"
+   ],
+   "nueva": true,
+   "codigo": "1274667-388-COT26",
+   "nombre": "RVB - SOLICITA SERVICIO MANTENCIÓN CORRECTIVA PARA GRUPO GENERADOR  CATERPILLAR DE CENTRO DE SALUD FAMILIAR PUERTO AYSÉN",
+   "organismo": "CENTRO DE SALUD FAMILIAR PUERTO AYSÉN",
+   "unidad": "CENTRO DE SALUD FAMILIAR PUERTO AYSÉN",
+   "monto": 150000,
+   "cierre_iso": "2026-10-17T12:49:00-03:00",
+   "publicacion": "09-10 10:03",
+   "publicacion_iso": "2026-10-09T10:03:00-03:00",
+   "ofertas": 1,
+   "productos": [
+    [
+     "73152101",
+     "Servicio de mantenimiento de equipo de fabricación",
+     1,
+     "SERVICIO MANTENCIÓN CORRECTIVA PARA GRUPO GENERADOR CATERPILLAR. DETALLE EN DOCUMENTO ADJUNTO."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1274667-388-COT26",
+   "sin_detalle": false,
+   "descripcion": "ADJUNTAR COTIZACION - ADJUNTAR FICHA TECNICA PARA PODER EVALUAR CORRECTAMENTE LA OFERTA - DATOS BANCARIOS - CONTACTO PARA RESOLVER DUDAS - EN CASO DE ADJUDICACION FAVOR EMITIR DESPACHO CON GUIA - MARCAS MENCIONADAS SON SOLAMENTE REFERENCIALES. DETALLES EN DOCUMENTO ADJUNTO."
+  },
+  {
    "tipo": "OPORTUNIDAD",
    "motivos": [
     "Interruptores, controles y relés"
@@ -422,6 +422,33 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=3540-255-COT26",
    "sin_detalle": false,
    "descripcion": "Indicar plazo de entrega y datos de contacto. Se privilegiará proveedor de la región o que cuente con sucursal en Coyhaique y luego precio. Este proceso no considera ítem flete ni cargos adicionales, los costos deben estar incluidos en los valores unitarios.\n(LEER TÉRMINOS DE REFERENCIA ADJUNTO)."
+  },
+  {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Servicios eléctricos"
+   ],
+   "nueva": true,
+   "codigo": "4066-419-COT26",
+   "nombre": " MANO DE OBRA INSTALACIÓN ELÉCTRICA 2 VIVIENDAS EN LA LOCALIDAD DE PUERTO SÁNCHEZ.",
+   "organismo": "I MUNICIPALIDAD RIO IBANEZ",
+   "unidad": "DIDECO",
+   "monto": 800000,
+   "cierre_iso": "2026-10-21T09:00:00-03:00",
+   "publicacion": "13-10 15:06",
+   "publicacion_iso": "2026-10-13T15:06:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "72102201",
+     "Instalación o servicio de sistemas de energía eléctrica",
+     1,
+     "SERVICIO DE MANO DE OBRA (INSTALACIÓN ELÉCTRICA) SEGÚN TÉRMINOS DE REFERENCIA"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=4066-419-COT26",
+   "sin_detalle": false,
+   "descripcion": "Contratar mano de obra para ejecución de reparación de instalación eléctrica de 2 viviendas de la localidad de Puerto Sánchez. Consistente en obras de mejoramiento de la instalación eléctrica interior las cuales se deberán cumplir con las normativas vigente y las especificaciones técnicas adjuntas. El prestador deberá asegurar la entrega oportuna y conforme de los productos comprometidos en los plazos establecidos, coordinando permanentemente con la Unidad Técnica, según términos de referencias"
   }
  ],
  "historial": [
@@ -440,6 +467,24 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=1092-62-COT26",
    "primera_vista_iso": "2026-10-13T08:42:41-03:00",
    "removida_iso": "2026-10-13T09:52:56-03:00",
+   "estado_api": "",
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
+  {
+   "codigo": "5039-37-COT26",
+   "nombre": "CONSTRUCCIÓN MONOLITO DE IDENTIFICACIÓN HUMEDAL URBANO VIENTOS DEL CHELENKO, PUERTO INGENIERO IBÁÑEZ",
+   "organismo": "I MUNICIPALIDAD RIO IBANEZ",
+   "monto": 1500000,
+   "cierre_iso": "2026-10-13T14:39:00-03:00",
+   "tipo": "POSIBLE",
+   "motivos": [
+    "instalaciones eléctricas"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=5039-37-COT26",
+   "primera_vista_iso": "2026-10-11T21:06:47-03:00",
+   "removida_iso": "2026-10-13T15:51:46-03:00",
    "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,
@@ -538,24 +583,6 @@
    "adj_iso": null
   },
   {
-   "codigo": "1274667-388-COT26",
-   "nombre": "RVB - SOLICITA SERVICIO MANTENCIÓN CORRECTIVA PARA GRUPO GENERADOR  CATERPILLAR DE CENTRO DE SALUD FAMILIAR PUERTO AYSÉN",
-   "organismo": "CENTRO DE SALUD FAMILIAR PUERTO AYSÉN",
-   "monto": 150000,
-   "cierre_iso": "2026-10-13T08:00:00-03:00",
-   "tipo": "POSIBLE",
-   "motivos": [
-    "generador"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1274667-388-COT26",
-   "primera_vista_iso": "2026-10-11T21:06:47-03:00",
-   "removida_iso": "2026-10-13T08:42:41-03:00",
-   "estado_api": "",
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
    "codigo": "4889-39-COT26",
    "nombre": "MANTENIMIENTO SENTINA - OFICINAS SEREMI DE LAS CULTURAS",
    "organismo": "Subsecretaria de las Culturas y las Artes Región de Aysen",
@@ -593,6 +620,12 @@
   }
  ],
  "pendientes": [
+  {
+   "codigo": "657-94-COT26",
+   "nombre": " Adquisición Materiales y útiles de oficina por medio de GAS",
+   "organismo": "SERVICIO DE VIVIENDA Y URBANIZACION XI REGION",
+   "link": "https://buscador.mercadopublico.cl/ficha?code=657-94-COT26"
+  },
   {
    "codigo": "4644-86-COT26",
    "nombre": "MATERIALES DE ESCRITORIO GORE MAÑIHUALES SIC:430  SIRE:404",

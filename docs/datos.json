@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-10-13T14:41:53.059950-03:00",
+ "actualizado": "2026-10-13T15:51:46.524105-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
- "total_region": 159,
+ "total_region": 183,
  "rubros": {
   "80141600": "Ventas y marketing",
   "82101600": "Publicidad en medios no impresos",
@@ -193,6 +193,60 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=418-1580-COT26",
    "sin_detalle": false,
    "descripcion": "COTIZACIÓN DEBE TENER UNA VIGENCIA DE AL MENOS 30 DÍAS. \n\n*COTIZACIÓN DEBE INCLUIR FLETE. \n*COTIZACIÓN DEBE INCLUIR DATOS BANCARIOS. \n*DEBE INCLUIR FICHA TÉCNICA. \n*DEBE INCLUIR COTIZACIÓN (EXCLUYENTE). \n*DEBE OFERTAR POR LA TOTALIDAD DE PRODUCTOS (EXCLUYENTE). \n*ADJUNTAR TELEFONO Y/O CORREO PARA REALIZAR SEGUIMIENTO. \n*EL DOCUMENTO DE DESPACHO (FACTURA O GUIA DE DESPACHO) DEBE CONTENER NUMERO DE LOTE Y FECHA DE VENCIMIENTO PARA CUMPLIR CON NORMA TECNICA N° 226."
+  },
+  {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Ventas y marketing"
+   ],
+   "nueva": true,
+   "codigo": "418-1583-COT26",
+   "nombre": " POR - SERVICIO ARTISTICO DE PASACALLE (SEGUN DETALLE ADJUNTO)",
+   "organismo": "SERVICIO NACIONAL DE SALUD HOSPITAL DE PUERTO AYSEN",
+   "unidad": "H Puerto Aysén",
+   "monto": 1200000,
+   "cierre_iso": "2026-10-14T14:55:00-03:00",
+   "publicacion": "13-10 14:47",
+   "publicacion_iso": "2026-10-13T14:47:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "80141607",
+     "Producción de eventos",
+     1,
+     "servicio artístico de pasacalles, que permita desarrollar una intervención dinámica, visual, participativa y apta para todo público, incorporando música, danza, intervenciones circenses y elementos visuales que favorezcan la interacción con la comunidad. Fecha: Sábado 17 de Octubre de 2026 - Lugar: Calles Puerto Aysén según el siguiente recorrido - Inicio en Plaza Mahuen Horario 16:00 a 18:00 hrs Duración 2 horas"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=418-1583-COT26",
+   "sin_detalle": false,
+   "descripcion": "Se requiere contratar un servicio artístico de pasacalles, que permita desarrollar una intervención dinámica, visual, participativa y apta para todo público, incorporando música, danza, intervenciones circenses y elementos visuales que favorezcan la interacción con la comunidad. Fecha: Sábado 17 de Octubre de 2026 - Lugar: Calles Puerto Aysén según el siguiente recorrido: Inicio en Plaza Mahuen. Horario 16:00 a 18:00 hrs - Duración 2 horas"
+  },
+  {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Ventas y marketing"
+   ],
+   "nueva": true,
+   "codigo": "1332-39-COT26",
+   "nombre": "SERVICIO DE PRODUCCIÓN DE SEMINARIO DE TURISMO AYSENTIDO EN TU RELATO",
+   "organismo": "Servicio Nacional de Turismo",
+   "unidad": "Direccion Regional de Aysen",
+   "monto": 2200000,
+   "cierre_iso": "2026-10-14T16:00:00-03:00",
+   "publicacion": "13-10 15:14",
+   "publicacion_iso": "2026-10-13T15:14:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "80141607",
+     "Producción de eventos",
+     1,
+     "Contratación del “SERVICIO DE PRODUCCIÓN DE SEMINARIO DE TURISMO AYSENTIDO EN TU RELATO\", orientado a facilitar un espacio de capacitación y transferencia de conocimiento del patrimonio natural y cultural de Aysén, dirigido a guías, prestadores de servicios turísticos y comunidad en general, con el objetivo de fortalecer el relato turístico en el destino Aysén Patagonia. De acuerdo a detalle adjunto."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1332-39-COT26",
+   "sin_detalle": false,
+   "descripcion": "Se requiere la contratación del “SERVICIO DE PRODUCCIÓN DE SEMINARIO DE TURISMO AYSENTIDO EN TU RELATO\", orientado a facilitar un espacio de capacitación y transferencia de conocimiento del patrimonio natural y cultural de Aysén, dirigido a guías, prestadores de servicios turísticos y comunidad en general, con el objetivo de fortalecer el relato turístico en el destino Aysén Patagonia. Se adjunta detalle."
   },
   {
    "tipo": "OPORTUNIDAD",
@@ -401,6 +455,12 @@
   }
  ],
  "pendientes": [
+  {
+   "codigo": "657-94-COT26",
+   "nombre": " Adquisición Materiales y útiles de oficina por medio de GAS",
+   "organismo": "SERVICIO DE VIVIENDA Y URBANIZACION XI REGION",
+   "link": "https://buscador.mercadopublico.cl/ficha?code=657-94-COT26"
+  },
   {
    "codigo": "4644-86-COT26",
    "nombre": "MATERIALES DE ESCRITORIO GORE MAÑIHUALES SIC:430  SIRE:404",
