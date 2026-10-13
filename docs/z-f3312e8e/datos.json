@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-10-13T15:51:46.524105-03:00",
+ "actualizado": "2026-10-13T16:55:07.250986-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
- "total_region": 183,
+ "total_region": 200,
  "rubros": {
   "25172700": "Aire acondicionado",
   "25173900": "Componentes eléctricos",
@@ -19,33 +19,6 @@
   "39121400": "Conectores, enchufes y terminales"
  },
  "filas": [
-  {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Gasfitería, calefacción y aire acondicionado"
-   ],
-   "nueva": false,
-   "codigo": "697209-29-COT26",
-   "nombre": "Servicio mantención equipos de aire acondicionado.",
-   "organismo": "MINISTERIO PUBLICO",
-   "unidad": "FR AYSEN",
-   "monto": 4000000,
-   "cierre_iso": "2026-10-13T16:00:00-03:00",
-   "publicacion": "05-10 17:45",
-   "publicacion_iso": "2026-10-05T17:45:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "72102305",
-     "Servicios de reparación, mantenimiento o reparación de aire acondicionado",
-     74,
-     "Conforme a ubicación en documento adjunto \"CONDICIONES MÍNIMAS.pdf\". Se deberá postular por la totalidad de las dependencias."
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=697209-29-COT26",
-   "sin_detalle": false,
-   "descripcion": "La Fiscalía Regional de Aysén requiere contratar el servicio de mantención de 74 equipos de aire acondicionados en la región de Aysén. El detalle de los servicios y dirección de estos se encuentra en documento adjunto “CONDICIONES MÍNIMAS.pdf”. Se deberán adjuntar todos los certificados requeridos."
-  },
   {
    "tipo": "OPORTUNIDAD",
    "motivos": [
@@ -128,6 +101,138 @@
    "descripcion": "Provisión e instalación de cuatro (4) puntos de red y provisión e instalación de un (1) enchufe triple para oficinas de la Dirección Regional del Trabajo Región de Aysén"
   },
   {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Cables eléctricos y accesorios"
+   ],
+   "nueva": true,
+   "codigo": "1057062-457-COT26",
+   "nombre": "Equipamientos Tecnológicos Proyecto URY 20991 y FIU Territorios",
+   "organismo": "UNIVERSIDAD DE AYSEN",
+   "unidad": "Proyectos",
+   "monto": 7100000,
+   "cierre_iso": "2026-10-15T09:00:00-03:00",
+   "publicacion": "13-10 16:36",
+   "publicacion_iso": "2026-10-13T16:36:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "26121620",
+     "Cable para interconexiones",
+     9,
+     "Tipo dispositivo Hub multipuerto con Conector dual USB-A y USB-C Interfaz de conexión, se debe adjuntar oferta que acumpla al menos con lo indicado en el adjunto"
+    ],
+    [
+     "52161514",
+     "Audífonos",
+     6,
+     "Audífonos con micrófono y cancelación de ruido, se debe adjuntar oferta que acumpla al menos con lo indicado en el adjunto"
+    ],
+    [
+     "43211706",
+     "Teclados",
+     11,
+     "Kit Teclado y Mouse Inalámbrico, se debe adjuntar oferta que acumpla al menos con lo indicado en el adjunto"
+    ],
+    [
+     "43211503",
+     "Notebook, laptop o computador portátil excepto Tablet PC",
+     1,
+     "Notebook 14\" OLED, ASUS Zenbook A14 (UX3407) o equivalente, se debe adjuntar oferta que acumpla al menos con lo indicado en el adjunto"
+    ],
+    [
+     "43211509",
+     "Computadores portátiles tipo Tablet PC",
+     1,
+     "Tablet de alto desempeño tipo IPAD - Apple iPad Air M4 de 13 pulgadas Wi-Fi 512 GB o equivalente, se debe adjuntar oferta que acumpla al menos con lo indicado en el adjunto"
+    ],
+    [
+     "25173303",
+     "Sistemas informáticos para automóviles",
+     1,
+     "Computador todo en uno (All-in-One) de alto desempeño tipo IMAC -Apple iMac de 24 pulgadas con chip M4, 16 GB de memoria unificada y 256 GB SSD o equivalente, se debe adjuntar oferta que acumpla al menos con lo indicado en el adjunto"
+    ],
+    [
+     "27112718",
+     "Grabadores",
+     1,
+     "Grabadora de audio portátil profesional 360° Zoom H3-VR o equivalente, se debe adjuntar oferta que acumpla al menos con lo indicado en el adjunto"
+    ],
+    [
+     "43211503",
+     "Notebook, laptop o computador portátil excepto Tablet PC",
+     1,
+     "Notebook 15,6\" de alto desempeño, Lenovo LOQ 15i Gen 10 o equivalente, se debe adjuntar oferta que acumpla al menos con lo indicado en el adjunto"
+    ],
+    [
+     "45111620",
+     "Proyectores multimedia",
+     1,
+     "Sistema portátil de proyección (proyector y telón), Byintek P70 con telón portátil de 80 pulgadas o equivalente, se debe adjuntar oferta que acumpla al menos con lo indicado en el adjunto"
+    ],
+    [
+     "60101732",
+     "Apuntadores o punteros",
+     4,
+     "Presentador inalámbrico con receptor USB, se debe adjuntar oferta que acumpla al menos con lo indicado en el adjunto"
+    ],
+    [
+     "43201803",
+     "Discos duros",
+     5,
+     "Unidad de almacenamiento USB Flash de 1 TB de capacidad, con interfaz USB 3.0 o superior, se debe adjuntar oferta que acumpla al menos con lo indicado en el adjunto"
+    ],
+    [
+     "26121604",
+     "Cable para señales",
+     4,
+     "Cable HDMI versión 2.1 o superior, se debe adjuntar oferta que acumpla al menos con lo indicado en el adjunto"
+    ],
+    [
+     "23153202",
+     "Robots para coger y colocar",
+     5,
+     "Brazo robótico educativo y de investigación con visión artificial 3D integrada, equipado con al menos 6 grados de libertad y 6 servomotores inteligentes de alto torque para manipulación de objetos, se debe adjuntar oferta que acumpla al menos con lo indicado en el adjunto"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1057062-457-COT26",
+   "sin_detalle": false,
+   "descripcion": "Se requiere cotizar equipamiento tecnológico descrito en el presente cotizador, se debe detallar lo ofertado considerando que cumpla con al menos lo indicado en el documento adjunto, indicar el plazo de entrega el cual podría ser privilegiado, y la garantía post-venta, y considerar el envío a las dependencias de la Universidad. (plazo para aceptar la Orden de compra es de 2 días corridos, si no queda sin efecto, plazo que comienza a contar los dias de plazo. Adqusiicón asociada a multa según adj"
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "iluminación"
+   ],
+   "nueva": true,
+   "codigo": "2713-1242-COT26",
+   "nombre": "DIDECO SOL.1286, ADQUISICION DE MATERIAL ELECTRICO.",
+   "organismo": "I MUNICIPALIDAD DE AYSEN",
+   "unidad": "I.MUNICIPALIDAD AYSEN-ADQUISICIONES",
+   "monto": 100000,
+   "cierre_iso": "2026-10-15T10:00:00-03:00",
+   "publicacion": "13-10 16:26",
+   "publicacion_iso": "2026-10-13T16:26:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "32141009",
+     "Tubos fotoeléctricos",
+     10,
+     "10 tubos LED tipo T8,\npotencia de 20 W,\nlongitud aproximada de\n1200 mm, tensión de\nalimentación 220-240 V\nAC, 50/60 Hz, flujo\nluminoso mínimo de\n1600 lúmenes.\nPara uso de interior, con\nencendido instantáneo y\nsin parpadeo perceptible.\nSe aceptarán productos\nde características\ntécnicas equivalentes o\nsuperiores"
+    ],
+    [
+     "32141009",
+     "Tubos fotoeléctricos",
+     2,
+     "2 focos/proyector LED\npara iluminación\nexterior, potencia de\n50W, tensión de\nalimentación 220-240 V\nAC, equipado con sensor\nde movimiento, con\nángulo de detección\nmínimo de 120° y alcance\nmínimo de 6 metros,\ndeberá contar con grado\nde protección mínimo\nIP65, soporte de montaje\norientable y ser apto\npara instalación en\nexteriores. Se aceptarán\nproductos de\ncaracterísticas\nequivalentes o\nsuperiores"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=2713-1242-COT26",
+   "sin_detalle": false,
+   "descripcion": "COTIZACIÓN DE : material electrico. LOS COSTOS DE TRASLADOS A PUERTO AYSÉN SERÁN DEL OFERENTE. EL PLAZO DE ENTREGA SERÁN DE 10 DÍA HÁBIL, DE LO CONTRARIO SE DESCARTARAN.PROVEEDOR QUE NO INDIQUE PLAZO DE ENTREGA SE DESCARTARA. OFERENTE DEBE INCLUIR FLETES EN EL PRECIO DEL PRODUCTO. PLAZO DE ENTREGA COMIENZA A CONTAR DEL DIA HABIL SUBSIGUIENTE DEL ENVÍO DE ORDEN DE COMPRA.SE DEBE OFERTAR TODOS LOS PRODUCTOS DE LO CONTRARIO SE DESCARTARA"
+  },
+  {
    "tipo": "POSIBLE",
    "motivos": [
     "alargador",
@@ -182,6 +287,34 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=711-194-COT26",
    "sin_detalle": false,
    "descripcion": "PROCESO DE ADQUISICIÓN PARA EL SERVICIO DE LEVANTAMIENTO ELECTRICO, RETIRO E INSTALACIÓN DE EQUIUPOS DE CLIMATIZACIÓN PARA OFICINAS DE LA SEREMITT DE AYSÉN\n\nLA VISITA ENTERRENO SERÁ EL DÍA 9 DE OCTUBRE A LAS 10:00 HORAS\nVER  REQUERIMIENTO TÉCNICO"
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "certificación sec",
+    "red eléctrica"
+   ],
+   "nueva": true,
+   "codigo": "2713-1244-COT26",
+   "nombre": "DIDECO SOL.1287.Adquisición de Microondas.",
+   "organismo": "I MUNICIPALIDAD DE AYSEN",
+   "unidad": "I.MUNICIPALIDAD AYSEN-ADQUISICIONES",
+   "monto": 120000,
+   "cierre_iso": "2026-10-15T11:00:00-03:00",
+   "publicacion": "13-10 16:34",
+   "publicacion_iso": "2026-10-13T16:34:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "52141502",
+     "Hornos microondas domésticos",
+     1,
+     "Capacidad mínima: 25 litros\nPotencia mínima: 800 W\nVoltaje mínimo: 220 V\nDistintos niveles de potencia\nContar con temporizador\nContar con plato giratorio\nFunción de descongelado\n• Producto nuevo, sin uso y en su\nembalaje original\n• Compatible con la red eléctrica\nnacional\n• Contar con certificación SEC\n• Garantía mínima del fabricante o\nproveedor: 12 meses"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=2713-1244-COT26",
+   "sin_detalle": false,
+   "descripcion": "Adquisición de microondas según esoecificaciones, las ofertas deberán: incluir la totalidad de las características solicitadas, ajustarse al presupuesto disponible , el oferente asumirá COSTO DE TRANSPORTE (no desglosarlo como ítem aparte), debe indicar plazo de entrega (no se aceptara plazo de despacho y el plazo de entrega iniciará el día hábil subsiguiente al envío de la OC) debe adjuntar ficha técnica. Ofertas que no cumplan con lo anterior serán rechazadas."
   },
   {
    "tipo": "POSIBLE",
@@ -468,6 +601,24 @@
    "primera_vista_iso": "2026-10-13T08:42:41-03:00",
    "removida_iso": "2026-10-13T09:52:56-03:00",
    "estado_api": "",
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
+  {
+   "codigo": "697209-29-COT26",
+   "nombre": "Servicio mantención equipos de aire acondicionado.",
+   "organismo": "MINISTERIO PUBLICO",
+   "monto": 4000000,
+   "cierre_iso": "2026-10-13T16:00:00-03:00",
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Gasfitería, calefacción y aire acondicionado"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=697209-29-COT26",
+   "primera_vista_iso": "2026-10-11T21:06:47-03:00",
+   "removida_iso": "2026-10-13T16:55:07-03:00",
+   "estado_api": null,
    "adj_nombre": null,
    "adj_monto": null,
    "adj_iso": null

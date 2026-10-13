@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-10-13T15:51:46.524105-03:00",
+ "actualizado": "2026-10-13T16:55:07.250986-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
- "total_region": 183,
+ "total_region": 200,
  "rubros": {
   "80141600": "Ventas y marketing",
   "82101600": "Publicidad en medios no impresos",
@@ -14,33 +14,6 @@
   "83121700": "Comunicación social y de masas"
  },
  "filas": [
-  {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Ventas y marketing"
-   ],
-   "nueva": false,
-   "codigo": "1746-237-COT26",
-   "nombre": " APOYO A EJECUCIÓN JORNADA NACIONAL 30 AÑOS DE HANTAVIRUS EN CHILE",
-   "organismo": "SUBSECRETARIA DE SALUD PUBLICA",
-   "unidad": "Seremi de Salud XI Región",
-   "monto": 800000,
-   "cierre_iso": "2026-10-13T16:00:00-03:00",
-   "publicacion": "09-10 12:08",
-   "publicacion_iso": "2026-10-09T12:08:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "80141607",
-     "Producción de eventos",
-     1,
-     "APOYO A EJECUCIÓN JORNADA NACIONAL 30 AÑOS DE HANTAVIRUS EN CHILE CUMPLIR CON LA TOTALIDAD DE LAS ESPECIFICACIONES TÉCNIAS MENCIONADAS EN DOCUMENTO ADJUNTO PM N° 480 DSP ADJUNTAR PROPUESTA"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1746-237-COT26",
-   "sin_detalle": false,
-   "descripcion": "APOYO A EJECUCIÓN JORNADA NACIONAL 30 AÑOS DE HANTAVIRUS EN CHILE CUMPLIR CON LA TOTALIDAD DE LAS ESPECIFICACIONES TÉCNIAS MENCIONADAS EN DOCUMENTO ADJUNTO PM N° 480 DSP ADJUNTAR PROPUESTA"
-  },
   {
    "tipo": "POSIBLE",
    "motivos": [
@@ -222,6 +195,39 @@
    "descripcion": "Se requiere contratar un servicio artístico de pasacalles, que permita desarrollar una intervención dinámica, visual, participativa y apta para todo público, incorporando música, danza, intervenciones circenses y elementos visuales que favorezcan la interacción con la comunidad. Fecha: Sábado 17 de Octubre de 2026 - Lugar: Calles Puerto Aysén según el siguiente recorrido: Inicio en Plaza Mahuen. Horario 16:00 a 18:00 hrs - Duración 2 horas"
   },
   {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "difusión"
+   ],
+   "nueva": true,
+   "codigo": "734-178-COT26",
+   "nombre": "PENDÓN TEMÁTICA DE TUBERCULOSIS",
+   "organismo": "SERVICIO DE SALUD AYSEN CARLOS IBANEZ DEL CAMPO",
+   "unidad": "DIRECCION",
+   "monto": 79000,
+   "cierre_iso": "2026-10-14T16:00:00-03:00",
+   "publicacion": "13-10 15:56",
+   "publicacion_iso": "2026-10-13T15:56:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "55121706",
+     "Banderas",
+     1,
+     "Pendón de 80 x 200 cm.: una unidad Material lona o PVC 440 Con funda /estuche para su guardado Con pedestal, según especificaciones técnicas e imagen adjunta."
+    ],
+    [
+     "55121706",
+     "Banderas",
+     1,
+     "Mini Pendón de Mesa 20 x 40 cm. una unidad Estructura: Base metálica negra con soporte vertical liviano y fácil de montar Con funda /estuche para su guardado, según especificaciones técnicas e imagen adjunta."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=734-178-COT26",
+   "sin_detalle": false,
+   "descripcion": "Se requiere la confección de 02 Pendones (alto y mini) para apoyar las actividades de difusión del programa de Control y\nEliminación de la Tuberculosis.\nDiseño generado por Comunicaciones SSA imagen  y  especificaciones Técnicas adjuntas."
+  },
+  {
    "tipo": "OPORTUNIDAD",
    "motivos": [
     "Ventas y marketing"
@@ -247,6 +253,33 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=1332-39-COT26",
    "sin_detalle": false,
    "descripcion": "Se requiere la contratación del “SERVICIO DE PRODUCCIÓN DE SEMINARIO DE TURISMO AYSENTIDO EN TU RELATO\", orientado a facilitar un espacio de capacitación y transferencia de conocimiento del patrimonio natural y cultural de Aysén, dirigido a guías, prestadores de servicios turísticos y comunidad en general, con el objetivo de fortalecer el relato turístico en el destino Aysén Patagonia. Se adjunta detalle."
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "difusión"
+   ],
+   "nueva": true,
+   "codigo": "1521-76-COT26",
+   "nombre": "Servicio de relatoría para III Seminario STEM",
+   "organismo": "Departamento Provincial de Coyhaique",
+   "unidad": "Departamento Provincial de Coyhaique",
+   "monto": 350000,
+   "cierre_iso": "2026-10-14T17:00:00-03:00",
+   "publicacion": "13-10 16:36",
+   "publicacion_iso": "2026-10-13T16:36:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "86111604",
+     "Capacitación a empleados",
+     1,
+     "Servicio de relatoría para el dia 20-10-2026, 09.00 hrs en Hacienda Patagonia\nTDR en Adjunto"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1521-76-COT26",
+   "sin_detalle": false,
+   "descripcion": "La presente contratación de servicios de relatoría se enmarca en el Plan Regional de la Secretaría Regional Ministerial de Educación de la Región de Aysén, en el contexto de la realización del III Seminario Regional de Género, \nEste seminario constituye un espacio regional de reflexión, intercambio y difusión de prácticas pedagógicas orientadas a contribuir a la disminución de las brechas de género en el aprendizaje"
   },
   {
    "tipo": "OPORTUNIDAD",
@@ -362,6 +395,24 @@
   }
  ],
  "historial": [
+  {
+   "codigo": "1746-237-COT26",
+   "nombre": " APOYO A EJECUCIÓN JORNADA NACIONAL 30 AÑOS DE HANTAVIRUS EN CHILE",
+   "organismo": "SUBSECRETARIA DE SALUD PUBLICA",
+   "monto": 800000,
+   "cierre_iso": "2026-10-13T16:00:00-03:00",
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Ventas y marketing"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1746-237-COT26",
+   "primera_vista_iso": "2026-10-11T21:06:47-03:00",
+   "removida_iso": "2026-10-13T16:55:07-03:00",
+   "estado_api": "",
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
   {
    "codigo": "1201-174-COT26",
    "nombre": "CREDENCIALES DELEGACIÓN REGIÓN DE AYSÉN 2026 JUEGOS BINACIONALES DE LA ARAUCANÍA y PARA ARAUCANÍA",
