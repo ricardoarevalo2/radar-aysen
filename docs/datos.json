@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-10-13T16:55:07.250986-03:00",
+ "actualizado": "2026-10-13T17:57:22.028708-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
- "total_region": 200,
+ "total_region": 209,
  "rubros": {
   "80141600": "Ventas y marketing",
   "82101600": "Publicidad en medios no impresos",
@@ -282,6 +282,34 @@
    "descripcion": "La presente contratación de servicios de relatoría se enmarca en el Plan Regional de la Secretaría Regional Ministerial de Educación de la Región de Aysén, en el contexto de la realización del III Seminario Regional de Género, \nEste seminario constituye un espacio regional de reflexión, intercambio y difusión de prácticas pedagógicas orientadas a contribuir a la disminución de las brechas de género en el aprendizaje"
   },
   {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "radial",
+    "radio"
+   ],
+   "nueva": true,
+   "codigo": "4066-420-COT26",
+   "nombre": "SERVICIO DE INSTALACION DE EQUIPAMIENTO PARA LAS RADIOS MUNICIPALES DE A COMUNA",
+   "organismo": "I MUNICIPALIDAD RIO IBANEZ",
+   "unidad": "DIDECO",
+   "monto": 2000000,
+   "cierre_iso": "2026-10-14T18:00:00-03:00",
+   "publicacion": "13-10 17:31",
+   "publicacion_iso": "2026-10-13T17:31:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "43222817",
+     "Repetidores de telecomunicaciones",
+     1,
+     "instalacion equipamiento radial segun terminos de referencia"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=4066-420-COT26",
+   "sin_detalle": false,
+   "descripcion": "SE REQUIERE CONTRATAR EL SERVICIO DE INSTALACION DE EQUIPAMIENTO PARA LA RADIO MUNICIPALES, CON EL PROPOSITO DE FORTALECER LA INSFRAESTRUCTURA DE RADIODIFUSION, SE CONTEMPLA LA INSTACAION DE EQUIPAMIENTO ADQUIRIDO POR LA MUNICIPALIDAD SEGUN TERMINOS DE REFERENCIA ADJUNTO, PROVEEDOR DEBE ADJUNTAR PATENTE COMERCIAL, SERVICIO SERA CORDINADO PREVIAMENTE EL CUAL DEBE REALIZARSE A PARTIR DEL DIA 21 DE OCTUBRE EN ADELANTE"
+  },
+  {
    "tipo": "OPORTUNIDAD",
    "motivos": [
     "Ventas y marketing"
@@ -307,6 +335,45 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=4733-395-COT26",
    "sin_detalle": false,
    "descripcion": "Se requiere contratar el servicio de producción artística para concierto de navidad según especificaciones técnicas adjuntas, adjuntar cotización.-"
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "radio"
+   ],
+   "nueva": true,
+   "codigo": "1758-234-COT26",
+   "nombre": "SERVICIO DE ALOJAMIENTOS  Y ALIMENTACION JORNADA DE SEGURIDAD EDUCATIVA EN LA JUNTA",
+   "organismo": "SECRETARIA REGIONAL MINISTERIAL DE EDUCACION XI REGION",
+   "unidad": "Mineduc Administración XI Región",
+   "monto": 450000,
+   "cierre_iso": "2026-10-15T10:30:00-03:00",
+   "publicacion": "13-10 17:54",
+   "publicacion_iso": "2026-10-13T17:54:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "90111801",
+     "Habitación sencilla",
+     2,
+     "01 HABITACION SINGLE SRA. MONICA TAPIA, COORDINADORA INGRESO EL 20/10 SALIDA 21/10 BAÑO PRIVADO Y CALEFACCION CON DESAYUNO QUE CONTENGA TE O CAFE, FRUTA Y/O JUGO, PAN CON AGREGADO)\n01 HABITACION SINGLE CONDUCTOR CON INGRESO EL 20/10 SALIDA 21/10 BAÑO PRIVADO Y CALEFACCION CON DESAYUNO QUE CONTENGA TE O CAFE, FRUTA Y/O JUGO, PAN CON AGREGADO)."
+    ],
+    [
+     "90101501",
+     "Restaurantes",
+     12,
+     "12 ALMUERZOS (PARTICIPANTES, COORDINADORA Y CONDUCTOR QUE CONTENGA PLATO DE FONDO CON ALTERNATIVA PROTEICA, ACOMPAÑAMIENTO, ENSALADA/ENTRADA, POSTRE Y BEBESTIBLE SIN ALCOHOL. EL DIA 21 DE OCTUBRE SERVIDO A LAS 13:00 HRS EN LA JUNTA."
+    ],
+    [
+     "90101501",
+     "Restaurantes",
+     2,
+     "02 CENAS (COORDINADORA Y CONDUCTOR) EL 20 DE OCTUBRE SERVIDO A LAS 19:00 HRS. QUE CONTENGA PLATO DE FONDO CON ALTERNATIVA PROTEICA, ACOMPAÑAMIENTO, ENSALADA/ENTRADA, POSTRE Y BEBESTIBLE SIN ALCOHOL."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1758-234-COT26",
+   "sin_detalle": false,
+   "descripcion": "SERVICIOS DE ALOJAMIENTOS Y ALIMENTACIÓN EN LA JUNTA, CHECK-IN 20 DE OCTUBRE CON CHECK-OUT 21 DE OCTUBRE 2026. EN LA SU PROPUESTA EL PROVEEDOR DEBERÁ INDICAR LA DIRECCIÓN DONDE SE ENTREGARÁ EL SERVICIO, EL CUAL DEBE ESTAR DENTRO DEL RADIO URBANO DE LA JUNTA DE PREFERENCIALMENTE UNA UBICACIÓN CENTRAL. SE PRIVILEGIARA PROVEEDORES QUE POSEAN CERTIFICACIÓN DE SUSTENTABILIDAD Y CUENTEN CON POLÍTICAS REUTILIZACIÓN DE SABANAS Y TOALLAS Y ALIMENTACION DE ALMUERZOS Y CENAS. SEGREGACION Y RES. SANITARIA."
   },
   {
    "tipo": "OPORTUNIDAD",
@@ -506,6 +573,12 @@
   }
  ],
  "pendientes": [
+  {
+   "codigo": "4778-317-COT26",
+   "nombre": "RELE-SOLICITUD N° 9629-ADQUISICIÓN DE MATERIALES CONSTRUCCION",
+   "organismo": "SERVICIO NACIONAL DE SALUD HOSPITAL DE C",
+   "link": "https://buscador.mercadopublico.cl/ficha?code=4778-317-COT26"
+  },
   {
    "codigo": "657-94-COT26",
    "nombre": " Adquisición Materiales y útiles de oficina por medio de GAS",

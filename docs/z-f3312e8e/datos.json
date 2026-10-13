@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-10-13T16:55:07.250986-03:00",
+ "actualizado": "2026-10-13T17:57:22.028708-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
- "total_region": 200,
+ "total_region": 209,
  "rubros": {
   "25172700": "Aire acondicionado",
   "25173900": "Componentes eléctricos",
@@ -99,6 +99,33 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=4626-32-COT26",
    "sin_detalle": false,
    "descripcion": "Provisión e instalación de cuatro (4) puntos de red y provisión e instalación de un (1) enchufe triple para oficinas de la Dirección Regional del Trabajo Región de Aysén"
+  },
+  {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Materiales de física de electricidad"
+   ],
+   "nueva": true,
+   "codigo": "1057062-425-COT26",
+   "nombre": "Adquisición Batería interna recargable / pack de baterías para simulador neonatal Newborn TORY_URY 2457_FISABS 2131",
+   "organismo": "UNIVERSIDAD DE AYSEN",
+   "unidad": "Proyectos",
+   "monto": 500000,
+   "cierre_iso": "2026-10-14T17:08:00-03:00",
+   "publicacion": "22-09 11:53",
+   "publicacion_iso": "2026-09-22T11:53:00-03:00",
+   "ofertas": 2,
+   "productos": [
+    [
+     "60104906",
+     "Kits de batería",
+     1,
+     "Se requiere la adquisición de batería interna recargable (pack de pilas), destinada al reemplazo de la batería del simulador neonatal institucional, de acuerdo con las especificaciones técnicas adjuntas. Producto: Batería interna recargable / pack de pilas. Código del repuesto: 30040038A. Compatibilidad requerida: Simulador neonatal NEWBORN TORY, neonato de 40 semanas."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1057062-425-COT26",
+   "sin_detalle": false,
+   "descripcion": "Se requiere la adquisición de batería interna recargable (pack de pilas), destinada al reemplazo de la batería del simulador neonatal institucional, de acuerdo especificaciones adjuntas. Cotización debe indicar la especificación técnica de lo ofertado y el plazo de entrega, considerando la entrega de los productos en dependencias de la Universidad de Aysén y no en la empresa de transportes. El valor ofertado debe incluir impuestos y flete. Se podrá privilegiar el menor plazo ofertado."
   },
   {
    "tipo": "OPORTUNIDAD",
@@ -771,6 +798,12 @@
   }
  ],
  "pendientes": [
+  {
+   "codigo": "4778-317-COT26",
+   "nombre": "RELE-SOLICITUD N° 9629-ADQUISICIÓN DE MATERIALES CONSTRUCCION",
+   "organismo": "SERVICIO NACIONAL DE SALUD HOSPITAL DE C",
+   "link": "https://buscador.mercadopublico.cl/ficha?code=4778-317-COT26"
+  },
   {
    "codigo": "657-94-COT26",
    "nombre": " Adquisición Materiales y útiles de oficina por medio de GAS",
