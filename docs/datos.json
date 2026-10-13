@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-10-13T09:52:56.397984-03:00",
+ "actualizado": "2026-10-13T10:48:49.034874-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
- "total_region": 146,
+ "total_region": 133,
  "rubros": {
   "80141600": "Ventas y marketing",
   "82101600": "Publicidad en medios no impresos",
@@ -14,34 +14,6 @@
   "83121700": "Comunicación social y de masas"
  },
  "filas": [
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "publicidad",
-    "publicitarios"
-   ],
-   "nueva": false,
-   "codigo": "1201-174-COT26",
-   "nombre": "CREDENCIALES DELEGACIÓN REGIÓN DE AYSÉN 2026 JUEGOS BINACIONALES DE LA ARAUCANÍA y PARA ARAUCANÍA",
-   "organismo": "INSTITUTO NACIONAL DE DEPORTES DE CHILE",
-   "unidad": "I.N.D. REGION XI",
-   "monto": 150000,
-   "cierre_iso": "2026-10-13T10:00:00-03:00",
-   "publicacion": "09-10 09:42",
-   "publicacion_iso": "2026-10-09T09:42:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "82101507",
-     "Folletos y catálogos publicitarios, servicios de publicidad y distribución",
-     206,
-     "Ipresión credenciales, según TDR adjunta"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1201-174-COT26",
-   "sin_detalle": false,
-   "descripcion": "Contar con credenciales para cada integrante de las distintas delegaciones de la región\nde Aysén, representantes en los Juegos Binacionales de la Araucanía y Para Araucanía,\na realizarse en la región de Los Ríos."
-  },
   {
    "tipo": "OPORTUNIDAD",
    "motivos": [
@@ -95,6 +67,105 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=4609-277-COT26",
    "sin_detalle": false,
    "descripcion": "COTIZACION MATERIALES DE DIFUSION"
+  },
+  {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Ventas y marketing"
+   ],
+   "nueva": true,
+   "codigo": "2713-1233-COT26",
+   "nombre": "SERVICIO DE PRODUCCION. FOLIO 1275.DIDECO",
+   "organismo": "I MUNICIPALIDAD DE AYSEN",
+   "unidad": "I.MUNICIPALIDAD AYSEN-ADQUISICIONES",
+   "monto": 6990000,
+   "cierre_iso": "2026-10-14T10:30:00-03:00",
+   "publicacion": "13-10 09:55",
+   "publicacion_iso": "2026-10-13T09:55:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "80141607",
+     "Producción de eventos",
+     36,
+     "Luces Carpas. Segun Bases Tecnicas."
+    ],
+    [
+     "80141607",
+     "Producción de eventos",
+     1,
+     "Piso Carpa . Segun Bases Tecnicas."
+    ],
+    [
+     "80141607",
+     "Producción de eventos",
+     150,
+     "Servicio Mobiliario, (Montaje y desmontaje).Segun Bases Tecnicas."
+    ],
+    [
+     "80141607",
+     "Producción de eventos",
+     1,
+     "Ornamentación. Segun Bases Tecnicas."
+    ],
+    [
+     "80141607",
+     "Producción de eventos",
+     1,
+     "Servicio de Operación, Mantención y Aseo Completo del recinto (Incluye contenedores de basura). Segun Bases Tecnicas."
+    ],
+    [
+     "80141607",
+     "Producción de eventos",
+     1,
+     "Espacio Café Carpa Seminario. Segun Bases Tecnicas."
+    ],
+    [
+     "80141607",
+     "Producción de eventos",
+     1,
+     "Espacio Café Expositores. Segun Bases Tecnicas."
+    ],
+    [
+     "80141607",
+     "Producción de eventos",
+     2,
+     "Calefacción. Segun Bases Tecnicas."
+    ],
+    [
+     "80141607",
+     "Producción de eventos",
+     40,
+     "Servicio de electrificación. Segun Bases Tecnicas."
+    ],
+    [
+     "80141607",
+     "Producción de eventos",
+     1,
+     "Taller: Turismo Sostenible, Ecoturismo y Conservación.Segun Bases Tecnicas."
+    ],
+    [
+     "80141607",
+     "Producción de eventos",
+     1,
+     "Grupo Musical . Segun Bases Tecnicas."
+    ],
+    [
+     "80141607",
+     "Producción de eventos",
+     1,
+     "Grupo Folclórico . Segun Bases Tecnicas."
+    ],
+    [
+     "80141607",
+     "Producción de eventos",
+     1,
+     "Backstage . Segun Bases Tecnicas."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=2713-1233-COT26",
+   "sin_detalle": false,
+   "descripcion": "COTIZACIÓN DE : SERVICIO DE PRODUCCION. LOS COSTOS DE TRASLADOS A PUERTO AYSÉN SERÁN DEL OFERENTE. EL PLAZO DE ENTREGA ES EL DIA 17-10-26. OFERENTE DEBE INCLUIR FLETES EN EL PRECIO DEL PRODUCTO."
   },
   {
    "tipo": "OPORTUNIDAD",
@@ -183,6 +254,25 @@
   }
  ],
  "historial": [
+  {
+   "codigo": "1201-174-COT26",
+   "nombre": "CREDENCIALES DELEGACIÓN REGIÓN DE AYSÉN 2026 JUEGOS BINACIONALES DE LA ARAUCANÍA y PARA ARAUCANÍA",
+   "organismo": "INSTITUTO NACIONAL DE DEPORTES DE CHILE",
+   "monto": 150000,
+   "cierre_iso": "2026-10-13T10:00:00-03:00",
+   "tipo": "POSIBLE",
+   "motivos": [
+    "publicidad",
+    "publicitarios"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1201-174-COT26",
+   "primera_vista_iso": "2026-10-11T21:06:47-03:00",
+   "removida_iso": "2026-10-13T10:48:49-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
   {
    "codigo": "3950-651-COT26",
    "nombre": "Señaléticas de información para abastecer en postas rurales",
