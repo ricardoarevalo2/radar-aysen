@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-10-13T10:48:49.034874-03:00",
+ "actualizado": "2026-10-13T11:46:51.706093-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
- "total_region": 133,
+ "total_region": 145,
  "rubros": {
   "25172700": "Aire acondicionado",
   "25173900": "Componentes eléctricos",
@@ -209,6 +209,136 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=711-194-COT26",
    "sin_detalle": false,
    "descripcion": "PROCESO DE ADQUISICIÓN PARA EL SERVICIO DE LEVANTAMIENTO ELECTRICO, RETIRO E INSTALACIÓN DE EQUIUPOS DE CLIMATIZACIÓN PARA OFICINAS DE LA SEREMITT DE AYSÉN\n\nLA VISITA ENTERRENO SERÁ EL DÍA 9 DE OCTUBRE A LAS 10:00 HORAS\nVER  REQUERIMIENTO TÉCNICO"
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "ampolleta",
+    "ampolletas"
+   ],
+   "nueva": true,
+   "codigo": "951405-255-COT26",
+   "nombre": "(F.INT-CC.MANT.CAS.OFLES) JAL_CAJ_ADQ. DE ELECTRODOMÉSTICOS Y MATERIALES PARA REPARACIÓN DEL CASINO DE OFICIALES DEL CMC Y CIELB.",
+   "organismo": "JEFATURA ADMINISTRATIVA Y LOGISTICA DE LA GUARNICION COYHAIQUE",
+   "unidad": "JAL - Guarnición \"Coyhaique\"",
+   "monto": 3900000,
+   "cierre_iso": "2026-10-15T14:30:00-03:00",
+   "publicacion": "13-10 11:22",
+   "publicacion_iso": "2026-10-13T11:22:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "30171507",
+     "Marcos de puertas",
+     6,
+     "MARCO PUERTA 40 x 90 x 5,4 PINO"
+    ],
+    [
+     "31161606",
+     "Cerrojos de puerta",
+     24,
+     "BISAGRA 3 1/2\" ACERO"
+    ],
+    [
+     "46171503",
+     "Juegos de cerraduras",
+     8,
+     "CERRADURA PARA PUERTA POMO ACERO."
+    ],
+    [
+     "30103605",
+     "Tablas de madera",
+     26,
+     "GUARDA POLVO 13MM 4,3 x 320 PINO"
+    ],
+    [
+     "30103603",
+     "Madera de encuadre",
+     14,
+     "MADERA PINO CEPILLADO 2 x 2 x 320."
+    ],
+    [
+     "30103603",
+     "Madera de encuadre",
+     12,
+     "MADERA PINO CEPILLADO 1 x 8 x 320."
+    ],
+    [
+     "30103603",
+     "Madera de encuadre",
+     24,
+     "MADERA PINO SECO 2 x 3 x 320."
+    ],
+    [
+     "31161508",
+     "Tornillos para madera",
+     4,
+     "TORNILLO 3 PULGADAS, CAJA 100 UND."
+    ],
+    [
+     "31161508",
+     "Tornillos para madera",
+     4,
+     "TORNILLO 6 x 1 5/8, CAJA 100 UND."
+    ],
+    [
+     "13101905",
+     "Melamina (MF)",
+     12,
+     "PLANCHA MELAMINA 15 MM COLOR NOGAL."
+    ],
+    [
+     "40101825",
+     "Calentadores de agua de uso doméstico",
+     1,
+     "CÁLEFONT DE TIRO NATURAL, 11 LTS."
+    ],
+    [
+     "52141501",
+     "Refrigeradores domésticos",
+     1,
+     "REFRIGERADOR DOMÉSTICO, SISTEMA NO FROST, 2 PUERTAS, 169 LTS APROX."
+    ],
+    [
+     "47121602",
+     "Aspiradoras",
+     1,
+     "ASPIRADORA DOMÉSTICA O INDUSTRIAL CON CAPACIDAD PARA POLVO / AGUA, 10 LTS APROX."
+    ],
+    [
+     "52131501",
+     "Cortinas",
+     40,
+     "VISILLOS BLANCOS 140 x 220, CON ARGOLLA."
+    ],
+    [
+     "30171504",
+     "Puertas de madera",
+     4,
+     "PUERTA INTERIOR 75x200 ACRÍLICO."
+    ],
+    [
+     "39101605",
+     "ampolletas fluorescentes",
+     12,
+     "AMPOLLETA LED 4,3 W LF GU10"
+    ],
+    [
+     "30111601",
+     "Cemento",
+     8,
+     "CEMENTO 25 KGS"
+    ],
+    [
+     "31211502",
+     "Pinturas de base acuosa",
+     2,
+     "PINTURA MARFIL ORIENTAL TINETA."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=951405-255-COT26",
+   "sin_detalle": false,
+   "descripcion": "1) COTIZACIONES A SUMA ALZADA (TODO INLCUIDO). 2) TODA COORDINACIÓN SERÁ CON EL ADMINISTRADOR O CONTACTO PREVIO AL ENVÍO. 3) CONSIDERAR LA TOTALIDAD DE LOS BIENES SOLICITADOS Y CON STOCK DE LOS MISMOS (CONFIRMAR). 4) LA OFERTA NO DEBERÁ SOBREPASAR EL MONTO DISPONIBLE. 5) TENDRÁ UN PLAZO DE CINCO (5) DÍAS HÁBILES PARA LA ENTREGA. 6) LA ENTREGA SE REALIZARÁ EN AVDA. BAQUEDANO ESQUINA EJÉRCITO S/N.°, CIUDAD DE COYHAIQUE, REGIÓN DE AYSÉN. 7) SE PRIVILEGIARÁ AL PROVEEDOR CON ENTREGA MÁS RÁPIDA."
   },
   {
    "tipo": "POSIBLE",
