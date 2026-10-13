@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-10-13T08:42:41.772397-03:00",
+ "actualizado": "2026-10-13T09:52:56.397984-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
- "total_region": 143,
+ "total_region": 146,
  "rubros": {
   "80141600": "Ventas y marketing",
   "82101600": "Publicidad en medios no impresos",
@@ -14,60 +14,6 @@
   "83121700": "Comunicación social y de masas"
  },
  "filas": [
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "publicitarios"
-   ],
-   "nueva": false,
-   "codigo": "3950-651-COT26",
-   "nombre": "Señaléticas de información para abastecer en postas rurales",
-   "organismo": "DIRECCION SALUD RURAL",
-   "unidad": "Dirección de Salud Rural",
-   "monto": 300000,
-   "cierre_iso": "2026-10-13T09:00:00-03:00",
-   "publicacion": "09-10 16:06",
-   "publicacion_iso": "2026-10-09T16:06:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "82101501",
-     "Letreros publicitarios",
-     1,
-     "Servicio de impresión de letreros laminado en trovisel, fondo blanco con letras negras mayúsculas (14x6,8 cm)\nformato horizontal, de exterior.\n3 sala de reas\n2 sala de generador\n3 sala de caldera\n1 bodega de leña\n1 bodega de combustible\n1 entrada\n1 baño solo funcionarios\n2 box multipropósito"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=3950-651-COT26",
-   "sin_detalle": false,
-   "descripcion": "Con despacho incluido"
-  },
-  {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Ventas y marketing"
-   ],
-   "nueva": false,
-   "codigo": "1332-38-COT26",
-   "nombre": "SERVICIO DE PRODUCCIÓN DE SEMINARIO DE TURISMO AYSENTIDO EN TU RELATO",
-   "organismo": "Servicio Nacional de Turismo",
-   "unidad": "Direccion Regional de Aysen",
-   "monto": 3200000,
-   "cierre_iso": "2026-10-13T09:00:00-03:00",
-   "publicacion": "09-10 11:37",
-   "publicacion_iso": "2026-10-09T11:37:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "80141607",
-     "Producción de eventos",
-     1,
-     "Se requiere la contratación del “SERVICIO DE PRODUCCIÓN DE SEMINARIO DE TURISMO AYSENTIDO EN TU RELATO\", orientado a facilitar un espacio de capacitación y transferencia de conocimiento del patrimonio natural y cultural de Aysén, dirigido a guías, prestadores de servicios turísticos y comunidad en general, con el objetivo de fortalecer el relato turístico en el destino Aysén Patagonia. De acuerdo a detalle adjunto."
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1332-38-COT26",
-   "sin_detalle": false,
-   "descripcion": "Se requiere la contratación del “SERVICIO DE PRODUCCIÓN DE SEMINARIO DE TURISMO AYSENTIDO EN TU RELATO\", orientado a facilitar un espacio de capacitación y transferencia de conocimiento del patrimonio natural y cultural de Aysén, dirigido a guías, prestadores de servicios turísticos y comunidad en general, con el objetivo de fortalecer el relato turístico en el destino Aysén Patagonia."
-  },
   {
    "tipo": "POSIBLE",
    "motivos": [
@@ -237,6 +183,42 @@
   }
  ],
  "historial": [
+  {
+   "codigo": "3950-651-COT26",
+   "nombre": "Señaléticas de información para abastecer en postas rurales",
+   "organismo": "DIRECCION SALUD RURAL",
+   "monto": 300000,
+   "cierre_iso": "2026-10-13T09:00:00-03:00",
+   "tipo": "POSIBLE",
+   "motivos": [
+    "publicitarios"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=3950-651-COT26",
+   "primera_vista_iso": "2026-10-11T21:06:47-03:00",
+   "removida_iso": "2026-10-13T09:52:56-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
+  {
+   "codigo": "1332-38-COT26",
+   "nombre": "SERVICIO DE PRODUCCIÓN DE SEMINARIO DE TURISMO AYSENTIDO EN TU RELATO",
+   "organismo": "Servicio Nacional de Turismo",
+   "monto": 3200000,
+   "cierre_iso": "2026-10-13T09:00:00-03:00",
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Ventas y marketing"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1332-38-COT26",
+   "primera_vista_iso": "2026-10-11T21:06:47-03:00",
+   "removida_iso": "2026-10-13T09:52:56-03:00",
+   "estado_api": "",
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
   {
    "codigo": "3950-649-COT26",
    "nombre": "Afiches para promoción de prevención de colonrrectal.",

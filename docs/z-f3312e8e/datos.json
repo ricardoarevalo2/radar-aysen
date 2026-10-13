@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-10-13T08:42:41.772397-03:00",
+ "actualizado": "2026-10-13T09:52:56.397984-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
- "total_region": 143,
+ "total_region": 146,
  "rubros": {
   "25172700": "Aire acondicionado",
   "25173900": "Componentes eléctricos",
@@ -19,33 +19,6 @@
   "39121400": "Conectores, enchufes y terminales"
  },
  "filas": [
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "generador"
-   ],
-   "nueva": false,
-   "codigo": "3950-651-COT26",
-   "nombre": "Señaléticas de información para abastecer en postas rurales",
-   "organismo": "DIRECCION SALUD RURAL",
-   "unidad": "Dirección de Salud Rural",
-   "monto": 300000,
-   "cierre_iso": "2026-10-13T09:00:00-03:00",
-   "publicacion": "09-10 16:06",
-   "publicacion_iso": "2026-10-09T16:06:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "82101501",
-     "Letreros publicitarios",
-     1,
-     "Servicio de impresión de letreros laminado en trovisel, fondo blanco con letras negras mayúsculas (14x6,8 cm)\nformato horizontal, de exterior.\n3 sala de reas\n2 sala de generador\n3 sala de caldera\n1 bodega de leña\n1 bodega de combustible\n1 entrada\n1 baño solo funcionarios\n2 box multipropósito"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=3950-651-COT26",
-   "sin_detalle": false,
-   "descripcion": "Con despacho incluido"
-  },
   {
    "tipo": "POSIBLE",
    "motivos": [
@@ -382,6 +355,33 @@
    "descripcion": "La Fiscalía Regional de Aysén requiere contratar el servicio de mantención de 74 equipos de aire acondicionados en la región de Aysén. El detalle de los servicios y dirección de estos se encuentra en documento adjunto “CONDICIONES MÍNIMAS.pdf”. Se deberán adjuntar todos los certificados requeridos."
   },
   {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Gasfitería, calefacción y aire acondicionado"
+   ],
+   "nueva": true,
+   "codigo": "1274667-389-COT26",
+   "nombre": "SOLICITA SERVICIO de mantención correctiva de  sala de caldera de centro de salud  familiar puerto aysén",
+   "organismo": "CENTRO DE SALUD FAMILIAR PUERTO AYSÉN",
+   "unidad": "CENTRO DE SALUD FAMILIAR PUERTO AYSÉN",
+   "monto": 150000,
+   "cierre_iso": "2026-10-14T10:00:00-03:00",
+   "publicacion": "13-10 09:48",
+   "publicacion_iso": "2026-10-13T09:48:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "72102301",
+     "Supervisión de instalación, ajuste o mantenimiento de calderas",
+     1,
+     "servicio de mantención correctiva de sala de calderas"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1274667-389-COT26",
+   "sin_detalle": false,
+   "descripcion": "ADJUNTAR COTIZACION - ADJUNTAR FICHA TECNICA PARA PODER EVALUAR CORRECTAMENTE LA OFERTA - DATOS BANCARIOS - CONTACTO PARA RESOLVER DUDAS - EN CASO DE ADJUDICACION FAVOR EMITIR DESPACHO CON GUIA - MARCAS MENCIONADAS SON SOLAMENTE REFERENCIALES. DETALLES EN DOCUMENTO ADJUNTO."
+  },
+  {
    "tipo": "POSIBLE",
    "motivos": [
     "enchufe"
@@ -472,14 +472,14 @@
     "mantención eléctrica"
    ],
    "nueva": true,
-   "codigo": "1092-62-COT26",
+   "codigo": "1092-63-COT26",
    "nombre": "SIC N°427 SIRE N°401 Servicio de Mantención eléctrica base Mañihuales DEPRIF",
    "organismo": "CORP NACIONAL FORESTAL",
    "unidad": "XI Región - Oficina Regional de Aysén",
    "monto": 1750000,
    "cierre_iso": "2026-10-16T08:30:00-03:00",
-   "publicacion": "13-10 08:28",
-   "publicacion_iso": "2026-10-13T08:28:00-03:00",
+   "publicacion": "13-10 09:17",
+   "publicacion_iso": "2026-10-13T09:17:00-03:00",
    "ofertas": 0,
    "productos": [
     [
@@ -489,12 +489,50 @@
      "Servicio de mantención e instalación eléctrica en Base de Brigada de Villa Mañihuales DEPRIF (ver especificaciones técnicas adjuntas)"
     ]
    ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1092-62-COT26",
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1092-63-COT26",
    "sin_detalle": false,
-   "descripcion": "La Corporación Nacional Forestal por medio del Departamento de Protección Contra Incendios Forestales Región de Aysén, requiere adquirir Servicio de mantención e instalación eléctrica en Base de Brigada de Villa Mañihuales, ubicada en Arturo Prat #1850, Villa Mañihuales Región de Aysén. (ver especificaciones técnicas adjuntas)"
+   "descripcion": "La Corporación Nacional Forestal por medio del Departamento de Protección Contra Incendios Forestales Región de Aysén, requiere adquirir Servicio de mantención e instalación eléctrica en Base de Brigada de Villa Mañihuales, ubicada en Arturo Prat #1850, Villa Mañihuales Región de Aysén. (ver especificaciones técnicas adjuntas) y requisitos excluyentes"
   }
  ],
  "historial": [
+  {
+   "codigo": "1092-62-COT26",
+   "nombre": "SIC N°427 SIRE N°401 Servicio de Mantención eléctrica base Mañihuales DEPRIF",
+   "organismo": "CORP NACIONAL FORESTAL",
+   "monto": 1750000,
+   "cierre_iso": "2026-10-16T08:30:00-03:00",
+   "tipo": "POSIBLE",
+   "motivos": [
+    "electricidad",
+    "instalación eléctrica",
+    "mantención eléctrica"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1092-62-COT26",
+   "primera_vista_iso": "2026-10-13T08:42:41-03:00",
+   "removida_iso": "2026-10-13T09:52:56-03:00",
+   "estado_api": "",
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
+  {
+   "codigo": "3950-651-COT26",
+   "nombre": "Señaléticas de información para abastecer en postas rurales",
+   "organismo": "DIRECCION SALUD RURAL",
+   "monto": 300000,
+   "cierre_iso": "2026-10-13T09:00:00-03:00",
+   "tipo": "POSIBLE",
+   "motivos": [
+    "generador"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=3950-651-COT26",
+   "primera_vista_iso": "2026-10-11T21:06:47-03:00",
+   "removida_iso": "2026-10-13T09:52:56-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
   {
    "codigo": "1274667-388-COT26",
    "nombre": "RVB - SOLICITA SERVICIO MANTENCIÓN CORRECTIVA PARA GRUPO GENERADOR  CATERPILLAR DE CENTRO DE SALUD FAMILIAR PUERTO AYSÉN",
