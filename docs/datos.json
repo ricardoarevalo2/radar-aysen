@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-10-13T17:57:22.028708-03:00",
+ "actualizado": "2026-10-13T18:53:17.241903-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
- "total_region": 209,
+ "total_region": 210,
  "rubros": {
   "80141600": "Ventas y marketing",
   "82101600": "Publicidad en medios no impresos",
@@ -573,12 +573,6 @@
   }
  ],
  "pendientes": [
-  {
-   "codigo": "4778-317-COT26",
-   "nombre": "RELE-SOLICITUD N° 9629-ADQUISICIÓN DE MATERIALES CONSTRUCCION",
-   "organismo": "SERVICIO NACIONAL DE SALUD HOSPITAL DE C",
-   "link": "https://buscador.mercadopublico.cl/ficha?code=4778-317-COT26"
-  },
   {
    "codigo": "657-94-COT26",
    "nombre": " Adquisición Materiales y útiles de oficina por medio de GAS",
