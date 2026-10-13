@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-10-13T07:44:12.076022-03:00",
+ "actualizado": "2026-10-13T08:42:41.772397-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
- "total_region": 152,
+ "total_region": 143,
  "rubros": {
   "25172700": "Aire acondicionado",
   "25173900": "Componentes eléctricos",
@@ -19,33 +19,6 @@
   "39121400": "Conectores, enchufes y terminales"
  },
  "filas": [
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "generador"
-   ],
-   "nueva": false,
-   "codigo": "1274667-388-COT26",
-   "nombre": "RVB - SOLICITA SERVICIO MANTENCIÓN CORRECTIVA PARA GRUPO GENERADOR  CATERPILLAR DE CENTRO DE SALUD FAMILIAR PUERTO AYSÉN",
-   "organismo": "CENTRO DE SALUD FAMILIAR PUERTO AYSÉN",
-   "unidad": "CENTRO DE SALUD FAMILIAR PUERTO AYSÉN",
-   "monto": 150000,
-   "cierre_iso": "2026-10-13T08:00:00-03:00",
-   "publicacion": "09-10 10:03",
-   "publicacion_iso": "2026-10-09T10:03:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "73152101",
-     "Servicio de mantenimiento de equipo de fabricación",
-     1,
-     "SERVICIO MANTENCIÓN CORRECTIVA PARA GRUPO GENERADOR CATERPILLAR. DETALLE EN DOCUMENTO ADJUNTO."
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1274667-388-COT26",
-   "sin_detalle": false,
-   "descripcion": "ADJUNTAR COTIZACION - ADJUNTAR FICHA TECNICA PARA PODER EVALUAR CORRECTAMENTE LA OFERTA - DATOS BANCARIOS - CONTACTO PARA RESOLVER DUDAS - EN CASO DE ADJUDICACION FAVOR EMITIR DESPACHO CON GUIA - MARCAS MENCIONADAS SON SOLAMENTE REFERENCIALES. DETALLES EN DOCUMENTO ADJUNTO."
-  },
   {
    "tipo": "POSIBLE",
    "motivos": [
@@ -490,9 +463,56 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=711-194-COT26",
    "sin_detalle": false,
    "descripcion": "PROCESO DE ADQUISICIÓN PARA EL SERVICIO DE LEVANTAMIENTO ELECTRICO, RETIRO E INSTALACIÓN DE EQUIUPOS DE CLIMATIZACIÓN PARA OFICINAS DE LA SEREMITT DE AYSÉN\n\nLA VISITA ENTERRENO SERÁ EL DÍA 9 DE OCTUBRE A LAS 10:00 HORAS\nVER  REQUERIMIENTO TÉCNICO"
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "electricidad",
+    "instalación eléctrica",
+    "mantención eléctrica"
+   ],
+   "nueva": true,
+   "codigo": "1092-62-COT26",
+   "nombre": "SIC N°427 SIRE N°401 Servicio de Mantención eléctrica base Mañihuales DEPRIF",
+   "organismo": "CORP NACIONAL FORESTAL",
+   "unidad": "XI Región - Oficina Regional de Aysén",
+   "monto": 1750000,
+   "cierre_iso": "2026-10-16T08:30:00-03:00",
+   "publicacion": "13-10 08:28",
+   "publicacion_iso": "2026-10-13T08:28:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "83101801",
+     "Suministro de electricidad monofásica",
+     1,
+     "Servicio de mantención e instalación eléctrica en Base de Brigada de Villa Mañihuales DEPRIF (ver especificaciones técnicas adjuntas)"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1092-62-COT26",
+   "sin_detalle": false,
+   "descripcion": "La Corporación Nacional Forestal por medio del Departamento de Protección Contra Incendios Forestales Región de Aysén, requiere adquirir Servicio de mantención e instalación eléctrica en Base de Brigada de Villa Mañihuales, ubicada en Arturo Prat #1850, Villa Mañihuales Región de Aysén. (ver especificaciones técnicas adjuntas)"
   }
  ],
  "historial": [
+  {
+   "codigo": "1274667-388-COT26",
+   "nombre": "RVB - SOLICITA SERVICIO MANTENCIÓN CORRECTIVA PARA GRUPO GENERADOR  CATERPILLAR DE CENTRO DE SALUD FAMILIAR PUERTO AYSÉN",
+   "organismo": "CENTRO DE SALUD FAMILIAR PUERTO AYSÉN",
+   "monto": 150000,
+   "cierre_iso": "2026-10-13T08:00:00-03:00",
+   "tipo": "POSIBLE",
+   "motivos": [
+    "generador"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1274667-388-COT26",
+   "primera_vista_iso": "2026-10-11T21:06:47-03:00",
+   "removida_iso": "2026-10-13T08:42:41-03:00",
+   "estado_api": "",
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
   {
    "codigo": "4889-39-COT26",
    "nombre": "MANTENIMIENTO SENTINA - OFICINAS SEREMI DE LAS CULTURAS",

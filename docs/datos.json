@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-10-13T07:44:12.076022-03:00",
+ "actualizado": "2026-10-13T08:42:41.772397-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
- "total_region": 152,
+ "total_region": 143,
  "rubros": {
   "80141600": "Ventas y marketing",
   "82101600": "Publicidad en medios no impresos",
@@ -14,39 +14,6 @@
   "83121700": "Comunicación social y de masas"
  },
  "filas": [
-  {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Ventas y marketing"
-   ],
-   "nueva": false,
-   "codigo": "3950-649-COT26",
-   "nombre": "Afiches para promoción de prevención de colonrrectal.",
-   "organismo": "DIRECCION SALUD RURAL",
-   "unidad": "Dirección de Salud Rural",
-   "monto": 200000,
-   "cierre_iso": "2026-10-13T08:00:00-03:00",
-   "publicacion": "09-10 09:17",
-   "publicacion_iso": "2026-10-09T09:17:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "80141611",
-     "Personalización de regalos o productos promocionales",
-     20,
-     "Afiches A3 (29,7 × 42 cm), full color, 1 cara, couché mate 170"
-    ],
-    [
-     "80141611",
-     "Personalización de regalos o productos promocionales",
-     100,
-     "Afiches A5 (14,8 × 21 cm), full color, 1 cara, couché mate 170g"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=3950-649-COT26",
-   "sin_detalle": false,
-   "descripcion": "Con despacho incluido"
-  },
   {
    "tipo": "POSIBLE",
    "motivos": [
@@ -270,6 +237,24 @@
   }
  ],
  "historial": [
+  {
+   "codigo": "3950-649-COT26",
+   "nombre": "Afiches para promoción de prevención de colonrrectal.",
+   "organismo": "DIRECCION SALUD RURAL",
+   "monto": 200000,
+   "cierre_iso": "2026-10-13T08:00:00-03:00",
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Ventas y marketing"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=3950-649-COT26",
+   "primera_vista_iso": "2026-10-11T21:06:47-03:00",
+   "removida_iso": "2026-10-13T08:42:41-03:00",
+   "estado_api": "",
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
   {
    "codigo": "418-1538-COT26",
    "nombre": "POR - SERVICIO ARTISTICO DE PASACALLE (SEGUN DETALLE ADJUNTO)",
