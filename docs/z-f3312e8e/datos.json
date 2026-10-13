@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-10-13T13:44:04.005292-03:00",
+ "actualizado": "2026-10-13T14:41:53.059950-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
- "total_region": 162,
+ "total_region": 159,
  "rubros": {
   "25172700": "Aire acondicionado",
   "25173900": "Componentes eléctricos",
@@ -19,33 +19,6 @@
   "39121400": "Conectores, enchufes y terminales"
  },
  "filas": [
-  {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Interruptores, controles y relés"
-   ],
-   "nueva": false,
-   "codigo": "3540-255-COT26",
-   "nombre": "Contactores magnético trifásico para hormigonera Emaresa (P.2426)",
-   "organismo": "Ejercito de Chile",
-   "unidad": "Cuerpo Militar del Trabajo Subjefatura Zonal Coyhaique",
-   "monto": 300000,
-   "cierre_iso": "2026-10-13T14:00:00-03:00",
-   "publicacion": "09-10 09:23",
-   "publicacion_iso": "2026-10-09T09:23:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "39121529",
-     "Contactores",
-     2,
-     "Contactor magnético trifásico GMC (D)-9 200v cc 20a. Para mezcladora hormigonera Emaresa, año: 2010, vin:117, motor: BIR-500 380 VOLT DE 5,5 hp"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=3540-255-COT26",
-   "sin_detalle": false,
-   "descripcion": "Indicar plazo de entrega y datos de contacto. Se privilegiará proveedor de la región o que cuente con sucursal en Coyhaique y luego precio. Este proceso no considera ítem flete ni cargos adicionales, los costos deben estar incluidos en los valores unitarios.\n(LEER TÉRMINOS DE REFERENCIA ADJUNTO)."
-  },
   {
    "tipo": "POSIBLE",
    "motivos": [
@@ -422,6 +395,33 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=1092-63-COT26",
    "sin_detalle": false,
    "descripcion": "La Corporación Nacional Forestal por medio del Departamento de Protección Contra Incendios Forestales Región de Aysén, requiere adquirir Servicio de mantención e instalación eléctrica en Base de Brigada de Villa Mañihuales, ubicada en Arturo Prat #1850, Villa Mañihuales Región de Aysén. (ver especificaciones técnicas adjuntas) y requisitos excluyentes"
+  },
+  {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Interruptores, controles y relés"
+   ],
+   "nueva": false,
+   "codigo": "3540-255-COT26",
+   "nombre": "Contactores magnético trifásico para hormigonera Emaresa (P.2426)",
+   "organismo": "Ejercito de Chile",
+   "unidad": "Cuerpo Militar del Trabajo Subjefatura Zonal Coyhaique",
+   "monto": 300000,
+   "cierre_iso": "2026-10-17T18:36:00-03:00",
+   "publicacion": "09-10 09:23",
+   "publicacion_iso": "2026-10-09T09:23:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "39121529",
+     "Contactores",
+     2,
+     "Contactor magnético trifásico GMC (D)-9 200v cc 20a. Para mezcladora hormigonera Emaresa, año: 2010, vin:117, motor: BIR-500 380 VOLT DE 5,5 hp"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=3540-255-COT26",
+   "sin_detalle": false,
+   "descripcion": "Indicar plazo de entrega y datos de contacto. Se privilegiará proveedor de la región o que cuente con sucursal en Coyhaique y luego precio. Este proceso no considera ítem flete ni cargos adicionales, los costos deben estar incluidos en los valores unitarios.\n(LEER TÉRMINOS DE REFERENCIA ADJUNTO)."
   }
  ],
  "historial": [
