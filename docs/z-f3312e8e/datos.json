@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-10-14T10:58:30.555884-03:00",
+ "actualizado": "2026-10-14T11:57:42.665094-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
- "total_region": 214,
+ "total_region": 231,
  "rubros": {
   "25172700": "Aire acondicionado",
   "25173900": "Componentes eléctricos",
@@ -723,7 +723,7 @@
     "ampolleta",
     "ampolletas"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "951405-255-COT26",
    "nombre": "(F.INT-CC.MANT.CAS.OFLES) JAL_CAJ_ADQ. DE ELECTRODOMÉSTICOS Y MATERIALES PARA REPARACIÓN DEL CASINO DE OFICIALES DEL CMC Y CIELB.",
    "organismo": "JEFATURA ADMINISTRATIVA Y LOGISTICA DE LA GUARNICION COYHAIQUE",
@@ -1345,6 +1345,12 @@
    "nombre": " Adquisición Materiales y útiles de oficina por medio de GAS",
    "organismo": "SERVICIO DE VIVIENDA Y URBANIZACION XI REGION",
    "link": "https://buscador.mercadopublico.cl/ficha?code=657-94-COT26"
+  },
+  {
+   "codigo": "2042-338-COT26",
+   "nombre": "ADQUISICION  DE  DE   PHMETRO TERMOMETRO  .",
+   "organismo": "I MUNICIPALIDAD DE TORTEL",
+   "link": "https://buscador.mercadopublico.cl/ficha?code=2042-338-COT26"
   }
  ]
 }
