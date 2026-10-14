@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-10-14T13:59:10.509999-03:00",
+ "actualizado": "2026-10-14T14:56:34.813339-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
- "total_region": 234,
+ "total_region": 251,
  "rubros": {
   "80141600": "Ventas y marketing",
   "82101600": "Publicidad en medios no impresos",
@@ -277,6 +277,46 @@
    "descripcion": "COTIZACION SERVICIO PRODUCCION EVENTO"
   },
   {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "publicidad",
+    "publicitarios"
+   ],
+   "nueva": true,
+   "codigo": "3765-301-COT26",
+   "nombre": "MATERIALES PARA COMUNICACIONES ",
+   "organismo": "SERVICIO NACIONAL DE SALUD HOSPITAL DE C",
+   "unidad": "Hospital Doctor  Leopoldo Ortega Rodríguez",
+   "monto": 600000,
+   "cierre_iso": "2026-10-15T15:00:00-03:00",
+   "publicacion": "14-10 14:46",
+   "publicacion_iso": "2026-10-14T14:46:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "82101507",
+     "Folletos y catálogos publicitarios, servicios de publicidad y distribución",
+     6,
+     "TROCIVELES CON SEÑALETICA INSTITUCIONAL SSA \"POR UN BUEN TRATO Y LA PREVENCIÓN DE LA VIOLENCIA, FUNCIONARIOS Y USUARIOS SE COMPROMETEN\" TAMAÑO 70X45,5 CMS EN PVC RIGIDO DE 5MM DE ESPESOR, GRAFICA EN VINOLO ADHESIVO IMPRESIÓN DIGITAL A COLOR"
+    ],
+    [
+     "82101502",
+     "Publicidad en carteles",
+     1,
+     "PENDÓN ROLLER INSTITUCIONAL, TAMAÑO GRAFICA 2X1MTS EN TELA PVC IMPRESIÓN TOOD COLOR, CON ESTRUCTURA RETRACTIL DE ALUMINIO Y BOLSO"
+    ],
+    [
+     "82101507",
+     "Folletos y catálogos publicitarios, servicios de publicidad y distribución",
+     210,
+     "IMANES 20*15CMS, CON NUMEROS DE ATENCIÓN DEL HOSPITAL, A COLOR"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=3765-301-COT26",
+   "sin_detalle": false,
+   "descripcion": "COMPRA DE MATERIALES DE PUBLICIDAD PARA APOYO EN LA ESTRATEGIA DE COMUNICACIONES DEL ESTABLECIMIENTO. LAS OFERTAS DEBERÁN ADJUNTAR IMAGENES REFERENCIALES DE LOS PRODUCTOS OFERTADOS. LA OFERTA SELECCIONADA QUEDARÁ SUJETA A LOS DISEÑOS QUE SE INDIQUEN LUEGO DE ADJUDICADA LA COMPRA."
+  },
+  {
    "tipo": "OPORTUNIDAD",
    "motivos": [
     "Fotógrafos y camarógrafos",
@@ -333,6 +373,195 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=1282238-78-COT26",
    "sin_detalle": false,
    "descripcion": "Diseño y ejecución del Encuentro Arte, Cultura y Patrimonio el 4 de diciembre de 2026 en el Centro Cultural de Coyhaique (jornada de 4 horas), proyecto FNDR código 3465. Incluye coordinación general, montaje y ambientación de la exhibición de trabajos de los talleres, maestra/o de ceremonia, taller de oficios textiles patrimoniales para hasta 80 personas con materiales, amplificación y registro audiovisual. Detalle en especificaciones adjuntas."
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "radio"
+   ],
+   "nueva": true,
+   "codigo": "4778-319-COT26",
+   "nombre": "RELE- SOLICITUD N° 10134-MEL- MEJORAMIEN ENTORNO LABORAL-DEBE INCLUIR DESPACHO",
+   "organismo": "SERVICIO NACIONAL DE SALUD HOSPITAL DE C",
+   "unidad": "Compras de Insumos y Servicios Generales",
+   "monto": 6481800,
+   "cierre_iso": "2026-10-19T17:00:00-03:00",
+   "publicacion": "14-10 14:50",
+   "publicacion_iso": "2026-10-14T14:50:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "52141526",
+     "Cafeteras domésticas",
+     4,
+     "CAFETERA PROGRAMADA OSTER 8 TAZAS DE ACERO INOXIDABLE"
+    ],
+    [
+     "52141526",
+     "Cafeteras domésticas",
+     3,
+     "CAFETERA PROGRAMADA OSTER 8 TAZAS DE ACERO INOXIDABLE"
+    ],
+    [
+     "49121509",
+     "Cocinilla de camping",
+     1,
+     "COCINILLA ELECTRICA DE 1 PLATO"
+    ],
+    [
+     "48101711",
+     "Dispensadores de agua embotellada",
+     3,
+     "DISPENSADOR DE AGUA DE SOBRE MESA"
+    ],
+    [
+     "48101714",
+     "Dispensadores de agua caliente o termos",
+     8,
+     "DISPENSADOR DE AGUA FRIA Y CALIENTE PEDESTAL"
+    ],
+    [
+     "48101521",
+     "Cocinas económicas de uso comercial",
+     1,
+     "ENCIMERA ELECTRICA 2 QUEMADORES"
+    ],
+    [
+     "48101521",
+     "Cocinas económicas de uso comercial",
+     1,
+     "ENCIMERA ELECTRICA 2 QUEMADORES MAGEFESA (o similar)"
+    ],
+    [
+     "48101521",
+     "Cocinas económicas de uso comercial",
+     1,
+     "ENCIMERA ELECTRICA SINDELEN CEE-42511N 2 PLATOS ( o imilar)"
+    ],
+    [
+     "48101521",
+     "Cocinas económicas de uso comercial",
+     5,
+     "ESTUFA A GAS 11- 15 KG COLOR ROJO GLC"
+    ],
+    [
+     "41103011",
+     "Refrigeradores o congeladores de uso general",
+     4,
+     "FRIGOBAR 90 LITROS ILVER DF1-113 ( o similar)"
+    ],
+    [
+     "41103011",
+     "Refrigeradores o congeladores de uso general",
+     2,
+     "RREFRIGERADOR TOP FREEZER FRIO DIRECTO 168 LITOS INOX\n200DFl"
+    ],
+    [
+     "52141502",
+     "Hornos microondas domésticos",
+     13,
+     "MICROONDAS URSUS TROITER 20 LTS UT-CLASSY 720 ( o similar)"
+    ],
+    [
+     "52141502",
+     "Hornos microondas domésticos",
+     2,
+     "HORNO MICROONDAS ANALOGO 20 LT. INOZ TH20S01 (THOMAS)( o similar)"
+    ],
+    [
+     "52141519",
+     "Hornos de convección domésticos",
+     1,
+     "HORNO AIRFRYER 4 EN 1 ELECTRONDE 25 LTS"
+    ],
+    [
+     "52141534",
+     "Sandwichera eléctrica de uso doméstico",
+     2,
+     "PANINI USRSUS TROTER UT-ANKE-180"
+    ],
+    [
+     "52141534",
+     "Sandwichera eléctrica de uso doméstico",
+     5,
+     "PANINI USRSUS TROTER UT-STULK 2000"
+    ],
+    [
+     "52141534",
+     "Sandwichera eléctrica de uso doméstico",
+     1,
+     "SANDWICHERA PANINI MAKER 110W WSM- LECKERS2WUNDER"
+    ],
+    [
+     "52141534",
+     "Sandwichera eléctrica de uso doméstico",
+     1,
+     "SANDWICHERA THOMAS TH 958 ( o similar)"
+    ],
+    [
+     "52141534",
+     "Sandwichera eléctrica de uso doméstico",
+     2,
+     "PLANCHA PANINI OSTER COMPACTA"
+    ],
+    [
+     "52161511",
+     "Radios",
+     1,
+     "RADIO BOOMBOX PHILCO CON BLUETOOTH Y REPRODUCTOR CD ( o similar)"
+    ],
+    [
+     "52161511",
+     "Radios",
+     4,
+     "RADIO RETRO PORTATIL AM/FM CON BLUETOOTH RECARGABLE"
+    ],
+    [
+     "52161511",
+     "Radios",
+     2,
+     "RADIO RETRO PORTATIL AM/FM CON BLUETOOTH RECARGABLE"
+    ],
+    [
+     "40101604",
+     "Ventiladores",
+     1,
+     "VENTILADOR 3 EN 1 16\" OSCILANTE 50W CONTROL REMOTO MASTER-G\nMGF316B NEGRO (o similar )"
+    ],
+    [
+     "40101604",
+     "Ventiladores",
+     3,
+     "VENTILADOR 3 EN 1 16\" BLANCO"
+    ],
+    [
+     "52161505",
+     "Televisores convencionales, de plasma y LCD",
+     1,
+     "TELEVISOR SAMSUNG 32\" HD H5000F SMARTTV"
+    ],
+    [
+     "52161512",
+     "Parlantes",
+     2,
+     "PARLANTE BLUETOOH PORTATIL 7W AWSSTOBT AIWA ( o similar)"
+    ],
+    [
+     "45111609",
+     "Proyectores multimedia",
+     1,
+     "PROYECTOR ANDROI PHILCO ( o similar)"
+    ],
+    [
+     "52141519",
+     "Hornos de convección domésticos",
+     5,
+     "HORNO ELECTRICO 25 LITROS NEGRO"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=4778-319-COT26",
+   "sin_detalle": false,
+   "descripcion": "Proyecto MEL,se solicita según Resolución Exenta NO 3032/2026 del 17-08-2026 según Clasificador Presupuestario al subtitulo 29.05,se requiere la compra de articulos segun anexo seran consideradas las ofertas listado completo.SE REQUIERE COTIZAR TODOS LOS ARTICULOS,INCLUIR DESPACHO."
   }
  ],
  "historial": [
