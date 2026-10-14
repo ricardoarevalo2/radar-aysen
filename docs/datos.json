@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-10-14T08:56:23.498151-03:00",
+ "actualizado": "2026-10-14T10:07:19.817217-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
- "total_region": 209,
+ "total_region": 204,
  "rubros": {
   "80141600": "Ventas y marketing",
   "82101600": "Publicidad en medios no impresos",
@@ -14,33 +14,6 @@
   "83121700": "Comunicación social y de masas"
  },
  "filas": [
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "difusion"
-   ],
-   "nueva": false,
-   "codigo": "4609-277-COT26",
-   "nombre": "MATERIALES DE DIFUSION ",
-   "organismo": "I MUNICIPALIDAD DE CHILE CHICO",
-   "unidad": "Finanzas",
-   "monto": 288000,
-   "cierre_iso": "2026-10-14T10:00:00-03:00",
-   "publicacion": "09-10 09:38",
-   "publicacion_iso": "2026-10-09T09:38:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "55101505",
-     "Publicaciones",
-     1,
-     "MATERIAL DE DIFUSION DE SENDA (Detalle en TDR adjunto)."
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=4609-277-COT26",
-   "sin_detalle": false,
-   "descripcion": "COTIZACION MATERIALES DE DIFUSION"
-  },
   {
    "tipo": "OPORTUNIDAD",
    "motivos": [
@@ -462,6 +435,24 @@
   }
  ],
  "historial": [
+  {
+   "codigo": "4609-277-COT26",
+   "nombre": "MATERIALES DE DIFUSION ",
+   "organismo": "I MUNICIPALIDAD DE CHILE CHICO",
+   "monto": 288000,
+   "cierre_iso": "2026-10-14T10:00:00-03:00",
+   "tipo": "POSIBLE",
+   "motivos": [
+    "difusion"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=4609-277-COT26",
+   "primera_vista_iso": "2026-10-11T21:06:47-03:00",
+   "removida_iso": "2026-10-14T10:07:19-03:00",
+   "estado_api": "",
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
   {
    "codigo": "1746-237-COT26",
    "nombre": " APOYO A EJECUCIÓN JORNADA NACIONAL 30 AÑOS DE HANTAVIRUS EN CHILE",
