@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-10-14T10:07:19.817217-03:00",
+ "actualizado": "2026-10-14T10:58:30.555884-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
- "total_region": 204,
+ "total_region": 214,
  "rubros": {
   "80141600": "Ventas y marketing",
   "82101600": "Publicidad en medios no impresos",
@@ -14,105 +14,6 @@
   "83121700": "Comunicación social y de masas"
  },
  "filas": [
-  {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Ventas y marketing"
-   ],
-   "nueva": true,
-   "codigo": "2713-1233-COT26",
-   "nombre": "SERVICIO DE PRODUCCION. FOLIO 1275.DIDECO",
-   "organismo": "I MUNICIPALIDAD DE AYSEN",
-   "unidad": "I.MUNICIPALIDAD AYSEN-ADQUISICIONES",
-   "monto": 6990000,
-   "cierre_iso": "2026-10-14T10:30:00-03:00",
-   "publicacion": "13-10 09:55",
-   "publicacion_iso": "2026-10-13T09:55:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "80141607",
-     "Producción de eventos",
-     36,
-     "Luces Carpas. Segun Bases Tecnicas."
-    ],
-    [
-     "80141607",
-     "Producción de eventos",
-     1,
-     "Piso Carpa . Segun Bases Tecnicas."
-    ],
-    [
-     "80141607",
-     "Producción de eventos",
-     150,
-     "Servicio Mobiliario, (Montaje y desmontaje).Segun Bases Tecnicas."
-    ],
-    [
-     "80141607",
-     "Producción de eventos",
-     1,
-     "Ornamentación. Segun Bases Tecnicas."
-    ],
-    [
-     "80141607",
-     "Producción de eventos",
-     1,
-     "Servicio de Operación, Mantención y Aseo Completo del recinto (Incluye contenedores de basura). Segun Bases Tecnicas."
-    ],
-    [
-     "80141607",
-     "Producción de eventos",
-     1,
-     "Espacio Café Carpa Seminario. Segun Bases Tecnicas."
-    ],
-    [
-     "80141607",
-     "Producción de eventos",
-     1,
-     "Espacio Café Expositores. Segun Bases Tecnicas."
-    ],
-    [
-     "80141607",
-     "Producción de eventos",
-     2,
-     "Calefacción. Segun Bases Tecnicas."
-    ],
-    [
-     "80141607",
-     "Producción de eventos",
-     40,
-     "Servicio de electrificación. Segun Bases Tecnicas."
-    ],
-    [
-     "80141607",
-     "Producción de eventos",
-     1,
-     "Taller: Turismo Sostenible, Ecoturismo y Conservación.Segun Bases Tecnicas."
-    ],
-    [
-     "80141607",
-     "Producción de eventos",
-     1,
-     "Grupo Musical . Segun Bases Tecnicas."
-    ],
-    [
-     "80141607",
-     "Producción de eventos",
-     1,
-     "Grupo Folclórico . Segun Bases Tecnicas."
-    ],
-    [
-     "80141607",
-     "Producción de eventos",
-     1,
-     "Backstage . Segun Bases Tecnicas."
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=2713-1233-COT26",
-   "sin_detalle": false,
-   "descripcion": "COTIZACIÓN DE : SERVICIO DE PRODUCCION. LOS COSTOS DE TRASLADOS A PUERTO AYSÉN SERÁN DEL OFERENTE. EL PLAZO DE ENTREGA ES EL DIA 17-10-26. OFERENTE DEBE INCLUIR FLETES EN EL PRECIO DEL PRODUCTO."
-  },
   {
    "tipo": "POSIBLE",
    "motivos": [
@@ -349,6 +250,33 @@
    "descripcion": "SERVICIOS DE ALOJAMIENTOS Y ALIMENTACIÓN EN LA JUNTA, CHECK-IN 20 DE OCTUBRE CON CHECK-OUT 21 DE OCTUBRE 2026. EN LA SU PROPUESTA EL PROVEEDOR DEBERÁ INDICAR LA DIRECCIÓN DONDE SE ENTREGARÁ EL SERVICIO, EL CUAL DEBE ESTAR DENTRO DEL RADIO URBANO DE LA JUNTA DE PREFERENCIALMENTE UNA UBICACIÓN CENTRAL. SE PRIVILEGIARA PROVEEDORES QUE POSEAN CERTIFICACIÓN DE SUSTENTABILIDAD Y CUENTEN CON POLÍTICAS REUTILIZACIÓN DE SABANAS Y TOALLAS Y ALIMENTACION DE ALMUERZOS Y CENAS. SEGREGACION Y RES. SANITARIA."
   },
   {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "publicitarios"
+   ],
+   "nueva": true,
+   "codigo": "3949-256-COT26",
+   "nombre": "PENDON ROLLER CON LOGO INSTITUCIONAL",
+   "organismo": "CONSULTORIO GENERAL URBANO DR ALEJANDRO GUTIERREZ",
+   "unidad": "ID 3949 - CESFAM Dr Alejandro Gutiérrez",
+   "monto": 600000,
+   "cierre_iso": "2026-10-15T11:00:00-03:00",
+   "publicacion": "14-10 10:45",
+   "publicacion_iso": "2026-10-14T10:45:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "82101501",
+     "Letreros publicitarios",
+     10,
+     "SE REQUIERE ADQUIRIR PENDON ROLLER DE 80x200 cm EN TELA PVC O PAPEL SINTETICO CON ESTRUCTURA RETRACTIL Y BOLSO DE TRANSPORTE, CON LOGO INSTITUCIONAL A COLOR Y FONDO AZUL (LOGO SE ENVIARA A QUIEN SE ADJUDIQUE LA COMPRA). PROVEEDOR LOCAL. ENVIO Y DESPACHO INCLUIDO. ENVIAR COTIZACION CON IMAGEN DE LO OFERTADO."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=3949-256-COT26",
+   "sin_detalle": false,
+   "descripcion": "SE REQUIERE ADQUIRIR PENDON ROLLER DE 80x200 cm EN TELA PVC O PAPEL SINTETICO CON ESTRUCTURA RETRACTIL Y BOLSO DE TRANSPORTE, CON LOGO INSTITUCIONAL A COLOR Y FONDO AZUL (LOGO SE ENVIARA A QUIEN SE ADJUDIQUE LA COMPRA). PROVEEDOR LOCAL. ENVIO Y DESPACHO INCLUIDO. ENVIAR COTIZACION CON IMAGEN REFERENCIAL DE LO OFERTADO."
+  },
+  {
    "tipo": "OPORTUNIDAD",
    "motivos": [
     "Ventas y marketing"
@@ -435,6 +363,24 @@
   }
  ],
  "historial": [
+  {
+   "codigo": "2713-1233-COT26",
+   "nombre": "SERVICIO DE PRODUCCION. FOLIO 1275.DIDECO",
+   "organismo": "I MUNICIPALIDAD DE AYSEN",
+   "monto": 6990000,
+   "cierre_iso": "2026-10-14T10:30:00-03:00",
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Ventas y marketing"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=2713-1233-COT26",
+   "primera_vista_iso": "2026-10-13T10:48:49-03:00",
+   "removida_iso": "2026-10-14T10:58:30-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
   {
    "codigo": "4609-277-COT26",
    "nombre": "MATERIALES DE DIFUSION ",
