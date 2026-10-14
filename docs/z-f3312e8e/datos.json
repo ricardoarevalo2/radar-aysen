@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-10-14T17:55:42.291863-03:00",
+ "actualizado": "2026-10-14T18:54:51.429274-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
- "total_region": 266,
+ "total_region": 265,
  "rubros": {
   "25172700": "Aire acondicionado",
   "25173900": "Componentes eléctricos",
@@ -1459,6 +1459,285 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=4066-419-COT26",
    "sin_detalle": false,
    "descripcion": "Contratar mano de obra para ejecución de reparación de instalación eléctrica de 2 viviendas de la localidad de Puerto Sánchez. Consistente en obras de mejoramiento de la instalación eléctrica interior las cuales se deberán cumplir con las normativas vigente y las especificaciones técnicas adjuntas. El prestador deberá asegurar la entrega oportuna y conforme de los productos comprometidos en los plazos establecidos, coordinando permanentemente con la Unidad Técnica, según términos de referencias"
+  },
+  {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Conectores, enchufes y terminales"
+   ],
+   "nueva": true,
+   "codigo": "1449-12-COT26",
+   "nombre": "Adquisición de materiales de oficina ",
+   "organismo": "FONDO DE SOLIDARIDAD E INVERSION SOCIAL",
+   "unidad": "11 - Región de Aysen General Carlos Ibanez del C.",
+   "monto": 2000000,
+   "cierre_iso": "2026-10-21T15:00:00-03:00",
+   "publicacion": "14-10 16:08",
+   "publicacion_iso": "2026-10-14T16:08:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "44122022",
+     "Accesorios para carpetas con anillados",
+     10,
+     "10 Archivadores tamaño oficio, lomo ancho, con palanca metálica, cubierta rígida y resistente para uso de oficina."
+    ],
+    [
+     "39121402",
+     "Enchufes eléctricos",
+     3,
+     "Alargador eléctrico de 5 metros, con mínimo 4 tomas, interruptor de encendido/apagado y piloto luminoso. Capacidad mínima de \n10 A, 250 V y 2.300 W. Enchufe y tomas con conexión a tierra (2P+T). Material plástico auto extinguible. Debe contar con certificación SEC vigente y sello verificable."
+    ],
+    [
+     "44111521",
+     "Sujetapapeles",
+     6,
+     "Anotador con apretador \tAnotador tamaño oficio, con cubierta plástica, sujetador metálico para documentos y tapa protectora."
+    ],
+    [
+     "55121616",
+     "Banderitas autoadhesivas",
+     18,
+     "Banderitas destacadoras adhesivas, removibles, en colores variados, en formato blister."
+    ],
+    [
+     "44121804",
+     "Borradores",
+     3,
+     "Borrador de pizarra \tBorrador para pizarra acrílica."
+    ],
+    [
+     "44111515",
+     "Organizadores o cajas de almacenamiento de archivos",
+     20,
+     "Caja de archivo de tamaño aproximado 260 × 302 × 420 mm. Material resistente para uso de oficina."
+    ],
+    [
+     "44111515",
+     "Organizadores o cajas de almacenamiento de archivos",
+     15,
+     "Caja de archivo de dimensiones aproximadas 38 × 25 × 15 cm. Material resistente para uso de oficina."
+    ],
+    [
+     "44101801",
+     "Calculadoras o accesorios",
+     3,
+     "Calculadora electrónica de escritorio, con pantalla LCD de mínimo \n12 dígitos, pantalla inclinada y base antideslizante. Debe incorporar, como mínimo, funciones GT, M+, M-, MC, MR, MU, selectores deslizantes de redondeo y decimales, doble cero (00) y porcentaje (%). Alimentación mediante energía solar y pilas. Cuerpo de material plástico de alta resistencia. Dimensiones aproximadas de 16 cm de ancho por 21 cm de largo y 3,5 cm de alto."
+    ],
+    [
+     "44122011",
+     "Carpetas para archivos",
+     6,
+     "Carpeta plástica tipo sobre, tamaño oficio, para almacenamiento y protección de documentos, con sistema de cierre tipo solapa y elásticos."
+    ],
+    [
+     "44122011",
+     "Carpetas para archivos",
+     15,
+     "Carpeta con 40 fundas transparentes para hojas tamaño oficio."
+    ],
+    [
+     "31201512",
+     "Cinta Transparente",
+     24,
+     "Cinta adhesiva transparente de 19 mm x 33 metros de largo."
+    ],
+    [
+     "31201512",
+     "Cinta Transparente",
+     10,
+     "Cinta adhesiva Masking tape, de 36 mm de ancho por 40 metros de largo."
+    ],
+    [
+     "31201517",
+     "Cinta para empaquetar",
+     10,
+     "Cinta adhesiva para embalaje, transparente, de 48 mm de ancho por 40 metros de largo."
+    ],
+    [
+     "44121615",
+     "Corcheteras",
+     3,
+     "Corchetera de escritorio grande, de estructura resistente con cuerpo interior metálico, cubierta de goma suave, carga frontal con botón, guía de papel ajustable, base antideslizante, capacidad de hasta 25 hojas y compatible con corchetes estándar 26/6."
+    ],
+    [
+     "44121615",
+     "Corcheteras",
+     3,
+     "Corchete estándar 26/6. Caja 5.000 unidades"
+    ],
+    [
+     "44121801",
+     "Cinta correctora",
+     30,
+     "Corrector en cinta, 5 mm de ancho y 8 metros de longitud."
+    ],
+    [
+     "14111531",
+     "Libros o cuadernos de registro",
+     15,
+     "Cuaderno 100 hojas, tamaño 17 × 21 cm, hojas de 7 mm, tapa dura y encuadernación espiral simple."
+    ],
+    [
+     "44121612",
+     "Cuchillos cartoneros",
+     3,
+     "Cuchillo cartonero grande, hoja 18mm, con cuerpo metálico y sistema de seguridad para protección durante su utilización."
+    ],
+    [
+     "44121626",
+     "Dedales",
+     1,
+     "Dedal de goma \tCaja de 12 unidades, talla M."
+    ],
+    [
+     "44121708",
+     "Marcadores",
+     15,
+     "Destacadores de variados colores. Ejemplo de tonalidades como amarillo, verde, colores pastel, naranjo, etc."
+    ],
+    [
+     "44121605",
+     "Dispensador de cinta",
+     3,
+     "Dispensador de escritorio para cinta adhesiva, con base pesada antideslizante y cuchilla de acero inoxidable, compatible con cintas de 19mm x 33 m."
+    ],
+    [
+     "44111501",
+     "Soportes o dispensadores de mensajes",
+     3,
+     "Dispensador de notas continuas \tDispensador de escritorio para notas adhesivas continuas tipo acordeón, compatible con blocks de mínimo 100 hojas."
+    ],
+    [
+     "44121704",
+     "Lápiz pasta",
+     2,
+     "Caja de 50 unidades de lápices pasta, tinta color azul, punta media de 1,0 mm."
+    ],
+    [
+     "44112001",
+     "Libretas de direcciones",
+     4,
+     "Libreta bitácora \tLibreta bitácora 100 Hjs. Hoja de ruta control de vehículo"
+    ],
+    [
+     "14111530",
+     "Notas de papel autoadhesivo",
+     15,
+     "Notas adhesivas de papel, de 100 hojas, dimensiones 3,8 × 4,8 cm, con adhesivo removible."
+    ],
+    [
+     "14111530",
+     "Notas de papel autoadhesivo",
+     20,
+     "Notas adhesivas de papel en formato continuo tipo acordeón, compatibles con dispensador, block de mínimo 100 hojas."
+    ],
+    [
+     "44111503",
+     "Bandejas de correspondencia",
+     3,
+     "Organizador de escritorio \tBandeja organizadora metálica para escritorio, de 3 niveles."
+    ],
+    [
+     "60105704",
+     "Barras de pegamento libres de ácido",
+     12,
+     "Pegamento en barra \tAdhesivo sólido en barra, de alta adherencia, peso mínimo 40 g, con tapa hermética para evitar su secado."
+    ],
+    [
+     "45101508",
+     "Perforadoras",
+     3,
+     "Perforadora de oficina, capacidad de perforación para 30 hojas o más, cuerpo metálico, 2 punzones de acero, perforación 80mm."
+    ],
+    [
+     "45101508",
+     "Perforadoras",
+     1,
+     "Perforadora oficina, capacidad de perforación para 100 hojas, cuerpo metálico, 2 punzones de acero de 6mm, distancia 80mm, con guía regulable y base antideslizante."
+    ],
+    [
+     "44111905",
+     "Pizarras para plumón y accesorios",
+     3,
+     "Pizarra acrílica de 60 × 80 cm, con marco de aluminio."
+    ],
+    [
+     "44121708",
+     "Marcadores",
+     12,
+     "Plumón permanente, apto para escritura sobre distintas superficies. Distribución: 3 unidades color azul y 3 unidades color negro."
+    ],
+    [
+     "44121708",
+     "Marcadores",
+     18,
+     "Plumón para pizarra acrílica, colores azul y negro. Distribución: 9 unidades color azul y 9 unidades color negro."
+    ],
+    [
+     "44111514",
+     "Porta timbres",
+     3,
+     "Dispensador porta clips de escritorio, formato blíster, con sistema de sujeción magnética para facilitar la extracción de clips."
+    ],
+    [
+     "44111509",
+     "Portalápiz",
+     3,
+     "Dispensador porta clips de escritorio, formato blíster, con sistema de sujeción magnética para facilitar la extracción de clips."
+    ],
+    [
+     "41111604",
+     "Reglas",
+     3,
+     "Regla de 30 cm de longitud, fabricada en acero inoxidable, con graduación visible en centímetros y milímetros."
+    ],
+    [
+     "14111507",
+     "Papel para fotocopiadora o impresora",
+     20,
+     "Resma de hojas tamaño \noficio \tResma de papel blanco, tamaño oficio."
+    ],
+    [
+     "14111507",
+     "Papel para fotocopiadora o impresora",
+     30,
+     "Resma de hojas tamaño carta \tResma de papel blanco, tamaño carta."
+    ],
+    [
+     "44121612",
+     "Cuchillos cartoneros",
+     3,
+     "Repuesto cuchillo cartonero \tRepuesto Cuchillo Cartonero 18 mm. Caja 10 unidades."
+    ],
+    [
+     "44122010",
+     "Divisores",
+     20,
+     "Separadores de cartulina para archivadores tamaño oficio, organizados en set de 12 unidades, con identificación visible para clasificación de documentos."
+    ],
+    [
+     "44121604",
+     "Timbres y sellos",
+     6,
+     "Tampón de tinta para impresión dactilar, con almohadilla de tinta y tapa de protección para evitar el secado."
+    ],
+    [
+     "44121618",
+     "Tijeras",
+     3,
+     "Tijera de oficina, longitud mínima de 19 cm, hojas de acero inoxidable y mango ergonómico."
+    ],
+    [
+     "60121702",
+     "Tinta para timbres",
+     6,
+     "Tinta para recarga de huellero dactilar, a base de agua, no tóxica, color negro, de secado rápido, en frasco dosificador de 30 a 50 ml, compatible con almohadillas estándar, en envase original sellado."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1449-12-COT26",
+   "sin_detalle": false,
+   "descripcion": "revisar terminos tecnicos de areferencia adjunto con detalles de bienes y anexs para pstular"
   }
  ],
  "historial": [
@@ -1702,12 +1981,6 @@
   }
  ],
  "pendientes": [
-  {
-   "codigo": "1449-12-COT26",
-   "nombre": "Adquisición de materiales de oficina ",
-   "organismo": "FONDO DE SOLIDARIDAD E INVERSION SOCIAL",
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1449-12-COT26"
-  },
   {
    "codigo": "657-94-COT26",
    "nombre": " Adquisición Materiales y útiles de oficina por medio de GAS",

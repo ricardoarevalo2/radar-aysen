@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-10-14T17:55:42.291863-03:00",
+ "actualizado": "2026-10-14T18:54:51.429274-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
- "total_region": 266,
+ "total_region": 265,
  "rubros": {
   "80141600": "Ventas y marketing",
   "82101600": "Publicidad en medios no impresos",
@@ -14,34 +14,6 @@
   "83121700": "Comunicación social y de masas"
  },
  "filas": [
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "radial",
-    "radio"
-   ],
-   "nueva": true,
-   "codigo": "4066-420-COT26",
-   "nombre": "SERVICIO DE INSTALACION DE EQUIPAMIENTO PARA LAS RADIOS MUNICIPALES DE A COMUNA",
-   "organismo": "I MUNICIPALIDAD RIO IBANEZ",
-   "unidad": "DIDECO",
-   "monto": 2000000,
-   "cierre_iso": "2026-10-14T18:00:00-03:00",
-   "publicacion": "13-10 17:31",
-   "publicacion_iso": "2026-10-13T17:31:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "43222817",
-     "Repetidores de telecomunicaciones",
-     1,
-     "instalacion equipamiento radial segun terminos de referencia"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=4066-420-COT26",
-   "sin_detalle": false,
-   "descripcion": "SE REQUIERE CONTRATAR EL SERVICIO DE INSTALACION DE EQUIPAMIENTO PARA LA RADIO MUNICIPALES, CON EL PROPOSITO DE FORTALECER LA INSFRAESTRUCTURA DE RADIODIFUSION, SE CONTEMPLA LA INSTACAION DE EQUIPAMIENTO ADQUIRIDO POR LA MUNICIPALIDAD SEGUN TERMINOS DE REFERENCIA ADJUNTO, PROVEEDOR DEBE ADJUNTAR PATENTE COMERCIAL, SERVICIO SERA CORDINADO PREVIAMENTE EL CUAL DEBE REALIZARSE A PARTIR DEL DIA 21 DE OCTUBRE EN ADELANTE"
-  },
   {
    "tipo": "OPORTUNIDAD",
    "motivos": [
@@ -74,7 +46,7 @@
    "motivos": [
     "radio"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "1758-234-COT26",
    "nombre": "SERVICIO DE ALOJAMIENTOS  Y ALIMENTACION JORNADA DE SEGURIDAD EDUCATIVA EN LA JUNTA",
    "organismo": "SECRETARIA REGIONAL MINISTERIAL DE EDUCACION XI REGION",
@@ -506,6 +478,25 @@
  ],
  "historial": [
   {
+   "codigo": "4066-420-COT26",
+   "nombre": "SERVICIO DE INSTALACION DE EQUIPAMIENTO PARA LAS RADIOS MUNICIPALES DE A COMUNA",
+   "organismo": "I MUNICIPALIDAD RIO IBANEZ",
+   "monto": 2000000,
+   "cierre_iso": "2026-10-14T18:00:00-03:00",
+   "tipo": "POSIBLE",
+   "motivos": [
+    "radial",
+    "radio"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=4066-420-COT26",
+   "primera_vista_iso": "2026-10-13T17:57:22-03:00",
+   "removida_iso": "2026-10-14T18:54:51-03:00",
+   "estado_api": "",
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
+  {
    "codigo": "1521-76-COT26",
    "nombre": "Servicio de relatoría para III Seminario STEM",
    "organismo": "Departamento Provincial de Coyhaique",
@@ -742,12 +733,6 @@
   }
  ],
  "pendientes": [
-  {
-   "codigo": "1449-12-COT26",
-   "nombre": "Adquisición de materiales de oficina ",
-   "organismo": "FONDO DE SOLIDARIDAD E INVERSION SOCIAL",
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1449-12-COT26"
-  },
   {
    "codigo": "657-94-COT26",
    "nombre": " Adquisición Materiales y útiles de oficina por medio de GAS",
