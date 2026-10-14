@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-10-14T11:57:42.665094-03:00",
+ "actualizado": "2026-10-14T13:02:14.482324-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
- "total_region": 231,
+ "total_region": 235,
  "rubros": {
   "25172700": "Aire acondicionado",
   "25173900": "Componentes eléctricos",
@@ -24,7 +24,7 @@
    "motivos": [
     "aire acondicionado"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "4778-316-COT26",
    "nombre": "EQUIPO DE AIRE ACONDICIONADO A PARED-CIELO 9.000 BTU/H",
    "organismo": "SERVICIO NACIONAL DE SALUD HOSPITAL DE C",
@@ -852,7 +852,7 @@
    "motivos": [
     "Enfriamiento (aires acondicionados)"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "1104680-15-COT26",
    "nombre": "ADQUISICION E INSTALACION DE SISTEMA DE CLIMATIZACION EN RECINTO \"CASA SENDA \"",
    "organismo": "SERVICIO NACIONAL DE SALUD HOSPITAL DE C",
@@ -873,6 +873,35 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=1104680-15-COT26",
    "sin_detalle": false,
    "descripcion": "ADQUISICION E INSTALACION DE SISTEMA DE CLIMATIZACION EN RECINTO \"CASA SENDA \" UBICADA EN CALLE JOSE MIGUEL CARRERA s/n, COMUNA DE CHILE CHICO, REGION DE AYSEN , INCLUYENDO SUMINISTROS DE EQUIPOS, TRASLADO, ISNTALACION Y PUESTA EN FUNCIONAMIENTO, EQUIPOS CONSIDERADOS :\n- 1 EQUIPO AIRE ACONDICIONADO multi split 5x1 de 9000 BTU C/U\n- 1 EQUIPO AIRE ACONDICIONADO SPLIT INVERTER DE 22000 BTU O SUPERIOR \n- 1 EQUIPO AIRE ACONDICIONADO SPLIT INVERTER DE 12000 BTU \nSE ADJUNTA INFORMACION Y PLANO REFEREN."
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "electricidad",
+    "instalación eléctrica",
+    "mantención eléctrica"
+   ],
+   "nueva": false,
+   "codigo": "1092-63-COT26",
+   "nombre": "SIC N°427 SIRE N°401 Servicio de Mantención eléctrica base Mañihuales DEPRIF",
+   "organismo": "CORP NACIONAL FORESTAL",
+   "unidad": "XI Región - Oficina Regional de Aysén",
+   "monto": 1750000,
+   "cierre_iso": "2026-10-16T08:30:00-03:00",
+   "publicacion": "13-10 09:17",
+   "publicacion_iso": "2026-10-13T09:17:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "83101801",
+     "Suministro de electricidad monofásica",
+     1,
+     "Servicio de mantención e instalación eléctrica en Base de Brigada de Villa Mañihuales DEPRIF (ver especificaciones técnicas adjuntas)"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1092-63-COT26",
+   "sin_detalle": false,
+   "descripcion": "La Corporación Nacional Forestal por medio del Departamento de Protección Contra Incendios Forestales Región de Aysén, requiere adquirir Servicio de mantención e instalación eléctrica en Base de Brigada de Villa Mañihuales, ubicada en Arturo Prat #1850, Villa Mañihuales Región de Aysén. (ver especificaciones técnicas adjuntas) y requisitos excluyentes"
   },
   {
    "tipo": "POSIBLE",
@@ -1009,6 +1038,72 @@
    "descripcion": "ADQUISICION DE MATERIALES DE OFICINA SEGUN DETALLES Y ESPECIFICACIONES ADJUNTAS, LOS MONTOS DE LAS OFERTAS DEBEN INCLUIR TODOS LOS GASTOS NECESARIOS, PARA LA ENTREGA DE LOS MATERIALES DE OFICINA EN LAS DEPENDENCIAS DE GALERIA DE ARTESANOS, EN PUERTO AYSÉN, LAS OFERTAS QUE SOBREPASEN EL MONTO PRESUPUESTARIO DISPONIBLE, NO CUMPLAN CON LAS ESPECIFICACIONES, NO CUMPLAN O NO INDIQUEN EL PLAZO DE ENTREGA NO SERÁN EVALUADAS."
   },
   {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Materiales de física de electricidad"
+   ],
+   "nueva": true,
+   "codigo": "620956-35-COT26",
+   "nombre": "Kit encimera",
+   "organismo": "DELEGACIÓN PRESIDENCIAL PROVINCIAL DE GENERAL CARRERA",
+   "unidad": "Complejo Fronterizo Jeinimeni",
+   "monto": 829000,
+   "cierre_iso": "2026-10-16T11:00:00-03:00",
+   "publicacion": "14-10 12:06",
+   "publicacion_iso": "2026-10-14T12:06:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "52141504",
+     "Cocinas domésticas",
+     1,
+     "Encimera eléctrica de medidas 60 x 52 cm, con eficiencia energética."
+    ],
+    [
+     "52141519",
+     "Hornos de convección domésticos",
+     1,
+     "Horno eléctrico de conexión 220 v de medidas 59x60x50 cm, con eficiencia energética."
+    ],
+    [
+     "60104911",
+     "Campanas eléctricas o accesorios",
+     1,
+     "Campana extractora eléctrica, de medidas 60x50x15 cm, con eficiencia energética."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=620956-35-COT26",
+   "sin_detalle": false,
+   "descripcion": "Se requiere cotizar un kit de encimera, campana y horno eléctrico, con entrega en el Complejo Fronterizo Jeinimeni, ubicado en Camino Internacional sin número de la ciudad de Chile Chico, región de Aysén, por lo que debe considerar todos los costos asociados a dicha entrega. Se solicita indicar datos de contacto y plazo de entrega."
+  },
+  {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Gasfitería, calefacción y aire acondicionado"
+   ],
+   "nueva": true,
+   "codigo": "620956-37-COT26",
+   "nombre": "Aires acondicionado ",
+   "organismo": "DELEGACIÓN PRESIDENCIAL PROVINCIAL DE GENERAL CARRERA",
+   "unidad": "Complejo Fronterizo Jeinimeni",
+   "monto": 3700000,
+   "cierre_iso": "2026-10-16T15:00:00-03:00",
+   "publicacion": "14-10 12:48",
+   "publicacion_iso": "2026-10-14T12:48:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "72102305",
+     "Servicios de reparación, mantenimiento o reparación de aire acondicionado",
+     1,
+     "Se solicita cotizar el suministro, retiro de los equipos existentes e instalación de dos (2) equipos de aire acondicionado tipo split muro, de 24.000 BTU cada uno, con tecnología inverter, para oficinas externas del Complejo Fronterizo Jeinimeni, ubicado en Camino Internacional s/n, comuna de Chile Chico, Región de Aysén.\n\nSe adjuntan especificaciones técnicas."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=620956-37-COT26",
+   "sin_detalle": false,
+   "descripcion": "Se solicita cotizar el suministro, retiro de los equipos existentes e instalación de dos (2) equipos de aire acondicionado tipo split muro, de 24.000 BTU cada uno, con tecnología inverter, para oficinas externas del Complejo Fronterizo Jeinimeni, ubicado en Camino Internacional s/n, comuna de Chile Chico, Región de Aysén.\n\nSe adjuntan especificaciones técnicas."
+  },
+  {
    "tipo": "POSIBLE",
    "motivos": [
     "generador"
@@ -1061,6 +1156,69 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=3540-255-COT26",
    "sin_detalle": false,
    "descripcion": "Indicar plazo de entrega y datos de contacto. Se privilegiará proveedor de la región o que cuente con sucursal en Coyhaique y luego precio. Este proceso no considera ítem flete ni cargos adicionales, los costos deben estar incluidos en los valores unitarios.\n(LEER TÉRMINOS DE REFERENCIA ADJUNTO)."
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "climatización"
+   ],
+   "nueva": true,
+   "codigo": "3765-299-COT26",
+   "nombre": "INSUMOS PARA EL SISTEMA DE CLIMATIZACIÓN DEL ESTABLECIMEINTO ",
+   "organismo": "SERVICIO NACIONAL DE SALUD HOSPITAL DE C",
+   "unidad": "Hospital Doctor  Leopoldo Ortega Rodríguez",
+   "monto": 7200000,
+   "cierre_iso": "2026-10-19T09:00:00-03:00",
+   "publicacion": "14-10 12:33",
+   "publicacion_iso": "2026-10-14T12:33:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "20121409",
+     "Juntas de dilatación de la terminación",
+     15,
+     "JUNTAS DILATACIÓN AGUAS CALIENTE T° 0 a 110°PN >5BAR - DIÁMETRO 1"
+    ],
+    [
+     "20121409",
+     "Juntas de dilatación de la terminación",
+     15,
+     "JUNTAS DILATACIÓN AGUAS CALIENTE T° 0 a 110°PN >5BAR - DIÁMETRO 1 1/4"
+    ],
+    [
+     "20121409",
+     "Juntas de dilatación de la terminación",
+     10,
+     "JUNTAS DILATACIÓN AGUAS CALIENTE T° 0 a 110°PN >5BAR - DIÁMETRO 1/2"
+    ],
+    [
+     "20121409",
+     "Juntas de dilatación de la terminación",
+     5,
+     "JUNTAS DILATACIÓN AGUAS FRÍA PN>5BAR - DIÁMETRO 1"
+    ],
+    [
+     "20121409",
+     "Juntas de dilatación de la terminación",
+     5,
+     "JUNTAS DILATACIÓN AGUAS FRÍA PN>5BAR - DIÁMETRO 1 1/4"
+    ],
+    [
+     "20121409",
+     "Juntas de dilatación de la terminación",
+     5,
+     "JUNTAS DILATACIÓN AGUAS FRÍA PN>5BAR - DIÁMETRO 1/2"
+    ],
+    [
+     "20121409",
+     "Juntas de dilatación de la terminación",
+     5,
+     "JUNTAS DILATACIÓN AGUAS FRÍA PN>5BAR - DIÁMETRO 3/4"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=3765-299-COT26",
+   "sin_detalle": false,
+   "descripcion": "INSUMOS PARA EL SISTEMA DE CLIMATIZACIÓN DEL ESTABLECIMEINTO"
   },
   {
    "tipo": "POSIBLE",
@@ -1341,16 +1499,16 @@
  ],
  "pendientes": [
   {
+   "codigo": "1403-445-COT26",
+   "nombre": "COMPRA DE MATERIALES REPARACION Y MEJORAMIENTO BODEGA ALIMENTACIÓN CDP PTO AYSEN",
+   "organismo": "Dirección Regional de Gendarmeria - Coyhaique",
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1403-445-COT26"
+  },
+  {
    "codigo": "657-94-COT26",
    "nombre": " Adquisición Materiales y útiles de oficina por medio de GAS",
    "organismo": "SERVICIO DE VIVIENDA Y URBANIZACION XI REGION",
    "link": "https://buscador.mercadopublico.cl/ficha?code=657-94-COT26"
-  },
-  {
-   "codigo": "2042-338-COT26",
-   "nombre": "ADQUISICION  DE  DE   PHMETRO TERMOMETRO  .",
-   "organismo": "I MUNICIPALIDAD DE TORTEL",
-   "link": "https://buscador.mercadopublico.cl/ficha?code=2042-338-COT26"
   }
  ]
 }

@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-10-14T11:57:42.665094-03:00",
+ "actualizado": "2026-10-14T13:02:14.482324-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
- "total_region": 231,
+ "total_region": 235,
  "rubros": {
   "80141600": "Ventas y marketing",
   "82101600": "Publicidad en medios no impresos",
@@ -100,33 +100,6 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=734-178-COT26",
    "sin_detalle": false,
    "descripcion": "Se requiere la confección de 02 Pendones (alto y mini) para apoyar las actividades de difusión del programa de Control y\nEliminación de la Tuberculosis.\nDiseño generado por Comunicaciones SSA imagen  y  especificaciones Técnicas adjuntas."
-  },
-  {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Ventas y marketing"
-   ],
-   "nueva": true,
-   "codigo": "1332-39-COT26",
-   "nombre": "SERVICIO DE PRODUCCIÓN DE SEMINARIO DE TURISMO AYSENTIDO EN TU RELATO",
-   "organismo": "Servicio Nacional de Turismo",
-   "unidad": "Direccion Regional de Aysen",
-   "monto": 2200000,
-   "cierre_iso": "2026-10-14T16:00:00-03:00",
-   "publicacion": "13-10 15:14",
-   "publicacion_iso": "2026-10-13T15:14:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "80141607",
-     "Producción de eventos",
-     1,
-     "Contratación del “SERVICIO DE PRODUCCIÓN DE SEMINARIO DE TURISMO AYSENTIDO EN TU RELATO\", orientado a facilitar un espacio de capacitación y transferencia de conocimiento del patrimonio natural y cultural de Aysén, dirigido a guías, prestadores de servicios turísticos y comunidad en general, con el objetivo de fortalecer el relato turístico en el destino Aysén Patagonia. De acuerdo a detalle adjunto."
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1332-39-COT26",
-   "sin_detalle": false,
-   "descripcion": "Se requiere la contratación del “SERVICIO DE PRODUCCIÓN DE SEMINARIO DE TURISMO AYSENTIDO EN TU RELATO\", orientado a facilitar un espacio de capacitación y transferencia de conocimiento del patrimonio natural y cultural de Aysén, dirigido a guías, prestadores de servicios turísticos y comunidad en general, con el objetivo de fortalecer el relato turístico en el destino Aysén Patagonia. Se adjunta detalle."
   },
   {
    "tipo": "OPORTUNIDAD",
@@ -538,16 +511,16 @@
  ],
  "pendientes": [
   {
+   "codigo": "1403-445-COT26",
+   "nombre": "COMPRA DE MATERIALES REPARACION Y MEJORAMIENTO BODEGA ALIMENTACIÓN CDP PTO AYSEN",
+   "organismo": "Dirección Regional de Gendarmeria - Coyhaique",
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1403-445-COT26"
+  },
+  {
    "codigo": "657-94-COT26",
    "nombre": " Adquisición Materiales y útiles de oficina por medio de GAS",
    "organismo": "SERVICIO DE VIVIENDA Y URBANIZACION XI REGION",
    "link": "https://buscador.mercadopublico.cl/ficha?code=657-94-COT26"
-  },
-  {
-   "codigo": "2042-338-COT26",
-   "nombre": "ADQUISICION  DE  DE   PHMETRO TERMOMETRO  .",
-   "organismo": "I MUNICIPALIDAD DE TORTEL",
-   "link": "https://buscador.mercadopublico.cl/ficha?code=2042-338-COT26"
   }
  ]
 }
