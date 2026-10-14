@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-10-14T16:05:10.482632-03:00",
+ "actualizado": "2026-10-14T16:56:08.491222-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
- "total_region": 258,
+ "total_region": 266,
  "rubros": {
   "25172700": "Aire acondicionado",
   "25173900": "Componentes eléctricos",
@@ -51,7 +51,7 @@
    "motivos": [
     "Cables eléctricos y accesorios"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "1057062-457-COT26",
    "nombre": "Equipamientos Tecnológicos Proyecto URY 20991 y FIU Territorios",
    "organismo": "UNIVERSIDAD DE AYSEN",
@@ -150,7 +150,7 @@
    "motivos": [
     "iluminación"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "2713-1242-COT26",
    "nombre": "DIDECO SOL.1286, ADQUISICION DE MATERIAL ELECTRICO.",
    "organismo": "I MUNICIPALIDAD DE AYSEN",
@@ -510,7 +510,7 @@
     "certificación sec",
     "red eléctrica"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "2713-1244-COT26",
    "nombre": "DIDECO SOL.1287.Adquisición de Microondas.",
    "organismo": "I MUNICIPALIDAD DE AYSEN",
@@ -1407,6 +1407,33 @@
    "descripcion": "EPP PARA UNIDAD DE MANTENCIÓN"
   },
   {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Gasfitería, calefacción y aire acondicionado"
+   ],
+   "nueva": true,
+   "codigo": "4889-41-COT26",
+   "nombre": "MANTENIMIENTO SENTINA - OFICINAS SEREMI DE LAS CULTURAS",
+   "organismo": "Subsecretaria de las Culturas y las Artes Región de Aysen",
+   "unidad": "Consejo Regional de Cultura Región de Aysen",
+   "monto": 250000,
+   "cierre_iso": "2026-10-19T16:00:00-03:00",
+   "publicacion": "14-10 16:37",
+   "publicacion_iso": "2026-10-14T16:37:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "72102304",
+     "Mantenimiento o reparación de sistemas de fontanería, gasfitería",
+     1,
+     "MANTENIMIENTO SENTINA - OFICINAS SEREMI DE LAS CULTURAS - Características según archivo adjunto"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=4889-41-COT26",
+   "sin_detalle": false,
+   "descripcion": "MANTENIMIENTO SENTINA - OFICINAS SEREMI DE LAS CULTURAS\nCARACTERÍSTICAS REQUERIDAS SEGUN ARCHIVO ADJUNTO"
+  },
+  {
    "tipo": "POSIBLE",
    "motivos": [
     "enchufe"
@@ -1684,6 +1711,12 @@
   }
  ],
  "pendientes": [
+  {
+   "codigo": "1449-12-COT26",
+   "nombre": "Adquisición de materiales de oficina ",
+   "organismo": "FONDO DE SOLIDARIDAD E INVERSION SOCIAL",
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1449-12-COT26"
+  },
   {
    "codigo": "657-94-COT26",
    "nombre": " Adquisición Materiales y útiles de oficina por medio de GAS",
