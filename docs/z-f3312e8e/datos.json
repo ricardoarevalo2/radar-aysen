@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-14T16:56:08.491222-03:00",
+ "actualizado": "2026-10-14T17:55:42.291863-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
  "total_region": 266,
@@ -19,33 +19,6 @@
   "39121400": "Conectores, enchufes y terminales"
  },
  "filas": [
-  {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Materiales de física de electricidad"
-   ],
-   "nueva": true,
-   "codigo": "1057062-425-COT26",
-   "nombre": "Adquisición Batería interna recargable / pack de baterías para simulador neonatal Newborn TORY_URY 2457_FISABS 2131",
-   "organismo": "UNIVERSIDAD DE AYSEN",
-   "unidad": "Proyectos",
-   "monto": 500000,
-   "cierre_iso": "2026-10-14T17:08:00-03:00",
-   "publicacion": "22-09 11:53",
-   "publicacion_iso": "2026-09-22T11:53:00-03:00",
-   "ofertas": 2,
-   "productos": [
-    [
-     "60104906",
-     "Kits de batería",
-     1,
-     "Se requiere la adquisición de batería interna recargable (pack de pilas), destinada al reemplazo de la batería del simulador neonatal institucional, de acuerdo con las especificaciones técnicas adjuntas. Producto: Batería interna recargable / pack de pilas. Código del repuesto: 30040038A. Compatibilidad requerida: Simulador neonatal NEWBORN TORY, neonato de 40 semanas."
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1057062-425-COT26",
-   "sin_detalle": false,
-   "descripcion": "Se requiere la adquisición de batería interna recargable (pack de pilas), destinada al reemplazo de la batería del simulador neonatal institucional, de acuerdo especificaciones adjuntas. Cotización debe indicar la especificación técnica de lo ofertado y el plazo de entrega, considerando la entrega de los productos en dependencias de la Universidad de Aysén y no en la empresa de transportes. El valor ofertado debe incluir impuestos y flete. Se podrá privilegiar el menor plazo ofertado."
-  },
   {
    "tipo": "OPORTUNIDAD",
    "motivos": [
@@ -1504,6 +1477,24 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=1092-62-COT26",
    "primera_vista_iso": "2026-10-13T08:42:41-03:00",
    "removida_iso": "2026-10-13T09:52:56-03:00",
+   "estado_api": "",
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
+  {
+   "codigo": "1057062-425-COT26",
+   "nombre": "Adquisición Batería interna recargable / pack de baterías para simulador neonatal Newborn TORY_URY 2457_FISABS 2131",
+   "organismo": "UNIVERSIDAD DE AYSEN",
+   "monto": 500000,
+   "cierre_iso": "2026-10-14T17:08:00-03:00",
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Materiales de física de electricidad"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1057062-425-COT26",
+   "primera_vista_iso": "2026-10-13T17:57:22-03:00",
+   "removida_iso": "2026-10-14T17:55:42-03:00",
    "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,

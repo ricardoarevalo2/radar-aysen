@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-14T16:56:08.491222-03:00",
+ "actualizado": "2026-10-14T17:55:42.291863-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
  "total_region": 266,
@@ -14,33 +14,6 @@
   "83121700": "Comunicación social y de masas"
  },
  "filas": [
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "difusión"
-   ],
-   "nueva": false,
-   "codigo": "1521-76-COT26",
-   "nombre": "Servicio de relatoría para III Seminario STEM",
-   "organismo": "Departamento Provincial de Coyhaique",
-   "unidad": "Departamento Provincial de Coyhaique",
-   "monto": 350000,
-   "cierre_iso": "2026-10-14T17:00:00-03:00",
-   "publicacion": "13-10 16:36",
-   "publicacion_iso": "2026-10-13T16:36:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "86111604",
-     "Capacitación a empleados",
-     1,
-     "Servicio de relatoría para el dia 20-10-2026, 09.00 hrs en Hacienda Patagonia\nTDR en Adjunto"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1521-76-COT26",
-   "sin_detalle": false,
-   "descripcion": "La presente contratación de servicios de relatoría se enmarca en el Plan Regional de la Secretaría Regional Ministerial de Educación de la Región de Aysén, en el contexto de la realización del III Seminario Regional de Género, \nEste seminario constituye un espacio regional de reflexión, intercambio y difusión de prácticas pedagógicas orientadas a contribuir a la disminución de las brechas de género en el aprendizaje"
-  },
   {
    "tipo": "POSIBLE",
    "motivos": [
@@ -532,6 +505,24 @@
   }
  ],
  "historial": [
+  {
+   "codigo": "1521-76-COT26",
+   "nombre": "Servicio de relatoría para III Seminario STEM",
+   "organismo": "Departamento Provincial de Coyhaique",
+   "monto": 350000,
+   "cierre_iso": "2026-10-14T17:00:00-03:00",
+   "tipo": "POSIBLE",
+   "motivos": [
+    "difusión"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1521-76-COT26",
+   "primera_vista_iso": "2026-10-13T16:55:07-03:00",
+   "removida_iso": "2026-10-14T17:55:42-03:00",
+   "estado_api": "",
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
   {
    "codigo": "1332-39-COT26",
    "nombre": "SERVICIO DE PRODUCCIÓN DE SEMINARIO DE TURISMO AYSENTIDO EN TU RELATO",
