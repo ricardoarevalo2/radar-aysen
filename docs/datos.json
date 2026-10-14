@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-13T22:06:45.883091-03:00",
+ "actualizado": "2026-10-14T06:57:02.727133-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
  "total_region": 211,
@@ -494,7 +494,7 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=1201-174-COT26",
    "primera_vista_iso": "2026-10-11T21:06:47-03:00",
    "removida_iso": "2026-10-13T10:48:49-03:00",
-   "estado_api": null,
+   "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,
    "adj_iso": null
@@ -578,12 +578,6 @@
    "nombre": " Adquisición Materiales y útiles de oficina por medio de GAS",
    "organismo": "SERVICIO DE VIVIENDA Y URBANIZACION XI REGION",
    "link": "https://buscador.mercadopublico.cl/ficha?code=657-94-COT26"
-  },
-  {
-   "codigo": "4644-86-COT26",
-   "nombre": "MATERIALES DE ESCRITORIO GORE MAÑIHUALES SIC:430  SIRE:404",
-   "organismo": "CORP NACIONAL FORESTAL",
-   "link": "https://buscador.mercadopublico.cl/ficha?code=4644-86-COT26"
   }
  ]
 }
