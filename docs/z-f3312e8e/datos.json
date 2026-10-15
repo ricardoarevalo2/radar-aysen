@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-10-14T22:04:12.026583-03:00",
+ "actualizado": "2026-10-15T06:57:48.965318-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
- "total_region": 264,
+ "total_region": 263,
  "rubros": {
   "25172700": "Aire acondicionado",
   "25173900": "Componentes eléctricos",
@@ -156,7 +156,7 @@
    "motivos": [
     "Conectores, enchufes y terminales"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "4644-86-COT26",
    "nombre": "MATERIALES DE ESCRITORIO GORE MAÑIHUALES SIC:430  SIRE:404",
    "organismo": "CORP NACIONAL FORESTAL",
