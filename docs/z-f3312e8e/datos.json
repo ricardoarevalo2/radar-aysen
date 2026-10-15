@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-10-15T10:11:17.985394-03:00",
+ "actualizado": "2026-10-15T11:03:49.109150-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
- "total_region": 264,
+ "total_region": 271,
  "rubros": {
   "25172700": "Aire acondicionado",
   "25173900": "Componentes eléctricos",
@@ -20,77 +20,135 @@
  },
  "filas": [
   {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Gasfitería, calefacción y aire acondicionado"
-   ],
-   "nueva": true,
-   "codigo": "4140-89-COT26",
-   "nombre": "EQUIPOS AIRE ACONDICIONADOS Y OTROS, MUNICIPALIDAD DE LAGO VERDE",
-   "organismo": "I MUNICIPALIDAD DE LAGO VERDE",
-   "unidad": "Adquisiciones",
-   "monto": 4000000,
-   "cierre_iso": "2026-10-15T11:00:00-03:00",
-   "publicacion": "14-10 10:23",
-   "publicacion_iso": "2026-10-14T10:23:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "72102305",
-     "Servicios de reparación, mantenimiento o reparación de aire acondicionado",
-     1,
-     "AIRE ACONDICIONADO SALA DE SERVIDORES CON INSTALACION"
-    ],
-    [
-     "80111613",
-     "Mano de obra temporal",
-     1,
-     "INSTALACION ELECTRICA SALA DE SERVIDOR 3 PUNTOS TRIPLES"
-    ],
-    [
-     "80111613",
-     "Mano de obra temporal",
-     1,
-     "INSTALACION DE TABLERO ELECTRICO"
-    ],
-    [
-     "80111613",
-     "Mano de obra temporal",
-     1,
-     "ADECUACION DE NUEVA SALA DE SERVIDORES, RETIRO DE LAVAMANOS, WC Y OTROS ETC"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=4140-89-COT26",
-   "sin_detalle": false,
-   "descripcion": "ADQUISICION DE 01 AIRE ACONDICIONADO SALA DE SERVIDOR CON INSTALACION, INTALACION ELECTRICA SALA SERVIDORES 3 PUTNOS TRIPLES, 01 INSTALACION DE TABLERO ELECTICO, 01 ADECUACION DE NUEVA SALA DE SERVIDOR CON RETIRO DE LAVAMANOS, WC Y OTROS ETC"
-  },
-  {
    "tipo": "POSIBLE",
    "motivos": [
-    "certificación sec",
-    "red eléctrica"
+    "electricidad",
+    "interruptor",
+    "transformador"
    ],
    "nueva": false,
-   "codigo": "2713-1244-COT26",
-   "nombre": "DIDECO SOL.1287.Adquisición de Microondas.",
-   "organismo": "I MUNICIPALIDAD DE AYSEN",
-   "unidad": "I.MUNICIPALIDAD AYSEN-ADQUISICIONES",
-   "monto": 120000,
-   "cierre_iso": "2026-10-15T11:00:00-03:00",
-   "publicacion": "13-10 16:34",
-   "publicacion_iso": "2026-10-13T16:34:00-03:00",
+   "codigo": "1182705-190-COT26",
+   "nombre": "MATERIALES PARA TNS EN ELECTRICIDAD CFT AYSEN SEDE COYHAIQUE",
+   "organismo": "CENTRO DE FORMACIÓN TÉCNICA DE LA REGIÓN DE AYSÉN DEL GENERAL CARLOS I",
+   "unidad": "FINANZAS",
+   "monto": 1970000,
+   "cierre_iso": "2026-10-15T11:30:00-03:00",
+   "publicacion": "14-10 10:27",
+   "publicacion_iso": "2026-10-14T10:27:00-03:00",
    "ofertas": 0,
    "productos": [
     [
-     "52141502",
-     "Hornos microondas domésticos",
+     "60106104",
+     "Materiales de enseñanza de electricidad o electrónica",
+     2,
+     "TACOMETRO DE CONTACTO UT-373"
+    ],
+    [
+     "60106104",
+     "Materiales de enseñanza de electricidad o electrónica",
      1,
-     "Capacidad mínima: 25 litros\nPotencia mínima: 800 W\nVoltaje mínimo: 220 V\nDistintos niveles de potencia\nContar con temporizador\nContar con plato giratorio\nFunción de descongelado\n• Producto nuevo, sin uso y en su\nembalaje original\n• Compatible con la red eléctrica\nnacional\n• Contar con certificación SEC\n• Garantía mínima del fabricante o\nproveedor: 12 meses"
+     "VARIAC MONOFASICO 250VAC 2KVA"
+    ],
+    [
+     "60106104",
+     "Materiales de enseñanza de electricidad o electrónica",
+     2,
+     "SET DESATORNILLADOR DE PRECISION AISLADO INGCO 6PZS"
+    ],
+    [
+     "60106104",
+     "Materiales de enseñanza de electricidad o electrónica",
+     5,
+     "INTERRUPTOR DIFERENCIAL 2 POLOS 25A 30MA TIPO A"
+    ],
+    [
+     "60106104",
+     "Materiales de enseñanza de electricidad o electrónica",
+     4,
+     "TRANSFORMADOR 220V A 24V 500MA"
+    ],
+    [
+     "60106104",
+     "Materiales de enseñanza de electricidad o electrónica",
+     50,
+     "SALIDA CAJA C/HILO 16MM EMT"
+    ],
+    [
+     "60106104",
+     "Materiales de enseñanza de electricidad o electrónica",
+     50,
+     "SALIDA CAJA C/HILO 20MM EMT"
+    ],
+    [
+     "60106104",
+     "Materiales de enseñanza de electricidad o electrónica",
+     1,
+     "MEDIDOR DE RESISTENCIA DE AISLACIÓN MEGÓHMETRO UT511"
+    ],
+    [
+     "60106104",
+     "Materiales de enseñanza de electricidad o electrónica",
+     1,
+     "MEDIDOR DE POTENCIA ARMÓNICO DE PINZA UT-243"
+    ],
+    [
+     "60106104",
+     "Materiales de enseñanza de electricidad o electrónica",
+     20,
+     "SET CINTAS AISLADORAS AUTO EXTINGUIBLE 19MM X 20 MTS (NEGRA, ROJA, BLANCO Y VERDE)"
+    ],
+    [
+     "60106104",
+     "Materiales de enseñanza de electricidad o electrónica",
+     4,
+     "CABLE 1x2,5 mm2 BLANCO 10 METROS"
+    ],
+    [
+     "60106104",
+     "Materiales de enseñanza de electricidad o electrónica",
+     4,
+     "CABLE 1x2,5 mm2 ROJO 10 METROS"
+    ],
+    [
+     "60106104",
+     "Materiales de enseñanza de electricidad o electrónica",
+     4,
+     "CABLE 1x2,5 mm2 VERDE 10 METROS\t\t\t\t150000\t600000"
+    ],
+    [
+     "60106104",
+     "Materiales de enseñanza de electricidad o electrónica",
+     4,
+     "CABLE 1x1,5 mm2 BLANCO 10 METROS"
+    ],
+    [
+     "60106104",
+     "Materiales de enseñanza de electricidad o electrónica",
+     4,
+     "CABLE 1x1,5 mm2 ROJO 10 METROS"
+    ],
+    [
+     "60106104",
+     "Materiales de enseñanza de electricidad o electrónica",
+     4,
+     "CABLE 1x1,5 mm2 VERDE 10 METROS"
+    ],
+    [
+     "60106104",
+     "Materiales de enseñanza de electricidad o electrónica",
+     20,
+     "INTERRUPTOR DOBLE 9/24"
+    ],
+    [
+     "60106104",
+     "Materiales de enseñanza de electricidad o electrónica",
+     20,
+     "INTERRUPTOR SIMPLE 9/24"
     ]
    ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=2713-1244-COT26",
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1182705-190-COT26",
    "sin_detalle": false,
-   "descripcion": "Adquisición de microondas según esoecificaciones, las ofertas deberán: incluir la totalidad de las características solicitadas, ajustarse al presupuesto disponible , el oferente asumirá COSTO DE TRANSPORTE (no desglosarlo como ítem aparte), debe indicar plazo de entrega (no se aceptara plazo de despacho y el plazo de entrega iniciará el día hábil subsiguiente al envío de la OC) debe adjuntar ficha técnica. Ofertas que no cumplan con lo anterior serán rechazadas."
+   "descripcion": "SOLICITA COMPRA DE MATERIALES PARA TNS EN ELECTRICIDAD CFT AYSEN SEDE COYHAIQUE, SE SOLICITA ADJUNTAR FICHA TECNICA DE LO QUE SE ESTA OFERTANDO E INCLUIR COSTO DE DESPACHO HASTA NUESTRAS DEPENDENCIAS."
   },
   {
    "tipo": "POSIBLE",
@@ -99,7 +157,7 @@
     "interruptor",
     "transformador"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "1182705-190-COT26",
    "nombre": "MATERIALES PARA TNS EN ELECTRICIDAD CFT AYSEN SEDE COYHAIQUE",
    "organismo": "CENTRO DE FORMACIÓN TÉCNICA DE LA REGIÓN DE AYSÉN DEL GENERAL CARLOS I",
@@ -1427,6 +1485,43 @@
    "adj_iso": null
   },
   {
+   "codigo": "2713-1244-COT26",
+   "nombre": "DIDECO SOL.1287.Adquisición de Microondas.",
+   "organismo": "I MUNICIPALIDAD DE AYSEN",
+   "monto": 120000,
+   "cierre_iso": "2026-10-15T11:00:00-03:00",
+   "tipo": "POSIBLE",
+   "motivos": [
+    "certificación sec",
+    "red eléctrica"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=2713-1244-COT26",
+   "primera_vista_iso": "2026-10-13T16:55:07-03:00",
+   "removida_iso": "2026-10-15T11:03:49-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
+  {
+   "codigo": "4140-89-COT26",
+   "nombre": "EQUIPOS AIRE ACONDICIONADOS Y OTROS, MUNICIPALIDAD DE LAGO VERDE",
+   "organismo": "I MUNICIPALIDAD DE LAGO VERDE",
+   "monto": 4000000,
+   "cierre_iso": "2026-10-15T11:00:00-03:00",
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Gasfitería, calefacción y aire acondicionado"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=4140-89-COT26",
+   "primera_vista_iso": "2026-10-14T10:58:30-03:00",
+   "removida_iso": "2026-10-15T11:03:49-03:00",
+   "estado_api": "",
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
+  {
    "codigo": "1233615-778-COT26",
    "nombre": "PHA/SOL 744/ALARGADORES/CEIA ",
    "organismo": "Servicio Local de Educación Pública Aysén",
@@ -1743,6 +1838,12 @@
    "nombre": " Adquisición Materiales y útiles de oficina por medio de GAS",
    "organismo": "SERVICIO DE VIVIENDA Y URBANIZACION XI REGION",
    "link": "https://buscador.mercadopublico.cl/ficha?code=657-94-COT26"
+  },
+  {
+   "codigo": "4644-86-COT26",
+   "nombre": "MATERIALES DE ESCRITORIO GORE MAÑIHUALES SIC:430  SIRE:404",
+   "organismo": "CORP NACIONAL FORESTAL",
+   "link": "https://buscador.mercadopublico.cl/ficha?code=4644-86-COT26"
   }
  ]
 }

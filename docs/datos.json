@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-10-15T10:11:17.985394-03:00",
+ "actualizado": "2026-10-15T11:03:49.109150-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
- "total_region": 264,
+ "total_region": 271,
  "rubros": {
   "80141600": "Ventas y marketing",
   "82101600": "Publicidad en medios no impresos",
@@ -14,99 +14,6 @@
   "83121700": "Comunicación social y de masas"
  },
  "filas": [
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "radio"
-   ],
-   "nueva": false,
-   "codigo": "1758-234-COT26",
-   "nombre": "SERVICIO DE ALOJAMIENTOS  Y ALIMENTACION JORNADA DE SEGURIDAD EDUCATIVA EN LA JUNTA",
-   "organismo": "SECRETARIA REGIONAL MINISTERIAL DE EDUCACION XI REGION",
-   "unidad": "Mineduc Administración XI Región",
-   "monto": 450000,
-   "cierre_iso": "2026-10-15T10:30:00-03:00",
-   "publicacion": "13-10 17:54",
-   "publicacion_iso": "2026-10-13T17:54:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "90111801",
-     "Habitación sencilla",
-     2,
-     "01 HABITACION SINGLE SRA. MONICA TAPIA, COORDINADORA INGRESO EL 20/10 SALIDA 21/10 BAÑO PRIVADO Y CALEFACCION CON DESAYUNO QUE CONTENGA TE O CAFE, FRUTA Y/O JUGO, PAN CON AGREGADO)\n01 HABITACION SINGLE CONDUCTOR CON INGRESO EL 20/10 SALIDA 21/10 BAÑO PRIVADO Y CALEFACCION CON DESAYUNO QUE CONTENGA TE O CAFE, FRUTA Y/O JUGO, PAN CON AGREGADO)."
-    ],
-    [
-     "90101501",
-     "Restaurantes",
-     12,
-     "12 ALMUERZOS (PARTICIPANTES, COORDINADORA Y CONDUCTOR QUE CONTENGA PLATO DE FONDO CON ALTERNATIVA PROTEICA, ACOMPAÑAMIENTO, ENSALADA/ENTRADA, POSTRE Y BEBESTIBLE SIN ALCOHOL. EL DIA 21 DE OCTUBRE SERVIDO A LAS 13:00 HRS EN LA JUNTA."
-    ],
-    [
-     "90101501",
-     "Restaurantes",
-     2,
-     "02 CENAS (COORDINADORA Y CONDUCTOR) EL 20 DE OCTUBRE SERVIDO A LAS 19:00 HRS. QUE CONTENGA PLATO DE FONDO CON ALTERNATIVA PROTEICA, ACOMPAÑAMIENTO, ENSALADA/ENTRADA, POSTRE Y BEBESTIBLE SIN ALCOHOL."
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1758-234-COT26",
-   "sin_detalle": false,
-   "descripcion": "SERVICIOS DE ALOJAMIENTOS Y ALIMENTACIÓN EN LA JUNTA, CHECK-IN 20 DE OCTUBRE CON CHECK-OUT 21 DE OCTUBRE 2026. EN LA SU PROPUESTA EL PROVEEDOR DEBERÁ INDICAR LA DIRECCIÓN DONDE SE ENTREGARÁ EL SERVICIO, EL CUAL DEBE ESTAR DENTRO DEL RADIO URBANO DE LA JUNTA DE PREFERENCIALMENTE UNA UBICACIÓN CENTRAL. SE PRIVILEGIARA PROVEEDORES QUE POSEAN CERTIFICACIÓN DE SUSTENTABILIDAD Y CUENTEN CON POLÍTICAS REUTILIZACIÓN DE SABANAS Y TOALLAS Y ALIMENTACION DE ALMUERZOS Y CENAS. SEGREGACION Y RES. SANITARIA."
-  },
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "publicitarios"
-   ],
-   "nueva": true,
-   "codigo": "3949-256-COT26",
-   "nombre": "PENDON ROLLER CON LOGO INSTITUCIONAL",
-   "organismo": "CONSULTORIO GENERAL URBANO DR ALEJANDRO GUTIERREZ",
-   "unidad": "ID 3949 - CESFAM Dr Alejandro Gutiérrez",
-   "monto": 600000,
-   "cierre_iso": "2026-10-15T11:00:00-03:00",
-   "publicacion": "14-10 10:45",
-   "publicacion_iso": "2026-10-14T10:45:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "82101501",
-     "Letreros publicitarios",
-     10,
-     "SE REQUIERE ADQUIRIR PENDON ROLLER DE 80x200 cm EN TELA PVC O PAPEL SINTETICO CON ESTRUCTURA RETRACTIL Y BOLSO DE TRANSPORTE, CON LOGO INSTITUCIONAL A COLOR Y FONDO AZUL (LOGO SE ENVIARA A QUIEN SE ADJUDIQUE LA COMPRA). PROVEEDOR LOCAL. ENVIO Y DESPACHO INCLUIDO. ENVIAR COTIZACION CON IMAGEN DE LO OFERTADO."
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=3949-256-COT26",
-   "sin_detalle": false,
-   "descripcion": "SE REQUIERE ADQUIRIR PENDON ROLLER DE 80x200 cm EN TELA PVC O PAPEL SINTETICO CON ESTRUCTURA RETRACTIL Y BOLSO DE TRANSPORTE, CON LOGO INSTITUCIONAL A COLOR Y FONDO AZUL (LOGO SE ENVIARA A QUIEN SE ADJUDIQUE LA COMPRA). PROVEEDOR LOCAL. ENVIO Y DESPACHO INCLUIDO. ENVIAR COTIZACION CON IMAGEN REFERENCIAL DE LO OFERTADO."
-  },
-  {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Ventas y marketing"
-   ],
-   "nueva": false,
-   "codigo": "4609-278-COT26",
-   "nombre": "SERVICIO PRODUCCION EVENTO",
-   "organismo": "I MUNICIPALIDAD DE CHILE CHICO",
-   "unidad": "Finanzas",
-   "monto": 5500000,
-   "cierre_iso": "2026-10-15T11:00:00-03:00",
-   "publicacion": "13-10 11:26",
-   "publicacion_iso": "2026-10-13T11:26:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "80141607",
-     "Producción de eventos",
-     1,
-     "SERVICIO DE PRODUCCION TECNICA, ARTISTICA Y DE CATERING PARA EL LANZAMIENTO DE TEMPORADA TURISTICA, PUERTO GUADAL 2026-2027. (Detalle TDR adjunto)."
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=4609-278-COT26",
-   "sin_detalle": false,
-   "descripcion": "COTIZACION SERVICIO PRODUCCION EVENTO"
-  },
   {
    "tipo": "POSIBLE",
    "motivos": [
@@ -173,6 +80,39 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=886182-227-COT26",
    "sin_detalle": false,
    "descripcion": "Se requiere cotizar adquisición Pendón, Cotización debe indicar especificaciones técnicas de lo ofertado. Debe indicar plazo de entrega ofertado una vez tenga V°B° del equipo de coordinación, considerando entrega en dependencias de U. Aysén. Valor cotizado debe incluir flete e impuestos. Se podrá privilegiar el menor plazo de entrega ofertado, siempre que cumpla con todas las especificaciones requeridas."
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "fotografía"
+   ],
+   "nueva": true,
+   "codigo": "2713-1253-COT26",
+   "nombre": "Agitadores de lodo y polímero - DAOMA -PTAS - 1295",
+   "organismo": "I MUNICIPALIDAD DE AYSEN",
+   "unidad": "I.MUNICIPALIDAD AYSEN-ADQUISICIONES",
+   "monto": 4600000,
+   "cierre_iso": "2026-10-16T11:00:00-03:00",
+   "publicacion": "15-10 10:50",
+   "publicacion_iso": "2026-10-15T10:50:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "41103811",
+     "Agitadores orbitales",
+     1,
+     "Agitador para Lodo. Debe incluir motor, reductor y eje agitador con aspas. • Potencia: 2.2 kW. • Voltaje y Frecuencia: Trifásico 380 V, 50 Hz. • Velocidad de Operación: 97 rpm. • Longitud del Eje: 1.5 metros. • Diámetro del Impulsor: 0.5 metros. • Tipo de Impulsor: Doble capa, tres aspas. • Material de Fabricación: Acero inoxidable."
+    ],
+    [
+     "41103811",
+     "Agitadores orbitales",
+     1,
+     "Agitador para Polímero. Debe incluir motor, reductor y eje agitador con aspas. • Potencia: 1.1 kW. • Voltaje y Frecuencia: Trifásico 380 V, 50 Hz. • Velocidad de Operación: 138 rpm. • Longitud del Eje: 1.3 metros. • Diámetro del Impulsor: 0.3 metros. • Tipo de Impulsor: Doble capa, dos aspas. • Material de Fabricación: Acero inoxidable."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=2713-1253-COT26",
+   "sin_detalle": false,
+   "descripcion": "Agitadores de lodo y polímero según anexo adjunto, las ofertas deberán: incluir la totalidad de las características solicitadas, ajustarse al presupuesto disponible , el oferente asumirá COSTO DE TRANSPORTE (no desglosarlo como ítem aparte), debe indicar plazo de entrega (no se aceptara plazo de despacho y el plazo de entrega iniciará desde el día hábil subsiguiente al envío de la OC), presentar ficha técnica y fotografía de los productos. Ofertas que no cumplan con lo anterior serán rechazadas"
   },
   {
    "tipo": "OPORTUNIDAD",
@@ -258,6 +198,33 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=2713-1250-COT26",
    "sin_detalle": false,
    "descripcion": "adquisicion de servicio de produccion de evento,para \"fiesta de teatro y recreacion\" segun anexo tecnico adjunto,los montos de las ofertas deben incluir todos los gastos necesarios, para el desarrollo del evento en Pto.Aysén, las ofertas que sobrepasen el monto presupuestario disponible,no cumplan con las especificaciones requeridas, no seran evaluadas, se debe completar anexo adjunto y cumplir con todas las especificaciones requeridas, de los contrario la oferta quedara inadamisible"
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "publicitarios"
+   ],
+   "nueva": true,
+   "codigo": "1201-181-COT26",
+   "nombre": "ELABORACIÓN E INSTALACIÓN DE LETRERO RECINTO PISCINA IND, COYHAIQUE.",
+   "organismo": "INSTITUTO NACIONAL DE DEPORTES DE CHILE",
+   "unidad": "I.N.D. REGION XI",
+   "monto": 500000,
+   "cierre_iso": "2026-10-19T10:00:00-03:00",
+   "publicacion": "15-10 10:27",
+   "publicacion_iso": "2026-10-15T10:27:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "82101501",
+     "Letreros publicitarios",
+     1,
+     "Letrero referencial, SEGUN BASES ADJUNTAS"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1201-181-COT26",
+   "sin_detalle": false,
+   "descripcion": "La presente tiene por objetivo adquirir grafica e instalación del mismo, referente al proyecto de edificación de Piscina IND en recinto ubicado en Tucapel Jiménez con Circunvalación Esc. Agrícola. El cual por los años se encuentra sin habitar y/u ocupación del terreno."
   },
   {
    "tipo": "POSIBLE",
@@ -447,22 +414,85 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=4778-319-COT26",
    "sin_detalle": false,
    "descripcion": "Proyecto MEL,se solicita según Resolución Exenta NO 3032/2026 del 17-08-2026 según Clasificador Presupuestario al subtitulo 29.05,se requiere la compra de articulos segun anexo seran consideradas las ofertas listado completo.SE REQUIERE COTIZAR TODOS LOS ARTICULOS,INCLUIR DESPACHO."
-  }
- ],
- "historial": [
+  },
   {
-   "codigo": "4733-395-COT26",
-   "nombre": "CONCIERTO DE NAVIDAD",
-   "organismo": "I MUNICIPALIDAD DE LAS GUAITECAS",
-   "monto": 2000000,
-   "cierre_iso": "2026-10-15T10:00:00-03:00",
    "tipo": "OPORTUNIDAD",
    "motivos": [
     "Ventas y marketing"
    ],
+   "nueva": true,
+   "codigo": "4733-395-COT26",
+   "nombre": "CONCIERTO DE NAVIDAD",
+   "organismo": "I MUNICIPALIDAD DE LAS GUAITECAS",
+   "unidad": "I MUNICIPALIDAD DE LAS GUAITECAS",
+   "monto": 2000000,
+   "cierre_iso": "2026-10-22T09:27:00-03:00",
+   "publicacion": "08-10 11:30",
+   "publicacion_iso": "2026-10-08T11:30:00-03:00",
+   "ofertas": 1,
+   "productos": [
+    [
+     "80141607",
+     "Producción de eventos",
+     1,
+     "CONCIERTO DE NAVIDAD"
+    ]
+   ],
    "link": "https://buscador.mercadopublico.cl/ficha?code=4733-395-COT26",
-   "primera_vista_iso": "2026-10-11T21:06:47-03:00",
-   "removida_iso": "2026-10-15T10:11:17-03:00",
+   "sin_detalle": false,
+   "descripcion": "Se requiere contratar el servicio de producción artística para concierto de navidad según especificaciones técnicas adjuntas, adjuntar cotización.-"
+  }
+ ],
+ "historial": [
+  {
+   "codigo": "4609-278-COT26",
+   "nombre": "SERVICIO PRODUCCION EVENTO",
+   "organismo": "I MUNICIPALIDAD DE CHILE CHICO",
+   "monto": 5500000,
+   "cierre_iso": "2026-10-15T11:00:00-03:00",
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Ventas y marketing"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=4609-278-COT26",
+   "primera_vista_iso": "2026-10-13T11:46:51-03:00",
+   "removida_iso": "2026-10-15T11:03:49-03:00",
+   "estado_api": "",
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
+  {
+   "codigo": "3949-256-COT26",
+   "nombre": "PENDON ROLLER CON LOGO INSTITUCIONAL",
+   "organismo": "CONSULTORIO GENERAL URBANO DR ALEJANDRO GUTIERREZ",
+   "monto": 600000,
+   "cierre_iso": "2026-10-15T11:00:00-03:00",
+   "tipo": "POSIBLE",
+   "motivos": [
+    "publicitarios"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=3949-256-COT26",
+   "primera_vista_iso": "2026-10-14T10:58:30-03:00",
+   "removida_iso": "2026-10-15T11:03:49-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
+  {
+   "codigo": "1758-234-COT26",
+   "nombre": "SERVICIO DE ALOJAMIENTOS  Y ALIMENTACION JORNADA DE SEGURIDAD EDUCATIVA EN LA JUNTA",
+   "organismo": "SECRETARIA REGIONAL MINISTERIAL DE EDUCACION XI REGION",
+   "monto": 450000,
+   "cierre_iso": "2026-10-15T10:30:00-03:00",
+   "tipo": "POSIBLE",
+   "motivos": [
+    "radio"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1758-234-COT26",
+   "primera_vista_iso": "2026-10-13T17:57:22-03:00",
+   "removida_iso": "2026-10-15T11:03:49-03:00",
    "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,
@@ -729,6 +759,12 @@
    "nombre": " Adquisición Materiales y útiles de oficina por medio de GAS",
    "organismo": "SERVICIO DE VIVIENDA Y URBANIZACION XI REGION",
    "link": "https://buscador.mercadopublico.cl/ficha?code=657-94-COT26"
+  },
+  {
+   "codigo": "4644-86-COT26",
+   "nombre": "MATERIALES DE ESCRITORIO GORE MAÑIHUALES SIC:430  SIRE:404",
+   "organismo": "CORP NACIONAL FORESTAL",
+   "link": "https://buscador.mercadopublico.cl/ficha?code=4644-86-COT26"
   }
  ]
 }
