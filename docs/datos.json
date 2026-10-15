@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-10-15T14:53:38.962158-03:00",
+ "actualizado": "2026-10-15T16:05:38.081181-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
- "total_region": 288,
+ "total_region": 277,
  "rubros": {
   "80141600": "Ventas y marketing",
   "82101600": "Publicidad en medios no impresos",
@@ -14,46 +14,6 @@
   "83121700": "Comunicación social y de masas"
  },
  "filas": [
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "publicidad",
-    "publicitarios"
-   ],
-   "nueva": true,
-   "codigo": "3765-301-COT26",
-   "nombre": "MATERIALES PARA COMUNICACIONES ",
-   "organismo": "SERVICIO NACIONAL DE SALUD HOSPITAL DE C",
-   "unidad": "Hospital Doctor  Leopoldo Ortega Rodríguez",
-   "monto": 600000,
-   "cierre_iso": "2026-10-15T15:00:00-03:00",
-   "publicacion": "14-10 14:46",
-   "publicacion_iso": "2026-10-14T14:46:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "82101507",
-     "Folletos y catálogos publicitarios, servicios de publicidad y distribución",
-     6,
-     "TROCIVELES CON SEÑALETICA INSTITUCIONAL SSA \"POR UN BUEN TRATO Y LA PREVENCIÓN DE LA VIOLENCIA, FUNCIONARIOS Y USUARIOS SE COMPROMETEN\" TAMAÑO 70X45,5 CMS EN PVC RIGIDO DE 5MM DE ESPESOR, GRAFICA EN VINOLO ADHESIVO IMPRESIÓN DIGITAL A COLOR"
-    ],
-    [
-     "82101502",
-     "Publicidad en carteles",
-     1,
-     "PENDÓN ROLLER INSTITUCIONAL, TAMAÑO GRAFICA 2X1MTS EN TELA PVC IMPRESIÓN TOOD COLOR, CON ESTRUCTURA RETRACTIL DE ALUMINIO Y BOLSO"
-    ],
-    [
-     "82101507",
-     "Folletos y catálogos publicitarios, servicios de publicidad y distribución",
-     210,
-     "IMANES 20*15CMS, CON NUMEROS DE ATENCIÓN DEL HOSPITAL, A COLOR"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=3765-301-COT26",
-   "sin_detalle": false,
-   "descripcion": "COMPRA DE MATERIALES DE PUBLICIDAD PARA APOYO EN LA ESTRATEGIA DE COMUNICACIONES DEL ESTABLECIMIENTO. LAS OFERTAS DEBERÁN ADJUNTAR IMAGENES REFERENCIALES DE LOS PRODUCTOS OFERTADOS. LA OFERTA SELECCIONADA QUEDARÁ SUJETA A LOS DISEÑOS QUE SE INDIQUEN LUEGO DE ADJUDICADA LA COMPRA."
-  },
   {
    "tipo": "POSIBLE",
    "motivos": [
@@ -200,6 +160,67 @@
    "descripcion": "Diseño y ejecución del Encuentro Arte, Cultura y Patrimonio el 4 de diciembre de 2026 en el Centro Cultural de Coyhaique (jornada de 4 horas), proyecto FNDR código 3465. Incluye coordinación general, montaje y ambientación de la exhibición de trabajos de los talleres, maestra/o de ceremonia, taller de oficios textiles patrimoniales para hasta 80 personas con materiales, amplificación y registro audiovisual. Detalle en especificaciones adjuntas."
   },
   {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "radio"
+   ],
+   "nueva": true,
+   "codigo": "1057062-460-COT26",
+   "nombre": "Servicio de alojamiento para músicos_Programa Orquesta_FISABS 2317",
+   "organismo": "UNIVERSIDAD DE AYSEN",
+   "unidad": "Proyectos",
+   "monto": 1000000,
+   "cierre_iso": "2026-10-16T15:37:00-03:00",
+   "publicacion": "15-10 15:35",
+   "publicacion_iso": "2026-10-15T15:35:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "90111801",
+     "Habitación sencilla",
+     6,
+     "Se requiere servicio de alojamiento para 6 noches habitación single con desayuno incluido que cuente con baño privado y toalla. Dentro del radio urbano de Coyhaique. El servicio será utilizado en las siguientes fechas. Octubre In 18 de octubre de 2026 Out 24 de octubre de 2026. Horario por confirmar. Según EETT adjunto."
+    ],
+    [
+     "90111802",
+     "Habitación doble",
+     6,
+     "Se requiere servicio de alojamiento para 6 noches habitación doble con desayuno incluido que cuente con baño privado y toallas. Dentro del radio urbano de Coyhaique. El servicio será utilizado en las siguientes fechas. Octubre In 18 de octubre de 2026 Out 24 de octubre de 2026. Horario por confirmar. Según EETT adjunto."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1057062-460-COT26",
+   "sin_detalle": false,
+   "descripcion": "Se requiere servicio de alojamiento con desayuno incluido para 3 personas por 6 noches dentro del radio urbano de Coyhaique según EETT adjunto (VER). Cotización debe indicar la especificación técnica de lo ofertado, la dirección la cual debe ser la misma que el alojamiento. El valor ofertado debe incluir impuestos. El servicio será utilizado en las siguientes fechas: In 18 de octubre de 2026 Out 24 de octubre de 2026. Horario por confirmar."
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "marketing",
+    "publicidad"
+   ],
+   "nueva": true,
+   "codigo": "1182705-193-COT26",
+   "nombre": "Estampado Sublimación Logo CFT Estatal Aysen \"TNS En Veterinaria y Producción Agropecuaria\" en trajes de cirugia alumnos Diurnos y Vesperinos.\t\t\t\t\t\t\t\t\t\t\t\t\t",
+   "organismo": "CENTRO DE FORMACIÓN TÉCNICA DE LA REGIÓN DE AYSÉN DEL GENERAL CARLOS I",
+   "unidad": "FINANZAS",
+   "monto": 163000,
+   "cierre_iso": "2026-10-16T16:00:00-03:00",
+   "publicacion": "15-10 15:13",
+   "publicacion_iso": "2026-10-15T15:13:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "60105409",
+     "Materiales educativos de publicidad y marketing de marca",
+     39,
+     "Estampado Sublimación Logo CFT Estatal Aysen \"TNS En Veterinaria y Producción Agropecuaria\" en trajes de cirugía alumnos Diurnos y Vespertinos, la entrega de logo deberá ser coordinada al siguiente correo: g.duran@aysencft.cl (Gypsy Duran)"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1182705-193-COT26",
+   "sin_detalle": false,
+   "descripcion": "Se solicita estampado del logo Institucional y el nombre de la carrera de TNS en Veterinaria y Producción agropecuaria, en trajes de cirugia para 39 alumnos de Sección Diurna y Vespertina, se solicita incluir en el servicio el retiro y entrega de los trajes."
+  },
+  {
    "tipo": "OPORTUNIDAD",
    "motivos": [
     "Ventas y marketing"
@@ -312,7 +333,7 @@
    "motivos": [
     "radio"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "4778-319-COT26",
    "nombre": "RELE- SOLICITUD N° 10134-MEL- MEJORAMIEN ENTORNO LABORAL-DEBE INCLUIR DESPACHO",
    "organismo": "SERVICIO NACIONAL DE SALUD HOSPITAL DE C",
@@ -552,6 +573,25 @@
   }
  ],
  "historial": [
+  {
+   "codigo": "3765-301-COT26",
+   "nombre": "MATERIALES PARA COMUNICACIONES ",
+   "organismo": "SERVICIO NACIONAL DE SALUD HOSPITAL DE C",
+   "monto": 600000,
+   "cierre_iso": "2026-10-15T15:00:00-03:00",
+   "tipo": "POSIBLE",
+   "motivos": [
+    "publicidad",
+    "publicitarios"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=3765-301-COT26",
+   "primera_vista_iso": "2026-10-14T14:56:34-03:00",
+   "removida_iso": "2026-10-15T16:05:38-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
   {
    "codigo": "4609-278-COT26",
    "nombre": "SERVICIO PRODUCCION EVENTO",
@@ -849,6 +889,12 @@
    "nombre": "ADQUISICION DE FRUTAS Y VERDURAS PARA LA SC Y JI PEQUITAS",
    "organismo": "Zona de Bienestar \"Coyhaique\"",
    "link": "https://buscador.mercadopublico.cl/ficha?code=911089-93-COT26"
+  },
+  {
+   "codigo": "657-94-COT26",
+   "nombre": " Adquisición Materiales y útiles de oficina por medio de GAS",
+   "organismo": "SERVICIO DE VIVIENDA Y URBANIZACION XI REGION",
+   "link": "https://buscador.mercadopublico.cl/ficha?code=657-94-COT26"
   },
   {
    "codigo": "657-94-COT26",

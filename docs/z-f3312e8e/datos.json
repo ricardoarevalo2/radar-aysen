@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-10-15T14:53:38.962158-03:00",
+ "actualizado": "2026-10-15T16:05:38.081181-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
- "total_region": 288,
+ "total_region": 277,
  "rubros": {
   "25172700": "Aire acondicionado",
   "25173900": "Componentes eléctricos",
@@ -19,218 +19,6 @@
   "39121400": "Conectores, enchufes y terminales"
  },
  "filas": [
-  {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Materiales de física de electricidad"
-   ],
-   "nueva": false,
-   "codigo": "1233615-793-COT26",
-   "nombre": "JGS [SOL-2026-00699] Adquisición de instrumentos musicales e insumos./ESCUELA BÁSICA HERNÁN MERINO CORREA.",
-   "organismo": "Servicio Local de Educación Pública Aysén",
-   "unidad": "Servicio Local de Educación Pública Aysén",
-   "monto": 998612,
-   "cierre_iso": "2026-10-15T15:00:00-03:00",
-   "publicacion": "14-10 13:25",
-   "publicacion_iso": "2026-10-14T13:25:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "60104906",
-     "Kits de batería",
-     1,
-     "Adquisición de instrumentos musicales e insumos./ESCUELA BÁSICA HERNÁN MERINO CORREA., DE ACUERDO A DETALLE."
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1233615-793-COT26",
-   "sin_detalle": false,
-   "descripcion": "Adquisición de instrumentos musicales e insumos./ESCUELA BÁSICA HERNÁN MERINO CORREA."
-  },
-  {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Materiales de física de electricidad"
-   ],
-   "nueva": false,
-   "codigo": "1233615-792-COT26",
-   "nombre": "JGS [SOL-2026-01876] Insumos musicales/ LICEO BICENTENARIO AUSTRAL LORD COCHRANE.",
-   "organismo": "Servicio Local de Educación Pública Aysén",
-   "unidad": "Servicio Local de Educación Pública Aysén",
-   "monto": 250000,
-   "cierre_iso": "2026-10-15T15:00:00-03:00",
-   "publicacion": "14-10 13:08",
-   "publicacion_iso": "2026-10-14T13:08:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "60104906",
-     "Kits de batería",
-     1,
-     "Insumos musicales Parche Resonante Bombo, CONFORME A DETALLE."
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1233615-792-COT26",
-   "sin_detalle": false,
-   "descripcion": "Insumos musicales LICEO BICENTENARIO AUSTRAL LORD COCHRANE"
-  },
-  {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Cables eléctricos y accesorios",
-    "Cajas y accesorios eléctricos",
-    "Interruptores, controles y relés"
-   ],
-   "nueva": false,
-   "codigo": "1403-445-COT26",
-   "nombre": "COMPRA DE MATERIALES REPARACION Y MEJORAMIENTO BODEGA ALIMENTACIÓN CDP PTO AYSEN",
-   "organismo": "Dirección Regional de Gendarmeria - Coyhaique",
-   "unidad": "Región de Aysén",
-   "monto": 750000,
-   "cierre_iso": "2026-10-15T16:00:00-03:00",
-   "publicacion": "14-10 12:17",
-   "publicacion_iso": "2026-10-14T12:17:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "31201601",
-     "Adhesivos químicos",
-     6,
-     "06 UND BOLSAS ADHESIVO BEKRON POLVO 25KG"
-    ],
-    [
-     "31201616",
-     "Adhesivos líquidos",
-     4,
-     "04 UND BEKRON AC PASTA 25KG BALDE"
-    ],
-    [
-     "30131704",
-     "Azulejos o baldosas de cerámica",
-     12,
-     "12 CAJAS PORCELANATO MURO ICE MATE BLANCO 30*60 CAJA 1,44M2"
-    ],
-    [
-     "31161503",
-     "Clavo-tornillo",
-     2,
-     "02 CAJA BOLSA TORNILLO VOLCANITA CRS 1\"*100 UND"
-    ],
-    [
-     "27111704",
-     "Enchufes",
-     4,
-     "04 UND ENCHUFE TRIPLE 10/16A EMBUTIDO BLANCO"
-    ],
-    [
-     "39121303",
-     "Cajas eléctricas",
-     4,
-     "04 CAJA CHUQUI BLANCA"
-    ],
-    [
-     "39121303",
-     "Cajas eléctricas",
-     4,
-     "04 UND MOLDURA ELECTRICA 40*16*2M"
-    ],
-    [
-     "32111503",
-     "Diodos emisores de luz (LED)",
-     6,
-     "06 UND FOCO PANEL LED SP18W REDONDO LUZ FRIA"
-    ],
-    [
-     "39121533",
-     "Piezas de interruptor y accesorios",
-     2,
-     "02 UND INTERRUPTOR DOBLE9/15 EMB CHAMPAGNE BEIGE SINTHESI"
-    ],
-    [
-     "31201502",
-     "Cinta autoadhesiva aislante eléctrica",
-     5,
-     "05 UND CINTA AISLANTE 19MM*18,3M MOD 3M COLOR NEGRO"
-    ],
-    [
-     "39121309",
-     "Cajas eléctricas especiales",
-     2,
-     "02 CAJA DERIVACION DISTRIBUCION S/P MOLDURA 65*65*35MM"
-    ],
-    [
-     "31162103",
-     "Anclajes de pared",
-     200,
-     "200 UND TARUGO NYLON 6MM"
-    ],
-    [
-     "31161503",
-     "Clavo-tornillo",
-     1,
-     "01 CAJA TORNILLO LENTEJA PUNTA BROCA 8*1\"*100 UND CAJA"
-    ],
-    [
-     "26121635",
-     "Rollos de cable",
-     50,
-     "50 MTS CABLE EVA H07Z1-K 2,5MM * MTS ROJO"
-    ],
-    [
-     "26121635",
-     "Rollos de cable",
-     50,
-     "50 MTS CABLE EVA H07Z1-K 2,5MM * MTS VERDE"
-    ],
-    [
-     "26121635",
-     "Rollos de cable",
-     50,
-     "50 MTS CABLE EVA H07Z1-K 2,5MM * MTS BLANCO"
-    ],
-    [
-     "31201601",
-     "Adhesivos químicos",
-     10,
-     "10 UND FRAGUE BLANCO * 1KG"
-    ],
-    [
-     "30152003",
-     "Murallas de fibrocemento",
-     5,
-     "05 PLANCHA PERMANIT INTERNIT fibrocemento 6MM"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1403-445-COT26",
-   "sin_detalle": false,
-   "descripcion": "E1O2RT9 LOS PRODUCTOS DEBEN SER ENTREGADOS EN ARMANDO HERNANDEZ 576, PUERTO AYSEN. FLETE INCLUIDO EN PRECIO OFERTADO. SE DESESTIMARAN LAS OFERTAS VALORADAS EN O - 1 PESO. SERAN VALIDAS LAS OFERTAS QUE CUMPLAN CON LA TOTALIDAD DE LOS PRODUCTOS. SE EVALUARA CON LOS CRITERIOS: 60% PRECIO, 30% PLAZO DE ENTREGA EN LUGAR DE DESTINO Y 10% POLITICAS SUSTENTABILIDAD. NO SE ACEPTARÁN OFERTAS IGUAL O SUPERIOR A 3 DIAS HABILES X URGENCIA DEL REQUERIMIENTO."
-  },
-  {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Enfriamiento (aires acondicionados)"
-   ],
-   "nueva": false,
-   "codigo": "1104680-15-COT26",
-   "nombre": "ADQUISICION E INSTALACION DE SISTEMA DE CLIMATIZACION EN RECINTO \"CASA SENDA \"",
-   "organismo": "SERVICIO NACIONAL DE SALUD HOSPITAL DE C",
-   "unidad": "Fondos Extrapresupestarios",
-   "monto": 5000000,
-   "cierre_iso": "2026-10-15T16:00:00-03:00",
-   "publicacion": "13-10 12:25",
-   "publicacion_iso": "2026-10-13T12:25:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "40101701",
-     "Aires acondicionados",
-     1,
-     "ADQUISICION E INSTALACION DE SISTEMA DE CLIMATIZACION EN RECINTO \"CASA SENDA \"\nUBICADA EN CALLE JOSE MIGUEL CARRERA s/n, COMUNA DE CHILE CHICO, REGION DE AYSEN , INCLUYENDO SUMINISTROS DE EQUIPOS, TRASLADO, ISNTALACION Y PUESTA EN FUNCIONAMIENTO, EQUIPOS CONSIDERADOS :\n- 1 EQUIPO AIRE ACONDICIONADO multi split 5x1 de 9000 BTU C/U\n- 1 EQUIPO AIRE ACONDICIONADO SPLIT INVERTER DE 22000 BTU O SUPERIOR \n- 1 EQUIPO AIRE ACONDICIONADO SPLIT INVERTER DE 12000 BTU \nSE ADJUNTA INFORMACION Y PLANO REFERENC"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1104680-15-COT26",
-   "sin_detalle": false,
-   "descripcion": "ADQUISICION E INSTALACION DE SISTEMA DE CLIMATIZACION EN RECINTO \"CASA SENDA \" UBICADA EN CALLE JOSE MIGUEL CARRERA s/n, COMUNA DE CHILE CHICO, REGION DE AYSEN , INCLUYENDO SUMINISTROS DE EQUIPOS, TRASLADO, ISNTALACION Y PUESTA EN FUNCIONAMIENTO, EQUIPOS CONSIDERADOS :\n- 1 EQUIPO AIRE ACONDICIONADO multi split 5x1 de 9000 BTU C/U\n- 1 EQUIPO AIRE ACONDICIONADO SPLIT INVERTER DE 22000 BTU O SUPERIOR \n- 1 EQUIPO AIRE ACONDICIONADO SPLIT INVERTER DE 12000 BTU \nSE ADJUNTA INFORMACION Y PLANO REFEREN."
-  },
   {
    "tipo": "POSIBLE",
    "motivos": [
@@ -512,6 +300,93 @@
   {
    "tipo": "OPORTUNIDAD",
    "motivos": [
+    "Conectores, enchufes y terminales"
+   ],
+   "nueva": true,
+   "codigo": "4778-329-COT26",
+   "nombre": "VEM-ALMOHADAS, CUBRE COLCHÓN, JUEGO DE VAJILLA, JUEGO DE VASOS, TAZONES, INDIVIDUALES, CUCHARAS, CUCHARA DE TÉ, TENEDOR, CUCHILLO, ALARGADOR O ZAPATILLA ELÉCTRICA",
+   "organismo": "SERVICIO NACIONAL DE SALUD HOSPITAL DE C",
+   "unidad": "Compras de Insumos y Servicios Generales",
+   "monto": 380109,
+   "cierre_iso": "2026-10-16T15:35:00-03:00",
+   "publicacion": "15-10 15:31",
+   "publicacion_iso": "2026-10-15T15:31:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "42132104",
+     "Almohadas antimicrobianas de hospital",
+     8,
+     "ALMOHADAS Tamaño estándar (aprox. 50x70 cm), relleno hipoalergénico de fibra siliconada con memoria o alta resiliencia (que no pierda forma rápidamente), funda exterior lavable de composición transpirable (algodón/poliéster)."
+    ],
+    [
+     "52121504",
+     "Fundas de colchón",
+     8,
+     "CUBRE COLCHÓN Formato para colchón de 1 plaza (estándar institucional), confeccionado con tela superior suave (algodón o microfibra) y lámina posterior inferior de poliuretano (PU) u otro material 100% impermeable, lavable en máquina, con elástico perimetral ajustable para fijación segura"
+    ],
+    [
+     "52152016",
+     "Vajilla de uso doméstico",
+     2,
+     "JUEGO DE VAJILLA DE 8 UDS. Set de loza o porcelana de alta resistencia al impacto térmico y mecánico (apto para uso institucional intensivo), apto para microondas y lavavajillas. Debe incluir platos hondos, platos planos y platos de pan (para la cantidadde usuarios determinada por el centro)."
+    ],
+    [
+     "52152016",
+     "Vajilla de uso doméstico",
+     2,
+     "VASOS DE 6 UDS. Vasos de vidrio templado o policarbonato de alta resistencia"
+    ],
+    [
+     "52152016",
+     "Vajilla de uso doméstico",
+     10,
+     "TAZONES Fabricados en cerámica esmaltada de alta resistencia o loza gruesa; capacidad mínima de 320 cC; asa ergonómica reforzada; aptos para uso en microondas y lavado institucional automático"
+    ],
+    [
+     "52152016",
+     "Vajilla de uso doméstico",
+     8,
+     "INDIVIDUAL ECOCUERO De mesa confeccionados en ecocuero (cuero sintético) de alta densidad y doble costura o bordes sellados; superficie 100% impermeable, lavable con paño húmedo y soluciones desinfectantes; propiedad antideslizante y resistencia térmica moderada"
+    ],
+    [
+     "52152016",
+     "Vajilla de uso doméstico",
+     6,
+     "CUCHARA SOPERA Fabricados íntegramente en acero inoxidable de calidad alimentaria, set básico para uso intensivo (JUEGO DE 3)"
+    ],
+    [
+     "52152016",
+     "Vajilla de uso doméstico",
+     6,
+     "CUCHARA DE TÉ Fabricada en acero inoxidable de calidad alimentaria; tamaño estándar para servicio de té/café; espesor mínimo de 1.2 mm a 1.5 mm de alta resistencia al doblado (JUEGO DE 3)"
+    ],
+    [
+     "52152016",
+     "Vajilla de uso doméstico",
+     6,
+     "TENEDOR Fabricado en acero inoxidable de calidad alimentaria; 4 dientes alineados y afilados de forma segura; espesor mínimo de 1.8 mm a 2 mm; alta resistencia estructural para uso diario intensivo (JUEGO DE 3)"
+    ],
+    [
+     "52152016",
+     "Vajilla de uso doméstico",
+     6,
+     "CUCHILLO Fabricado en acero inoxidable de alta calidad con aleación apta para mantener el filo de mesa; hoja con sierra fina/fina dentada (JUEGO DE 3)"
+    ],
+    [
+     "39121409",
+     "Conectores de cables eléctricos",
+     3,
+     "ALARGADOR Unidades debidamente certificadas por la SEC (Superintendencia de Electricidad y Combustibles), con un mínimo de 4 a 6 alvéolos (enchufes) con toma de tierra, cable de extensión mínimo de 1.5 a 3 metros de largo, e interruptor de encendido/apagado con protección de sobrecarga (fusible o interruptor térmico integrado)."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=4778-329-COT26",
+   "sin_detalle": false,
+   "descripcion": "1. LEER ADJUNTOS PARA AJUSTARSE A ESPECIFICACIONES. 2. INCLUIR FOTOS,COTIZACIÓN FORMAL Y ESPECIFICACIONES TÉCNICAS EN ESPAÑOL. INDIQUE GARANTÍAS, PLAZOS DE REPOSICIÓN Y TODA INFORMACIÓN ÚTIL PARA EL ANÁLISIS Y COMPARACIÓN DE OFERTAS. 3. INCLUIR EMBALAJE Y FLETE A DIRECCIÓN DE DESPACHO. 4. VIGENCIA DEL PRODUCTO DEBE SER SUPERIOR A UN AÑO COMO MÍNIMO. 5. NO PARCIALIZAR DESPACHO (UN SÓLO ENVÍO) 6. NO DEBE ESTAR SUJETA A STOCK (COTIZACIONES Y MARCAS Y VALORES ADJUNTOS SON REFERENCIALES)"
+  },
+  {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
     "Enfriamiento (aires acondicionados)"
    ],
    "nueva": true,
@@ -541,7 +416,7 @@
    "motivos": [
     "generador"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "3540-274-COT26",
    "nombre": "REPUESTOS GENERADOR DEE 8KVA KOLVO ",
    "organismo": "Ejercito de Chile",
@@ -796,7 +671,7 @@
    "motivos": [
     "enchufe"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "4626-32-COT26",
    "nombre": "Provisión e instalación de cuatro (4) puntos de red y provisión e instalación de un (1) enchufe triple para oficinas de la Dirección Regional del Trabajo Región de Aysén",
    "organismo": "DIRECCION DEL TRABAJO",
@@ -1142,6 +1017,80 @@
    "primera_vista_iso": "2026-10-13T08:42:41-03:00",
    "removida_iso": "2026-10-13T09:52:56-03:00",
    "estado_api": "",
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
+  {
+   "codigo": "1104680-15-COT26",
+   "nombre": "ADQUISICION E INSTALACION DE SISTEMA DE CLIMATIZACION EN RECINTO \"CASA SENDA \"",
+   "organismo": "SERVICIO NACIONAL DE SALUD HOSPITAL DE C",
+   "monto": 5000000,
+   "cierre_iso": "2026-10-15T16:00:00-03:00",
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Enfriamiento (aires acondicionados)"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1104680-15-COT26",
+   "primera_vista_iso": "2026-10-13T12:44:50-03:00",
+   "removida_iso": "2026-10-15T16:05:38-03:00",
+   "estado_api": "",
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
+  {
+   "codigo": "1403-445-COT26",
+   "nombre": "COMPRA DE MATERIALES REPARACION Y MEJORAMIENTO BODEGA ALIMENTACIÓN CDP PTO AYSEN",
+   "organismo": "Dirección Regional de Gendarmeria - Coyhaique",
+   "monto": 750000,
+   "cierre_iso": "2026-10-15T16:00:00-03:00",
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Cables eléctricos y accesorios",
+    "Cajas y accesorios eléctricos",
+    "Interruptores, controles y relés"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1403-445-COT26",
+   "primera_vista_iso": "2026-10-14T13:59:10-03:00",
+   "removida_iso": "2026-10-15T16:05:38-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
+  {
+   "codigo": "1233615-793-COT26",
+   "nombre": "JGS [SOL-2026-00699] Adquisición de instrumentos musicales e insumos./ESCUELA BÁSICA HERNÁN MERINO CORREA.",
+   "organismo": "Servicio Local de Educación Pública Aysén",
+   "monto": 998612,
+   "cierre_iso": "2026-10-15T15:00:00-03:00",
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Materiales de física de electricidad"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1233615-793-COT26",
+   "primera_vista_iso": "2026-10-14T13:59:10-03:00",
+   "removida_iso": "2026-10-15T16:05:38-03:00",
+   "estado_api": "",
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
+  {
+   "codigo": "1233615-792-COT26",
+   "nombre": "JGS [SOL-2026-01876] Insumos musicales/ LICEO BICENTENARIO AUSTRAL LORD COCHRANE.",
+   "organismo": "Servicio Local de Educación Pública Aysén",
+   "monto": 250000,
+   "cierre_iso": "2026-10-15T15:00:00-03:00",
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Materiales de física de electricidad"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1233615-792-COT26",
+   "primera_vista_iso": "2026-10-14T13:59:10-03:00",
+   "removida_iso": "2026-10-15T16:05:38-03:00",
+   "estado_api": null,
    "adj_nombre": null,
    "adj_monto": null,
    "adj_iso": null
@@ -1539,6 +1488,12 @@
    "nombre": "ADQUISICION DE FRUTAS Y VERDURAS PARA LA SC Y JI PEQUITAS",
    "organismo": "Zona de Bienestar \"Coyhaique\"",
    "link": "https://buscador.mercadopublico.cl/ficha?code=911089-93-COT26"
+  },
+  {
+   "codigo": "657-94-COT26",
+   "nombre": " Adquisición Materiales y útiles de oficina por medio de GAS",
+   "organismo": "SERVICIO DE VIVIENDA Y URBANIZACION XI REGION",
+   "link": "https://buscador.mercadopublico.cl/ficha?code=657-94-COT26"
   },
   {
    "codigo": "657-94-COT26",
