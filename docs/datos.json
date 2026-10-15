@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-10-15T17:55:27.145810-03:00",
+ "actualizado": "2026-10-15T18:54:09.259032-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
- "total_region": 296,
+ "total_region": 294,
  "rubros": {
   "80141600": "Ventas y marketing",
   "82101600": "Publicidad en medios no impresos",
@@ -608,6 +608,33 @@
    "descripcion": "Proyecto MEL,se solicita según Resolución Exenta NO 3032/2026 del 17-08-2026 según Clasificador Presupuestario al subtitulo 29.05,se requiere la compra de articulos segun anexo seran consideradas las ofertas listado completo.SE REQUIERE COTIZAR TODOS LOS ARTICULOS,INCLUIR DESPACHO."
   },
   {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Ventas y marketing"
+   ],
+   "nueva": true,
+   "codigo": "4066-424-COT26",
+   "nombre": "Servicio de Producción de Eventos, Feria Productiva, Lanzamiento Temporada Turística 2026-2027 en Puerto Río Tranquilo - COD BIP 40066883-0",
+   "organismo": "I MUNICIPALIDAD RIO IBANEZ",
+   "unidad": "DIDECO",
+   "monto": 7150000,
+   "cierre_iso": "2026-10-19T19:00:00-03:00",
+   "publicacion": "15-10 18:38",
+   "publicacion_iso": "2026-10-15T18:38:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "80141607",
+     "Producción de eventos",
+     1,
+     "Servicio integral de producción de la feria productiva de lanzamiento de temporada turística 2026-2027, sábado 31 de octubre de 2026, plaza de Puerto Río Tranquilo (montaje desde 08:00). Incluye música en vivo, animación, sonido e iluminación, ornamentación y montaje, alimentación, merchandising, reconocimientos y registro fotográfico. Cotizar valor único y total, impuesto incluido, máximo $7.150.000. Detalle y requisitos en TDR adjunto."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=4066-424-COT26",
+   "sin_detalle": false,
+   "descripcion": "Servicio de producción para la feria productiva de lanzamiento de la temporada turística 2026-2027, el sábado 31 de octubre de 2026 en la plaza de Puerto Río Tranquilo. Incluye música en vivo, animación, sonido e iluminación, ornamentación y montaje, alimentación, merchandising, reconocimientos y registro fotográfico. Presupuesto: $7.150.000 impuesto incluido. Requiere patente municipal o exención. Ver TDR adjunto."
+  },
+  {
    "tipo": "POSIBLE",
    "motivos": [
     "radio"
@@ -1011,28 +1038,10 @@
  ],
  "pendientes": [
   {
-   "codigo": "911089-93-COT26",
-   "nombre": "ADQUISICION DE FRUTAS Y VERDURAS PARA LA SC Y JI PEQUITAS",
-   "organismo": "Zona de Bienestar \"Coyhaique\"",
-   "link": "https://buscador.mercadopublico.cl/ficha?code=911089-93-COT26"
-  },
-  {
    "codigo": "657-94-COT26",
    "nombre": " Adquisición Materiales y útiles de oficina por medio de GAS",
    "organismo": "SERVICIO DE VIVIENDA Y URBANIZACION XI REGION",
    "link": "https://buscador.mercadopublico.cl/ficha?code=657-94-COT26"
-  },
-  {
-   "codigo": "657-94-COT26",
-   "nombre": " Adquisición Materiales y útiles de oficina por medio de GAS",
-   "organismo": "SERVICIO DE VIVIENDA Y URBANIZACION XI REGION",
-   "link": "https://buscador.mercadopublico.cl/ficha?code=657-94-COT26"
-  },
-  {
-   "codigo": "4644-86-COT26",
-   "nombre": "MATERIALES DE ESCRITORIO GORE MAÑIHUALES SIC:430  SIRE:404",
-   "organismo": "CORP NACIONAL FORESTAL",
-   "link": "https://buscador.mercadopublico.cl/ficha?code=4644-86-COT26"
   }
  ]
 }
