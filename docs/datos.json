@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-10-15T11:03:49.109150-03:00",
+ "actualizado": "2026-10-15T11:57:55.616960-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
- "total_region": 271,
+ "total_region": 293,
  "rubros": {
   "80141600": "Ventas y marketing",
   "82101600": "Publicidad en medios no impresos",
@@ -229,6 +229,60 @@
   {
    "tipo": "POSIBLE",
    "motivos": [
+    "difusion",
+    "difusión",
+    "publicidad",
+    "publicitarios"
+   ],
+   "nueva": true,
+   "codigo": "1201-184-COT26",
+   "nombre": "MATERIAL DE DIFUSION, PROGRAMA FORMACION PARA EL DEPORTE, COMPONENTE  ENCUENTROS FORMATIVOS DEPORTIVOS 2026. SEGÚN TDR ADJUNTAS",
+   "organismo": "INSTITUTO NACIONAL DE DEPORTES DE CHILE",
+   "unidad": "I.N.D. REGION XI",
+   "monto": 1000000,
+   "cierre_iso": "2026-10-19T12:00:00-03:00",
+   "publicacion": "15-10 11:34",
+   "publicacion_iso": "2026-10-15T11:34:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "82101507",
+     "Folletos y catálogos publicitarios, servicios de publicidad y distribución",
+     1,
+     "Pendón de\nPVC de 7x1\nmetro, full\ncolor,\npersolnalizado"
+    ],
+    [
+     "82101507",
+     "Folletos y catálogos publicitarios, servicios de publicidad y distribución",
+     8,
+     "Banderas\npersonalizadas\nfull color."
+    ],
+    [
+     "82101507",
+     "Folletos y catálogos publicitarios, servicios de publicidad y distribución",
+     6,
+     "Banderas\npersonalizadas\nfull color."
+    ],
+    [
+     "82101507",
+     "Folletos y catálogos publicitarios, servicios de publicidad y distribución",
+     1,
+     "Trovicel\npersonalizado\nfull color"
+    ],
+    [
+     "82101507",
+     "Folletos y catálogos publicitarios, servicios de publicidad y distribución",
+     4,
+     "Pendón de\nPVC de 3x1\nmetro, full\ncolor\npersonalizado"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1201-184-COT26",
+   "sin_detalle": false,
+   "descripcion": "La necesidad de contar con material de difusión necesario para actividad a realizarse el día 13 de\nnoviembre del 2026 en la localidad de Cerro Castillo, por el Programa Formación para el Deporte\ncomponente Encuentros Formativos Deportivos del Instituto Nacional De Deporte Región de\nAysén."
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
     "radio"
    ],
    "nueva": true,
@@ -414,6 +468,33 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=4778-319-COT26",
    "sin_detalle": false,
    "descripcion": "Proyecto MEL,se solicita según Resolución Exenta NO 3032/2026 del 17-08-2026 según Clasificador Presupuestario al subtitulo 29.05,se requiere la compra de articulos segun anexo seran consideradas las ofertas listado completo.SE REQUIERE COTIZAR TODOS LOS ARTICULOS,INCLUIR DESPACHO."
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "radio"
+   ],
+   "nueva": true,
+   "codigo": "4144-304-COT26",
+   "nombre": "Se requiere la adquisicion de un equipo de radio portatil para la localidad de Villa Amengual",
+   "organismo": "I MUNICIPALIDAD DE LAGO VERDE",
+   "unidad": "Finanzas",
+   "monto": 100000,
+   "cierre_iso": "2026-10-20T10:00:00-03:00",
+   "publicacion": "15-10 11:31",
+   "publicacion_iso": "2026-10-15T11:31:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "43221704",
+     "Equipo básico de radio",
+     1,
+     "kit de 2 radios portatiles  VHF/UHF segun TDR adjunto"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=4144-304-COT26",
+   "sin_detalle": false,
+   "descripcion": "Se requiere la adquisicion de un equipo de radio portatil para la localidad de Villa Amengual"
   },
   {
    "tipo": "OPORTUNIDAD",
@@ -754,6 +835,12 @@
   }
  ],
  "pendientes": [
+  {
+   "codigo": "911089-93-COT26",
+   "nombre": "ADQUISICION DE FRUTAS Y VERDURAS PARA LA SC Y JI PEQUITAS",
+   "organismo": "Zona de Bienestar \"Coyhaique\"",
+   "link": "https://buscador.mercadopublico.cl/ficha?code=911089-93-COT26"
+  },
   {
    "codigo": "657-94-COT26",
    "nombre": " Adquisición Materiales y útiles de oficina por medio de GAS",

@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-10-15T11:03:49.109150-03:00",
+ "actualizado": "2026-10-15T11:57:55.616960-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
- "total_region": 271,
+ "total_region": 293,
  "rubros": {
   "25172700": "Aire acondicionado",
   "25173900": "Componentes eléctricos",
@@ -19,268 +19,6 @@
   "39121400": "Conectores, enchufes y terminales"
  },
  "filas": [
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "electricidad",
-    "interruptor",
-    "transformador"
-   ],
-   "nueva": false,
-   "codigo": "1182705-190-COT26",
-   "nombre": "MATERIALES PARA TNS EN ELECTRICIDAD CFT AYSEN SEDE COYHAIQUE",
-   "organismo": "CENTRO DE FORMACIÓN TÉCNICA DE LA REGIÓN DE AYSÉN DEL GENERAL CARLOS I",
-   "unidad": "FINANZAS",
-   "monto": 1970000,
-   "cierre_iso": "2026-10-15T11:30:00-03:00",
-   "publicacion": "14-10 10:27",
-   "publicacion_iso": "2026-10-14T10:27:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "60106104",
-     "Materiales de enseñanza de electricidad o electrónica",
-     2,
-     "TACOMETRO DE CONTACTO UT-373"
-    ],
-    [
-     "60106104",
-     "Materiales de enseñanza de electricidad o electrónica",
-     1,
-     "VARIAC MONOFASICO 250VAC 2KVA"
-    ],
-    [
-     "60106104",
-     "Materiales de enseñanza de electricidad o electrónica",
-     2,
-     "SET DESATORNILLADOR DE PRECISION AISLADO INGCO 6PZS"
-    ],
-    [
-     "60106104",
-     "Materiales de enseñanza de electricidad o electrónica",
-     5,
-     "INTERRUPTOR DIFERENCIAL 2 POLOS 25A 30MA TIPO A"
-    ],
-    [
-     "60106104",
-     "Materiales de enseñanza de electricidad o electrónica",
-     4,
-     "TRANSFORMADOR 220V A 24V 500MA"
-    ],
-    [
-     "60106104",
-     "Materiales de enseñanza de electricidad o electrónica",
-     50,
-     "SALIDA CAJA C/HILO 16MM EMT"
-    ],
-    [
-     "60106104",
-     "Materiales de enseñanza de electricidad o electrónica",
-     50,
-     "SALIDA CAJA C/HILO 20MM EMT"
-    ],
-    [
-     "60106104",
-     "Materiales de enseñanza de electricidad o electrónica",
-     1,
-     "MEDIDOR DE RESISTENCIA DE AISLACIÓN MEGÓHMETRO UT511"
-    ],
-    [
-     "60106104",
-     "Materiales de enseñanza de electricidad o electrónica",
-     1,
-     "MEDIDOR DE POTENCIA ARMÓNICO DE PINZA UT-243"
-    ],
-    [
-     "60106104",
-     "Materiales de enseñanza de electricidad o electrónica",
-     20,
-     "SET CINTAS AISLADORAS AUTO EXTINGUIBLE 19MM X 20 MTS (NEGRA, ROJA, BLANCO Y VERDE)"
-    ],
-    [
-     "60106104",
-     "Materiales de enseñanza de electricidad o electrónica",
-     4,
-     "CABLE 1x2,5 mm2 BLANCO 10 METROS"
-    ],
-    [
-     "60106104",
-     "Materiales de enseñanza de electricidad o electrónica",
-     4,
-     "CABLE 1x2,5 mm2 ROJO 10 METROS"
-    ],
-    [
-     "60106104",
-     "Materiales de enseñanza de electricidad o electrónica",
-     4,
-     "CABLE 1x2,5 mm2 VERDE 10 METROS\t\t\t\t150000\t600000"
-    ],
-    [
-     "60106104",
-     "Materiales de enseñanza de electricidad o electrónica",
-     4,
-     "CABLE 1x1,5 mm2 BLANCO 10 METROS"
-    ],
-    [
-     "60106104",
-     "Materiales de enseñanza de electricidad o electrónica",
-     4,
-     "CABLE 1x1,5 mm2 ROJO 10 METROS"
-    ],
-    [
-     "60106104",
-     "Materiales de enseñanza de electricidad o electrónica",
-     4,
-     "CABLE 1x1,5 mm2 VERDE 10 METROS"
-    ],
-    [
-     "60106104",
-     "Materiales de enseñanza de electricidad o electrónica",
-     20,
-     "INTERRUPTOR DOBLE 9/24"
-    ],
-    [
-     "60106104",
-     "Materiales de enseñanza de electricidad o electrónica",
-     20,
-     "INTERRUPTOR SIMPLE 9/24"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1182705-190-COT26",
-   "sin_detalle": false,
-   "descripcion": "SOLICITA COMPRA DE MATERIALES PARA TNS EN ELECTRICIDAD CFT AYSEN SEDE COYHAIQUE, SE SOLICITA ADJUNTAR FICHA TECNICA DE LO QUE SE ESTA OFERTANDO E INCLUIR COSTO DE DESPACHO HASTA NUESTRAS DEPENDENCIAS."
-  },
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "electricidad",
-    "interruptor",
-    "transformador"
-   ],
-   "nueva": false,
-   "codigo": "1182705-190-COT26",
-   "nombre": "MATERIALES PARA TNS EN ELECTRICIDAD CFT AYSEN SEDE COYHAIQUE",
-   "organismo": "CENTRO DE FORMACIÓN TÉCNICA DE LA REGIÓN DE AYSÉN DEL GENERAL CARLOS I",
-   "unidad": "FINANZAS",
-   "monto": 1970000,
-   "cierre_iso": "2026-10-15T11:30:00-03:00",
-   "publicacion": "14-10 10:27",
-   "publicacion_iso": "2026-10-14T10:27:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "60106104",
-     "Materiales de enseñanza de electricidad o electrónica",
-     2,
-     "TACOMETRO DE CONTACTO UT-373"
-    ],
-    [
-     "60106104",
-     "Materiales de enseñanza de electricidad o electrónica",
-     1,
-     "VARIAC MONOFASICO 250VAC 2KVA"
-    ],
-    [
-     "60106104",
-     "Materiales de enseñanza de electricidad o electrónica",
-     2,
-     "SET DESATORNILLADOR DE PRECISION AISLADO INGCO 6PZS"
-    ],
-    [
-     "60106104",
-     "Materiales de enseñanza de electricidad o electrónica",
-     5,
-     "INTERRUPTOR DIFERENCIAL 2 POLOS 25A 30MA TIPO A"
-    ],
-    [
-     "60106104",
-     "Materiales de enseñanza de electricidad o electrónica",
-     4,
-     "TRANSFORMADOR 220V A 24V 500MA"
-    ],
-    [
-     "60106104",
-     "Materiales de enseñanza de electricidad o electrónica",
-     50,
-     "SALIDA CAJA C/HILO 16MM EMT"
-    ],
-    [
-     "60106104",
-     "Materiales de enseñanza de electricidad o electrónica",
-     50,
-     "SALIDA CAJA C/HILO 20MM EMT"
-    ],
-    [
-     "60106104",
-     "Materiales de enseñanza de electricidad o electrónica",
-     1,
-     "MEDIDOR DE RESISTENCIA DE AISLACIÓN MEGÓHMETRO UT511"
-    ],
-    [
-     "60106104",
-     "Materiales de enseñanza de electricidad o electrónica",
-     1,
-     "MEDIDOR DE POTENCIA ARMÓNICO DE PINZA UT-243"
-    ],
-    [
-     "60106104",
-     "Materiales de enseñanza de electricidad o electrónica",
-     20,
-     "SET CINTAS AISLADORAS AUTO EXTINGUIBLE 19MM X 20 MTS (NEGRA, ROJA, BLANCO Y VERDE)"
-    ],
-    [
-     "60106104",
-     "Materiales de enseñanza de electricidad o electrónica",
-     4,
-     "CABLE 1x2,5 mm2 BLANCO 10 METROS"
-    ],
-    [
-     "60106104",
-     "Materiales de enseñanza de electricidad o electrónica",
-     4,
-     "CABLE 1x2,5 mm2 ROJO 10 METROS"
-    ],
-    [
-     "60106104",
-     "Materiales de enseñanza de electricidad o electrónica",
-     4,
-     "CABLE 1x2,5 mm2 VERDE 10 METROS\t\t\t\t150000\t600000"
-    ],
-    [
-     "60106104",
-     "Materiales de enseñanza de electricidad o electrónica",
-     4,
-     "CABLE 1x1,5 mm2 BLANCO 10 METROS"
-    ],
-    [
-     "60106104",
-     "Materiales de enseñanza de electricidad o electrónica",
-     4,
-     "CABLE 1x1,5 mm2 ROJO 10 METROS"
-    ],
-    [
-     "60106104",
-     "Materiales de enseñanza de electricidad o electrónica",
-     4,
-     "CABLE 1x1,5 mm2 VERDE 10 METROS"
-    ],
-    [
-     "60106104",
-     "Materiales de enseñanza de electricidad o electrónica",
-     20,
-     "INTERRUPTOR DOBLE 9/24"
-    ],
-    [
-     "60106104",
-     "Materiales de enseñanza de electricidad o electrónica",
-     20,
-     "INTERRUPTOR SIMPLE 9/24"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1182705-190-COT26",
-   "sin_detalle": false,
-   "descripcion": "SOLICITA COMPRA DE MATERIALES PARA TNS EN ELECTRICIDAD CFT AYSEN SEDE COYHAIQUE, SE SOLICITA ADJUNTAR FICHA TECNICA DE LO QUE SE ESTA OFERTANDO E INCLUIR COSTO DE DESPACHO HASTA NUESTRAS DEPENDENCIAS."
-  },
   {
    "tipo": "POSIBLE",
    "motivos": [
@@ -1485,6 +1223,26 @@
    "adj_iso": null
   },
   {
+   "codigo": "1182705-190-COT26",
+   "nombre": "MATERIALES PARA TNS EN ELECTRICIDAD CFT AYSEN SEDE COYHAIQUE",
+   "organismo": "CENTRO DE FORMACIÓN TÉCNICA DE LA REGIÓN DE AYSÉN DEL GENERAL CARLOS I",
+   "monto": 1970000,
+   "cierre_iso": "2026-10-15T11:30:00-03:00",
+   "tipo": "POSIBLE",
+   "motivos": [
+    "electricidad",
+    "interruptor",
+    "transformador"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1182705-190-COT26",
+   "primera_vista_iso": "2026-10-14T10:58:30-03:00",
+   "removida_iso": "2026-10-15T11:57:55-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
+  {
    "codigo": "2713-1244-COT26",
    "nombre": "DIDECO SOL.1287.Adquisición de Microondas.",
    "organismo": "I MUNICIPALIDAD DE AYSEN",
@@ -1833,6 +1591,12 @@
   }
  ],
  "pendientes": [
+  {
+   "codigo": "911089-93-COT26",
+   "nombre": "ADQUISICION DE FRUTAS Y VERDURAS PARA LA SC Y JI PEQUITAS",
+   "organismo": "Zona de Bienestar \"Coyhaique\"",
+   "link": "https://buscador.mercadopublico.cl/ficha?code=911089-93-COT26"
+  },
   {
    "codigo": "657-94-COT26",
    "nombre": " Adquisición Materiales y útiles de oficina por medio de GAS",
