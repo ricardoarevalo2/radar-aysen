@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-10-15T18:54:09.259032-03:00",
+ "actualizado": "2026-10-15T19:50:45.831942-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
- "total_region": 294,
+ "total_region": 293,
  "rubros": {
   "80141600": "Ventas y marketing",
   "82101600": "Publicidad en medios no impresos",
@@ -633,6 +633,33 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=4066-424-COT26",
    "sin_detalle": false,
    "descripcion": "Servicio de producción para la feria productiva de lanzamiento de la temporada turística 2026-2027, el sábado 31 de octubre de 2026 en la plaza de Puerto Río Tranquilo. Incluye música en vivo, animación, sonido e iluminación, ornamentación y montaje, alimentación, merchandising, reconocimientos y registro fotográfico. Presupuesto: $7.150.000 impuesto incluido. Requiere patente municipal o exención. Ver TDR adjunto."
+  },
+  {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Ventas y marketing"
+   ],
+   "nueva": true,
+   "codigo": "4066-425-COT26",
+   "nombre": "Servicio de Producción de Eventos, Rueda de Negocios, Encuentro de Proveedores de Servicios Turísticos en Puerto Río Tranquilo - COD BIP 40066883-0",
+   "organismo": "I MUNICIPALIDAD RIO IBANEZ",
+   "unidad": "DIDECO",
+   "monto": 2750000,
+   "cierre_iso": "2026-10-19T20:00:00-03:00",
+   "publicacion": "15-10 19:18",
+   "publicacion_iso": "2026-10-15T19:18:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "80141607",
+     "Producción de eventos",
+     1,
+     "Servicio integral de producción de la rueda de negocios del componente 4, sábado 31 de octubre de 2026, jornada de tarde, en Puerto Río Tranquilo. Incluye carpa de 18 x 8 m o similar, amplificación básica, ornamentación y ambientación con armado y desarmado, y transporte de ida y vuelta para hasta 15 prestadores desde Bahía Murta y Puerto Sánchez. Cotizar valor único y total, impuesto incluido, máximo $2.750.000. Requisitos en TDR adjunto."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=4066-425-COT26",
+   "sin_detalle": false,
+   "descripcion": "Servicio de producción para la rueda de negocios “Encuentro de proveedores de servicios turísticos” (componente 4), que busca afianzar y fortalecer la economía comunal y regional. Sábado 31 de octubre de 2026, jornada de tarde, en Puerto Río Tranquilo. Incluye carpa de 18 x 8 m o similar, amplificación básica, ornamentación y ambientación (armado y desarmado) y bus para hasta 15 prestadores desde Bahía Murta y Puerto Sánchez. Presupuesto: $2.750.000 impuesto incluido. Ver TDR adjunto."
   },
   {
    "tipo": "POSIBLE",

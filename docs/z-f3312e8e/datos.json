@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-10-15T18:54:09.259032-03:00",
+ "actualizado": "2026-10-15T19:50:45.831942-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
- "total_region": 294,
+ "total_region": 293,
  "rubros": {
   "25172700": "Aire acondicionado",
   "25173900": "Componentes eléctricos",
@@ -1401,7 +1401,7 @@
    "motivos": [
     "Conectores, enchufes y terminales"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "1449-12-COT26",
    "nombre": "Adquisición de materiales de oficina ",
    "organismo": "FONDO DE SOLIDARIDAD E INVERSION SOCIAL",
