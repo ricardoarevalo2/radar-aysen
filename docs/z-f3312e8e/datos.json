@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-10-15T16:05:38.081181-03:00",
+ "actualizado": "2026-10-15T16:53:19.971078-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
- "total_region": 277,
+ "total_region": 284,
  "rubros": {
   "25172700": "Aire acondicionado",
   "25173900": "Componentes eléctricos",
@@ -1484,16 +1484,16 @@
  ],
  "pendientes": [
   {
+   "codigo": "1195-521-COT26",
+   "nombre": "Materiales para recambio de tableros alumbrado público",
+   "organismo": "I MUNICIPALIDAD DE COYHAIQUE",
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1195-521-COT26"
+  },
+  {
    "codigo": "911089-93-COT26",
    "nombre": "ADQUISICION DE FRUTAS Y VERDURAS PARA LA SC Y JI PEQUITAS",
    "organismo": "Zona de Bienestar \"Coyhaique\"",
    "link": "https://buscador.mercadopublico.cl/ficha?code=911089-93-COT26"
-  },
-  {
-   "codigo": "657-94-COT26",
-   "nombre": " Adquisición Materiales y útiles de oficina por medio de GAS",
-   "organismo": "SERVICIO DE VIVIENDA Y URBANIZACION XI REGION",
-   "link": "https://buscador.mercadopublico.cl/ficha?code=657-94-COT26"
   },
   {
    "codigo": "657-94-COT26",
