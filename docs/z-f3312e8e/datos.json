@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-10-15T07:57:33.215465-03:00",
+ "actualizado": "2026-10-15T08:55:42.561556-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
- "total_region": 263,
+ "total_region": 261,
  "rubros": {
   "25172700": "Aire acondicionado",
   "25173900": "Componentes eléctricos",
@@ -1006,6 +1006,57 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=1092-63-COT26",
    "sin_detalle": false,
    "descripcion": "La Corporación Nacional Forestal por medio del Departamento de Protección Contra Incendios Forestales Región de Aysén, requiere adquirir Servicio de mantención e instalación eléctrica en Base de Brigada de Villa Mañihuales, ubicada en Arturo Prat #1850, Villa Mañihuales Región de Aysén. (ver especificaciones técnicas adjuntas) y requisitos excluyentes"
+  },
+  {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Cajas y accesorios eléctricos"
+   ],
+   "nueva": true,
+   "codigo": "4609-281-COT26",
+   "nombre": "RELOJ CONTROL  BIOMETRICO Y OTROS",
+   "organismo": "I MUNICIPALIDAD DE CHILE CHICO",
+   "unidad": "Finanzas",
+   "monto": 3600000,
+   "cierre_iso": "2026-10-16T08:45:00-03:00",
+   "publicacion": "15-10 08:32",
+   "publicacion_iso": "2026-10-15T08:32:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "44103201",
+     "Reloj de control",
+     4,
+     "RELOJ CONTROL BIOMETRICO. Terminal de identificación por huella dactilar y reconocimiento, con comunicación PUSH sobre HTTPS. Modelo de referencia PSHV3000 o equivalente."
+    ],
+    [
+     "39121310",
+     "Cajas de uso general",
+     4,
+     "CONTENEDOR METALICO CON MINI UPS. Contenedor metálico con llave para terminal de asistencia, con mini UPS instalada en su interior. Autonomía mínima de 3 horas."
+    ],
+    [
+     "90121503",
+     "Servicio de fletes",
+     1,
+     "DESPACHO. Despacho de relojes y contenedores a Chile Chico, Región de Aysén."
+    ],
+    [
+     "43232901",
+     "Software de acceso",
+     3,
+     "SOFTWARE COMO SERVICIO (SAAS). Sistema de gestión de asistencia Cloud Versión Premium. Usuario Administrador/Puntos a Controlar. Ampliación por 10 meses (nov. 2026 a ago. 2027)."
+    ],
+    [
+     "43232901",
+     "Software de acceso",
+     17,
+     "SOFTWARE COMO SERVICIO (SAAS). Sistema de gestión de asistencia Cloud Versión Premium. Funcionario Gestionado por plataforma de gestión de asistencia Cloud. Ampliación por 10 meses (nov. 2026 a ago. 2027)."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=4609-281-COT26",
+   "sin_detalle": false,
+   "descripcion": "COTIZACION RELOJ CONTROL  BIOMETRICO Y OTROS"
   },
   {
    "tipo": "POSIBLE",
