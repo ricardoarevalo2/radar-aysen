@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-10-16T16:50:54.264014-03:00",
+ "actualizado": "2026-10-16T17:54:39.670568-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
- "total_region": 298,
+ "total_region": 297,
  "rubros": {
   "80141600": "Ventas y marketing",
   "82101600": "Publicidad en medios no impresos",
@@ -103,6 +103,33 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=4066-426-COT26",
    "sin_detalle": false,
    "descripcion": "CONTRATAR LOS SERVICIOS DE PRODUCCIÓN ARTÍSTICA PARA LA PRESENTACIÓN EN VIVO DE 01 AGRUPACIÓN MUSICAL DE MÚSICA REGIONAL MEXICANA, ESTILO NORTEÑO, CON ACORDEÓN COMO INSTRUMENTO PRINCIPAL, COMO NÚMERO DE CIERRE DEL FESTIVAL RANCHERO “JUAN HUEITRA LLAITUREO”, EL SÁBADO 14 DE NOVIEMBRE DE 2026, EN VILLA CERRO CASTILLO, COMUNA DE RÍO IBÁÑEZ."
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "fotografía"
+   ],
+   "nueva": true,
+   "codigo": "5575-124-COT26",
+   "nombre": "Maxi Sacos para retiro de residuos de reciclaje",
+   "organismo": "I MUNICIPALIDAD DE COYHAIQUE",
+   "unidad": "Dep. Gestion Medioambiente y Servic",
+   "monto": 2000000,
+   "cierre_iso": "2026-10-19T08:00:00-03:00",
+   "publicacion": "16-10 16:59",
+   "publicacion_iso": "2026-10-16T16:59:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "24111508",
+     "Saco de tienda",
+     220,
+     "Se requieren 220 Maxi Sacos para el retiro de residuos de reciclaje, con capacidad para 1.000 kg y aproximadamente 1 m3 de volumen de carga. Despacho incluido en el precio. Adjuntar ficha técnica con fotografía del producto."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=5575-124-COT26",
+   "sin_detalle": false,
+   "descripcion": "Se requieren 220 Maxi Sacos para el retiro de residuos de reciclaje, con capacidad para 1.000 kg y aproximadamente 1 m3 de volumen de carga. Despacho incluido en el precio. Adjuntar ficha técnica con fotografía del producto."
   },
   {
    "tipo": "OPORTUNIDAD",
@@ -711,33 +738,6 @@
     "Ventas y marketing"
    ],
    "nueva": true,
-   "codigo": "4066-424-COT26",
-   "nombre": "Servicio de Producción de Eventos, Feria Productiva, Lanzamiento Temporada Turística 2026-2027 en Puerto Río Tranquilo - COD BIP 40066883-0",
-   "organismo": "I MUNICIPALIDAD RIO IBANEZ",
-   "unidad": "DIDECO",
-   "monto": 7150000,
-   "cierre_iso": "2026-10-19T19:00:00-03:00",
-   "publicacion": "15-10 18:38",
-   "publicacion_iso": "2026-10-15T18:38:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "80141607",
-     "Producción de eventos",
-     1,
-     "Servicio integral de producción de la feria productiva de lanzamiento de temporada turística 2026-2027, sábado 31 de octubre de 2026, plaza de Puerto Río Tranquilo (montaje desde 08:00). Incluye música en vivo, animación, sonido e iluminación, ornamentación y montaje, alimentación, merchandising, reconocimientos y registro fotográfico. Cotizar valor único y total, impuesto incluido, máximo $7.150.000. Detalle y requisitos en TDR adjunto."
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=4066-424-COT26",
-   "sin_detalle": false,
-   "descripcion": "Servicio de producción para la feria productiva de lanzamiento de la temporada turística 2026-2027, el sábado 31 de octubre de 2026 en la plaza de Puerto Río Tranquilo. Incluye música en vivo, animación, sonido e iluminación, ornamentación y montaje, alimentación, merchandising, reconocimientos y registro fotográfico. Presupuesto: $7.150.000 impuesto incluido. Requiere patente municipal o exención. Ver TDR adjunto."
-  },
-  {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Ventas y marketing"
-   ],
-   "nueva": true,
    "codigo": "4066-425-COT26",
    "nombre": "Servicio de Producción de Eventos, Rueda de Negocios, Encuentro de Proveedores de Servicios Turísticos en Puerto Río Tranquilo - COD BIP 40066883-0",
    "organismo": "I MUNICIPALIDAD RIO IBANEZ",
@@ -874,7 +874,7 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=1182705-193-COT26",
    "primera_vista_iso": "2026-10-15T16:05:38-03:00",
    "removida_iso": "2026-10-16T16:50:54-03:00",
-   "estado_api": null,
+   "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,
    "adj_iso": null
