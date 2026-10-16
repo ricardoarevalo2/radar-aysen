@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-10-16T07:56:39.178791-03:00",
+ "actualizado": "2026-10-16T08:54:51.968737-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
- "total_region": 287,
+ "total_region": 190,
  "rubros": {
   "80141600": "Ventas y marketing",
   "82101600": "Publicidad en medios no impresos",
@@ -46,91 +46,6 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=2713-1253-COT26",
    "sin_detalle": false,
    "descripcion": "Agitadores de lodo y polímero según anexo adjunto, las ofertas deberán: incluir la totalidad de las características solicitadas, ajustarse al presupuesto disponible , el oferente asumirá COSTO DE TRANSPORTE (no desglosarlo como ítem aparte), debe indicar plazo de entrega (no se aceptara plazo de despacho y el plazo de entrega iniciará desde el día hábil subsiguiente al envío de la OC), presentar ficha técnica y fotografía de los productos. Ofertas que no cumplan con lo anterior serán rechazadas"
-  },
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "difusión"
-   ],
-   "nueva": true,
-   "codigo": "1521-76-COT26",
-   "nombre": "Servicio de relatoría para III Seminario STEM",
-   "organismo": "Departamento Provincial de Coyhaique",
-   "unidad": "Departamento Provincial de Coyhaique",
-   "monto": 350000,
-   "cierre_iso": "2026-10-16T13:05:00-03:00",
-   "publicacion": "13-10 16:36",
-   "publicacion_iso": "2026-10-13T16:36:00-03:00",
-   "ofertas": 1,
-   "productos": [
-    [
-     "86111604",
-     "Capacitación a empleados",
-     1,
-     "Servicio de relatoría para el dia 20-10-2026, 09.00 hrs en Hacienda Patagonia\nTDR en Adjunto"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1521-76-COT26",
-   "sin_detalle": false,
-   "descripcion": "La presente contratación de servicios de relatoría se enmarca en el Plan Regional de la Secretaría Regional Ministerial de Educación de la Región de Aysén, en el contexto de la realización del III Seminario Regional de Género, \nEste seminario constituye un espacio regional de reflexión, intercambio y difusión de prácticas pedagógicas orientadas a contribuir a la disminución de las brechas de género en el aprendizaje"
-  },
-  {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Fotógrafos y camarógrafos",
-    "Ventas y marketing"
-   ],
-   "nueva": false,
-   "codigo": "1282238-78-COT26",
-   "nombre": "Servicio de Diseño y Ejecución Encuentro Arte, Cultura y Patrimonio - FNDR 3465 Talleres Patrimoniales",
-   "organismo": "CORPORACION CULTURAL MUNICIPAL DE COYHAIQUE",
-   "unidad": "CORPORACION CULTURAL MUNICIPAL DE COYHAIQUE",
-   "monto": 2950000,
-   "cierre_iso": "2026-10-16T15:00:00-03:00",
-   "publicacion": "09-10 11:49",
-   "publicacion_iso": "2026-10-09T11:49:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "80141607",
-     "Producción de eventos",
-     1,
-     "Organización y coordinación del Encuentro Arte, Cultura y Patrimonio (04-12-2026, 4 horas, Centro Cultural de Coyhaique): planificación, guion, coordinación con la Corporación y con participantes de los talleres de Acordeón, Foto bordado, Teatro testimonial, Gastronomía local y Ciencia y Astronomía (Valle Simpson, Villa Ortega y Coyhaique), y supervisión de la jornada."
-    ],
-    [
-     "82141602",
-     "Montaje de exposiciones",
-     1,
-     "Montaje de piezas y ambientación: diseño, preparación, compra de insumos y montaje de la ambientación del espacio y de la exhibición de los trabajos elaborados por los participantes de los talleres; desmontaje al cierre."
-    ],
-    [
-     "93141701",
-     "Organizaciones de eventos culturales",
-     1,
-     "Maestra o maestro de ceremonia: conducción de la jornada, desarrollo de guion, presentación de cada taller, gestión de transiciones y cierre del encuentro."
-    ],
-    [
-     "93141711",
-     "Servicios de promoción de artesanía tradicional",
-     1,
-     "Taller de oficios textiles patrimoniales: taller práctico de 2 horas para hasta 80 personas, orientado a la exploración de prácticas patrimoniales de la Región de Aysén (técnica a definir con la Corporación), con todos los materiales incluidos."
-    ],
-    [
-     "80161507",
-     "Servicios Audio Visuales",
-     1,
-     "Sistema de amplificación para la jornada: parlantes, micrófonos y mesa de sonido, con operador, instalación y retiro."
-    ],
-    [
-     "82131603",
-     "Producción de vídeo",
-     1,
-     "Registro fotográfico y audiovisual de la jornada, con entrega de material editado para comunicaciones y archivo institucional."
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1282238-78-COT26",
-   "sin_detalle": false,
-   "descripcion": "Diseño y ejecución del Encuentro Arte, Cultura y Patrimonio el 4 de diciembre de 2026 en el Centro Cultural de Coyhaique (jornada de 4 horas), proyecto FNDR código 3465. Incluye coordinación general, montaje y ambientación de la exhibición de trabajos de los talleres, maestra/o de ceremonia, taller de oficios textiles patrimoniales para hasta 80 personas con materiales, amplificación y registro audiovisual. Detalle en especificaciones adjuntas."
   },
   {
    "tipo": "POSIBLE",
@@ -687,36 +602,27 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=4144-304-COT26",
    "sin_detalle": false,
    "descripcion": "Se requiere la adquisicion de un equipo de radio portatil para la localidad de Villa Amengual"
-  },
+  }
+ ],
+ "historial": [
   {
+   "codigo": "4733-395-COT26",
+   "nombre": "CONCIERTO DE NAVIDAD",
+   "organismo": "I MUNICIPALIDAD DE LAS GUAITECAS",
+   "monto": 2000000,
+   "cierre_iso": "2026-10-22T09:27:00-03:00",
    "tipo": "OPORTUNIDAD",
    "motivos": [
     "Ventas y marketing"
    ],
-   "nueva": true,
-   "codigo": "4733-395-COT26",
-   "nombre": "CONCIERTO DE NAVIDAD",
-   "organismo": "I MUNICIPALIDAD DE LAS GUAITECAS",
-   "unidad": "I MUNICIPALIDAD DE LAS GUAITECAS",
-   "monto": 2000000,
-   "cierre_iso": "2026-10-22T09:27:00-03:00",
-   "publicacion": "08-10 11:30",
-   "publicacion_iso": "2026-10-08T11:30:00-03:00",
-   "ofertas": 1,
-   "productos": [
-    [
-     "80141607",
-     "Producción de eventos",
-     1,
-     "CONCIERTO DE NAVIDAD"
-    ]
-   ],
    "link": "https://buscador.mercadopublico.cl/ficha?code=4733-395-COT26",
-   "sin_detalle": false,
-   "descripcion": "Se requiere contratar el servicio de producción artística para concierto de navidad según especificaciones técnicas adjuntas, adjuntar cotización.-"
-  }
- ],
- "historial": [
+   "primera_vista_iso": "2026-10-11T21:06:47-03:00",
+   "removida_iso": "2026-10-16T08:54:51-03:00",
+   "estado_api": "",
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
   {
    "codigo": "828-47-COT26",
    "nombre": "Alfombra Antideslizante Para Silla De Oficina",
@@ -730,6 +636,43 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=828-47-COT26",
    "primera_vista_iso": "2026-10-15T16:53:19-03:00",
    "removida_iso": "2026-10-15T17:55:27-03:00",
+   "estado_api": "",
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
+  {
+   "codigo": "1282238-78-COT26",
+   "nombre": "Servicio de Diseño y Ejecución Encuentro Arte, Cultura y Patrimonio - FNDR 3465 Talleres Patrimoniales",
+   "organismo": "CORPORACION CULTURAL MUNICIPAL DE COYHAIQUE",
+   "monto": 2950000,
+   "cierre_iso": "2026-10-16T15:00:00-03:00",
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Fotógrafos y camarógrafos",
+    "Ventas y marketing"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1282238-78-COT26",
+   "primera_vista_iso": "2026-10-11T21:06:47-03:00",
+   "removida_iso": "2026-10-16T08:54:51-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
+  {
+   "codigo": "1521-76-COT26",
+   "nombre": "Servicio de relatoría para III Seminario STEM",
+   "organismo": "Departamento Provincial de Coyhaique",
+   "monto": 350000,
+   "cierre_iso": "2026-10-16T13:05:00-03:00",
+   "tipo": "POSIBLE",
+   "motivos": [
+    "difusión"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1521-76-COT26",
+   "primera_vista_iso": "2026-10-13T16:55:07-03:00",
+   "removida_iso": "2026-10-16T08:54:51-03:00",
    "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,
@@ -1063,12 +1006,5 @@
    "adj_iso": null
   }
  ],
- "pendientes": [
-  {
-   "codigo": "657-94-COT26",
-   "nombre": " Adquisición Materiales y útiles de oficina por medio de GAS",
-   "organismo": "SERVICIO DE VIVIENDA Y URBANIZACION XI REGION",
-   "link": "https://buscador.mercadopublico.cl/ficha?code=657-94-COT26"
-  }
- ]
+ "pendientes": []
 }

@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-10-16T07:56:39.178791-03:00",
+ "actualizado": "2026-10-16T08:54:51.968737-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
- "total_region": 287,
+ "total_region": 190,
  "rubros": {
   "25172700": "Aire acondicionado",
   "25173900": "Componentes eléctricos",
@@ -19,191 +19,6 @@
   "39121400": "Conectores, enchufes y terminales"
  },
  "filas": [
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "electricidad",
-    "instalación eléctrica",
-    "mantención eléctrica"
-   ],
-   "nueva": false,
-   "codigo": "1092-63-COT26",
-   "nombre": "SIC N°427 SIRE N°401 Servicio de Mantención eléctrica base Mañihuales DEPRIF",
-   "organismo": "CORP NACIONAL FORESTAL",
-   "unidad": "XI Región - Oficina Regional de Aysén",
-   "monto": 1750000,
-   "cierre_iso": "2026-10-16T08:30:00-03:00",
-   "publicacion": "13-10 09:17",
-   "publicacion_iso": "2026-10-13T09:17:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "83101801",
-     "Suministro de electricidad monofásica",
-     1,
-     "Servicio de mantención e instalación eléctrica en Base de Brigada de Villa Mañihuales DEPRIF (ver especificaciones técnicas adjuntas)"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1092-63-COT26",
-   "sin_detalle": false,
-   "descripcion": "La Corporación Nacional Forestal por medio del Departamento de Protección Contra Incendios Forestales Región de Aysén, requiere adquirir Servicio de mantención e instalación eléctrica en Base de Brigada de Villa Mañihuales, ubicada en Arturo Prat #1850, Villa Mañihuales Región de Aysén. (ver especificaciones técnicas adjuntas) y requisitos excluyentes"
-  },
-  {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Cajas y accesorios eléctricos"
-   ],
-   "nueva": true,
-   "codigo": "4609-281-COT26",
-   "nombre": "RELOJ CONTROL  BIOMETRICO Y OTROS",
-   "organismo": "I MUNICIPALIDAD DE CHILE CHICO",
-   "unidad": "Finanzas",
-   "monto": 3600000,
-   "cierre_iso": "2026-10-16T08:45:00-03:00",
-   "publicacion": "15-10 08:32",
-   "publicacion_iso": "2026-10-15T08:32:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "44103201",
-     "Reloj de control",
-     4,
-     "RELOJ CONTROL BIOMETRICO. Terminal de identificación por huella dactilar y reconocimiento, con comunicación PUSH sobre HTTPS. Modelo de referencia PSHV3000 o equivalente."
-    ],
-    [
-     "39121310",
-     "Cajas de uso general",
-     4,
-     "CONTENEDOR METALICO CON MINI UPS. Contenedor metálico con llave para terminal de asistencia, con mini UPS instalada en su interior. Autonomía mínima de 3 horas."
-    ],
-    [
-     "90121503",
-     "Servicio de fletes",
-     1,
-     "DESPACHO. Despacho de relojes y contenedores a Chile Chico, Región de Aysén."
-    ],
-    [
-     "43232901",
-     "Software de acceso",
-     3,
-     "SOFTWARE COMO SERVICIO (SAAS). Sistema de gestión de asistencia Cloud Versión Premium. Usuario Administrador/Puntos a Controlar. Ampliación por 10 meses (nov. 2026 a ago. 2027)."
-    ],
-    [
-     "43232901",
-     "Software de acceso",
-     17,
-     "SOFTWARE COMO SERVICIO (SAAS). Sistema de gestión de asistencia Cloud Versión Premium. Funcionario Gestionado por plataforma de gestión de asistencia Cloud. Ampliación por 10 meses (nov. 2026 a ago. 2027)."
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=4609-281-COT26",
-   "sin_detalle": false,
-   "descripcion": "COTIZACION RELOJ CONTROL  BIOMETRICO Y OTROS"
-  },
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "interruptor"
-   ],
-   "nueva": false,
-   "codigo": "2713-1246-COT26",
-   "nombre": " DIDECO/PROMOS, adquisicion de materiales de oficina, solicitud folio 1205",
-   "organismo": "I MUNICIPALIDAD DE AYSEN",
-   "unidad": "I.MUNICIPALIDAD AYSEN-ADQUISICIONES",
-   "monto": 310000,
-   "cierre_iso": "2026-10-16T09:00:00-03:00",
-   "publicacion": "14-10 09:27",
-   "publicacion_iso": "2026-10-14T09:27:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "60121124",
-     "Papel kraft",
-     10,
-     "Pliego de papel kraf, dimension minima 77x110cms, segun detalles y especificaciones adjuntas"
-    ],
-    [
-     "60123001",
-     "Figuras de goma Eva",
-     20,
-     "lamina de goma eva dimemsion minima 20x30cm sin adhesivo 10 color rosado 10 color morado, segun detalles y especificaciones adjuntas"
-    ],
-    [
-     "49101609",
-     "Ornamentos y decoraciones",
-     50,
-     "unidades globos latex, lisos tamaño minimo 23cms, 25 unidades color rosado, 25 unidades de color morado, segun detalles y especificaciones adjuntas."
-    ],
-    [
-     "49101609",
-     "Ornamentos y decoraciones",
-     2,
-     "unidades de cinta adhesiva de enmascarar dimensionminima ancho 18mm y largo 20 mts, segun detalles y especificaciones adjuntas"
-    ],
-    [
-     "14111530",
-     "Notas de papel autoadhesivo",
-     2,
-     "packs notas adhesivas debe contener 5 block c/u aproximadamente de 76x76mm  100 hojas, colores surtidos,segun detalles y especificaciones adjuntas"
-    ],
-    [
-     "60121502",
-     "Rotuladores de base disolvente",
-     6,
-     "unidades de plumones permanentes con punta redonda 2 color azul. 2 color negro, 2 color naranjo, segun detalles y especificaciones adjuntas"
-    ],
-    [
-     "44121701",
-     "Lápiz pasta",
-     10,
-     "unidades de lapiz pasta color azul,segun detalles y especificaciones adjuntas"
-    ],
-    [
-     "12352310",
-     "Siliconas",
-     2,
-     "unidades de pistola electrica para silicona caliente con interruptor de encendido y apagado, alimantacion electrica 220v, compatible con barras de 7 mm, segun detalles y especificaciones adjuntas"
-    ],
-    [
-     "12352310",
-     "Siliconas",
-     20,
-     "barras de silicona termofusible transparente diametro minimo 7mm largo minimo 20cm, segun detalles y especificaciones adjuntas"
-    ],
-    [
-     "44122106",
-     "Chinches y tachuelas",
-     50,
-     "unidades de chinches push pins, de colores para pizarra,segun detalles y especificaciones adjuntas"
-    ],
-    [
-     "14111610",
-     "Cartulina",
-     20,
-     "pliegos de cartulina, 10 color rosado, 10 pliegos color morado, dimension minima 50x70cm, segun detalles y especificaciones adjuntas"
-    ],
-    [
-     "30141602",
-     "Revestimiento de aislamiento no térmico",
-     4,
-     "planchas de plumavit, poliestireno expandido color blanco dimension minima 50x100cm espesor 20mm, segun detalles y especificaciones adjuntas"
-    ],
-    [
-     "44121624",
-     "Tijeras",
-     4,
-     "unidades de tijeras de uso general tamaño aproximado 17 a 21 cm hojas de acero inoxidable mango lastico y punta roma o redondeada, segun detalles y especificaciones adjuntas"
-    ],
-    [
-     "44121708",
-     "Marcadores",
-     24,
-     "unidades de lapices marcadores tinta de colores surtidos, punta fina o media, segun detalles y especificaciones adjuntas"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=2713-1246-COT26",
-   "sin_detalle": false,
-   "descripcion": "ADQUISICION DE MATERIALES DE OFICINA SEGUN DETALLES Y ESPECIFICACIONES ADJUNTAS, LOS MONTOS DE LAS OFERTAS DEBEN INCLUIR TODOS LOS GASTOS NECESARIOS, PARA LA ENTREGA DE LOS MATERIALES DE OFICINA EN LAS DEPENDENCIAS DE GALERIA DE ARTESANOS, EN PUERTO AYSÉN, LAS OFERTAS QUE SOBREPASEN EL MONTO PRESUPUESTARIO DISPONIBLE, NO CUMPLAN CON LAS ESPECIFICACIONES, NO CUMPLAN O NO INDIQUEN EL PLAZO DE ENTREGA NO SERÁN EVALUADAS."
-  },
   {
    "tipo": "OPORTUNIDAD",
    "motivos": [
@@ -230,45 +45,6 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=4140-92-COT26",
    "sin_detalle": false,
    "descripcion": "ADQUISICION DE 01 MOTOR PARA REPARACION E AIRE ACONDICIONADO INVERTER KENDAL DPTO. DE FINANZAS MAS INSTALACION"
-  },
-  {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Materiales de física de electricidad"
-   ],
-   "nueva": false,
-   "codigo": "620956-35-COT26",
-   "nombre": "Kit encimera",
-   "organismo": "DELEGACIÓN PRESIDENCIAL PROVINCIAL DE GENERAL CARRERA",
-   "unidad": "Complejo Fronterizo Jeinimeni",
-   "monto": 829000,
-   "cierre_iso": "2026-10-16T11:00:00-03:00",
-   "publicacion": "14-10 12:06",
-   "publicacion_iso": "2026-10-14T12:06:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "52141504",
-     "Cocinas domésticas",
-     1,
-     "Encimera eléctrica de medidas 60 x 52 cm, con eficiencia energética."
-    ],
-    [
-     "52141519",
-     "Hornos de convección domésticos",
-     1,
-     "Horno eléctrico de conexión 220 v de medidas 59x60x50 cm, con eficiencia energética."
-    ],
-    [
-     "60104911",
-     "Campanas eléctricas o accesorios",
-     1,
-     "Campana extractora eléctrica, de medidas 60x50x15 cm, con eficiencia energética."
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=620956-35-COT26",
-   "sin_detalle": false,
-   "descripcion": "Se requiere cotizar un kit de encimera, campana y horno eléctrico, con entrega en el Complejo Fronterizo Jeinimeni, ubicado en Camino Internacional sin número de la ciudad de Chile Chico, región de Aysén, por lo que debe considerar todos los costos asociados a dicha entrega. Se solicita indicar datos de contacto y plazo de entrega."
   },
   {
    "tipo": "OPORTUNIDAD",
@@ -812,258 +588,6 @@
    "descripcion": "La Ilustre Municipalidad de O’Higgins requiere efectuar la adquisición de repuestos y accesorios destinados a la Barcaza Integración, con el propósito de garantizar su adecuada operatividad, seguridad y continuidad del servicio de conectividad lacustre que presta a la comunidad."
   },
   {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Conectores, enchufes y terminales"
-   ],
-   "nueva": true,
-   "codigo": "4644-86-COT26",
-   "nombre": "MATERIALES DE ESCRITORIO GORE MAÑIHUALES SIC:430  SIRE:404",
-   "organismo": "CORP NACIONAL FORESTAL",
-   "unidad": "XI Región - Oficina Provincial Aysen",
-   "monto": 1000000,
-   "cierre_iso": "2026-10-17T07:28:00-03:00",
-   "publicacion": "13-10 12:54",
-   "publicacion_iso": "2026-10-13T12:54:00-03:00",
-   "ofertas": 2,
-   "productos": [
-    [
-     "14111610",
-     "Cartulina",
-     5,
-     "Cartulina de colores surtidos. Puede ser de 12, 14,18 láminas, colores de 12, 14,17. Con tamaño aproximado de 26,5x37.5 cm y gramaje entre 150y 180 g/m2."
-    ],
-    [
-     "14111610",
-     "Cartulina",
-     5,
-     "Cartulina de goma Eva. Compuesto por 10 láminas de 10 colores diferentes, tamaño aprox de 20x30cm, espesor de 2mm, flexible y liviana."
-    ],
-    [
-     "14111610",
-     "Cartulina",
-     5,
-     "Cartulina de papel entretenido. Compuesto por 9 láminas con al menos 18 diseños diferentes, tamaño aprox de 32x24cm, con motivos decorativos y colores variados."
-    ],
-    [
-     "44121708",
-     "Marcadores",
-     1,
-     "Plumones de pizarra color rojo, formato caja de 12 unidades."
-    ],
-    [
-     "44121701",
-     "Lápiz pasta",
-     1,
-     "Lápiz pasta tinta color azul, punta media (1.0mm), formato caja de  50 unidades."
-    ],
-    [
-     "44121708",
-     "Marcadores",
-     2,
-     "Caja de 24 marcadores permanentes de colores surtidos, con tinta de secado rápido, resistente al agua y de baja decoloración. Punta fina de aprox 1mm, trazo definido, cuerpo cilíndrico y tapa de colores con cierre seguro. Aptos para escribir y marcar sobre papel, cartón, plástico, metal y otras superficies no porosas."
-    ],
-    [
-     "31201611",
-     "Adhesivos de láminas",
-     5,
-     "Laminas para termo laminar tamaño oficio, formato de  100 unidades."
-    ],
-    [
-     "31201611",
-     "Adhesivos de láminas",
-     10,
-     "Laminas para termo laminar tamaño carta, formato de  100 unidades."
-    ],
-    [
-     "44121631",
-     "Distribuidores de pegamento o recambios",
-     2,
-     "Cola fría presentación 250ml."
-    ],
-    [
-     "12352310",
-     "Siliconas",
-     2,
-     "Silicona líquida, presentación 100ml."
-    ],
-    [
-     "44121618",
-     "Tijeras",
-     2,
-     "Tijera de escritorio de 20,96 cm punta roma."
-    ],
-    [
-     "44121615",
-     "Corcheteras",
-     1,
-     "Engrapadora manual, color roja, peso 300g. usa grapas 53/6 y 53/10, material de plástico ABS."
-    ],
-    [
-     "44121615",
-     "Corcheteras",
-     5,
-     "Corchete engrapadora. 27/64” ancho y alto 5/16”, calibre 24 gauge. Formato 1000 unidades."
-    ],
-    [
-     "14111525",
-     "Papel multiuso",
-     35,
-     "Resma hoja carta, 500 hojas."
-    ],
-    [
-     "32101622",
-     "Memoria flash",
-     5,
-     "Pendrive con capacidad mínima de 32 GB, interfaz USB tipo A, compatible con computadores de uso habitual. Diseño compacto, con tapa protectora o sistema retráctil, conexión USB 2.0 o superior y compatibilidad con sistemas operativos actuales."
-    ],
-    [
-     "14111530",
-     "Notas de papel autoadhesivo",
-     20,
-     "Blocs de notas adhesivas (tipo Post-it) tamaño clásico 7.5 cm x 7.5 cm. Colores variados formato 400 hojas."
-    ],
-    [
-     "44102002",
-     "Sobres de laminador",
-     100,
-     "Sobre tipo DL, Americano con dimensiones de largo 22cm y ancho 11 cm. Color blanco."
-    ],
-    [
-     "14111525",
-     "Papel multiuso",
-     3,
-     "Papel autoadhesivo tamaño oficio, formato caja de  50 hojas"
-    ],
-    [
-     "14111525",
-     "Papel multiuso",
-     4,
-     "Papel autoadhesivo tamaño carta, caja de  50 hojas"
-    ],
-    [
-     "39121402",
-     "Enchufes eléctricos",
-     3,
-     "Alargador 150 cm."
-    ],
-    [
-     "44111509",
-     "Portalápiz",
-     5,
-     "Porta lápices de escritorio fabricado en plástico resistente o malla metálica, con base estable antideslizante y compartimiento para lápices, marcadores, clips, etc. Medidas aproximadas de 10x10x12cm, color a elección del proveedor."
-    ],
-    [
-     "46182202",
-     "Apoya codos",
-     1,
-     "Apoya brazos escritorio."
-    ],
-    [
-     "43211802",
-     "Almohadillas de ratón o mousepad",
-     1,
-     "Mouse pad."
-    ],
-    [
-     "26111702",
-     "Pilas alcalinas",
-     8,
-     "Pilas recargables AA."
-    ],
-    [
-     "43211802",
-     "Almohadillas de ratón o mousepad",
-     1,
-     "Mouse óptico inalámbrico con conexión mediante receptor USB de 2,4 GHz, resolución mínima de 1.000 DPI, dos botones como mínimo y rueda de desplazamiento. Alimentación mediante pila."
-    ],
-    [
-     "44111516",
-     "Agendas",
-     5,
-     "Agenda anual año 2027, en idioma español, con tapa dura o semirrígida, encuadernación resistente y cierre mediante elástico. Formato aprox de 14x20cm, con calendario anual, planificación mensual y semanal o diaria, feriados de Chile y hojas para notas."
-    ],
-    [
-     "44112001",
-     "Libretas de direcciones",
-     5,
-     "Libreta de apuntes tamaño  (15,6X10,8 cm), encuadernación resistente, tapa dura o similar."
-    ],
-    [
-     "44101723",
-     "Bandejas de varios depósitos",
-     5,
-     "Bandeja organizadora de documentos de escritorio fabricada en plástico rígido de alta resistencia, destinada a organizar documentos de tamaño carta y oficio. Diseño apilable o de tres niveles, con estructura estable y acceso frontal para retirar documentos. Color negro, gris. Medidas aprox de 35x25x25cm para el conjunto de tres niveles."
-    ],
-    [
-     "44121612",
-     "Cuchillos cartoneros",
-     2,
-     "Cuchillo cartonero semiprofesional, de uso manual, con cuerpo fabricado en plástico ABS de alta resistencia y/o estructura metálica, sistema de bloqueo de seguridad de la cuchilla. Con cuchilla segmentada de acero de aprox 18mm de ancho con sistema de avance y retracción regulable. Largo entre 15 a 18cm. Incluir al menos 1 cuchilla instalada."
-    ],
-    [
-     "44122101",
-     "Gomas elásticas",
-     2,
-     "Bolsa elástico de billete. Bolsa con 100 unidades de elásticos de goma de colores surtidos. Con diámetro aprox de 30 a 40mm."
-    ],
-    [
-     "43201402",
-     "Tarjetas de módulo de memoria",
-     4,
-     "Tarjeta SD 32 Gb."
-    ],
-    [
-     "44121620",
-     "Dedo de goma",
-     5,
-     "Dedal de goma."
-    ],
-    [
-     "44121802",
-     "Líquido corrector",
-     5,
-     "Corrector liquido lápiz."
-    ],
-    [
-     "44121619",
-     "Sacapuntas",
-     4,
-     "Sacapuntas con dos orificios de distinto diámetro, uno para lápices grafito de tamaño estándar y otro de mayor diámetro compatible con lápices de carpintero de sección rectangular u ovalada. Debe contar con cuchillas metálicas de acero, depósito para residuos."
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=4644-86-COT26",
-   "sin_detalle": false,
-   "descripcion": "CONAF requiere y adquirir materiales y utiles de escritorio para el personal de faena, Área Intervención Mañihuales. Despacho en Oficina CONAF en Puerto Aysén ubicada en ruta 240 KM 2 Camino Aysén -Coyhaique  Región de Aysén."
-  },
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "generador"
-   ],
-   "nueva": false,
-   "codigo": "1274667-388-COT26",
-   "nombre": "RVB - SOLICITA SERVICIO MANTENCIÓN CORRECTIVA PARA GRUPO GENERADOR  CATERPILLAR DE CENTRO DE SALUD FAMILIAR PUERTO AYSÉN",
-   "organismo": "CENTRO DE SALUD FAMILIAR PUERTO AYSÉN",
-   "unidad": "CENTRO DE SALUD FAMILIAR PUERTO AYSÉN",
-   "monto": 150000,
-   "cierre_iso": "2026-10-17T12:49:00-03:00",
-   "publicacion": "09-10 10:03",
-   "publicacion_iso": "2026-10-09T10:03:00-03:00",
-   "ofertas": 1,
-   "productos": [
-    [
-     "73152101",
-     "Servicio de mantenimiento de equipo de fabricación",
-     1,
-     "SERVICIO MANTENCIÓN CORRECTIVA PARA GRUPO GENERADOR CATERPILLAR. DETALLE EN DOCUMENTO ADJUNTO."
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1274667-388-COT26",
-   "sin_detalle": false,
-   "descripcion": "ADJUNTAR COTIZACION - ADJUNTAR FICHA TECNICA PARA PODER EVALUAR CORRECTAMENTE LA OFERTA - DATOS BANCARIOS - CONTACTO PARA RESOLVER DUDAS - EN CASO DE ADJUDICACION FAVOR EMITIR DESPACHO CON GUIA - MARCAS MENCIONADAS SON SOLAMENTE REFERENCIALES. DETALLES EN DOCUMENTO ADJUNTO."
-  },
-  {
    "tipo": "POSIBLE",
    "motivos": [
     "generador"
@@ -1125,33 +649,6 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=2713-1258-COT26",
    "sin_detalle": false,
    "descripcion": "Adquisicion de servicio integral de producción de la actividad “Día del Funcionario Municipal 2026”,a realizarse el 28 de octubre de 2026 en el gimnasio IND de Puerto Aysén,segun detalles y especificaciones tecnicas adjuntas, las ofertas que sobrepasen el presupuesto disponible, no presenten propuesta conceptual y metodologica, con cumplan con los servicios requeridos, no cumplan con las especificaciones tecnicas adjuntas,seran declaradas inadmisibles."
-  },
-  {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Interruptores, controles y relés"
-   ],
-   "nueva": false,
-   "codigo": "3540-255-COT26",
-   "nombre": "Contactores magnético trifásico para hormigonera Emaresa (P.2426)",
-   "organismo": "Ejercito de Chile",
-   "unidad": "Cuerpo Militar del Trabajo Subjefatura Zonal Coyhaique",
-   "monto": 300000,
-   "cierre_iso": "2026-10-17T18:36:00-03:00",
-   "publicacion": "09-10 09:23",
-   "publicacion_iso": "2026-10-09T09:23:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "39121529",
-     "Contactores",
-     2,
-     "Contactor magnético trifásico GMC (D)-9 200v cc 20a. Para mezcladora hormigonera Emaresa, año: 2010, vin:117, motor: BIR-500 380 VOLT DE 5,5 hp"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=3540-255-COT26",
-   "sin_detalle": false,
-   "descripcion": "Indicar plazo de entrega y datos de contacto. Se privilegiará proveedor de la región o que cuente con sucursal en Coyhaique y luego precio. Este proceso no considera ítem flete ni cargos adicionales, los costos deben estar incluidos en los valores unitarios.\n(LEER TÉRMINOS DE REFERENCIA ADJUNTO)."
   },
   {
    "tipo": "POSIBLE",
@@ -1217,51 +714,6 @@
    "descripcion": "INSUMOS PARA EL SISTEMA DE CLIMATIZACIÓN DEL ESTABLECIMEINTO"
   },
   {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "eléctrico"
-   ],
-   "nueva": false,
-   "codigo": "3765-295-COT26",
-   "nombre": "EPP PARA UNIDAD DE MANTENCIÓN",
-   "organismo": "SERVICIO NACIONAL DE SALUD HOSPITAL DE C",
-   "unidad": "Hospital Doctor  Leopoldo Ortega Rodríguez",
-   "monto": 1000000,
-   "cierre_iso": "2026-10-19T09:00:00-03:00",
-   "publicacion": "14-10 09:17",
-   "publicacion_iso": "2026-10-14T09:17:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "46181704",
-     "Cascos de protección",
-     4,
-     "CASCO YAKO CLASE A, BLANCO"
-    ],
-    [
-     "46182005",
-     "Máscaras o filtros de respirador o accesorios",
-     4,
-     "RESPIRADOR DOBLE VÍA MEDIO ROSTRO TALLA L"
-    ],
-    [
-     "46182005",
-     "Máscaras o filtros de respirador o accesorios",
-     4,
-     "PROTECCIÓN PARA ARCO ELÉCTRICO 14 CAL/CM2"
-    ],
-    [
-     "53102102",
-     "Overol y sobretodo para hombre",
-     4,
-     "OVEROL IGNIFUGO CERTIFICADO, TALLA L (2) Y TALLA XL (2)"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=3765-295-COT26",
-   "sin_detalle": false,
-   "descripcion": "EPP PARA UNIDAD DE MANTENCIÓN"
-  },
-  {
    "tipo": "OPORTUNIDAD",
    "motivos": [
     "Gasfitería, calefacción y aire acondicionado"
@@ -1318,33 +770,6 @@
   {
    "tipo": "POSIBLE",
    "motivos": [
-    "enchufe"
-   ],
-   "nueva": false,
-   "codigo": "4626-32-COT26",
-   "nombre": "Provisión e instalación de cuatro (4) puntos de red y provisión e instalación de un (1) enchufe triple para oficinas de la Dirección Regional del Trabajo Región de Aysén",
-   "organismo": "DIRECCION DEL TRABAJO",
-   "unidad": "Dirección del Trabajo XI Región Aysén",
-   "monto": 710000,
-   "cierre_iso": "2026-10-19T18:46:00-03:00",
-   "publicacion": "09-10 10:13",
-   "publicacion_iso": "2026-10-09T10:13:00-03:00",
-   "ofertas": 1,
-   "productos": [
-    [
-     "83111601",
-     "Servicio de redes para mejorar la señal de telecomunicaciones",
-     1,
-     "Provisión e instalación de cuatro (4) puntos de red y provisión e instalación de un (1) enchufe triple para oficinas de la Dirección Regional del Trabajo Región de Aysén, de acuerdo con lo establecido en los Requerimientos Técnicos que se adjuntan (se solicita leer detenidamente documento adjunto, para dar cumplimiento a los requerimientos allí establecidos al presentar su oferta)"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=4626-32-COT26",
-   "sin_detalle": false,
-   "descripcion": "Provisión e instalación de cuatro (4) puntos de red y provisión e instalación de un (1) enchufe triple para oficinas de la Dirección Regional del Trabajo Región de Aysén"
-  },
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
     "iluminación"
    ],
    "nueva": true,
@@ -1368,33 +793,6 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=4066-424-COT26",
    "sin_detalle": false,
    "descripcion": "Servicio de producción para la feria productiva de lanzamiento de la temporada turística 2026-2027, el sábado 31 de octubre de 2026 en la plaza de Puerto Río Tranquilo. Incluye música en vivo, animación, sonido e iluminación, ornamentación y montaje, alimentación, merchandising, reconocimientos y registro fotográfico. Presupuesto: $7.150.000 impuesto incluido. Requiere patente municipal o exención. Ver TDR adjunto."
-  },
-  {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Servicios eléctricos"
-   ],
-   "nueva": false,
-   "codigo": "4066-419-COT26",
-   "nombre": " MANO DE OBRA INSTALACIÓN ELÉCTRICA 2 VIVIENDAS EN LA LOCALIDAD DE PUERTO SÁNCHEZ.",
-   "organismo": "I MUNICIPALIDAD RIO IBANEZ",
-   "unidad": "DIDECO",
-   "monto": 800000,
-   "cierre_iso": "2026-10-21T09:00:00-03:00",
-   "publicacion": "13-10 15:06",
-   "publicacion_iso": "2026-10-13T15:06:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "72102201",
-     "Instalación o servicio de sistemas de energía eléctrica",
-     1,
-     "SERVICIO DE MANO DE OBRA (INSTALACIÓN ELÉCTRICA) SEGÚN TÉRMINOS DE REFERENCIA"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=4066-419-COT26",
-   "sin_detalle": false,
-   "descripcion": "Contratar mano de obra para ejecución de reparación de instalación eléctrica de 2 viviendas de la localidad de Puerto Sánchez. Consistente en obras de mejoramiento de la instalación eléctrica interior las cuales se deberán cumplir con las normativas vigente y las especificaciones técnicas adjuntas. El prestador deberá asegurar la entrega oportuna y conforme de los productos comprometidos en los plazos establecidos, coordinando permanentemente con la Unidad Técnica, según términos de referencias"
   },
   {
    "tipo": "OPORTUNIDAD",
@@ -1678,6 +1076,168 @@
  ],
  "historial": [
   {
+   "codigo": "4066-419-COT26",
+   "nombre": " MANO DE OBRA INSTALACIÓN ELÉCTRICA 2 VIVIENDAS EN LA LOCALIDAD DE PUERTO SÁNCHEZ.",
+   "organismo": "I MUNICIPALIDAD RIO IBANEZ",
+   "monto": 800000,
+   "cierre_iso": "2026-10-21T09:00:00-03:00",
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Servicios eléctricos"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=4066-419-COT26",
+   "primera_vista_iso": "2026-10-13T15:51:46-03:00",
+   "removida_iso": "2026-10-16T08:54:51-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
+  {
+   "codigo": "4626-32-COT26",
+   "nombre": "Provisión e instalación de cuatro (4) puntos de red y provisión e instalación de un (1) enchufe triple para oficinas de la Dirección Regional del Trabajo Región de Aysén",
+   "organismo": "DIRECCION DEL TRABAJO",
+   "monto": 710000,
+   "cierre_iso": "2026-10-19T18:46:00-03:00",
+   "tipo": "POSIBLE",
+   "motivos": [
+    "enchufe"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=4626-32-COT26",
+   "primera_vista_iso": "2026-10-11T21:06:47-03:00",
+   "removida_iso": "2026-10-16T08:54:51-03:00",
+   "estado_api": "",
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
+  {
+   "codigo": "3765-295-COT26",
+   "nombre": "EPP PARA UNIDAD DE MANTENCIÓN",
+   "organismo": "SERVICIO NACIONAL DE SALUD HOSPITAL DE C",
+   "monto": 1000000,
+   "cierre_iso": "2026-10-19T09:00:00-03:00",
+   "tipo": "POSIBLE",
+   "motivos": [
+    "eléctrico"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=3765-295-COT26",
+   "primera_vista_iso": "2026-10-14T10:07:19-03:00",
+   "removida_iso": "2026-10-16T08:54:51-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
+  {
+   "codigo": "3540-255-COT26",
+   "nombre": "Contactores magnético trifásico para hormigonera Emaresa (P.2426)",
+   "organismo": "Ejercito de Chile",
+   "monto": 300000,
+   "cierre_iso": "2026-10-17T18:36:00-03:00",
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Interruptores, controles y relés"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=3540-255-COT26",
+   "primera_vista_iso": "2026-10-11T21:06:47-03:00",
+   "removida_iso": "2026-10-16T08:54:51-03:00",
+   "estado_api": "",
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
+  {
+   "codigo": "1274667-388-COT26",
+   "nombre": "RVB - SOLICITA SERVICIO MANTENCIÓN CORRECTIVA PARA GRUPO GENERADOR  CATERPILLAR DE CENTRO DE SALUD FAMILIAR PUERTO AYSÉN",
+   "organismo": "CENTRO DE SALUD FAMILIAR PUERTO AYSÉN",
+   "monto": 150000,
+   "cierre_iso": "2026-10-17T12:49:00-03:00",
+   "tipo": "POSIBLE",
+   "motivos": [
+    "generador"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1274667-388-COT26",
+   "primera_vista_iso": "2026-10-11T21:06:47-03:00",
+   "removida_iso": "2026-10-16T08:54:51-03:00",
+   "estado_api": "",
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
+  {
+   "codigo": "4644-86-COT26",
+   "nombre": "MATERIALES DE ESCRITORIO GORE MAÑIHUALES SIC:430  SIRE:404",
+   "organismo": "CORP NACIONAL FORESTAL",
+   "monto": 1000000,
+   "cierre_iso": "2026-10-17T07:28:00-03:00",
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Conectores, enchufes y terminales"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=4644-86-COT26",
+   "primera_vista_iso": "2026-10-14T06:57:02-03:00",
+   "removida_iso": "2026-10-16T08:54:51-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
+  {
+   "codigo": "620956-35-COT26",
+   "nombre": "Kit encimera",
+   "organismo": "DELEGACIÓN PRESIDENCIAL PROVINCIAL DE GENERAL CARRERA",
+   "monto": 829000,
+   "cierre_iso": "2026-10-16T11:00:00-03:00",
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Materiales de física de electricidad"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=620956-35-COT26",
+   "primera_vista_iso": "2026-10-14T13:02:14-03:00",
+   "removida_iso": "2026-10-16T08:54:51-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
+  {
+   "codigo": "2713-1246-COT26",
+   "nombre": " DIDECO/PROMOS, adquisicion de materiales de oficina, solicitud folio 1205",
+   "organismo": "I MUNICIPALIDAD DE AYSEN",
+   "monto": 310000,
+   "cierre_iso": "2026-10-16T09:00:00-03:00",
+   "tipo": "POSIBLE",
+   "motivos": [
+    "interruptor"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=2713-1246-COT26",
+   "primera_vista_iso": "2026-10-14T10:07:19-03:00",
+   "removida_iso": "2026-10-16T08:54:51-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
+  {
+   "codigo": "4609-281-COT26",
+   "nombre": "RELOJ CONTROL  BIOMETRICO Y OTROS",
+   "organismo": "I MUNICIPALIDAD DE CHILE CHICO",
+   "monto": 3600000,
+   "cierre_iso": "2026-10-16T08:45:00-03:00",
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Cajas y accesorios eléctricos"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=4609-281-COT26",
+   "primera_vista_iso": "2026-10-15T08:55:42-03:00",
+   "removida_iso": "2026-10-16T08:54:51-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
+  {
    "codigo": "1092-62-COT26",
    "nombre": "SIC N°427 SIRE N°401 Servicio de Mantención eléctrica base Mañihuales DEPRIF",
    "organismo": "CORP NACIONAL FORESTAL",
@@ -1693,6 +1253,26 @@
    "primera_vista_iso": "2026-10-13T08:42:41-03:00",
    "removida_iso": "2026-10-13T09:52:56-03:00",
    "estado_api": "",
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
+  {
+   "codigo": "1092-63-COT26",
+   "nombre": "SIC N°427 SIRE N°401 Servicio de Mantención eléctrica base Mañihuales DEPRIF",
+   "organismo": "CORP NACIONAL FORESTAL",
+   "monto": 1750000,
+   "cierre_iso": "2026-10-16T08:30:00-03:00",
+   "tipo": "POSIBLE",
+   "motivos": [
+    "electricidad",
+    "instalación eléctrica",
+    "mantención eléctrica"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1092-63-COT26",
+   "primera_vista_iso": "2026-10-13T09:52:56-03:00",
+   "removida_iso": "2026-10-16T08:54:51-03:00",
+   "estado_api": null,
    "adj_nombre": null,
    "adj_monto": null,
    "adj_iso": null
@@ -2140,12 +1720,5 @@
    "adj_iso": null
   }
  ],
- "pendientes": [
-  {
-   "codigo": "657-94-COT26",
-   "nombre": " Adquisición Materiales y útiles de oficina por medio de GAS",
-   "organismo": "SERVICIO DE VIVIENDA Y URBANIZACION XI REGION",
-   "link": "https://buscador.mercadopublico.cl/ficha?code=657-94-COT26"
-  }
- ]
+ "pendientes": []
 }
