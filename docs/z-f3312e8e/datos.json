@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-10-16T14:53:21.071237-03:00",
+ "actualizado": "2026-10-16T15:59:46.636202-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
- "total_region": 296,
+ "total_region": 291,
  "rubros": {
   "25172700": "Aire acondicionado",
   "25173900": "Componentes eléctricos",
@@ -19,147 +19,6 @@
   "39121400": "Conectores, enchufes y terminales"
  },
  "filas": [
-  {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Gasfitería, calefacción y aire acondicionado"
-   ],
-   "nueva": false,
-   "codigo": "620956-37-COT26",
-   "nombre": "Aires acondicionado ",
-   "organismo": "DELEGACIÓN PRESIDENCIAL PROVINCIAL DE GENERAL CARRERA",
-   "unidad": "Complejo Fronterizo Jeinimeni",
-   "monto": 3700000,
-   "cierre_iso": "2026-10-16T15:00:00-03:00",
-   "publicacion": "14-10 12:48",
-   "publicacion_iso": "2026-10-14T12:48:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "72102305",
-     "Servicios de reparación, mantenimiento o reparación de aire acondicionado",
-     1,
-     "Se solicita cotizar el suministro, retiro de los equipos existentes e instalación de dos (2) equipos de aire acondicionado tipo split muro, de 24.000 BTU cada uno, con tecnología inverter, para oficinas externas del Complejo Fronterizo Jeinimeni, ubicado en Camino Internacional s/n, comuna de Chile Chico, Región de Aysén.\n\nSe adjuntan especificaciones técnicas."
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=620956-37-COT26",
-   "sin_detalle": false,
-   "descripcion": "Se solicita cotizar el suministro, retiro de los equipos existentes e instalación de dos (2) equipos de aire acondicionado tipo split muro, de 24.000 BTU cada uno, con tecnología inverter, para oficinas externas del Complejo Fronterizo Jeinimeni, ubicado en Camino Internacional s/n, comuna de Chile Chico, Región de Aysén.\n\nSe adjuntan especificaciones técnicas."
-  },
-  {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Conectores, enchufes y terminales"
-   ],
-   "nueva": true,
-   "codigo": "4778-329-COT26",
-   "nombre": "VEM-ALMOHADAS, CUBRE COLCHÓN, JUEGO DE VAJILLA, JUEGO DE VASOS, TAZONES, INDIVIDUALES, CUCHARAS, CUCHARA DE TÉ, TENEDOR, CUCHILLO, ALARGADOR O ZAPATILLA ELÉCTRICA",
-   "organismo": "SERVICIO NACIONAL DE SALUD HOSPITAL DE C",
-   "unidad": "Compras de Insumos y Servicios Generales",
-   "monto": 380109,
-   "cierre_iso": "2026-10-16T15:35:00-03:00",
-   "publicacion": "15-10 15:31",
-   "publicacion_iso": "2026-10-15T15:31:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "42132104",
-     "Almohadas antimicrobianas de hospital",
-     8,
-     "ALMOHADAS Tamaño estándar (aprox. 50x70 cm), relleno hipoalergénico de fibra siliconada con memoria o alta resiliencia (que no pierda forma rápidamente), funda exterior lavable de composición transpirable (algodón/poliéster)."
-    ],
-    [
-     "52121504",
-     "Fundas de colchón",
-     8,
-     "CUBRE COLCHÓN Formato para colchón de 1 plaza (estándar institucional), confeccionado con tela superior suave (algodón o microfibra) y lámina posterior inferior de poliuretano (PU) u otro material 100% impermeable, lavable en máquina, con elástico perimetral ajustable para fijación segura"
-    ],
-    [
-     "52152016",
-     "Vajilla de uso doméstico",
-     2,
-     "JUEGO DE VAJILLA DE 8 UDS. Set de loza o porcelana de alta resistencia al impacto térmico y mecánico (apto para uso institucional intensivo), apto para microondas y lavavajillas. Debe incluir platos hondos, platos planos y platos de pan (para la cantidadde usuarios determinada por el centro)."
-    ],
-    [
-     "52152016",
-     "Vajilla de uso doméstico",
-     2,
-     "VASOS DE 6 UDS. Vasos de vidrio templado o policarbonato de alta resistencia"
-    ],
-    [
-     "52152016",
-     "Vajilla de uso doméstico",
-     10,
-     "TAZONES Fabricados en cerámica esmaltada de alta resistencia o loza gruesa; capacidad mínima de 320 cC; asa ergonómica reforzada; aptos para uso en microondas y lavado institucional automático"
-    ],
-    [
-     "52152016",
-     "Vajilla de uso doméstico",
-     8,
-     "INDIVIDUAL ECOCUERO De mesa confeccionados en ecocuero (cuero sintético) de alta densidad y doble costura o bordes sellados; superficie 100% impermeable, lavable con paño húmedo y soluciones desinfectantes; propiedad antideslizante y resistencia térmica moderada"
-    ],
-    [
-     "52152016",
-     "Vajilla de uso doméstico",
-     6,
-     "CUCHARA SOPERA Fabricados íntegramente en acero inoxidable de calidad alimentaria, set básico para uso intensivo (JUEGO DE 3)"
-    ],
-    [
-     "52152016",
-     "Vajilla de uso doméstico",
-     6,
-     "CUCHARA DE TÉ Fabricada en acero inoxidable de calidad alimentaria; tamaño estándar para servicio de té/café; espesor mínimo de 1.2 mm a 1.5 mm de alta resistencia al doblado (JUEGO DE 3)"
-    ],
-    [
-     "52152016",
-     "Vajilla de uso doméstico",
-     6,
-     "TENEDOR Fabricado en acero inoxidable de calidad alimentaria; 4 dientes alineados y afilados de forma segura; espesor mínimo de 1.8 mm a 2 mm; alta resistencia estructural para uso diario intensivo (JUEGO DE 3)"
-    ],
-    [
-     "52152016",
-     "Vajilla de uso doméstico",
-     6,
-     "CUCHILLO Fabricado en acero inoxidable de alta calidad con aleación apta para mantener el filo de mesa; hoja con sierra fina/fina dentada (JUEGO DE 3)"
-    ],
-    [
-     "39121409",
-     "Conectores de cables eléctricos",
-     3,
-     "ALARGADOR Unidades debidamente certificadas por la SEC (Superintendencia de Electricidad y Combustibles), con un mínimo de 4 a 6 alvéolos (enchufes) con toma de tierra, cable de extensión mínimo de 1.5 a 3 metros de largo, e interruptor de encendido/apagado con protección de sobrecarga (fusible o interruptor térmico integrado)."
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=4778-329-COT26",
-   "sin_detalle": false,
-   "descripcion": "1. LEER ADJUNTOS PARA AJUSTARSE A ESPECIFICACIONES. 2. INCLUIR FOTOS,COTIZACIÓN FORMAL Y ESPECIFICACIONES TÉCNICAS EN ESPAÑOL. INDIQUE GARANTÍAS, PLAZOS DE REPOSICIÓN Y TODA INFORMACIÓN ÚTIL PARA EL ANÁLISIS Y COMPARACIÓN DE OFERTAS. 3. INCLUIR EMBALAJE Y FLETE A DIRECCIÓN DE DESPACHO. 4. VIGENCIA DEL PRODUCTO DEBE SER SUPERIOR A UN AÑO COMO MÍNIMO. 5. NO PARCIALIZAR DESPACHO (UN SÓLO ENVÍO) 6. NO DEBE ESTAR SUJETA A STOCK (COTIZACIONES Y MARCAS Y VALORES ADJUNTOS SON REFERENCIALES)"
-  },
-  {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Enfriamiento (aires acondicionados)"
-   ],
-   "nueva": false,
-   "codigo": "2713-1255-COT26",
-   "nombre": "EQUIPO AIRE ACONDICIONADO CON SERVICIO DE INSTALACION. FOLIO 1293 DIDECO",
-   "organismo": "I MUNICIPALIDAD DE AYSEN",
-   "unidad": "I.MUNICIPALIDAD AYSEN-ADQUISICIONES",
-   "monto": 900000,
-   "cierre_iso": "2026-10-16T15:40:00-03:00",
-   "publicacion": "15-10 12:28",
-   "publicacion_iso": "2026-10-15T12:28:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "40101701",
-     "Aires acondicionados",
-     1,
-     "SUMINISTRO E INSTALACION DE EQUIPO AIRE ACONDICIONADO.SEGUN BASES TECNICAS ADJUNTAS. INCLUYE SOPORTE A MURO EXTERIOR."
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=2713-1255-COT26",
-   "sin_detalle": false,
-   "descripcion": "COTIZACIÓN DE: EQUIPO AIRE ACONDICIONADO CON SERVICIO DE INSTALACION. LOS COSTOS DE TRASLADOS A PUERTO AYSÉN SERÁN DEL OFERENTE. EL PLAZO DE ENTREGA SERÁN DE 10 DÍA HÁBIL, DE LO CONTRARIO SE DESCARTARAN.EL PROVEEDOR QUE NO INDIQUE EL PLAZO DE ENTREGA SE DESCARTARA SU COTIZACIÓN. OFERENTE DEBE INCLUIR FLETES EN EL PRECIO DEL PRODUCTO.SE SOLICITA ANEXAR FICHA TECNICA, DE LO CONTRARIO SE DESCARTARA. PLAZO DE ENTREGA COMIENZA A CONTAR DEL DIA HABIL SUBSIGUIENTE DEL ENVÍO DE ORDEN DE COMPRA."
-  },
   {
    "tipo": "POSIBLE",
    "motivos": [
@@ -819,6 +678,51 @@
    "descripcion": "INSUMOS PARA EL SISTEMA DE CLIMATIZACIÓN DEL ESTABLECIMEINTO"
   },
   {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "eléctrico"
+   ],
+   "nueva": true,
+   "codigo": "3765-295-COT26",
+   "nombre": "EPP PARA UNIDAD DE MANTENCIÓN",
+   "organismo": "SERVICIO NACIONAL DE SALUD HOSPITAL DE C",
+   "unidad": "Hospital Doctor  Leopoldo Ortega Rodríguez",
+   "monto": 1000000,
+   "cierre_iso": "2026-10-19T09:00:00-03:00",
+   "publicacion": "14-10 09:17",
+   "publicacion_iso": "2026-10-14T09:17:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "46181704",
+     "Cascos de protección",
+     4,
+     "CASCO YAKO CLASE A, BLANCO"
+    ],
+    [
+     "46182005",
+     "Máscaras o filtros de respirador o accesorios",
+     4,
+     "RESPIRADOR DOBLE VÍA MEDIO ROSTRO TALLA L"
+    ],
+    [
+     "46182005",
+     "Máscaras o filtros de respirador o accesorios",
+     4,
+     "PROTECCIÓN PARA ARCO ELÉCTRICO 14 CAL/CM2"
+    ],
+    [
+     "53102102",
+     "Overol y sobretodo para hombre",
+     4,
+     "OVEROL IGNIFUGO CERTIFICADO, TALLA L (2) Y TALLA XL (2)"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=3765-295-COT26",
+   "sin_detalle": false,
+   "descripcion": "EPP PARA UNIDAD DE MANTENCIÓN"
+  },
+  {
    "tipo": "OPORTUNIDAD",
    "motivos": [
     "Gasfitería, calefacción y aire acondicionado"
@@ -895,7 +799,7 @@
    "motivos": [
     "Gasfitería, calefacción y aire acondicionado"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "3431-116-COT26",
    "nombre": "FI- Solicitud de cotización para la adquisición de servicio de mantención de la caldera del pabellón del casino de suboficiales de esta unidad.",
    "organismo": "Ejercito de Chile",
@@ -1587,24 +1491,6 @@
  ],
  "historial": [
   {
-   "codigo": "3765-295-COT26",
-   "nombre": "EPP PARA UNIDAD DE MANTENCIÓN",
-   "organismo": "SERVICIO NACIONAL DE SALUD HOSPITAL DE C",
-   "monto": 1000000,
-   "cierre_iso": "2026-10-19T09:00:00-03:00",
-   "tipo": "POSIBLE",
-   "motivos": [
-    "eléctrico"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=3765-295-COT26",
-   "primera_vista_iso": "2026-10-14T10:07:19-03:00",
-   "removida_iso": "2026-10-16T11:57:33-03:00",
-   "estado_api": null,
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
    "codigo": "3765-305-COT26",
    "nombre": "SE SOLICITA CONTRATACION DE UN INSTALADOR ELECTRICO - FACTIBILIDAD TE1 CASA SENDA ",
    "organismo": "SERVICIO NACIONAL DE SALUD HOSPITAL DE C",
@@ -1618,6 +1504,60 @@
    "primera_vista_iso": "2026-10-16T12:56:38-03:00",
    "removida_iso": "2026-10-16T14:53:21-03:00",
    "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
+  {
+   "codigo": "2713-1255-COT26",
+   "nombre": "EQUIPO AIRE ACONDICIONADO CON SERVICIO DE INSTALACION. FOLIO 1293 DIDECO",
+   "organismo": "I MUNICIPALIDAD DE AYSEN",
+   "monto": 900000,
+   "cierre_iso": "2026-10-16T15:40:00-03:00",
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Enfriamiento (aires acondicionados)"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=2713-1255-COT26",
+   "primera_vista_iso": "2026-10-15T12:58:39-03:00",
+   "removida_iso": "2026-10-16T15:59:46-03:00",
+   "estado_api": "",
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
+  {
+   "codigo": "4778-329-COT26",
+   "nombre": "VEM-ALMOHADAS, CUBRE COLCHÓN, JUEGO DE VAJILLA, JUEGO DE VASOS, TAZONES, INDIVIDUALES, CUCHARAS, CUCHARA DE TÉ, TENEDOR, CUCHILLO, ALARGADOR O ZAPATILLA ELÉCTRICA",
+   "organismo": "SERVICIO NACIONAL DE SALUD HOSPITAL DE C",
+   "monto": 380109,
+   "cierre_iso": "2026-10-16T15:35:00-03:00",
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Conectores, enchufes y terminales"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=4778-329-COT26",
+   "primera_vista_iso": "2026-10-15T16:05:38-03:00",
+   "removida_iso": "2026-10-16T15:59:46-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
+  {
+   "codigo": "620956-37-COT26",
+   "nombre": "Aires acondicionado ",
+   "organismo": "DELEGACIÓN PRESIDENCIAL PROVINCIAL DE GENERAL CARRERA",
+   "monto": 3700000,
+   "cierre_iso": "2026-10-16T15:00:00-03:00",
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Gasfitería, calefacción y aire acondicionado"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=620956-37-COT26",
+   "primera_vista_iso": "2026-10-14T13:02:14-03:00",
+   "removida_iso": "2026-10-16T15:59:46-03:00",
+   "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,
    "adj_iso": null
@@ -1653,7 +1593,7 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=4140-92-COT26",
    "primera_vista_iso": "2026-10-15T10:11:17-03:00",
    "removida_iso": "2026-10-16T11:00:56-03:00",
-   "estado_api": null,
+   "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,
    "adj_iso": null
@@ -2160,22 +2100,10 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=4778-330-COT26"
   },
   {
-   "codigo": "3765-295-COT26",
-   "nombre": "EPP PARA UNIDAD DE MANTENCIÓN",
-   "organismo": "SERVICIO NACIONAL DE SALUD HOSPITAL DE C",
-   "link": "https://buscador.mercadopublico.cl/ficha?code=3765-295-COT26"
-  },
-  {
    "codigo": "3765-293-COT26",
    "nombre": "INSUMOS DE DENTAL",
    "organismo": "SERVICIO NACIONAL DE SALUD HOSPITAL DE C",
    "link": "https://buscador.mercadopublico.cl/ficha?code=3765-293-COT26"
-  },
-  {
-   "codigo": "4778-317-COT26",
-   "nombre": "RELE-SOLICITUD N° 9629-ADQUISICIÓN DE MATERIALES CONSTRUCCION",
-   "organismo": "SERVICIO NACIONAL DE SALUD HOSPITAL DE C",
-   "link": "https://buscador.mercadopublico.cl/ficha?code=4778-317-COT26"
   }
  ]
 }
