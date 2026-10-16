@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-10-16T15:59:46.636202-03:00",
+ "actualizado": "2026-10-16T16:50:54.264014-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
- "total_region": 291,
+ "total_region": 298,
  "rubros": {
   "25172700": "Aire acondicionado",
   "25173900": "Componentes eléctricos",
@@ -19,45 +19,6 @@
   "39121400": "Conectores, enchufes y terminales"
  },
  "filas": [
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "generador"
-   ],
-   "nueva": false,
-   "codigo": "3540-274-COT26",
-   "nombre": "REPUESTOS GENERADOR DEE 8KVA KOLVO ",
-   "organismo": "Ejercito de Chile",
-   "unidad": "Cuerpo Militar del Trabajo Subjefatura Zonal Coyhaique",
-   "monto": 270000,
-   "cierre_iso": "2026-10-16T16:00:00-03:00",
-   "publicacion": "14-10 15:48",
-   "publicacion_iso": "2026-10-14T15:48:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "26101504",
-     "Motores diesel",
-     1,
-     "Motor de Arranque para Generador DEE 8Kva Kolvo Modelo G080DE3 8kva AÑO 2025, CODIGO 90700001983, Presupuesto Diponible $150.000."
-    ],
-    [
-     "44103004",
-     "Fusibles",
-     1,
-     "Fusible 30A 250V para Generador DEE 8Kva Kolvo Modelo G080DE3 8kva AÑO 2025, CODIGO 90700001983, Presupuesto Diponible $20.000."
-    ],
-    [
-     "26111711",
-     "Baterías de litio",
-     1,
-     "Bateria 12V 32AMP para Generador DEE 8Kva Kolvo Modelo G080DE3 8kva AÑO 2025, CODIGO 90700001983, Presupuesto Diponible $100.000."
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=3540-274-COT26",
-   "sin_detalle": false,
-   "descripcion": "Indicar plazo de entrega y datos de contacto. Se privilegiará proveedor de la región o que cuente con sucursal en Coyhaique y luego precio. Este proceso no considera ítem flete ni cargos adicionales, los costos deben estar incluidos en los valores unitarios. (LEER TÉRMINOS DE REFERENCIA ADJUNTO y ANALIZAR PRESUPUESTO POR CADA LÍNEA)"
-  },
   {
    "tipo": "OPORTUNIDAD",
    "motivos": [
@@ -762,6 +723,45 @@
    "descripcion": "EQUIPOS DE CLIMATIZACION Y PISO DE CAUCHO DE ALTO TRÁFICO , DESTINADOS A LA REMODELACION Y MEJORAMIENTO DE LA SALA DE MUSCULACIÓN DEL GIMANSIO MUNICIPAL DE COCHRANE."
   },
   {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Cajas y accesorios eléctricos"
+   ],
+   "nueva": true,
+   "codigo": "1107283-170-COT26",
+   "nombre": "INSUMOS GANADEROS",
+   "organismo": "INSTITUTO DE INVESTIGACIONES AGROPECUARIAS",
+   "unidad": "TAMELAIKE",
+   "monto": 950000,
+   "cierre_iso": "2026-10-19T10:00:00-03:00",
+   "publicacion": "16-10 16:25",
+   "publicacion_iso": "2026-10-16T16:25:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "30152001",
+     "Cercos de metal",
+     1,
+     "1 CERCO ELECTRICO O CARRETE INTELIGENTE PORTATIL V2, es un sistema todo\nen uno de 4 alambres, instantáneo y completamente portátil."
+    ],
+    [
+     "39121311",
+     "Accesorios eléctricos",
+     1,
+     "1 ENERGIZADOR SOLAR - 6 KM. que utilice fuente de poder solar alcance de hasta 6\nkm, cables de alimentación, resistente al agua."
+    ],
+    [
+     "39121311",
+     "Accesorios eléctricos",
+     1,
+     "1 BARRA TIERRA GALVANIZADA 1 MT"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1107283-170-COT26",
+   "sin_detalle": false,
+   "descripcion": "INSUMOS GANADEROS:\nENERGIZADOR SOLAR\nCERCO ELECTRICO O CARRETE INTELIGENTE PORTATIL V2\nBARRA TIERRA GALVANIZADA 1 MT"
+  },
+  {
    "tipo": "POSIBLE",
    "motivos": [
     "iluminación"
@@ -851,6 +851,39 @@
   {
    "tipo": "POSIBLE",
    "motivos": [
+    "iluminación"
+   ],
+   "nueva": true,
+   "codigo": "1281188-17-COT26",
+   "nombre": "Adquisición de 04 Plafones 24W y 02 Proyectores Led 40w con panel solar",
+   "organismo": "DELEGACIÓN PRESIDENCIAL PROVINCIAL DE CAPITÁN PRAT",
+   "unidad": "Pasos Fronterizos Provincial de Capitán Prat",
+   "monto": 214000,
+   "cierre_iso": "2026-10-19T16:30:00-03:00",
+   "publicacion": "16-10 16:13",
+   "publicacion_iso": "2026-10-16T16:13:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "39111521",
+     "Plafones",
+     4,
+     "04 plafones sobrepuesto redondo 24W . Luz Fría"
+    ],
+    [
+     "39111513",
+     "Iluminación solar interior",
+     2,
+     "02 proyectores Led 40W con panel solar, 6500 K IP65."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1281188-17-COT26",
+   "sin_detalle": false,
+   "descripcion": "Adquisición de 04 Planes Sobrepuesto 24W., Luz Fría y 02 Proyectores Led 40W., 6500K IP65. El oferente deberá indicar si asume los costos de despacho. En caso afirmativo, dicho costo deberá encontrarse incluido en el valor total ofertado y no podrá ser presentado como un ítem."
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
     "enchufe"
    ],
    "nueva": false,
@@ -874,6 +907,33 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=4626-32-COT26",
    "sin_detalle": false,
    "descripcion": "Provisión e instalación de cuatro (4) puntos de red y provisión e instalación de un (1) enchufe triple para oficinas de la Dirección Regional del Trabajo Región de Aysén"
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "iluminación"
+   ],
+   "nueva": true,
+   "codigo": "4066-424-COT26",
+   "nombre": "Servicio de Producción de Eventos, Feria Productiva, Lanzamiento Temporada Turística 2026-2027 en Puerto Río Tranquilo - COD BIP 40066883-0",
+   "organismo": "I MUNICIPALIDAD RIO IBANEZ",
+   "unidad": "DIDECO",
+   "monto": 7150000,
+   "cierre_iso": "2026-10-19T19:00:00-03:00",
+   "publicacion": "15-10 18:38",
+   "publicacion_iso": "2026-10-15T18:38:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "80141607",
+     "Producción de eventos",
+     1,
+     "Servicio integral de producción de la feria productiva de lanzamiento de temporada turística 2026-2027, sábado 31 de octubre de 2026, plaza de Puerto Río Tranquilo (montaje desde 08:00). Incluye música en vivo, animación, sonido e iluminación, ornamentación y montaje, alimentación, merchandising, reconocimientos y registro fotográfico. Cotizar valor único y total, impuesto incluido, máximo $7.150.000. Detalle y requisitos en TDR adjunto."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=4066-424-COT26",
+   "sin_detalle": false,
+   "descripcion": "Servicio de producción para la feria productiva de lanzamiento de la temporada turística 2026-2027, el sábado 31 de octubre de 2026 en la plaza de Puerto Río Tranquilo. Incluye música en vivo, animación, sonido e iluminación, ornamentación y montaje, alimentación, merchandising, reconocimientos y registro fotográfico. Presupuesto: $7.150.000 impuesto incluido. Requiere patente municipal o exención. Ver TDR adjunto."
   },
   {
    "tipo": "POSIBLE",
@@ -1153,6 +1213,63 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=4066-419-COT26",
    "sin_detalle": false,
    "descripcion": "Contratar mano de obra para ejecución de reparación de instalación eléctrica de 2 viviendas de la localidad de Puerto Sánchez. Consistente en obras de mejoramiento de la instalación eléctrica interior las cuales se deberán cumplir con las normativas vigente y las especificaciones técnicas adjuntas. El prestador deberá asegurar la entrega oportuna y conforme de los productos comprometidos en los plazos establecidos, coordinando permanentemente con la Unidad Técnica, según términos de referencias"
+  },
+  {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Materiales de física de electricidad"
+   ],
+   "nueva": true,
+   "codigo": "1173433-18-COT26",
+   "nombre": "Adquisición de maquinaria y equipamiento para el fortalecimiento de las actividades productivas y de mantenimiento del C.E.T. de Valle Verde. ",
+   "organismo": "Centro de Educación y Trabajo Valle Verde",
+   "unidad": "CET Valle Verde",
+   "monto": 5638655,
+   "cierre_iso": "2026-10-21T11:00:00-03:00",
+   "publicacion": "16-10 16:12",
+   "publicacion_iso": "2026-10-16T16:12:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "27111508",
+     "Sierras",
+     2,
+     "MOTOSIERRA STIHL MS 250 O SIMILAR. Cilindrada 45,4 cm3, Cadena Rapid Micro/Super 0,325” 1,6 mm., Espada 18\", Motor, 2 Tiempos, Potencia (Hp) 3,1 HP."
+    ],
+    [
+     "23101508",
+     "Cortadoras",
+     2,
+     "DESMALEZADORA STIHL FS 120 O SIMILAR. Cilindrada: 30,8 cc., Potencia: 1,3 kW (1,8 HP), Peso: 6,3 kg., Capacidad del estanque: 0,64 litros., Motor: 2 tiempos."
+    ],
+    [
+     "25101901",
+     "Tractores agrícolas",
+     1,
+     "TRACTOCULTIVADOR KRAFTER R001 11 HP O SIMILAR. Motor: Diésel HSD188FAE (11 HP), Encendido: Eléctrico (y con piola de arranque manual de emergencia), Transmisión Por engranajes, Marchas: 3 hacia adelante y 1 hacia atrás, Neumáticos Frontales 4.0-8 / Traseros 5.0-12., Ancho de trabajo 1.050 mm (1,05 m), Diámetro máximo de fresas 360 mm, Peso: 240 kg."
+    ],
+    [
+     "60104907",
+     "Generadores portátiles",
+     1,
+     "GENERADOR LONCIN LC2500 2.2KW. O SIMILAR. Frecuencia 50 Hz, Potencia máxima 2,2 Kva, Potencia continua 2,0 kVA, Voltaje 220 V, Motor 5,5 HP, Tipo Monocilíndrico 4 Tiempos, Refrigeración Por aire, Sistema de arranque Piola retráctil, Consumo combustible 1,22 L/h, Autonomía 13 h, Dimensiones 590 x 475 x 460 mm, Peso 42 kg."
+    ],
+    [
+     "23181506",
+     "Maquinaria de lavado",
+     1,
+     "HIDROLAVADORA LUSTER GASOLINA AGW. HE-3100 O SIMILAR. Partida manual,  temperatura del agua 5° mín - 50 ° máx., dimensiones (lah) 70 x 45 x 66, peso 35 Kg, estanque de combustible 3,6 Lts., tipo de motor gasolina 7hp., velocidad 3600 rpm, máxima presión 213 bar, presión de trabajo 193 bar, caudal o flujo permisible 570 lts./hr."
+    ],
+    [
+     "23101508",
+     "Cortadoras",
+     1,
+     "CORTA CESPED TREX 173 CC C/R R/ALTA21 O SIMILAR. Motor: 4 tiempos OHV de 173 cc (aprox. 5,0 HP)., Ancho de corte: 21\" (53 cm), Altura de corte 6 posiciones regulables mediante 1 sola palanca (entre 2,5 cm y 7,5cm)., Ruedas Traseras altas (8\"delantera / 11\"trasera), ideales para terrenos con desniveles, Capacidades de estanque 1 litro de combustible y 0,6 litros de aceite, Sistemas de trabajo 3 en 1 (incluye recolector trasero, descarga lateral y sistema Mulching), Peso: 39 kg. Certificación SEC"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1173433-18-COT26",
+   "sin_detalle": false,
+   "descripcion": "Se requiere la adquisición de maquinaria y equipamiento para el fortalecimiento de las actividades productivas y de mantenimiento del C.E.T. de Valle Verde."
   },
   {
    "tipo": "OPORTUNIDAD",
@@ -1503,6 +1620,24 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=3765-305-COT26",
    "primera_vista_iso": "2026-10-16T12:56:38-03:00",
    "removida_iso": "2026-10-16T14:53:21-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
+  {
+   "codigo": "3540-274-COT26",
+   "nombre": "REPUESTOS GENERADOR DEE 8KVA KOLVO ",
+   "organismo": "Ejercito de Chile",
+   "monto": 270000,
+   "cierre_iso": "2026-10-16T16:00:00-03:00",
+   "tipo": "POSIBLE",
+   "motivos": [
+    "generador"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=3540-274-COT26",
+   "primera_vista_iso": "2026-10-14T16:05:10-03:00",
+   "removida_iso": "2026-10-16T16:50:54-03:00",
    "estado_api": null,
    "adj_nombre": null,
    "adj_monto": null,
