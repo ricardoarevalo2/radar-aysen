@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-10-16T13:57:01.711243-03:00",
+ "actualizado": "2026-10-16T14:53:21.071237-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
- "total_region": 285,
+ "total_region": 296,
  "rubros": {
   "80141600": "Ventas y marketing",
   "82101600": "Publicidad en medios no impresos",
@@ -1290,6 +1290,18 @@
   }
  ],
  "pendientes": [
+  {
+   "codigo": "3950-670-COT26",
+   "nombre": "Insumos y Dispositivos Médicos para Atención Clínica.",
+   "organismo": "DIRECCION SALUD RURAL",
+   "link": "https://buscador.mercadopublico.cl/ficha?code=3950-670-COT26"
+  },
+  {
+   "codigo": "3950-671-COT26",
+   "nombre": " Insumos Clínicos para Abastecimiento de Bodega",
+   "organismo": "DIRECCION SALUD RURAL",
+   "link": "https://buscador.mercadopublico.cl/ficha?code=3950-671-COT26"
+  },
   {
    "codigo": "4778-330-COT26",
    "nombre": "REC- SOLICITUD N° 10135-MEL- MEJORAMIEN ENTORNO LABORAL - DEBE INCLUIR DESPACHO",
