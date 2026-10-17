@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-10-16T22:05:06.064238-03:00",
+ "actualizado": "2026-10-17T06:50:48.706192-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
- "total_region": 296,
+ "total_region": 293,
  "rubros": {
   "25172700": "Aire acondicionado",
   "25173900": "Componentes eléctricos",
@@ -1978,12 +1978,5 @@
    "adj_iso": null
   }
  ],
- "pendientes": [
-  {
-   "codigo": "4778-330-COT26",
-   "nombre": "REC- SOLICITUD N° 10135-MEL- MEJORAMIEN ENTORNO LABORAL - DEBE INCLUIR DESPACHO",
-   "organismo": "SERVICIO NACIONAL DE SALUD HOSPITAL DE C",
-   "link": "https://buscador.mercadopublico.cl/ficha?code=4778-330-COT26"
-  }
- ]
+ "pendientes": []
 }
