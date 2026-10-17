@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-10-17T10:50:25.546693-03:00",
+ "actualizado": "2026-10-17T11:48:33.347745-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
- "total_region": 283,
+ "total_region": 279,
  "rubros": {
   "25172700": "Aire acondicionado",
   "25173900": "Componentes eléctricos",
@@ -19,57 +19,6 @@
   "39121400": "Conectores, enchufes y terminales"
  },
  "filas": [
-  {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Cajas y accesorios eléctricos"
-   ],
-   "nueva": true,
-   "codigo": "4609-281-COT26",
-   "nombre": "RELOJ CONTROL  BIOMETRICO Y OTROS",
-   "organismo": "I MUNICIPALIDAD DE CHILE CHICO",
-   "unidad": "Finanzas",
-   "monto": 3600000,
-   "cierre_iso": "2026-10-17T11:46:00-03:00",
-   "publicacion": "15-10 08:32",
-   "publicacion_iso": "2026-10-15T08:32:00-03:00",
-   "ofertas": 1,
-   "productos": [
-    [
-     "44103201",
-     "Reloj de control",
-     4,
-     "RELOJ CONTROL BIOMETRICO. Terminal de identificación por huella dactilar y reconocimiento, con comunicación PUSH sobre HTTPS. Modelo de referencia PSHV3000 o equivalente."
-    ],
-    [
-     "39121310",
-     "Cajas de uso general",
-     4,
-     "CONTENEDOR METALICO CON MINI UPS. Contenedor metálico con llave para terminal de asistencia, con mini UPS instalada en su interior. Autonomía mínima de 3 horas."
-    ],
-    [
-     "90121503",
-     "Servicio de fletes",
-     1,
-     "DESPACHO. Despacho de relojes y contenedores a Chile Chico, Región de Aysén."
-    ],
-    [
-     "43232901",
-     "Software de acceso",
-     3,
-     "SOFTWARE COMO SERVICIO (SAAS). Sistema de gestión de asistencia Cloud Versión Premium. Usuario Administrador/Puntos a Controlar. Ampliación por 10 meses (nov. 2026 a ago. 2027)."
-    ],
-    [
-     "43232901",
-     "Software de acceso",
-     17,
-     "SOFTWARE COMO SERVICIO (SAAS). Sistema de gestión de asistencia Cloud Versión Premium. Funcionario Gestionado por plataforma de gestión de asistencia Cloud. Ampliación por 10 meses (nov. 2026 a ago. 2027)."
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=4609-281-COT26",
-   "sin_detalle": false,
-   "descripcion": "COTIZACION RELOJ CONTROL  BIOMETRICO Y OTROS"
-  },
   {
    "tipo": "POSIBLE",
    "motivos": [
@@ -517,7 +466,7 @@
    "motivos": [
     "iluminación"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "1057062-464-COT26",
    "nombre": "Servicio de producción de eventos para el 22 y 23 de octubre en Coyhaique y Puerto Aysén según Fisabs 2297_Programa Orquestas",
    "organismo": "UNIVERSIDAD DE AYSEN",
@@ -1344,6 +1293,24 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=3765-305-COT26",
    "primera_vista_iso": "2026-10-16T12:56:38-03:00",
    "removida_iso": "2026-10-16T14:53:21-03:00",
+   "estado_api": "",
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
+  {
+   "codigo": "4609-281-COT26",
+   "nombre": "RELOJ CONTROL  BIOMETRICO Y OTROS",
+   "organismo": "I MUNICIPALIDAD DE CHILE CHICO",
+   "monto": 3600000,
+   "cierre_iso": "2026-10-17T11:46:00-03:00",
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Cajas y accesorios eléctricos"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=4609-281-COT26",
+   "primera_vista_iso": "2026-10-15T08:55:42-03:00",
+   "removida_iso": "2026-10-17T11:48:33-03:00",
    "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,

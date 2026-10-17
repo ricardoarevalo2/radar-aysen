@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-10-17T10:50:25.546693-03:00",
+ "actualizado": "2026-10-17T11:48:33.347745-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
- "total_region": 283,
+ "total_region": 279,
  "rubros": {
   "80141600": "Ventas y marketing",
   "82101600": "Publicidad en medios no impresos",
@@ -244,7 +244,7 @@
    "motivos": [
     "Publicidad en medios no impresos"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "3791-1035-COT26",
    "nombre": "PUBLICIDAD OLIMPIADAS",
    "organismo": "I MUNICIPALIDAD DE CISNES",
@@ -488,7 +488,7 @@
    "motivos": [
     "Ventas y marketing"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "1057062-464-COT26",
    "nombre": "Servicio de producción de eventos para el 22 y 23 de octubre en Coyhaique y Puerto Aysén según Fisabs 2297_Programa Orquestas",
    "organismo": "UNIVERSIDAD DE AYSEN",
