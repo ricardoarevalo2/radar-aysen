@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-10-17T09:58:42.282413-03:00",
+ "actualizado": "2026-10-17T10:50:25.546693-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
- "total_region": 288,
+ "total_region": 283,
  "rubros": {
   "80141600": "Ventas y marketing",
   "82101600": "Publicidad en medios no impresos",
@@ -290,7 +290,7 @@
     "difusion",
     "publicidad"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "3791-1031-COT26",
    "nombre": "PASACALLE ",
    "organismo": "I MUNICIPALIDAD DE CISNES",
@@ -818,7 +818,7 @@
    "motivos": [
     "avisos"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "682-20-COT26",
    "nombre": "CONTRATACIÓN DE SERVICIOS DE PUBLICACIÓN, SANEAMIENTOS D.L. N° 2695/79",
    "organismo": "SECRETARIA REGIONAL MINISTERIAL DE BIENES NACIONALES XI REGION",
@@ -892,7 +892,7 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=1057062-460-COT26",
    "primera_vista_iso": "2026-10-15T16:05:38-03:00",
    "removida_iso": "2026-10-16T15:59:46-03:00",
-   "estado_api": null,
+   "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,
    "adj_iso": null
