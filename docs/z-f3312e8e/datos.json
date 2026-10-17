@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-10-17T16:44:46.217779-03:00",
+ "actualizado": "2026-10-17T17:49:13.584177-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
- "total_region": 272,
+ "total_region": 270,
  "rubros": {
   "25172700": "Aire acondicionado",
   "25173900": "Componentes eléctricos",
@@ -400,7 +400,7 @@
    "motivos": [
     "Cajas y accesorios eléctricos"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "1107283-170-COT26",
    "nombre": "INSUMOS GANADEROS",
    "organismo": "INSTITUTO DE INVESTIGACIONES AGROPECUARIAS",
@@ -526,7 +526,7 @@
    "motivos": [
     "iluminación"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "1281188-17-COT26",
    "nombre": "Adquisición de 04 Plafones 24W y 02 Proyectores Led 40w con panel solar",
    "organismo": "DELEGACIÓN PRESIDENCIAL PROVINCIAL DE CAPITÁN PRAT",
@@ -865,7 +865,7 @@
    "motivos": [
     "Materiales de física de electricidad"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "1173433-18-COT26",
    "nombre": "Adquisición de maquinaria y equipamiento para el fortalecimiento de las actividades productivas y de mantenimiento del C.E.T. de Valle Verde. ",
    "organismo": "Centro de Educación y Trabajo Valle Verde",
