@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-10-17T15:52:02.628888-03:00",
+ "actualizado": "2026-10-17T16:44:46.217779-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
- "total_region": 274,
+ "total_region": 272,
  "rubros": {
   "80141600": "Ventas y marketing",
   "82101600": "Publicidad en medios no impresos",
@@ -82,7 +82,7 @@
    "motivos": [
     "Ventas y marketing"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "4066-426-COT26",
    "nombre": "SERVICIO DE PRODUCCIÓN PARA PRESENTACIÓN ARTÍSTICA DE MÚSICA REGIONAL MEXICANA, ESTILO NORTEÑO, ACTIVIDAD MUNICPAL “ANIVERSARIO VILLA CERRO CASTILLO 2026”",
    "organismo": "I MUNICIPALIDAD RIO IBANEZ",
@@ -984,7 +984,7 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=3765-301-COT26",
    "primera_vista_iso": "2026-10-14T14:56:34-03:00",
    "removida_iso": "2026-10-15T16:05:38-03:00",
-   "estado_api": null,
+   "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,
    "adj_iso": null
