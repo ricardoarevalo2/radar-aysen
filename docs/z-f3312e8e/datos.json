@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-10-17T12:49:03.221659-03:00",
+ "actualizado": "2026-10-17T13:50:09.863295-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
- "total_region": 278,
+ "total_region": 276,
  "rubros": {
   "25172700": "Aire acondicionado",
   "25173900": "Componentes eléctricos",
@@ -19,33 +19,6 @@
   "39121400": "Conectores, enchufes y terminales"
  },
  "filas": [
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "generador"
-   ],
-   "nueva": true,
-   "codigo": "1274667-388-COT26",
-   "nombre": "RVB - SOLICITA SERVICIO MANTENCIÓN CORRECTIVA PARA GRUPO GENERADOR  CATERPILLAR DE CENTRO DE SALUD FAMILIAR PUERTO AYSÉN",
-   "organismo": "CENTRO DE SALUD FAMILIAR PUERTO AYSÉN",
-   "unidad": "CENTRO DE SALUD FAMILIAR PUERTO AYSÉN",
-   "monto": 150000,
-   "cierre_iso": "2026-10-17T12:49:00-03:00",
-   "publicacion": "09-10 10:03",
-   "publicacion_iso": "2026-10-09T10:03:00-03:00",
-   "ofertas": 1,
-   "productos": [
-    [
-     "73152101",
-     "Servicio de mantenimiento de equipo de fabricación",
-     1,
-     "SERVICIO MANTENCIÓN CORRECTIVA PARA GRUPO GENERADOR CATERPILLAR. DETALLE EN DOCUMENTO ADJUNTO."
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1274667-388-COT26",
-   "sin_detalle": false,
-   "descripcion": "ADJUNTAR COTIZACION - ADJUNTAR FICHA TECNICA PARA PODER EVALUAR CORRECTAMENTE LA OFERTA - DATOS BANCARIOS - CONTACTO PARA RESOLVER DUDAS - EN CASO DE ADJUDICACION FAVOR EMITIR DESPACHO CON GUIA - MARCAS MENCIONADAS SON SOLAMENTE REFERENCIALES. DETALLES EN DOCUMENTO ADJUNTO."
-  },
   {
    "tipo": "POSIBLE",
    "motivos": [
@@ -1293,6 +1266,24 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=3765-305-COT26",
    "primera_vista_iso": "2026-10-16T12:56:38-03:00",
    "removida_iso": "2026-10-16T14:53:21-03:00",
+   "estado_api": "",
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
+  {
+   "codigo": "1274667-388-COT26",
+   "nombre": "RVB - SOLICITA SERVICIO MANTENCIÓN CORRECTIVA PARA GRUPO GENERADOR  CATERPILLAR DE CENTRO DE SALUD FAMILIAR PUERTO AYSÉN",
+   "organismo": "CENTRO DE SALUD FAMILIAR PUERTO AYSÉN",
+   "monto": 150000,
+   "cierre_iso": "2026-10-17T12:49:00-03:00",
+   "tipo": "POSIBLE",
+   "motivos": [
+    "generador"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1274667-388-COT26",
+   "primera_vista_iso": "2026-10-11T21:06:47-03:00",
+   "removida_iso": "2026-10-17T13:50:09-03:00",
    "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,
