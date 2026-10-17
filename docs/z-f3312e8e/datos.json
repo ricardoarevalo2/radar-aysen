@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-10-17T11:48:33.347745-03:00",
+ "actualizado": "2026-10-17T12:49:03.221659-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
- "total_region": 279,
+ "total_region": 278,
  "rubros": {
   "25172700": "Aire acondicionado",
   "25173900": "Componentes eléctricos",
@@ -949,7 +949,7 @@
    "motivos": [
     "Servicios eléctricos"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "741465-12-COT26",
    "nombre": "Puesta en marcha de central de alarma contra incendios ",
    "organismo": "Juzgado de Letras Garantia de Puerto Aysen",
@@ -1329,7 +1329,7 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=1057062-462-COT26",
    "primera_vista_iso": "2026-10-15T17:55:27-03:00",
    "removida_iso": "2026-10-16T17:54:39-03:00",
-   "estado_api": null,
+   "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,
    "adj_iso": null
@@ -1404,7 +1404,7 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=4778-329-COT26",
    "primera_vista_iso": "2026-10-15T16:05:38-03:00",
    "removida_iso": "2026-10-16T15:59:46-03:00",
-   "estado_api": null,
+   "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,
    "adj_iso": null
