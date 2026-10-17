@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-10-17T14:46:32.199623-03:00",
+ "actualizado": "2026-10-17T15:52:02.628888-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
- "total_region": 276,
+ "total_region": 274,
  "rubros": {
   "25172700": "Aire acondicionado",
   "25173900": "Componentes eléctricos",
@@ -226,7 +226,7 @@
    "motivos": [
     "electricidad"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "3950-657-COT26",
    "nombre": "PROVISION Y CAMBIO DE BOMBA DE AGUA RECIRCULADORA",
    "organismo": "DIRECCION SALUD RURAL",
@@ -361,7 +361,7 @@
    "motivos": [
     "Gasfitería, calefacción y aire acondicionado"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "3797-478-COT26",
    "nombre": "EQUIPOS DE CLIMATIZACION",
    "organismo": "I MUNICIPALIDAD DE COCHRANE",
