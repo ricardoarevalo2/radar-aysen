@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-10-19T10:11:35.372301-03:00",
+ "actualizado": "2026-10-19T11:06:38.650764-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
- "total_region": 207,
+ "total_region": 204,
  "rubros": {
   "80141600": "Ventas y marketing",
   "82101600": "Publicidad en medios no impresos",
@@ -14,79 +14,6 @@
   "83121700": "Comunicación social y de masas"
  },
  "filas": [
-  {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Publicidad en medios no impresos"
-   ],
-   "nueva": false,
-   "codigo": "3791-1035-COT26",
-   "nombre": "PUBLICIDAD OLIMPIADAS",
-   "organismo": "I MUNICIPALIDAD DE CISNES",
-   "unidad": "Finanzas",
-   "monto": 399999,
-   "cierre_iso": "2026-10-19T10:30:00-03:00",
-   "publicacion": "16-10 10:44",
-   "publicacion_iso": "2026-10-16T10:44:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "82101601",
-     "Publicidad en radio",
-     2,
-     "SERVICIO DE ENTREVISTA"
-    ],
-    [
-     "82101601",
-     "Publicidad en radio",
-     2,
-     "SPOT RADIAL MAX 3MINT."
-    ],
-    [
-     "82101601",
-     "Publicidad en radio",
-     1,
-     "VIDEO RESUMEN MUSICALIZADO Y VOZ EN OF:"
-    ],
-    [
-     "82101603",
-     "Publicidad en Internet",
-     2,
-     "PUBLICACION EN FACEBOOK"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=3791-1035-COT26",
-   "sin_detalle": false,
-   "descripcion": "SERVICIO DE PUBLICIDAD PARA ACTIVIDAD \"OLIMPIADAS COMUNALES 2026\" A DESARROLLARSE EL 31 DE OCTUBRE Y 01 DE NOVIEMBRE EN LA LOCALIDAD DE LA JUNTA"
-  },
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "difusion",
-    "publicidad"
-   ],
-   "nueva": false,
-   "codigo": "3791-1031-COT26",
-   "nombre": "PASACALLE ",
-   "organismo": "I MUNICIPALIDAD DE CISNES",
-   "unidad": "Finanzas",
-   "monto": 100000,
-   "cierre_iso": "2026-10-19T10:30:00-03:00",
-   "publicacion": "16-10 09:54",
-   "publicacion_iso": "2026-10-16T09:54:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "82101502",
-     "Publicidad en carteles",
-     1,
-     "Pasacalle de 1 x 4 metros, con ojales en las cuatro esquinas y en los bordes."
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=3791-1031-COT26",
-   "sin_detalle": false,
-   "descripcion": "ADQUISICION DE PASACALLE DESTINADO A LA DIFUSION Y PROMOCION DE LAS OLIMPIADAS COMUNALES LA JUNTA 2026. SEE ADJUNTAN ANEXOS"
-  },
   {
    "tipo": "POSIBLE",
    "motivos": [
@@ -140,6 +67,123 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=1201-184-COT26",
    "sin_detalle": false,
    "descripcion": "La necesidad de contar con material de difusión necesario para actividad a realizarse el día 13 de\nnoviembre del 2026 en la localidad de Cerro Castillo, por el Programa Formación para el Deporte\ncomponente Encuentros Formativos Deportivos del Instituto Nacional De Deporte Región de\nAysén."
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "spot"
+   ],
+   "nueva": true,
+   "codigo": "4778-331-COT26",
+   "nombre": "ADQUISICION DE INSUMOS CLINICOS PARA MONITOREO DE PACIENTES",
+   "organismo": "SERVICIO NACIONAL DE SALUD HOSPITAL DE C",
+   "unidad": "Compras de Insumos y Servicios Generales",
+   "monto": 5909540,
+   "cierre_iso": "2026-10-19T16:00:00-03:00",
+   "publicacion": "16-10 12:37",
+   "publicacion_iso": "2026-10-16T12:37:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "41111927",
+     "Sensores de presión",
+     20,
+     "U410-205D SENSOR SPO2 CLIP ADULTO 3 M, BIOLIGHT V6"
+    ],
+    [
+     "41111927",
+     "Sensores de presión",
+     10,
+     "U910-205D SENSOR CLIP OREJA 3 M BIOLIGHT V6"
+    ],
+    [
+     "41111927",
+     "Sensores de presión",
+     30,
+     "U410-21MR SENSOR SPO2 ADULTO 3 M / NELLCOR"
+    ],
+    [
+     "41111927",
+     "Sensores de presión",
+     10,
+     "U910-21MR SENSOR OREJA 3 M / GENERAL ELECTRIC"
+    ],
+    [
+     "41111927",
+     "Sensores de presión",
+     10,
+     "U410-48 SENSOR SPO2 CLIP ADULTO 3 M EDAN X 12"
+    ],
+    [
+     "41111927",
+     "Sensores de presión",
+     10,
+     "U410-48 SENSOR SPO2 CLIP DEDO ADULTO EDAN IM12"
+    ],
+    [
+     "41111927",
+     "Sensores de presión",
+     3,
+     "U410-48 SENSOR SPO2 CLIP DEDO ADULTO EDAN IM3"
+    ],
+    [
+     "41111927",
+     "Sensores de presión",
+     5,
+     "U910-48 SENSOR SPO2 OREJA 3 M EDAN IM20"
+    ],
+    [
+     "41111927",
+     "Sensores de presión",
+     2,
+     "U410-189 SENSOR SPO2 CLIP ADULTO 3 M MATTIE MED"
+    ],
+    [
+     "41111927",
+     "Sensores de presión",
+     2,
+     "U410-48MR SENSOR SPO2 ADULTO 3 M, MINDRAY BENEVIEW T5"
+    ],
+    [
+     "41111927",
+     "Sensores de presión",
+     2,
+     "U410-48MR SENSOR SPO2 CLIP ADULTO 3 M, MINDRAY IPM12"
+    ],
+    [
+     "41111927",
+     "Sensores de presión",
+     5,
+     "U410-01XP SENSOR CLIP DEDO ADULTO 3 M WELCH ALLYN SPOT"
+    ],
+    [
+     "41111927",
+     "Sensores de presión",
+     1,
+     "U410-70P SENSOR SPO2 CLIP ADULTO 3 M ALLYN ALLYN PROPAQ"
+    ],
+    [
+     "41111927",
+     "Sensores de presión",
+     2,
+     "U410-205D SENSOR SPO2 CLIP ADULTO 3 M BIOLIGHT S12"
+    ],
+    [
+     "41111927",
+     "Sensores de presión",
+     2,
+     "U410-61D SENSOR SPO2 CLIP ADULTO CREATIVE PC900"
+    ],
+    [
+     "41111927",
+     "Sensores de presión",
+     5,
+     "U410-74 SENSOR SPO2 CLIP DEDO ADULTO 3 M SPACELABS"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=4778-331-COT26",
+   "sin_detalle": false,
+   "descripcion": "ADQUISICION DE INSUMOS CLINICOS PARA MONITOREO DE PACIENTES, SENSORES SPO2, CABLES ECG, BRAZALETES DE PRESION ARTERIAL Y ADAPTADORES DE CONEXION, SEGUN SOLICITUD EXTRAORDINARIA N° 3726/2026 DE LA UNIDAD DE EQUIPOS MEDICOS, SE DEBE ADJUNTAR COTIZACION, ESPECIFICACIONES TECNICAS Y COSIDERAR ENTREGA EN BODEGA KM 5 RECTA FOITZICK CAMINO A BALMACEDA."
   },
   {
    "tipo": "OPORTUNIDAD",
@@ -555,18 +599,37 @@
  ],
  "historial": [
   {
-   "codigo": "4778-331-COT26",
-   "nombre": "ADQUISICION DE INSUMOS CLINICOS PARA MONITOREO DE PACIENTES",
-   "organismo": "SERVICIO NACIONAL DE SALUD HOSPITAL DE C",
-   "monto": 5909540,
-   "cierre_iso": "2026-10-19T16:00:00-03:00",
+   "codigo": "3791-1031-COT26",
+   "nombre": "PASACALLE ",
+   "organismo": "I MUNICIPALIDAD DE CISNES",
+   "monto": 100000,
+   "cierre_iso": "2026-10-19T10:30:00-03:00",
    "tipo": "POSIBLE",
    "motivos": [
-    "spot"
+    "difusion",
+    "publicidad"
    ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=4778-331-COT26",
-   "primera_vista_iso": "2026-10-16T13:57:01-03:00",
-   "removida_iso": "2026-10-19T10:11:35-03:00",
+   "link": "https://buscador.mercadopublico.cl/ficha?code=3791-1031-COT26",
+   "primera_vista_iso": "2026-10-16T10:09:44-03:00",
+   "removida_iso": "2026-10-19T11:06:38-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
+  {
+   "codigo": "3791-1035-COT26",
+   "nombre": "PUBLICIDAD OLIMPIADAS",
+   "organismo": "I MUNICIPALIDAD DE CISNES",
+   "monto": 399999,
+   "cierre_iso": "2026-10-19T10:30:00-03:00",
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Publicidad en medios no impresos"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=3791-1035-COT26",
+   "primera_vista_iso": "2026-10-16T11:00:56-03:00",
+   "removida_iso": "2026-10-19T11:06:38-03:00",
    "estado_api": null,
    "adj_nombre": null,
    "adj_monto": null,
@@ -1102,10 +1165,10 @@
  ],
  "pendientes": [
   {
-   "codigo": "1004-22-COT26",
-   "nombre": "ARTICULOS DE ASEO Y MATERIALES DE OFICINA PARA OF. PROVINCIAL COYHAIQUE",
-   "organismo": "MINISTERIO DE OBRAS PUBLICAS DIREC CION GRAL DE OO PP DCYF",
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1004-22-COT26"
+   "codigo": "1494998-21-COT26",
+   "nombre": "ADQUISICIÓN Y DESPACHO DE ELECTRODOMÉSTICOS Y EQUIPAMIENTO PARA LAS ÁREAS PROTEGIDAS DE LA DIRECCIÓN REGIONAL ",
+   "organismo": "Servicio de Biodiversidad y Áreas Protegidas",
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1494998-21-COT26"
   },
   {
    "codigo": "2495-557-COT26",
@@ -1114,10 +1177,10 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=2495-557-COT26"
   },
   {
-   "codigo": "1195-472-COT26",
-   "nombre": "Adquisición de aceites y lubricantes",
-   "organismo": "I MUNICIPALIDAD DE COYHAIQUE",
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1195-472-COT26"
+   "codigo": "1746-238-COT26",
+   "nombre": "BLOQUEADOR SOLAR (P 488 HIGIENE Y SEGURIDAD)",
+   "organismo": "SUBSECRETARIA DE SALUD PUBLICA",
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1746-238-COT26"
   }
  ]
 }

@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-10-19T10:11:35.372301-03:00",
+ "actualizado": "2026-10-19T11:06:38.650764-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
- "total_region": 207,
+ "total_region": 204,
  "rubros": {
   "25172700": "Aire acondicionado",
   "25173900": "Componentes eléctricos",
@@ -19,45 +19,6 @@
   "39121400": "Conectores, enchufes y terminales"
  },
  "filas": [
-  {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Cajas y accesorios eléctricos"
-   ],
-   "nueva": false,
-   "codigo": "1107283-170-COT26",
-   "nombre": "INSUMOS GANADEROS",
-   "organismo": "INSTITUTO DE INVESTIGACIONES AGROPECUARIAS",
-   "unidad": "TAMELAIKE",
-   "monto": 950000,
-   "cierre_iso": "2026-10-19T10:00:00-03:00",
-   "publicacion": "16-10 16:25",
-   "publicacion_iso": "2026-10-16T16:25:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "30152001",
-     "Cercos de metal",
-     1,
-     "1 CERCO ELECTRICO O CARRETE INTELIGENTE PORTATIL V2, es un sistema todo\nen uno de 4 alambres, instantáneo y completamente portátil."
-    ],
-    [
-     "39121311",
-     "Accesorios eléctricos",
-     1,
-     "1 ENERGIZADOR SOLAR - 6 KM. que utilice fuente de poder solar alcance de hasta 6\nkm, cables de alimentación, resistente al agua."
-    ],
-    [
-     "39121311",
-     "Accesorios eléctricos",
-     1,
-     "1 BARRA TIERRA GALVANIZADA 1 MT"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1107283-170-COT26",
-   "sin_detalle": false,
-   "descripcion": "INSUMOS GANADEROS:\nENERGIZADOR SOLAR\nCERCO ELECTRICO O CARRETE INTELIGENTE PORTATIL V2\nBARRA TIERRA GALVANIZADA 1 MT"
-  },
   {
    "tipo": "POSIBLE",
    "motivos": [
@@ -917,6 +878,24 @@
  ],
  "historial": [
   {
+   "codigo": "1107283-170-COT26",
+   "nombre": "INSUMOS GANADEROS",
+   "organismo": "INSTITUTO DE INVESTIGACIONES AGROPECUARIAS",
+   "monto": 950000,
+   "cierre_iso": "2026-10-19T10:00:00-03:00",
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Cajas y accesorios eléctricos"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1107283-170-COT26",
+   "primera_vista_iso": "2026-10-16T16:50:54-03:00",
+   "removida_iso": "2026-10-19T11:06:38-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
+  {
    "codigo": "3797-478-COT26",
    "nombre": "EQUIPOS DE CLIMATIZACION",
    "organismo": "I MUNICIPALIDAD DE COCHRANE",
@@ -1692,10 +1671,10 @@
  ],
  "pendientes": [
   {
-   "codigo": "1004-22-COT26",
-   "nombre": "ARTICULOS DE ASEO Y MATERIALES DE OFICINA PARA OF. PROVINCIAL COYHAIQUE",
-   "organismo": "MINISTERIO DE OBRAS PUBLICAS DIREC CION GRAL DE OO PP DCYF",
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1004-22-COT26"
+   "codigo": "1494998-21-COT26",
+   "nombre": "ADQUISICIÓN Y DESPACHO DE ELECTRODOMÉSTICOS Y EQUIPAMIENTO PARA LAS ÁREAS PROTEGIDAS DE LA DIRECCIÓN REGIONAL ",
+   "organismo": "Servicio de Biodiversidad y Áreas Protegidas",
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1494998-21-COT26"
   },
   {
    "codigo": "2495-557-COT26",
@@ -1704,10 +1683,10 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=2495-557-COT26"
   },
   {
-   "codigo": "1195-472-COT26",
-   "nombre": "Adquisición de aceites y lubricantes",
-   "organismo": "I MUNICIPALIDAD DE COYHAIQUE",
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1195-472-COT26"
+   "codigo": "1746-238-COT26",
+   "nombre": "BLOQUEADOR SOLAR (P 488 HIGIENE Y SEGURIDAD)",
+   "organismo": "SUBSECRETARIA DE SALUD PUBLICA",
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1746-238-COT26"
   }
  ]
 }
