@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-19T17:56:47.382829-03:00",
+ "actualizado": "2026-10-19T18:53:52.674762-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
  "total_region": 255,
@@ -121,6 +121,45 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=1233615-819-COT26",
    "sin_detalle": false,
    "descripcion": "Kit estudiante destacado (lápiz, cuaderno, estuche y llavero personalizados con logo del Liceo Bicentenario Luisa Rabanal y SLEP)"
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "radio"
+   ],
+   "nueva": true,
+   "codigo": "1758-250-COT26",
+   "nombre": "SERVICIOS DE ALOJAMIENTOS Y ALIMENTACION JORNADA CONVIVENCIA EDUCATIVA Y SALUD MENTAL",
+   "organismo": "SECRETARIA REGIONAL MINISTERIAL DE EDUCACION XI REGION",
+   "unidad": "Mineduc Administración XI Región",
+   "monto": 860000,
+   "cierre_iso": "2026-10-21T11:00:00-03:00",
+   "publicacion": "19-10 18:06",
+   "publicacion_iso": "2026-10-19T18:06:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "90111802",
+     "Habitación doble",
+     4,
+     "01 HABITACION DOBLE INGRESO EL 27/10 Y SALIDA EL 28/10 /SANDRA CHIGUAY Y RUTH ARAVENA CON DESAYUNO.\n01 HABITACION DOBLE INGRESO EL 27/10 Y SALIDA EL 28/10 /AQUILES MAYA Y OSCAR MORA O. CON DESAYUNO.\n02 HABITACIONES DOBLES INGRESO EL 27/10 Y SALIDA EL 29/10/ MONICA ARELLANO Y ERIKA SALINAS. \nTODOS CON INGRESO A LAS 18:00HRS. CON CAFECCION Y BAÑO PRIVADO Y DESAYUNO CONTENER TE O CAFE Y/O JUGO, FRUTA, PAN CON AGREGADO."
+    ],
+    [
+     "90101501",
+     "Restaurantes",
+     19,
+     "01 ALMUERZO  EL 27/10 SERVIDO A LAS 14.30 HRS. (POR LLEGADA DE BARCAZA)\n17 ALMUERZOS EL 28/10 \n01 ALMUERZO  EL 29/10 \nQUE CONTENGA PLATO DE FONDO CON ALTERNATIVA PROTEICA, ACOMPAÑAMIENTO, ENSALADA/ENTRADA, POSTRE Y BEBESTIBLE SIN ALCOHOL. SERVIDO A LAS 13:00 HRS EN LA CIUDAD DE COYHAIQUE."
+    ],
+    [
+     "90101501",
+     "Restaurantes",
+     11,
+     "07 CENAS EL 27/10\n03 CENAS EL 28/10\n01 CENA  EL 29/10\nQUE CONTENGA PLATO DE FONDO CON ALTERNATIVA PROTEICA, ACOMPAÑAMIENTO, ENSALADA/ENTRADA, POSTRE Y BEBESTIBLE SIN ALCOHOL. SERVIDOS A LAS 19:30 HRS EN LA CIUDAD DE COYHAIQUE."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1758-250-COT26",
+   "sin_detalle": false,
+   "descripcion": "SERVICIOS DE ALOJAMIENTOS Y ALIMENTACIÓN EN COYHAIQUE 27 DE OCTUBRE AL 29  DE OCTUBRE 2026. EN LA SU PROPUESTA EL PROVEEDOR DEBERÁ INDICAR LA DIRECCIÓN DONDE SE ENTREGARÁ EL SERVICIO, EL CUAL DEBE ESTAR DENTRO DEL RADIO URBANO DE LA CIUDAD DE PREFERENCIALMENTE UNA UBICACIÓN CENTRAL. SE PRIVILEGIARA PROVEEDORES QUE POSEAN CERTIFICACIÓN DE SUSTENTABILIDAD Y CUENTEN CON POLÍTICAS REUTILIZACIÓN DE SABANAS Y TOALLAS CON ALIMENTACION DE ALMUERZOS Y CENAS. SEGREGACION Y RES. SANITARIA."
   },
   {
    "tipo": "OPORTUNIDAD",
@@ -421,7 +460,7 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=1057062-464-COT26",
    "primera_vista_iso": "2026-10-16T11:00:56-03:00",
    "removida_iso": "2026-10-19T16:06:33-03:00",
-   "estado_api": null,
+   "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,
    "adj_iso": null
@@ -1013,18 +1052,6 @@
   }
  ],
  "pendientes": [
-  {
-   "codigo": "838101-34-COT26",
-   "nombre": "ADQUISICION DE ELEMENTOS DE MANTENIMIENTO PARA LA CASA DE HUESPEDES COYHAIQUE",
-   "organismo": "Zona Bienestar \"Coyhaique\" Bienestar Social",
-   "link": "https://buscador.mercadopublico.cl/ficha?code=838101-34-COT26"
-  },
-  {
-   "codigo": "4144-305-COT26",
-   "nombre": "Se requiere la adquisición de alimentos para la \"Conmemoracion de del festival de una tarde 2026\"",
-   "organismo": "I MUNICIPALIDAD DE LAGO VERDE",
-   "link": "https://buscador.mercadopublico.cl/ficha?code=4144-305-COT26"
-  },
   {
    "codigo": "2495-557-COT26",
    "nombre": "Materiales de oficina PRLAC",
