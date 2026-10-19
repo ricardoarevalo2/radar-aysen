@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-10-19T08:59:27.379967-03:00",
+ "actualizado": "2026-10-19T10:11:35.372301-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
- "total_region": 229,
+ "total_region": 207,
  "rubros": {
   "25172700": "Aire acondicionado",
   "25173900": "Componentes eléctricos",
@@ -19,153 +19,6 @@
   "39121400": "Conectores, enchufes y terminales"
  },
  "filas": [
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "climatización"
-   ],
-   "nueva": false,
-   "codigo": "3765-299-COT26",
-   "nombre": "INSUMOS PARA EL SISTEMA DE CLIMATIZACIÓN DEL ESTABLECIMEINTO ",
-   "organismo": "SERVICIO NACIONAL DE SALUD HOSPITAL DE C",
-   "unidad": "Hospital Doctor  Leopoldo Ortega Rodríguez",
-   "monto": 7200000,
-   "cierre_iso": "2026-10-19T09:00:00-03:00",
-   "publicacion": "14-10 12:33",
-   "publicacion_iso": "2026-10-14T12:33:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "20121409",
-     "Juntas de dilatación de la terminación",
-     15,
-     "JUNTAS DILATACIÓN AGUAS CALIENTE T° 0 a 110°PN >5BAR - DIÁMETRO 1"
-    ],
-    [
-     "20121409",
-     "Juntas de dilatación de la terminación",
-     15,
-     "JUNTAS DILATACIÓN AGUAS CALIENTE T° 0 a 110°PN >5BAR - DIÁMETRO 1 1/4"
-    ],
-    [
-     "20121409",
-     "Juntas de dilatación de la terminación",
-     10,
-     "JUNTAS DILATACIÓN AGUAS CALIENTE T° 0 a 110°PN >5BAR - DIÁMETRO 1/2"
-    ],
-    [
-     "20121409",
-     "Juntas de dilatación de la terminación",
-     5,
-     "JUNTAS DILATACIÓN AGUAS FRÍA PN>5BAR - DIÁMETRO 1"
-    ],
-    [
-     "20121409",
-     "Juntas de dilatación de la terminación",
-     5,
-     "JUNTAS DILATACIÓN AGUAS FRÍA PN>5BAR - DIÁMETRO 1 1/4"
-    ],
-    [
-     "20121409",
-     "Juntas de dilatación de la terminación",
-     5,
-     "JUNTAS DILATACIÓN AGUAS FRÍA PN>5BAR - DIÁMETRO 1/2"
-    ],
-    [
-     "20121409",
-     "Juntas de dilatación de la terminación",
-     5,
-     "JUNTAS DILATACIÓN AGUAS FRÍA PN>5BAR - DIÁMETRO 3/4"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=3765-299-COT26",
-   "sin_detalle": false,
-   "descripcion": "INSUMOS PARA EL SISTEMA DE CLIMATIZACIÓN DEL ESTABLECIMEINTO"
-  },
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "eléctrico"
-   ],
-   "nueva": false,
-   "codigo": "3765-295-COT26",
-   "nombre": "EPP PARA UNIDAD DE MANTENCIÓN",
-   "organismo": "SERVICIO NACIONAL DE SALUD HOSPITAL DE C",
-   "unidad": "Hospital Doctor  Leopoldo Ortega Rodríguez",
-   "monto": 1000000,
-   "cierre_iso": "2026-10-19T09:00:00-03:00",
-   "publicacion": "14-10 09:17",
-   "publicacion_iso": "2026-10-14T09:17:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "46181704",
-     "Cascos de protección",
-     4,
-     "CASCO YAKO CLASE A, BLANCO"
-    ],
-    [
-     "46182005",
-     "Máscaras o filtros de respirador o accesorios",
-     4,
-     "RESPIRADOR DOBLE VÍA MEDIO ROSTRO TALLA L"
-    ],
-    [
-     "46182005",
-     "Máscaras o filtros de respirador o accesorios",
-     4,
-     "PROTECCIÓN PARA ARCO ELÉCTRICO 14 CAL/CM2"
-    ],
-    [
-     "53102102",
-     "Overol y sobretodo para hombre",
-     4,
-     "OVEROL IGNIFUGO CERTIFICADO, TALLA L (2) Y TALLA XL (2)"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=3765-295-COT26",
-   "sin_detalle": false,
-   "descripcion": "EPP PARA UNIDAD DE MANTENCIÓN"
-  },
-  {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Gasfitería, calefacción y aire acondicionado"
-   ],
-   "nueva": false,
-   "codigo": "3797-478-COT26",
-   "nombre": "EQUIPOS DE CLIMATIZACION",
-   "organismo": "I MUNICIPALIDAD DE COCHRANE",
-   "unidad": "I MUNICIPALIDAD DE COCHRANE",
-   "monto": 3120565,
-   "cierre_iso": "2026-10-19T09:30:00-03:00",
-   "publicacion": "16-10 14:21",
-   "publicacion_iso": "2026-10-16T14:21:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "72102305",
-     "Servicios de reparación, mantenimiento o reparación de aire acondicionado",
-     2,
-     "equipos de climatización segun eett señaladas en dcto adjunto"
-    ],
-    [
-     "30161705",
-     "Suelos de caucho",
-     8,
-     "rollos de piso de caucho para gimnasio, de alta resistencia , destinado a la protección de superficies y al acondicionamiento de áreas de entrenamiento físico de espesor de 15 mm, ancho 1 metro y lago 5 mt"
-    ],
-    [
-     "30161705",
-     "Suelos de caucho",
-     4,
-     "adhesivo poliuretano bi-componente 12.5 kg"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=3797-478-COT26",
-   "sin_detalle": false,
-   "descripcion": "EQUIPOS DE CLIMATIZACION Y PISO DE CAUCHO DE ALTO TRÁFICO , DESTINADOS A LA REMODELACION Y MEJORAMIENTO DE LA SALA DE MUSCULACIÓN DEL GIMANSIO MUNICIPAL DE COCHRANE."
-  },
   {
    "tipo": "OPORTUNIDAD",
    "motivos": [
@@ -1064,6 +917,60 @@
  ],
  "historial": [
   {
+   "codigo": "3797-478-COT26",
+   "nombre": "EQUIPOS DE CLIMATIZACION",
+   "organismo": "I MUNICIPALIDAD DE COCHRANE",
+   "monto": 3120565,
+   "cierre_iso": "2026-10-19T09:30:00-03:00",
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Gasfitería, calefacción y aire acondicionado"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=3797-478-COT26",
+   "primera_vista_iso": "2026-10-16T14:53:21-03:00",
+   "removida_iso": "2026-10-19T10:11:35-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
+  {
+   "codigo": "3765-295-COT26",
+   "nombre": "EPP PARA UNIDAD DE MANTENCIÓN",
+   "organismo": "SERVICIO NACIONAL DE SALUD HOSPITAL DE C",
+   "monto": 1000000,
+   "cierre_iso": "2026-10-19T09:00:00-03:00",
+   "tipo": "POSIBLE",
+   "motivos": [
+    "eléctrico"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=3765-295-COT26",
+   "primera_vista_iso": "2026-10-14T10:07:19-03:00",
+   "removida_iso": "2026-10-19T10:11:35-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
+  {
+   "codigo": "3765-299-COT26",
+   "nombre": "INSUMOS PARA EL SISTEMA DE CLIMATIZACIÓN DEL ESTABLECIMEINTO ",
+   "organismo": "SERVICIO NACIONAL DE SALUD HOSPITAL DE C",
+   "monto": 7200000,
+   "cierre_iso": "2026-10-19T09:00:00-03:00",
+   "tipo": "POSIBLE",
+   "motivos": [
+    "climatización"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=3765-299-COT26",
+   "primera_vista_iso": "2026-10-14T13:02:14-03:00",
+   "removida_iso": "2026-10-19T10:11:35-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
+  {
    "codigo": "3765-305-COT26",
    "nombre": "SE SOLICITA CONTRATACION DE UN INSTALADOR ELECTRICO - FACTIBILIDAD TE1 CASA SENDA ",
    "organismo": "SERVICIO NACIONAL DE SALUD HOSPITAL DE C",
@@ -1781,25 +1688,26 @@
    "adj_nombre": null,
    "adj_monto": null,
    "adj_iso": null
-  },
-  {
-   "codigo": "1233615-783-COT26",
-   "nombre": "JGS [SOL-2026-01838] Insumos computacionales / LICEO BICENTENARIO AUSTRAL LORD COCHRANE.",
-   "organismo": "Servicio Local de Educación Pública Aysén",
-   "monto": 947000,
-   "cierre_iso": "2026-10-12T09:00:00-03:00",
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Materiales de física de electricidad"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1233615-783-COT26",
-   "primera_vista_iso": "2026-10-11T21:06:47-03:00",
-   "removida_iso": "2026-10-12T10:05:54-03:00",
-   "estado_api": "",
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
   }
  ],
- "pendientes": []
+ "pendientes": [
+  {
+   "codigo": "1004-22-COT26",
+   "nombre": "ARTICULOS DE ASEO Y MATERIALES DE OFICINA PARA OF. PROVINCIAL COYHAIQUE",
+   "organismo": "MINISTERIO DE OBRAS PUBLICAS DIREC CION GRAL DE OO PP DCYF",
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1004-22-COT26"
+  },
+  {
+   "codigo": "2495-557-COT26",
+   "nombre": "Materiales de oficina PRLAC",
+   "organismo": "I MUNICIPALIDAD DE COYHAIQUE",
+   "link": "https://buscador.mercadopublico.cl/ficha?code=2495-557-COT26"
+  },
+  {
+   "codigo": "1195-472-COT26",
+   "nombre": "Adquisición de aceites y lubricantes",
+   "organismo": "I MUNICIPALIDAD DE COYHAIQUE",
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1195-472-COT26"
+  }
+ ]
 }
