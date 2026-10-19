@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-10-19T12:02:56.816761-03:00",
+ "actualizado": "2026-10-19T12:56:38.386335-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
- "total_region": 120,
+ "total_region": 224,
  "rubros": {
   "80141600": "Ventas y marketing",
   "82101600": "Publicidad en medios no impresos",
@@ -136,6 +136,363 @@
    "motivos": [
     "Ventas y marketing"
    ],
+   "nueva": false,
+   "codigo": "1057062-464-COT26",
+   "nombre": "Servicio de producción de eventos para el 22 y 23 de octubre en Coyhaique y Puerto Aysén según Fisabs 2297_Programa Orquestas",
+   "organismo": "UNIVERSIDAD DE AYSEN",
+   "unidad": "Proyectos",
+   "monto": 1950000,
+   "cierre_iso": "2026-10-19T16:00:00-03:00",
+   "publicacion": "16-10 10:56",
+   "publicacion_iso": "2026-10-16T10:56:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "80141607",
+     "Producción de eventos",
+     1,
+     "Se requiere servicio de producción para conciertos: el día 22/09 en el Centro Cultural de Coyhaique. Servicio de: prueba de sonido, instalación de sillas, Traslado e instalación gráficas y atriles, Catering para equipo Orquesta (15 personas), sistema de micrófono, Técnico en sonido y dos operadores de cámara según\narchivo adjunto EETT. Cotización debe indicar la especificación técnica de lo ofertado."
+    ],
+    [
+     "80141607",
+     "Producción de eventos",
+     1,
+     "Se requiere servicio de producción para conciertos: el día 23/09 en Puerto Aysén en lugar por confirmar. Servicio de: prueba de sonido, instalación de sillas, Traslado e instalación gráficas y atriles, Catering para equipo Orquesta (15 personas), sistema de micrófono, Técnico en sonido y dos operadores de cámara según\narchivo adjunto EETT. Cotización debe indicar la especificación técnica de lo ofertado."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1057062-464-COT26",
+   "sin_detalle": false,
+   "descripcion": "Se requiere contratar un servicio de producción de eventos para el 22 y 23 de octubre en Coyhaique y Puerto Aysén. hrs. Servicio de: Traslado e instalación gráficas y atriles, instalación de sillas, Catering para equipo Orquesta, técnico en sonido para manipular grabadora y microfonía y 2 operadores de cámara. Calefacción, iluminación y arriendo de espacios en cerro castillo. Archivo adjunto EETT. Cotización debe indicar la especificación técnica de lo ofertado"
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "radio"
+   ],
+   "nueva": false,
+   "codigo": "4778-319-COT26",
+   "nombre": "RELE- SOLICITUD N° 10134-MEL- MEJORAMIEN ENTORNO LABORAL-DEBE INCLUIR DESPACHO",
+   "organismo": "SERVICIO NACIONAL DE SALUD HOSPITAL DE C",
+   "unidad": "Compras de Insumos y Servicios Generales",
+   "monto": 6481800,
+   "cierre_iso": "2026-10-19T17:00:00-03:00",
+   "publicacion": "14-10 14:50",
+   "publicacion_iso": "2026-10-14T14:50:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "52141526",
+     "Cafeteras domésticas",
+     4,
+     "CAFETERA PROGRAMADA OSTER 8 TAZAS DE ACERO INOXIDABLE"
+    ],
+    [
+     "52141526",
+     "Cafeteras domésticas",
+     3,
+     "CAFETERA PROGRAMADA OSTER 8 TAZAS DE ACERO INOXIDABLE"
+    ],
+    [
+     "49121509",
+     "Cocinilla de camping",
+     1,
+     "COCINILLA ELECTRICA DE 1 PLATO"
+    ],
+    [
+     "48101711",
+     "Dispensadores de agua embotellada",
+     3,
+     "DISPENSADOR DE AGUA DE SOBRE MESA"
+    ],
+    [
+     "48101714",
+     "Dispensadores de agua caliente o termos",
+     8,
+     "DISPENSADOR DE AGUA FRIA Y CALIENTE PEDESTAL"
+    ],
+    [
+     "48101521",
+     "Cocinas económicas de uso comercial",
+     1,
+     "ENCIMERA ELECTRICA 2 QUEMADORES"
+    ],
+    [
+     "48101521",
+     "Cocinas económicas de uso comercial",
+     1,
+     "ENCIMERA ELECTRICA 2 QUEMADORES MAGEFESA (o similar)"
+    ],
+    [
+     "48101521",
+     "Cocinas económicas de uso comercial",
+     1,
+     "ENCIMERA ELECTRICA SINDELEN CEE-42511N 2 PLATOS ( o imilar)"
+    ],
+    [
+     "48101521",
+     "Cocinas económicas de uso comercial",
+     5,
+     "ESTUFA A GAS 11- 15 KG COLOR ROJO GLC"
+    ],
+    [
+     "41103011",
+     "Refrigeradores o congeladores de uso general",
+     4,
+     "FRIGOBAR 90 LITROS ILVER DF1-113 ( o similar)"
+    ],
+    [
+     "41103011",
+     "Refrigeradores o congeladores de uso general",
+     2,
+     "RREFRIGERADOR TOP FREEZER FRIO DIRECTO 168 LITOS INOX\n200DFl"
+    ],
+    [
+     "52141502",
+     "Hornos microondas domésticos",
+     13,
+     "MICROONDAS URSUS TROITER 20 LTS UT-CLASSY 720 ( o similar)"
+    ],
+    [
+     "52141502",
+     "Hornos microondas domésticos",
+     2,
+     "HORNO MICROONDAS ANALOGO 20 LT. INOZ TH20S01 (THOMAS)( o similar)"
+    ],
+    [
+     "52141519",
+     "Hornos de convección domésticos",
+     1,
+     "HORNO AIRFRYER 4 EN 1 ELECTRONDE 25 LTS"
+    ],
+    [
+     "52141534",
+     "Sandwichera eléctrica de uso doméstico",
+     2,
+     "PANINI USRSUS TROTER UT-ANKE-180"
+    ],
+    [
+     "52141534",
+     "Sandwichera eléctrica de uso doméstico",
+     5,
+     "PANINI USRSUS TROTER UT-STULK 2000"
+    ],
+    [
+     "52141534",
+     "Sandwichera eléctrica de uso doméstico",
+     1,
+     "SANDWICHERA PANINI MAKER 110W WSM- LECKERS2WUNDER"
+    ],
+    [
+     "52141534",
+     "Sandwichera eléctrica de uso doméstico",
+     1,
+     "SANDWICHERA THOMAS TH 958 ( o similar)"
+    ],
+    [
+     "52141534",
+     "Sandwichera eléctrica de uso doméstico",
+     2,
+     "PLANCHA PANINI OSTER COMPACTA"
+    ],
+    [
+     "52161511",
+     "Radios",
+     1,
+     "RADIO BOOMBOX PHILCO CON BLUETOOTH Y REPRODUCTOR CD ( o similar)"
+    ],
+    [
+     "52161511",
+     "Radios",
+     4,
+     "RADIO RETRO PORTATIL AM/FM CON BLUETOOTH RECARGABLE"
+    ],
+    [
+     "52161511",
+     "Radios",
+     2,
+     "RADIO RETRO PORTATIL AM/FM CON BLUETOOTH RECARGABLE"
+    ],
+    [
+     "40101604",
+     "Ventiladores",
+     1,
+     "VENTILADOR 3 EN 1 16\" OSCILANTE 50W CONTROL REMOTO MASTER-G\nMGF316B NEGRO (o similar )"
+    ],
+    [
+     "40101604",
+     "Ventiladores",
+     3,
+     "VENTILADOR 3 EN 1 16\" BLANCO"
+    ],
+    [
+     "52161505",
+     "Televisores convencionales, de plasma y LCD",
+     1,
+     "TELEVISOR SAMSUNG 32\" HD H5000F SMARTTV"
+    ],
+    [
+     "52161512",
+     "Parlantes",
+     2,
+     "PARLANTE BLUETOOH PORTATIL 7W AWSSTOBT AIWA ( o similar)"
+    ],
+    [
+     "45111609",
+     "Proyectores multimedia",
+     1,
+     "PROYECTOR ANDROI PHILCO ( o similar)"
+    ],
+    [
+     "52141519",
+     "Hornos de convección domésticos",
+     5,
+     "HORNO ELECTRICO 25 LITROS NEGRO"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=4778-319-COT26",
+   "sin_detalle": false,
+   "descripcion": "Proyecto MEL,se solicita según Resolución Exenta NO 3032/2026 del 17-08-2026 según Clasificador Presupuestario al subtitulo 29.05,se requiere la compra de articulos segun anexo seran consideradas las ofertas listado completo.SE REQUIERE COTIZAR TODOS LOS ARTICULOS,INCLUIR DESPACHO."
+  },
+  {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Ventas y marketing"
+   ],
+   "nueva": false,
+   "codigo": "4066-424-COT26",
+   "nombre": "Servicio de Producción de Eventos, Feria Productiva, Lanzamiento Temporada Turística 2026-2027 en Puerto Río Tranquilo - COD BIP 40066883-0",
+   "organismo": "I MUNICIPALIDAD RIO IBANEZ",
+   "unidad": "DIDECO",
+   "monto": 7150000,
+   "cierre_iso": "2026-10-19T19:00:00-03:00",
+   "publicacion": "15-10 18:38",
+   "publicacion_iso": "2026-10-15T18:38:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "80141607",
+     "Producción de eventos",
+     1,
+     "Servicio integral de producción de la feria productiva de lanzamiento de temporada turística 2026-2027, sábado 31 de octubre de 2026, plaza de Puerto Río Tranquilo (montaje desde 08:00). Incluye música en vivo, animación, sonido e iluminación, ornamentación y montaje, alimentación, merchandising, reconocimientos y registro fotográfico. Cotizar valor único y total, impuesto incluido, máximo $7.150.000. Detalle y requisitos en TDR adjunto."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=4066-424-COT26",
+   "sin_detalle": false,
+   "descripcion": "Servicio de producción para la feria productiva de lanzamiento de la temporada turística 2026-2027, el sábado 31 de octubre de 2026 en la plaza de Puerto Río Tranquilo. Incluye música en vivo, animación, sonido e iluminación, ornamentación y montaje, alimentación, merchandising, reconocimientos y registro fotográfico. Presupuesto: $7.150.000 impuesto incluido. Requiere patente municipal o exención. Ver TDR adjunto."
+  },
+  {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Ventas y marketing"
+   ],
+   "nueva": false,
+   "codigo": "4066-425-COT26",
+   "nombre": "Servicio de Producción de Eventos, Rueda de Negocios, Encuentro de Proveedores de Servicios Turísticos en Puerto Río Tranquilo - COD BIP 40066883-0",
+   "organismo": "I MUNICIPALIDAD RIO IBANEZ",
+   "unidad": "DIDECO",
+   "monto": 2750000,
+   "cierre_iso": "2026-10-19T20:00:00-03:00",
+   "publicacion": "15-10 19:18",
+   "publicacion_iso": "2026-10-15T19:18:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "80141607",
+     "Producción de eventos",
+     1,
+     "Servicio integral de producción de la rueda de negocios del componente 4, sábado 31 de octubre de 2026, jornada de tarde, en Puerto Río Tranquilo. Incluye carpa de 18 x 8 m o similar, amplificación básica, ornamentación y ambientación con armado y desarmado, y transporte de ida y vuelta para hasta 15 prestadores desde Bahía Murta y Puerto Sánchez. Cotizar valor único y total, impuesto incluido, máximo $2.750.000. Requisitos en TDR adjunto."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=4066-425-COT26",
+   "sin_detalle": false,
+   "descripcion": "Servicio de producción para la rueda de negocios “Encuentro de proveedores de servicios turísticos” (componente 4), que busca afianzar y fortalecer la economía comunal y regional. Sábado 31 de octubre de 2026, jornada de tarde, en Puerto Río Tranquilo. Incluye carpa de 18 x 8 m o similar, amplificación básica, ornamentación y ambientación (armado y desarmado) y bus para hasta 15 prestadores desde Bahía Murta y Puerto Sánchez. Presupuesto: $2.750.000 impuesto incluido. Ver TDR adjunto."
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "radio"
+   ],
+   "nueva": false,
+   "codigo": "4144-304-COT26",
+   "nombre": "Se requiere la adquisicion de un equipo de radio portatil para la localidad de Villa Amengual",
+   "organismo": "I MUNICIPALIDAD DE LAGO VERDE",
+   "unidad": "Finanzas",
+   "monto": 100000,
+   "cierre_iso": "2026-10-20T10:00:00-03:00",
+   "publicacion": "15-10 11:31",
+   "publicacion_iso": "2026-10-15T11:31:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "43221704",
+     "Equipo básico de radio",
+     1,
+     "kit de 2 radios portatiles  VHF/UHF segun TDR adjunto"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=4144-304-COT26",
+   "sin_detalle": false,
+   "descripcion": "Se requiere la adquisicion de un equipo de radio portatil para la localidad de Villa Amengual"
+  },
+  {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Ventas y marketing"
+   ],
+   "nueva": true,
+   "codigo": "1233615-819-COT26",
+   "nombre": "TRM/SOL 1954 Kit estudiante destacado LICEO BICENTENARIO LUISA RABANAL PALMA",
+   "organismo": "Servicio Local de Educación Pública Aysén",
+   "unidad": "Servicio Local de Educación Pública Aysén",
+   "monto": 500000,
+   "cierre_iso": "2026-10-20T15:00:00-03:00",
+   "publicacion": "19-10 12:51",
+   "publicacion_iso": "2026-10-19T12:51:00-03:00",
+   "ofertas": 1,
+   "productos": [
+    [
+     "80141611",
+     "Personalización de regalos o productos promocionales",
+     1,
+     "Kit estudiante destacado (lápiz, cuaderno, estuche y llavero personalizados con logo del Liceo Bicentenario Luisa Rabanal y SLEP) LICEO BICENTENARIO LUISA RABANAL PALMA, SEGUN DETALLE ADJUNTO"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1233615-819-COT26",
+   "sin_detalle": false,
+   "descripcion": "Kit estudiante destacado (lápiz, cuaderno, estuche y llavero personalizados con logo del Liceo Bicentenario Luisa Rabanal y SLEP)"
+  },
+  {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Ventas y marketing"
+   ],
+   "nueva": false,
+   "codigo": "4733-395-COT26",
+   "nombre": "CONCIERTO DE NAVIDAD",
+   "organismo": "I MUNICIPALIDAD DE LAS GUAITECAS",
+   "unidad": "I MUNICIPALIDAD DE LAS GUAITECAS",
+   "monto": 2000000,
+   "cierre_iso": "2026-10-22T09:27:00-03:00",
+   "publicacion": "08-10 11:30",
+   "publicacion_iso": "2026-10-08T11:30:00-03:00",
+   "ofertas": 1,
+   "productos": [
+    [
+     "80141607",
+     "Producción de eventos",
+     1,
+     "CONCIERTO DE NAVIDAD"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=4733-395-COT26",
+   "sin_detalle": false,
+   "descripcion": "Se requiere contratar el servicio de producción artística para concierto de navidad según especificaciones técnicas adjuntas, adjuntar cotización.-"
+  },
+  {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Ventas y marketing"
+   ],
    "nueva": true,
    "codigo": "1746-241-COT26",
    "nombre": "MUESTRA GASTRONÓMICA (P 493 DSP)",
@@ -157,153 +514,63 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=1746-241-COT26",
    "sin_detalle": false,
    "descripcion": "Solicitado mediante Pedido de Materiales N° 493 del Departamento de Salud Pública"
-  }
- ],
- "historial": [
-  {
-   "codigo": "682-20-COT26",
-   "nombre": "CONTRATACIÓN DE SERVICIOS DE PUBLICACIÓN, SANEAMIENTOS D.L. N° 2695/79",
-   "organismo": "SECRETARIA REGIONAL MINISTERIAL DE BIENES NACIONALES XI REGION",
-   "monto": 471410,
-   "cierre_iso": "2026-10-26T12:00:00-03:00",
-   "tipo": "POSIBLE",
-   "motivos": [
-    "avisos"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=682-20-COT26",
-   "primera_vista_iso": "2026-10-16T10:09:44-03:00",
-   "removida_iso": "2026-10-19T12:02:56-03:00",
-   "estado_api": null,
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
   },
   {
-   "codigo": "828-49-COT26",
-   "nombre": "Adquisición limpiador de piso vinilico ",
-   "organismo": "MINISTERIO DE OBRAS PUBLICAS DIREC CION GRAL DE OO PP DCYF",
-   "monto": 30000,
-   "cierre_iso": "2026-10-23T02:47:00-03:00",
    "tipo": "POSIBLE",
    "motivos": [
     "fotografía"
    ],
+   "nueva": false,
+   "codigo": "828-49-COT26",
+   "nombre": "Adquisición limpiador de piso vinilico ",
+   "organismo": "MINISTERIO DE OBRAS PUBLICAS DIREC CION GRAL DE OO PP DCYF",
+   "unidad": "Dirección de Arquitectura - XI Región",
+   "monto": 30000,
+   "cierre_iso": "2026-10-23T02:47:00-03:00",
+   "publicacion": "15-10 17:27",
+   "publicacion_iso": "2026-10-15T17:27:00-03:00",
+   "ofertas": 3,
+   "productos": [
+    [
+     "47132102",
+     "Kits de limpieza de uso general",
+     3,
+     "LIMPIADOR PISO VINILICO (900 ml o 1.000 ml)"
+    ]
+   ],
    "link": "https://buscador.mercadopublico.cl/ficha?code=828-49-COT26",
-   "primera_vista_iso": "2026-10-15T17:55:27-03:00",
-   "removida_iso": "2026-10-19T12:02:56-03:00",
-   "estado_api": null,
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
+   "sin_detalle": false,
+   "descripcion": "Se requiere cotización de limpiador liquido para piso vinílico (SPC) 3 litros (NO PISO FLOTANTE). Proveedor adjudicado deberá estar inscrito en sistema de facturación del MOP y facturar a Unidad de pago 1380. Valor debe incluir despacho. Se debe adjuntar especificaciones técnicas y fotografía del producto ofertado."
   },
   {
-   "codigo": "4733-395-COT26",
-   "nombre": "CONCIERTO DE NAVIDAD",
-   "organismo": "I MUNICIPALIDAD DE LAS GUAITECAS",
-   "monto": 2000000,
-   "cierre_iso": "2026-10-22T09:27:00-03:00",
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Ventas y marketing"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=4733-395-COT26",
-   "primera_vista_iso": "2026-10-11T21:06:47-03:00",
-   "removida_iso": "2026-10-19T12:02:56-03:00",
-   "estado_api": "",
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "4144-304-COT26",
-   "nombre": "Se requiere la adquisicion de un equipo de radio portatil para la localidad de Villa Amengual",
-   "organismo": "I MUNICIPALIDAD DE LAGO VERDE",
-   "monto": 100000,
-   "cierre_iso": "2026-10-20T10:00:00-03:00",
    "tipo": "POSIBLE",
    "motivos": [
-    "radio"
+    "avisos"
    ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=4144-304-COT26",
-   "primera_vista_iso": "2026-10-15T11:57:55-03:00",
-   "removida_iso": "2026-10-19T12:02:56-03:00",
-   "estado_api": null,
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "4066-425-COT26",
-   "nombre": "Servicio de Producción de Eventos, Rueda de Negocios, Encuentro de Proveedores de Servicios Turísticos en Puerto Río Tranquilo - COD BIP 40066883-0",
-   "organismo": "I MUNICIPALIDAD RIO IBANEZ",
-   "monto": 2750000,
-   "cierre_iso": "2026-10-19T20:00:00-03:00",
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Ventas y marketing"
+   "nueva": false,
+   "codigo": "682-20-COT26",
+   "nombre": "CONTRATACIÓN DE SERVICIOS DE PUBLICACIÓN, SANEAMIENTOS D.L. N° 2695/79",
+   "organismo": "SECRETARIA REGIONAL MINISTERIAL DE BIENES NACIONALES XI REGION",
+   "unidad": "SEREMI Aysén del General Carlos Ibáñez del Campo",
+   "monto": 471410,
+   "cierre_iso": "2026-10-26T12:00:00-03:00",
+   "publicacion": "16-10 08:56",
+   "publicacion_iso": "2026-10-16T08:56:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "55101505",
+     "Publicaciones",
+     1,
+     "Se requiere contar con la publicación digital de 17 avisos correspondientes a 2 veces o publicaciones por beneficiario o expediente, las cuales se harán indistintamente los días primero y quince del mes o en la edición inmediatamente siguiente si el diario o periódico no se publicare en los días indicados. Se enviaran publicaciones despues de 01 día hábil posterior a la emisión de la Orden de Compra. Plazo de ejecución 252 días habiles. Revisar documentos adjuntos para la selección de proveedor."
+    ]
    ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=4066-425-COT26",
-   "primera_vista_iso": "2026-10-15T19:50:45-03:00",
-   "removida_iso": "2026-10-19T12:02:56-03:00",
-   "estado_api": null,
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "4066-424-COT26",
-   "nombre": "Servicio de Producción de Eventos, Feria Productiva, Lanzamiento Temporada Turística 2026-2027 en Puerto Río Tranquilo - COD BIP 40066883-0",
-   "organismo": "I MUNICIPALIDAD RIO IBANEZ",
-   "monto": 7150000,
-   "cierre_iso": "2026-10-19T19:00:00-03:00",
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Ventas y marketing"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=4066-424-COT26",
-   "primera_vista_iso": "2026-10-15T18:54:09-03:00",
-   "removida_iso": "2026-10-19T12:02:56-03:00",
-   "estado_api": null,
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "4778-319-COT26",
-   "nombre": "RELE- SOLICITUD N° 10134-MEL- MEJORAMIEN ENTORNO LABORAL-DEBE INCLUIR DESPACHO",
-   "organismo": "SERVICIO NACIONAL DE SALUD HOSPITAL DE C",
-   "monto": 6481800,
-   "cierre_iso": "2026-10-19T17:00:00-03:00",
-   "tipo": "POSIBLE",
-   "motivos": [
-    "radio"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=4778-319-COT26",
-   "primera_vista_iso": "2026-10-14T14:56:34-03:00",
-   "removida_iso": "2026-10-19T12:02:56-03:00",
-   "estado_api": null,
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "1057062-464-COT26",
-   "nombre": "Servicio de producción de eventos para el 22 y 23 de octubre en Coyhaique y Puerto Aysén según Fisabs 2297_Programa Orquestas",
-   "organismo": "UNIVERSIDAD DE AYSEN",
-   "monto": 1950000,
-   "cierre_iso": "2026-10-19T16:00:00-03:00",
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Ventas y marketing"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1057062-464-COT26",
-   "primera_vista_iso": "2026-10-16T11:00:56-03:00",
-   "removida_iso": "2026-10-19T12:02:56-03:00",
-   "estado_api": null,
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
+   "link": "https://buscador.mercadopublico.cl/ficha?code=682-20-COT26",
+   "sin_detalle": false,
+   "descripcion": "Se requiere contar con la publicación digital de 17 avisos correspondientes a 2 veces o publicaciones por beneficiario o expediente, las cuales se harán indistintamente los días primero y quince del mes o en la edición inmediatamente siguiente si el diario o periódico no se publicare en los días indicados. Se enviaran publicaciones despues de 01 día hábil posterior a la emisión de la Orden de Compra. Plazo de ejecución 252 días habiles. Revisar documentoS adjunto para la selección de proveedor."
+  }
+ ],
+ "historial": [
   {
    "codigo": "1201-184-COT26",
    "nombre": "MATERIAL DE DIFUSION, PROGRAMA FORMACION PARA EL DEPORTE, COMPONENTE  ENCUENTROS FORMATIVOS DEPORTIVOS 2026. SEGÚN TDR ADJUNTAS",
@@ -339,7 +606,7 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=3791-1031-COT26",
    "primera_vista_iso": "2026-10-16T10:09:44-03:00",
    "removida_iso": "2026-10-19T11:06:38-03:00",
-   "estado_api": null,
+   "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,
    "adj_iso": null
@@ -465,7 +732,7 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=4066-426-COT26",
    "primera_vista_iso": "2026-10-16T15:59:46-03:00",
    "removida_iso": "2026-10-18T22:07:29-03:00",
-   "estado_api": null,
+   "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,
    "adj_iso": null
@@ -892,6 +1159,12 @@
  ],
  "pendientes": [
   {
+   "codigo": "4144-305-COT26",
+   "nombre": "Se requiere la adquisición de alimentos para la \"Conmemoracion de del festival de una tarde 2026\"",
+   "organismo": "I MUNICIPALIDAD DE LAGO VERDE",
+   "link": "https://buscador.mercadopublico.cl/ficha?code=4144-305-COT26"
+  },
+  {
    "codigo": "2495-557-COT26",
    "nombre": "Materiales de oficina PRLAC",
    "organismo": "I MUNICIPALIDAD DE COYHAIQUE",
@@ -902,6 +1175,12 @@
    "nombre": "BLOQUEADOR SOLAR (P 488 HIGIENE Y SEGURIDAD)",
    "organismo": "SUBSECRETARIA DE SALUD PUBLICA",
    "link": "https://buscador.mercadopublico.cl/ficha?code=1746-238-COT26"
+  },
+  {
+   "codigo": "657-82-COT26",
+   "nombre": "Artículos de Aseo",
+   "organismo": "SERVICIO DE VIVIENDA Y URBANIZACION XI REGION",
+   "link": "https://buscador.mercadopublico.cl/ficha?code=657-82-COT26"
   }
  ]
 }

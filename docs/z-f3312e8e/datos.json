@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-10-19T12:02:56.816761-03:00",
+ "actualizado": "2026-10-19T12:56:38.386335-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
- "total_region": 120,
+ "total_region": 224,
  "rubros": {
   "25172700": "Aire acondicionado",
   "25173900": "Componentes eléctricos",
@@ -19,6 +19,66 @@
   "39121400": "Conectores, enchufes y terminales"
  },
  "filas": [
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "iluminación"
+   ],
+   "nueva": false,
+   "codigo": "1057062-464-COT26",
+   "nombre": "Servicio de producción de eventos para el 22 y 23 de octubre en Coyhaique y Puerto Aysén según Fisabs 2297_Programa Orquestas",
+   "organismo": "UNIVERSIDAD DE AYSEN",
+   "unidad": "Proyectos",
+   "monto": 1950000,
+   "cierre_iso": "2026-10-19T16:00:00-03:00",
+   "publicacion": "16-10 10:56",
+   "publicacion_iso": "2026-10-16T10:56:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "80141607",
+     "Producción de eventos",
+     1,
+     "Se requiere servicio de producción para conciertos: el día 22/09 en el Centro Cultural de Coyhaique. Servicio de: prueba de sonido, instalación de sillas, Traslado e instalación gráficas y atriles, Catering para equipo Orquesta (15 personas), sistema de micrófono, Técnico en sonido y dos operadores de cámara según\narchivo adjunto EETT. Cotización debe indicar la especificación técnica de lo ofertado."
+    ],
+    [
+     "80141607",
+     "Producción de eventos",
+     1,
+     "Se requiere servicio de producción para conciertos: el día 23/09 en Puerto Aysén en lugar por confirmar. Servicio de: prueba de sonido, instalación de sillas, Traslado e instalación gráficas y atriles, Catering para equipo Orquesta (15 personas), sistema de micrófono, Técnico en sonido y dos operadores de cámara según\narchivo adjunto EETT. Cotización debe indicar la especificación técnica de lo ofertado."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1057062-464-COT26",
+   "sin_detalle": false,
+   "descripcion": "Se requiere contratar un servicio de producción de eventos para el 22 y 23 de octubre en Coyhaique y Puerto Aysén. hrs. Servicio de: Traslado e instalación gráficas y atriles, instalación de sillas, Catering para equipo Orquesta, técnico en sonido para manipular grabadora y microfonía y 2 operadores de cámara. Calefacción, iluminación y arriendo de espacios en cerro castillo. Archivo adjunto EETT. Cotización debe indicar la especificación técnica de lo ofertado"
+  },
+  {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Gasfitería, calefacción y aire acondicionado"
+   ],
+   "nueva": false,
+   "codigo": "3431-116-COT26",
+   "nombre": "FI- Solicitud de cotización para la adquisición de servicio de mantención de la caldera del pabellón del casino de suboficiales de esta unidad.",
+   "organismo": "Ejercito de Chile",
+   "unidad": "Regimiento N° 8 Chiloé",
+   "monto": 7100000,
+   "cierre_iso": "2026-10-19T16:00:00-03:00",
+   "publicacion": "15-10 14:43",
+   "publicacion_iso": "2026-10-15T14:43:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "72102302",
+     "Instalación, reparación o mantenimiento de sistemas de calefacción",
+     1,
+     "Servicio de mantención de caldera de calefacción, como se indica en el detalle del anexo adjunto."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=3431-116-COT26",
+   "sin_detalle": false,
+   "descripcion": "Solicitud de cotización para la adquisición de servicio de mantención de la caldera del pabellón del casino de suboficiales.\nConforme a anexo adjunto."
+  },
   {
    "tipo": "POSIBLE",
    "motivos": [
@@ -51,6 +111,312 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=1281188-17-COT26",
    "sin_detalle": false,
    "descripcion": "Adquisición de 04 Planes Sobrepuesto 24W., Luz Fría y 02 Proyectores Led 40W., 6500K IP65. El oferente deberá indicar si asume los costos de despacho. En caso afirmativo, dicho costo deberá encontrarse incluido en el valor total ofertado y no podrá ser presentado como un ítem."
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "enchufe"
+   ],
+   "nueva": false,
+   "codigo": "4626-32-COT26",
+   "nombre": "Provisión e instalación de cuatro (4) puntos de red y provisión e instalación de un (1) enchufe triple para oficinas de la Dirección Regional del Trabajo Región de Aysén",
+   "organismo": "DIRECCION DEL TRABAJO",
+   "unidad": "Dirección del Trabajo XI Región Aysén",
+   "monto": 710000,
+   "cierre_iso": "2026-10-19T18:46:00-03:00",
+   "publicacion": "09-10 10:13",
+   "publicacion_iso": "2026-10-09T10:13:00-03:00",
+   "ofertas": 1,
+   "productos": [
+    [
+     "83111601",
+     "Servicio de redes para mejorar la señal de telecomunicaciones",
+     1,
+     "Provisión e instalación de cuatro (4) puntos de red y provisión e instalación de un (1) enchufe triple para oficinas de la Dirección Regional del Trabajo Región de Aysén, de acuerdo con lo establecido en los Requerimientos Técnicos que se adjuntan (se solicita leer detenidamente documento adjunto, para dar cumplimiento a los requerimientos allí establecidos al presentar su oferta)"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=4626-32-COT26",
+   "sin_detalle": false,
+   "descripcion": "Provisión e instalación de cuatro (4) puntos de red y provisión e instalación de un (1) enchufe triple para oficinas de la Dirección Regional del Trabajo Región de Aysén"
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "iluminación"
+   ],
+   "nueva": false,
+   "codigo": "4066-424-COT26",
+   "nombre": "Servicio de Producción de Eventos, Feria Productiva, Lanzamiento Temporada Turística 2026-2027 en Puerto Río Tranquilo - COD BIP 40066883-0",
+   "organismo": "I MUNICIPALIDAD RIO IBANEZ",
+   "unidad": "DIDECO",
+   "monto": 7150000,
+   "cierre_iso": "2026-10-19T19:00:00-03:00",
+   "publicacion": "15-10 18:38",
+   "publicacion_iso": "2026-10-15T18:38:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "80141607",
+     "Producción de eventos",
+     1,
+     "Servicio integral de producción de la feria productiva de lanzamiento de temporada turística 2026-2027, sábado 31 de octubre de 2026, plaza de Puerto Río Tranquilo (montaje desde 08:00). Incluye música en vivo, animación, sonido e iluminación, ornamentación y montaje, alimentación, merchandising, reconocimientos y registro fotográfico. Cotizar valor único y total, impuesto incluido, máximo $7.150.000. Detalle y requisitos en TDR adjunto."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=4066-424-COT26",
+   "sin_detalle": false,
+   "descripcion": "Servicio de producción para la feria productiva de lanzamiento de la temporada turística 2026-2027, el sábado 31 de octubre de 2026 en la plaza de Puerto Río Tranquilo. Incluye música en vivo, animación, sonido e iluminación, ornamentación y montaje, alimentación, merchandising, reconocimientos y registro fotográfico. Presupuesto: $7.150.000 impuesto incluido. Requiere patente municipal o exención. Ver TDR adjunto."
+  },
+  {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Conectores, enchufes y terminales"
+   ],
+   "nueva": false,
+   "codigo": "4644-86-COT26",
+   "nombre": "MATERIALES DE ESCRITORIO GORE MAÑIHUALES SIC:430  SIRE:404",
+   "organismo": "CORP NACIONAL FORESTAL",
+   "unidad": "XI Región - Oficina Provincial Aysen",
+   "monto": 1000000,
+   "cierre_iso": "2026-10-20T10:00:00-03:00",
+   "publicacion": "13-10 12:54",
+   "publicacion_iso": "2026-10-13T12:54:00-03:00",
+   "ofertas": 2,
+   "productos": [
+    [
+     "14111610",
+     "Cartulina",
+     5,
+     "Cartulina de colores surtidos. Puede ser de 12, 14,18 láminas, colores de 12, 14,17. Con tamaño aproximado de 26,5x37.5 cm y gramaje entre 150y 180 g/m2."
+    ],
+    [
+     "14111610",
+     "Cartulina",
+     5,
+     "Cartulina de goma Eva. Compuesto por 10 láminas de 10 colores diferentes, tamaño aprox de 20x30cm, espesor de 2mm, flexible y liviana."
+    ],
+    [
+     "14111610",
+     "Cartulina",
+     5,
+     "Cartulina de papel entretenido. Compuesto por 9 láminas con al menos 18 diseños diferentes, tamaño aprox de 32x24cm, con motivos decorativos y colores variados."
+    ],
+    [
+     "44121708",
+     "Marcadores",
+     1,
+     "Plumones de pizarra color rojo, formato caja de 12 unidades."
+    ],
+    [
+     "44121701",
+     "Lápiz pasta",
+     1,
+     "Lápiz pasta tinta color azul, punta media (1.0mm), formato caja de  50 unidades."
+    ],
+    [
+     "44121708",
+     "Marcadores",
+     2,
+     "Caja de 24 marcadores permanentes de colores surtidos, con tinta de secado rápido, resistente al agua y de baja decoloración. Punta fina de aprox 1mm, trazo definido, cuerpo cilíndrico y tapa de colores con cierre seguro. Aptos para escribir y marcar sobre papel, cartón, plástico, metal y otras superficies no porosas."
+    ],
+    [
+     "31201611",
+     "Adhesivos de láminas",
+     5,
+     "Laminas para termo laminar tamaño oficio, formato de  100 unidades."
+    ],
+    [
+     "31201611",
+     "Adhesivos de láminas",
+     10,
+     "Laminas para termo laminar tamaño carta, formato de  100 unidades."
+    ],
+    [
+     "44121631",
+     "Distribuidores de pegamento o recambios",
+     2,
+     "Cola fría presentación 250ml."
+    ],
+    [
+     "12352310",
+     "Siliconas",
+     2,
+     "Silicona líquida, presentación 100ml."
+    ],
+    [
+     "44121618",
+     "Tijeras",
+     2,
+     "Tijera de escritorio de 20,96 cm punta roma."
+    ],
+    [
+     "44121615",
+     "Corcheteras",
+     1,
+     "Engrapadora manual, color roja, peso 300g. usa grapas 53/6 y 53/10, material de plástico ABS."
+    ],
+    [
+     "44121615",
+     "Corcheteras",
+     5,
+     "Corchete engrapadora. 27/64” ancho y alto 5/16”, calibre 24 gauge. Formato 1000 unidades."
+    ],
+    [
+     "14111525",
+     "Papel multiuso",
+     35,
+     "Resma hoja carta, 500 hojas."
+    ],
+    [
+     "32101622",
+     "Memoria flash",
+     5,
+     "Pendrive con capacidad mínima de 32 GB, interfaz USB tipo A, compatible con computadores de uso habitual. Diseño compacto, con tapa protectora o sistema retráctil, conexión USB 2.0 o superior y compatibilidad con sistemas operativos actuales."
+    ],
+    [
+     "14111530",
+     "Notas de papel autoadhesivo",
+     20,
+     "Blocs de notas adhesivas (tipo Post-it) tamaño clásico 7.5 cm x 7.5 cm. Colores variados formato 400 hojas."
+    ],
+    [
+     "44102002",
+     "Sobres de laminador",
+     100,
+     "Sobre tipo DL, Americano con dimensiones de largo 22cm y ancho 11 cm. Color blanco."
+    ],
+    [
+     "14111525",
+     "Papel multiuso",
+     3,
+     "Papel autoadhesivo tamaño oficio, formato caja de  50 hojas"
+    ],
+    [
+     "14111525",
+     "Papel multiuso",
+     4,
+     "Papel autoadhesivo tamaño carta, caja de  50 hojas"
+    ],
+    [
+     "39121402",
+     "Enchufes eléctricos",
+     3,
+     "Alargador 150 cm."
+    ],
+    [
+     "44111509",
+     "Portalápiz",
+     5,
+     "Porta lápices de escritorio fabricado en plástico resistente o malla metálica, con base estable antideslizante y compartimiento para lápices, marcadores, clips, etc. Medidas aproximadas de 10x10x12cm, color a elección del proveedor."
+    ],
+    [
+     "46182202",
+     "Apoya codos",
+     1,
+     "Apoya brazos escritorio."
+    ],
+    [
+     "43211802",
+     "Almohadillas de ratón o mousepad",
+     1,
+     "Mouse pad."
+    ],
+    [
+     "26111702",
+     "Pilas alcalinas",
+     8,
+     "Pilas recargables AA."
+    ],
+    [
+     "43211802",
+     "Almohadillas de ratón o mousepad",
+     1,
+     "Mouse óptico inalámbrico con conexión mediante receptor USB de 2,4 GHz, resolución mínima de 1.000 DPI, dos botones como mínimo y rueda de desplazamiento. Alimentación mediante pila."
+    ],
+    [
+     "44111516",
+     "Agendas",
+     5,
+     "Agenda anual año 2027, en idioma español, con tapa dura o semirrígida, encuadernación resistente y cierre mediante elástico. Formato aprox de 14x20cm, con calendario anual, planificación mensual y semanal o diaria, feriados de Chile y hojas para notas."
+    ],
+    [
+     "44112001",
+     "Libretas de direcciones",
+     5,
+     "Libreta de apuntes tamaño  (15,6X10,8 cm), encuadernación resistente, tapa dura o similar."
+    ],
+    [
+     "44101723",
+     "Bandejas de varios depósitos",
+     5,
+     "Bandeja organizadora de documentos de escritorio fabricada en plástico rígido de alta resistencia, destinada a organizar documentos de tamaño carta y oficio. Diseño apilable o de tres niveles, con estructura estable y acceso frontal para retirar documentos. Color negro, gris. Medidas aprox de 35x25x25cm para el conjunto de tres niveles."
+    ],
+    [
+     "44121612",
+     "Cuchillos cartoneros",
+     2,
+     "Cuchillo cartonero semiprofesional, de uso manual, con cuerpo fabricado en plástico ABS de alta resistencia y/o estructura metálica, sistema de bloqueo de seguridad de la cuchilla. Con cuchilla segmentada de acero de aprox 18mm de ancho con sistema de avance y retracción regulable. Largo entre 15 a 18cm. Incluir al menos 1 cuchilla instalada."
+    ],
+    [
+     "44122101",
+     "Gomas elásticas",
+     2,
+     "Bolsa elástico de billete. Bolsa con 100 unidades de elásticos de goma de colores surtidos. Con diámetro aprox de 30 a 40mm."
+    ],
+    [
+     "43201402",
+     "Tarjetas de módulo de memoria",
+     4,
+     "Tarjeta SD 32 Gb."
+    ],
+    [
+     "44121620",
+     "Dedo de goma",
+     5,
+     "Dedal de goma."
+    ],
+    [
+     "44121802",
+     "Líquido corrector",
+     5,
+     "Corrector liquido lápiz."
+    ],
+    [
+     "44121619",
+     "Sacapuntas",
+     4,
+     "Sacapuntas con dos orificios de distinto diámetro, uno para lápices grafito de tamaño estándar y otro de mayor diámetro compatible con lápices de carpintero de sección rectangular u ovalada. Debe contar con cuchillas metálicas de acero, depósito para residuos."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=4644-86-COT26",
+   "sin_detalle": false,
+   "descripcion": "CONAF requiere y adquirir materiales y utiles de escritorio para el personal de faena, Área Intervención Mañihuales. Despacho en Oficina CONAF en Puerto Aysén ubicada en ruta 240 KM 2 Camino Aysén -Coyhaique  Región de Aysén."
+  },
+  {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Servicios eléctricos"
+   ],
+   "nueva": false,
+   "codigo": "4066-419-COT26",
+   "nombre": " MANO DE OBRA INSTALACIÓN ELÉCTRICA 2 VIVIENDAS EN LA LOCALIDAD DE PUERTO SÁNCHEZ.",
+   "organismo": "I MUNICIPALIDAD RIO IBANEZ",
+   "unidad": "DIDECO",
+   "monto": 800000,
+   "cierre_iso": "2026-10-21T09:00:00-03:00",
+   "publicacion": "13-10 15:06",
+   "publicacion_iso": "2026-10-13T15:06:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "72102201",
+     "Instalación o servicio de sistemas de energía eléctrica",
+     1,
+     "SERVICIO DE MANO DE OBRA (INSTALACIÓN ELÉCTRICA) SEGÚN TÉRMINOS DE REFERENCIA"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=4066-419-COT26",
+   "sin_detalle": false,
+   "descripcion": "Contratar mano de obra para ejecución de reparación de instalación eléctrica de 2 viviendas de la localidad de Puerto Sánchez. Consistente en obras de mejoramiento de la instalación eléctrica interior las cuales se deberán cumplir con las normativas vigente y las especificaciones técnicas adjuntas. El prestador deberá asegurar la entrega oportuna y conforme de los productos comprometidos en los plazos establecidos, coordinando permanentemente con la Unidad Técnica, según términos de referencias"
   },
   {
    "tipo": "OPORTUNIDAD",
@@ -110,6 +476,33 @@
    "descripcion": "Se requiere la adquisición de maquinaria y equipamiento para el fortalecimiento de las actividades productivas y de mantenimiento del C.E.T. de Valle Verde."
   },
   {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Servicios eléctricos"
+   ],
+   "nueva": false,
+   "codigo": "741465-12-COT26",
+   "nombre": "Puesta en marcha de central de alarma contra incendios ",
+   "organismo": "Juzgado de Letras Garantia de Puerto Aysen",
+   "unidad": "Jdo de Letras y Garantia de Puerto Aysen",
+   "monto": 150000,
+   "cierre_iso": "2026-10-21T14:00:00-03:00",
+   "publicacion": "16-10 11:10",
+   "publicacion_iso": "2026-10-16T11:10:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "72102201",
+     "Instalación o servicio de sistemas de energía eléctrica",
+     1,
+     "Segun Términos de referencia adjuntos."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=741465-12-COT26",
+   "sin_detalle": false,
+   "descripcion": "Puesta en marcha de central de alarma contra incendios pasiva marca BOSH modelo FPD-7024."
+  },
+  {
    "tipo": "POSIBLE",
    "motivos": [
     "aire acondicionado"
@@ -135,28 +528,70 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=1107283-173-COT26",
    "sin_detalle": false,
    "descripcion": "Equipo de aire acondicionado"
-  }
- ],
- "historial": [
+  },
   {
-   "codigo": "711-194-COT26",
-   "nombre": "PROCESO DE ADQUISICIÓN PARA EL SERVICIO DE LEVANTAMIENTO ELECTRICO, RETIRO E INSTALACIÓN DE EQUIUPOS DE CLIMATIZACIÓN PARA OFICINAS DE LA SEREMITT DE AYSÉN",
-   "organismo": "SUBSECRETARIA DE TRANSPORTES",
-   "monto": 2400000,
-   "cierre_iso": "2026-10-24T14:20:00-03:00",
+   "tipo": "POSIBLE",
+   "motivos": [
+    "climatización"
+   ],
+   "nueva": true,
+   "codigo": "1758-245-COT26",
+   "nombre": "SERVICIO DE ALOJAMIENTO Y ALIMENTACIÓN EN LA CIUDAD DE COYHAIQUE",
+   "organismo": "SECRETARIA REGIONAL MINISTERIAL DE EDUCACION XI REGION",
+   "unidad": "Mineduc Administración XI Región",
+   "monto": 220000,
+   "cierre_iso": "2026-10-21T15:30:00-03:00",
+   "publicacion": "19-10 12:43",
+   "publicacion_iso": "2026-10-19T12:43:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "90111801",
+     "Habitación sencilla",
+     2,
+     "- 01 HABITACIÓN SINGLE CON DESAYUNO INCLUIDO CHECK IN 05/11/20206, CHECK OUT 07/11/2026. \n- LA HABITACIÓN OFRECIDA DEBE CONTAR CON BAÑO PRIVADO, CALEFACCIÓN O CLIMATIZACIÓN, BUENA VENTILACIÓN Y WIFI.\n- EL OFERENTE EN SU PROPUESTA DEBE INDICAR LA DIRECCIÓN DEL HOSPEDAJE.\n- SE PRIORIZARÁ DE PREFERENCIA A LOS PROVEEDORES QUE CUENTEN CON POLITICAS DE REUTIIZACIÓN DE SÁBANAS Y TOALLAS (ESTANDAR HOTELERO).\n- EL OFERENTE EN SU PROPUESTA DEBE INDICAR LA DIRECCIÓN DEL HOSPEDAJE."
+    ],
+    [
+     "90101501",
+     "Restaurantes",
+     3,
+     "- ALMUERZO PARA 01 PERSONA OFRECIDO EL DÍA 06/11/2026, A LAS 13:00 HRS. DE PREFERENCIA EN LAS MISMAS DEPENDENCIAS DEL HOSPEDAJE.\n- SERVICIO DE CENA PARA UNA PERSONA LOS DÍAS 05 Y 06 DE NOVIEMBRE DE 2026 A LAS 19:30 HRS. APROX.\n- EL MENÚ DEBERÁ CONSIDERAR A LO MENOS: ENTRADA Y/O ENSALDA, PLATO DE FONDO CON ALTERANTIVA DE PROTEINA MAS ACOMPAÑAMIENTO, POSTRE Y BEBESTIBLE NO ALCÓHOLICO."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1758-245-COT26",
+   "sin_detalle": false,
+   "descripcion": "- HABITACIÓN SINGLE CON DESAYUNO INCLUIDO CHECK IN 05/11/20206, CHECK OUT 07/11/2026. \n- ALMUERZO PARA 01 PERSONA OFRECIDO EL DÍA 06/11/2026, A LAS 13:00 HRS. DE PREFERENCIA EN LAS MISMAS DEPENDENCIAS DEL HOSPEDAJE.\n- SERVICIO DE CENA PARA UNA PERSONA LOS DÍAS 05 Y 06 DE NOVIEMBRE DE 2026 A LAS 19:30 HRS. APROX.\n- LA HABITACIÓN OFRECIDA DEBE CONTAR CON BAÑO PRIVADO, CALEFACCIÓN O CLIMATIZACIÓN, BUENA VENTILACIÓN Y WIFI.\n-  EL OFERENTE EN SU PROPUESTA DEBE INDICAR LA DIRECCIÓN DEL HOSPEDAJE."
+  },
+  {
    "tipo": "POSIBLE",
    "motivos": [
     "climatización",
     "eléctricos"
    ],
+   "nueva": false,
+   "codigo": "711-194-COT26",
+   "nombre": "PROCESO DE ADQUISICIÓN PARA EL SERVICIO DE LEVANTAMIENTO ELECTRICO, RETIRO E INSTALACIÓN DE EQUIUPOS DE CLIMATIZACIÓN PARA OFICINAS DE LA SEREMITT DE AYSÉN",
+   "organismo": "SUBSECRETARIA DE TRANSPORTES",
+   "unidad": "SUBSECRETARÍA DE TRANSPORTES",
+   "monto": 2400000,
+   "cierre_iso": "2026-10-24T14:20:00-03:00",
+   "publicacion": "07-10 08:20",
+   "publicacion_iso": "2026-10-07T08:20:00-03:00",
+   "ofertas": 3,
+   "productos": [
+    [
+     "73171510",
+     "Servicios de fabricación de accesorios o suministros eléctricos",
+     1,
+     "PROCESO DE ADQUISICIÓN PARA EL SERVICIO DE LEVANTAMIENTO ELECTRICO, RETIRO E INSTALACIÓN DE EQUIUPOS DE CLIMATIZACIÓN PARA OFICINAS DE LA SEREMITT DE AYSÉN\n\nVER REQUERIMIENTO TÉCNICO"
+    ]
+   ],
    "link": "https://buscador.mercadopublico.cl/ficha?code=711-194-COT26",
-   "primera_vista_iso": "2026-10-11T21:06:47-03:00",
-   "removida_iso": "2026-10-19T12:02:56-03:00",
-   "estado_api": "",
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
+   "sin_detalle": false,
+   "descripcion": "PROCESO DE ADQUISICIÓN PARA EL SERVICIO DE LEVANTAMIENTO ELECTRICO, RETIRO E INSTALACIÓN DE EQUIUPOS DE CLIMATIZACIÓN PARA OFICINAS DE LA SEREMITT DE AYSÉN\n\nLA VISITA ENTERRENO SERÁ EL DÍA 9 DE OCTUBRE A LAS 10:00 HORAS\nVER  REQUERIMIENTO TÉCNICO"
+  }
+ ],
+ "historial": [
   {
    "codigo": "1449-12-COT26",
    "nombre": "Adquisición de materiales de oficina ",
@@ -169,24 +604,6 @@
    ],
    "link": "https://buscador.mercadopublico.cl/ficha?code=1449-12-COT26",
    "primera_vista_iso": "2026-10-14T18:54:51-03:00",
-   "removida_iso": "2026-10-19T12:02:56-03:00",
-   "estado_api": null,
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "741465-12-COT26",
-   "nombre": "Puesta en marcha de central de alarma contra incendios ",
-   "organismo": "Juzgado de Letras Garantia de Puerto Aysen",
-   "monto": 150000,
-   "cierre_iso": "2026-10-21T14:00:00-03:00",
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Servicios eléctricos"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=741465-12-COT26",
-   "primera_vista_iso": "2026-10-16T11:57:33-03:00",
    "removida_iso": "2026-10-19T12:02:56-03:00",
    "estado_api": null,
    "adj_nombre": null,
@@ -212,78 +629,6 @@
    "adj_iso": null
   },
   {
-   "codigo": "4066-419-COT26",
-   "nombre": " MANO DE OBRA INSTALACIÓN ELÉCTRICA 2 VIVIENDAS EN LA LOCALIDAD DE PUERTO SÁNCHEZ.",
-   "organismo": "I MUNICIPALIDAD RIO IBANEZ",
-   "monto": 800000,
-   "cierre_iso": "2026-10-21T09:00:00-03:00",
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Servicios eléctricos"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=4066-419-COT26",
-   "primera_vista_iso": "2026-10-13T15:51:46-03:00",
-   "removida_iso": "2026-10-19T12:02:56-03:00",
-   "estado_api": "",
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "4644-86-COT26",
-   "nombre": "MATERIALES DE ESCRITORIO GORE MAÑIHUALES SIC:430  SIRE:404",
-   "organismo": "CORP NACIONAL FORESTAL",
-   "monto": 1000000,
-   "cierre_iso": "2026-10-20T10:00:00-03:00",
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Conectores, enchufes y terminales"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=4644-86-COT26",
-   "primera_vista_iso": "2026-10-14T06:57:02-03:00",
-   "removida_iso": "2026-10-19T12:02:56-03:00",
-   "estado_api": null,
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "4066-424-COT26",
-   "nombre": "Servicio de Producción de Eventos, Feria Productiva, Lanzamiento Temporada Turística 2026-2027 en Puerto Río Tranquilo - COD BIP 40066883-0",
-   "organismo": "I MUNICIPALIDAD RIO IBANEZ",
-   "monto": 7150000,
-   "cierre_iso": "2026-10-19T19:00:00-03:00",
-   "tipo": "POSIBLE",
-   "motivos": [
-    "iluminación"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=4066-424-COT26",
-   "primera_vista_iso": "2026-10-15T18:54:09-03:00",
-   "removida_iso": "2026-10-19T12:02:56-03:00",
-   "estado_api": null,
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "4626-32-COT26",
-   "nombre": "Provisión e instalación de cuatro (4) puntos de red y provisión e instalación de un (1) enchufe triple para oficinas de la Dirección Regional del Trabajo Región de Aysén",
-   "organismo": "DIRECCION DEL TRABAJO",
-   "monto": 710000,
-   "cierre_iso": "2026-10-19T18:46:00-03:00",
-   "tipo": "POSIBLE",
-   "motivos": [
-    "enchufe"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=4626-32-COT26",
-   "primera_vista_iso": "2026-10-11T21:06:47-03:00",
-   "removida_iso": "2026-10-19T12:02:56-03:00",
-   "estado_api": "",
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
    "codigo": "4889-41-COT26",
    "nombre": "MANTENIMIENTO SENTINA - OFICINAS SEREMI DE LAS CULTURAS",
    "organismo": "Subsecretaria de las Culturas y las Artes Región de Aysen",
@@ -295,42 +640,6 @@
    ],
    "link": "https://buscador.mercadopublico.cl/ficha?code=4889-41-COT26",
    "primera_vista_iso": "2026-10-14T16:56:08-03:00",
-   "removida_iso": "2026-10-19T12:02:56-03:00",
-   "estado_api": null,
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "3431-116-COT26",
-   "nombre": "FI- Solicitud de cotización para la adquisición de servicio de mantención de la caldera del pabellón del casino de suboficiales de esta unidad.",
-   "organismo": "Ejercito de Chile",
-   "monto": 7100000,
-   "cierre_iso": "2026-10-19T16:00:00-03:00",
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Gasfitería, calefacción y aire acondicionado"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=3431-116-COT26",
-   "primera_vista_iso": "2026-10-15T14:53:38-03:00",
-   "removida_iso": "2026-10-19T12:02:56-03:00",
-   "estado_api": null,
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "1057062-464-COT26",
-   "nombre": "Servicio de producción de eventos para el 22 y 23 de octubre en Coyhaique y Puerto Aysén según Fisabs 2297_Programa Orquestas",
-   "organismo": "UNIVERSIDAD DE AYSEN",
-   "monto": 1950000,
-   "cierre_iso": "2026-10-19T16:00:00-03:00",
-   "tipo": "POSIBLE",
-   "motivos": [
-    "iluminación"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1057062-464-COT26",
-   "primera_vista_iso": "2026-10-16T11:00:56-03:00",
    "removida_iso": "2026-10-19T12:02:56-03:00",
    "estado_api": null,
    "adj_nombre": null,
@@ -1131,6 +1440,12 @@
  ],
  "pendientes": [
   {
+   "codigo": "4144-305-COT26",
+   "nombre": "Se requiere la adquisición de alimentos para la \"Conmemoracion de del festival de una tarde 2026\"",
+   "organismo": "I MUNICIPALIDAD DE LAGO VERDE",
+   "link": "https://buscador.mercadopublico.cl/ficha?code=4144-305-COT26"
+  },
+  {
    "codigo": "2495-557-COT26",
    "nombre": "Materiales de oficina PRLAC",
    "organismo": "I MUNICIPALIDAD DE COYHAIQUE",
@@ -1141,6 +1456,12 @@
    "nombre": "BLOQUEADOR SOLAR (P 488 HIGIENE Y SEGURIDAD)",
    "organismo": "SUBSECRETARIA DE SALUD PUBLICA",
    "link": "https://buscador.mercadopublico.cl/ficha?code=1746-238-COT26"
+  },
+  {
+   "codigo": "657-82-COT26",
+   "nombre": "Artículos de Aseo",
+   "organismo": "SERVICIO DE VIVIENDA Y URBANIZACION XI REGION",
+   "link": "https://buscador.mercadopublico.cl/ficha?code=657-82-COT26"
   }
  ]
 }
