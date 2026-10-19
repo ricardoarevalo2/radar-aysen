@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-10-18T22:07:29.007524-03:00",
+ "actualizado": "2026-10-19T07:01:22.969078-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
- "total_region": 252,
+ "total_region": 251,
  "rubros": {
   "80141600": "Ventas y marketing",
   "82101600": "Publicidad en medios no impresos",
@@ -1202,24 +1202,6 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=3950-649-COT26",
    "primera_vista_iso": "2026-10-11T21:06:47-03:00",
    "removida_iso": "2026-10-13T08:42:41-03:00",
-   "estado_api": "",
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "418-1538-COT26",
-   "nombre": "POR - SERVICIO ARTISTICO DE PASACALLE (SEGUN DETALLE ADJUNTO)",
-   "organismo": "SERVICIO NACIONAL DE SALUD HOSPITAL DE PUERTO AYSEN",
-   "monto": 1,
-   "cierre_iso": "2026-10-12T01:42:00-03:00",
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Ventas y marketing"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=418-1538-COT26",
-   "primera_vista_iso": "2026-10-11T21:06:47-03:00",
-   "removida_iso": "2026-10-12T07:17:55-03:00",
    "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,
