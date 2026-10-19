@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-10-19T07:56:55.267026-03:00",
+ "actualizado": "2026-10-19T08:59:27.379967-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
- "total_region": 251,
+ "total_region": 229,
  "rubros": {
   "80141600": "Ventas y marketing",
   "82101600": "Publicidad en medios no impresos",
@@ -14,33 +14,6 @@
   "83121700": "Comunicación social y de masas"
  },
  "filas": [
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "fotografía"
-   ],
-   "nueva": false,
-   "codigo": "5575-124-COT26",
-   "nombre": "Maxi Sacos para retiro de residuos de reciclaje",
-   "organismo": "I MUNICIPALIDAD DE COYHAIQUE",
-   "unidad": "Dep. Gestion Medioambiente y Servic",
-   "monto": 2000000,
-   "cierre_iso": "2026-10-19T08:00:00-03:00",
-   "publicacion": "16-10 16:59",
-   "publicacion_iso": "2026-10-16T16:59:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "24111508",
-     "Saco de tienda",
-     220,
-     "Se requieren 220 Maxi Sacos para el retiro de residuos de reciclaje, con capacidad para 1.000 kg y aproximadamente 1 m3 de volumen de carga. Despacho incluido en el precio. Adjuntar ficha técnica con fotografía del producto."
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=5575-124-COT26",
-   "sin_detalle": false,
-   "descripcion": "Se requieren 220 Maxi Sacos para el retiro de residuos de reciclaje, con capacidad para 1.000 kg y aproximadamente 1 m3 de volumen de carga. Despacho incluido en el precio. Adjuntar ficha técnica con fotografía del producto."
-  },
   {
    "tipo": "OPORTUNIDAD",
    "motivos": [
@@ -766,6 +739,24 @@
    "primera_vista_iso": "2026-10-15T16:53:19-03:00",
    "removida_iso": "2026-10-15T17:55:27-03:00",
    "estado_api": "",
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
+  {
+   "codigo": "5575-124-COT26",
+   "nombre": "Maxi Sacos para retiro de residuos de reciclaje",
+   "organismo": "I MUNICIPALIDAD DE COYHAIQUE",
+   "monto": 2000000,
+   "cierre_iso": "2026-10-19T08:00:00-03:00",
+   "tipo": "POSIBLE",
+   "motivos": [
+    "fotografía"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=5575-124-COT26",
+   "primera_vista_iso": "2026-10-16T17:54:39-03:00",
+   "removida_iso": "2026-10-19T08:59:27-03:00",
+   "estado_api": null,
    "adj_nombre": null,
    "adj_monto": null,
    "adj_iso": null

@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-10-19T07:56:55.267026-03:00",
+ "actualizado": "2026-10-19T08:59:27.379967-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
- "total_region": 251,
+ "total_region": 229,
  "rubros": {
   "25172700": "Aire acondicionado",
   "25173900": "Componentes eléctricos",
@@ -19,33 +19,6 @@
   "39121400": "Conectores, enchufes y terminales"
  },
  "filas": [
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "electricidad"
-   ],
-   "nueva": false,
-   "codigo": "3950-657-COT26",
-   "nombre": "PROVISION Y CAMBIO DE BOMBA DE AGUA RECIRCULADORA",
-   "organismo": "DIRECCION SALUD RURAL",
-   "unidad": "Dirección de Salud Rural",
-   "monto": 500000,
-   "cierre_iso": "2026-10-19T08:00:00-03:00",
-   "publicacion": "16-10 14:22",
-   "publicacion_iso": "2026-10-16T14:22:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "40151510",
-     "Bombas de agua",
-     1,
-     "PROVISIÓN Y CAMBIO DE BOMBA RECIRCULADORA DE AGUA CALIENTE DE VA 55/180 \n(ver adjunto)"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=3950-657-COT26",
-   "sin_detalle": false,
-   "descripcion": "Con despacho incluido \n-Se requiere que la empresa sea regional\n-La empresa cuente con 3 o mas instalaciones de este tipo de bombas en los últimos 3 años\n-La empresa debe contar con certificado SEC de electricidad (adjuntar)\n-Se requieren 3 meses de garantía"
-  },
   {
    "tipo": "POSIBLE",
    "motivos": [
@@ -659,6 +632,45 @@
    "descripcion": "Contratar mano de obra para ejecución de reparación de instalación eléctrica de 2 viviendas de la localidad de Puerto Sánchez. Consistente en obras de mejoramiento de la instalación eléctrica interior las cuales se deberán cumplir con las normativas vigente y las especificaciones técnicas adjuntas. El prestador deberá asegurar la entrega oportuna y conforme de los productos comprometidos en los plazos establecidos, coordinando permanentemente con la Unidad Técnica, según términos de referencias"
   },
   {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "generador"
+   ],
+   "nueva": true,
+   "codigo": "3540-274-COT26",
+   "nombre": "REPUESTOS GENERADOR DEE 8KVA KOLVO ",
+   "organismo": "Ejercito de Chile",
+   "unidad": "Cuerpo Militar del Trabajo Subjefatura Zonal Coyhaique",
+   "monto": 270000,
+   "cierre_iso": "2026-10-21T09:15:00-03:00",
+   "publicacion": "14-10 15:48",
+   "publicacion_iso": "2026-10-14T15:48:00-03:00",
+   "ofertas": 1,
+   "productos": [
+    [
+     "26101504",
+     "Motores diesel",
+     1,
+     "Motor de Arranque para Generador DEE 8Kva Kolvo Modelo G080DE3 8kva AÑO 2025, CODIGO 90700001983, Presupuesto Diponible $150.000."
+    ],
+    [
+     "44103004",
+     "Fusibles",
+     1,
+     "Fusible 30A 250V para Generador DEE 8Kva Kolvo Modelo G080DE3 8kva AÑO 2025, CODIGO 90700001983, Presupuesto Diponible $20.000."
+    ],
+    [
+     "26111711",
+     "Baterías de litio",
+     1,
+     "Bateria 12V 32AMP para Generador DEE 8Kva Kolvo Modelo G080DE3 8kva AÑO 2025, CODIGO 90700001983, Presupuesto Diponible $100.000."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=3540-274-COT26",
+   "sin_detalle": false,
+   "descripcion": "Indicar plazo de entrega y datos de contacto. Se privilegiará proveedor de la región o que cuente con sucursal en Coyhaique y luego precio. Este proceso no considera ítem flete ni cargos adicionales, los costos deben estar incluidos en los valores unitarios. (LEER TÉRMINOS DE REFERENCIA ADJUNTO y ANALIZAR PRESUPUESTO POR CADA LÍNEA)"
+  },
+  {
    "tipo": "OPORTUNIDAD",
    "motivos": [
     "Materiales de física de electricidad"
@@ -1070,6 +1082,24 @@
    "adj_iso": null
   },
   {
+   "codigo": "3950-657-COT26",
+   "nombre": "PROVISION Y CAMBIO DE BOMBA DE AGUA RECIRCULADORA",
+   "organismo": "DIRECCION SALUD RURAL",
+   "monto": 500000,
+   "cierre_iso": "2026-10-19T08:00:00-03:00",
+   "tipo": "POSIBLE",
+   "motivos": [
+    "electricidad"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=3950-657-COT26",
+   "primera_vista_iso": "2026-10-16T14:53:21-03:00",
+   "removida_iso": "2026-10-19T08:59:27-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
+  {
    "codigo": "3540-255-COT26",
    "nombre": "Contactores magnético trifásico para hormigonera Emaresa (P.2426)",
    "organismo": "Ejercito de Chile",
@@ -1195,24 +1225,6 @@
    "primera_vista_iso": "2026-10-15T17:55:27-03:00",
    "removida_iso": "2026-10-16T17:54:39-03:00",
    "estado_api": null,
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "3540-274-COT26",
-   "nombre": "REPUESTOS GENERADOR DEE 8KVA KOLVO ",
-   "organismo": "Ejercito de Chile",
-   "monto": 270000,
-   "cierre_iso": "2026-10-16T16:00:00-03:00",
-   "tipo": "POSIBLE",
-   "motivos": [
-    "generador"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=3540-274-COT26",
-   "primera_vista_iso": "2026-10-14T16:05:10-03:00",
-   "removida_iso": "2026-10-16T16:50:54-03:00",
-   "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,
    "adj_iso": null
