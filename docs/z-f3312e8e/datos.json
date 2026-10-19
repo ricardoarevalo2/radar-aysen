@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-10-19T13:59:36.432267-03:00",
+ "actualizado": "2026-10-19T14:52:46.897549-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
- "total_region": 224,
+ "total_region": 235,
  "rubros": {
   "25172700": "Aire acondicionado",
   "25173900": "Componentes eléctricos",
@@ -1469,6 +1469,12 @@
   }
  ],
  "pendientes": [
+  {
+   "codigo": "1692-604-COT26",
+   "nombre": "ADQUISICION DE LACTEOS ,FRUTA, VERDURAS PARA PACIENTES OCTUBRE 2026 HOSPITAL COCHRANE",
+   "organismo": "SERVICIO NACIONAL DE SALUD HOSPITAL DE COCHRANE",
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1692-604-COT26"
+  },
   {
    "codigo": "4144-305-COT26",
    "nombre": "Se requiere la adquisición de alimentos para la \"Conmemoracion de del festival de una tarde 2026\"",
