@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-19T18:53:52.674762-03:00",
+ "actualizado": "2026-10-19T19:53:01.377695-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
  "total_region": 255,
@@ -14,33 +14,6 @@
   "83121700": "Comunicación social y de masas"
  },
  "filas": [
-  {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Ventas y marketing"
-   ],
-   "nueva": false,
-   "codigo": "4066-424-COT26",
-   "nombre": "Servicio de Producción de Eventos, Feria Productiva, Lanzamiento Temporada Turística 2026-2027 en Puerto Río Tranquilo - COD BIP 40066883-0",
-   "organismo": "I MUNICIPALIDAD RIO IBANEZ",
-   "unidad": "DIDECO",
-   "monto": 7150000,
-   "cierre_iso": "2026-10-19T19:00:00-03:00",
-   "publicacion": "15-10 18:38",
-   "publicacion_iso": "2026-10-15T18:38:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "80141607",
-     "Producción de eventos",
-     1,
-     "Servicio integral de producción de la feria productiva de lanzamiento de temporada turística 2026-2027, sábado 31 de octubre de 2026, plaza de Puerto Río Tranquilo (montaje desde 08:00). Incluye música en vivo, animación, sonido e iluminación, ornamentación y montaje, alimentación, merchandising, reconocimientos y registro fotográfico. Cotizar valor único y total, impuesto incluido, máximo $7.150.000. Detalle y requisitos en TDR adjunto."
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=4066-424-COT26",
-   "sin_detalle": false,
-   "descripcion": "Servicio de producción para la feria productiva de lanzamiento de la temporada turística 2026-2027, el sábado 31 de octubre de 2026 en la plaza de Puerto Río Tranquilo. Incluye música en vivo, animación, sonido e iluminación, ornamentación y montaje, alimentación, merchandising, reconocimientos y registro fotográfico. Presupuesto: $7.150.000 impuesto incluido. Requiere patente municipal o exención. Ver TDR adjunto."
-  },
   {
    "tipo": "OPORTUNIDAD",
    "motivos": [
@@ -187,6 +160,33 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=4733-410-COT26",
    "sin_detalle": false,
    "descripcion": "Se requiere contratar el servicio de producción identidad sonora del proyecto fondo de medios, según detalle adjunto, adjuntar cotización."
+  },
+  {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Ventas y marketing"
+   ],
+   "nueva": true,
+   "codigo": "2495-565-COT26",
+   "nombre": "PRODUCCION CEREMONIA COYHAIQUINOS DESTACADOS",
+   "organismo": "I MUNICIPALIDAD DE COYHAIQUE",
+   "unidad": "DIRECCION DESARROLLO COMUNITARIO",
+   "monto": 1100000,
+   "cierre_iso": "2026-10-21T15:00:00-03:00",
+   "publicacion": "19-10 18:59",
+   "publicacion_iso": "2026-10-19T18:59:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "80141607",
+     "Producción de eventos",
+     1,
+     "SE REQUIERE EL SERVICIO DE PRODUCCION PARA LA CEREMONIA DE COYHAIQUINOS DESTACADOS PARA EL DIA 29/10 EN CENTRO CULTURAL COYHAIQUE SEGUN REQUERIMIENTOS TECNICOS ADJUNTOS, SE PREVILEGIARA PROVEEDOR DE LA COMUNA DE COYHAIQUE CON DISPONBILIDAD INMEDIATA Y DISPOSICION A MODIFICACIONES EN TIEMPO Y FORMA."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=2495-565-COT26",
+   "sin_detalle": false,
+   "descripcion": "SE REQUIERE EL SERVICIO DE PRODUCCION PARA LA CEREMONIA DE COYHAIQUINOS DESTACADOS PARA EL DIA 29/10 EN CENTRO CULTURAL COYHAIQUE SEGUN REQUERIMIENTOS TECNICOS ADJUNTOS, SE PREVILEGIARA PROVEEDOR DE LA COMUNA DE COYHAIQUE CON DISPONBILIDAD INMEDIATA Y DISPOSICION A MODIFICACIONES EN TIEMPO Y FORMA."
   },
   {
    "tipo": "OPORTUNIDAD",
@@ -430,6 +430,24 @@
  ],
  "historial": [
   {
+   "codigo": "4066-424-COT26",
+   "nombre": "Servicio de Producción de Eventos, Feria Productiva, Lanzamiento Temporada Turística 2026-2027 en Puerto Río Tranquilo - COD BIP 40066883-0",
+   "organismo": "I MUNICIPALIDAD RIO IBANEZ",
+   "monto": 7150000,
+   "cierre_iso": "2026-10-19T19:00:00-03:00",
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Ventas y marketing"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=4066-424-COT26",
+   "primera_vista_iso": "2026-10-15T18:54:09-03:00",
+   "removida_iso": "2026-10-19T19:53:01-03:00",
+   "estado_api": "",
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
+  {
    "codigo": "4778-319-COT26",
    "nombre": "RELE- SOLICITUD N° 10134-MEL- MEJORAMIEN ENTORNO LABORAL-DEBE INCLUIR DESPACHO",
    "organismo": "SERVICIO NACIONAL DE SALUD HOSPITAL DE C",
@@ -536,7 +554,7 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=3791-1035-COT26",
    "primera_vista_iso": "2026-10-16T11:00:56-03:00",
    "removida_iso": "2026-10-19T11:06:38-03:00",
-   "estado_api": null,
+   "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,
    "adj_iso": null
@@ -590,7 +608,7 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=828-48-COT26",
    "primera_vista_iso": "2026-10-15T17:55:27-03:00",
    "removida_iso": "2026-10-19T10:11:35-03:00",
-   "estado_api": null,
+   "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,
    "adj_iso": null
@@ -1059,22 +1077,10 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=2495-557-COT26"
   },
   {
-   "codigo": "1746-238-COT26",
-   "nombre": "BLOQUEADOR SOLAR (P 488 HIGIENE Y SEGURIDAD)",
-   "organismo": "SUBSECRETARIA DE SALUD PUBLICA",
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1746-238-COT26"
-  },
-  {
    "codigo": "1449-12-COT26",
    "nombre": "Adquisición de materiales de oficina ",
    "organismo": "FONDO DE SOLIDARIDAD E INVERSION SOCIAL",
    "link": "https://buscador.mercadopublico.cl/ficha?code=1449-12-COT26"
-  },
-  {
-   "codigo": "657-82-COT26",
-   "nombre": "Artículos de Aseo",
-   "organismo": "SERVICIO DE VIVIENDA Y URBANIZACION XI REGION",
-   "link": "https://buscador.mercadopublico.cl/ficha?code=657-82-COT26"
   }
  ]
 }
