@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-10-19T16:57:34.615074-03:00",
+ "actualizado": "2026-10-19T17:56:47.382829-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
- "total_region": 244,
+ "total_region": 255,
  "rubros": {
   "25172700": "Aire acondicionado",
   "25173900": "Componentes eléctricos",
@@ -390,6 +390,33 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=3540-274-COT26",
    "sin_detalle": false,
    "descripcion": "Indicar plazo de entrega y datos de contacto. Se privilegiará proveedor de la región o que cuente con sucursal en Coyhaique y luego precio. Este proceso no considera ítem flete ni cargos adicionales, los costos deben estar incluidos en los valores unitarios. (LEER TÉRMINOS DE REFERENCIA ADJUNTO y ANALIZAR PRESUPUESTO POR CADA LÍNEA)"
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "climatización"
+   ],
+   "nueva": true,
+   "codigo": "1758-248-COT26",
+   "nombre": "SERVICIO DE SALON EQUIPADO JORNADA DE CONVIVENCIA EDUCATIVA Y SALUD MENTAL",
+   "organismo": "SECRETARIA REGIONAL MINISTERIAL DE EDUCACION XI REGION",
+   "unidad": "Mineduc Administración XI Región",
+   "monto": 1000000,
+   "cierre_iso": "2026-10-21T10:30:00-03:00",
+   "publicacion": "19-10 17:14",
+   "publicacion_iso": "2026-10-19T17:14:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "90111604",
+     "Salones",
+     1,
+     "SE REQUIERE CONTRATAR SERVICIO DE ARRIENDO DE SALON DE EVENTOS CON CAPACIDAD PARA 50 PERSONAS, EL DÍA 28/10/2026 EN HORARIO DE 08:30 A 17:30 HRS. EN LA CIUDAD DE COYHAIQUE. EL CUAL DEBERÁ CONTAR CON CLIMATIZACIÓN, PROYECTOR, PARLANTE, MULTIMEDIA, TELÓN , AMPLIFICACIÓN, ACCESO A INTERNET Y A LO MENOS 6 A 8 MESAS CON SILLAS PARA DESARROLLO DE TRABAJO GRUPAL Y ZONA PARA MONTAJE DE CAFÉ."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1758-248-COT26",
+   "sin_detalle": false,
+   "descripcion": "SE REQUIERE CONTRATAR SERVICIO DE ARRIENDO DE SALON DE EVENTOS CON CAPACIDAD PARA 50 PERSONAS, EL DÍA 28/10/2026 EN HORARIO DE 08:30 A 17:30 HRS. EN LA CIUDAD DE COYHAIQUE. EL CUAL DEBERÁ CONTAR CON CLIMATIZACIÓN, PROYECTOR MULTIMEDIA, TELÓN , AMPLIFICACIÓN, ACCESO A INTERNET Y A LO MENOS 6 A 8 MESAS CON SILLAS PARA DESARROLLO DE TRABAJO GRUPAL Y ZONA PARA MONTAJE DE CAFÉ. \nCOORDINADORA A CARGO SRA. MONICA TAPIA. SECREDUC."
   },
   {
    "tipo": "POSIBLE",
