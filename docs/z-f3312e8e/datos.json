@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-19T12:56:38.386335-03:00",
+ "actualizado": "2026-10-19T13:59:36.432267-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
  "total_region": 224,
@@ -78,6 +78,33 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=3431-116-COT26",
    "sin_detalle": false,
    "descripcion": "Solicitud de cotización para la adquisición de servicio de mantención de la caldera del pabellón del casino de suboficiales.\nConforme a anexo adjunto."
+  },
+  {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Gasfitería, calefacción y aire acondicionado"
+   ],
+   "nueva": true,
+   "codigo": "4889-41-COT26",
+   "nombre": "MANTENIMIENTO SENTINA - OFICINAS SEREMI DE LAS CULTURAS",
+   "organismo": "Subsecretaria de las Culturas y las Artes Región de Aysen",
+   "unidad": "Consejo Regional de Cultura Región de Aysen",
+   "monto": 250000,
+   "cierre_iso": "2026-10-19T16:00:00-03:00",
+   "publicacion": "14-10 16:37",
+   "publicacion_iso": "2026-10-14T16:37:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "72102304",
+     "Mantenimiento o reparación de sistemas de fontanería, gasfitería",
+     1,
+     "MANTENIMIENTO SENTINA - OFICINAS SEREMI DE LAS CULTURAS - Características según archivo adjunto"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=4889-41-COT26",
+   "sin_detalle": false,
+   "descripcion": "MANTENIMIENTO SENTINA - OFICINAS SEREMI DE LAS CULTURAS\nCARACTERÍSTICAS REQUERIDAS SEGUN ARCHIVO ADJUNTO"
   },
   {
    "tipo": "POSIBLE",
@@ -419,6 +446,45 @@
    "descripcion": "Contratar mano de obra para ejecución de reparación de instalación eléctrica de 2 viviendas de la localidad de Puerto Sánchez. Consistente en obras de mejoramiento de la instalación eléctrica interior las cuales se deberán cumplir con las normativas vigente y las especificaciones técnicas adjuntas. El prestador deberá asegurar la entrega oportuna y conforme de los productos comprometidos en los plazos establecidos, coordinando permanentemente con la Unidad Técnica, según términos de referencias"
   },
   {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "generador"
+   ],
+   "nueva": true,
+   "codigo": "3540-274-COT26",
+   "nombre": "REPUESTOS GENERADOR DEE 8KVA KOLVO ",
+   "organismo": "Ejercito de Chile",
+   "unidad": "Cuerpo Militar del Trabajo Subjefatura Zonal Coyhaique",
+   "monto": 270000,
+   "cierre_iso": "2026-10-21T09:15:00-03:00",
+   "publicacion": "14-10 15:48",
+   "publicacion_iso": "2026-10-14T15:48:00-03:00",
+   "ofertas": 1,
+   "productos": [
+    [
+     "26101504",
+     "Motores diesel",
+     1,
+     "Motor de Arranque para Generador DEE 8Kva Kolvo Modelo G080DE3 8kva AÑO 2025, CODIGO 90700001983, Presupuesto Diponible $150.000."
+    ],
+    [
+     "44103004",
+     "Fusibles",
+     1,
+     "Fusible 30A 250V para Generador DEE 8Kva Kolvo Modelo G080DE3 8kva AÑO 2025, CODIGO 90700001983, Presupuesto Diponible $20.000."
+    ],
+    [
+     "26111711",
+     "Baterías de litio",
+     1,
+     "Bateria 12V 32AMP para Generador DEE 8Kva Kolvo Modelo G080DE3 8kva AÑO 2025, CODIGO 90700001983, Presupuesto Diponible $100.000."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=3540-274-COT26",
+   "sin_detalle": false,
+   "descripcion": "Indicar plazo de entrega y datos de contacto. Se privilegiará proveedor de la región o que cuente con sucursal en Coyhaique y luego precio. Este proceso no considera ítem flete ni cargos adicionales, los costos deben estar incluidos en los valores unitarios. (LEER TÉRMINOS DE REFERENCIA ADJUNTO y ANALIZAR PRESUPUESTO POR CADA LÍNEA)"
+  },
+  {
    "tipo": "OPORTUNIDAD",
    "motivos": [
     "Materiales de física de electricidad"
@@ -604,42 +670,6 @@
    ],
    "link": "https://buscador.mercadopublico.cl/ficha?code=1449-12-COT26",
    "primera_vista_iso": "2026-10-14T18:54:51-03:00",
-   "removida_iso": "2026-10-19T12:02:56-03:00",
-   "estado_api": null,
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "3540-274-COT26",
-   "nombre": "REPUESTOS GENERADOR DEE 8KVA KOLVO ",
-   "organismo": "Ejercito de Chile",
-   "monto": 270000,
-   "cierre_iso": "2026-10-21T09:15:00-03:00",
-   "tipo": "POSIBLE",
-   "motivos": [
-    "generador"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=3540-274-COT26",
-   "primera_vista_iso": "2026-10-14T16:05:10-03:00",
-   "removida_iso": "2026-10-19T12:02:56-03:00",
-   "estado_api": "",
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "4889-41-COT26",
-   "nombre": "MANTENIMIENTO SENTINA - OFICINAS SEREMI DE LAS CULTURAS",
-   "organismo": "Subsecretaria de las Culturas y las Artes Región de Aysen",
-   "monto": 250000,
-   "cierre_iso": "2026-10-19T16:00:00-03:00",
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Gasfitería, calefacción y aire acondicionado"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=4889-41-COT26",
-   "primera_vista_iso": "2026-10-14T16:56:08-03:00",
    "removida_iso": "2026-10-19T12:02:56-03:00",
    "estado_api": null,
    "adj_nombre": null,
@@ -1456,6 +1486,12 @@
    "nombre": "BLOQUEADOR SOLAR (P 488 HIGIENE Y SEGURIDAD)",
    "organismo": "SUBSECRETARIA DE SALUD PUBLICA",
    "link": "https://buscador.mercadopublico.cl/ficha?code=1746-238-COT26"
+  },
+  {
+   "codigo": "1449-12-COT26",
+   "nombre": "Adquisición de materiales de oficina ",
+   "organismo": "FONDO DE SOLIDARIDAD E INVERSION SOCIAL",
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1449-12-COT26"
   },
   {
    "codigo": "657-82-COT26",
