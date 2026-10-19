@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-10-19T14:52:46.897549-03:00",
+ "actualizado": "2026-10-19T16:06:33.412654-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
- "total_region": 235,
+ "total_region": 240,
  "rubros": {
   "25172700": "Aire acondicionado",
   "25173900": "Componentes eléctricos",
@@ -19,93 +19,6 @@
   "39121400": "Conectores, enchufes y terminales"
  },
  "filas": [
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "iluminación"
-   ],
-   "nueva": false,
-   "codigo": "1057062-464-COT26",
-   "nombre": "Servicio de producción de eventos para el 22 y 23 de octubre en Coyhaique y Puerto Aysén según Fisabs 2297_Programa Orquestas",
-   "organismo": "UNIVERSIDAD DE AYSEN",
-   "unidad": "Proyectos",
-   "monto": 1950000,
-   "cierre_iso": "2026-10-19T16:00:00-03:00",
-   "publicacion": "16-10 10:56",
-   "publicacion_iso": "2026-10-16T10:56:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "80141607",
-     "Producción de eventos",
-     1,
-     "Se requiere servicio de producción para conciertos: el día 22/09 en el Centro Cultural de Coyhaique. Servicio de: prueba de sonido, instalación de sillas, Traslado e instalación gráficas y atriles, Catering para equipo Orquesta (15 personas), sistema de micrófono, Técnico en sonido y dos operadores de cámara según\narchivo adjunto EETT. Cotización debe indicar la especificación técnica de lo ofertado."
-    ],
-    [
-     "80141607",
-     "Producción de eventos",
-     1,
-     "Se requiere servicio de producción para conciertos: el día 23/09 en Puerto Aysén en lugar por confirmar. Servicio de: prueba de sonido, instalación de sillas, Traslado e instalación gráficas y atriles, Catering para equipo Orquesta (15 personas), sistema de micrófono, Técnico en sonido y dos operadores de cámara según\narchivo adjunto EETT. Cotización debe indicar la especificación técnica de lo ofertado."
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1057062-464-COT26",
-   "sin_detalle": false,
-   "descripcion": "Se requiere contratar un servicio de producción de eventos para el 22 y 23 de octubre en Coyhaique y Puerto Aysén. hrs. Servicio de: Traslado e instalación gráficas y atriles, instalación de sillas, Catering para equipo Orquesta, técnico en sonido para manipular grabadora y microfonía y 2 operadores de cámara. Calefacción, iluminación y arriendo de espacios en cerro castillo. Archivo adjunto EETT. Cotización debe indicar la especificación técnica de lo ofertado"
-  },
-  {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Gasfitería, calefacción y aire acondicionado"
-   ],
-   "nueva": false,
-   "codigo": "3431-116-COT26",
-   "nombre": "FI- Solicitud de cotización para la adquisición de servicio de mantención de la caldera del pabellón del casino de suboficiales de esta unidad.",
-   "organismo": "Ejercito de Chile",
-   "unidad": "Regimiento N° 8 Chiloé",
-   "monto": 7100000,
-   "cierre_iso": "2026-10-19T16:00:00-03:00",
-   "publicacion": "15-10 14:43",
-   "publicacion_iso": "2026-10-15T14:43:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "72102302",
-     "Instalación, reparación o mantenimiento de sistemas de calefacción",
-     1,
-     "Servicio de mantención de caldera de calefacción, como se indica en el detalle del anexo adjunto."
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=3431-116-COT26",
-   "sin_detalle": false,
-   "descripcion": "Solicitud de cotización para la adquisición de servicio de mantención de la caldera del pabellón del casino de suboficiales.\nConforme a anexo adjunto."
-  },
-  {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Gasfitería, calefacción y aire acondicionado"
-   ],
-   "nueva": true,
-   "codigo": "4889-41-COT26",
-   "nombre": "MANTENIMIENTO SENTINA - OFICINAS SEREMI DE LAS CULTURAS",
-   "organismo": "Subsecretaria de las Culturas y las Artes Región de Aysen",
-   "unidad": "Consejo Regional de Cultura Región de Aysen",
-   "monto": 250000,
-   "cierre_iso": "2026-10-19T16:00:00-03:00",
-   "publicacion": "14-10 16:37",
-   "publicacion_iso": "2026-10-14T16:37:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "72102304",
-     "Mantenimiento o reparación de sistemas de fontanería, gasfitería",
-     1,
-     "MANTENIMIENTO SENTINA - OFICINAS SEREMI DE LAS CULTURAS - Características según archivo adjunto"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=4889-41-COT26",
-   "sin_detalle": false,
-   "descripcion": "MANTENIMIENTO SENTINA - OFICINAS SEREMI DE LAS CULTURAS\nCARACTERÍSTICAS REQUERIDAS SEGUN ARCHIVO ADJUNTO"
-  },
   {
    "tipo": "POSIBLE",
    "motivos": [
@@ -421,6 +334,33 @@
   {
    "tipo": "OPORTUNIDAD",
    "motivos": [
+    "Gasfitería, calefacción y aire acondicionado"
+   ],
+   "nueva": true,
+   "codigo": "1274667-398-COT26",
+   "nombre": "SOLICITA SERVICIO DE INSTALACION DE CLIMATIZADOR EXISTENTE TIPO SPLIT PARA CENTRO DE SALUD FAMILIAR PUERTO AYSÉN",
+   "organismo": "CENTRO DE SALUD FAMILIAR PUERTO AYSÉN",
+   "unidad": "CENTRO DE SALUD FAMILIAR PUERTO AYSÉN",
+   "monto": 250000,
+   "cierre_iso": "2026-10-21T08:00:00-03:00",
+   "publicacion": "19-10 14:57",
+   "publicacion_iso": "2026-10-19T14:57:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "72102305",
+     "Servicios de reparación, mantenimiento o reparación de aire acondicionado",
+     1,
+     "SERVICIO DE INSTALACIÓN, DE CLIMATIZADOR TIPO SPLIT - DETALLE EN DOCUMENTO ADJUNTO."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1274667-398-COT26",
+   "sin_detalle": false,
+   "descripcion": "ADJUNTAR COTIZACION - ADJUNTAR FICHA TECNICA PARA PODER EVALUAR CORRECTAMENTE LA OFERTA - DATOS BANCARIOS - CONTACTO PARA RESOLVER DUDAS - EN CASO DE ADJUDICACION FAVOR EMITIR DESPACHO CON GUIA - MARCAS MENCIONADAS SON SOLAMENTE REFERENCIALES. DETALLES EN DOCUMENTO ADJUNTO."
+  },
+  {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
     "Servicios eléctricos"
    ],
    "nueva": false,
@@ -601,6 +541,78 @@
     "climatización"
    ],
    "nueva": true,
+   "codigo": "1758-247-COT26",
+   "nombre": "SERVICIO DE ALOJAMIENTO Y ALIMENTACIÓN EN LA CIUDAD DE COYHAIQUE",
+   "organismo": "SECRETARIA REGIONAL MINISTERIAL DE EDUCACION XI REGION",
+   "unidad": "Mineduc Administración XI Región",
+   "monto": 544000,
+   "cierre_iso": "2026-10-21T15:30:00-03:00",
+   "publicacion": "19-10 15:46",
+   "publicacion_iso": "2026-10-19T15:46:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "90111802",
+     "Habitación doble",
+     2,
+     "- 01 HABITACIÓN DOBLE CON DESAYUNO INCLUIDO, CHECK IN 09/11/20206, CHECK OUT 10/11/2026. \n- 01 HABITACIÓN DOBLE CON DESAYUNO INCLUIDO, CHECK IN 13/11/2026, CHECK OUT 14/11/2026. \n- LA HABITACIÓN OFRECIDA DEBE CONTAR CON BAÑO PRIVADO, CALEFACCIÓN O CLIMATIZACIÓN, BUENA VENTILACIÓN Y WIFI. \n- EL OFERENTE EN SU PROPUESTA DEBE INDICAR LA DIRECCIÓN DEL HOSPEDAJE. \n- SE PRIORIZARÁ DE PREFERENCIA A LOS PROVEEDORES QUE CUENTEN CON POLITICAS DE REUTIIZACIÓN DE SÁBANAS Y TOALLAS (ESTANDAR HOTELERO)."
+    ],
+    [
+     "90111801",
+     "Habitación sencilla",
+     4,
+     "- 02 HABITACIÓN SINGLE CON DESAYUNO INCLUIDO, CHECK IN 09/11/20206, CHECK OUT 10/11/2026. \n- 02 HABITACIÓN SINGLE CON DESAYUNO INCLUIDO, CHECK IN 13/11/2026, CHECK OUT 14/11/2026. \n- LA HABITACIÓN OFRECIDA DEBE CONTAR CON BAÑO PRIVADO, CALEFACCIÓN O CLIMATIZACIÓN, BUENA VENTILACIÓN Y WIFI. \n- EL OFERENTE EN SU PROPUESTA DEBE INDICAR LA DIRECCIÓN DEL HOSPEDAJE. \n- SE PRIORIZARÁ DE PREFERENCIA A LOS PROVEEDORES QUE CUENTEN CON POLITICAS DE REUTIIZACIÓN DE SÁBANAS Y TOALLAS (ESTANDAR HOTELERO)."
+    ],
+    [
+     "90101501",
+     "Restaurantes",
+     8,
+     "- CENA PARA 04 PERSONAS OFRECIDO EL DÍA 09/11/2026, A LAS 19:30 HRS. \n- CENA PARA 04 PERSONAS OFRECIDO EL DÍA 13/11/2026, A LAS 19:30 HRS. \n- EL MENÚ DEBERÁ CONSIDERAR A LO MENOS: ENTRADA Y/O ENSALDA, PLATO DE FONDO CON ALTERANTIVA DE PROTEINA MAS ACOMPAÑAMIENTO, POSTRE Y BEBESTIBLE NO ALCÓHOLICO.\n- SE DEBE CONSIDERAR ALTERNATIVAS VEGETARIANAS EN CASO DE SER NECESARIO.\n- EL SERVICIO DEBERÁ PRESTARSE DE PREFERENCIA EN LAS MISMAS DEPENDENCIAS DEL HOSPEDAJE."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1758-247-COT26",
+   "sin_detalle": false,
+   "descripcion": "- 02 HABITACIONES SINGLE y 01 HABITACIÓN DOBLE CHECK IN 09/11/20206, CHECK OUT 10/11/2026. \n- 02 HABITACIONES SINGLE y 01 HABITACIÓN DOBLE CHECK IN 13/11/20206, CHECK OUT 14/11/2026. \n- CENA PARA 04 PERSONAS EL DÍA 09/11/2026 Y CENA PARA 04 PERSONAS EL DÍA 13/11/2026. A LAS 19:30 HRS. DE PREFERENCIA EN LAS MISMAS DEPENDENCIAS DEL HOSPEDAJE. \nEL OFERENTE EN SU PROPUESTA DEBE INDICAR LA DIRECCIÓN DEL HOSPEDAJE.\nSE PRIORIZARÁN LAS PROPUESTAS DE OFERENTES QUE CUENTEN CON POLITICAS SUSTENTABLES."
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "climatización"
+   ],
+   "nueva": true,
+   "codigo": "1758-246-COT26",
+   "nombre": "SERVICIO DE ALOJAMIENTO Y ALIMENTACIÓN EN LA CIUDAD DE COYHAIQUE",
+   "organismo": "SECRETARIA REGIONAL MINISTERIAL DE EDUCACION XI REGION",
+   "unidad": "Mineduc Administración XI Región",
+   "monto": 220000,
+   "cierre_iso": "2026-10-21T15:30:00-03:00",
+   "publicacion": "19-10 14:56",
+   "publicacion_iso": "2026-10-19T14:56:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "90111801",
+     "Habitación sencilla",
+     2,
+     "- 01 HABITACIÓN SINGLE CON DESAYUNO INCLUIDO CHECK IN 10/11/2026, CHECK OUT 12/11/2026. \n- LA HABITACIÓN OFRECIDA DEBE CONTAR CON BAÑO PRIVADO, CALEFACCIÓN O CLIMATIZACIÓN, BUENA VENTILACIÓN Y WIFI. \n- EL OFERENTE EN SU PROPUESTA DEBE INDICAR LA DIRECCIÓN DEL HOSPEDAJE. \n- SE PRIORIZARÁ DE PREFERENCIA A LOS PROVEEDORES QUE CUENTEN CON POLITICAS DE REUTIIZACIÓN DE SÁBANAS Y TOALLAS (ESTANDAR HOTELERO). \n- EL OFERENTE EN SU PROPUESTA DEBE INDICAR LA DIRECCIÓN DEL HOSPEDAJE."
+    ],
+    [
+     "90101501",
+     "Restaurantes",
+     3,
+     "- ALMUERZO PARA 01 PERSONA OFRECIDO EL DÍA 11/11/2026, A LAS 13:00 HRS. DE PREFERENCIA EN LAS MISMAS DEPENDENCIAS DEL HOSPEDAJE. \n- SERVICIO DE CENA PARA UNA PERSONA LOS DÍAS 10 Y 11 DE NOVIEMBRE DE 2026 A LAS 19:30 HRS. APROX. \n- EL MENÚ DEBERÁ CONSIDERAR A LO MENOS: ENTRADA Y/O ENSALDA, PLATO DE FONDO CON ALTERANTIVA DE PROTEINA MAS ACOMPAÑAMIENTO, POSTRE Y BEBESTIBLE NO ALCÓHOLICO."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1758-246-COT26",
+   "sin_detalle": false,
+   "descripcion": "- HABITACIÓN SINGLE CON DESAYUNO INCLUIDO CHECK IN 10/11/20206, CHECK OUT 12/11/2026. - ALMUERZO PARA 01 PERSONA OFRECIDO EL DÍA 11/11/2026, A LAS 13:00 HRS. DE PREFERENCIA EN LAS MISMAS DEPENDENCIAS DEL HOSPEDAJE. \n- SERVICIO DE CENA PARA UNA PERSONA LOS DÍAS 10 Y 11 DE NOVIEMBRE DE 2026 A LAS 19:30 HRS. APROX. \n- LA HABITACIÓN OFRECIDA DEBE CONTAR CON BAÑO PRIVADO, CALEFACCIÓN O CLIMATIZACIÓN, BUENA VENTILACIÓN Y WIFI. \n- EL OFERENTE EN SU PROPUESTA DEBE INDICAR LA DIRECCIÓN DEL HOSPEDAJE."
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "climatización"
+   ],
+   "nueva": true,
    "codigo": "1758-245-COT26",
    "nombre": "SERVICIO DE ALOJAMIENTO Y ALIMENTACIÓN EN LA CIUDAD DE COYHAIQUE",
    "organismo": "SECRETARIA REGIONAL MINISTERIAL DE EDUCACION XI REGION",
@@ -655,6 +667,33 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=711-194-COT26",
    "sin_detalle": false,
    "descripcion": "PROCESO DE ADQUISICIÓN PARA EL SERVICIO DE LEVANTAMIENTO ELECTRICO, RETIRO E INSTALACIÓN DE EQUIUPOS DE CLIMATIZACIÓN PARA OFICINAS DE LA SEREMITT DE AYSÉN\n\nLA VISITA ENTERRENO SERÁ EL DÍA 9 DE OCTUBRE A LAS 10:00 HORAS\nVER  REQUERIMIENTO TÉCNICO"
+  },
+  {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Gasfitería, calefacción y aire acondicionado"
+   ],
+   "nueva": true,
+   "codigo": "4889-41-COT26",
+   "nombre": "MANTENIMIENTO SENTINA - OFICINAS SEREMI DE LAS CULTURAS",
+   "organismo": "Subsecretaria de las Culturas y las Artes Región de Aysen",
+   "unidad": "Consejo Regional de Cultura Región de Aysen",
+   "monto": 250000,
+   "cierre_iso": "2026-10-24T15:22:00-03:00",
+   "publicacion": "14-10 16:37",
+   "publicacion_iso": "2026-10-14T16:37:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "72102304",
+     "Mantenimiento o reparación de sistemas de fontanería, gasfitería",
+     1,
+     "MANTENIMIENTO SENTINA - OFICINAS SEREMI DE LAS CULTURAS - Características según archivo adjunto"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=4889-41-COT26",
+   "sin_detalle": false,
+   "descripcion": "MANTENIMIENTO SENTINA - OFICINAS SEREMI DE LAS CULTURAS\nCARACTERÍSTICAS REQUERIDAS SEGUN ARCHIVO ADJUNTO"
   }
  ],
  "historial": [
@@ -671,6 +710,42 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=1449-12-COT26",
    "primera_vista_iso": "2026-10-14T18:54:51-03:00",
    "removida_iso": "2026-10-19T12:02:56-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
+  {
+   "codigo": "3431-116-COT26",
+   "nombre": "FI- Solicitud de cotización para la adquisición de servicio de mantención de la caldera del pabellón del casino de suboficiales de esta unidad.",
+   "organismo": "Ejercito de Chile",
+   "monto": 7100000,
+   "cierre_iso": "2026-10-19T16:00:00-03:00",
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Gasfitería, calefacción y aire acondicionado"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=3431-116-COT26",
+   "primera_vista_iso": "2026-10-15T14:53:38-03:00",
+   "removida_iso": "2026-10-19T16:06:33-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
+  {
+   "codigo": "1057062-464-COT26",
+   "nombre": "Servicio de producción de eventos para el 22 y 23 de octubre en Coyhaique y Puerto Aysén según Fisabs 2297_Programa Orquestas",
+   "organismo": "UNIVERSIDAD DE AYSEN",
+   "monto": 1950000,
+   "cierre_iso": "2026-10-19T16:00:00-03:00",
+   "tipo": "POSIBLE",
+   "motivos": [
+    "iluminación"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1057062-464-COT26",
+   "primera_vista_iso": "2026-10-16T11:00:56-03:00",
+   "removida_iso": "2026-10-19T16:06:33-03:00",
    "estado_api": null,
    "adj_nombre": null,
    "adj_monto": null,
@@ -1469,12 +1544,6 @@
   }
  ],
  "pendientes": [
-  {
-   "codigo": "1692-604-COT26",
-   "nombre": "ADQUISICION DE LACTEOS ,FRUTA, VERDURAS PARA PACIENTES OCTUBRE 2026 HOSPITAL COCHRANE",
-   "organismo": "SERVICIO NACIONAL DE SALUD HOSPITAL DE COCHRANE",
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1692-604-COT26"
-  },
   {
    "codigo": "4144-305-COT26",
    "nombre": "Se requiere la adquisición de alimentos para la \"Conmemoracion de del festival de una tarde 2026\"",

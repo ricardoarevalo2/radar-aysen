@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-10-19T14:52:46.897549-03:00",
+ "actualizado": "2026-10-19T16:06:33.412654-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
- "total_region": 235,
+ "total_region": 240,
  "rubros": {
   "80141600": "Ventas y marketing",
   "82101600": "Publicidad en medios no impresos",
@@ -14,156 +14,6 @@
   "83121700": "Comunicación social y de masas"
  },
  "filas": [
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "spot"
-   ],
-   "nueva": true,
-   "codigo": "4778-331-COT26",
-   "nombre": "ADQUISICION DE INSUMOS CLINICOS PARA MONITOREO DE PACIENTES",
-   "organismo": "SERVICIO NACIONAL DE SALUD HOSPITAL DE C",
-   "unidad": "Compras de Insumos y Servicios Generales",
-   "monto": 5909540,
-   "cierre_iso": "2026-10-19T16:00:00-03:00",
-   "publicacion": "16-10 12:37",
-   "publicacion_iso": "2026-10-16T12:37:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "41111927",
-     "Sensores de presión",
-     20,
-     "U410-205D SENSOR SPO2 CLIP ADULTO 3 M, BIOLIGHT V6"
-    ],
-    [
-     "41111927",
-     "Sensores de presión",
-     10,
-     "U910-205D SENSOR CLIP OREJA 3 M BIOLIGHT V6"
-    ],
-    [
-     "41111927",
-     "Sensores de presión",
-     30,
-     "U410-21MR SENSOR SPO2 ADULTO 3 M / NELLCOR"
-    ],
-    [
-     "41111927",
-     "Sensores de presión",
-     10,
-     "U910-21MR SENSOR OREJA 3 M / GENERAL ELECTRIC"
-    ],
-    [
-     "41111927",
-     "Sensores de presión",
-     10,
-     "U410-48 SENSOR SPO2 CLIP ADULTO 3 M EDAN X 12"
-    ],
-    [
-     "41111927",
-     "Sensores de presión",
-     10,
-     "U410-48 SENSOR SPO2 CLIP DEDO ADULTO EDAN IM12"
-    ],
-    [
-     "41111927",
-     "Sensores de presión",
-     3,
-     "U410-48 SENSOR SPO2 CLIP DEDO ADULTO EDAN IM3"
-    ],
-    [
-     "41111927",
-     "Sensores de presión",
-     5,
-     "U910-48 SENSOR SPO2 OREJA 3 M EDAN IM20"
-    ],
-    [
-     "41111927",
-     "Sensores de presión",
-     2,
-     "U410-189 SENSOR SPO2 CLIP ADULTO 3 M MATTIE MED"
-    ],
-    [
-     "41111927",
-     "Sensores de presión",
-     2,
-     "U410-48MR SENSOR SPO2 ADULTO 3 M, MINDRAY BENEVIEW T5"
-    ],
-    [
-     "41111927",
-     "Sensores de presión",
-     2,
-     "U410-48MR SENSOR SPO2 CLIP ADULTO 3 M, MINDRAY IPM12"
-    ],
-    [
-     "41111927",
-     "Sensores de presión",
-     5,
-     "U410-01XP SENSOR CLIP DEDO ADULTO 3 M WELCH ALLYN SPOT"
-    ],
-    [
-     "41111927",
-     "Sensores de presión",
-     1,
-     "U410-70P SENSOR SPO2 CLIP ADULTO 3 M ALLYN ALLYN PROPAQ"
-    ],
-    [
-     "41111927",
-     "Sensores de presión",
-     2,
-     "U410-205D SENSOR SPO2 CLIP ADULTO 3 M BIOLIGHT S12"
-    ],
-    [
-     "41111927",
-     "Sensores de presión",
-     2,
-     "U410-61D SENSOR SPO2 CLIP ADULTO CREATIVE PC900"
-    ],
-    [
-     "41111927",
-     "Sensores de presión",
-     5,
-     "U410-74 SENSOR SPO2 CLIP DEDO ADULTO 3 M SPACELABS"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=4778-331-COT26",
-   "sin_detalle": false,
-   "descripcion": "ADQUISICION DE INSUMOS CLINICOS PARA MONITOREO DE PACIENTES, SENSORES SPO2, CABLES ECG, BRAZALETES DE PRESION ARTERIAL Y ADAPTADORES DE CONEXION, SEGUN SOLICITUD EXTRAORDINARIA N° 3726/2026 DE LA UNIDAD DE EQUIPOS MEDICOS, SE DEBE ADJUNTAR COTIZACION, ESPECIFICACIONES TECNICAS Y COSIDERAR ENTREGA EN BODEGA KM 5 RECTA FOITZICK CAMINO A BALMACEDA."
-  },
-  {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Ventas y marketing"
-   ],
-   "nueva": false,
-   "codigo": "1057062-464-COT26",
-   "nombre": "Servicio de producción de eventos para el 22 y 23 de octubre en Coyhaique y Puerto Aysén según Fisabs 2297_Programa Orquestas",
-   "organismo": "UNIVERSIDAD DE AYSEN",
-   "unidad": "Proyectos",
-   "monto": 1950000,
-   "cierre_iso": "2026-10-19T16:00:00-03:00",
-   "publicacion": "16-10 10:56",
-   "publicacion_iso": "2026-10-16T10:56:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "80141607",
-     "Producción de eventos",
-     1,
-     "Se requiere servicio de producción para conciertos: el día 22/09 en el Centro Cultural de Coyhaique. Servicio de: prueba de sonido, instalación de sillas, Traslado e instalación gráficas y atriles, Catering para equipo Orquesta (15 personas), sistema de micrófono, Técnico en sonido y dos operadores de cámara según\narchivo adjunto EETT. Cotización debe indicar la especificación técnica de lo ofertado."
-    ],
-    [
-     "80141607",
-     "Producción de eventos",
-     1,
-     "Se requiere servicio de producción para conciertos: el día 23/09 en Puerto Aysén en lugar por confirmar. Servicio de: prueba de sonido, instalación de sillas, Traslado e instalación gráficas y atriles, Catering para equipo Orquesta (15 personas), sistema de micrófono, Técnico en sonido y dos operadores de cámara según\narchivo adjunto EETT. Cotización debe indicar la especificación técnica de lo ofertado."
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1057062-464-COT26",
-   "sin_detalle": false,
-   "descripcion": "Se requiere contratar un servicio de producción de eventos para el 22 y 23 de octubre en Coyhaique y Puerto Aysén. hrs. Servicio de: Traslado e instalación gráficas y atriles, instalación de sillas, Catering para equipo Orquesta, técnico en sonido para manipular grabadora y microfonía y 2 operadores de cámara. Calefacción, iluminación y arriendo de espacios en cerro castillo. Archivo adjunto EETT. Cotización debe indicar la especificación técnica de lo ofertado"
-  },
   {
    "tipo": "POSIBLE",
    "motivos": [
@@ -464,6 +314,60 @@
   {
    "tipo": "OPORTUNIDAD",
    "motivos": [
+    "Fotógrafos y camarógrafos"
+   ],
+   "nueva": true,
+   "codigo": "4733-410-COT26",
+   "nombre": "CAPSULAS DE RADIALES",
+   "organismo": "I MUNICIPALIDAD DE LAS GUAITECAS",
+   "unidad": "I MUNICIPALIDAD DE LAS GUAITECAS",
+   "monto": 150000,
+   "cierre_iso": "2026-10-21T12:00:00-03:00",
+   "publicacion": "19-10 15:08",
+   "publicacion_iso": "2026-10-19T15:08:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "82131603",
+     "Producción de vídeo",
+     1,
+     "PRODUCCION IDENTIDAD SONORA DEL PROYECTO"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=4733-410-COT26",
+   "sin_detalle": false,
+   "descripcion": "Se requiere contratar el servicio de producción identidad sonora del proyecto fondo de medios, según detalle adjunto, adjuntar cotización."
+  },
+  {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Ventas y marketing"
+   ],
+   "nueva": true,
+   "codigo": "1494998-22-COT26",
+   "nombre": "SERVICIO DE APOYO A LA REALIZACION DE TALLERES DE GOBERNANZA EN EL ACMU PITIPALENA-AÑIHUE (PPA) PARA LA DIRECCIÓN REGIONAL DE AYSÉN (SBAP)",
+   "organismo": "Servicio de Biodiversidad y Áreas Protegidas",
+   "unidad": "Dirección Regional de Aysén",
+   "monto": 4000000,
+   "cierre_iso": "2026-10-21T18:00:00-03:00",
+   "publicacion": "19-10 15:19",
+   "publicacion_iso": "2026-10-19T15:19:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "80141607",
+     "Producción de eventos",
+     1,
+     "Servicio de apoyo para la realización exitosa de reunión presencial en modalidad de (2) talleres participativos, para la gobernanza del ACMU - Piti Palena Añihue (PPA). En la localidad de Raúl Marín Balmaceda los días 02, 03 y 04 de noviembre de 2026. De acuerdo al detalle de las EETT, contenidas en los TDR adjuntos."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1494998-22-COT26",
+   "sin_detalle": false,
+   "descripcion": "El Servicio de Biodiversidad y Áreas Protegidas, en adelante el SBAP, llama a proveedores a participar en la presentación de ofertas destinadas a provisionar el servicio de apoyo a la realización de dos (2) talleres de gobernanza en el ACMU-PPA para la Dirección Regional de Aysén del General Carlos Ibáñez del Campo. Considerar EETT en TDR, para el proceso de postulación."
+  },
+  {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
     "Ventas y marketing"
    ],
    "nueva": false,
@@ -571,6 +475,42 @@
   }
  ],
  "historial": [
+  {
+   "codigo": "1057062-464-COT26",
+   "nombre": "Servicio de producción de eventos para el 22 y 23 de octubre en Coyhaique y Puerto Aysén según Fisabs 2297_Programa Orquestas",
+   "organismo": "UNIVERSIDAD DE AYSEN",
+   "monto": 1950000,
+   "cierre_iso": "2026-10-19T16:00:00-03:00",
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Ventas y marketing"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1057062-464-COT26",
+   "primera_vista_iso": "2026-10-16T11:00:56-03:00",
+   "removida_iso": "2026-10-19T16:06:33-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
+  {
+   "codigo": "4778-331-COT26",
+   "nombre": "ADQUISICION DE INSUMOS CLINICOS PARA MONITOREO DE PACIENTES",
+   "organismo": "SERVICIO NACIONAL DE SALUD HOSPITAL DE C",
+   "monto": 5909540,
+   "cierre_iso": "2026-10-19T16:00:00-03:00",
+   "tipo": "POSIBLE",
+   "motivos": [
+    "spot"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=4778-331-COT26",
+   "primera_vista_iso": "2026-10-16T13:57:01-03:00",
+   "removida_iso": "2026-10-19T16:06:33-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
   {
    "codigo": "1201-184-COT26",
    "nombre": "MATERIAL DE DIFUSION, PROGRAMA FORMACION PARA EL DEPORTE, COMPONENTE  ENCUENTROS FORMATIVOS DEPORTIVOS 2026. SEGÚN TDR ADJUNTAS",
@@ -1158,12 +1098,6 @@
   }
  ],
  "pendientes": [
-  {
-   "codigo": "1692-604-COT26",
-   "nombre": "ADQUISICION DE LACTEOS ,FRUTA, VERDURAS PARA PACIENTES OCTUBRE 2026 HOSPITAL COCHRANE",
-   "organismo": "SERVICIO NACIONAL DE SALUD HOSPITAL DE COCHRANE",
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1692-604-COT26"
-  },
   {
    "codigo": "4144-305-COT26",
    "nombre": "Se requiere la adquisición de alimentos para la \"Conmemoracion de del festival de una tarde 2026\"",
