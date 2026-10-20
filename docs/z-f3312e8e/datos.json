@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-10-20T16:54:52.807103-03:00",
+ "actualizado": "2026-10-20T17:55:44.056093-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
- "total_region": 240,
+ "total_region": 245,
  "rubros": {
   "25172700": "Aire acondicionado",
   "25173900": "Componentes eléctricos",
@@ -144,7 +144,7 @@
    "motivos": [
     "generador"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "2495-563-COT26",
    "nombre": " Adquisición de dos notebooks para el Programa 4 a 7 – Escuela Baquedano y Colegio Victor Domingo Silva",
    "organismo": "I MUNICIPALIDAD DE COYHAIQUE",
@@ -228,7 +228,7 @@
    "motivos": [
     "Conectores, enchufes y terminales"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "1233615-823-COT26",
    "nombre": "DMH SOL-2026-01931] Recursos TICS para Escuela \"Litoral Austral\" de Puerto Aysén",
    "organismo": "Servicio Local de Educación Pública Aysén",
@@ -528,7 +528,7 @@
    "motivos": [
     "generador"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "2713-1258-COT26",
    "nombre": "ALCALDIA, Adquisicion de servicio de produccion actividad \"Dia Funcionario Municipal 2026\" folio 1300",
    "organismo": "I MUNICIPALIDAD DE AYSEN",
@@ -1610,6 +1610,18 @@
   }
  ],
  "pendientes": [
+  {
+   "codigo": "1758-252-COT26",
+   "nombre": "MATERIALES DE ALFARERIA PROYECTO EDUCATIVO INTERCULTURAL ESCUELA MARIA ANTONIETA PARRA PUERTO SANCHEZ",
+   "organismo": "SECRETARIA REGIONAL MINISTERIAL DE EDUCACION XI REGION",
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1758-252-COT26"
+  },
+  {
+   "codigo": "1274667-407-COT26",
+   "nombre": "RVB - Materiales para entrenamiento en habilidades de la vida diaria (AVD)",
+   "organismo": "CENTRO DE SALUD FAMILIAR PUERTO AYSÉN",
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1274667-407-COT26"
+  },
   {
    "codigo": "5575-125-COT26",
    "nombre": "ADQUISICIÓN INSUMOS DE RIEGO PARA SERVICIO ÁREAS VERDES CON ENTREGA INMEDIATA",
