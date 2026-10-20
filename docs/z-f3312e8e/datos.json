@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-10-20T13:58:42.801199-03:00",
+ "actualizado": "2026-10-20T14:53:44.894856-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
- "total_region": 236,
+ "total_region": 241,
  "rubros": {
   "25172700": "Aire acondicionado",
   "25173900": "Componentes eléctricos",
@@ -78,7 +78,7 @@
    "motivos": [
     "generador"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "3540-274-COT26",
    "nombre": "REPUESTOS GENERADOR DEE 8KVA KOLVO ",
    "organismo": "Ejercito de Chile",
@@ -768,7 +768,7 @@
    "motivos": [
     "Gasfitería, calefacción y aire acondicionado"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "4889-41-COT26",
    "nombre": "MANTENIMIENTO SENTINA - OFICINAS SEREMI DE LAS CULTURAS",
    "organismo": "Subsecretaria de las Culturas y las Artes Región de Aysen",
@@ -1558,24 +1558,6 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=697209-29-COT26",
    "primera_vista_iso": "2026-10-11T21:06:47-03:00",
    "removida_iso": "2026-10-13T16:55:07-03:00",
-   "estado_api": "",
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "5039-37-COT26",
-   "nombre": "CONSTRUCCIÓN MONOLITO DE IDENTIFICACIÓN HUMEDAL URBANO VIENTOS DEL CHELENKO, PUERTO INGENIERO IBÁÑEZ",
-   "organismo": "I MUNICIPALIDAD RIO IBANEZ",
-   "monto": 1500000,
-   "cierre_iso": "2026-10-13T14:39:00-03:00",
-   "tipo": "POSIBLE",
-   "motivos": [
-    "instalaciones eléctricas"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=5039-37-COT26",
-   "primera_vista_iso": "2026-10-11T21:06:47-03:00",
-   "removida_iso": "2026-10-13T15:51:46-03:00",
    "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,
