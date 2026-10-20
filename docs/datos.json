@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-10-19T19:53:01.377695-03:00",
+ "actualizado": "2026-10-19T20:52:48.585177-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
- "total_region": 255,
+ "total_region": 254,
  "rubros": {
   "80141600": "Ventas y marketing",
   "82101600": "Publicidad en medios no impresos",
@@ -14,33 +14,6 @@
   "83121700": "Comunicación social y de masas"
  },
  "filas": [
-  {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Ventas y marketing"
-   ],
-   "nueva": false,
-   "codigo": "4066-425-COT26",
-   "nombre": "Servicio de Producción de Eventos, Rueda de Negocios, Encuentro de Proveedores de Servicios Turísticos en Puerto Río Tranquilo - COD BIP 40066883-0",
-   "organismo": "I MUNICIPALIDAD RIO IBANEZ",
-   "unidad": "DIDECO",
-   "monto": 2750000,
-   "cierre_iso": "2026-10-19T20:00:00-03:00",
-   "publicacion": "15-10 19:18",
-   "publicacion_iso": "2026-10-15T19:18:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "80141607",
-     "Producción de eventos",
-     1,
-     "Servicio integral de producción de la rueda de negocios del componente 4, sábado 31 de octubre de 2026, jornada de tarde, en Puerto Río Tranquilo. Incluye carpa de 18 x 8 m o similar, amplificación básica, ornamentación y ambientación con armado y desarmado, y transporte de ida y vuelta para hasta 15 prestadores desde Bahía Murta y Puerto Sánchez. Cotizar valor único y total, impuesto incluido, máximo $2.750.000. Requisitos en TDR adjunto."
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=4066-425-COT26",
-   "sin_detalle": false,
-   "descripcion": "Servicio de producción para la rueda de negocios “Encuentro de proveedores de servicios turísticos” (componente 4), que busca afianzar y fortalecer la economía comunal y regional. Sábado 31 de octubre de 2026, jornada de tarde, en Puerto Río Tranquilo. Incluye carpa de 18 x 8 m o similar, amplificación básica, ornamentación y ambientación (armado y desarmado) y bus para hasta 15 prestadores desde Bahía Murta y Puerto Sánchez. Presupuesto: $2.750.000 impuesto incluido. Ver TDR adjunto."
-  },
   {
    "tipo": "POSIBLE",
    "motivos": [
@@ -429,6 +402,24 @@
   }
  ],
  "historial": [
+  {
+   "codigo": "4066-425-COT26",
+   "nombre": "Servicio de Producción de Eventos, Rueda de Negocios, Encuentro de Proveedores de Servicios Turísticos en Puerto Río Tranquilo - COD BIP 40066883-0",
+   "organismo": "I MUNICIPALIDAD RIO IBANEZ",
+   "monto": 2750000,
+   "cierre_iso": "2026-10-19T20:00:00-03:00",
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Ventas y marketing"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=4066-425-COT26",
+   "primera_vista_iso": "2026-10-15T19:50:45-03:00",
+   "removida_iso": "2026-10-19T20:52:48-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
   {
    "codigo": "4066-424-COT26",
    "nombre": "Servicio de Producción de Eventos, Feria Productiva, Lanzamiento Temporada Turística 2026-2027 en Puerto Río Tranquilo - COD BIP 40066883-0",
