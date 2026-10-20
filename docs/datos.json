@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-20T18:55:10.444973-03:00",
+ "actualizado": "2026-10-20T19:53:12.422451-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
  "total_region": 244,
@@ -200,7 +200,7 @@
    "motivos": [
     "Ventas y marketing"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "2495-565-COT26",
    "nombre": "PRODUCCION CEREMONIA COYHAIQUINOS DESTACADOS",
    "organismo": "I MUNICIPALIDAD DE COYHAIQUE",
@@ -1277,22 +1277,10 @@
  ],
  "pendientes": [
   {
-   "codigo": "1758-252-COT26",
-   "nombre": "MATERIALES DE ALFARERIA PROYECTO EDUCATIVO INTERCULTURAL ESCUELA MARIA ANTONIETA PARRA PUERTO SANCHEZ",
-   "organismo": "SECRETARIA REGIONAL MINISTERIAL DE EDUCACION XI REGION",
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1758-252-COT26"
-  },
-  {
    "codigo": "1274667-407-COT26",
    "nombre": "RVB - Materiales para entrenamiento en habilidades de la vida diaria (AVD)",
    "organismo": "CENTRO DE SALUD FAMILIAR PUERTO AYSÉN",
    "link": "https://buscador.mercadopublico.cl/ficha?code=1274667-407-COT26"
-  },
-  {
-   "codigo": "5575-125-COT26",
-   "nombre": "ADQUISICIÓN INSUMOS DE RIEGO PARA SERVICIO ÁREAS VERDES CON ENTREGA INMEDIATA",
-   "organismo": "I MUNICIPALIDAD DE COYHAIQUE",
-   "link": "https://buscador.mercadopublico.cl/ficha?code=5575-125-COT26"
   },
   {
    "codigo": "4644-98-COT26",
