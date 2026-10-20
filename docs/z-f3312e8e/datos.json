@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-10-20T08:56:11.186645-03:00",
+ "actualizado": "2026-10-20T10:11:44.313983-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
- "total_region": 240,
+ "total_region": 238,
  "rubros": {
   "25172700": "Aire acondicionado",
   "25173900": "Componentes eléctricos",
@@ -45,6 +45,33 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=1274667-398-COT26",
    "sin_detalle": false,
    "descripcion": "ADJUNTAR COTIZACION - ADJUNTAR FICHA TECNICA PARA PODER EVALUAR CORRECTAMENTE LA OFERTA - DATOS BANCARIOS - CONTACTO PARA RESOLVER DUDAS - EN CASO DE ADJUDICACION FAVOR EMITIR DESPACHO CON GUIA - MARCAS MENCIONADAS SON SOLAMENTE REFERENCIALES. DETALLES EN DOCUMENTO ADJUNTO."
+  },
+  {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Servicios eléctricos"
+   ],
+   "nueva": true,
+   "codigo": "4066-419-COT26",
+   "nombre": " MANO DE OBRA INSTALACIÓN ELÉCTRICA 2 VIVIENDAS EN LA LOCALIDAD DE PUERTO SÁNCHEZ.",
+   "organismo": "I MUNICIPALIDAD RIO IBANEZ",
+   "unidad": "DIDECO",
+   "monto": 800000,
+   "cierre_iso": "2026-10-21T09:00:00-03:00",
+   "publicacion": "13-10 15:06",
+   "publicacion_iso": "2026-10-13T15:06:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "72102201",
+     "Instalación o servicio de sistemas de energía eléctrica",
+     1,
+     "SERVICIO DE MANO DE OBRA (INSTALACIÓN ELÉCTRICA) SEGÚN TÉRMINOS DE REFERENCIA"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=4066-419-COT26",
+   "sin_detalle": false,
+   "descripcion": "Contratar mano de obra para ejecución de reparación de instalación eléctrica de 2 viviendas de la localidad de Puerto Sánchez. Consistente en obras de mejoramiento de la instalación eléctrica interior las cuales se deberán cumplir con las normativas vigente y las especificaciones técnicas adjuntas. El prestador deberá asegurar la entrega oportuna y conforme de los productos comprometidos en los plazos establecidos, coordinando permanentemente con la Unidad Técnica, según términos de referencias"
   },
   {
    "tipo": "POSIBLE",
@@ -516,24 +543,6 @@
    "primera_vista_iso": "2026-10-14T18:54:51-03:00",
    "removida_iso": "2026-10-19T12:02:56-03:00",
    "estado_api": null,
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "4066-419-COT26",
-   "nombre": " MANO DE OBRA INSTALACIÓN ELÉCTRICA 2 VIVIENDAS EN LA LOCALIDAD DE PUERTO SÁNCHEZ.",
-   "organismo": "I MUNICIPALIDAD RIO IBANEZ",
-   "monto": 800000,
-   "cierre_iso": "2026-10-21T09:00:00-03:00",
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Servicios eléctricos"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=4066-419-COT26",
-   "primera_vista_iso": "2026-10-13T15:51:46-03:00",
-   "removida_iso": "2026-10-20T08:56:11-03:00",
-   "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,
    "adj_iso": null
@@ -1326,89 +1335,9 @@
    "adj_nombre": null,
    "adj_monto": null,
    "adj_iso": null
-  },
-  {
-   "codigo": "1403-434-COT26",
-   "nombre": "COMPRA DE MATERIALES REPARACION Y MEJORAMIENTO BODEGA ALIMENTACIÓN CDP PTO AYSEN ",
-   "organismo": "Dirección Regional de Gendarmeria - Coyhaique",
-   "monto": 750000,
-   "cierre_iso": "2026-10-13T10:10:00-03:00",
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Cables eléctricos y accesorios",
-    "Cajas y accesorios eléctricos",
-    "Interruptores, controles y relés"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1403-434-COT26",
-   "primera_vista_iso": "2026-10-11T21:06:47-03:00",
-   "removida_iso": "2026-10-13T10:48:49-03:00",
-   "estado_api": "",
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "1403-437-COT26",
-   "nombre": "ADQUISICIÓN BAÑO MARÍA PARA SERV. ALIM. CCP COYHAIQUE",
-   "organismo": "Dirección Regional de Gendarmeria - Coyhaique",
-   "monto": 1200000,
-   "cierre_iso": "2026-10-13T10:00:00-03:00",
-   "tipo": "POSIBLE",
-   "motivos": [
-    "eléctrico"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1403-437-COT26",
-   "primera_vista_iso": "2026-10-11T21:06:47-03:00",
-   "removida_iso": "2026-10-13T10:48:49-03:00",
-   "estado_api": "",
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "3540-252-COT26",
-   "nombre": "CORTA CORRIENTE 24 V 100AMP",
-   "organismo": "Ejercito de Chile",
-   "monto": 90000,
-   "cierre_iso": "2026-10-13T10:00:00-03:00",
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Cajas y accesorios eléctricos"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=3540-252-COT26",
-   "primera_vista_iso": "2026-10-11T21:06:47-03:00",
-   "removida_iso": "2026-10-13T10:48:49-03:00",
-   "estado_api": "",
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "3950-651-COT26",
-   "nombre": "Señaléticas de información para abastecer en postas rurales",
-   "organismo": "DIRECCION SALUD RURAL",
-   "monto": 300000,
-   "cierre_iso": "2026-10-13T09:00:00-03:00",
-   "tipo": "POSIBLE",
-   "motivos": [
-    "generador"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=3950-651-COT26",
-   "primera_vista_iso": "2026-10-11T21:06:47-03:00",
-   "removida_iso": "2026-10-13T09:52:56-03:00",
-   "estado_api": "",
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
   }
  ],
  "pendientes": [
-  {
-   "codigo": "2495-557-COT26",
-   "nombre": "Materiales de oficina PRLAC",
-   "organismo": "I MUNICIPALIDAD DE COYHAIQUE",
-   "link": "https://buscador.mercadopublico.cl/ficha?code=2495-557-COT26"
-  },
   {
    "codigo": "1449-12-COT26",
    "nombre": "Adquisición de materiales de oficina ",

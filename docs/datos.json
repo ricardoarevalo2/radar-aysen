@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-10-20T08:56:11.186645-03:00",
+ "actualizado": "2026-10-20T10:11:44.313983-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
- "total_region": 240,
+ "total_region": 238,
  "rubros": {
   "80141600": "Ventas y marketing",
   "82101600": "Publicidad en medios no impresos",
@@ -14,33 +14,6 @@
   "83121700": "Comunicación social y de masas"
  },
  "filas": [
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "radio"
-   ],
-   "nueva": false,
-   "codigo": "4144-304-COT26",
-   "nombre": "Se requiere la adquisicion de un equipo de radio portatil para la localidad de Villa Amengual",
-   "organismo": "I MUNICIPALIDAD DE LAGO VERDE",
-   "unidad": "Finanzas",
-   "monto": 100000,
-   "cierre_iso": "2026-10-20T10:00:00-03:00",
-   "publicacion": "15-10 11:31",
-   "publicacion_iso": "2026-10-15T11:31:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "43221704",
-     "Equipo básico de radio",
-     1,
-     "kit de 2 radios portatiles  VHF/UHF segun TDR adjunto"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=4144-304-COT26",
-   "sin_detalle": false,
-   "descripcion": "Se requiere la adquisicion de un equipo de radio portatil para la localidad de Villa Amengual"
-  },
   {
    "tipo": "OPORTUNIDAD",
    "motivos": [
@@ -284,6 +257,33 @@
    "motivos": [
     "Ventas y marketing"
    ],
+   "nueva": true,
+   "codigo": "1494998-22-COT26",
+   "nombre": "SERVICIO DE APOYO A LA REALIZACION DE TALLERES DE GOBERNANZA EN EL ACMU PITIPALENA-AÑIHUE (PPA) PARA LA DIRECCIÓN REGIONAL DE AYSÉN (SBAP)",
+   "organismo": "Servicio de Biodiversidad y Áreas Protegidas",
+   "unidad": "Dirección Regional de Aysén",
+   "monto": 4000000,
+   "cierre_iso": "2026-10-21T18:00:00-03:00",
+   "publicacion": "19-10 15:19",
+   "publicacion_iso": "2026-10-19T15:19:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "80141607",
+     "Producción de eventos",
+     1,
+     "Servicio de apoyo para la realización exitosa de reunión presencial en modalidad de (2) talleres participativos, para la gobernanza del ACMU - Piti Palena Añihue (PPA). En la localidad de Raúl Marín Balmaceda los días 02, 03 y 04 de noviembre de 2026. De acuerdo al detalle de las EETT, contenidas en los TDR adjuntos."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1494998-22-COT26",
+   "sin_detalle": false,
+   "descripcion": "El Servicio de Biodiversidad y Áreas Protegidas, en adelante el SBAP, llama a proveedores a participar en la presentación de ofertas destinadas a provisionar el servicio de apoyo a la realización de dos (2) talleres de gobernanza en el ACMU-PPA para la Dirección Regional de Aysén del General Carlos Ibáñez del Campo. Considerar EETT en TDR, para el proceso de postulación."
+  },
+  {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Ventas y marketing"
+   ],
    "nueva": false,
    "codigo": "4733-395-COT26",
    "nombre": "CONCIERTO DE NAVIDAD",
@@ -311,7 +311,7 @@
    "motivos": [
     "Ventas y marketing"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "1746-241-COT26",
    "nombre": "MUESTRA GASTRONÓMICA (P 493 DSP)",
    "organismo": "SUBSECRETARIA DE SALUD PUBLICA",
@@ -430,6 +430,24 @@
   }
  ],
  "historial": [
+  {
+   "codigo": "4144-304-COT26",
+   "nombre": "Se requiere la adquisicion de un equipo de radio portatil para la localidad de Villa Amengual",
+   "organismo": "I MUNICIPALIDAD DE LAGO VERDE",
+   "monto": 100000,
+   "cierre_iso": "2026-10-20T10:00:00-03:00",
+   "tipo": "POSIBLE",
+   "motivos": [
+    "radio"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=4144-304-COT26",
+   "primera_vista_iso": "2026-10-15T11:57:55-03:00",
+   "removida_iso": "2026-10-20T10:11:44-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
   {
    "codigo": "4066-425-COT26",
    "nombre": "Servicio de Producción de Eventos, Rueda de Negocios, Encuentro de Proveedores de Servicios Turísticos en Puerto Río Tranquilo - COD BIP 40066883-0",
@@ -994,70 +1012,9 @@
    "adj_nombre": null,
    "adj_monto": null,
    "adj_iso": null
-  },
-  {
-   "codigo": "1201-174-COT26",
-   "nombre": "CREDENCIALES DELEGACIÓN REGIÓN DE AYSÉN 2026 JUEGOS BINACIONALES DE LA ARAUCANÍA y PARA ARAUCANÍA",
-   "organismo": "INSTITUTO NACIONAL DE DEPORTES DE CHILE",
-   "monto": 150000,
-   "cierre_iso": "2026-10-13T10:00:00-03:00",
-   "tipo": "POSIBLE",
-   "motivos": [
-    "publicidad",
-    "publicitarios"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1201-174-COT26",
-   "primera_vista_iso": "2026-10-11T21:06:47-03:00",
-   "removida_iso": "2026-10-13T10:48:49-03:00",
-   "estado_api": "",
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "3950-651-COT26",
-   "nombre": "Señaléticas de información para abastecer en postas rurales",
-   "organismo": "DIRECCION SALUD RURAL",
-   "monto": 300000,
-   "cierre_iso": "2026-10-13T09:00:00-03:00",
-   "tipo": "POSIBLE",
-   "motivos": [
-    "publicitarios"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=3950-651-COT26",
-   "primera_vista_iso": "2026-10-11T21:06:47-03:00",
-   "removida_iso": "2026-10-13T09:52:56-03:00",
-   "estado_api": "",
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "1332-38-COT26",
-   "nombre": "SERVICIO DE PRODUCCIÓN DE SEMINARIO DE TURISMO AYSENTIDO EN TU RELATO",
-   "organismo": "Servicio Nacional de Turismo",
-   "monto": 3200000,
-   "cierre_iso": "2026-10-13T09:00:00-03:00",
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Ventas y marketing"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1332-38-COT26",
-   "primera_vista_iso": "2026-10-11T21:06:47-03:00",
-   "removida_iso": "2026-10-13T09:52:56-03:00",
-   "estado_api": "",
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
   }
  ],
  "pendientes": [
-  {
-   "codigo": "2495-557-COT26",
-   "nombre": "Materiales de oficina PRLAC",
-   "organismo": "I MUNICIPALIDAD DE COYHAIQUE",
-   "link": "https://buscador.mercadopublico.cl/ficha?code=2495-557-COT26"
-  },
   {
    "codigo": "1449-12-COT26",
    "nombre": "Adquisición de materiales de oficina ",
