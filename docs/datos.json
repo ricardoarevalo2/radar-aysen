@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-10-20T07:55:55.466040-03:00",
+ "actualizado": "2026-10-20T08:56:11.186645-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
- "total_region": 253,
+ "total_region": 240,
  "rubros": {
   "80141600": "Ventas y marketing",
   "82101600": "Publicidad en medios no impresos",
@@ -67,6 +67,34 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=1233615-819-COT26",
    "sin_detalle": false,
    "descripcion": "Kit estudiante destacado (lápiz, cuaderno, estuche y llavero personalizados con logo del Liceo Bicentenario Luisa Rabanal y SLEP)"
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "marketing",
+    "publicidad"
+   ],
+   "nueva": true,
+   "codigo": "1182705-193-COT26",
+   "nombre": "Estampado Sublimación Logo CFT Estatal Aysen \"TNS En Veterinaria y Producción Agropecuaria\" en trajes de cirugia alumnos Diurnos y Vesperinos.\t\t\t\t\t\t\t\t\t\t\t\t\t",
+   "organismo": "CENTRO DE FORMACIÓN TÉCNICA DE LA REGIÓN DE AYSÉN DEL GENERAL CARLOS I",
+   "unidad": "FINANZAS",
+   "monto": 163000,
+   "cierre_iso": "2026-10-21T09:34:00-03:00",
+   "publicacion": "15-10 15:13",
+   "publicacion_iso": "2026-10-15T15:13:00-03:00",
+   "ofertas": 3,
+   "productos": [
+    [
+     "60105409",
+     "Materiales educativos de publicidad y marketing de marca",
+     39,
+     "Estampado Sublimación Logo CFT Estatal Aysen \"TNS En Veterinaria y Producción Agropecuaria\" en trajes de cirugía alumnos Diurnos y Vespertinos, la entrega de logo deberá ser coordinada al siguiente correo: g.duran@aysencft.cl (Gypsy Duran)"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1182705-193-COT26",
+   "sin_detalle": false,
+   "descripcion": "Se solicita estampado del logo Institucional y el nombre de la carrera de TNS en Veterinaria y Producción agropecuaria, en trajes de cirugia para 39 alumnos de Sección Diurna y Vespertina, se solicita incluir en el servicio el retiro y entrega de los trajes."
   },
   {
    "tipo": "POSIBLE",
@@ -659,25 +687,6 @@
    "adj_iso": null
   },
   {
-   "codigo": "1182705-193-COT26",
-   "nombre": "Estampado Sublimación Logo CFT Estatal Aysen \"TNS En Veterinaria y Producción Agropecuaria\" en trajes de cirugia alumnos Diurnos y Vesperinos.\t\t\t\t\t\t\t\t\t\t\t\t\t",
-   "organismo": "CENTRO DE FORMACIÓN TÉCNICA DE LA REGIÓN DE AYSÉN DEL GENERAL CARLOS I",
-   "monto": 163000,
-   "cierre_iso": "2026-10-16T16:00:00-03:00",
-   "tipo": "POSIBLE",
-   "motivos": [
-    "marketing",
-    "publicidad"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1182705-193-COT26",
-   "primera_vista_iso": "2026-10-15T16:05:38-03:00",
-   "removida_iso": "2026-10-16T16:50:54-03:00",
-   "estado_api": "",
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
    "codigo": "1057062-460-COT26",
    "nombre": "Servicio de alojamiento para músicos_Programa Orquesta_FISABS 2317",
    "organismo": "UNIVERSIDAD DE AYSEN",
@@ -1036,24 +1045,6 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=1332-38-COT26",
    "primera_vista_iso": "2026-10-11T21:06:47-03:00",
    "removida_iso": "2026-10-13T09:52:56-03:00",
-   "estado_api": "",
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "3950-649-COT26",
-   "nombre": "Afiches para promoción de prevención de colonrrectal.",
-   "organismo": "DIRECCION SALUD RURAL",
-   "monto": 200000,
-   "cierre_iso": "2026-10-13T08:00:00-03:00",
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Ventas y marketing"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=3950-649-COT26",
-   "primera_vista_iso": "2026-10-11T21:06:47-03:00",
-   "removida_iso": "2026-10-13T08:42:41-03:00",
    "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,

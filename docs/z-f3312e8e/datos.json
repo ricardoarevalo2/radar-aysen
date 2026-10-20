@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-10-20T07:55:55.466040-03:00",
+ "actualizado": "2026-10-20T08:56:11.186645-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
- "total_region": 253,
+ "total_region": 240,
  "rubros": {
   "25172700": "Aire acondicionado",
   "25173900": "Componentes eléctricos",
@@ -19,231 +19,6 @@
   "39121400": "Conectores, enchufes y terminales"
  },
  "filas": [
-  {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Conectores, enchufes y terminales"
-   ],
-   "nueva": false,
-   "codigo": "4644-86-COT26",
-   "nombre": "MATERIALES DE ESCRITORIO GORE MAÑIHUALES SIC:430  SIRE:404",
-   "organismo": "CORP NACIONAL FORESTAL",
-   "unidad": "XI Región - Oficina Provincial Aysen",
-   "monto": 1000000,
-   "cierre_iso": "2026-10-20T10:00:00-03:00",
-   "publicacion": "13-10 12:54",
-   "publicacion_iso": "2026-10-13T12:54:00-03:00",
-   "ofertas": 2,
-   "productos": [
-    [
-     "14111610",
-     "Cartulina",
-     5,
-     "Cartulina de colores surtidos. Puede ser de 12, 14,18 láminas, colores de 12, 14,17. Con tamaño aproximado de 26,5x37.5 cm y gramaje entre 150y 180 g/m2."
-    ],
-    [
-     "14111610",
-     "Cartulina",
-     5,
-     "Cartulina de goma Eva. Compuesto por 10 láminas de 10 colores diferentes, tamaño aprox de 20x30cm, espesor de 2mm, flexible y liviana."
-    ],
-    [
-     "14111610",
-     "Cartulina",
-     5,
-     "Cartulina de papel entretenido. Compuesto por 9 láminas con al menos 18 diseños diferentes, tamaño aprox de 32x24cm, con motivos decorativos y colores variados."
-    ],
-    [
-     "44121708",
-     "Marcadores",
-     1,
-     "Plumones de pizarra color rojo, formato caja de 12 unidades."
-    ],
-    [
-     "44121701",
-     "Lápiz pasta",
-     1,
-     "Lápiz pasta tinta color azul, punta media (1.0mm), formato caja de  50 unidades."
-    ],
-    [
-     "44121708",
-     "Marcadores",
-     2,
-     "Caja de 24 marcadores permanentes de colores surtidos, con tinta de secado rápido, resistente al agua y de baja decoloración. Punta fina de aprox 1mm, trazo definido, cuerpo cilíndrico y tapa de colores con cierre seguro. Aptos para escribir y marcar sobre papel, cartón, plástico, metal y otras superficies no porosas."
-    ],
-    [
-     "31201611",
-     "Adhesivos de láminas",
-     5,
-     "Laminas para termo laminar tamaño oficio, formato de  100 unidades."
-    ],
-    [
-     "31201611",
-     "Adhesivos de láminas",
-     10,
-     "Laminas para termo laminar tamaño carta, formato de  100 unidades."
-    ],
-    [
-     "44121631",
-     "Distribuidores de pegamento o recambios",
-     2,
-     "Cola fría presentación 250ml."
-    ],
-    [
-     "12352310",
-     "Siliconas",
-     2,
-     "Silicona líquida, presentación 100ml."
-    ],
-    [
-     "44121618",
-     "Tijeras",
-     2,
-     "Tijera de escritorio de 20,96 cm punta roma."
-    ],
-    [
-     "44121615",
-     "Corcheteras",
-     1,
-     "Engrapadora manual, color roja, peso 300g. usa grapas 53/6 y 53/10, material de plástico ABS."
-    ],
-    [
-     "44121615",
-     "Corcheteras",
-     5,
-     "Corchete engrapadora. 27/64” ancho y alto 5/16”, calibre 24 gauge. Formato 1000 unidades."
-    ],
-    [
-     "14111525",
-     "Papel multiuso",
-     35,
-     "Resma hoja carta, 500 hojas."
-    ],
-    [
-     "32101622",
-     "Memoria flash",
-     5,
-     "Pendrive con capacidad mínima de 32 GB, interfaz USB tipo A, compatible con computadores de uso habitual. Diseño compacto, con tapa protectora o sistema retráctil, conexión USB 2.0 o superior y compatibilidad con sistemas operativos actuales."
-    ],
-    [
-     "14111530",
-     "Notas de papel autoadhesivo",
-     20,
-     "Blocs de notas adhesivas (tipo Post-it) tamaño clásico 7.5 cm x 7.5 cm. Colores variados formato 400 hojas."
-    ],
-    [
-     "44102002",
-     "Sobres de laminador",
-     100,
-     "Sobre tipo DL, Americano con dimensiones de largo 22cm y ancho 11 cm. Color blanco."
-    ],
-    [
-     "14111525",
-     "Papel multiuso",
-     3,
-     "Papel autoadhesivo tamaño oficio, formato caja de  50 hojas"
-    ],
-    [
-     "14111525",
-     "Papel multiuso",
-     4,
-     "Papel autoadhesivo tamaño carta, caja de  50 hojas"
-    ],
-    [
-     "39121402",
-     "Enchufes eléctricos",
-     3,
-     "Alargador 150 cm."
-    ],
-    [
-     "44111509",
-     "Portalápiz",
-     5,
-     "Porta lápices de escritorio fabricado en plástico resistente o malla metálica, con base estable antideslizante y compartimiento para lápices, marcadores, clips, etc. Medidas aproximadas de 10x10x12cm, color a elección del proveedor."
-    ],
-    [
-     "46182202",
-     "Apoya codos",
-     1,
-     "Apoya brazos escritorio."
-    ],
-    [
-     "43211802",
-     "Almohadillas de ratón o mousepad",
-     1,
-     "Mouse pad."
-    ],
-    [
-     "26111702",
-     "Pilas alcalinas",
-     8,
-     "Pilas recargables AA."
-    ],
-    [
-     "43211802",
-     "Almohadillas de ratón o mousepad",
-     1,
-     "Mouse óptico inalámbrico con conexión mediante receptor USB de 2,4 GHz, resolución mínima de 1.000 DPI, dos botones como mínimo y rueda de desplazamiento. Alimentación mediante pila."
-    ],
-    [
-     "44111516",
-     "Agendas",
-     5,
-     "Agenda anual año 2027, en idioma español, con tapa dura o semirrígida, encuadernación resistente y cierre mediante elástico. Formato aprox de 14x20cm, con calendario anual, planificación mensual y semanal o diaria, feriados de Chile y hojas para notas."
-    ],
-    [
-     "44112001",
-     "Libretas de direcciones",
-     5,
-     "Libreta de apuntes tamaño  (15,6X10,8 cm), encuadernación resistente, tapa dura o similar."
-    ],
-    [
-     "44101723",
-     "Bandejas de varios depósitos",
-     5,
-     "Bandeja organizadora de documentos de escritorio fabricada en plástico rígido de alta resistencia, destinada a organizar documentos de tamaño carta y oficio. Diseño apilable o de tres niveles, con estructura estable y acceso frontal para retirar documentos. Color negro, gris. Medidas aprox de 35x25x25cm para el conjunto de tres niveles."
-    ],
-    [
-     "44121612",
-     "Cuchillos cartoneros",
-     2,
-     "Cuchillo cartonero semiprofesional, de uso manual, con cuerpo fabricado en plástico ABS de alta resistencia y/o estructura metálica, sistema de bloqueo de seguridad de la cuchilla. Con cuchilla segmentada de acero de aprox 18mm de ancho con sistema de avance y retracción regulable. Largo entre 15 a 18cm. Incluir al menos 1 cuchilla instalada."
-    ],
-    [
-     "44122101",
-     "Gomas elásticas",
-     2,
-     "Bolsa elástico de billete. Bolsa con 100 unidades de elásticos de goma de colores surtidos. Con diámetro aprox de 30 a 40mm."
-    ],
-    [
-     "43201402",
-     "Tarjetas de módulo de memoria",
-     4,
-     "Tarjeta SD 32 Gb."
-    ],
-    [
-     "44121620",
-     "Dedo de goma",
-     5,
-     "Dedal de goma."
-    ],
-    [
-     "44121802",
-     "Líquido corrector",
-     5,
-     "Corrector liquido lápiz."
-    ],
-    [
-     "44121619",
-     "Sacapuntas",
-     4,
-     "Sacapuntas con dos orificios de distinto diámetro, uno para lápices grafito de tamaño estándar y otro de mayor diámetro compatible con lápices de carpintero de sección rectangular u ovalada. Debe contar con cuchillas metálicas de acero, depósito para residuos."
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=4644-86-COT26",
-   "sin_detalle": false,
-   "descripcion": "CONAF requiere y adquirir materiales y utiles de escritorio para el personal de faena, Área Intervención Mañihuales. Despacho en Oficina CONAF en Puerto Aysén ubicada en ruta 240 KM 2 Camino Aysén -Coyhaique  Región de Aysén."
-  },
   {
    "tipo": "OPORTUNIDAD",
    "motivos": [
@@ -270,33 +45,6 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=1274667-398-COT26",
    "sin_detalle": false,
    "descripcion": "ADJUNTAR COTIZACION - ADJUNTAR FICHA TECNICA PARA PODER EVALUAR CORRECTAMENTE LA OFERTA - DATOS BANCARIOS - CONTACTO PARA RESOLVER DUDAS - EN CASO DE ADJUDICACION FAVOR EMITIR DESPACHO CON GUIA - MARCAS MENCIONADAS SON SOLAMENTE REFERENCIALES. DETALLES EN DOCUMENTO ADJUNTO."
-  },
-  {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Servicios eléctricos"
-   ],
-   "nueva": false,
-   "codigo": "4066-419-COT26",
-   "nombre": " MANO DE OBRA INSTALACIÓN ELÉCTRICA 2 VIVIENDAS EN LA LOCALIDAD DE PUERTO SÁNCHEZ.",
-   "organismo": "I MUNICIPALIDAD RIO IBANEZ",
-   "unidad": "DIDECO",
-   "monto": 800000,
-   "cierre_iso": "2026-10-21T09:00:00-03:00",
-   "publicacion": "13-10 15:06",
-   "publicacion_iso": "2026-10-13T15:06:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "72102201",
-     "Instalación o servicio de sistemas de energía eléctrica",
-     1,
-     "SERVICIO DE MANO DE OBRA (INSTALACIÓN ELÉCTRICA) SEGÚN TÉRMINOS DE REFERENCIA"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=4066-419-COT26",
-   "sin_detalle": false,
-   "descripcion": "Contratar mano de obra para ejecución de reparación de instalación eléctrica de 2 viviendas de la localidad de Puerto Sánchez. Consistente en obras de mejoramiento de la instalación eléctrica interior las cuales se deberán cumplir con las normativas vigente y las especificaciones técnicas adjuntas. El prestador deberá asegurar la entrega oportuna y conforme de los productos comprometidos en los plazos establecidos, coordinando permanentemente con la Unidad Técnica, según términos de referencias"
   },
   {
    "tipo": "POSIBLE",
@@ -767,6 +515,42 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=1449-12-COT26",
    "primera_vista_iso": "2026-10-14T18:54:51-03:00",
    "removida_iso": "2026-10-19T12:02:56-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
+  {
+   "codigo": "4066-419-COT26",
+   "nombre": " MANO DE OBRA INSTALACIÓN ELÉCTRICA 2 VIVIENDAS EN LA LOCALIDAD DE PUERTO SÁNCHEZ.",
+   "organismo": "I MUNICIPALIDAD RIO IBANEZ",
+   "monto": 800000,
+   "cierre_iso": "2026-10-21T09:00:00-03:00",
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Servicios eléctricos"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=4066-419-COT26",
+   "primera_vista_iso": "2026-10-13T15:51:46-03:00",
+   "removida_iso": "2026-10-20T08:56:11-03:00",
+   "estado_api": "",
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
+  {
+   "codigo": "4644-86-COT26",
+   "nombre": "MATERIALES DE ESCRITORIO GORE MAÑIHUALES SIC:430  SIRE:404",
+   "organismo": "CORP NACIONAL FORESTAL",
+   "monto": 1000000,
+   "cierre_iso": "2026-10-20T10:00:00-03:00",
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Conectores, enchufes y terminales"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=4644-86-COT26",
+   "primera_vista_iso": "2026-10-14T06:57:02-03:00",
+   "removida_iso": "2026-10-20T08:56:11-03:00",
    "estado_api": null,
    "adj_nombre": null,
    "adj_monto": null,
