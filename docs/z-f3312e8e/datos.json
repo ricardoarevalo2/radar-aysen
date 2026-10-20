@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-10-20T10:11:44.313983-03:00",
+ "actualizado": "2026-10-20T11:03:01.981612-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
- "total_region": 238,
+ "total_region": 230,
  "rubros": {
   "25172700": "Aire acondicionado",
   "25173900": "Componentes eléctricos",
@@ -471,6 +471,33 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=2713-1258-COT26",
    "sin_detalle": false,
    "descripcion": "Adquisicion de servicio integral de producción de la actividad “Día del Funcionario Municipal 2026”,a realizarse el 28 de octubre de 2026 en el gimnasio IND de Puerto Aysén,segun detalles y especificaciones tecnicas adjuntas, las ofertas que sobrepasen el presupuesto disponible, no presenten propuesta conceptual y metodologica, con cumplan con los servicios requeridos, no cumplan con las especificaciones tecnicas adjuntas,seran declaradas inadmisibles."
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "generador"
+   ],
+   "nueva": true,
+   "codigo": "3950-674-COT26",
+   "nombre": "Señaleticas de información ",
+   "organismo": "DIRECCION SALUD RURAL",
+   "unidad": "Dirección de Salud Rural",
+   "monto": 100000,
+   "cierre_iso": "2026-10-22T08:00:00-03:00",
+   "publicacion": "20-10 10:54",
+   "publicacion_iso": "2026-10-20T10:54:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "82101501",
+     "Letreros publicitarios",
+     14,
+     "Servicio de impresión de letreros laminado en trovisel, fondo blanco con letras negras mayúsculas (14x6,8 pulgadas) formato horizontal, de exterior con las siguientes cantidades y espesificación.\n3 sala de reas\n2 sala de generador \n3 sala de caldera \n1 bodega de leña \n1 bodega de combustible \n1 entrada \n1 baño solo funcionarios \n2 box multipropósito"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=3950-674-COT26",
+   "sin_detalle": false,
+   "descripcion": "Con despacho incluido"
   },
   {
    "tipo": "POSIBLE",
@@ -1317,27 +1344,15 @@
    "adj_nombre": null,
    "adj_monto": null,
    "adj_iso": null
-  },
-  {
-   "codigo": "3791-1017-COT26",
-   "nombre": "REPUESTOS MAQUINARIAS",
-   "organismo": "I MUNICIPALIDAD DE CISNES",
-   "monto": 312900,
-   "cierre_iso": "2026-10-13T10:30:00-03:00",
-   "tipo": "POSIBLE",
-   "motivos": [
-    "ampolleta"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=3791-1017-COT26",
-   "primera_vista_iso": "2026-10-11T21:06:47-03:00",
-   "removida_iso": "2026-10-13T10:48:49-03:00",
-   "estado_api": "",
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
   }
  ],
  "pendientes": [
+  {
+   "codigo": "4644-98-COT26",
+   "nombre": "Elementos de Protección Personal, Área de Intervención Vivero el Mallín SIC 450/414",
+   "organismo": "CORP NACIONAL FORESTAL",
+   "link": "https://buscador.mercadopublico.cl/ficha?code=4644-98-COT26"
+  },
   {
    "codigo": "1449-12-COT26",
    "nombre": "Adquisición de materiales de oficina ",

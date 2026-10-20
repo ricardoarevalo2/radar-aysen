@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-10-20T10:11:44.313983-03:00",
+ "actualizado": "2026-10-20T11:03:01.981612-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
- "total_region": 238,
+ "total_region": 230,
  "rubros": {
   "80141600": "Ventas y marketing",
   "82101600": "Publicidad en medios no impresos",
@@ -255,29 +255,56 @@
   {
    "tipo": "OPORTUNIDAD",
    "motivos": [
-    "Ventas y marketing"
+    "Comunicación social y de masas"
    ],
    "nueva": true,
-   "codigo": "1494998-22-COT26",
-   "nombre": "SERVICIO DE APOYO A LA REALIZACION DE TALLERES DE GOBERNANZA EN EL ACMU PITIPALENA-AÑIHUE (PPA) PARA LA DIRECCIÓN REGIONAL DE AYSÉN (SBAP)",
-   "organismo": "Servicio de Biodiversidad y Áreas Protegidas",
-   "unidad": "Dirección Regional de Aysén",
-   "monto": 4000000,
-   "cierre_iso": "2026-10-21T18:00:00-03:00",
-   "publicacion": "19-10 15:19",
-   "publicacion_iso": "2026-10-19T15:19:00-03:00",
+   "codigo": "1195-527-COT26",
+   "nombre": " PLAN 2 MESES DE STARLINK ITINERANTE",
+   "organismo": "I MUNICIPALIDAD DE COYHAIQUE",
+   "unidad": "Ilustre Municipalidad de Coyhaique",
+   "monto": 200000,
+   "cierre_iso": "2026-10-22T08:00:00-03:00",
+   "publicacion": "20-10 10:57",
+   "publicacion_iso": "2026-10-20T10:57:00-03:00",
    "ofertas": 0,
    "productos": [
     [
-     "80141607",
-     "Producción de eventos",
-     1,
-     "Servicio de apoyo para la realización exitosa de reunión presencial en modalidad de (2) talleres participativos, para la gobernanza del ACMU - Piti Palena Añihue (PPA). En la localidad de Raúl Marín Balmaceda los días 02, 03 y 04 de noviembre de 2026. De acuerdo al detalle de las EETT, contenidas en los TDR adjuntos."
+     "83121703",
+     "Servicios relacionados con Internet",
+     2,
+     "PLAN 2 MESES SEGUN DESCRIPCION"
     ]
    ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1494998-22-COT26",
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1195-527-COT26",
    "sin_detalle": false,
-   "descripcion": "El Servicio de Biodiversidad y Áreas Protegidas, en adelante el SBAP, llama a proveedores a participar en la presentación de ofertas destinadas a provisionar el servicio de apoyo a la realización de dos (2) talleres de gobernanza en el ACMU-PPA para la Dirección Regional de Aysén del General Carlos Ibáñez del Campo. Considerar EETT en TDR, para el proceso de postulación."
+   "descripcion": "SE REQUIERE ADQUIRIR MENSUALIDAD POR 2 MESES DE INTERNET STARLINK EN SU MODALIDAD ITINERANTE, EL MUNICIPIO CUENTA CON EL EQUIPO, POR LO QUE SOLO ES NECESARIO EL PLAN CON DATOS ILIMITADOS, SE RELIZARA PAGO MENSUAL , ES DECIR 2 ESTADOS DE PAGO, ENTREGA INMEDIATA UNA VEZ ACEPTADA LA ORDEN DE COMPRA, SE REQUIERE ADEMAS SOPORTE CUANDO SE REQUIERA"
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "publicitarios"
+   ],
+   "nueva": true,
+   "codigo": "3950-674-COT26",
+   "nombre": "Señaleticas de información ",
+   "organismo": "DIRECCION SALUD RURAL",
+   "unidad": "Dirección de Salud Rural",
+   "monto": 100000,
+   "cierre_iso": "2026-10-22T08:00:00-03:00",
+   "publicacion": "20-10 10:54",
+   "publicacion_iso": "2026-10-20T10:54:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "82101501",
+     "Letreros publicitarios",
+     14,
+     "Servicio de impresión de letreros laminado en trovisel, fondo blanco con letras negras mayúsculas (14x6,8 pulgadas) formato horizontal, de exterior con las siguientes cantidades y espesificación.\n3 sala de reas\n2 sala de generador \n3 sala de caldera \n1 bodega de leña \n1 bodega de combustible \n1 entrada \n1 baño solo funcionarios \n2 box multipropósito"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=3950-674-COT26",
+   "sin_detalle": false,
+   "descripcion": "Con despacho incluido"
   },
   {
    "tipo": "OPORTUNIDAD",
@@ -1015,6 +1042,12 @@
   }
  ],
  "pendientes": [
+  {
+   "codigo": "4644-98-COT26",
+   "nombre": "Elementos de Protección Personal, Área de Intervención Vivero el Mallín SIC 450/414",
+   "organismo": "CORP NACIONAL FORESTAL",
+   "link": "https://buscador.mercadopublico.cl/ficha?code=4644-98-COT26"
+  },
   {
    "codigo": "1449-12-COT26",
    "nombre": "Adquisición de materiales de oficina ",
