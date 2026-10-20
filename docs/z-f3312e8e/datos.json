@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-10-20T12:00:08.874743-03:00",
+ "actualizado": "2026-10-20T12:57:59.345095-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
- "total_region": 20,
+ "total_region": 80,
  "rubros": {
   "25172700": "Aire acondicionado",
   "25173900": "Componentes eléctricos",
@@ -19,6 +19,60 @@
   "39121400": "Conectores, enchufes y terminales"
  },
  "filas": [
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "climatización"
+   ],
+   "nueva": true,
+   "codigo": "1758-248-COT26",
+   "nombre": "SERVICIO DE SALON EQUIPADO JORNADA DE CONVIVENCIA EDUCATIVA Y SALUD MENTAL",
+   "organismo": "SECRETARIA REGIONAL MINISTERIAL DE EDUCACION XI REGION",
+   "unidad": "Mineduc Administración XI Región",
+   "monto": 1000000,
+   "cierre_iso": "2026-10-21T10:30:00-03:00",
+   "publicacion": "19-10 17:14",
+   "publicacion_iso": "2026-10-19T17:14:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "90111604",
+     "Salones",
+     1,
+     "SE REQUIERE CONTRATAR SERVICIO DE ARRIENDO DE SALON DE EVENTOS CON CAPACIDAD PARA 50 PERSONAS, EL DÍA 28/10/2026 EN HORARIO DE 08:30 A 17:30 HRS. EN LA CIUDAD DE COYHAIQUE. EL CUAL DEBERÁ CONTAR CON CLIMATIZACIÓN, PROYECTOR, PARLANTE, MULTIMEDIA, TELÓN , AMPLIFICACIÓN, ACCESO A INTERNET Y A LO MENOS 6 A 8 MESAS CON SILLAS PARA DESARROLLO DE TRABAJO GRUPAL Y ZONA PARA MONTAJE DE CAFÉ."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1758-248-COT26",
+   "sin_detalle": false,
+   "descripcion": "SE REQUIERE CONTRATAR SERVICIO DE ARRIENDO DE SALON DE EVENTOS CON CAPACIDAD PARA 50 PERSONAS, EL DÍA 28/10/2026 EN HORARIO DE 08:30 A 17:30 HRS. EN LA CIUDAD DE COYHAIQUE. EL CUAL DEBERÁ CONTAR CON CLIMATIZACIÓN, PROYECTOR MULTIMEDIA, TELÓN , AMPLIFICACIÓN, ACCESO A INTERNET Y A LO MENOS 6 A 8 MESAS CON SILLAS PARA DESARROLLO DE TRABAJO GRUPAL Y ZONA PARA MONTAJE DE CAFÉ. \nCOORDINADORA A CARGO SRA. MONICA TAPIA. SECREDUC."
+  },
+  {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Conectores, enchufes y terminales"
+   ],
+   "nueva": true,
+   "codigo": "1233615-823-COT26",
+   "nombre": "DMH SOL-2026-01931] Recursos TICS para Escuela \"Litoral Austral\" de Puerto Aysén",
+   "organismo": "Servicio Local de Educación Pública Aysén",
+   "unidad": "Servicio Local de Educación Pública Aysén",
+   "monto": 302470,
+   "cierre_iso": "2026-10-21T12:15:00-03:00",
+   "publicacion": "19-10 16:34",
+   "publicacion_iso": "2026-10-19T16:34:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "39121409",
+     "Conectores de cables eléctricos",
+     1,
+     "insumos, accesorios y equipamiento informático necesarios para garantizar la continuidad operativa, mantención y adecuado funcionamiento de los recursos tecnológicos de la Escuela Litoral Austral, de acuerdo a requerimiento adjunto a la presente compra (debe llenar el formulario N°1)"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1233615-823-COT26",
+   "sin_detalle": false,
+   "descripcion": "Se solicita la adquisición de insumos, accesorios y equipamiento informático necesarios para garantizar la continuidad operativa, mantención y adecuado funcionamiento de los recursos tecnológicos de la Escuela Litoral Austral."
+  },
   {
    "tipo": "POSIBLE",
    "motivos": [
@@ -45,6 +99,99 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=3950-674-COT26",
    "sin_detalle": false,
    "descripcion": "Con despacho incluido"
+  },
+  {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Cables eléctricos y accesorios"
+   ],
+   "nueva": true,
+   "codigo": "4609-284-COT26",
+   "nombre": "EQUIPAMIENTO SONIDO Y AMPLIFICACION ",
+   "organismo": "I MUNICIPALIDAD DE CHILE CHICO",
+   "unidad": "Finanzas",
+   "monto": 7100000,
+   "cierre_iso": "2026-10-22T13:00:00-03:00",
+   "publicacion": "20-10 12:46",
+   "publicacion_iso": "2026-10-20T12:46:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "52161512",
+     "Parlantes",
+     4,
+     "PARLANTES ACTIVOS (detalle ver TDR)"
+    ],
+    [
+     "52161512",
+     "Parlantes",
+     2,
+     "SUB BAJO (detalle ver TDR)"
+    ],
+    [
+     "45111704",
+     "Consolas de mezcla de sonidos",
+     1,
+     "CONSOLA DIGITAL (detalle ver TDR)"
+    ],
+    [
+     "44111517",
+     "Atriles",
+     4,
+     "ATRIL DE MICROFONO (detalle ver TDR)"
+    ],
+    [
+     "44111517",
+     "Atriles",
+     4,
+     "ATRIL DE PARLANTES (detalle ver TDR)"
+    ],
+    [
+     "52161520",
+     "Micrófonos",
+     2,
+     "MICROFONO CARDIOIDE (detalle ver TDR)"
+    ],
+    [
+     "52161520",
+     "Micrófonos",
+     1,
+     "MICROFONO ENTREVISTA (detalle ver TDR)"
+    ],
+    [
+     "39121205",
+     "Canaletas para cables",
+     3,
+     "PASACABLES (detalle ver TDR)"
+    ],
+    [
+     "45111702",
+     "Cajas de conexión de sonido",
+     2,
+     "CAJA DIRECTA (detalle ver TDR)"
+    ],
+    [
+     "26121620",
+     "Cable para interconexiones",
+     5,
+     "CABLE XLR 5 METROS (detalle ver TDR)"
+    ],
+    [
+     "26121620",
+     "Cable para interconexiones",
+     5,
+     "CABLE XLR 10 METROS (detalle ver TDR)"
+    ],
+    [
+     "26121620",
+     "Cable para interconexiones",
+     5,
+     "CABLE XLR 20 METROS (detalle ver TDR)"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=4609-284-COT26",
+   "sin_detalle": false,
+   "descripcion": "COTIZACION EQUIPAMIENTO SONIDO Y AMPLIFICACION PROFESIONAL"
   }
  ],
  "historial": [
@@ -212,24 +359,6 @@
    "adj_iso": null
   },
   {
-   "codigo": "1233615-823-COT26",
-   "nombre": "DMH SOL-2026-01931] Recursos TICS para Escuela \"Litoral Austral\" de Puerto Aysén",
-   "organismo": "Servicio Local de Educación Pública Aysén",
-   "monto": 302470,
-   "cierre_iso": "2026-10-21T12:15:00-03:00",
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Conectores, enchufes y terminales"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1233615-823-COT26",
-   "primera_vista_iso": "2026-10-19T16:57:34-03:00",
-   "removida_iso": "2026-10-20T12:00:08-03:00",
-   "estado_api": null,
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
    "codigo": "1173433-18-COT26",
    "nombre": "Adquisición de maquinaria y equipamiento para el fortalecimiento de las actividades productivas y de mantenimiento del C.E.T. de Valle Verde. ",
    "organismo": "Centro de Educación y Trabajo Valle Verde",
@@ -259,24 +388,6 @@
    ],
    "link": "https://buscador.mercadopublico.cl/ficha?code=2495-563-COT26",
    "primera_vista_iso": "2026-10-19T16:57:34-03:00",
-   "removida_iso": "2026-10-20T12:00:08-03:00",
-   "estado_api": null,
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "1758-248-COT26",
-   "nombre": "SERVICIO DE SALON EQUIPADO JORNADA DE CONVIVENCIA EDUCATIVA Y SALUD MENTAL",
-   "organismo": "SECRETARIA REGIONAL MINISTERIAL DE EDUCACION XI REGION",
-   "monto": 1000000,
-   "cierre_iso": "2026-10-21T10:30:00-03:00",
-   "tipo": "POSIBLE",
-   "motivos": [
-    "climatización"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1758-248-COT26",
-   "primera_vista_iso": "2026-10-19T17:56:47-03:00",
    "removida_iso": "2026-10-20T12:00:08-03:00",
    "estado_api": null,
    "adj_nombre": null,

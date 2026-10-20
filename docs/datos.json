@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-10-20T12:00:08.874743-03:00",
+ "actualizado": "2026-10-20T12:57:59.345095-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
- "total_region": 20,
+ "total_region": 80,
  "rubros": {
   "80141600": "Ventas y marketing",
   "82101600": "Publicidad en medios no impresos",
@@ -14,6 +14,72 @@
   "83121700": "Comunicación social y de masas"
  },
  "filas": [
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "radio"
+   ],
+   "nueva": true,
+   "codigo": "1758-250-COT26",
+   "nombre": "SERVICIOS DE ALOJAMIENTOS Y ALIMENTACION JORNADA CONVIVENCIA EDUCATIVA Y SALUD MENTAL",
+   "organismo": "SECRETARIA REGIONAL MINISTERIAL DE EDUCACION XI REGION",
+   "unidad": "Mineduc Administración XI Región",
+   "monto": 860000,
+   "cierre_iso": "2026-10-21T11:00:00-03:00",
+   "publicacion": "19-10 18:06",
+   "publicacion_iso": "2026-10-19T18:06:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "90111802",
+     "Habitación doble",
+     4,
+     "01 HABITACION DOBLE INGRESO EL 27/10 Y SALIDA EL 28/10 /SANDRA CHIGUAY Y RUTH ARAVENA CON DESAYUNO.\n01 HABITACION DOBLE INGRESO EL 27/10 Y SALIDA EL 28/10 /AQUILES MAYA Y OSCAR MORA O. CON DESAYUNO.\n02 HABITACIONES DOBLES INGRESO EL 27/10 Y SALIDA EL 29/10/ MONICA ARELLANO Y ERIKA SALINAS. \nTODOS CON INGRESO A LAS 18:00HRS. CON CAFECCION Y BAÑO PRIVADO Y DESAYUNO CONTENER TE O CAFE Y/O JUGO, FRUTA, PAN CON AGREGADO."
+    ],
+    [
+     "90101501",
+     "Restaurantes",
+     19,
+     "01 ALMUERZO  EL 27/10 SERVIDO A LAS 14.30 HRS. (POR LLEGADA DE BARCAZA)\n17 ALMUERZOS EL 28/10 \n01 ALMUERZO  EL 29/10 \nQUE CONTENGA PLATO DE FONDO CON ALTERNATIVA PROTEICA, ACOMPAÑAMIENTO, ENSALADA/ENTRADA, POSTRE Y BEBESTIBLE SIN ALCOHOL. SERVIDO A LAS 13:00 HRS EN LA CIUDAD DE COYHAIQUE."
+    ],
+    [
+     "90101501",
+     "Restaurantes",
+     11,
+     "07 CENAS EL 27/10\n03 CENAS EL 28/10\n01 CENA  EL 29/10\nQUE CONTENGA PLATO DE FONDO CON ALTERNATIVA PROTEICA, ACOMPAÑAMIENTO, ENSALADA/ENTRADA, POSTRE Y BEBESTIBLE SIN ALCOHOL. SERVIDOS A LAS 19:30 HRS EN LA CIUDAD DE COYHAIQUE."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1758-250-COT26",
+   "sin_detalle": false,
+   "descripcion": "SERVICIOS DE ALOJAMIENTOS Y ALIMENTACIÓN EN COYHAIQUE 27 DE OCTUBRE AL 29  DE OCTUBRE 2026. EN LA SU PROPUESTA EL PROVEEDOR DEBERÁ INDICAR LA DIRECCIÓN DONDE SE ENTREGARÁ EL SERVICIO, EL CUAL DEBE ESTAR DENTRO DEL RADIO URBANO DE LA CIUDAD DE PREFERENCIALMENTE UNA UBICACIÓN CENTRAL. SE PRIVILEGIARA PROVEEDORES QUE POSEAN CERTIFICACIÓN DE SUSTENTABILIDAD Y CUENTEN CON POLÍTICAS REUTILIZACIÓN DE SABANAS Y TOALLAS CON ALIMENTACION DE ALMUERZOS Y CENAS. SEGREGACION Y RES. SANITARIA."
+  },
+  {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Ventas y marketing"
+   ],
+   "nueva": true,
+   "codigo": "2495-565-COT26",
+   "nombre": "PRODUCCION CEREMONIA COYHAIQUINOS DESTACADOS",
+   "organismo": "I MUNICIPALIDAD DE COYHAIQUE",
+   "unidad": "DIRECCION DESARROLLO COMUNITARIO",
+   "monto": 1100000,
+   "cierre_iso": "2026-10-21T15:00:00-03:00",
+   "publicacion": "19-10 18:59",
+   "publicacion_iso": "2026-10-19T18:59:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "80141607",
+     "Producción de eventos",
+     1,
+     "SE REQUIERE EL SERVICIO DE PRODUCCION PARA LA CEREMONIA DE COYHAIQUINOS DESTACADOS PARA EL DIA 29/10 EN CENTRO CULTURAL COYHAIQUE SEGUN REQUERIMIENTOS TECNICOS ADJUNTOS, SE PREVILEGIARA PROVEEDOR DE LA COMUNA DE COYHAIQUE CON DISPONBILIDAD INMEDIATA Y DISPOSICION A MODIFICACIONES EN TIEMPO Y FORMA."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=2495-565-COT26",
+   "sin_detalle": false,
+   "descripcion": "SE REQUIERE EL SERVICIO DE PRODUCCION PARA LA CEREMONIA DE COYHAIQUINOS DESTACADOS PARA EL DIA 29/10 EN CENTRO CULTURAL COYHAIQUE SEGUN REQUERIMIENTOS TECNICOS ADJUNTOS, SE PREVILEGIARA PROVEEDOR DE LA COMUNA DE COYHAIQUE CON DISPONBILIDAD INMEDIATA Y DISPOSICION A MODIFICACIONES EN TIEMPO Y FORMA."
+  },
   {
    "tipo": "OPORTUNIDAD",
    "motivos": [
@@ -67,6 +133,74 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=3950-674-COT26",
    "sin_detalle": false,
    "descripcion": "Con despacho incluido"
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "fotografía"
+   ],
+   "nueva": true,
+   "codigo": "3431-118-COT26",
+   "nombre": "F-I Solicitud de cotización para la adquisición de refrigerador que será utilizado en el casino de suboficiales de esta unidad.",
+   "organismo": "Ejercito de Chile",
+   "unidad": "Regimiento N° 8 Chiloé",
+   "monto": 700000,
+   "cierre_iso": "2026-10-23T11:00:00-03:00",
+   "publicacion": "20-10 12:00",
+   "publicacion_iso": "2026-10-20T12:00:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "52141501",
+     "Refrigeradores domésticos",
+     1,
+     "Refrigerador top freezer con dispensador, peso 59,5 kgs. capacidad 389 lts. capacidad congelador 97 lts. No frost - multo flow deodorizador, 03 bandejas vidrio templado, luz interior."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=3431-118-COT26",
+   "sin_detalle": false,
+   "descripcion": "Solicitud de cotización para la adquisición de refrigerador que será utilizado en el casino de suboficiales de esta unidad.\nConforme a anexo adjunto. \nLos proveedores interesados deben adjuntar fotografía del producto con sus características técnicas."
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "difusión",
+    "publicidad",
+    "publicitarios"
+   ],
+   "nueva": true,
+   "codigo": "2495-564-COT26",
+   "nombre": "Adquisición de folletería y pelotas antiestrés para la difusión del Programa SENDA Previene 2026.",
+   "organismo": "I MUNICIPALIDAD DE COYHAIQUE",
+   "unidad": "DIRECCION DESARROLLO COMUNITARIO",
+   "monto": 200000,
+   "cierre_iso": "2026-10-23T21:00:00-03:00",
+   "publicacion": "19-10 16:54",
+   "publicacion_iso": "2026-10-19T16:54:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "82101507",
+     "Folletos y catálogos publicitarios, servicios de publicidad y distribución",
+     100,
+     "Estrella antiestrés personalizable (75?×?75?×?35?mm ˜ 3,7?cm de ancho): espuma blanda, colores vivos, disponible en blanco, azul"
+    ],
+    [
+     "82101507",
+     "Folletos y catálogos publicitarios, servicios de publicidad y distribución",
+     100,
+     "Folleteria 1412 medidas 14.5x21.5 cm"
+    ],
+    [
+     "82101507",
+     "Folletos y catálogos publicitarios, servicios de publicidad y distribución",
+     100,
+     "folleteri ¿Qué es senda? Medidas 14.5x21.5 cm"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=2495-564-COT26",
+   "sin_detalle": false,
+   "descripcion": "Adquisición de estrellas antiestrés personalizables y folletería informativa “¿Qué es SENDA?” y “1412 Escucha y Orienta”, para fortalecer la difusión del Programa SENDA Previene 2026, promover factores protectores y sensibilizar a la comunidad sobre la prevención del consumo de alcohol y otras drogas."
   }
  ],
  "historial": [
@@ -82,26 +216,6 @@
    ],
    "link": "https://buscador.mercadopublico.cl/ficha?code=682-20-COT26",
    "primera_vista_iso": "2026-10-16T10:09:44-03:00",
-   "removida_iso": "2026-10-20T12:00:08-03:00",
-   "estado_api": null,
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "2495-564-COT26",
-   "nombre": "Adquisición de folletería y pelotas antiestrés para la difusión del Programa SENDA Previene 2026.",
-   "organismo": "I MUNICIPALIDAD DE COYHAIQUE",
-   "monto": 200000,
-   "cierre_iso": "2026-10-23T21:00:00-03:00",
-   "tipo": "POSIBLE",
-   "motivos": [
-    "difusión",
-    "publicidad",
-    "publicitarios"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=2495-564-COT26",
-   "primera_vista_iso": "2026-10-19T16:57:34-03:00",
    "removida_iso": "2026-10-20T12:00:08-03:00",
    "estado_api": null,
    "adj_nombre": null,
@@ -199,24 +313,6 @@
    "adj_iso": null
   },
   {
-   "codigo": "2495-565-COT26",
-   "nombre": "PRODUCCION CEREMONIA COYHAIQUINOS DESTACADOS",
-   "organismo": "I MUNICIPALIDAD DE COYHAIQUE",
-   "monto": 1100000,
-   "cierre_iso": "2026-10-21T15:00:00-03:00",
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Ventas y marketing"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=2495-565-COT26",
-   "primera_vista_iso": "2026-10-19T19:53:01-03:00",
-   "removida_iso": "2026-10-20T12:00:08-03:00",
-   "estado_api": null,
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
    "codigo": "4733-410-COT26",
    "nombre": "CAPSULAS DE RADIALES",
    "organismo": "I MUNICIPALIDAD DE LAS GUAITECAS",
@@ -228,24 +324,6 @@
    ],
    "link": "https://buscador.mercadopublico.cl/ficha?code=4733-410-COT26",
    "primera_vista_iso": "2026-10-19T16:06:33-03:00",
-   "removida_iso": "2026-10-20T12:00:08-03:00",
-   "estado_api": null,
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "1758-250-COT26",
-   "nombre": "SERVICIOS DE ALOJAMIENTOS Y ALIMENTACION JORNADA CONVIVENCIA EDUCATIVA Y SALUD MENTAL",
-   "organismo": "SECRETARIA REGIONAL MINISTERIAL DE EDUCACION XI REGION",
-   "monto": 860000,
-   "cierre_iso": "2026-10-21T11:00:00-03:00",
-   "tipo": "POSIBLE",
-   "motivos": [
-    "radio"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1758-250-COT26",
-   "primera_vista_iso": "2026-10-19T18:53:52-03:00",
    "removida_iso": "2026-10-20T12:00:08-03:00",
    "estado_api": null,
    "adj_nombre": null,
@@ -320,7 +398,7 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=4066-425-COT26",
    "primera_vista_iso": "2026-10-15T19:50:45-03:00",
    "removida_iso": "2026-10-19T20:52:48-03:00",
-   "estado_api": null,
+   "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,
    "adj_iso": null

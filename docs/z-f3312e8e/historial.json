@@ -18,7 +18,7 @@
   "adj_nombre": null,
   "adj_monto": null,
   "adj_iso": null,
-  "adj_revisado_iso": "2026-10-20T06:56:52-03:00"
+  "adj_revisado_iso": "2026-10-20T12:57:59-03:00"
  },
  "3540-255-COT26": {
   "codigo": "3540-255-COT26",
@@ -553,7 +553,7 @@
   "adj_nombre": null,
   "adj_monto": null,
   "adj_iso": null,
-  "adj_revisado_iso": "2026-10-19T19:53:01-03:00"
+  "adj_revisado_iso": "2026-10-20T12:57:59-03:00"
  },
  "1233615-793-COT26": {
   "codigo": "1233615-793-COT26",
@@ -574,7 +574,7 @@
   "adj_nombre": null,
   "adj_monto": null,
   "adj_iso": null,
-  "adj_revisado_iso": "2026-10-19T19:53:01-03:00"
+  "adj_revisado_iso": "2026-10-20T12:57:59-03:00"
  },
  "1233615-792-COT26": {
   "codigo": "1233615-792-COT26",
@@ -595,7 +595,7 @@
   "adj_nombre": null,
   "adj_monto": null,
   "adj_iso": null,
-  "adj_revisado_iso": "2026-10-19T19:53:01-03:00"
+  "adj_revisado_iso": "2026-10-20T12:57:59-03:00"
  },
  "1403-445-COT26": {
   "codigo": "1403-445-COT26",
@@ -618,7 +618,7 @@
   "adj_nombre": null,
   "adj_monto": null,
   "adj_iso": null,
-  "adj_revisado_iso": "2026-10-19T14:52:46-03:00"
+  "adj_revisado_iso": "2026-10-20T12:57:59-03:00"
  },
  "3540-274-COT26": {
   "codigo": "3540-274-COT26",
@@ -1204,8 +1204,8 @@
   ],
   "link": "https://buscador.mercadopublico.cl/ficha?code=1233615-823-COT26",
   "primera_vista_iso": "2026-10-19T16:57:34-03:00",
-  "ultima_activa_iso": "2026-10-20T11:03:01-03:00",
-  "removida_iso": "2026-10-20T12:00:08-03:00",
+  "ultima_activa_iso": "2026-10-20T12:57:59-03:00",
+  "removida_iso": null,
   "estado_api": null,
   "adj_nombre": null,
   "adj_monto": null,
@@ -1225,8 +1225,8 @@
   ],
   "link": "https://buscador.mercadopublico.cl/ficha?code=1758-248-COT26",
   "primera_vista_iso": "2026-10-19T17:56:47-03:00",
-  "ultima_activa_iso": "2026-10-20T11:03:01-03:00",
-  "removida_iso": "2026-10-20T12:00:08-03:00",
+  "ultima_activa_iso": "2026-10-20T12:57:59-03:00",
+  "removida_iso": null,
   "estado_api": null,
   "adj_nombre": null,
   "adj_monto": null,
@@ -1246,7 +1246,28 @@
   ],
   "link": "https://buscador.mercadopublico.cl/ficha?code=3950-674-COT26",
   "primera_vista_iso": "2026-10-20T11:03:01-03:00",
-  "ultima_activa_iso": "2026-10-20T12:00:08-03:00",
+  "ultima_activa_iso": "2026-10-20T12:57:59-03:00",
+  "removida_iso": null,
+  "estado_api": null,
+  "adj_nombre": null,
+  "adj_monto": null,
+  "adj_iso": null,
+  "adj_revisado_iso": null
+ },
+ "4609-284-COT26": {
+  "codigo": "4609-284-COT26",
+  "nombre": "EQUIPAMIENTO SONIDO Y AMPLIFICACION ",
+  "organismo": "I MUNICIPALIDAD DE CHILE CHICO",
+  "unidad": "Finanzas",
+  "monto": 7100000,
+  "cierre_iso": "2026-10-22T13:00:00-03:00",
+  "tipo": "OPORTUNIDAD",
+  "motivos": [
+   "Cables eléctricos y accesorios"
+  ],
+  "link": "https://buscador.mercadopublico.cl/ficha?code=4609-284-COT26",
+  "primera_vista_iso": "2026-10-20T12:57:59-03:00",
+  "ultima_activa_iso": "2026-10-20T12:57:59-03:00",
   "removida_iso": null,
   "estado_api": null,
   "adj_nombre": null,

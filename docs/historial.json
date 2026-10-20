@@ -18,7 +18,7 @@
   "adj_nombre": null,
   "adj_monto": null,
   "adj_iso": null,
-  "adj_revisado_iso": "2026-10-20T06:56:52-03:00"
+  "adj_revisado_iso": "2026-10-20T12:57:59-03:00"
  },
  "4609-277-COT26": {
   "codigo": "4609-277-COT26",
@@ -571,7 +571,7 @@
   "adj_nombre": null,
   "adj_monto": null,
   "adj_iso": null,
-  "adj_revisado_iso": null
+  "adj_revisado_iso": "2026-10-20T12:57:59-03:00"
  },
  "828-48-COT26": {
   "codigo": "828-48-COT26",
@@ -592,7 +592,7 @@
   "adj_nombre": null,
   "adj_monto": null,
   "adj_iso": null,
-  "adj_revisado_iso": "2026-10-19T19:53:01-03:00"
+  "adj_revisado_iso": "2026-10-20T12:57:59-03:00"
  },
  "4066-424-COT26": {
   "codigo": "4066-424-COT26",
@@ -613,7 +613,7 @@
   "adj_nombre": null,
   "adj_monto": null,
   "adj_iso": null,
-  "adj_revisado_iso": "2026-10-19T19:53:01-03:00"
+  "adj_revisado_iso": "2026-10-20T12:57:59-03:00"
  },
  "4066-425-COT26": {
   "codigo": "4066-425-COT26",
@@ -630,11 +630,11 @@
   "primera_vista_iso": "2026-10-15T19:50:45-03:00",
   "ultima_activa_iso": "2026-10-19T19:53:01-03:00",
   "removida_iso": "2026-10-19T20:52:48-03:00",
-  "estado_api": null,
+  "estado_api": "",
   "adj_nombre": null,
   "adj_monto": null,
   "adj_iso": null,
-  "adj_revisado_iso": null
+  "adj_revisado_iso": "2026-10-20T12:57:59-03:00"
  },
  "3791-1031-COT26": {
   "codigo": "3791-1031-COT26",
@@ -883,8 +883,8 @@
   ],
   "link": "https://buscador.mercadopublico.cl/ficha?code=2495-564-COT26",
   "primera_vista_iso": "2026-10-19T16:57:34-03:00",
-  "ultima_activa_iso": "2026-10-20T11:03:01-03:00",
-  "removida_iso": "2026-10-20T12:00:08-03:00",
+  "ultima_activa_iso": "2026-10-20T12:57:59-03:00",
+  "removida_iso": null,
   "estado_api": null,
   "adj_nombre": null,
   "adj_monto": null,
@@ -904,8 +904,8 @@
   ],
   "link": "https://buscador.mercadopublico.cl/ficha?code=1758-250-COT26",
   "primera_vista_iso": "2026-10-19T18:53:52-03:00",
-  "ultima_activa_iso": "2026-10-20T11:03:01-03:00",
-  "removida_iso": "2026-10-20T12:00:08-03:00",
+  "ultima_activa_iso": "2026-10-20T12:57:59-03:00",
+  "removida_iso": null,
   "estado_api": null,
   "adj_nombre": null,
   "adj_monto": null,
@@ -925,8 +925,8 @@
   ],
   "link": "https://buscador.mercadopublico.cl/ficha?code=2495-565-COT26",
   "primera_vista_iso": "2026-10-19T19:53:01-03:00",
-  "ultima_activa_iso": "2026-10-20T11:03:01-03:00",
-  "removida_iso": "2026-10-20T12:00:08-03:00",
+  "ultima_activa_iso": "2026-10-20T12:57:59-03:00",
+  "removida_iso": null,
   "estado_api": null,
   "adj_nombre": null,
   "adj_monto": null,
@@ -946,7 +946,7 @@
   ],
   "link": "https://buscador.mercadopublico.cl/ficha?code=1195-527-COT26",
   "primera_vista_iso": "2026-10-20T11:03:01-03:00",
-  "ultima_activa_iso": "2026-10-20T12:00:08-03:00",
+  "ultima_activa_iso": "2026-10-20T12:57:59-03:00",
   "removida_iso": null,
   "estado_api": null,
   "adj_nombre": null,
@@ -967,7 +967,28 @@
   ],
   "link": "https://buscador.mercadopublico.cl/ficha?code=3950-674-COT26",
   "primera_vista_iso": "2026-10-20T11:03:01-03:00",
-  "ultima_activa_iso": "2026-10-20T12:00:08-03:00",
+  "ultima_activa_iso": "2026-10-20T12:57:59-03:00",
+  "removida_iso": null,
+  "estado_api": null,
+  "adj_nombre": null,
+  "adj_monto": null,
+  "adj_iso": null,
+  "adj_revisado_iso": null
+ },
+ "3431-118-COT26": {
+  "codigo": "3431-118-COT26",
+  "nombre": "F-I Solicitud de cotización para la adquisición de refrigerador que será utilizado en el casino de suboficiales de esta unidad.",
+  "organismo": "Ejercito de Chile",
+  "unidad": "Regimiento N° 8 Chiloé",
+  "monto": 700000,
+  "cierre_iso": "2026-10-23T11:00:00-03:00",
+  "tipo": "POSIBLE",
+  "motivos": [
+   "fotografía"
+  ],
+  "link": "https://buscador.mercadopublico.cl/ficha?code=3431-118-COT26",
+  "primera_vista_iso": "2026-10-20T12:57:59-03:00",
+  "ultima_activa_iso": "2026-10-20T12:57:59-03:00",
   "removida_iso": null,
   "estado_api": null,
   "adj_nombre": null,
