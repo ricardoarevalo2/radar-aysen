@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-10-20T14:53:44.894856-03:00",
+ "actualizado": "2026-10-20T16:05:54.537079-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
- "total_region": 241,
+ "total_region": 236,
  "rubros": {
   "25172700": "Aire acondicionado",
   "25173900": "Componentes eléctricos",
@@ -495,6 +495,33 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=1758-245-COT26",
    "sin_detalle": false,
    "descripcion": "- HABITACIÓN SINGLE CON DESAYUNO INCLUIDO CHECK IN 05/11/20206, CHECK OUT 07/11/2026. \n- ALMUERZO PARA 01 PERSONA OFRECIDO EL DÍA 06/11/2026, A LAS 13:00 HRS. DE PREFERENCIA EN LAS MISMAS DEPENDENCIAS DEL HOSPEDAJE.\n- SERVICIO DE CENA PARA UNA PERSONA LOS DÍAS 05 Y 06 DE NOVIEMBRE DE 2026 A LAS 19:30 HRS. APROX.\n- LA HABITACIÓN OFRECIDA DEBE CONTAR CON BAÑO PRIVADO, CALEFACCIÓN O CLIMATIZACIÓN, BUENA VENTILACIÓN Y WIFI.\n-  EL OFERENTE EN SU PROPUESTA DEBE INDICAR LA DIRECCIÓN DEL HOSPEDAJE."
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "iluminación"
+   ],
+   "nueva": true,
+   "codigo": "4066-429-COT26",
+   "nombre": "Servicio de producción de eventos, Feria Productiva Lanzamiento de Temporada Turística, Puerto Río Tranquilo – COD BIP 40066883-0",
+   "organismo": "I MUNICIPALIDAD RIO IBANEZ",
+   "unidad": "DIDECO",
+   "monto": 7150000,
+   "cierre_iso": "2026-10-21T15:40:00-03:00",
+   "publicacion": "20-10 15:34",
+   "publicacion_iso": "2026-10-20T15:34:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "80141607",
+     "Producción de eventos",
+     1,
+     "Servicio completo, valor único y total, Impuesto incluido: 3 bandas regionales (6 presentaciones de mín. 90 min), animador, sonido e iluminación, ornamentación, montaje y desmontaje, 500 sopaipillas con pebre, 20 almuerzos, 150 agendas, 200 pines, 150 bolsas, 10 placas de reconocimiento y registro fotográfico. Sábado 31 de octubre de 2026, plaza de Puerto Río Tranquilo, montaje desde 08:00 hrs. Detalle y mínimos en el TDR adjunto. Máximo $7.150.000."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=4066-429-COT26",
+   "sin_detalle": false,
+   "descripcion": "Servicio de producción de eventos para la feria productiva Lanzamiento de Temporada Turística 2026-2027, sábado 31 de octubre de 2026, en la plaza de Puerto Río Tranquilo. Incluye música en vivo, animación, sonido e iluminación, ornamentación y montaje, alimentación, mechandising, reconocimientos y registro fotográfico. Presupuesto máximo $7.150.000, Impuesto incluido. Adjuntar patente municipal, propuesta técnica, ficha técnica de sonido e iluminación y cotización firmada. Ver TDR adjunto."
   },
   {
    "tipo": "POSIBLE",
@@ -1544,27 +1571,15 @@
    "adj_nombre": null,
    "adj_monto": null,
    "adj_iso": null
-  },
-  {
-   "codigo": "697209-29-COT26",
-   "nombre": "Servicio mantención equipos de aire acondicionado.",
-   "organismo": "MINISTERIO PUBLICO",
-   "monto": 4000000,
-   "cierre_iso": "2026-10-13T16:00:00-03:00",
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Gasfitería, calefacción y aire acondicionado"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=697209-29-COT26",
-   "primera_vista_iso": "2026-10-11T21:06:47-03:00",
-   "removida_iso": "2026-10-13T16:55:07-03:00",
-   "estado_api": "",
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
   }
  ],
  "pendientes": [
+  {
+   "codigo": "5575-125-COT26",
+   "nombre": "ADQUISICIÓN INSUMOS DE RIEGO PARA SERVICIO ÁREAS VERDES CON ENTREGA INMEDIATA",
+   "organismo": "I MUNICIPALIDAD DE COYHAIQUE",
+   "link": "https://buscador.mercadopublico.cl/ficha?code=5575-125-COT26"
+  },
   {
    "codigo": "4644-98-COT26",
    "nombre": "Elementos de Protección Personal, Área de Intervención Vivero el Mallín SIC 450/414",

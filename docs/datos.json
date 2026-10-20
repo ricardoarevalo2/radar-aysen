@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-10-20T14:53:44.894856-03:00",
+ "actualizado": "2026-10-20T16:05:54.537079-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
- "total_region": 241,
+ "total_region": 236,
  "rubros": {
   "80141600": "Ventas y marketing",
   "82101600": "Publicidad en medios no impresos",
@@ -14,33 +14,6 @@
   "83121700": "Comunicación social y de masas"
  },
  "filas": [
-  {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Ventas y marketing"
-   ],
-   "nueva": false,
-   "codigo": "1233615-819-COT26",
-   "nombre": "TRM/SOL 1954 Kit estudiante destacado LICEO BICENTENARIO LUISA RABANAL PALMA",
-   "organismo": "Servicio Local de Educación Pública Aysén",
-   "unidad": "Servicio Local de Educación Pública Aysén",
-   "monto": 500000,
-   "cierre_iso": "2026-10-20T15:00:00-03:00",
-   "publicacion": "19-10 12:51",
-   "publicacion_iso": "2026-10-19T12:51:00-03:00",
-   "ofertas": 1,
-   "productos": [
-    [
-     "80141611",
-     "Personalización de regalos o productos promocionales",
-     1,
-     "Kit estudiante destacado (lápiz, cuaderno, estuche y llavero personalizados con logo del Liceo Bicentenario Luisa Rabanal y SLEP) LICEO BICENTENARIO LUISA RABANAL PALMA, SEGUN DETALLE ADJUNTO"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1233615-819-COT26",
-   "sin_detalle": false,
-   "descripcion": "Kit estudiante destacado (lápiz, cuaderno, estuche y llavero personalizados con logo del Liceo Bicentenario Luisa Rabanal y SLEP)"
-  },
   {
    "tipo": "POSIBLE",
    "motivos": [
@@ -248,6 +221,87 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=2495-565-COT26",
    "sin_detalle": false,
    "descripcion": "SE REQUIERE EL SERVICIO DE PRODUCCION PARA LA CEREMONIA DE COYHAIQUINOS DESTACADOS PARA EL DIA 29/10 EN CENTRO CULTURAL COYHAIQUE SEGUN REQUERIMIENTOS TECNICOS ADJUNTOS, SE PREVILEGIARA PROVEEDOR DE LA COMUNA DE COYHAIQUE CON DISPONBILIDAD INMEDIATA Y DISPOSICION A MODIFICACIONES EN TIEMPO Y FORMA."
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "publicitarios"
+   ],
+   "nueva": true,
+   "codigo": "3797-483-COT26",
+   "nombre": "GRAFICAS EN ACRILICO",
+   "organismo": "I MUNICIPALIDAD DE COCHRANE",
+   "unidad": "I MUNICIPALIDAD DE COCHRANE",
+   "monto": 90000,
+   "cierre_iso": "2026-10-21T15:15:00-03:00",
+   "publicacion": "20-10 15:10",
+   "publicacion_iso": "2026-10-20T15:10:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "82101501",
+     "Letreros publicitarios",
+     4,
+     "Graficas efecto espejo en acrílicos de 5MM de 40x10 CM con 2 distenciadores metálicos, diseño será proporcionado por la Municipalidad, el cual debe estampanse full color"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=3797-483-COT26",
+   "sin_detalle": false,
+   "descripcion": "Adquirir gráficas de señalización para la identificacion de los camarines y mesa de control del Estadio Luis Gomez Triviño"
+  },
+  {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Ventas y marketing"
+   ],
+   "nueva": true,
+   "codigo": "4066-429-COT26",
+   "nombre": "Servicio de producción de eventos, Feria Productiva Lanzamiento de Temporada Turística, Puerto Río Tranquilo – COD BIP 40066883-0",
+   "organismo": "I MUNICIPALIDAD RIO IBANEZ",
+   "unidad": "DIDECO",
+   "monto": 7150000,
+   "cierre_iso": "2026-10-21T15:40:00-03:00",
+   "publicacion": "20-10 15:34",
+   "publicacion_iso": "2026-10-20T15:34:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "80141607",
+     "Producción de eventos",
+     1,
+     "Servicio completo, valor único y total, Impuesto incluido: 3 bandas regionales (6 presentaciones de mín. 90 min), animador, sonido e iluminación, ornamentación, montaje y desmontaje, 500 sopaipillas con pebre, 20 almuerzos, 150 agendas, 200 pines, 150 bolsas, 10 placas de reconocimiento y registro fotográfico. Sábado 31 de octubre de 2026, plaza de Puerto Río Tranquilo, montaje desde 08:00 hrs. Detalle y mínimos en el TDR adjunto. Máximo $7.150.000."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=4066-429-COT26",
+   "sin_detalle": false,
+   "descripcion": "Servicio de producción de eventos para la feria productiva Lanzamiento de Temporada Turística 2026-2027, sábado 31 de octubre de 2026, en la plaza de Puerto Río Tranquilo. Incluye música en vivo, animación, sonido e iluminación, ornamentación y montaje, alimentación, mechandising, reconocimientos y registro fotográfico. Presupuesto máximo $7.150.000, Impuesto incluido. Adjuntar patente municipal, propuesta técnica, ficha técnica de sonido e iluminación y cotización firmada. Ver TDR adjunto."
+  },
+  {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Ventas y marketing"
+   ],
+   "nueva": true,
+   "codigo": "4066-431-COT26",
+   "nombre": "Servicio de producción de eventos, Rueda de Negocios Encuentro de Proveedores, Puerto Río Tranquilo – COD BIP 40066883-0",
+   "organismo": "I MUNICIPALIDAD RIO IBANEZ",
+   "unidad": "DIDECO",
+   "monto": 2750000,
+   "cierre_iso": "2026-10-21T16:10:00-03:00",
+   "publicacion": "20-10 16:02",
+   "publicacion_iso": "2026-10-20T16:02:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "80141607",
+     "Producción de eventos",
+     1,
+     "Servicio completo, valor único y total, Impuesto incluido: carpa de 18 x 8 m o similar, montaje y desmontaje; amplificación básica (parlantes, micrófonos inalámbricos y técnico); ornamentación y ambientación; transporte de ida y vuelta de hasta 15 prestadores desde Bahía Murta y Puerto Sánchez. Sábado 31 de octubre de 2026, Puerto Río Tranquilo, montaje desde 13:00 hrs. Detalle y mínimos en el TDR + anexo adjunto. Máximo $2.750.000."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=4066-431-COT26",
+   "sin_detalle": false,
+   "descripcion": "Servicio de producción de eventos para la rueda de negocios Encuentro de Proveedores de Servicios Turísticos, sábado 31 de octubre de 2026, en Puerto Río Tranquilo (lugar a definir por la comunidad). Incluye carpa de 18 x 8 m, amplificación básica, ornamentación y ambientación, y transporte de hasta 15 prestadores desde Bahía Murta y Puerto Sánchez. Presupuesto máximo $2.750.000, Impuesto incluido. Adjuntar patente municipal, propuesta técnica y cotización. Ver TDR adjunto + anexo"
   },
   {
    "tipo": "OPORTUNIDAD",
@@ -571,6 +625,24 @@
   }
  ],
  "historial": [
+  {
+   "codigo": "1233615-819-COT26",
+   "nombre": "TRM/SOL 1954 Kit estudiante destacado LICEO BICENTENARIO LUISA RABANAL PALMA",
+   "organismo": "Servicio Local de Educación Pública Aysén",
+   "monto": 500000,
+   "cierre_iso": "2026-10-20T15:00:00-03:00",
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Ventas y marketing"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1233615-819-COT26",
+   "primera_vista_iso": "2026-10-19T12:56:38-03:00",
+   "removida_iso": "2026-10-20T16:05:54-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
   {
    "codigo": "4144-304-COT26",
    "nombre": "Se requiere la adquisicion de un equipo de radio portatil para la localidad de Villa Amengual",
@@ -1135,27 +1207,15 @@
    "adj_nombre": null,
    "adj_monto": null,
    "adj_iso": null
-  },
-  {
-   "codigo": "1746-237-COT26",
-   "nombre": " APOYO A EJECUCIÓN JORNADA NACIONAL 30 AÑOS DE HANTAVIRUS EN CHILE",
-   "organismo": "SUBSECRETARIA DE SALUD PUBLICA",
-   "monto": 800000,
-   "cierre_iso": "2026-10-13T16:00:00-03:00",
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Ventas y marketing"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1746-237-COT26",
-   "primera_vista_iso": "2026-10-11T21:06:47-03:00",
-   "removida_iso": "2026-10-13T16:55:07-03:00",
-   "estado_api": "",
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
   }
  ],
  "pendientes": [
+  {
+   "codigo": "5575-125-COT26",
+   "nombre": "ADQUISICIÓN INSUMOS DE RIEGO PARA SERVICIO ÁREAS VERDES CON ENTREGA INMEDIATA",
+   "organismo": "I MUNICIPALIDAD DE COYHAIQUE",
+   "link": "https://buscador.mercadopublico.cl/ficha?code=5575-125-COT26"
+  },
   {
    "codigo": "4644-98-COT26",
    "nombre": "Elementos de Protección Personal, Área de Intervención Vivero el Mallín SIC 450/414",
