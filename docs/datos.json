@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-10-20T17:55:44.056093-03:00",
+ "actualizado": "2026-10-20T18:55:10.444973-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
- "total_region": 245,
+ "total_region": 244,
  "rubros": {
   "80141600": "Ventas y marketing",
   "82101600": "Publicidad en medios no impresos",
@@ -47,7 +47,7 @@
    "motivos": [
     "radio"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "1758-250-COT26",
    "nombre": "SERVICIOS DE ALOJAMIENTOS Y ALIMENTACION JORNADA CONVIVENCIA EDUCATIVA Y SALUD MENTAL",
    "organismo": "SECRETARIA REGIONAL MINISTERIAL DE EDUCACION XI REGION",
@@ -704,7 +704,7 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=1233615-819-COT26",
    "primera_vista_iso": "2026-10-19T12:56:38-03:00",
    "removida_iso": "2026-10-20T16:05:54-03:00",
-   "estado_api": null,
+   "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,
    "adj_iso": null

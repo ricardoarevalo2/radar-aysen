@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-10-20T17:55:44.056093-03:00",
+ "actualizado": "2026-10-20T18:55:10.444973-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
- "total_region": 245,
+ "total_region": 244,
  "rubros": {
   "25172700": "Aire acondicionado",
   "25173900": "Componentes eléctricos",
@@ -117,7 +117,7 @@
    "motivos": [
     "climatización"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "1758-248-COT26",
    "nombre": "SERVICIO DE SALON EQUIPADO JORNADA DE CONVIVENCIA EDUCATIVA Y SALUD MENTAL",
    "organismo": "SECRETARIA REGIONAL MINISTERIAL DE EDUCACION XI REGION",
