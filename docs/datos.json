@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-10-20T16:05:54.537079-03:00",
+ "actualizado": "2026-10-20T16:54:52.807103-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
- "total_region": 236,
+ "total_region": 240,
  "rubros": {
   "80141600": "Ventas y marketing",
   "82101600": "Publicidad en medios no impresos",
@@ -86,7 +86,7 @@
    "motivos": [
     "Fotógrafos y camarógrafos"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "4733-410-COT26",
    "nombre": "CAPSULAS DE RADIALES",
    "organismo": "I MUNICIPALIDAD DE LAS GUAITECAS",
@@ -371,7 +371,7 @@
    "motivos": [
     "Ventas y marketing"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "1494998-22-COT26",
    "nombre": "SERVICIO DE APOYO A LA REALIZACION DE TALLERES DE GOBERNANZA EN EL ACMU PITIPALENA-AÑIHUE (PPA) PARA LA DIRECCIÓN REGIONAL DE AYSÉN (SBAP)",
    "organismo": "Servicio de Biodiversidad y Áreas Protegidas",
@@ -554,6 +554,33 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=3431-118-COT26",
    "sin_detalle": false,
    "descripcion": "Solicitud de cotización para la adquisición de refrigerador que será utilizado en el casino de suboficiales de esta unidad.\nConforme a anexo adjunto. \nLos proveedores interesados deben adjuntar fotografía del producto con sus características técnicas."
+  },
+  {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Ventas y marketing"
+   ],
+   "nueva": true,
+   "codigo": "4609-286-COT26",
+   "nombre": "SERVICIO PRODUCCION EVENTO",
+   "organismo": "I MUNICIPALIDAD DE CHILE CHICO",
+   "unidad": "Finanzas",
+   "monto": 6200000,
+   "cierre_iso": "2026-10-23T15:30:00-03:00",
+   "publicacion": "20-10 16:28",
+   "publicacion_iso": "2026-10-20T16:28:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "80141607",
+     "Producción de eventos",
+     1,
+     "SERVICIO DE PRODUCCION TECNICA, ARTISTICA Y DE CATERING PARA EL LANZAMIENTO DE TEMPORADA TURISTICA, PUERTO GUADAL 2026-2027. (Detalle TDR adjunto)."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=4609-286-COT26",
+   "sin_detalle": false,
+   "descripcion": "COTIZACION SERVICIO PRODUCCION EVENTO"
   },
   {
    "tipo": "POSIBLE",

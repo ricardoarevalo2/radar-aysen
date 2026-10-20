@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-10-20T16:05:54.537079-03:00",
+ "actualizado": "2026-10-20T16:54:52.807103-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
- "total_region": 236,
+ "total_region": 240,
  "rubros": {
   "25172700": "Aire acondicionado",
   "25173900": "Componentes eléctricos",
@@ -24,7 +24,7 @@
    "motivos": [
     "Gasfitería, calefacción y aire acondicionado"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "1274667-398-COT26",
    "nombre": "SOLICITA SERVICIO DE INSTALACION DE CLIMATIZADOR EXISTENTE TIPO SPLIT PARA CENTRO DE SALUD FAMILIAR PUERTO AYSÉN",
    "organismo": "CENTRO DE SALUD FAMILIAR PUERTO AYSÉN",
@@ -396,7 +396,7 @@
    "motivos": [
     "climatización"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "1758-247-COT26",
    "nombre": "SERVICIO DE ALOJAMIENTO Y ALIMENTACIÓN EN LA CIUDAD DE COYHAIQUE",
    "organismo": "SECRETARIA REGIONAL MINISTERIAL DE EDUCACION XI REGION",
@@ -435,7 +435,7 @@
    "motivos": [
     "climatización"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "1758-246-COT26",
    "nombre": "SERVICIO DE ALOJAMIENTO Y ALIMENTACIÓN EN LA CIUDAD DE COYHAIQUE",
    "organismo": "SECRETARIA REGIONAL MINISTERIAL DE EDUCACION XI REGION",
@@ -732,6 +732,42 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=4609-284-COT26",
    "sin_detalle": false,
    "descripcion": "COTIZACION EQUIPAMIENTO SONIDO Y AMPLIFICACION PROFESIONAL"
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "eléctrico",
+    "eléctricos",
+    "generador",
+    "generador eléctrico"
+   ],
+   "nueva": true,
+   "codigo": "1494998-24-COT26",
+   "nombre": "ADQUISICIÓN Y DESPACHO DE GENERADORES ELÉCTRICOS PARA LAS ÁREAS PROTEGIDAS DE LA DIRECCIÓN REGIONAL DE AYSÉN (SBAP) CONVENIO SBAP-CONAF",
+   "organismo": "Servicio de Biodiversidad y Áreas Protegidas",
+   "unidad": "Dirección Regional de Aysén",
+   "monto": 1900000,
+   "cierre_iso": "2026-10-22T16:00:00-03:00",
+   "publicacion": "20-10 16:20",
+   "publicacion_iso": "2026-10-20T16:20:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "26111601",
+     "Generadores diesel",
+     1,
+     "GENERADOR 6.5 KW. GASOLINA P. ELÉCTRICA: Con Regulador de Voltaje AVR.  Sistema de arranque manual y eléctrico. Su Autonomía es de 12,2 horas (50% de carga). Estanque de 25 litros. Considerar EETT en TDR adjuntos."
+    ],
+    [
+     "26111601",
+     "Generadores diesel",
+     1,
+     "GENERADOR ELÉCTRICO GASOLINA PARTIDA ELÉCTRICA 6000 W 25 I: Potencia de 6000 W y un motor bencinero de 4 tiempos de 419cc. Capacidad de tanque de 25 litros. Autonomía de entre 7.5 y 8.5 horas. Considerar EETT en TDR adjuntos."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1494998-24-COT26",
+   "sin_detalle": false,
+   "descripcion": "El Servicio de Biodiversidad y Áreas Protegidas, en adelante el SBAP, llama a proveedores a participar en la presentación de ofertas destinadas a la adquisición y despacho de generadores eléctricos para las Áreas Protegidas de la Dirección Regional de Aysén del General Carlos Ibáñez del Campo. Considerar TDR para proceso de postulación."
   },
   {
    "tipo": "POSIBLE",
