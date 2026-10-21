@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-10-21T11:58:17.602448-03:00",
+ "actualizado": "2026-10-21T13:00:55.227156-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
- "total_region": 275,
+ "total_region": 272,
  "rubros": {
   "25172700": "Aire acondicionado",
   "25173900": "Componentes eléctricos",
@@ -19,33 +19,6 @@
   "39121400": "Conectores, enchufes y terminales"
  },
  "filas": [
-  {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Conectores, enchufes y terminales"
-   ],
-   "nueva": false,
-   "codigo": "1233615-823-COT26",
-   "nombre": "DMH SOL-2026-01931] Recursos TICS para Escuela \"Litoral Austral\" de Puerto Aysén",
-   "organismo": "Servicio Local de Educación Pública Aysén",
-   "unidad": "Servicio Local de Educación Pública Aysén",
-   "monto": 302470,
-   "cierre_iso": "2026-10-21T12:15:00-03:00",
-   "publicacion": "19-10 16:34",
-   "publicacion_iso": "2026-10-19T16:34:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "39121409",
-     "Conectores de cables eléctricos",
-     1,
-     "insumos, accesorios y equipamiento informático necesarios para garantizar la continuidad operativa, mantención y adecuado funcionamiento de los recursos tecnológicos de la Escuela Litoral Austral, de acuerdo a requerimiento adjunto a la presente compra (debe llenar el formulario N°1)"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1233615-823-COT26",
-   "sin_detalle": false,
-   "descripcion": "Se solicita la adquisición de insumos, accesorios y equipamiento informático necesarios para garantizar la continuidad operativa, mantención y adecuado funcionamiento de los recursos tecnológicos de la Escuela Litoral Austral."
-  },
   {
    "tipo": "POSIBLE",
    "motivos": [
@@ -1016,7 +989,7 @@
    "motivos": [
     "Cables eléctricos y accesorios"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "4609-284-COT26",
    "nombre": "EQUIPAMIENTO SONIDO Y AMPLIFICACION ",
    "organismo": "I MUNICIPALIDAD DE CHILE CHICO",
@@ -1222,6 +1195,72 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=1274667-398-COT26",
    "sin_detalle": false,
    "descripcion": "ADJUNTAR COTIZACION - ADJUNTAR FICHA TECNICA PARA PODER EVALUAR CORRECTAMENTE LA OFERTA - DATOS BANCARIOS - CONTACTO PARA RESOLVER DUDAS - EN CASO DE ADJUDICACION FAVOR EMITIR DESPACHO CON GUIA - MARCAS MENCIONADAS SON SOLAMENTE REFERENCIALES. DETALLES EN DOCUMENTO ADJUNTO."
+  },
+  {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Conectores, enchufes y terminales"
+   ],
+   "nueva": false,
+   "codigo": "1233615-823-COT26",
+   "nombre": "DMH SOL-2026-01931] Recursos TICS para Escuela \"Litoral Austral\" de Puerto Aysén",
+   "organismo": "Servicio Local de Educación Pública Aysén",
+   "unidad": "Servicio Local de Educación Pública Aysén",
+   "monto": 302470,
+   "cierre_iso": "2026-10-23T08:29:00-03:00",
+   "publicacion": "19-10 16:34",
+   "publicacion_iso": "2026-10-19T16:34:00-03:00",
+   "ofertas": 2,
+   "productos": [
+    [
+     "39121409",
+     "Conectores de cables eléctricos",
+     1,
+     "insumos, accesorios y equipamiento informático necesarios para garantizar la continuidad operativa, mantención y adecuado funcionamiento de los recursos tecnológicos de la Escuela Litoral Austral, de acuerdo a requerimiento adjunto a la presente compra (debe llenar el formulario N°1)"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1233615-823-COT26",
+   "sin_detalle": false,
+   "descripcion": "Se solicita la adquisición de insumos, accesorios y equipamiento informático necesarios para garantizar la continuidad operativa, mantención y adecuado funcionamiento de los recursos tecnológicos de la Escuela Litoral Austral."
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "climatización"
+   ],
+   "nueva": true,
+   "codigo": "3765-309-COT26",
+   "nombre": "Adquisición sistema hidráulico de climatización y calefacción. ",
+   "organismo": "SERVICIO NACIONAL DE SALUD HOSPITAL DE C",
+   "unidad": "Hospital Doctor  Leopoldo Ortega Rodríguez",
+   "monto": 1000000,
+   "cierre_iso": "2026-10-23T09:00:00-03:00",
+   "publicacion": "21-10 12:36",
+   "publicacion_iso": "2026-10-21T12:36:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "24111810",
+     "Tanques de almacenamiento de agua",
+     1,
+     "ESTANQUE DE EXPANSIÓN VAREM 200 LTS; COD. UR200471CS000000"
+    ],
+    [
+     "24111810",
+     "Tanques de almacenamiento de agua",
+     2,
+     "GRUPO DE LLENADO AUTOMATICO ALIMAT(in: G1/2 M - Out: G1/2 F)"
+    ],
+    [
+     "24111810",
+     "Tanques de almacenamiento de agua",
+     2,
+     "MANÓMETRO 0 A 4 BAR COMPATIBLE GRUPO DE LLENADO AUTOMATICO"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=3765-309-COT26",
+   "sin_detalle": false,
+   "descripcion": "Adquisición sistema hidráulico de climatización y calefacción."
   },
   {
    "tipo": "POSIBLE",
