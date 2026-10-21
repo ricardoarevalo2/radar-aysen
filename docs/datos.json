@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-10-21T17:56:37.087720-03:00",
+ "actualizado": "2026-10-21T18:57:12.057525-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
- "total_region": 280,
+ "total_region": 277,
  "rubros": {
   "80141600": "Ventas y marketing",
   "82101600": "Publicidad en medios no impresos",
@@ -14,33 +14,6 @@
   "83121700": "Comunicación social y de masas"
  },
  "filas": [
-  {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Ventas y marketing"
-   ],
-   "nueva": false,
-   "codigo": "1494998-22-COT26",
-   "nombre": "SERVICIO DE APOYO A LA REALIZACION DE TALLERES DE GOBERNANZA EN EL ACMU PITIPALENA-AÑIHUE (PPA) PARA LA DIRECCIÓN REGIONAL DE AYSÉN (SBAP)",
-   "organismo": "Servicio de Biodiversidad y Áreas Protegidas",
-   "unidad": "Dirección Regional de Aysén",
-   "monto": 4000000,
-   "cierre_iso": "2026-10-21T18:00:00-03:00",
-   "publicacion": "19-10 15:19",
-   "publicacion_iso": "2026-10-19T15:19:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "80141607",
-     "Producción de eventos",
-     1,
-     "Servicio de apoyo para la realización exitosa de reunión presencial en modalidad de (2) talleres participativos, para la gobernanza del ACMU - Piti Palena Añihue (PPA). En la localidad de Raúl Marín Balmaceda los días 02, 03 y 04 de noviembre de 2026. De acuerdo al detalle de las EETT, contenidas en los TDR adjuntos."
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1494998-22-COT26",
-   "sin_detalle": false,
-   "descripcion": "El Servicio de Biodiversidad y Áreas Protegidas, en adelante el SBAP, llama a proveedores a participar en la presentación de ofertas destinadas a provisionar el servicio de apoyo a la realización de dos (2) talleres de gobernanza en el ACMU-PPA para la Dirección Regional de Aysén del General Carlos Ibáñez del Campo. Considerar EETT en TDR, para el proceso de postulación."
-  },
   {
    "tipo": "OPORTUNIDAD",
    "motivos": [
@@ -420,6 +393,24 @@
   }
  ],
  "historial": [
+  {
+   "codigo": "1494998-22-COT26",
+   "nombre": "SERVICIO DE APOYO A LA REALIZACION DE TALLERES DE GOBERNANZA EN EL ACMU PITIPALENA-AÑIHUE (PPA) PARA LA DIRECCIÓN REGIONAL DE AYSÉN (SBAP)",
+   "organismo": "Servicio de Biodiversidad y Áreas Protegidas",
+   "monto": 4000000,
+   "cierre_iso": "2026-10-21T18:00:00-03:00",
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Ventas y marketing"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1494998-22-COT26",
+   "primera_vista_iso": "2026-10-19T16:06:33-03:00",
+   "removida_iso": "2026-10-21T18:57:12-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
   {
    "codigo": "2713-1258-COT26",
    "nombre": "ALCALDIA, Adquisicion de servicio de produccion actividad \"Dia Funcionario Municipal 2026\" folio 1300",
@@ -1016,25 +1007,6 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=1758-234-COT26",
    "primera_vista_iso": "2026-10-13T17:57:22-03:00",
    "removida_iso": "2026-10-15T11:03:49-03:00",
-   "estado_api": "",
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "4066-420-COT26",
-   "nombre": "SERVICIO DE INSTALACION DE EQUIPAMIENTO PARA LAS RADIOS MUNICIPALES DE A COMUNA",
-   "organismo": "I MUNICIPALIDAD RIO IBANEZ",
-   "monto": 2000000,
-   "cierre_iso": "2026-10-14T18:00:00-03:00",
-   "tipo": "POSIBLE",
-   "motivos": [
-    "radial",
-    "radio"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=4066-420-COT26",
-   "primera_vista_iso": "2026-10-13T17:57:22-03:00",
-   "removida_iso": "2026-10-14T18:54:51-03:00",
    "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,
