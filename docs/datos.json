@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-10-21T18:57:12.057525-03:00",
+ "actualizado": "2026-10-21T19:54:17.911311-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
- "total_region": 277,
+ "total_region": 286,
  "rubros": {
   "80141600": "Ventas y marketing",
   "82101600": "Publicidad en medios no impresos",
@@ -336,6 +336,35 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=2495-564-COT26",
    "sin_detalle": false,
    "descripcion": "Adquisición de estrellas antiestrés personalizables y folletería informativa “¿Qué es SENDA?” y “1412 Escucha y Orienta”, para fortalecer la difusión del Programa SENDA Previene 2026, promover factores protectores y sensibilizar a la comunidad sobre la prevención del consumo de alcohol y otras drogas."
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "difusión",
+    "publicidad",
+    "publicitarios"
+   ],
+   "nueva": true,
+   "codigo": "613-33-COT26",
+   "nombre": "Adquisición de elementos gráficos de difusión institucional para la SEREMI MINVU Región de Aysén",
+   "organismo": "Ministerio de Vivienda y Urbanismo",
+   "unidad": "SEREMI MINVU XI REGION",
+   "monto": 874616,
+   "cierre_iso": "2026-10-24T08:00:00-03:00",
+   "publicacion": "21-10 19:25",
+   "publicacion_iso": "2026-10-21T19:25:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "82101507",
+     "Folletos y catálogos publicitarios, servicios de publicidad y distribución",
+     1,
+     "Adquisición de elementos de difusión institucional para la SEREMI MINVU Región de Aysén, que contempla: 4 banderas institucionales tipo vela de 100 x 300 cm,  base y accesorios; 1 tela de poliéster de 225 x 350 cm para módulo araña curvo; y 2 mini pendones de sobremesa, uno blanco y otro azul, con sus respectivos soportes, 1 pendon de 100*200 cm. Los productos deberán cumplir con las especificaciones técnicas y gráficas adjuntas. Entrega en Freire N° 3, Coyhaique."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=613-33-COT26",
+   "sin_detalle": false,
+   "descripcion": "Adquisición de elementos de difusión institucional para la SEREMI MINVU Región de Aysén, que contempla: 4 banderas institucionales tipo vela de 100 x 300 cm,  base y accesorios; 1 tela de poliéster de 225 x 350 cm para módulo araña curvo; y 2 mini pendones de sobremesa, uno blanco y otro azul, con sus respectivos soportes, 1 pendon de 100*200 cm. Los productos deberán cumplir con las especificaciones técnicas y gráficas adjuntas. Entrega en Freire N° 3, Coyhaique."
   },
   {
    "tipo": "POSIBLE",
