@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-10-21T14:55:02.791499-03:00",
+ "actualizado": "2026-10-21T16:06:48.008610-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
- "total_region": 278,
+ "total_region": 267,
  "rubros": {
   "25172700": "Aire acondicionado",
   "25173900": "Componentes eléctricos",
@@ -19,444 +19,6 @@
   "39121400": "Conectores, enchufes y terminales"
  },
  "filas": [
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "aire acondicionado"
-   ],
-   "nueva": false,
-   "codigo": "1107283-173-COT26",
-   "nombre": "AIRE ACONDICIONADO",
-   "organismo": "INSTITUTO DE INVESTIGACIONES AGROPECUARIAS",
-   "unidad": "TAMELAIKE",
-   "monto": 1100000,
-   "cierre_iso": "2026-10-21T15:00:00-03:00",
-   "publicacion": "19-10 11:33",
-   "publicacion_iso": "2026-10-19T11:33:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "73161517",
-     "Servicios de fabricación de equipo de aire acondicionado, ventilación o refrigeración",
-     1,
-     "Requiere de la compra de equipo de aire acondicionado instalación y mano de obra. Considerar detalles en términos de referencia adjuntos."
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1107283-173-COT26",
-   "sin_detalle": false,
-   "descripcion": "Equipo de aire acondicionado"
-  },
-  {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Conectores, enchufes y terminales"
-   ],
-   "nueva": true,
-   "codigo": "1449-12-COT26",
-   "nombre": "Adquisición de materiales de oficina ",
-   "organismo": "FONDO DE SOLIDARIDAD E INVERSION SOCIAL",
-   "unidad": "11 - Región de Aysen General Carlos Ibanez del C.",
-   "monto": 2000000,
-   "cierre_iso": "2026-10-21T15:00:00-03:00",
-   "publicacion": "14-10 16:08",
-   "publicacion_iso": "2026-10-14T16:08:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "14111507",
-     "Papel para fotocopiadora o impresora",
-     20,
-     "Resma de hojas tamaño \noficio \tResma de papel blanco, tamaño oficio."
-    ],
-    [
-     "14111507",
-     "Papel para fotocopiadora o impresora",
-     30,
-     "Resma de hojas tamaño carta \tResma de papel blanco, tamaño carta."
-    ],
-    [
-     "14111530",
-     "Notas de papel autoadhesivo",
-     15,
-     "Notas adhesivas de papel, de 100 hojas, dimensiones 3,8 × 4,8 cm, con adhesivo removible."
-    ],
-    [
-     "14111530",
-     "Notas de papel autoadhesivo",
-     20,
-     "Notas adhesivas de papel en formato continuo tipo acordeón, compatibles con dispensador, block de mínimo 100 hojas."
-    ],
-    [
-     "14111531",
-     "Libros o cuadernos de registro",
-     15,
-     "Cuaderno 100 hojas, tamaño 17 × 21 cm, hojas de 7 mm, tapa dura y encuadernación espiral simple."
-    ],
-    [
-     "31201512",
-     "Cinta Transparente",
-     24,
-     "Cinta adhesiva transparente de 19 mm x 33 metros de largo."
-    ],
-    [
-     "31201512",
-     "Cinta Transparente",
-     10,
-     "Cinta adhesiva Masking tape, de 36 mm de ancho por 40 metros de largo."
-    ],
-    [
-     "31201517",
-     "Cinta para empaquetar",
-     10,
-     "Cinta adhesiva para embalaje, transparente, de 48 mm de ancho por 40 metros de largo."
-    ],
-    [
-     "39121402",
-     "Enchufes eléctricos",
-     3,
-     "Alargador eléctrico de 5 metros, con mínimo 4 tomas, interruptor de encendido/apagado y piloto luminoso. Capacidad mínima de \n10 A, 250 V y 2.300 W. Enchufe y tomas con conexión a tierra (2P+T). Material plástico auto extinguible. Debe contar con certificación SEC vigente y sello verificable."
-    ],
-    [
-     "41111604",
-     "Reglas",
-     3,
-     "Regla de 30 cm de longitud, fabricada en acero inoxidable, con graduación visible en centímetros y milímetros."
-    ],
-    [
-     "44101801",
-     "Calculadoras o accesorios",
-     3,
-     "Calculadora electrónica de escritorio, con pantalla LCD de mínimo \n12 dígitos, pantalla inclinada y base antideslizante. Debe incorporar, como mínimo, funciones GT, M+, M-, MC, MR, MU, selectores deslizantes de redondeo y decimales, doble cero (00) y porcentaje (%). Alimentación mediante energía solar y pilas. Cuerpo de material plástico de alta resistencia. Dimensiones aproximadas de 16 cm de ancho por 21 cm de largo y 3,5 cm de alto."
-    ],
-    [
-     "44111501",
-     "Soportes o dispensadores de mensajes",
-     3,
-     "Dispensador de notas continuas \tDispensador de escritorio para notas adhesivas continuas tipo acordeón, compatible con blocks de mínimo 100 hojas."
-    ],
-    [
-     "44111503",
-     "Bandejas de correspondencia",
-     3,
-     "Organizador de escritorio \tBandeja organizadora metálica para escritorio, de 3 niveles."
-    ],
-    [
-     "44111509",
-     "Portalápiz",
-     3,
-     "Dispensador porta clips de escritorio, formato blíster, con sistema de sujeción magnética para facilitar la extracción de clips."
-    ],
-    [
-     "44111514",
-     "Porta timbres",
-     3,
-     "Dispensador porta clips de escritorio, formato blíster, con sistema de sujeción magnética para facilitar la extracción de clips."
-    ],
-    [
-     "44111515",
-     "Organizadores o cajas de almacenamiento de archivos",
-     20,
-     "Caja de archivo de tamaño aproximado 260 × 302 × 420 mm. Material resistente para uso de oficina."
-    ],
-    [
-     "44111515",
-     "Organizadores o cajas de almacenamiento de archivos",
-     15,
-     "Caja de archivo de dimensiones aproximadas 38 × 25 × 15 cm. Material resistente para uso de oficina."
-    ],
-    [
-     "44111521",
-     "Sujetapapeles",
-     6,
-     "Anotador con apretador \tAnotador tamaño oficio, con cubierta plástica, sujetador metálico para documentos y tapa protectora."
-    ],
-    [
-     "44111905",
-     "Pizarras para plumón y accesorios",
-     3,
-     "Pizarra acrílica de 60 × 80 cm, con marco de aluminio."
-    ],
-    [
-     "44112001",
-     "Libretas de direcciones",
-     4,
-     "Libreta bitácora \tLibreta bitácora 100 Hjs. Hoja de ruta control de vehículo"
-    ],
-    [
-     "44121604",
-     "Timbres y sellos",
-     6,
-     "Tampón de tinta para impresión dactilar, con almohadilla de tinta y tapa de protección para evitar el secado."
-    ],
-    [
-     "44121605",
-     "Dispensador de cinta",
-     3,
-     "Dispensador de escritorio para cinta adhesiva, con base pesada antideslizante y cuchilla de acero inoxidable, compatible con cintas de 19mm x 33 m."
-    ],
-    [
-     "44121612",
-     "Cuchillos cartoneros",
-     3,
-     "Cuchillo cartonero grande, hoja 18mm, con cuerpo metálico y sistema de seguridad para protección durante su utilización."
-    ],
-    [
-     "44121612",
-     "Cuchillos cartoneros",
-     3,
-     "Repuesto cuchillo cartonero \tRepuesto Cuchillo Cartonero 18 mm. Caja 10 unidades."
-    ],
-    [
-     "44121615",
-     "Corcheteras",
-     3,
-     "Corchetera de escritorio grande, de estructura resistente con cuerpo interior metálico, cubierta de goma suave, carga frontal con botón, guía de papel ajustable, base antideslizante, capacidad de hasta 25 hojas y compatible con corchetes estándar 26/6."
-    ],
-    [
-     "44121615",
-     "Corcheteras",
-     3,
-     "Corchete estándar 26/6. Caja 5.000 unidades"
-    ],
-    [
-     "44121618",
-     "Tijeras",
-     3,
-     "Tijera de oficina, longitud mínima de 19 cm, hojas de acero inoxidable y mango ergonómico."
-    ],
-    [
-     "44121626",
-     "Dedales",
-     1,
-     "Dedal de goma \tCaja de 12 unidades, talla M."
-    ],
-    [
-     "44121704",
-     "Lápiz pasta",
-     2,
-     "Caja de 50 unidades de lápices pasta, tinta color azul, punta media de 1,0 mm."
-    ],
-    [
-     "44121708",
-     "Marcadores",
-     15,
-     "Destacadores de variados colores. Ejemplo de tonalidades como amarillo, verde, colores pastel, naranjo, etc."
-    ],
-    [
-     "44121708",
-     "Marcadores",
-     12,
-     "Plumón permanente, apto para escritura sobre distintas superficies. Distribución: 3 unidades color azul y 3 unidades color negro."
-    ],
-    [
-     "44121708",
-     "Marcadores",
-     18,
-     "Plumón para pizarra acrílica, colores azul y negro. Distribución: 9 unidades color azul y 9 unidades color negro."
-    ],
-    [
-     "44121801",
-     "Cinta correctora",
-     30,
-     "Corrector en cinta, 5 mm de ancho y 8 metros de longitud."
-    ],
-    [
-     "44121804",
-     "Borradores",
-     3,
-     "Borrador de pizarra \tBorrador para pizarra acrílica."
-    ],
-    [
-     "44122010",
-     "Divisores",
-     20,
-     "Separadores de cartulina para archivadores tamaño oficio, organizados en set de 12 unidades, con identificación visible para clasificación de documentos."
-    ],
-    [
-     "44122011",
-     "Carpetas para archivos",
-     6,
-     "Carpeta plástica tipo sobre, tamaño oficio, para almacenamiento y protección de documentos, con sistema de cierre tipo solapa y elásticos."
-    ],
-    [
-     "44122011",
-     "Carpetas para archivos",
-     15,
-     "Carpeta con 40 fundas transparentes para hojas tamaño oficio."
-    ],
-    [
-     "44122022",
-     "Accesorios para carpetas con anillados",
-     10,
-     "10 Archivadores tamaño oficio, lomo ancho, con palanca metálica, cubierta rígida y resistente para uso de oficina."
-    ],
-    [
-     "45101508",
-     "Perforadoras",
-     3,
-     "Perforadora de oficina, capacidad de perforación para 30 hojas o más, cuerpo metálico, 2 punzones de acero, perforación 80mm."
-    ],
-    [
-     "45101508",
-     "Perforadoras",
-     1,
-     "Perforadora oficina, capacidad de perforación para 100 hojas, cuerpo metálico, 2 punzones de acero de 6mm, distancia 80mm, con guía regulable y base antideslizante."
-    ],
-    [
-     "55121616",
-     "Banderitas autoadhesivas",
-     18,
-     "Banderitas destacadoras adhesivas, removibles, en colores variados, en formato blister."
-    ],
-    [
-     "60105704",
-     "Barras de pegamento libres de ácido",
-     12,
-     "Pegamento en barra \tAdhesivo sólido en barra, de alta adherencia, peso mínimo 40 g, con tapa hermética para evitar su secado."
-    ],
-    [
-     "60121702",
-     "Tinta para timbres",
-     6,
-     "Tinta para recarga de huellero dactilar, a base de agua, no tóxica, color negro, de secado rápido, en frasco dosificador de 30 a 50 ml, compatible con almohadillas estándar, en envase original sellado."
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1449-12-COT26",
-   "sin_detalle": false,
-   "descripcion": "revisar terminos tecnicos de areferencia adjunto con detalles de bienes y anexs para pstular"
-  },
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "climatización"
-   ],
-   "nueva": false,
-   "codigo": "1758-247-COT26",
-   "nombre": "SERVICIO DE ALOJAMIENTO Y ALIMENTACIÓN EN LA CIUDAD DE COYHAIQUE",
-   "organismo": "SECRETARIA REGIONAL MINISTERIAL DE EDUCACION XI REGION",
-   "unidad": "Mineduc Administración XI Región",
-   "monto": 544000,
-   "cierre_iso": "2026-10-21T15:30:00-03:00",
-   "publicacion": "19-10 15:46",
-   "publicacion_iso": "2026-10-19T15:46:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "90111802",
-     "Habitación doble",
-     2,
-     "- 01 HABITACIÓN DOBLE CON DESAYUNO INCLUIDO, CHECK IN 09/11/20206, CHECK OUT 10/11/2026. \n- 01 HABITACIÓN DOBLE CON DESAYUNO INCLUIDO, CHECK IN 13/11/2026, CHECK OUT 14/11/2026. \n- LA HABITACIÓN OFRECIDA DEBE CONTAR CON BAÑO PRIVADO, CALEFACCIÓN O CLIMATIZACIÓN, BUENA VENTILACIÓN Y WIFI. \n- EL OFERENTE EN SU PROPUESTA DEBE INDICAR LA DIRECCIÓN DEL HOSPEDAJE. \n- SE PRIORIZARÁ DE PREFERENCIA A LOS PROVEEDORES QUE CUENTEN CON POLITICAS DE REUTIIZACIÓN DE SÁBANAS Y TOALLAS (ESTANDAR HOTELERO)."
-    ],
-    [
-     "90111801",
-     "Habitación sencilla",
-     4,
-     "- 02 HABITACIÓN SINGLE CON DESAYUNO INCLUIDO, CHECK IN 09/11/20206, CHECK OUT 10/11/2026. \n- 02 HABITACIÓN SINGLE CON DESAYUNO INCLUIDO, CHECK IN 13/11/2026, CHECK OUT 14/11/2026. \n- LA HABITACIÓN OFRECIDA DEBE CONTAR CON BAÑO PRIVADO, CALEFACCIÓN O CLIMATIZACIÓN, BUENA VENTILACIÓN Y WIFI. \n- EL OFERENTE EN SU PROPUESTA DEBE INDICAR LA DIRECCIÓN DEL HOSPEDAJE. \n- SE PRIORIZARÁ DE PREFERENCIA A LOS PROVEEDORES QUE CUENTEN CON POLITICAS DE REUTIIZACIÓN DE SÁBANAS Y TOALLAS (ESTANDAR HOTELERO)."
-    ],
-    [
-     "90101501",
-     "Restaurantes",
-     8,
-     "- CENA PARA 04 PERSONAS OFRECIDO EL DÍA 09/11/2026, A LAS 19:30 HRS. \n- CENA PARA 04 PERSONAS OFRECIDO EL DÍA 13/11/2026, A LAS 19:30 HRS. \n- EL MENÚ DEBERÁ CONSIDERAR A LO MENOS: ENTRADA Y/O ENSALDA, PLATO DE FONDO CON ALTERANTIVA DE PROTEINA MAS ACOMPAÑAMIENTO, POSTRE Y BEBESTIBLE NO ALCÓHOLICO.\n- SE DEBE CONSIDERAR ALTERNATIVAS VEGETARIANAS EN CASO DE SER NECESARIO.\n- EL SERVICIO DEBERÁ PRESTARSE DE PREFERENCIA EN LAS MISMAS DEPENDENCIAS DEL HOSPEDAJE."
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1758-247-COT26",
-   "sin_detalle": false,
-   "descripcion": "- 02 HABITACIONES SINGLE y 01 HABITACIÓN DOBLE CHECK IN 09/11/20206, CHECK OUT 10/11/2026. \n- 02 HABITACIONES SINGLE y 01 HABITACIÓN DOBLE CHECK IN 13/11/20206, CHECK OUT 14/11/2026. \n- CENA PARA 04 PERSONAS EL DÍA 09/11/2026 Y CENA PARA 04 PERSONAS EL DÍA 13/11/2026. A LAS 19:30 HRS. DE PREFERENCIA EN LAS MISMAS DEPENDENCIAS DEL HOSPEDAJE. \nEL OFERENTE EN SU PROPUESTA DEBE INDICAR LA DIRECCIÓN DEL HOSPEDAJE.\nSE PRIORIZARÁN LAS PROPUESTAS DE OFERENTES QUE CUENTEN CON POLITICAS SUSTENTABLES."
-  },
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "climatización"
-   ],
-   "nueva": false,
-   "codigo": "1758-246-COT26",
-   "nombre": "SERVICIO DE ALOJAMIENTO Y ALIMENTACIÓN EN LA CIUDAD DE COYHAIQUE",
-   "organismo": "SECRETARIA REGIONAL MINISTERIAL DE EDUCACION XI REGION",
-   "unidad": "Mineduc Administración XI Región",
-   "monto": 220000,
-   "cierre_iso": "2026-10-21T15:30:00-03:00",
-   "publicacion": "19-10 14:56",
-   "publicacion_iso": "2026-10-19T14:56:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "90111801",
-     "Habitación sencilla",
-     2,
-     "- 01 HABITACIÓN SINGLE CON DESAYUNO INCLUIDO CHECK IN 10/11/2026, CHECK OUT 12/11/2026. \n- LA HABITACIÓN OFRECIDA DEBE CONTAR CON BAÑO PRIVADO, CALEFACCIÓN O CLIMATIZACIÓN, BUENA VENTILACIÓN Y WIFI. \n- EL OFERENTE EN SU PROPUESTA DEBE INDICAR LA DIRECCIÓN DEL HOSPEDAJE. \n- SE PRIORIZARÁ DE PREFERENCIA A LOS PROVEEDORES QUE CUENTEN CON POLITICAS DE REUTIIZACIÓN DE SÁBANAS Y TOALLAS (ESTANDAR HOTELERO). \n- EL OFERENTE EN SU PROPUESTA DEBE INDICAR LA DIRECCIÓN DEL HOSPEDAJE."
-    ],
-    [
-     "90101501",
-     "Restaurantes",
-     3,
-     "- ALMUERZO PARA 01 PERSONA OFRECIDO EL DÍA 11/11/2026, A LAS 13:00 HRS. DE PREFERENCIA EN LAS MISMAS DEPENDENCIAS DEL HOSPEDAJE. \n- SERVICIO DE CENA PARA UNA PERSONA LOS DÍAS 10 Y 11 DE NOVIEMBRE DE 2026 A LAS 19:30 HRS. APROX. \n- EL MENÚ DEBERÁ CONSIDERAR A LO MENOS: ENTRADA Y/O ENSALDA, PLATO DE FONDO CON ALTERANTIVA DE PROTEINA MAS ACOMPAÑAMIENTO, POSTRE Y BEBESTIBLE NO ALCÓHOLICO."
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1758-246-COT26",
-   "sin_detalle": false,
-   "descripcion": "- HABITACIÓN SINGLE CON DESAYUNO INCLUIDO CHECK IN 10/11/20206, CHECK OUT 12/11/2026. - ALMUERZO PARA 01 PERSONA OFRECIDO EL DÍA 11/11/2026, A LAS 13:00 HRS. DE PREFERENCIA EN LAS MISMAS DEPENDENCIAS DEL HOSPEDAJE. \n- SERVICIO DE CENA PARA UNA PERSONA LOS DÍAS 10 Y 11 DE NOVIEMBRE DE 2026 A LAS 19:30 HRS. APROX. \n- LA HABITACIÓN OFRECIDA DEBE CONTAR CON BAÑO PRIVADO, CALEFACCIÓN O CLIMATIZACIÓN, BUENA VENTILACIÓN Y WIFI. \n- EL OFERENTE EN SU PROPUESTA DEBE INDICAR LA DIRECCIÓN DEL HOSPEDAJE."
-  },
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "climatización"
-   ],
-   "nueva": false,
-   "codigo": "1758-245-COT26",
-   "nombre": "SERVICIO DE ALOJAMIENTO Y ALIMENTACIÓN EN LA CIUDAD DE COYHAIQUE",
-   "organismo": "SECRETARIA REGIONAL MINISTERIAL DE EDUCACION XI REGION",
-   "unidad": "Mineduc Administración XI Región",
-   "monto": 220000,
-   "cierre_iso": "2026-10-21T15:30:00-03:00",
-   "publicacion": "19-10 12:43",
-   "publicacion_iso": "2026-10-19T12:43:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "90111801",
-     "Habitación sencilla",
-     2,
-     "- 01 HABITACIÓN SINGLE CON DESAYUNO INCLUIDO CHECK IN 05/11/20206, CHECK OUT 07/11/2026. \n- LA HABITACIÓN OFRECIDA DEBE CONTAR CON BAÑO PRIVADO, CALEFACCIÓN O CLIMATIZACIÓN, BUENA VENTILACIÓN Y WIFI.\n- EL OFERENTE EN SU PROPUESTA DEBE INDICAR LA DIRECCIÓN DEL HOSPEDAJE.\n- SE PRIORIZARÁ DE PREFERENCIA A LOS PROVEEDORES QUE CUENTEN CON POLITICAS DE REUTIIZACIÓN DE SÁBANAS Y TOALLAS (ESTANDAR HOTELERO).\n- EL OFERENTE EN SU PROPUESTA DEBE INDICAR LA DIRECCIÓN DEL HOSPEDAJE."
-    ],
-    [
-     "90101501",
-     "Restaurantes",
-     3,
-     "- ALMUERZO PARA 01 PERSONA OFRECIDO EL DÍA 06/11/2026, A LAS 13:00 HRS. DE PREFERENCIA EN LAS MISMAS DEPENDENCIAS DEL HOSPEDAJE.\n- SERVICIO DE CENA PARA UNA PERSONA LOS DÍAS 05 Y 06 DE NOVIEMBRE DE 2026 A LAS 19:30 HRS. APROX.\n- EL MENÚ DEBERÁ CONSIDERAR A LO MENOS: ENTRADA Y/O ENSALDA, PLATO DE FONDO CON ALTERANTIVA DE PROTEINA MAS ACOMPAÑAMIENTO, POSTRE Y BEBESTIBLE NO ALCÓHOLICO."
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1758-245-COT26",
-   "sin_detalle": false,
-   "descripcion": "- HABITACIÓN SINGLE CON DESAYUNO INCLUIDO CHECK IN 05/11/20206, CHECK OUT 07/11/2026. \n- ALMUERZO PARA 01 PERSONA OFRECIDO EL DÍA 06/11/2026, A LAS 13:00 HRS. DE PREFERENCIA EN LAS MISMAS DEPENDENCIAS DEL HOSPEDAJE.\n- SERVICIO DE CENA PARA UNA PERSONA LOS DÍAS 05 Y 06 DE NOVIEMBRE DE 2026 A LAS 19:30 HRS. APROX.\n- LA HABITACIÓN OFRECIDA DEBE CONTAR CON BAÑO PRIVADO, CALEFACCIÓN O CLIMATIZACIÓN, BUENA VENTILACIÓN Y WIFI.\n-  EL OFERENTE EN SU PROPUESTA DEBE INDICAR LA DIRECCIÓN DEL HOSPEDAJE."
-  },
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "iluminación"
-   ],
-   "nueva": true,
-   "codigo": "4066-429-COT26",
-   "nombre": "Servicio de producción de eventos, Feria Productiva Lanzamiento de Temporada Turística, Puerto Río Tranquilo – COD BIP 40066883-0",
-   "organismo": "I MUNICIPALIDAD RIO IBANEZ",
-   "unidad": "DIDECO",
-   "monto": 7150000,
-   "cierre_iso": "2026-10-21T15:40:00-03:00",
-   "publicacion": "20-10 15:34",
-   "publicacion_iso": "2026-10-20T15:34:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "80141607",
-     "Producción de eventos",
-     1,
-     "Servicio completo, valor único y total, Impuesto incluido: 3 bandas regionales (6 presentaciones de mín. 90 min), animador, sonido e iluminación, ornamentación, montaje y desmontaje, 500 sopaipillas con pebre, 20 almuerzos, 150 agendas, 200 pines, 150 bolsas, 10 placas de reconocimiento y registro fotográfico. Sábado 31 de octubre de 2026, plaza de Puerto Río Tranquilo, montaje desde 08:00 hrs. Detalle y mínimos en el TDR adjunto. Máximo $7.150.000."
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=4066-429-COT26",
-   "sin_detalle": false,
-   "descripcion": "Servicio de producción de eventos para la feria productiva Lanzamiento de Temporada Turística 2026-2027, sábado 31 de octubre de 2026, en la plaza de Puerto Río Tranquilo. Incluye música en vivo, animación, sonido e iluminación, ornamentación y montaje, alimentación, mechandising, reconocimientos y registro fotográfico. Presupuesto máximo $7.150.000, Impuesto incluido. Adjuntar patente municipal, propuesta técnica, ficha técnica de sonido e iluminación y cotización firmada. Ver TDR adjunto."
-  },
   {
    "tipo": "POSIBLE",
    "motivos": [
@@ -991,6 +553,129 @@
    "descripcion": "Recambio de llaves de lavamanos y cambio de luminaria led en dependencias de sernameg según términos de referencia"
   },
   {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Conectores, enchufes y terminales"
+   ],
+   "nueva": true,
+   "codigo": "1280-72-COT26",
+   "nombre": "Insumos de ferretería y/u otros",
+   "organismo": "MINISTERIO DE OBRAS PUBLICAS DIREC CION GRAL DE OO PP DCYF",
+   "unidad": "Direccion de Vialidad - XI Región - Provincia de Cochrane",
+   "monto": 3600000,
+   "cierre_iso": "2026-10-22T16:00:00-03:00",
+   "publicacion": "21-10 15:46",
+   "publicacion_iso": "2026-10-21T15:46:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "10101807",
+     "Pulpos",
+     2,
+     "Pulpo Cadena 6.700 Kg - 05 Mt - 10 Mm - 4 Ram. G/Yos"
+    ],
+    [
+     "10101807",
+     "Pulpos",
+     2,
+     "Pulpo Cadena 7.500 Kg - 3 Mt - 13 Mm - 2 Ram G/Yos C/Ac."
+    ],
+    [
+     "12352310",
+     "Siliconas",
+     10,
+     "Silicona Spray Protección (Uso General)"
+    ],
+    [
+     "15121802",
+     "Lubricantes anticorrosivos",
+     20,
+     "Lubricante - Aflojador - Ablandador Mecánico Spray Wd-40 - Aerosol"
+    ],
+    [
+     "23171509",
+     "Soldadura",
+     2,
+     "Soldadura De Acero Inoxidable De 1/16\""
+    ],
+    [
+     "23171536",
+     "Portaelectrodos",
+     4,
+     "Porta Electrodos"
+    ],
+    [
+     "24101611",
+     "Eslingas",
+     15,
+     "Eslinga 2\" X Largo 5 A 9 Mt Tecle Ratchet"
+    ],
+    [
+     "27112004",
+     "Palas",
+     20,
+     "Pala Punta Huevo Con Mango Metalico"
+    ],
+    [
+     "31162904",
+     "Grampas de cable metálico",
+     6,
+     "Pinza  toma tierra de 600 amp."
+    ],
+    [
+     "31211507",
+     "Pinturas en aerosol",
+     24,
+     "Pintura En Spray Fluorescente"
+    ],
+    [
+     "39121436",
+     "Electrodos",
+     50,
+     "Electrodo 7018 De 1/8\" (3.2 Mm)"
+    ],
+    [
+     "39121436",
+     "Electrodos",
+     2,
+     "Electrodo DE ALUMINIO DE 3/32\", TIPO E-4043"
+    ],
+    [
+     "44121710",
+     "Tiza para escribir o accesorios",
+     2,
+     "Tiza de calderero para marcar metales. (100 UNIDADES CADA CAJA)"
+    ],
+    [
+     "47131502",
+     "Paños de limpieza",
+     50,
+     "Paño Trapo  Para Limpieza (Huaipe) En Bolsas"
+    ],
+    [
+     "47131602",
+     "Paños de limpieza absorbente",
+     6,
+     "Saco Absorbente De Hidrocarburos"
+    ],
+    [
+     "49161703",
+     "Discos",
+     200,
+     "Disco De Corte/Desbaste/Acabado   7\" Acero Inoxidable,  Bda  Multiuso"
+    ],
+    [
+     "49161703",
+     "Discos",
+     200,
+     "Disco De Corte Metal 4.5\" X 3/32\" X 7/8\""
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1280-72-COT26",
+   "sin_detalle": false,
+   "descripcion": "Que es necesario adquirir insumos de ferretería para la Oficina Provincial de Cochrane los cuales deben ser entregados en la Oficina Provincial Capitán Prat, Comuna de Cochrane, Dirección de Vialidad Región de Aysén, ubicada en Esmeralda 316. El flete debe ser considerado por el proveedor"
+  },
+  {
    "tipo": "POSIBLE",
    "motivos": [
     "eléctrico",
@@ -1232,6 +917,114 @@
   }
  ],
  "historial": [
+  {
+   "codigo": "4066-429-COT26",
+   "nombre": "Servicio de producción de eventos, Feria Productiva Lanzamiento de Temporada Turística, Puerto Río Tranquilo – COD BIP 40066883-0",
+   "organismo": "I MUNICIPALIDAD RIO IBANEZ",
+   "monto": 7150000,
+   "cierre_iso": "2026-10-21T15:40:00-03:00",
+   "tipo": "POSIBLE",
+   "motivos": [
+    "iluminación"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=4066-429-COT26",
+   "primera_vista_iso": "2026-10-20T16:05:54-03:00",
+   "removida_iso": "2026-10-21T16:06:48-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
+  {
+   "codigo": "1758-245-COT26",
+   "nombre": "SERVICIO DE ALOJAMIENTO Y ALIMENTACIÓN EN LA CIUDAD DE COYHAIQUE",
+   "organismo": "SECRETARIA REGIONAL MINISTERIAL DE EDUCACION XI REGION",
+   "monto": 220000,
+   "cierre_iso": "2026-10-21T15:30:00-03:00",
+   "tipo": "POSIBLE",
+   "motivos": [
+    "climatización"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1758-245-COT26",
+   "primera_vista_iso": "2026-10-19T12:56:38-03:00",
+   "removida_iso": "2026-10-21T16:06:48-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
+  {
+   "codigo": "1758-247-COT26",
+   "nombre": "SERVICIO DE ALOJAMIENTO Y ALIMENTACIÓN EN LA CIUDAD DE COYHAIQUE",
+   "organismo": "SECRETARIA REGIONAL MINISTERIAL DE EDUCACION XI REGION",
+   "monto": 544000,
+   "cierre_iso": "2026-10-21T15:30:00-03:00",
+   "tipo": "POSIBLE",
+   "motivos": [
+    "climatización"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1758-247-COT26",
+   "primera_vista_iso": "2026-10-19T16:06:33-03:00",
+   "removida_iso": "2026-10-21T16:06:48-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
+  {
+   "codigo": "1758-246-COT26",
+   "nombre": "SERVICIO DE ALOJAMIENTO Y ALIMENTACIÓN EN LA CIUDAD DE COYHAIQUE",
+   "organismo": "SECRETARIA REGIONAL MINISTERIAL DE EDUCACION XI REGION",
+   "monto": 220000,
+   "cierre_iso": "2026-10-21T15:30:00-03:00",
+   "tipo": "POSIBLE",
+   "motivos": [
+    "climatización"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1758-246-COT26",
+   "primera_vista_iso": "2026-10-19T16:06:33-03:00",
+   "removida_iso": "2026-10-21T16:06:48-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
+  {
+   "codigo": "1449-12-COT26",
+   "nombre": "Adquisición de materiales de oficina ",
+   "organismo": "FONDO DE SOLIDARIDAD E INVERSION SOCIAL",
+   "monto": 2000000,
+   "cierre_iso": "2026-10-21T15:00:00-03:00",
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Conectores, enchufes y terminales"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1449-12-COT26",
+   "primera_vista_iso": "2026-10-14T18:54:51-03:00",
+   "removida_iso": "2026-10-21T16:06:48-03:00",
+   "estado_api": "",
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
+  {
+   "codigo": "1107283-173-COT26",
+   "nombre": "AIRE ACONDICIONADO",
+   "organismo": "INSTITUTO DE INVESTIGACIONES AGROPECUARIAS",
+   "monto": 1100000,
+   "cierre_iso": "2026-10-21T15:00:00-03:00",
+   "tipo": "POSIBLE",
+   "motivos": [
+    "aire acondicionado"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1107283-173-COT26",
+   "primera_vista_iso": "2026-10-19T12:02:56-03:00",
+   "removida_iso": "2026-10-21T16:06:48-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
   {
    "codigo": "741465-12-COT26",
    "nombre": "Puesta en marcha de central de alarma contra incendios ",

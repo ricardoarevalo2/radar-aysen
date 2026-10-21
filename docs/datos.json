@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-10-21T14:55:02.791499-03:00",
+ "actualizado": "2026-10-21T16:06:48.008610-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
- "total_region": 278,
+ "total_region": 267,
  "rubros": {
   "80141600": "Ventas y marketing",
   "82101600": "Publicidad en medios no impresos",
@@ -20,87 +20,6 @@
     "Ventas y marketing"
    ],
    "nueva": false,
-   "codigo": "2495-565-COT26",
-   "nombre": "PRODUCCION CEREMONIA COYHAIQUINOS DESTACADOS",
-   "organismo": "I MUNICIPALIDAD DE COYHAIQUE",
-   "unidad": "DIRECCION DESARROLLO COMUNITARIO",
-   "monto": 1100000,
-   "cierre_iso": "2026-10-21T15:00:00-03:00",
-   "publicacion": "19-10 18:59",
-   "publicacion_iso": "2026-10-19T18:59:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "80141607",
-     "Producción de eventos",
-     1,
-     "SE REQUIERE EL SERVICIO DE PRODUCCION PARA LA CEREMONIA DE COYHAIQUINOS DESTACADOS PARA EL DIA 29/10 EN CENTRO CULTURAL COYHAIQUE SEGUN REQUERIMIENTOS TECNICOS ADJUNTOS, SE PREVILEGIARA PROVEEDOR DE LA COMUNA DE COYHAIQUE CON DISPONBILIDAD INMEDIATA Y DISPOSICION A MODIFICACIONES EN TIEMPO Y FORMA."
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=2495-565-COT26",
-   "sin_detalle": false,
-   "descripcion": "SE REQUIERE EL SERVICIO DE PRODUCCION PARA LA CEREMONIA DE COYHAIQUINOS DESTACADOS PARA EL DIA 29/10 EN CENTRO CULTURAL COYHAIQUE SEGUN REQUERIMIENTOS TECNICOS ADJUNTOS, SE PREVILEGIARA PROVEEDOR DE LA COMUNA DE COYHAIQUE CON DISPONBILIDAD INMEDIATA Y DISPOSICION A MODIFICACIONES EN TIEMPO Y FORMA."
-  },
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "publicitarios"
-   ],
-   "nueva": true,
-   "codigo": "3797-483-COT26",
-   "nombre": "GRAFICAS EN ACRILICO",
-   "organismo": "I MUNICIPALIDAD DE COCHRANE",
-   "unidad": "I MUNICIPALIDAD DE COCHRANE",
-   "monto": 90000,
-   "cierre_iso": "2026-10-21T15:15:00-03:00",
-   "publicacion": "20-10 15:10",
-   "publicacion_iso": "2026-10-20T15:10:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "82101501",
-     "Letreros publicitarios",
-     4,
-     "Graficas efecto espejo en acrílicos de 5MM de 40x10 CM con 2 distenciadores metálicos, diseño será proporcionado por la Municipalidad, el cual debe estampanse full color"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=3797-483-COT26",
-   "sin_detalle": false,
-   "descripcion": "Adquirir gráficas de señalización para la identificacion de los camarines y mesa de control del Estadio Luis Gomez Triviño"
-  },
-  {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Ventas y marketing"
-   ],
-   "nueva": true,
-   "codigo": "4066-429-COT26",
-   "nombre": "Servicio de producción de eventos, Feria Productiva Lanzamiento de Temporada Turística, Puerto Río Tranquilo – COD BIP 40066883-0",
-   "organismo": "I MUNICIPALIDAD RIO IBANEZ",
-   "unidad": "DIDECO",
-   "monto": 7150000,
-   "cierre_iso": "2026-10-21T15:40:00-03:00",
-   "publicacion": "20-10 15:34",
-   "publicacion_iso": "2026-10-20T15:34:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "80141607",
-     "Producción de eventos",
-     1,
-     "Servicio completo, valor único y total, Impuesto incluido: 3 bandas regionales (6 presentaciones de mín. 90 min), animador, sonido e iluminación, ornamentación, montaje y desmontaje, 500 sopaipillas con pebre, 20 almuerzos, 150 agendas, 200 pines, 150 bolsas, 10 placas de reconocimiento y registro fotográfico. Sábado 31 de octubre de 2026, plaza de Puerto Río Tranquilo, montaje desde 08:00 hrs. Detalle y mínimos en el TDR adjunto. Máximo $7.150.000."
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=4066-429-COT26",
-   "sin_detalle": false,
-   "descripcion": "Servicio de producción de eventos para la feria productiva Lanzamiento de Temporada Turística 2026-2027, sábado 31 de octubre de 2026, en la plaza de Puerto Río Tranquilo. Incluye música en vivo, animación, sonido e iluminación, ornamentación y montaje, alimentación, mechandising, reconocimientos y registro fotográfico. Presupuesto máximo $7.150.000, Impuesto incluido. Adjuntar patente municipal, propuesta técnica, ficha técnica de sonido e iluminación y cotización firmada. Ver TDR adjunto."
-  },
-  {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Ventas y marketing"
-   ],
-   "nueva": true,
    "codigo": "4066-431-COT26",
    "nombre": "Servicio de producción de eventos, Rueda de Negocios Encuentro de Proveedores, Puerto Río Tranquilo – COD BIP 40066883-0",
    "organismo": "I MUNICIPALIDAD RIO IBANEZ",
@@ -565,6 +484,60 @@
  ],
  "historial": [
   {
+   "codigo": "4066-429-COT26",
+   "nombre": "Servicio de producción de eventos, Feria Productiva Lanzamiento de Temporada Turística, Puerto Río Tranquilo – COD BIP 40066883-0",
+   "organismo": "I MUNICIPALIDAD RIO IBANEZ",
+   "monto": 7150000,
+   "cierre_iso": "2026-10-21T15:40:00-03:00",
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Ventas y marketing"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=4066-429-COT26",
+   "primera_vista_iso": "2026-10-20T16:05:54-03:00",
+   "removida_iso": "2026-10-21T16:06:48-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
+  {
+   "codigo": "3797-483-COT26",
+   "nombre": "GRAFICAS EN ACRILICO",
+   "organismo": "I MUNICIPALIDAD DE COCHRANE",
+   "monto": 90000,
+   "cierre_iso": "2026-10-21T15:15:00-03:00",
+   "tipo": "POSIBLE",
+   "motivos": [
+    "publicitarios"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=3797-483-COT26",
+   "primera_vista_iso": "2026-10-20T16:05:54-03:00",
+   "removida_iso": "2026-10-21T16:06:48-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
+  {
+   "codigo": "2495-565-COT26",
+   "nombre": "PRODUCCION CEREMONIA COYHAIQUINOS DESTACADOS",
+   "organismo": "I MUNICIPALIDAD DE COYHAIQUE",
+   "monto": 1100000,
+   "cierre_iso": "2026-10-21T15:00:00-03:00",
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Ventas y marketing"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=2495-565-COT26",
+   "primera_vista_iso": "2026-10-19T19:53:01-03:00",
+   "removida_iso": "2026-10-21T16:06:48-03:00",
+   "estado_api": "",
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
+  {
    "codigo": "2713-1268-COT26",
    "nombre": "Servicio de producción y desarrollo de eventos - DIDECO - Cultura - 1326",
    "organismo": "I MUNICIPALIDAD DE AYSEN",
@@ -704,7 +677,7 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=4778-319-COT26",
    "primera_vista_iso": "2026-10-14T14:56:34-03:00",
    "removida_iso": "2026-10-19T16:57:34-03:00",
-   "estado_api": null,
+   "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,
    "adj_iso": null
@@ -1089,42 +1062,6 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=4066-420-COT26",
    "primera_vista_iso": "2026-10-13T17:57:22-03:00",
    "removida_iso": "2026-10-14T18:54:51-03:00",
-   "estado_api": "",
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "1332-39-COT26",
-   "nombre": "SERVICIO DE PRODUCCIÓN DE SEMINARIO DE TURISMO AYSENTIDO EN TU RELATO",
-   "organismo": "Servicio Nacional de Turismo",
-   "monto": 2200000,
-   "cierre_iso": "2026-10-14T16:00:00-03:00",
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Ventas y marketing"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1332-39-COT26",
-   "primera_vista_iso": "2026-10-13T15:51:46-03:00",
-   "removida_iso": "2026-10-14T16:05:10-03:00",
-   "estado_api": "",
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "734-178-COT26",
-   "nombre": "PENDÓN TEMÁTICA DE TUBERCULOSIS",
-   "organismo": "SERVICIO DE SALUD AYSEN CARLOS IBANEZ DEL CAMPO",
-   "monto": 79000,
-   "cierre_iso": "2026-10-14T16:00:00-03:00",
-   "tipo": "POSIBLE",
-   "motivos": [
-    "difusión"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=734-178-COT26",
-   "primera_vista_iso": "2026-10-13T16:55:07-03:00",
-   "removida_iso": "2026-10-14T16:05:10-03:00",
    "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,
