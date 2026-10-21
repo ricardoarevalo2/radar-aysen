@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-10-21T11:01:51.847309-03:00",
+ "actualizado": "2026-10-21T11:58:17.602448-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
- "total_region": 265,
+ "total_region": 275,
  "rubros": {
   "80141600": "Ventas y marketing",
   "82101600": "Publicidad en medios no impresos",
@@ -14,45 +14,6 @@
   "83121700": "Comunicación social y de masas"
  },
  "filas": [
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "radio"
-   ],
-   "nueva": false,
-   "codigo": "1758-250-COT26",
-   "nombre": "SERVICIOS DE ALOJAMIENTOS Y ALIMENTACION JORNADA CONVIVENCIA EDUCATIVA Y SALUD MENTAL",
-   "organismo": "SECRETARIA REGIONAL MINISTERIAL DE EDUCACION XI REGION",
-   "unidad": "Mineduc Administración XI Región",
-   "monto": 860000,
-   "cierre_iso": "2026-10-21T11:00:00-03:00",
-   "publicacion": "19-10 18:06",
-   "publicacion_iso": "2026-10-19T18:06:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "90111802",
-     "Habitación doble",
-     4,
-     "01 HABITACION DOBLE INGRESO EL 27/10 Y SALIDA EL 28/10 /SANDRA CHIGUAY Y RUTH ARAVENA CON DESAYUNO.\n01 HABITACION DOBLE INGRESO EL 27/10 Y SALIDA EL 28/10 /AQUILES MAYA Y OSCAR MORA O. CON DESAYUNO.\n02 HABITACIONES DOBLES INGRESO EL 27/10 Y SALIDA EL 29/10/ MONICA ARELLANO Y ERIKA SALINAS. \nTODOS CON INGRESO A LAS 18:00HRS. CON CAFECCION Y BAÑO PRIVADO Y DESAYUNO CONTENER TE O CAFE Y/O JUGO, FRUTA, PAN CON AGREGADO."
-    ],
-    [
-     "90101501",
-     "Restaurantes",
-     19,
-     "01 ALMUERZO  EL 27/10 SERVIDO A LAS 14.30 HRS. (POR LLEGADA DE BARCAZA)\n17 ALMUERZOS EL 28/10 \n01 ALMUERZO  EL 29/10 \nQUE CONTENGA PLATO DE FONDO CON ALTERNATIVA PROTEICA, ACOMPAÑAMIENTO, ENSALADA/ENTRADA, POSTRE Y BEBESTIBLE SIN ALCOHOL. SERVIDO A LAS 13:00 HRS EN LA CIUDAD DE COYHAIQUE."
-    ],
-    [
-     "90101501",
-     "Restaurantes",
-     11,
-     "07 CENAS EL 27/10\n03 CENAS EL 28/10\n01 CENA  EL 29/10\nQUE CONTENGA PLATO DE FONDO CON ALTERNATIVA PROTEICA, ACOMPAÑAMIENTO, ENSALADA/ENTRADA, POSTRE Y BEBESTIBLE SIN ALCOHOL. SERVIDOS A LAS 19:30 HRS EN LA CIUDAD DE COYHAIQUE."
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1758-250-COT26",
-   "sin_detalle": false,
-   "descripcion": "SERVICIOS DE ALOJAMIENTOS Y ALIMENTACIÓN EN COYHAIQUE 27 DE OCTUBRE AL 29  DE OCTUBRE 2026. EN LA SU PROPUESTA EL PROVEEDOR DEBERÁ INDICAR LA DIRECCIÓN DONDE SE ENTREGARÁ EL SERVICIO, EL CUAL DEBE ESTAR DENTRO DEL RADIO URBANO DE LA CIUDAD DE PREFERENCIALMENTE UNA UBICACIÓN CENTRAL. SE PRIVILEGIARA PROVEEDORES QUE POSEAN CERTIFICACIÓN DE SUSTENTABILIDAD Y CUENTEN CON POLÍTICAS REUTILIZACIÓN DE SABANAS Y TOALLAS CON ALIMENTACION DE ALMUERZOS Y CENAS. SEGREGACION Y RES. SANITARIA."
-  },
   {
    "tipo": "OPORTUNIDAD",
    "motivos": [
@@ -370,7 +331,7 @@
    "motivos": [
     "Comunicación social y de masas"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "1195-527-COT26",
    "nombre": " PLAN 2 MESES DE STARLINK ITINERANTE",
    "organismo": "I MUNICIPALIDAD DE COYHAIQUE",
@@ -397,7 +358,7 @@
    "motivos": [
     "publicitarios"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "3950-674-COT26",
    "nombre": "Señaleticas de información ",
    "organismo": "DIRECCION SALUD RURAL",
@@ -690,6 +651,24 @@
   }
  ],
  "historial": [
+  {
+   "codigo": "1758-250-COT26",
+   "nombre": "SERVICIOS DE ALOJAMIENTOS Y ALIMENTACION JORNADA CONVIVENCIA EDUCATIVA Y SALUD MENTAL",
+   "organismo": "SECRETARIA REGIONAL MINISTERIAL DE EDUCACION XI REGION",
+   "monto": 860000,
+   "cierre_iso": "2026-10-21T11:00:00-03:00",
+   "tipo": "POSIBLE",
+   "motivos": [
+    "radio"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1758-250-COT26",
+   "primera_vista_iso": "2026-10-19T18:53:52-03:00",
+   "removida_iso": "2026-10-21T11:58:17-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
   {
    "codigo": "1182705-193-COT26",
    "nombre": "Estampado Sublimación Logo CFT Estatal Aysen \"TNS En Veterinaria y Producción Agropecuaria\" en trajes de cirugia alumnos Diurnos y Vesperinos.\t\t\t\t\t\t\t\t\t\t\t\t\t",

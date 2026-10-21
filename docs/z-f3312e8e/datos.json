@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-10-21T11:01:51.847309-03:00",
+ "actualizado": "2026-10-21T11:58:17.602448-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
- "total_region": 265,
+ "total_region": 275,
  "rubros": {
   "25172700": "Aire acondicionado",
   "25173900": "Componentes eléctricos",
@@ -19,90 +19,6 @@
   "39121400": "Conectores, enchufes y terminales"
  },
  "filas": [
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "generador"
-   ],
-   "nueva": false,
-   "codigo": "2495-563-COT26",
-   "nombre": " Adquisición de dos notebooks para el Programa 4 a 7 – Escuela Baquedano y Colegio Victor Domingo Silva",
-   "organismo": "I MUNICIPALIDAD DE COYHAIQUE",
-   "unidad": "DIRECCION DESARROLLO COMUNITARIO",
-   "monto": 1920000,
-   "cierre_iso": "2026-10-21T11:00:00-03:00",
-   "publicacion": "19-10 16:16",
-   "publicacion_iso": "2026-10-19T16:16:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "43211503",
-     "Notebook, laptop o computador portátil excepto Tablet PC",
-     2,
-     "Se requiere adquirir dos computadores portátil (notebook) con las siguientes especificaciones: Procesador Ryzen o intel 5 o superior. generador 8 o superior. Ram 16 GB o superior. Disco SSD 512 GB, o SSD 1 TB. Monitor entre 13.3 a 14\", conexiones USB, WIFI, WEBCAM. Con conexión ETHERNET RJ45 100/1000 MBPS o adaptador a 4J45, peso máximo 1,6 KG, licencia windows 11, licencia office 2019, o home, o superior perpetua (las licencias deben incluir su código). Enviar con guía de despacho."
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=2495-563-COT26",
-   "sin_detalle": false,
-   "descripcion": "Se requiere adquirir dos computadores portátil (notebook) con las siguientes especificaciones: Procesador Ryzen o intel 5 o superior. generador 8 o superior. Ram 16 GB o superior. Disco SSD 512 GB, o SSD 1 TB. Monitor entre 13.3 a 14\", conexiones USB, WIFI, WEBCAM. Con conexión ETHERNET RJ45 100/1000 MBPS o adaptador a 4J45, peso máximo 1,6 KG, licencia windows 11, licencia office 2019, o home, o superior perpetua (las licencias deben incluir su código). Enviar con guía de despacho."
-  },
-  {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Materiales de física de electricidad"
-   ],
-   "nueva": false,
-   "codigo": "1173433-18-COT26",
-   "nombre": "Adquisición de maquinaria y equipamiento para el fortalecimiento de las actividades productivas y de mantenimiento del C.E.T. de Valle Verde. ",
-   "organismo": "Centro de Educación y Trabajo Valle Verde",
-   "unidad": "CET Valle Verde",
-   "monto": 5638655,
-   "cierre_iso": "2026-10-21T11:00:00-03:00",
-   "publicacion": "16-10 16:12",
-   "publicacion_iso": "2026-10-16T16:12:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "27111508",
-     "Sierras",
-     2,
-     "MOTOSIERRA STIHL MS 250 O SIMILAR. Cilindrada 45,4 cm3, Cadena Rapid Micro/Super 0,325” 1,6 mm., Espada 18\", Motor, 2 Tiempos, Potencia (Hp) 3,1 HP."
-    ],
-    [
-     "23101508",
-     "Cortadoras",
-     2,
-     "DESMALEZADORA STIHL FS 120 O SIMILAR. Cilindrada: 30,8 cc., Potencia: 1,3 kW (1,8 HP), Peso: 6,3 kg., Capacidad del estanque: 0,64 litros., Motor: 2 tiempos."
-    ],
-    [
-     "25101901",
-     "Tractores agrícolas",
-     1,
-     "TRACTOCULTIVADOR KRAFTER R001 11 HP O SIMILAR. Motor: Diésel HSD188FAE (11 HP), Encendido: Eléctrico (y con piola de arranque manual de emergencia), Transmisión Por engranajes, Marchas: 3 hacia adelante y 1 hacia atrás, Neumáticos Frontales 4.0-8 / Traseros 5.0-12., Ancho de trabajo 1.050 mm (1,05 m), Diámetro máximo de fresas 360 mm, Peso: 240 kg."
-    ],
-    [
-     "60104907",
-     "Generadores portátiles",
-     1,
-     "GENERADOR LONCIN LC2500 2.2KW. O SIMILAR. Frecuencia 50 Hz, Potencia máxima 2,2 Kva, Potencia continua 2,0 kVA, Voltaje 220 V, Motor 5,5 HP, Tipo Monocilíndrico 4 Tiempos, Refrigeración Por aire, Sistema de arranque Piola retráctil, Consumo combustible 1,22 L/h, Autonomía 13 h, Dimensiones 590 x 475 x 460 mm, Peso 42 kg."
-    ],
-    [
-     "23181506",
-     "Maquinaria de lavado",
-     1,
-     "HIDROLAVADORA LUSTER GASOLINA AGW. HE-3100 O SIMILAR. Partida manual,  temperatura del agua 5° mín - 50 ° máx., dimensiones (lah) 70 x 45 x 66, peso 35 Kg, estanque de combustible 3,6 Lts., tipo de motor gasolina 7hp., velocidad 3600 rpm, máxima presión 213 bar, presión de trabajo 193 bar, caudal o flujo permisible 570 lts./hr."
-    ],
-    [
-     "23101508",
-     "Cortadoras",
-     1,
-     "CORTA CESPED TREX 173 CC C/R R/ALTA21 O SIMILAR. Motor: 4 tiempos OHV de 173 cc (aprox. 5,0 HP)., Ancho de corte: 21\" (53 cm), Altura de corte 6 posiciones regulables mediante 1 sola palanca (entre 2,5 cm y 7,5cm)., Ruedas Traseras altas (8\"delantera / 11\"trasera), ideales para terrenos con desniveles, Capacidades de estanque 1 litro de combustible y 0,6 litros de aceite, Sistemas de trabajo 3 en 1 (incluye recolector trasero, descarga lateral y sistema Mulching), Peso: 39 kg. Certificación SEC"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1173433-18-COT26",
-   "sin_detalle": false,
-   "descripcion": "Se requiere la adquisición de maquinaria y equipamiento para el fortalecimiento de las actividades productivas y de mantenimiento del C.E.T. de Valle Verde."
-  },
   {
    "tipo": "OPORTUNIDAD",
    "motivos": [
@@ -750,7 +666,7 @@
    "motivos": [
     "generador"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "3950-674-COT26",
    "nombre": "Señaleticas de información ",
    "organismo": "DIRECCION SALUD RURAL",
@@ -988,6 +904,112 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=3791-1048-COT26",
    "sin_detalle": false,
    "descripcion": "ADQUISICION DE INSUMOS Y HERRAMIENTA PARA EL USO DE MEJORAS EN LAS CONEXIONES ELECTRICAS PARA VEHICULOS Y GENERADORES. SE ADJUNTAN ANEXOS"
+  },
+  {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Conectores, enchufes y terminales",
+    "Interruptores, controles y relés"
+   ],
+   "nueva": true,
+   "codigo": "3791-1050-COT26",
+   "nombre": "MAT. GIMNASIO LA JUNTA ",
+   "organismo": "I MUNICIPALIDAD DE CISNES",
+   "unidad": "Finanzas",
+   "monto": 3571190,
+   "cierre_iso": "2026-10-22T11:30:00-03:00",
+   "publicacion": "21-10 11:20",
+   "publicacion_iso": "2026-10-21T11:20:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "11151513",
+     "Fibras de cerámico",
+     2,
+     "Fragüe para ceramico blanco (1kg)"
+    ],
+    [
+     "30152003",
+     "Murallas de fibrocemento",
+     1,
+     "Fibrocemento 8mm"
+    ],
+    [
+     "30171514",
+     "Cierres de puertas",
+     15,
+     "Bisagras 3 1/2\" para puertas (Pack)"
+    ],
+    [
+     "31161803",
+     "Golillas de fijación",
+     3000,
+     "Golillas K PV4"
+    ],
+    [
+     "31162001",
+     "Puntas",
+     1,
+     "Set puntas hexagonales magneticas"
+    ],
+    [
+     "31162312",
+     "Pasadores de montaje",
+     2,
+     "Pasador/Picaporte de embutir para hoja fija (200mm largo x 12mm)"
+    ],
+    [
+     "31201501",
+     "Cinta de conductos",
+     1,
+     "Teflon Agua"
+    ],
+    [
+     "31201501",
+     "Cinta de conductos",
+     1,
+     "Teflon Gas"
+    ],
+    [
+     "31201501",
+     "Cinta de conductos",
+     2,
+     "Cinta para juntas de yeso cartón"
+    ],
+    [
+     "32111503",
+     "Diodos emisores de luz (LED)",
+     3,
+     "Equipos de alumbrado estanco con tubos led integrados (T8)"
+    ],
+    [
+     "39121419",
+     "Conexiones flexibles",
+     4,
+     "Flexible para conexión de agua fria 60cm"
+    ],
+    [
+     "39121419",
+     "Conexiones flexibles",
+     4,
+     "Flexible para conexión de agua caliente 60cm"
+    ],
+    [
+     "39121506",
+     "Interruptores automáticos por caída de presión",
+     1,
+     "Automatico 1x10A"
+    ],
+    [
+     "39121506",
+     "Interruptores automáticos por caída de presión",
+     1,
+     "Automatico diferencial 2x25A"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=3791-1050-COT26",
+   "sin_detalle": false,
+   "descripcion": "ADQUISICION DE MATERIALES PARA REPARACION Y MANTENCION DE GIMNASIO LA JUNTA"
   },
   {
    "tipo": "OPORTUNIDAD",
@@ -1285,6 +1307,42 @@
   }
  ],
  "historial": [
+  {
+   "codigo": "1173433-18-COT26",
+   "nombre": "Adquisición de maquinaria y equipamiento para el fortalecimiento de las actividades productivas y de mantenimiento del C.E.T. de Valle Verde. ",
+   "organismo": "Centro de Educación y Trabajo Valle Verde",
+   "monto": 5638655,
+   "cierre_iso": "2026-10-21T11:00:00-03:00",
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Materiales de física de electricidad"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1173433-18-COT26",
+   "primera_vista_iso": "2026-10-16T16:50:54-03:00",
+   "removida_iso": "2026-10-21T11:58:17-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
+  {
+   "codigo": "2495-563-COT26",
+   "nombre": " Adquisición de dos notebooks para el Programa 4 a 7 – Escuela Baquedano y Colegio Victor Domingo Silva",
+   "organismo": "I MUNICIPALIDAD DE COYHAIQUE",
+   "monto": 1920000,
+   "cierre_iso": "2026-10-21T11:00:00-03:00",
+   "tipo": "POSIBLE",
+   "motivos": [
+    "generador"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=2495-563-COT26",
+   "primera_vista_iso": "2026-10-19T16:57:34-03:00",
+   "removida_iso": "2026-10-21T11:58:17-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
   {
    "codigo": "1758-248-COT26",
    "nombre": "SERVICIO DE SALON EQUIPADO JORNADA DE CONVIVENCIA EDUCATIVA Y SALUD MENTAL",
@@ -1830,7 +1888,7 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=1403-445-COT26",
    "primera_vista_iso": "2026-10-14T13:59:10-03:00",
    "removida_iso": "2026-10-15T16:05:38-03:00",
-   "estado_api": null,
+   "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,
    "adj_iso": null
