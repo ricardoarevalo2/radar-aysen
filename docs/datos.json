@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-10-21T13:59:05.709510-03:00",
+ "actualizado": "2026-10-21T14:55:02.791499-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
- "total_region": 271,
+ "total_region": 278,
  "rubros": {
   "80141600": "Ventas y marketing",
   "82101600": "Publicidad en medios no impresos",
@@ -577,7 +577,7 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=2713-1268-COT26",
    "primera_vista_iso": "2026-10-20T13:58:42-03:00",
    "removida_iso": "2026-10-21T13:59:05-03:00",
-   "estado_api": null,
+   "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,
    "adj_iso": null
@@ -595,7 +595,7 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=1758-250-COT26",
    "primera_vista_iso": "2026-10-19T18:53:52-03:00",
    "removida_iso": "2026-10-21T11:58:17-03:00",
-   "estado_api": null,
+   "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,
    "adj_iso": null
@@ -888,7 +888,7 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=5575-124-COT26",
    "primera_vista_iso": "2026-10-16T17:54:39-03:00",
    "removida_iso": "2026-10-19T08:59:27-03:00",
-   "estado_api": null,
+   "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,
    "adj_iso": null
@@ -1125,42 +1125,6 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=734-178-COT26",
    "primera_vista_iso": "2026-10-13T16:55:07-03:00",
    "removida_iso": "2026-10-14T16:05:10-03:00",
-   "estado_api": "",
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "418-1583-COT26",
-   "nombre": " POR - SERVICIO ARTISTICO DE PASACALLE (SEGUN DETALLE ADJUNTO)",
-   "organismo": "SERVICIO NACIONAL DE SALUD HOSPITAL DE PUERTO AYSEN",
-   "monto": 1200000,
-   "cierre_iso": "2026-10-14T14:55:00-03:00",
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Ventas y marketing"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=418-1583-COT26",
-   "primera_vista_iso": "2026-10-13T15:51:46-03:00",
-   "removida_iso": "2026-10-14T16:05:10-03:00",
-   "estado_api": "",
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "418-1580-COT26",
-   "nombre": "LRG - COMPRESA ESTERIL RADIO OPACA COTONOIDE 1.3 X 3.8 CM",
-   "organismo": "SERVICIO NACIONAL DE SALUD HOSPITAL DE PUERTO AYSEN",
-   "monto": 300000,
-   "cierre_iso": "2026-10-14T14:00:00-03:00",
-   "tipo": "POSIBLE",
-   "motivos": [
-    "radio"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=418-1580-COT26",
-   "primera_vista_iso": "2026-10-13T11:46:51-03:00",
-   "removida_iso": "2026-10-14T13:59:10-03:00",
    "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,

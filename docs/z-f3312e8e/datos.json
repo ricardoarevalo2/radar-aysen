@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-10-21T13:59:05.709510-03:00",
+ "actualizado": "2026-10-21T14:55:02.791499-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
- "total_region": 271,
+ "total_region": 278,
  "rubros": {
   "25172700": "Aire acondicionado",
   "25173900": "Componentes eléctricos",
@@ -19,33 +19,6 @@
   "39121400": "Conectores, enchufes y terminales"
  },
  "filas": [
-  {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Servicios eléctricos"
-   ],
-   "nueva": false,
-   "codigo": "741465-12-COT26",
-   "nombre": "Puesta en marcha de central de alarma contra incendios ",
-   "organismo": "Juzgado de Letras Garantia de Puerto Aysen",
-   "unidad": "Jdo de Letras y Garantia de Puerto Aysen",
-   "monto": 150000,
-   "cierre_iso": "2026-10-21T14:00:00-03:00",
-   "publicacion": "16-10 11:10",
-   "publicacion_iso": "2026-10-16T11:10:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "72102201",
-     "Instalación o servicio de sistemas de energía eléctrica",
-     1,
-     "Segun Términos de referencia adjuntos."
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=741465-12-COT26",
-   "sin_detalle": false,
-   "descripcion": "Puesta en marcha de central de alarma contra incendios pasiva marca BOSH modelo FPD-7024."
-  },
   {
    "tipo": "POSIBLE",
    "motivos": [
@@ -1260,6 +1233,24 @@
  ],
  "historial": [
   {
+   "codigo": "741465-12-COT26",
+   "nombre": "Puesta en marcha de central de alarma contra incendios ",
+   "organismo": "Juzgado de Letras Garantia de Puerto Aysen",
+   "monto": 150000,
+   "cierre_iso": "2026-10-21T14:00:00-03:00",
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Servicios eléctricos"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=741465-12-COT26",
+   "primera_vista_iso": "2026-10-16T11:57:33-03:00",
+   "removida_iso": "2026-10-21T14:55:02-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
+  {
    "codigo": "2713-1268-COT26",
    "nombre": "Servicio de producción y desarrollo de eventos - DIDECO - Cultura - 1326",
    "organismo": "I MUNICIPALIDAD DE AYSEN",
@@ -1434,7 +1425,7 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=3431-116-COT26",
    "primera_vista_iso": "2026-10-15T14:53:38-03:00",
    "removida_iso": "2026-10-19T16:06:33-03:00",
-   "estado_api": null,
+   "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,
    "adj_iso": null
@@ -1597,7 +1588,7 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=1343644-107-COT26",
    "primera_vista_iso": "2026-10-15T17:55:27-03:00",
    "removida_iso": "2026-10-17T18:47:40-03:00",
-   "estado_api": null,
+   "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,
    "adj_iso": null
@@ -1672,7 +1663,7 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=1195-521-COT26",
    "primera_vista_iso": "2026-10-15T17:55:27-03:00",
    "removida_iso": "2026-10-16T17:54:39-03:00",
-   "estado_api": null,
+   "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,
    "adj_iso": null
@@ -2043,24 +2034,6 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=1057062-425-COT26",
    "primera_vista_iso": "2026-10-13T17:57:22-03:00",
    "removida_iso": "2026-10-14T17:55:42-03:00",
-   "estado_api": "",
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "4778-316-COT26",
-   "nombre": "EQUIPO DE AIRE ACONDICIONADO A PARED-CIELO 9.000 BTU/H",
-   "organismo": "SERVICIO NACIONAL DE SALUD HOSPITAL DE C",
-   "monto": 1039464,
-   "cierre_iso": "2026-10-14T14:00:00-03:00",
-   "tipo": "POSIBLE",
-   "motivos": [
-    "aire acondicionado"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=4778-316-COT26",
-   "primera_vista_iso": "2026-10-13T12:44:50-03:00",
-   "removida_iso": "2026-10-14T14:56:34-03:00",
    "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,
