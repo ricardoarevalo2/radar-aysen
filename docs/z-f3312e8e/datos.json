@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-10-21T16:06:48.008610-03:00",
+ "actualizado": "2026-10-21T16:55:28.305796-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
- "total_region": 267,
+ "total_region": 280,
  "rubros": {
   "25172700": "Aire acondicionado",
   "25173900": "Componentes eléctricos",
@@ -683,7 +683,7 @@
     "generador",
     "generador eléctrico"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "1494998-24-COT26",
    "nombre": "ADQUISICIÓN Y DESPACHO DE GENERADORES ELÉCTRICOS PARA LAS ÁREAS PROTEGIDAS DE LA DIRECCIÓN REGIONAL DE AYSÉN (SBAP) CONVENIO SBAP-CONAF",
    "organismo": "Servicio de Biodiversidad y Áreas Protegidas",
@@ -887,6 +887,33 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=4889-41-COT26",
    "sin_detalle": false,
    "descripcion": "MANTENIMIENTO SENTINA - OFICINAS SEREMI DE LAS CULTURAS\nCARACTERÍSTICAS REQUERIDAS SEGUN ARCHIVO ADJUNTO"
+  },
+  {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Servicios eléctricos"
+   ],
+   "nueva": true,
+   "codigo": "1905-77-COT26",
+   "nombre": "Instalación lamparas de Emergencia y Letreros Led Salida Emergencia Oficina de Puerto Aysén",
+   "organismo": "SERVICIO DE REGISTRO CIVIL E IDENTIFICAC",
+   "unidad": "Dirección Regional XI Región",
+   "monto": 900000,
+   "cierre_iso": "2026-10-26T09:00:00-03:00",
+   "publicacion": "21-10 16:11",
+   "publicacion_iso": "2026-10-21T16:11:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "72102201",
+     "Instalación o servicio de sistemas de energía eléctrica",
+     1,
+     "Instalación lámparas de Emergencia y Letreros Led Salida Emergencia Oficina de Puerto Aysén"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1905-77-COT26",
+   "sin_detalle": false,
+   "descripcion": "Instalación lámparas de Emergencia y Letreros Led Salida Emergencia Oficina de Puerto Aysén"
   },
   {
    "tipo": "OPORTUNIDAD",

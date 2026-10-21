@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-10-21T16:06:48.008610-03:00",
+ "actualizado": "2026-10-21T16:55:28.305796-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
- "total_region": 267,
+ "total_region": 280,
  "rubros": {
   "80141600": "Ventas y marketing",
   "82101600": "Publicidad en medios no impresos",
@@ -14,33 +14,6 @@
   "83121700": "Comunicación social y de masas"
  },
  "filas": [
-  {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Ventas y marketing"
-   ],
-   "nueva": false,
-   "codigo": "4066-431-COT26",
-   "nombre": "Servicio de producción de eventos, Rueda de Negocios Encuentro de Proveedores, Puerto Río Tranquilo – COD BIP 40066883-0",
-   "organismo": "I MUNICIPALIDAD RIO IBANEZ",
-   "unidad": "DIDECO",
-   "monto": 2750000,
-   "cierre_iso": "2026-10-21T16:10:00-03:00",
-   "publicacion": "20-10 16:02",
-   "publicacion_iso": "2026-10-20T16:02:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "80141607",
-     "Producción de eventos",
-     1,
-     "Servicio completo, valor único y total, Impuesto incluido: carpa de 18 x 8 m o similar, montaje y desmontaje; amplificación básica (parlantes, micrófonos inalámbricos y técnico); ornamentación y ambientación; transporte de ida y vuelta de hasta 15 prestadores desde Bahía Murta y Puerto Sánchez. Sábado 31 de octubre de 2026, Puerto Río Tranquilo, montaje desde 13:00 hrs. Detalle y mínimos en el TDR + anexo adjunto. Máximo $2.750.000."
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=4066-431-COT26",
-   "sin_detalle": false,
-   "descripcion": "Servicio de producción de eventos para la rueda de negocios Encuentro de Proveedores de Servicios Turísticos, sábado 31 de octubre de 2026, en Puerto Río Tranquilo (lugar a definir por la comunidad). Incluye carpa de 18 x 8 m, amplificación básica, ornamentación y ambientación, y transporte de hasta 15 prestadores desde Bahía Murta y Puerto Sánchez. Presupuesto máximo $2.750.000, Impuesto incluido. Adjuntar patente municipal, propuesta técnica y cotización. Ver TDR adjunto + anexo"
-  },
   {
    "tipo": "OPORTUNIDAD",
    "motivos": [
@@ -364,7 +337,7 @@
    "motivos": [
     "Ventas y marketing"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "4609-286-COT26",
    "nombre": "SERVICIO PRODUCCION EVENTO",
    "organismo": "I MUNICIPALIDAD DE CHILE CHICO",
@@ -385,6 +358,33 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=4609-286-COT26",
    "sin_detalle": false,
    "descripcion": "COTIZACION SERVICIO PRODUCCION EVENTO"
+  },
+  {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Comunicación social y de masas"
+   ],
+   "nueva": true,
+   "codigo": "1234-14-COT26",
+   "nombre": "SERVICIO SATELITAL PARA ANTENA STARLINK",
+   "organismo": "DIRECCIÓN REGIONAL ADUANA DE COYHAIQUE",
+   "unidad": "Dirección Regional Aduana de Coyhaique",
+   "monto": 1500000,
+   "cierre_iso": "2026-10-23T16:00:00-03:00",
+   "publicacion": "21-10 16:48",
+   "publicacion_iso": "2026-10-21T16:48:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "83121703",
+     "Servicios relacionados con Internet",
+     1,
+     "Servicio de Internet Satelital Starlink modalidad \"En Movimiento\" o equivalente, compatible con la antena Starlink Mini de propiedad institucional, para ser utilizada en vehículos institucionales que realizan labores operativas y de fiscalización en pasos fronterizos y rutas de la Región de Aysén."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1234-14-COT26",
+   "sin_detalle": false,
+   "descripcion": "La Dirección Regional de Aduana de Coyhaique requiere contratar el servicio de Internet Satelital Starlink modalidad \"En Movimiento\" o equivalente, compatible con la antena Starlink Mini de propiedad institucional, para ser utilizada en vehículos institucionales que realizan labores operativas y de fiscalización en pasos fronterizos y rutas de la Región de Aysén."
   },
   {
    "tipo": "POSIBLE",
@@ -483,6 +483,24 @@
   }
  ],
  "historial": [
+  {
+   "codigo": "4066-431-COT26",
+   "nombre": "Servicio de producción de eventos, Rueda de Negocios Encuentro de Proveedores, Puerto Río Tranquilo – COD BIP 40066883-0",
+   "organismo": "I MUNICIPALIDAD RIO IBANEZ",
+   "monto": 2750000,
+   "cierre_iso": "2026-10-21T16:10:00-03:00",
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Ventas y marketing"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=4066-431-COT26",
+   "primera_vista_iso": "2026-10-20T16:05:54-03:00",
+   "removida_iso": "2026-10-21T16:55:28-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
   {
    "codigo": "4066-429-COT26",
    "nombre": "Servicio de producción de eventos, Feria Productiva Lanzamiento de Temporada Turística, Puerto Río Tranquilo – COD BIP 40066883-0",
@@ -734,7 +752,7 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=1201-184-COT26",
    "primera_vista_iso": "2026-10-15T11:57:55-03:00",
    "removida_iso": "2026-10-19T12:02:56-03:00",
-   "estado_api": null,
+   "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,
    "adj_iso": null
