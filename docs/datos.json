@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-10-21T13:00:55.227156-03:00",
+ "actualizado": "2026-10-21T13:59:05.709510-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
- "total_region": 272,
+ "total_region": 271,
  "rubros": {
   "80141600": "Ventas y marketing",
   "82101600": "Publicidad en medios no impresos",
@@ -14,93 +14,6 @@
   "83121700": "Comunicación social y de masas"
  },
  "filas": [
-  {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Ventas y marketing"
-   ],
-   "nueva": true,
-   "codigo": "2713-1268-COT26",
-   "nombre": "Servicio de producción y desarrollo de eventos - DIDECO - Cultura - 1326",
-   "organismo": "I MUNICIPALIDAD DE AYSEN",
-   "unidad": "I.MUNICIPALIDAD AYSEN-ADQUISICIONES",
-   "monto": 7200000,
-   "cierre_iso": "2026-10-21T13:20:00-03:00",
-   "publicacion": "20-10 13:05",
-   "publicacion_iso": "2026-10-20T13:05:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "80141607",
-     "Producción de eventos",
-     2,
-     "Servicio de animador/a para las jornadas del 22 y 23 de octubre de 2026."
-    ],
-    [
-     "80141607",
-     "Producción de eventos",
-     1,
-     "Servicio de implementación y adecuación de espacios destinados a camarines y alimentación de participantes"
-    ],
-    [
-     "80141607",
-     "Producción de eventos",
-     1,
-     "Servicio de 7 traslados marítimos para 7 integrantes de la delegación de Islas Huichas, desde su alojamiento en Puerto Aysén hasta su destino en Islas Huichas, el 24 de octubre de 2026."
-    ],
-    [
-     "80141607",
-     "Producción de eventos",
-     1,
-     "Servicio de 1 traslado terrestre para 7 integrantes de la delegación de Islas Huichas, desde su alojamiento en Puerto Aysén hasta su destino en Islas Huichas, el 24 de octubre de 2026"
-    ],
-    [
-     "80141607",
-     "Producción de eventos",
-     1,
-     "Servicio de alojamiento para 7 integrantes de la delegación de Islas Huichas, durante las noches del 22 y 23 de octubre de 2026"
-    ],
-    [
-     "80141607",
-     "Producción de eventos",
-     1,
-     "Servicio de alimentación para 7 integrantes de la delegación de Islas Huichas, durante los días 22, 23 y 24 de octubre de 2026."
-    ],
-    [
-     "80141607",
-     "Producción de eventos",
-     1,
-     "Servicio de alimentación para 10 integrantes de la delegación de Villa Mañihuales, durante los días 22 y 23 de octubre de 2026."
-    ],
-    [
-     "80141607",
-     "Producción de eventos",
-     1,
-     "Servicio de arriendo, instalación, operación y desmontaje de pantalla LED de 3 x 2 metros, para los días 22 y 23 de octubre de 2026."
-    ],
-    [
-     "80141607",
-     "Producción de eventos",
-     1,
-     "Servicio de sistema de amplificación de sonido, incluyendo instalación, operación técnica y desmontaje, para ambas jornadas del festival."
-    ],
-    [
-     "80141607",
-     "Producción de eventos",
-     1,
-     "Servicio de iluminación para escenario, incluyendo instalación, operación técnica y desmontaje, para ambas jornadas del festival"
-    ],
-    [
-     "80141607",
-     "Producción de eventos",
-     1,
-     "Servicio de backline musical, incluyendo microfonía, instalación, asistencia técnica y desmontaje, para ambas jornadas del festival."
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=2713-1268-COT26",
-   "sin_detalle": false,
-   "descripcion": "Adquisición de servicio de producción de actividad \"Máximos Decibeles\" según detalle del anexo adjunto, las ofertas deberán: incluir la totalidad de los productos y servicios solicitados, ajustarse al presupuesto disponible , el oferente asumirá COSTO DE TRANSPORTE (no desglosarlo como ítem aparte), actividades según EETT, en el lugar y a la hora indicada previa coordinación con el encargado. Ofertas que no cumplan con lo anterior serán rechazadas"
-  },
   {
    "tipo": "OPORTUNIDAD",
    "motivos": [
@@ -651,6 +564,24 @@
   }
  ],
  "historial": [
+  {
+   "codigo": "2713-1268-COT26",
+   "nombre": "Servicio de producción y desarrollo de eventos - DIDECO - Cultura - 1326",
+   "organismo": "I MUNICIPALIDAD DE AYSEN",
+   "monto": 7200000,
+   "cierre_iso": "2026-10-21T13:20:00-03:00",
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Ventas y marketing"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=2713-1268-COT26",
+   "primera_vista_iso": "2026-10-20T13:58:42-03:00",
+   "removida_iso": "2026-10-21T13:59:05-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
   {
    "codigo": "1758-250-COT26",
    "nombre": "SERVICIOS DE ALOJAMIENTOS Y ALIMENTACION JORNADA CONVIVENCIA EDUCATIVA Y SALUD MENTAL",
