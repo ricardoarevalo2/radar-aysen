@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-10-21T08:57:31.399118-03:00",
+ "actualizado": "2026-10-21T10:12:39.356912-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
- "total_region": 50,
+ "total_region": 40,
  "rubros": {
   "80141600": "Ventas y marketing",
   "82101600": "Publicidad en medios no impresos",
@@ -14,147 +14,6 @@
   "83121700": "Comunicación social y de masas"
  },
  "filas": [
-  {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Ventas y marketing"
-   ],
-   "nueva": true,
-   "codigo": "2713-1268-COT26",
-   "nombre": "Servicio de producción y desarrollo de eventos - DIDECO - Cultura - 1326",
-   "organismo": "I MUNICIPALIDAD DE AYSEN",
-   "unidad": "I.MUNICIPALIDAD AYSEN-ADQUISICIONES",
-   "monto": 7200000,
-   "cierre_iso": "2026-10-21T13:20:00-03:00",
-   "publicacion": "20-10 13:05",
-   "publicacion_iso": "2026-10-20T13:05:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "80141607",
-     "Producción de eventos",
-     2,
-     "Servicio de animador/a para las jornadas del 22 y 23 de octubre de 2026."
-    ],
-    [
-     "80141607",
-     "Producción de eventos",
-     1,
-     "Servicio de implementación y adecuación de espacios destinados a camarines y alimentación de participantes"
-    ],
-    [
-     "80141607",
-     "Producción de eventos",
-     1,
-     "Servicio de 7 traslados marítimos para 7 integrantes de la delegación de Islas Huichas, desde su alojamiento en Puerto Aysén hasta su destino en Islas Huichas, el 24 de octubre de 2026."
-    ],
-    [
-     "80141607",
-     "Producción de eventos",
-     1,
-     "Servicio de 1 traslado terrestre para 7 integrantes de la delegación de Islas Huichas, desde su alojamiento en Puerto Aysén hasta su destino en Islas Huichas, el 24 de octubre de 2026"
-    ],
-    [
-     "80141607",
-     "Producción de eventos",
-     1,
-     "Servicio de alojamiento para 7 integrantes de la delegación de Islas Huichas, durante las noches del 22 y 23 de octubre de 2026"
-    ],
-    [
-     "80141607",
-     "Producción de eventos",
-     1,
-     "Servicio de alimentación para 7 integrantes de la delegación de Islas Huichas, durante los días 22, 23 y 24 de octubre de 2026."
-    ],
-    [
-     "80141607",
-     "Producción de eventos",
-     1,
-     "Servicio de alimentación para 10 integrantes de la delegación de Villa Mañihuales, durante los días 22 y 23 de octubre de 2026."
-    ],
-    [
-     "80141607",
-     "Producción de eventos",
-     1,
-     "Servicio de arriendo, instalación, operación y desmontaje de pantalla LED de 3 x 2 metros, para los días 22 y 23 de octubre de 2026."
-    ],
-    [
-     "80141607",
-     "Producción de eventos",
-     1,
-     "Servicio de sistema de amplificación de sonido, incluyendo instalación, operación técnica y desmontaje, para ambas jornadas del festival."
-    ],
-    [
-     "80141607",
-     "Producción de eventos",
-     1,
-     "Servicio de iluminación para escenario, incluyendo instalación, operación técnica y desmontaje, para ambas jornadas del festival"
-    ],
-    [
-     "80141607",
-     "Producción de eventos",
-     1,
-     "Servicio de backline musical, incluyendo microfonía, instalación, asistencia técnica y desmontaje, para ambas jornadas del festival."
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=2713-1268-COT26",
-   "sin_detalle": false,
-   "descripcion": "Adquisición de servicio de producción de actividad \"Máximos Decibeles\" según detalle del anexo adjunto, las ofertas deberán: incluir la totalidad de los productos y servicios solicitados, ajustarse al presupuesto disponible , el oferente asumirá COSTO DE TRANSPORTE (no desglosarlo como ítem aparte), actividades según EETT, en el lugar y a la hora indicada previa coordinación con el encargado. Ofertas que no cumplan con lo anterior serán rechazadas"
-  },
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "publicitarios"
-   ],
-   "nueva": true,
-   "codigo": "3797-483-COT26",
-   "nombre": "GRAFICAS EN ACRILICO",
-   "organismo": "I MUNICIPALIDAD DE COCHRANE",
-   "unidad": "I MUNICIPALIDAD DE COCHRANE",
-   "monto": 90000,
-   "cierre_iso": "2026-10-21T15:15:00-03:00",
-   "publicacion": "20-10 15:10",
-   "publicacion_iso": "2026-10-20T15:10:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "82101501",
-     "Letreros publicitarios",
-     4,
-     "Graficas efecto espejo en acrílicos de 5MM de 40x10 CM con 2 distenciadores metálicos, diseño será proporcionado por la Municipalidad, el cual debe estampanse full color"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=3797-483-COT26",
-   "sin_detalle": false,
-   "descripcion": "Adquirir gráficas de señalización para la identificacion de los camarines y mesa de control del Estadio Luis Gomez Triviño"
-  },
-  {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Ventas y marketing"
-   ],
-   "nueva": true,
-   "codigo": "4066-429-COT26",
-   "nombre": "Servicio de producción de eventos, Feria Productiva Lanzamiento de Temporada Turística, Puerto Río Tranquilo – COD BIP 40066883-0",
-   "organismo": "I MUNICIPALIDAD RIO IBANEZ",
-   "unidad": "DIDECO",
-   "monto": 7150000,
-   "cierre_iso": "2026-10-21T15:40:00-03:00",
-   "publicacion": "20-10 15:34",
-   "publicacion_iso": "2026-10-20T15:34:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "80141607",
-     "Producción de eventos",
-     1,
-     "Servicio completo, valor único y total, Impuesto incluido: 3 bandas regionales (6 presentaciones de mín. 90 min), animador, sonido e iluminación, ornamentación, montaje y desmontaje, 500 sopaipillas con pebre, 20 almuerzos, 150 agendas, 200 pines, 150 bolsas, 10 placas de reconocimiento y registro fotográfico. Sábado 31 de octubre de 2026, plaza de Puerto Río Tranquilo, montaje desde 08:00 hrs. Detalle y mínimos en el TDR adjunto. Máximo $7.150.000."
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=4066-429-COT26",
-   "sin_detalle": false,
-   "descripcion": "Servicio de producción de eventos para la feria productiva Lanzamiento de Temporada Turística 2026-2027, sábado 31 de octubre de 2026, en la plaza de Puerto Río Tranquilo. Incluye música en vivo, animación, sonido e iluminación, ornamentación y montaje, alimentación, mechandising, reconocimientos y registro fotográfico. Presupuesto máximo $7.150.000, Impuesto incluido. Adjuntar patente municipal, propuesta técnica, ficha técnica de sonido e iluminación y cotización firmada. Ver TDR adjunto."
-  },
   {
    "tipo": "OPORTUNIDAD",
    "motivos": [
@@ -247,6 +106,33 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=4609-286-COT26",
    "sin_detalle": false,
    "descripcion": "COTIZACION SERVICIO PRODUCCION EVENTO"
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "publicitaria"
+   ],
+   "nueva": true,
+   "codigo": "886182-233-COT26",
+   "nombre": "Adquisición 4 discos fiscales para vehículos institucionales_FISABS 2046",
+   "organismo": "UNIVERSIDAD DE AYSEN",
+   "unidad": "Universidad de Aysen",
+   "monto": 152000,
+   "cierre_iso": "2026-10-26T08:30:00-03:00",
+   "publicacion": "21-10 08:44",
+   "publicacion_iso": "2026-10-21T08:44:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "82121505",
+     "Impresión promocional o publicitaria",
+     4,
+     "Se requiere adquisición de 4 discos fiscales adhesivos en plotter de corte de 30cm, debe considerar desinstalación del disco que actualmente tiene el vehículo e incluir la instalación del nuevo disco según diseño adjunto. La dirección de entrega debe ser en Lillo 667 o en dependencias del proveedor, en Coyhaique."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=886182-233-COT26",
+   "sin_detalle": false,
+   "descripcion": "Se requiere cotizar 4 discos fiscales según diseño adjunto. Se solicita al proveedor indicar plazo  de entrega y adjuntar cotización con detalle de lo ofertado. Dirección de entrega Eusebio Lillo\nN°667 o en dependencias del proveedor, en Coyhaique. La cotización debe incluir impuestos. Se podrá privilegiar el menor plazo ofertado que cumpla con lo especificado y a proveedor local."
   }
  ],
  "historial": [
@@ -433,6 +319,42 @@
    "adj_iso": null
   },
   {
+   "codigo": "4066-429-COT26",
+   "nombre": "Servicio de producción de eventos, Feria Productiva Lanzamiento de Temporada Turística, Puerto Río Tranquilo – COD BIP 40066883-0",
+   "organismo": "I MUNICIPALIDAD RIO IBANEZ",
+   "monto": 7150000,
+   "cierre_iso": "2026-10-21T15:40:00-03:00",
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Ventas y marketing"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=4066-429-COT26",
+   "primera_vista_iso": "2026-10-20T16:05:54-03:00",
+   "removida_iso": "2026-10-21T10:12:39-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
+  {
+   "codigo": "3797-483-COT26",
+   "nombre": "GRAFICAS EN ACRILICO",
+   "organismo": "I MUNICIPALIDAD DE COCHRANE",
+   "monto": 90000,
+   "cierre_iso": "2026-10-21T15:15:00-03:00",
+   "tipo": "POSIBLE",
+   "motivos": [
+    "publicitarios"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=3797-483-COT26",
+   "primera_vista_iso": "2026-10-20T16:05:54-03:00",
+   "removida_iso": "2026-10-21T10:12:39-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
+  {
    "codigo": "2495-565-COT26",
    "nombre": "PRODUCCION CEREMONIA COYHAIQUINOS DESTACADOS",
    "organismo": "I MUNICIPALIDAD DE COYHAIQUE",
@@ -445,6 +367,24 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=2495-565-COT26",
    "primera_vista_iso": "2026-10-19T19:53:01-03:00",
    "removida_iso": "2026-10-21T08:57:31-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
+  {
+   "codigo": "2713-1268-COT26",
+   "nombre": "Servicio de producción y desarrollo de eventos - DIDECO - Cultura - 1326",
+   "organismo": "I MUNICIPALIDAD DE AYSEN",
+   "monto": 7200000,
+   "cierre_iso": "2026-10-21T13:20:00-03:00",
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Ventas y marketing"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=2713-1268-COT26",
+   "primera_vista_iso": "2026-10-20T13:58:42-03:00",
+   "removida_iso": "2026-10-21T10:12:39-03:00",
    "estado_api": null,
    "adj_nombre": null,
    "adj_monto": null,
@@ -1069,38 +1009,20 @@
    "adj_nombre": null,
    "adj_monto": null,
    "adj_iso": null
-  },
-  {
-   "codigo": "4609-277-COT26",
-   "nombre": "MATERIALES DE DIFUSION ",
-   "organismo": "I MUNICIPALIDAD DE CHILE CHICO",
-   "monto": 288000,
-   "cierre_iso": "2026-10-14T10:00:00-03:00",
-   "tipo": "POSIBLE",
-   "motivos": [
-    "difusion"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=4609-277-COT26",
-   "primera_vista_iso": "2026-10-11T21:06:47-03:00",
-   "removida_iso": "2026-10-14T10:07:19-03:00",
-   "estado_api": "",
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
   }
  ],
  "pendientes": [
   {
-   "codigo": "1692-606-COT26",
-   "nombre": "ADQUISICION DE FONENDOSCOPIOS Y REPUESTOS PARA EL HOSPITAL DE COCHRANE",
-   "organismo": "SERVICIO NACIONAL DE SALUD HOSPITAL DE COCHRANE",
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1692-606-COT26"
+   "codigo": "2495-571-COT26",
+   "nombre": "Se requiere compra de alimentos para actividad formativa y cultural en contexto mapuche.",
+   "organismo": "I MUNICIPALIDAD DE COYHAIQUE",
+   "link": "https://buscador.mercadopublico.cl/ficha?code=2495-571-COT26"
   },
   {
-   "codigo": "886182-233-COT26",
-   "nombre": "Adquisición 4 discos fiscales para vehículos institucionales_FISABS 2046",
-   "organismo": "UNIVERSIDAD DE AYSEN",
-   "link": "https://buscador.mercadopublico.cl/ficha?code=886182-233-COT26"
+   "codigo": "1691-1926-COT26",
+   "nombre": "EFCC- VENDA GASA ELASTICADA CON ADHESIVO (TIPO FIXOMULL) UD 5 CM X 10 MT PARA REPOSICIÓN DE INS. CLINICOS HRC.",
+   "organismo": "SERVICIO NACIONAL DE SALUD HOSPITAL DE C",
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1691-1926-COT26"
   },
   {
    "codigo": "1274667-407-COT26",

@@ -129,27 +129,6 @@
   "adj_iso": null,
   "adj_revisado_iso": "2026-10-21T06:58:52-03:00"
  },
- "1274667-389-COT26": {
-  "codigo": "1274667-389-COT26",
-  "nombre": "SOLICITA SERVICIO de mantención correctiva de  sala de caldera de centro de salud  familiar puerto aysén",
-  "organismo": "CENTRO DE SALUD FAMILIAR PUERTO AYSÉN",
-  "unidad": "CENTRO DE SALUD FAMILIAR PUERTO AYSÉN",
-  "monto": 150000,
-  "cierre_iso": "2026-10-14T10:00:00-03:00",
-  "tipo": "OPORTUNIDAD",
-  "motivos": [
-   "Gasfitería, calefacción y aire acondicionado"
-  ],
-  "link": "https://buscador.mercadopublico.cl/ficha?code=1274667-389-COT26",
-  "primera_vista_iso": "2026-10-13T09:52:56-03:00",
-  "ultima_activa_iso": "2026-10-14T08:56:23-03:00",
-  "removida_iso": "2026-10-14T10:07:19-03:00",
-  "estado_api": "",
-  "adj_nombre": null,
-  "adj_monto": null,
-  "adj_iso": null,
-  "adj_revisado_iso": "2026-10-21T07:57:50-03:00"
- },
  "1092-63-COT26": {
   "codigo": "1092-63-COT26",
   "nombre": "SIC N°427 SIRE N°401 Servicio de Mantención eléctrica base Mañihuales DEPRIF",
@@ -341,7 +320,7 @@
   "adj_nombre": null,
   "adj_monto": null,
   "adj_iso": null,
-  "adj_revisado_iso": "2026-10-20T17:55:44-03:00"
+  "adj_revisado_iso": "2026-10-21T10:12:39-03:00"
  },
  "4644-86-COT26": {
   "codigo": "4644-86-COT26",
@@ -358,11 +337,11 @@
   "primera_vista_iso": "2026-10-14T06:57:02-03:00",
   "ultima_activa_iso": "2026-10-20T07:55:55-03:00",
   "removida_iso": "2026-10-20T08:56:11-03:00",
-  "estado_api": null,
+  "estado_api": "",
   "adj_nombre": null,
   "adj_monto": null,
   "adj_iso": null,
-  "adj_revisado_iso": "2026-10-20T17:55:44-03:00"
+  "adj_revisado_iso": "2026-10-21T10:12:39-03:00"
  },
  "2713-1246-COT26": {
   "codigo": "2713-1246-COT26",
@@ -383,7 +362,7 @@
   "adj_nombre": null,
   "adj_monto": null,
   "adj_iso": null,
-  "adj_revisado_iso": "2026-10-20T17:55:44-03:00"
+  "adj_revisado_iso": "2026-10-21T10:12:39-03:00"
  },
  "3765-295-COT26": {
   "codigo": "3765-295-COT26",
@@ -400,11 +379,11 @@
   "primera_vista_iso": "2026-10-14T10:07:19-03:00",
   "ultima_activa_iso": "2026-10-19T08:59:27-03:00",
   "removida_iso": "2026-10-19T10:11:35-03:00",
-  "estado_api": null,
+  "estado_api": "",
   "adj_nombre": null,
   "adj_monto": null,
   "adj_iso": null,
-  "adj_revisado_iso": "2026-10-20T17:55:44-03:00"
+  "adj_revisado_iso": "2026-10-21T10:12:39-03:00"
  },
  "4140-89-COT26": {
   "codigo": "4140-89-COT26",
@@ -425,7 +404,7 @@
   "adj_nombre": null,
   "adj_monto": null,
   "adj_iso": null,
-  "adj_revisado_iso": "2026-10-20T17:55:44-03:00"
+  "adj_revisado_iso": "2026-10-21T10:12:39-03:00"
  },
  "1182705-190-COT26": {
   "codigo": "1182705-190-COT26",
@@ -1247,7 +1226,7 @@
   "link": "https://buscador.mercadopublico.cl/ficha?code=2713-1268-COT26",
   "primera_vista_iso": "2026-10-20T13:58:42-03:00",
   "ultima_activa_iso": "2026-10-21T08:57:31-03:00",
-  "removida_iso": null,
+  "removida_iso": "2026-10-21T10:12:39-03:00",
   "estado_api": null,
   "adj_nombre": null,
   "adj_monto": null,
@@ -1291,7 +1270,7 @@
   "link": "https://buscador.mercadopublico.cl/ficha?code=1092-69-COT26",
   "primera_vista_iso": "2026-10-20T13:58:42-03:00",
   "ultima_activa_iso": "2026-10-21T08:57:31-03:00",
-  "removida_iso": null,
+  "removida_iso": "2026-10-21T10:12:39-03:00",
   "estado_api": null,
   "adj_nombre": null,
   "adj_monto": null,
@@ -1312,7 +1291,7 @@
   "link": "https://buscador.mercadopublico.cl/ficha?code=4066-429-COT26",
   "primera_vista_iso": "2026-10-20T16:05:54-03:00",
   "ultima_activa_iso": "2026-10-21T08:57:31-03:00",
-  "removida_iso": null,
+  "removida_iso": "2026-10-21T10:12:39-03:00",
   "estado_api": null,
   "adj_nombre": null,
   "adj_monto": null,
@@ -1335,7 +1314,7 @@
   ],
   "link": "https://buscador.mercadopublico.cl/ficha?code=1494998-24-COT26",
   "primera_vista_iso": "2026-10-20T16:54:52-03:00",
-  "ultima_activa_iso": "2026-10-21T08:57:31-03:00",
+  "ultima_activa_iso": "2026-10-21T10:12:39-03:00",
   "removida_iso": null,
   "estado_api": null,
   "adj_nombre": null,
