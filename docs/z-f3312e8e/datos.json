@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-10-22T07:57:26.069457-03:00",
+ "actualizado": "2026-10-22T08:57:28.714619-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
- "total_region": 280,
+ "total_region": 274,
  "rubros": {
   "25172700": "Aire acondicionado",
   "25173900": "Componentes eléctricos",
@@ -19,33 +19,6 @@
   "39121400": "Conectores, enchufes y terminales"
  },
  "filas": [
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "generador"
-   ],
-   "nueva": false,
-   "codigo": "3950-674-COT26",
-   "nombre": "Señaleticas de información ",
-   "organismo": "DIRECCION SALUD RURAL",
-   "unidad": "Dirección de Salud Rural",
-   "monto": 100000,
-   "cierre_iso": "2026-10-22T08:00:00-03:00",
-   "publicacion": "20-10 10:54",
-   "publicacion_iso": "2026-10-20T10:54:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "82101501",
-     "Letreros publicitarios",
-     14,
-     "Servicio de impresión de letreros laminado en trovisel, fondo blanco con letras negras mayúsculas (14x6,8 pulgadas) formato horizontal, de exterior con las siguientes cantidades y espesificación.\n3 sala de reas\n2 sala de generador \n3 sala de caldera \n1 bodega de leña \n1 bodega de combustible \n1 entrada \n1 baño solo funcionarios \n2 box multipropósito"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=3950-674-COT26",
-   "sin_detalle": false,
-   "descripcion": "Con despacho incluido"
-  },
   {
    "tipo": "OPORTUNIDAD",
    "motivos": [
@@ -881,6 +854,24 @@
   }
  ],
  "historial": [
+  {
+   "codigo": "3950-674-COT26",
+   "nombre": "Señaleticas de información ",
+   "organismo": "DIRECCION SALUD RURAL",
+   "monto": 100000,
+   "cierre_iso": "2026-10-22T08:00:00-03:00",
+   "tipo": "POSIBLE",
+   "motivos": [
+    "generador"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=3950-674-COT26",
+   "primera_vista_iso": "2026-10-20T11:03:01-03:00",
+   "removida_iso": "2026-10-22T08:57:28-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
   {
    "codigo": "2713-1258-COT26",
    "nombre": "ALCALDIA, Adquisicion de servicio de produccion actividad \"Dia Funcionario Municipal 2026\" folio 1300",
