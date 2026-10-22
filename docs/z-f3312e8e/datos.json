@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-10-22T08:57:28.714619-03:00",
+ "actualizado": "2026-10-22T10:13:15.879708-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
- "total_region": 274,
+ "total_region": 273,
  "rubros": {
   "25172700": "Aire acondicionado",
   "25173900": "Componentes eléctricos",
@@ -19,33 +19,6 @@
   "39121400": "Conectores, enchufes y terminales"
  },
  "filas": [
-  {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Cajas y accesorios eléctricos"
-   ],
-   "nueva": false,
-   "codigo": "2713-1267-COT26",
-   "nombre": "ALCALDIA, adquisicion de focos reflectores led, solicitud folio 1307",
-   "organismo": "I MUNICIPALIDAD DE AYSEN",
-   "unidad": "I.MUNICIPALIDAD AYSEN-ADQUISICIONES",
-   "monto": 200000,
-   "cierre_iso": "2026-10-22T10:00:00-03:00",
-   "publicacion": "20-10 13:00",
-   "publicacion_iso": "2026-10-20T13:00:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "39121311",
-     "Accesorios eléctricos",
-     10,
-     "Unidades de focos reflectores LED de 50w, segun detalles y especificaciones tecnicas adjuntas."
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=2713-1267-COT26",
-   "sin_detalle": false,
-   "descripcion": "ADQUISICION DE FOCOS REFLECTORES LED DE 50W, SEGUN ESPECIFICACIONES TECNICAS ADJUNTAS,LOS MONTOS DE LAS OFERTAS DEBEN INCLUIR TODOS LOS GASTOS NECESARIOS PARA LA ENTREGA DE LOS FOCOS LED EN PUERTO AYSEN. LAS OFERTAS QUE SOBREPASEN EL MONTO PRESUPUESTARIO DISPONIBLE, NO CUMPLAN CON LAS ESPECIFICACIONES REQUERIDAS, NO CUMPLAN O NO INDIQUEN EL PLAZO DE ENTREGA NO SERÁN EVALUADAS, EL PLAZO DE ENTREGA COMIENZA DESDE AL DIA HABIL SUBSIGUIENTE DE ENVIADA LA ORDEN DE COMPRA."
-  },
   {
    "tipo": "OPORTUNIDAD",
    "motivos": [
@@ -854,6 +827,24 @@
   }
  ],
  "historial": [
+  {
+   "codigo": "2713-1267-COT26",
+   "nombre": "ALCALDIA, adquisicion de focos reflectores led, solicitud folio 1307",
+   "organismo": "I MUNICIPALIDAD DE AYSEN",
+   "monto": 200000,
+   "cierre_iso": "2026-10-22T10:00:00-03:00",
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Cajas y accesorios eléctricos"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=2713-1267-COT26",
+   "primera_vista_iso": "2026-10-20T13:58:42-03:00",
+   "removida_iso": "2026-10-22T10:13:15-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
   {
    "codigo": "3950-674-COT26",
    "nombre": "Señaleticas de información ",
@@ -1727,61 +1718,6 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=4140-89-COT26",
    "primera_vista_iso": "2026-10-14T10:58:30-03:00",
    "removida_iso": "2026-10-15T11:03:49-03:00",
-   "estado_api": "",
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "1233615-778-COT26",
-   "nombre": "PHA/SOL 744/ALARGADORES/CEIA ",
-   "organismo": "Servicio Local de Educación Pública Aysén",
-   "monto": 48900,
-   "cierre_iso": "2026-10-15T10:00:00-03:00",
-   "tipo": "POSIBLE",
-   "motivos": [
-    "alargador",
-    "alargadores"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1233615-778-COT26",
-   "primera_vista_iso": "2026-10-11T21:06:47-03:00",
-   "removida_iso": "2026-10-15T10:11:17-03:00",
-   "estado_api": "",
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "2713-1242-COT26",
-   "nombre": "DIDECO SOL.1286, ADQUISICION DE MATERIAL ELECTRICO.",
-   "organismo": "I MUNICIPALIDAD DE AYSEN",
-   "monto": 100000,
-   "cierre_iso": "2026-10-15T10:00:00-03:00",
-   "tipo": "POSIBLE",
-   "motivos": [
-    "iluminación"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=2713-1242-COT26",
-   "primera_vista_iso": "2026-10-13T16:55:07-03:00",
-   "removida_iso": "2026-10-15T10:11:17-03:00",
-   "estado_api": "",
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "1057062-457-COT26",
-   "nombre": "Equipamientos Tecnológicos Proyecto URY 20991 y FIU Territorios",
-   "organismo": "UNIVERSIDAD DE AYSEN",
-   "monto": 7100000,
-   "cierre_iso": "2026-10-15T09:00:00-03:00",
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Cables eléctricos y accesorios"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1057062-457-COT26",
-   "primera_vista_iso": "2026-10-13T16:55:07-03:00",
-   "removida_iso": "2026-10-15T10:11:17-03:00",
    "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,
