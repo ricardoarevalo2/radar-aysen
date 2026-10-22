@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-10-22T13:58:58.778893-03:00",
+ "actualizado": "2026-10-22T14:53:55.532188-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
- "total_region": 282,
+ "total_region": 294,
  "rubros": {
   "80141600": "Ventas y marketing",
   "82101600": "Publicidad en medios no impresos",
@@ -199,6 +199,33 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=1233615-840-COT26",
    "sin_detalle": false,
    "descripcion": "SOL 2068 COMPONENTES AUDIO LICEO BICENTENARIO ARTURO PRAT CHACON"
+  },
+  {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Ventas y marketing"
+   ],
+   "nueva": true,
+   "codigo": "2495-574-COT26",
+   "nombre": "Servicio de producción del stand turístico de Coyhaique",
+   "organismo": "I MUNICIPALIDAD DE COYHAIQUE",
+   "unidad": "DIRECCION DESARROLLO COMUNITARIO",
+   "monto": 3000000,
+   "cierre_iso": "2026-10-23T15:00:00-03:00",
+   "publicacion": "22-10 14:32",
+   "publicacion_iso": "2026-10-22T14:32:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "80141607",
+     "Producción de eventos",
+     1,
+     "Segun TTR"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=2495-574-COT26",
+   "sin_detalle": false,
+   "descripcion": "Servicio de producción del stand turístico de Coyhaique según ttr adjunto. (ver adjunto)\n\nAdjuntar a la oferta Hoja de oferta económica y aceptación de condiciones. (ver adjunto)"
   },
   {
    "tipo": "OPORTUNIDAD",

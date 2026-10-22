@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-10-22T13:58:58.778893-03:00",
+ "actualizado": "2026-10-22T14:53:55.532188-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
- "total_region": 282,
+ "total_region": 294,
  "rubros": {
   "25172700": "Aire acondicionado",
   "25173900": "Componentes eléctricos",
@@ -735,7 +735,7 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=741465-12-COT26",
    "primera_vista_iso": "2026-10-16T11:57:33-03:00",
    "removida_iso": "2026-10-21T14:55:02-03:00",
-   "estado_api": null,
+   "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,
    "adj_iso": null
@@ -969,7 +969,7 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=3797-478-COT26",
    "primera_vista_iso": "2026-10-16T14:53:21-03:00",
    "removida_iso": "2026-10-19T10:11:35-03:00",
-   "estado_api": null,
+   "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,
    "adj_iso": null
@@ -1041,7 +1041,7 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=3950-657-COT26",
    "primera_vista_iso": "2026-10-16T14:53:21-03:00",
    "removida_iso": "2026-10-19T08:59:27-03:00",
-   "estado_api": null,
+   "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,
    "adj_iso": null
@@ -1375,25 +1375,6 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=1233615-792-COT26",
    "primera_vista_iso": "2026-10-14T13:59:10-03:00",
    "removida_iso": "2026-10-15T16:05:38-03:00",
-   "estado_api": "",
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "951405-255-COT26",
-   "nombre": "(F.INT-CC.MANT.CAS.OFLES) JAL_CAJ_ADQ. DE ELECTRODOMÉSTICOS Y MATERIALES PARA REPARACIÓN DEL CASINO DE OFICIALES DEL CMC Y CIELB.",
-   "organismo": "JEFATURA ADMINISTRATIVA Y LOGISTICA DE LA GUARNICION COYHAIQUE",
-   "monto": 3900000,
-   "cierre_iso": "2026-10-15T14:30:00-03:00",
-   "tipo": "POSIBLE",
-   "motivos": [
-    "ampolleta",
-    "ampolletas"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=951405-255-COT26",
-   "primera_vista_iso": "2026-10-13T11:46:51-03:00",
-   "removida_iso": "2026-10-15T14:53:38-03:00",
    "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,
