@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-10-22T16:57:20.136022-03:00",
+ "actualizado": "2026-10-22T17:57:00.383572-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
- "total_region": 300,
+ "total_region": 298,
  "rubros": {
   "25172700": "Aire acondicionado",
   "25173900": "Componentes eléctricos",
@@ -259,6 +259,33 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=1458-25-COT26",
    "sin_detalle": false,
    "descripcion": "La Secretaría Regional Ministerial de Desarrollo Social y Familia de la región de Aysén, requiere adquirir 4310 litros de combustible diésel para calefacción de la oficina. El combustible debe ser entregado en las dependencias de la Seremi, ubicada en calle Gral. Parra N°326, Coyhaique, a petición por parte del servicio, ya que la capacidad del estanque para almacenar combustible es solo de 2000 litros. (Ver Términos de Referencia)"
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "electricidad"
+   ],
+   "nueva": true,
+   "codigo": "1458-26-COT26",
+   "nombre": "Adquisición de Kerosene para calefacción ",
+   "organismo": "SERPLAC XI Región",
+   "unidad": "SERPLAC XI Región",
+   "monto": 860000,
+   "cierre_iso": "2026-10-27T09:00:00-03:00",
+   "publicacion": "22-10 17:06",
+   "publicacion_iso": "2026-10-22T17:06:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "15101502",
+     "Queroseno",
+     600,
+     "La Secretaría Regional Ministerial de Desarrollo Social y Familia de la región de Aysén, debe adquirir 600 litros aproximados de Kerosene para calefacción de las oficinas. El Kerosene debe ser entregado en las dependencias de la Seremi, ubicada en Gral. Parra N°326 y el camión que transporte el combustible debe estar autorizado por la Superintendencia de Electricidad y Combustible. (Ver Términos de Referencia)"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1458-26-COT26",
+   "sin_detalle": false,
+   "descripcion": "La Secretaría Regional Ministerial de Desarrollo Social y Familia de la región de Aysén, debe adquirir 600 litros aproximados de Kerosene para calefacción de las oficinas. El Kerosene debe ser entregado en las dependencias de la Seremi, ubicada en Gral. Parra N°326 y el camión que transporte el combustible debe estar autorizado por la Superintendencia de Electricidad y Combustible. (VER TÉRMINOS DE REFERENCIA)"
   },
   {
    "tipo": "OPORTUNIDAD",
@@ -534,7 +561,7 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=1758-245-COT26",
    "primera_vista_iso": "2026-10-19T12:56:38-03:00",
    "removida_iso": "2026-10-21T16:06:48-03:00",
-   "estado_api": null,
+   "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,
    "adj_iso": null
@@ -552,7 +579,7 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=1758-247-COT26",
    "primera_vista_iso": "2026-10-19T16:06:33-03:00",
    "removida_iso": "2026-10-21T16:06:48-03:00",
-   "estado_api": null,
+   "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,
    "adj_iso": null
