@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-10-22T11:59:22.763808-03:00",
+ "actualizado": "2026-10-22T12:57:35.173659-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
- "total_region": 286,
+ "total_region": 285,
  "rubros": {
   "80141600": "Ventas y marketing",
   "82101600": "Publicidad en medios no impresos",
@@ -354,78 +354,6 @@
   {
    "tipo": "POSIBLE",
    "motivos": [
-    "difusion",
-    "difusión",
-    "publicidad",
-    "publicitarios"
-   ],
-   "nueva": true,
-   "codigo": "1608-88-COT26",
-   "nombre": "ARTICULOS DIFUSION - CONADI",
-   "organismo": "DELEGACIÓN PRESIDENCIAL REGIONAL DE AYSÉN DEL GENERAL CARLOS IBÁÑEZ DE",
-   "unidad": "DELEGACION PRESIDENCIAL REGIONAL DE AYSEN",
-   "monto": 1550000,
-   "cierre_iso": "2026-10-26T10:00:00-03:00",
-   "publicacion": "22-10 10:59",
-   "publicacion_iso": "2026-10-22T10:59:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "32131010",
-     "Tarjetas sencillas de circuitos impresos",
-     1,
-     "01 caja de tarjetas de presentación (100 un.)color en papel couche 300grs. considerar diseño (diseño lo aportara la institución)."
-    ],
-    [
-     "32131010",
-     "Tarjetas sencillas de circuitos impresos",
-     4,
-     "Credenciales pvc con grafica en ambas cara, mas lanyard colgante blanco con estampado (diseño lo aportara la institución)."
-    ],
-    [
-     "45111603",
-     "Pantallas de proyección",
-     1,
-     "Pendón Roller Graf de 2x1 mts. con bolso incluido. (diseño lo aportara la institución)."
-    ],
-    [
-     "45111603",
-     "Pantallas de proyección",
-     1,
-     "Panel araña textil recto de 225 x 230 cm. grafica full color. (diseño lo aportara la institución)."
-    ],
-    [
-     "52121604",
-     "Mantel de mesa",
-     2,
-     "manteles xpandez color azul con logo estampado (logo lo aportara la institución),(manteles se 180 cm de ancho)"
-    ],
-    [
-     "53101802",
-     "Abrigos y chaquetas para hombre",
-     2,
-     "Chaquetas Softchell manga larga con logo estampado en el pecho (logo lo aportara la institución), (01 talla S y 01 talla XXL ambas para hombre) color negro o azul marino."
-    ],
-    [
-     "55121706",
-     "Banderas",
-     1,
-     "Banderas vela de 220, con mástil mas tela de 140x70 cm. (diseño lo aportara la institución)."
-    ],
-    [
-     "82101507",
-     "Folletos y catálogos publicitarios, servicios de publicidad y distribución",
-     1,
-     "(1.000) Dípticos tamaño carta 4/4 en color y en papel couche 130grs. (diseño lo aportara la institución)."
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1608-88-COT26",
-   "sin_detalle": false,
-   "descripcion": "COTIZAR; Artículos de difusión programa CONADI, Región de Aysén, con disponibilidad entrega en 03 día de emitida la Orden de compra y con despacho incluido. (DISEÑO LO ENTREGARA LA INSTITUCIÓN)"
-  },
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
     "avisos"
    ],
    "nueva": false,
@@ -452,6 +380,27 @@
   }
  ],
  "historial": [
+  {
+   "codigo": "1608-88-COT26",
+   "nombre": "ARTICULOS DIFUSION - CONADI",
+   "organismo": "DELEGACIÓN PRESIDENCIAL REGIONAL DE AYSÉN DEL GENERAL CARLOS IBÁÑEZ DE",
+   "monto": 1550000,
+   "cierre_iso": "2026-10-26T10:00:00-03:00",
+   "tipo": "POSIBLE",
+   "motivos": [
+    "difusion",
+    "difusión",
+    "publicidad",
+    "publicitarios"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1608-88-COT26",
+   "primera_vista_iso": "2026-10-22T11:01:40-03:00",
+   "removida_iso": "2026-10-22T12:57:35-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
   {
    "codigo": "1746-241-COT26",
    "nombre": "MUESTRA GASTRONÓMICA (P 493 DSP)",
@@ -501,7 +450,7 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=1195-527-COT26",
    "primera_vista_iso": "2026-10-20T11:03:01-03:00",
    "removida_iso": "2026-10-22T08:57:28-03:00",
-   "estado_api": null,
+   "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,
    "adj_iso": null
@@ -519,7 +468,7 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=3950-674-COT26",
    "primera_vista_iso": "2026-10-20T11:03:01-03:00",
    "removida_iso": "2026-10-22T08:57:28-03:00",
-   "estado_api": null,
+   "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,
    "adj_iso": null

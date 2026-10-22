@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-10-22T11:59:22.763808-03:00",
+ "actualizado": "2026-10-22T12:57:35.173659-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
- "total_region": 286,
+ "total_region": 285,
  "rubros": {
   "25172700": "Aire acondicionado",
   "25173900": "Componentes eléctricos",
@@ -542,6 +542,33 @@
    "descripcion": "Instalación lámparas de Emergencia y Letreros Led Salida Emergencia Oficina de Puerto Aysén"
   },
   {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "electricidad"
+   ],
+   "nueva": true,
+   "codigo": "1458-25-COT26",
+   "nombre": "Adquisición diésel calefacción",
+   "organismo": "SERPLAC XI Región",
+   "unidad": "SERPLAC XI Región",
+   "monto": 6917449,
+   "cierre_iso": "2026-10-26T10:00:00-03:00",
+   "publicacion": "22-10 12:44",
+   "publicacion_iso": "2026-10-22T12:44:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "15101505",
+     "Diesel",
+     1,
+     "La Secretaría Regional Ministerial de Desarrollo Social y Familia de la región de Aysén, requiere adquirir 4310 litros de combustible diésel para calefacción de la oficina. El combustible debe ser entregado en las dependencias de la Seremi, ubicada en calle Gral. Parra N°326.El camión que transporte el combustible debe estar autorizado por la Superintendencia de Electricidad y Combustible. (Ver Términos de Referencia)"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1458-25-COT26",
+   "sin_detalle": false,
+   "descripcion": "La Secretaría Regional Ministerial de Desarrollo Social y Familia de la región de Aysén, requiere adquirir 4310 litros de combustible diésel para calefacción de la oficina. El combustible debe ser entregado en las dependencias de la Seremi, ubicada en calle Gral. Parra N°326, Coyhaique, a petición por parte del servicio, ya que la capacidad del estanque para almacenar combustible es solo de 2000 litros. (Ver Términos de Referencia)"
+  },
+  {
    "tipo": "OPORTUNIDAD",
    "motivos": [
     "Servicios eléctricos"
@@ -981,7 +1008,7 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=1057062-464-COT26",
    "primera_vista_iso": "2026-10-16T11:00:56-03:00",
    "removida_iso": "2026-10-19T16:06:33-03:00",
-   "estado_api": null,
+   "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,
    "adj_iso": null
