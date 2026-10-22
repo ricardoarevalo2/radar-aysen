@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-10-22T14:53:55.532188-03:00",
+ "actualizado": "2026-10-22T16:06:22.843361-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
- "total_region": 294,
+ "total_region": 288,
  "rubros": {
   "25172700": "Aire acondicionado",
   "25173900": "Componentes eléctricos",
@@ -19,192 +19,6 @@
   "39121400": "Conectores, enchufes y terminales"
  },
  "filas": [
-  {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Gasfitería, calefacción y aire acondicionado"
-   ],
-   "nueva": false,
-   "codigo": "1892-21-COT26",
-   "nombre": "Recambio de Llave lavamanos y luminaria",
-   "organismo": "SERVICIO NACIONAL DE LA MUJER Y LA EQUIDAD DE GENERO",
-   "unidad": "Sernam XI Región",
-   "monto": 300000,
-   "cierre_iso": "2026-10-22T15:00:00-03:00",
-   "publicacion": "21-10 10:31",
-   "publicacion_iso": "2026-10-21T10:31:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "72102304",
-     "Mantenimiento o reparación de sistemas de fontanería, gasfitería",
-     1,
-     "recambio de llaves de lavamanos en dependencias de sernameg aysen, incluye el recambio de 2 luminarias a foco led. cotizar segùn terminos de referencias. Requiere visita técnica"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1892-21-COT26",
-   "sin_detalle": false,
-   "descripcion": "Recambio de llaves de lavamanos y cambio de luminaria led en dependencias de sernameg según términos de referencia"
-  },
-  {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Conectores, enchufes y terminales"
-   ],
-   "nueva": true,
-   "codigo": "1280-72-COT26",
-   "nombre": "Insumos de ferretería y/u otros",
-   "organismo": "MINISTERIO DE OBRAS PUBLICAS DIREC CION GRAL DE OO PP DCYF",
-   "unidad": "Direccion de Vialidad - XI Región - Provincia de Cochrane",
-   "monto": 3600000,
-   "cierre_iso": "2026-10-22T16:00:00-03:00",
-   "publicacion": "21-10 15:46",
-   "publicacion_iso": "2026-10-21T15:46:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "10101807",
-     "Pulpos",
-     2,
-     "Pulpo Cadena 6.700 Kg - 05 Mt - 10 Mm - 4 Ram. G/Yos"
-    ],
-    [
-     "10101807",
-     "Pulpos",
-     2,
-     "Pulpo Cadena 7.500 Kg - 3 Mt - 13 Mm - 2 Ram G/Yos C/Ac."
-    ],
-    [
-     "12352310",
-     "Siliconas",
-     10,
-     "Silicona Spray Protección (Uso General)"
-    ],
-    [
-     "15121802",
-     "Lubricantes anticorrosivos",
-     20,
-     "Lubricante - Aflojador - Ablandador Mecánico Spray Wd-40 - Aerosol"
-    ],
-    [
-     "23171509",
-     "Soldadura",
-     2,
-     "Soldadura De Acero Inoxidable De 1/16\""
-    ],
-    [
-     "23171536",
-     "Portaelectrodos",
-     4,
-     "Porta Electrodos"
-    ],
-    [
-     "24101611",
-     "Eslingas",
-     15,
-     "Eslinga 2\" X Largo 5 A 9 Mt Tecle Ratchet"
-    ],
-    [
-     "27112004",
-     "Palas",
-     20,
-     "Pala Punta Huevo Con Mango Metalico"
-    ],
-    [
-     "31162904",
-     "Grampas de cable metálico",
-     6,
-     "Pinza  toma tierra de 600 amp."
-    ],
-    [
-     "31211507",
-     "Pinturas en aerosol",
-     24,
-     "Pintura En Spray Fluorescente"
-    ],
-    [
-     "39121436",
-     "Electrodos",
-     50,
-     "Electrodo 7018 De 1/8\" (3.2 Mm)"
-    ],
-    [
-     "39121436",
-     "Electrodos",
-     2,
-     "Electrodo DE ALUMINIO DE 3/32\", TIPO E-4043"
-    ],
-    [
-     "44121710",
-     "Tiza para escribir o accesorios",
-     2,
-     "Tiza de calderero para marcar metales. (100 UNIDADES CADA CAJA)"
-    ],
-    [
-     "47131502",
-     "Paños de limpieza",
-     50,
-     "Paño Trapo  Para Limpieza (Huaipe) En Bolsas"
-    ],
-    [
-     "47131602",
-     "Paños de limpieza absorbente",
-     6,
-     "Saco Absorbente De Hidrocarburos"
-    ],
-    [
-     "49161703",
-     "Discos",
-     200,
-     "Disco De Corte/Desbaste/Acabado   7\" Acero Inoxidable,  Bda  Multiuso"
-    ],
-    [
-     "49161703",
-     "Discos",
-     200,
-     "Disco De Corte Metal 4.5\" X 3/32\" X 7/8\""
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1280-72-COT26",
-   "sin_detalle": false,
-   "descripcion": "Que es necesario adquirir insumos de ferretería para la Oficina Provincial de Cochrane los cuales deben ser entregados en la Oficina Provincial Capitán Prat, Comuna de Cochrane, Dirección de Vialidad Región de Aysén, ubicada en Esmeralda 316. El flete debe ser considerado por el proveedor"
-  },
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "eléctrico",
-    "eléctricos",
-    "generador",
-    "generador eléctrico"
-   ],
-   "nueva": false,
-   "codigo": "1494998-24-COT26",
-   "nombre": "ADQUISICIÓN Y DESPACHO DE GENERADORES ELÉCTRICOS PARA LAS ÁREAS PROTEGIDAS DE LA DIRECCIÓN REGIONAL DE AYSÉN (SBAP) CONVENIO SBAP-CONAF",
-   "organismo": "Servicio de Biodiversidad y Áreas Protegidas",
-   "unidad": "Dirección Regional de Aysén",
-   "monto": 1900000,
-   "cierre_iso": "2026-10-22T16:00:00-03:00",
-   "publicacion": "20-10 16:20",
-   "publicacion_iso": "2026-10-20T16:20:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "26111601",
-     "Generadores diesel",
-     1,
-     "GENERADOR 6.5 KW. GASOLINA P. ELÉCTRICA: Con Regulador de Voltaje AVR.  Sistema de arranque manual y eléctrico. Su Autonomía es de 12,2 horas (50% de carga). Estanque de 25 litros. Considerar EETT en TDR adjuntos."
-    ],
-    [
-     "26111601",
-     "Generadores diesel",
-     1,
-     "GENERADOR ELÉCTRICO GASOLINA PARTIDA ELÉCTRICA 6000 W 25 I: Potencia de 6000 W y un motor bencinero de 4 tiempos de 419cc. Capacidad de tanque de 25 litros. Autonomía de entre 7.5 y 8.5 horas. Considerar EETT en TDR adjuntos."
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1494998-24-COT26",
-   "sin_detalle": false,
-   "descripcion": "El Servicio de Biodiversidad y Áreas Protegidas, en adelante el SBAP, llama a proveedores a participar en la presentación de ofertas destinadas a la adquisición y despacho de generadores eléctricos para las Áreas Protegidas de la Dirección Regional de Aysén del General Carlos Ibáñez del Campo. Considerar TDR para proceso de postulación."
-  },
   {
    "tipo": "POSIBLE",
    "motivos": [
@@ -504,6 +318,63 @@
   }
  ],
  "historial": [
+  {
+   "codigo": "1494998-24-COT26",
+   "nombre": "ADQUISICIÓN Y DESPACHO DE GENERADORES ELÉCTRICOS PARA LAS ÁREAS PROTEGIDAS DE LA DIRECCIÓN REGIONAL DE AYSÉN (SBAP) CONVENIO SBAP-CONAF",
+   "organismo": "Servicio de Biodiversidad y Áreas Protegidas",
+   "monto": 1900000,
+   "cierre_iso": "2026-10-22T16:00:00-03:00",
+   "tipo": "POSIBLE",
+   "motivos": [
+    "eléctrico",
+    "eléctricos",
+    "generador",
+    "generador eléctrico"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1494998-24-COT26",
+   "primera_vista_iso": "2026-10-20T16:54:52-03:00",
+   "removida_iso": "2026-10-22T16:06:22-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
+  {
+   "codigo": "1280-72-COT26",
+   "nombre": "Insumos de ferretería y/u otros",
+   "organismo": "MINISTERIO DE OBRAS PUBLICAS DIREC CION GRAL DE OO PP DCYF",
+   "monto": 3600000,
+   "cierre_iso": "2026-10-22T16:00:00-03:00",
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Conectores, enchufes y terminales"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1280-72-COT26",
+   "primera_vista_iso": "2026-10-21T16:06:48-03:00",
+   "removida_iso": "2026-10-22T16:06:22-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
+  {
+   "codigo": "1892-21-COT26",
+   "nombre": "Recambio de Llave lavamanos y luminaria",
+   "organismo": "SERVICIO NACIONAL DE LA MUJER Y LA EQUIDAD DE GENERO",
+   "monto": 300000,
+   "cierre_iso": "2026-10-22T15:00:00-03:00",
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Gasfitería, calefacción y aire acondicionado"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1892-21-COT26",
+   "primera_vista_iso": "2026-10-21T11:01:51-03:00",
+   "removida_iso": "2026-10-22T16:06:22-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
   {
    "codigo": "4609-284-COT26",
    "nombre": "EQUIPAMIENTO SONIDO Y AMPLIFICACION ",
@@ -897,7 +768,7 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=1281188-17-COT26",
    "primera_vista_iso": "2026-10-16T16:50:54-03:00",
    "removida_iso": "2026-10-19T16:57:34-03:00",
-   "estado_api": null,
+   "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,
    "adj_iso": null
@@ -951,7 +822,7 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=1107283-170-COT26",
    "primera_vista_iso": "2026-10-16T16:50:54-03:00",
    "removida_iso": "2026-10-19T11:06:38-03:00",
-   "estado_api": null,
+   "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,
    "adj_iso": null
@@ -1301,80 +1172,6 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=1092-63-COT26",
    "primera_vista_iso": "2026-10-13T09:52:56-03:00",
    "removida_iso": "2026-10-16T08:54:51-03:00",
-   "estado_api": "",
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "1104680-15-COT26",
-   "nombre": "ADQUISICION E INSTALACION DE SISTEMA DE CLIMATIZACION EN RECINTO \"CASA SENDA \"",
-   "organismo": "SERVICIO NACIONAL DE SALUD HOSPITAL DE C",
-   "monto": 5000000,
-   "cierre_iso": "2026-10-15T16:00:00-03:00",
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Enfriamiento (aires acondicionados)"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1104680-15-COT26",
-   "primera_vista_iso": "2026-10-13T12:44:50-03:00",
-   "removida_iso": "2026-10-15T16:05:38-03:00",
-   "estado_api": "",
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "1403-445-COT26",
-   "nombre": "COMPRA DE MATERIALES REPARACION Y MEJORAMIENTO BODEGA ALIMENTACIÓN CDP PTO AYSEN",
-   "organismo": "Dirección Regional de Gendarmeria - Coyhaique",
-   "monto": 750000,
-   "cierre_iso": "2026-10-15T16:00:00-03:00",
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Cables eléctricos y accesorios",
-    "Cajas y accesorios eléctricos",
-    "Interruptores, controles y relés"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1403-445-COT26",
-   "primera_vista_iso": "2026-10-14T13:59:10-03:00",
-   "removida_iso": "2026-10-15T16:05:38-03:00",
-   "estado_api": "",
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "1233615-793-COT26",
-   "nombre": "JGS [SOL-2026-00699] Adquisición de instrumentos musicales e insumos./ESCUELA BÁSICA HERNÁN MERINO CORREA.",
-   "organismo": "Servicio Local de Educación Pública Aysén",
-   "monto": 998612,
-   "cierre_iso": "2026-10-15T15:00:00-03:00",
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Materiales de física de electricidad"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1233615-793-COT26",
-   "primera_vista_iso": "2026-10-14T13:59:10-03:00",
-   "removida_iso": "2026-10-15T16:05:38-03:00",
-   "estado_api": "",
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "1233615-792-COT26",
-   "nombre": "JGS [SOL-2026-01876] Insumos musicales/ LICEO BICENTENARIO AUSTRAL LORD COCHRANE.",
-   "organismo": "Servicio Local de Educación Pública Aysén",
-   "monto": 250000,
-   "cierre_iso": "2026-10-15T15:00:00-03:00",
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Materiales de física de electricidad"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1233615-792-COT26",
-   "primera_vista_iso": "2026-10-14T13:59:10-03:00",
-   "removida_iso": "2026-10-15T16:05:38-03:00",
    "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,
