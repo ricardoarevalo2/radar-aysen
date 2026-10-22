@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-10-22T11:01:40.430205-03:00",
+ "actualizado": "2026-10-22T11:59:22.763808-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
- "total_region": 283,
+ "total_region": 286,
  "rubros": {
   "25172700": "Aire acondicionado",
   "25173900": "Componentes eléctricos",
@@ -19,112 +19,6 @@
   "39121400": "Conectores, enchufes y terminales"
  },
  "filas": [
-  {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Conectores, enchufes y terminales",
-    "Interruptores, controles y relés"
-   ],
-   "nueva": true,
-   "codigo": "3791-1050-COT26",
-   "nombre": "MAT. GIMNASIO LA JUNTA ",
-   "organismo": "I MUNICIPALIDAD DE CISNES",
-   "unidad": "Finanzas",
-   "monto": 3571190,
-   "cierre_iso": "2026-10-22T11:30:00-03:00",
-   "publicacion": "21-10 11:20",
-   "publicacion_iso": "2026-10-21T11:20:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "11151513",
-     "Fibras de cerámico",
-     2,
-     "Fragüe para ceramico blanco (1kg)"
-    ],
-    [
-     "30152003",
-     "Murallas de fibrocemento",
-     1,
-     "Fibrocemento 8mm"
-    ],
-    [
-     "30171514",
-     "Cierres de puertas",
-     15,
-     "Bisagras 3 1/2\" para puertas (Pack)"
-    ],
-    [
-     "31161803",
-     "Golillas de fijación",
-     3000,
-     "Golillas K PV4"
-    ],
-    [
-     "31162001",
-     "Puntas",
-     1,
-     "Set puntas hexagonales magneticas"
-    ],
-    [
-     "31162312",
-     "Pasadores de montaje",
-     2,
-     "Pasador/Picaporte de embutir para hoja fija (200mm largo x 12mm)"
-    ],
-    [
-     "31201501",
-     "Cinta de conductos",
-     1,
-     "Teflon Agua"
-    ],
-    [
-     "31201501",
-     "Cinta de conductos",
-     1,
-     "Teflon Gas"
-    ],
-    [
-     "31201501",
-     "Cinta de conductos",
-     2,
-     "Cinta para juntas de yeso cartón"
-    ],
-    [
-     "32111503",
-     "Diodos emisores de luz (LED)",
-     3,
-     "Equipos de alumbrado estanco con tubos led integrados (T8)"
-    ],
-    [
-     "39121419",
-     "Conexiones flexibles",
-     4,
-     "Flexible para conexión de agua fria 60cm"
-    ],
-    [
-     "39121419",
-     "Conexiones flexibles",
-     4,
-     "Flexible para conexión de agua caliente 60cm"
-    ],
-    [
-     "39121506",
-     "Interruptores automáticos por caída de presión",
-     1,
-     "Automatico 1x10A"
-    ],
-    [
-     "39121506",
-     "Interruptores automáticos por caída de presión",
-     1,
-     "Automatico diferencial 2x25A"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=3791-1050-COT26",
-   "sin_detalle": false,
-   "descripcion": "ADQUISICION DE MATERIALES PARA REPARACION Y MANTENCION DE GIMNASIO LA JUNTA"
-  },
   {
    "tipo": "OPORTUNIDAD",
    "motivos": [
@@ -223,7 +117,7 @@
    "motivos": [
     "Gasfitería, calefacción y aire acondicionado"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "1892-21-COT26",
    "nombre": "Recambio de Llave lavamanos y luminaria",
    "organismo": "SERVICIO NACIONAL DE LA MUJER Y LA EQUIDAD DE GENERO",
@@ -676,6 +570,25 @@
   }
  ],
  "historial": [
+  {
+   "codigo": "3791-1050-COT26",
+   "nombre": "MAT. GIMNASIO LA JUNTA ",
+   "organismo": "I MUNICIPALIDAD DE CISNES",
+   "monto": 3571190,
+   "cierre_iso": "2026-10-22T11:30:00-03:00",
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Conectores, enchufes y terminales",
+    "Interruptores, controles y relés"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=3791-1050-COT26",
+   "primera_vista_iso": "2026-10-21T11:58:17-03:00",
+   "removida_iso": "2026-10-22T11:59:22-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
   {
    "codigo": "3791-1048-COT26",
    "nombre": "TERMINALES",
@@ -1529,26 +1442,6 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=951405-255-COT26",
    "primera_vista_iso": "2026-10-13T11:46:51-03:00",
    "removida_iso": "2026-10-15T14:53:38-03:00",
-   "estado_api": "",
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "1182705-190-COT26",
-   "nombre": "MATERIALES PARA TNS EN ELECTRICIDAD CFT AYSEN SEDE COYHAIQUE",
-   "organismo": "CENTRO DE FORMACIÓN TÉCNICA DE LA REGIÓN DE AYSÉN DEL GENERAL CARLOS I",
-   "monto": 1970000,
-   "cierre_iso": "2026-10-15T11:30:00-03:00",
-   "tipo": "POSIBLE",
-   "motivos": [
-    "electricidad",
-    "interruptor",
-    "transformador"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1182705-190-COT26",
-   "primera_vista_iso": "2026-10-14T10:58:30-03:00",
-   "removida_iso": "2026-10-15T11:57:55-03:00",
    "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,
