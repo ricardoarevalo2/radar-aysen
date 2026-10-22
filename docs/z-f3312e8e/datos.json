@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-10-22T12:57:35.173659-03:00",
+ "actualizado": "2026-10-22T13:58:58.778893-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
- "total_region": 285,
+ "total_region": 282,
  "rubros": {
   "25172700": "Aire acondicionado",
   "25173900": "Componentes eléctricos",
@@ -19,99 +19,6 @@
   "39121400": "Conectores, enchufes y terminales"
  },
  "filas": [
-  {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Cables eléctricos y accesorios"
-   ],
-   "nueva": false,
-   "codigo": "4609-284-COT26",
-   "nombre": "EQUIPAMIENTO SONIDO Y AMPLIFICACION ",
-   "organismo": "I MUNICIPALIDAD DE CHILE CHICO",
-   "unidad": "Finanzas",
-   "monto": 7100000,
-   "cierre_iso": "2026-10-22T13:00:00-03:00",
-   "publicacion": "20-10 12:46",
-   "publicacion_iso": "2026-10-20T12:46:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "52161512",
-     "Parlantes",
-     4,
-     "PARLANTES ACTIVOS (detalle ver TDR)"
-    ],
-    [
-     "52161512",
-     "Parlantes",
-     2,
-     "SUB BAJO (detalle ver TDR)"
-    ],
-    [
-     "45111704",
-     "Consolas de mezcla de sonidos",
-     1,
-     "CONSOLA DIGITAL (detalle ver TDR)"
-    ],
-    [
-     "44111517",
-     "Atriles",
-     4,
-     "ATRIL DE MICROFONO (detalle ver TDR)"
-    ],
-    [
-     "44111517",
-     "Atriles",
-     4,
-     "ATRIL DE PARLANTES (detalle ver TDR)"
-    ],
-    [
-     "52161520",
-     "Micrófonos",
-     2,
-     "MICROFONO CARDIOIDE (detalle ver TDR)"
-    ],
-    [
-     "52161520",
-     "Micrófonos",
-     1,
-     "MICROFONO ENTREVISTA (detalle ver TDR)"
-    ],
-    [
-     "39121205",
-     "Canaletas para cables",
-     3,
-     "PASACABLES (detalle ver TDR)"
-    ],
-    [
-     "45111702",
-     "Cajas de conexión de sonido",
-     2,
-     "CAJA DIRECTA (detalle ver TDR)"
-    ],
-    [
-     "26121620",
-     "Cable para interconexiones",
-     5,
-     "CABLE XLR 5 METROS (detalle ver TDR)"
-    ],
-    [
-     "26121620",
-     "Cable para interconexiones",
-     5,
-     "CABLE XLR 10 METROS (detalle ver TDR)"
-    ],
-    [
-     "26121620",
-     "Cable para interconexiones",
-     5,
-     "CABLE XLR 20 METROS (detalle ver TDR)"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=4609-284-COT26",
-   "sin_detalle": false,
-   "descripcion": "COTIZACION EQUIPAMIENTO SONIDO Y AMPLIFICACION PROFESIONAL"
-  },
   {
    "tipo": "OPORTUNIDAD",
    "motivos": [
@@ -386,7 +293,7 @@
    "motivos": [
     "climatización"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "3765-309-COT26",
    "nombre": "Adquisición sistema hidráulico de climatización y calefacción. ",
    "organismo": "SERVICIO NACIONAL DE SALUD HOSPITAL DE C",
@@ -597,6 +504,24 @@
   }
  ],
  "historial": [
+  {
+   "codigo": "4609-284-COT26",
+   "nombre": "EQUIPAMIENTO SONIDO Y AMPLIFICACION ",
+   "organismo": "I MUNICIPALIDAD DE CHILE CHICO",
+   "monto": 7100000,
+   "cierre_iso": "2026-10-22T13:00:00-03:00",
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Cables eléctricos y accesorios"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=4609-284-COT26",
+   "primera_vista_iso": "2026-10-20T12:57:59-03:00",
+   "removida_iso": "2026-10-22T13:58:58-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
   {
    "codigo": "3791-1050-COT26",
    "nombre": "MAT. GIMNASIO LA JUNTA ",
