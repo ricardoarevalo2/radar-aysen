@@ -76,7 +76,7 @@
   ],
   "link": "https://buscador.mercadopublico.cl/ficha?code=711-194-COT26",
   "primera_vista_iso": "2026-10-11T21:06:47-03:00",
-  "ultima_activa_iso": "2026-10-22T10:13:15-03:00",
+  "ultima_activa_iso": "2026-10-22T11:01:40-03:00",
   "removida_iso": null,
   "estado_api": "",
   "adj_nombre": null,
@@ -186,35 +186,13 @@
   ],
   "link": "https://buscador.mercadopublico.cl/ficha?code=4066-419-COT26",
   "primera_vista_iso": "2026-10-13T15:51:46-03:00",
-  "ultima_activa_iso": "2026-10-22T10:13:15-03:00",
+  "ultima_activa_iso": "2026-10-22T11:01:40-03:00",
   "removida_iso": null,
   "estado_api": "",
   "adj_nombre": null,
   "adj_monto": null,
   "adj_iso": null,
   "adj_revisado_iso": "2026-10-21T08:57:31-03:00"
- },
- "2713-1244-COT26": {
-  "codigo": "2713-1244-COT26",
-  "nombre": "DIDECO SOL.1287.Adquisición de Microondas.",
-  "organismo": "I MUNICIPALIDAD DE AYSEN",
-  "unidad": "I.MUNICIPALIDAD AYSEN-ADQUISICIONES",
-  "monto": 120000,
-  "cierre_iso": "2026-10-15T11:00:00-03:00",
-  "tipo": "POSIBLE",
-  "motivos": [
-   "certificación sec",
-   "red eléctrica"
-  ],
-  "link": "https://buscador.mercadopublico.cl/ficha?code=2713-1244-COT26",
-  "primera_vista_iso": "2026-10-13T16:55:07-03:00",
-  "ultima_activa_iso": "2026-10-15T10:11:17-03:00",
-  "removida_iso": "2026-10-15T11:03:49-03:00",
-  "estado_api": "",
-  "adj_nombre": null,
-  "adj_monto": null,
-  "adj_iso": null,
-  "adj_revisado_iso": "2026-10-22T08:57:28-03:00"
  },
  "4644-86-COT26": {
   "codigo": "4644-86-COT26",
@@ -273,27 +251,6 @@
   "primera_vista_iso": "2026-10-14T10:07:19-03:00",
   "ultima_activa_iso": "2026-10-19T08:59:27-03:00",
   "removida_iso": "2026-10-19T10:11:35-03:00",
-  "estado_api": "",
-  "adj_nombre": null,
-  "adj_monto": null,
-  "adj_iso": null,
-  "adj_revisado_iso": "2026-10-22T08:57:28-03:00"
- },
- "4140-89-COT26": {
-  "codigo": "4140-89-COT26",
-  "nombre": "EQUIPOS AIRE ACONDICIONADOS Y OTROS, MUNICIPALIDAD DE LAGO VERDE",
-  "organismo": "I MUNICIPALIDAD DE LAGO VERDE",
-  "unidad": "Adquisiciones",
-  "monto": 4000000,
-  "cierre_iso": "2026-10-15T11:00:00-03:00",
-  "tipo": "OPORTUNIDAD",
-  "motivos": [
-   "Gasfitería, calefacción y aire acondicionado"
-  ],
-  "link": "https://buscador.mercadopublico.cl/ficha?code=4140-89-COT26",
-  "primera_vista_iso": "2026-10-14T10:58:30-03:00",
-  "ultima_activa_iso": "2026-10-15T10:11:17-03:00",
-  "removida_iso": "2026-10-15T11:03:49-03:00",
   "estado_api": "",
   "adj_nombre": null,
   "adj_monto": null,
@@ -426,7 +383,7 @@
   "adj_nombre": null,
   "adj_monto": null,
   "adj_iso": null,
-  "adj_revisado_iso": "2026-10-21T18:57:12-03:00"
+  "adj_revisado_iso": "2026-10-22T11:01:40-03:00"
  },
  "1403-445-COT26": {
   "codigo": "1403-445-COT26",
@@ -449,7 +406,7 @@
   "adj_nombre": null,
   "adj_monto": null,
   "adj_iso": null,
-  "adj_revisado_iso": "2026-10-21T18:57:12-03:00"
+  "adj_revisado_iso": "2026-10-22T11:01:40-03:00"
  },
  "3540-274-COT26": {
   "codigo": "3540-274-COT26",
@@ -470,7 +427,7 @@
   "adj_nombre": null,
   "adj_monto": null,
   "adj_iso": null,
-  "adj_revisado_iso": "2026-10-21T18:57:12-03:00"
+  "adj_revisado_iso": "2026-10-22T11:01:40-03:00"
  },
  "4889-41-COT26": {
   "codigo": "4889-41-COT26",
@@ -485,7 +442,7 @@
   ],
   "link": "https://buscador.mercadopublico.cl/ficha?code=4889-41-COT26",
   "primera_vista_iso": "2026-10-14T16:56:08-03:00",
-  "ultima_activa_iso": "2026-10-22T10:13:15-03:00",
+  "ultima_activa_iso": "2026-10-22T11:01:40-03:00",
   "removida_iso": null,
   "estado_api": null,
   "adj_nombre": null,
@@ -512,7 +469,7 @@
   "adj_nombre": null,
   "adj_monto": null,
   "adj_iso": null,
-  "adj_revisado_iso": "2026-10-21T22:07:10-03:00"
+  "adj_revisado_iso": "2026-10-22T11:01:40-03:00"
  },
  "4609-281-COT26": {
   "codigo": "4609-281-COT26",
@@ -533,7 +490,7 @@
   "adj_nombre": null,
   "adj_monto": null,
   "adj_iso": null,
-  "adj_revisado_iso": "2026-10-21T18:57:12-03:00"
+  "adj_revisado_iso": "2026-10-22T11:01:40-03:00"
  },
  "4140-92-COT26": {
   "codigo": "4140-92-COT26",
@@ -951,7 +908,7 @@
   ],
   "link": "https://buscador.mercadopublico.cl/ficha?code=1274667-398-COT26",
   "primera_vista_iso": "2026-10-19T16:06:33-03:00",
-  "ultima_activa_iso": "2026-10-22T10:13:15-03:00",
+  "ultima_activa_iso": "2026-10-22T11:01:40-03:00",
   "removida_iso": null,
   "estado_api": null,
   "adj_nombre": null,
@@ -1035,7 +992,7 @@
   ],
   "link": "https://buscador.mercadopublico.cl/ficha?code=1233615-823-COT26",
   "primera_vista_iso": "2026-10-19T16:57:34-03:00",
-  "ultima_activa_iso": "2026-10-22T10:13:15-03:00",
+  "ultima_activa_iso": "2026-10-22T11:01:40-03:00",
   "removida_iso": null,
   "estado_api": null,
   "adj_nombre": null,
@@ -1098,7 +1055,7 @@
   ],
   "link": "https://buscador.mercadopublico.cl/ficha?code=4609-284-COT26",
   "primera_vista_iso": "2026-10-20T12:57:59-03:00",
-  "ultima_activa_iso": "2026-10-22T10:13:15-03:00",
+  "ultima_activa_iso": "2026-10-22T11:01:40-03:00",
   "removida_iso": null,
   "estado_api": null,
   "adj_nombre": null,
@@ -1163,7 +1120,7 @@
   ],
   "link": "https://buscador.mercadopublico.cl/ficha?code=1092-69-COT26",
   "primera_vista_iso": "2026-10-20T13:58:42-03:00",
-  "ultima_activa_iso": "2026-10-22T10:13:15-03:00",
+  "ultima_activa_iso": "2026-10-22T11:01:40-03:00",
   "removida_iso": null,
   "estado_api": null,
   "adj_nombre": null,
@@ -1208,7 +1165,7 @@
   ],
   "link": "https://buscador.mercadopublico.cl/ficha?code=1494998-24-COT26",
   "primera_vista_iso": "2026-10-20T16:54:52-03:00",
-  "ultima_activa_iso": "2026-10-22T10:13:15-03:00",
+  "ultima_activa_iso": "2026-10-22T11:01:40-03:00",
   "removida_iso": null,
   "estado_api": null,
   "adj_nombre": null,
@@ -1231,7 +1188,7 @@
   "link": "https://buscador.mercadopublico.cl/ficha?code=3791-1048-COT26",
   "primera_vista_iso": "2026-10-21T11:01:51-03:00",
   "ultima_activa_iso": "2026-10-22T10:13:15-03:00",
-  "removida_iso": null,
+  "removida_iso": "2026-10-22T11:01:40-03:00",
   "estado_api": null,
   "adj_nombre": null,
   "adj_monto": null,
@@ -1251,7 +1208,7 @@
   ],
   "link": "https://buscador.mercadopublico.cl/ficha?code=1892-21-COT26",
   "primera_vista_iso": "2026-10-21T11:01:51-03:00",
-  "ultima_activa_iso": "2026-10-22T10:13:15-03:00",
+  "ultima_activa_iso": "2026-10-22T11:01:40-03:00",
   "removida_iso": null,
   "estado_api": null,
   "adj_nombre": null,
@@ -1273,7 +1230,7 @@
   ],
   "link": "https://buscador.mercadopublico.cl/ficha?code=3791-1050-COT26",
   "primera_vista_iso": "2026-10-21T11:58:17-03:00",
-  "ultima_activa_iso": "2026-10-22T10:13:15-03:00",
+  "ultima_activa_iso": "2026-10-22T11:01:40-03:00",
   "removida_iso": null,
   "estado_api": null,
   "adj_nombre": null,
@@ -1294,7 +1251,7 @@
   ],
   "link": "https://buscador.mercadopublico.cl/ficha?code=3765-309-COT26",
   "primera_vista_iso": "2026-10-21T13:00:55-03:00",
-  "ultima_activa_iso": "2026-10-22T10:13:15-03:00",
+  "ultima_activa_iso": "2026-10-22T11:01:40-03:00",
   "removida_iso": null,
   "estado_api": null,
   "adj_nombre": null,
@@ -1315,7 +1272,7 @@
   ],
   "link": "https://buscador.mercadopublico.cl/ficha?code=1280-72-COT26",
   "primera_vista_iso": "2026-10-21T16:06:48-03:00",
-  "ultima_activa_iso": "2026-10-22T10:13:15-03:00",
+  "ultima_activa_iso": "2026-10-22T11:01:40-03:00",
   "removida_iso": null,
   "estado_api": null,
   "adj_nombre": null,
@@ -1336,7 +1293,28 @@
   ],
   "link": "https://buscador.mercadopublico.cl/ficha?code=1905-77-COT26",
   "primera_vista_iso": "2026-10-21T16:55:28-03:00",
-  "ultima_activa_iso": "2026-10-22T10:13:15-03:00",
+  "ultima_activa_iso": "2026-10-22T11:01:40-03:00",
+  "removida_iso": null,
+  "estado_api": null,
+  "adj_nombre": null,
+  "adj_monto": null,
+  "adj_iso": null,
+  "adj_revisado_iso": null
+ },
+ "418-1649-COT26": {
+  "codigo": "418-1649-COT26",
+  "nombre": "LRG - INSUMOS PARA REPOSICION DE STOC EN BODEGA",
+  "organismo": "SERVICIO NACIONAL DE SALUD HOSPITAL DE PUERTO AYSEN",
+  "unidad": "H Puerto Aysén",
+  "monto": 500000,
+  "cierre_iso": "2026-10-23T10:45:00-03:00",
+  "tipo": "OPORTUNIDAD",
+  "motivos": [
+   "Conectores, enchufes y terminales"
+  ],
+  "link": "https://buscador.mercadopublico.cl/ficha?code=418-1649-COT26",
+  "primera_vista_iso": "2026-10-22T11:01:40-03:00",
+  "ultima_activa_iso": "2026-10-22T11:01:40-03:00",
   "removida_iso": null,
   "estado_api": null,
   "adj_nombre": null,
