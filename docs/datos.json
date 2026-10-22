@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-10-22T16:06:22.843361-03:00",
+ "actualizado": "2026-10-22T16:57:20.136022-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
- "total_region": 288,
+ "total_region": 300,
  "rubros": {
   "80141600": "Ventas y marketing",
   "82101600": "Publicidad en medios no impresos",
@@ -14,45 +14,6 @@
   "83121700": "Comunicación social y de masas"
  },
  "filas": [
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "radio"
-   ],
-   "nueva": false,
-   "codigo": "1758-253-COT26",
-   "nombre": "SERVICIOS DE ALOJAMIENTOS Y ALIMENTACION TORNEO DE DEBATE EN COYHAIQUE",
-   "organismo": "SECRETARIA REGIONAL MINISTERIAL DE EDUCACION XI REGION",
-   "unidad": "Mineduc Administración XI Región",
-   "monto": 544000,
-   "cierre_iso": "2026-10-22T16:30:00-03:00",
-   "publicacion": "20-10 17:41",
-   "publicacion_iso": "2026-10-20T17:41:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "90111802",
-     "Habitación doble",
-     2,
-     "01 HABITACION DOBLE INGRESO EL 09/11 SALIDA EL 10/11 DOCENTES FERNANDA CARVALLO Y GABRIELA MALDONADO DE COCHRANE.\n01 HABITACION DOBLE INGRESO EL 13/11 SALIDA EL 14/11 DOCENTES FERNANDA CARVALLO Y GABRIELA MALDONADO. \nCONTAR CON 02 CAMAS, CALEFACCION, WIFI Y BAÑO PRIVADO CON DESAYUNO CONTENER TE O CAFE Y/O JUGO, FRUTA, PAN CON AGREGADO EN LA CIUDAD DE COYHAIQUE."
-    ],
-    [
-     "90111801",
-     "Habitación sencilla",
-     4,
-     "01 HABITACION SINGLE INGRESO EL 09/11 SALIDA EL 10/11 DOCENTE RENATO CAVIGLIA DEL LICEO DE COCHRANE.\n01 HABITACION SINGLE INGRESO EL 09/11 SALIDA EL 10/11 DOCENTE ROSARIO PARRA G.DEL LICEO DE COCHRANE.\n01 HABITACION SINGLE INGRESO EL 13/11 SALIDA EL 14/11 DOCENTE RENATO CAVIGLIA.\n01 HABITACION SINGLE INGRESO EL 13/11 SALIDA EL 14/11 DOCENTE ROSARIO PARRA G.\nCONTAR CON CALEFACCION, WIFI Y BAÑO PRIVADO CON DESAYUNO CONTENER TE O CAFE Y/O JUGO, FRUTA, PAN CON AGREGADO EN LA CIUDAD DE COYHAIQUE."
-    ],
-    [
-     "90101501",
-     "Restaurantes",
-     8,
-     "04 CENAS EL 09/11\n04 CENAS EL 13/11 PARA LOS DOCENTES DE LICEO BICENTERNARIO DE COCHRANE.\nQUE CONTENGA PLATO DE FONDO CON ALTERNATIVA PROTEICA, ACOMPAÑAMIENTO, ENSALADA/ENTRADA, POSTRE Y BEBESTIBLE SIN ALCOHOL. SERVIDOS A LAS 19:30 HRS EN LA CIUDAD DE COYHAIQUE."
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1758-253-COT26",
-   "sin_detalle": false,
-   "descripcion": "SERVICIOS ALOJAMIENTOS Y ALIMENTACIÓN EN COYHAIQUE 09 AL 13 DE NOVIEMBRE 2026. EN LA SU PROPUESTA EL PROVEEDOR DEBERÁ INDICAR LA DIRECCIÓN DONDE SE ENTREGARÁ EL SERVICIO, EL CUAL DEBE ESTAR DENTRO DEL RADIO URBANO DE LA CIUDAD DE COYHAIQUE, PREFERENCIALMENTE UNA UBICACIÓN CENTRAL. SE PRIVILEGIARA PROVEEDORES QUE POSEAN CERTIFICACIÓN DE SUSTENTABILIDAD Y CUENTEN CON POLÍTICAS REUTILIZACIÓN DE SABANAS Y TOALLAS CON ALIMENTACION DE CENAS. SEGREGACION Y RES. SANITARIA.\nCOORDINADOR SR. RAUL MARTINEZ."
-  },
   {
    "tipo": "POSIBLE",
    "motivos": [
@@ -259,7 +220,7 @@
    "motivos": [
     "Comunicación social y de masas"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "1234-14-COT26",
    "nombre": "SERVICIO SATELITAL PARA ANTENA STARLINK",
    "organismo": "DIRECCIÓN REGIONAL ADUANA DE COYHAIQUE",
@@ -423,6 +384,24 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=1608-88-COT26",
    "primera_vista_iso": "2026-10-22T11:01:40-03:00",
    "removida_iso": "2026-10-22T12:57:35-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
+  {
+   "codigo": "1758-253-COT26",
+   "nombre": "SERVICIOS DE ALOJAMIENTOS Y ALIMENTACION TORNEO DE DEBATE EN COYHAIQUE",
+   "organismo": "SECRETARIA REGIONAL MINISTERIAL DE EDUCACION XI REGION",
+   "monto": 544000,
+   "cierre_iso": "2026-10-22T16:30:00-03:00",
+   "tipo": "POSIBLE",
+   "motivos": [
+    "radio"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1758-253-COT26",
+   "primera_vista_iso": "2026-10-20T17:55:44-03:00",
+   "removida_iso": "2026-10-22T16:57:20-03:00",
    "estado_api": null,
    "adj_nombre": null,
    "adj_monto": null,

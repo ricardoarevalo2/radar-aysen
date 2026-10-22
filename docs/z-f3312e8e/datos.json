@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-10-22T16:06:22.843361-03:00",
+ "actualizado": "2026-10-22T16:57:20.136022-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
- "total_region": 288,
+ "total_region": 300,
  "rubros": {
   "25172700": "Aire acondicionado",
   "25173900": "Componentes eléctricos",
@@ -19,35 +19,6 @@
   "39121400": "Conectores, enchufes y terminales"
  },
  "filas": [
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "electricidad",
-    "instalación eléctrica",
-    "mantención eléctrica"
-   ],
-   "nueva": false,
-   "codigo": "1092-69-COT26",
-   "nombre": "SIC N°427 SIRE N°433 Servicio de Mantención eléctrica base Mañihuales DEPRIF",
-   "organismo": "CORP NACIONAL FORESTAL",
-   "unidad": "XI Región - Oficina Regional de Aysén",
-   "monto": 2100000,
-   "cierre_iso": "2026-10-22T16:30:00-03:00",
-   "publicacion": "20-10 13:14",
-   "publicacion_iso": "2026-10-20T13:14:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "83101801",
-     "Suministro de electricidad monofásica",
-     1,
-     "Servicio de mantención e instalación eléctrica en Base de Brigada de Villa Mañihuales DEPRIF (ver especificaciones técnicas adjuntas)"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1092-69-COT26",
-   "sin_detalle": false,
-   "descripcion": "La Corporación Nacional Forestal por medio del Departamento de Protección Contra Incendios Forestales Región de Aysén, requiere adquirir Servicio de mantención e instalación eléctrica en Base de Brigada de Villa Mañihuales, ubicada en Arturo Prat #1850, Villa Mañihuales Región de Aysén. (ver especificaciones técnicas adjuntas) y requisitos excluyentes"
-  },
   {
    "tipo": "OPORTUNIDAD",
    "motivos": [
@@ -240,7 +211,7 @@
    "motivos": [
     "Servicios eléctricos"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "1905-77-COT26",
    "nombre": "Instalación lamparas de Emergencia y Letreros Led Salida Emergencia Oficina de Puerto Aysén",
    "organismo": "SERVICIO DE REGISTRO CIVIL E IDENTIFICAC",
@@ -315,9 +286,56 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=4066-419-COT26",
    "sin_detalle": false,
    "descripcion": "Contratar mano de obra para ejecución de reparación de instalación eléctrica de 2 viviendas de la localidad de Puerto Sánchez. Consistente en obras de mejoramiento de la instalación eléctrica interior las cuales se deberán cumplir con las normativas vigente y las especificaciones técnicas adjuntas. El prestador deberá asegurar la entrega oportuna y conforme de los productos comprometidos en los plazos establecidos, coordinando permanentemente con la Unidad Técnica, según términos de referencias"
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "luminaria"
+   ],
+   "nueva": true,
+   "codigo": "2042-372-COT26",
+   "nombre": "ADQUISICION  DE  FOCOS  LED .",
+   "organismo": "I MUNICIPALIDAD DE TORTEL",
+   "unidad": "Ilustre Municipalidad de Tortel",
+   "monto": 1035300,
+   "cierre_iso": "2026-10-30T13:30:00-03:00",
+   "publicacion": "22-10 16:13",
+   "publicacion_iso": "2026-10-22T16:13:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "39101608",
+     "Focos cialiticos",
+     10,
+     "FOCOS  LED  DE   100 WATTS  IP65   .-"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=2042-372-COT26",
+   "sin_detalle": false,
+   "descripcion": "ADQUISICION DE  FOCOS  PROYECTORES  LED  DE   100  WATTS   ,  DESTINADOS  A  LA  REPÓSICION  DE  LA   LUMINARIA,  DE   LA   PLANTA  DE  TRATAMIENTO  DE  AGUAS  SERVIDAS  DE  LA  COMUNA . DICHAS   LUNINARIAS  DEBEN  CUMPLIAR  CON  LAS  ESPECIFICACIONES  QUE  SE  SOLICITAN   EN  ANEXO  ADJUNTO   .- SE   SOLICITA  ADJUNTAR   COTIZACION  ESTABLECIENDO   PLAZO  Y  LUGAR  DE  ENTREGA   .-"
   }
  ],
  "historial": [
+  {
+   "codigo": "1092-69-COT26",
+   "nombre": "SIC N°427 SIRE N°433 Servicio de Mantención eléctrica base Mañihuales DEPRIF",
+   "organismo": "CORP NACIONAL FORESTAL",
+   "monto": 2100000,
+   "cierre_iso": "2026-10-22T16:30:00-03:00",
+   "tipo": "POSIBLE",
+   "motivos": [
+    "electricidad",
+    "instalación eléctrica",
+    "mantención eléctrica"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1092-69-COT26",
+   "primera_vista_iso": "2026-10-20T13:58:42-03:00",
+   "removida_iso": "2026-10-22T16:57:20-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
   {
    "codigo": "1494998-24-COT26",
    "nombre": "ADQUISICIÓN Y DESPACHO DE GENERADORES ELÉCTRICOS PARA LAS ÁREAS PROTEGIDAS DE LA DIRECCIÓN REGIONAL DE AYSÉN (SBAP) CONVENIO SBAP-CONAF",
@@ -588,7 +606,7 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=1107283-173-COT26",
    "primera_vista_iso": "2026-10-19T12:02:56-03:00",
    "removida_iso": "2026-10-21T16:06:48-03:00",
-   "estado_api": null,
+   "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,
    "adj_iso": null
@@ -642,7 +660,7 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=1173433-18-COT26",
    "primera_vista_iso": "2026-10-16T16:50:54-03:00",
    "removida_iso": "2026-10-21T11:58:17-03:00",
-   "estado_api": null,
+   "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,
    "adj_iso": null
