@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-10-22T22:11:34.944441-03:00",
+ "actualizado": "2026-10-23T11:19:19.152705-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
- "total_region": 287,
+ "total_region": 257,
  "rubros": {
   "25172700": "Aire acondicionado",
   "25173900": "Componentes eléctricos",
@@ -19,138 +19,6 @@
   "39121400": "Conectores, enchufes y terminales"
  },
  "filas": [
-  {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Gasfitería, calefacción y aire acondicionado"
-   ],
-   "nueva": false,
-   "codigo": "1274667-398-COT26",
-   "nombre": "SOLICITA SERVICIO DE INSTALACION DE CLIMATIZADOR EXISTENTE TIPO SPLIT PARA CENTRO DE SALUD FAMILIAR PUERTO AYSÉN",
-   "organismo": "CENTRO DE SALUD FAMILIAR PUERTO AYSÉN",
-   "unidad": "CENTRO DE SALUD FAMILIAR PUERTO AYSÉN",
-   "monto": 250000,
-   "cierre_iso": "2026-10-23T01:02:00-03:00",
-   "publicacion": "19-10 14:57",
-   "publicacion_iso": "2026-10-19T14:57:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "72102305",
-     "Servicios de reparación, mantenimiento o reparación de aire acondicionado",
-     1,
-     "SERVICIO DE INSTALACIÓN, DE CLIMATIZADOR TIPO SPLIT - DETALLE EN DOCUMENTO ADJUNTO."
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1274667-398-COT26",
-   "sin_detalle": false,
-   "descripcion": "ADJUNTAR COTIZACION - ADJUNTAR FICHA TECNICA PARA PODER EVALUAR CORRECTAMENTE LA OFERTA - DATOS BANCARIOS - CONTACTO PARA RESOLVER DUDAS - EN CASO DE ADJUDICACION FAVOR EMITIR DESPACHO CON GUIA - MARCAS MENCIONADAS SON SOLAMENTE REFERENCIALES. DETALLES EN DOCUMENTO ADJUNTO."
-  },
-  {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Conectores, enchufes y terminales"
-   ],
-   "nueva": false,
-   "codigo": "1233615-823-COT26",
-   "nombre": "DMH SOL-2026-01931] Recursos TICS para Escuela \"Litoral Austral\" de Puerto Aysén",
-   "organismo": "Servicio Local de Educación Pública Aysén",
-   "unidad": "Servicio Local de Educación Pública Aysén",
-   "monto": 302470,
-   "cierre_iso": "2026-10-23T08:29:00-03:00",
-   "publicacion": "19-10 16:34",
-   "publicacion_iso": "2026-10-19T16:34:00-03:00",
-   "ofertas": 2,
-   "productos": [
-    [
-     "39121409",
-     "Conectores de cables eléctricos",
-     1,
-     "insumos, accesorios y equipamiento informático necesarios para garantizar la continuidad operativa, mantención y adecuado funcionamiento de los recursos tecnológicos de la Escuela Litoral Austral, de acuerdo a requerimiento adjunto a la presente compra (debe llenar el formulario N°1)"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1233615-823-COT26",
-   "sin_detalle": false,
-   "descripcion": "Se solicita la adquisición de insumos, accesorios y equipamiento informático necesarios para garantizar la continuidad operativa, mantención y adecuado funcionamiento de los recursos tecnológicos de la Escuela Litoral Austral."
-  },
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "climatización"
-   ],
-   "nueva": false,
-   "codigo": "3765-309-COT26",
-   "nombre": "Adquisición sistema hidráulico de climatización y calefacción. ",
-   "organismo": "SERVICIO NACIONAL DE SALUD HOSPITAL DE C",
-   "unidad": "Hospital Doctor  Leopoldo Ortega Rodríguez",
-   "monto": 1000000,
-   "cierre_iso": "2026-10-23T09:00:00-03:00",
-   "publicacion": "21-10 12:36",
-   "publicacion_iso": "2026-10-21T12:36:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "24111810",
-     "Tanques de almacenamiento de agua",
-     1,
-     "ESTANQUE DE EXPANSIÓN VAREM 200 LTS; COD. UR200471CS000000"
-    ],
-    [
-     "24111810",
-     "Tanques de almacenamiento de agua",
-     2,
-     "GRUPO DE LLENADO AUTOMATICO ALIMAT(in: G1/2 M - Out: G1/2 F)"
-    ],
-    [
-     "24111810",
-     "Tanques de almacenamiento de agua",
-     2,
-     "MANÓMETRO 0 A 4 BAR COMPATIBLE GRUPO DE LLENADO AUTOMATICO"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=3765-309-COT26",
-   "sin_detalle": false,
-   "descripcion": "Adquisición sistema hidráulico de climatización y calefacción."
-  },
-  {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Conectores, enchufes y terminales"
-   ],
-   "nueva": true,
-   "codigo": "418-1649-COT26",
-   "nombre": "LRG - INSUMOS PARA REPOSICION DE STOC EN BODEGA",
-   "organismo": "SERVICIO NACIONAL DE SALUD HOSPITAL DE PUERTO AYSEN",
-   "unidad": "H Puerto Aysén",
-   "monto": 500000,
-   "cierre_iso": "2026-10-23T10:45:00-03:00",
-   "publicacion": "22-10 10:38",
-   "publicacion_iso": "2026-10-22T10:38:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "31163102",
-     "Férula",
-     100,
-     "FERULA PEDIATRICA DIGITAL"
-    ],
-    [
-     "39121436",
-     "Electrodos",
-     1000,
-     "ELECTRODO DESECHABLE P/ELECTROCARDIOGRAMA PEDIATRICO UD"
-    ],
-    [
-     "42271905",
-     "Tubos endobronquiales",
-     60,
-     "TUBO ENDOTRAQUEAL 4.0 MM C/BAL"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=418-1649-COT26",
-   "sin_detalle": false,
-   "descripcion": "CON DESPACHO INCLUIDO A PUERTO AYSEN. COTIZACION VALIDA POR 30 DIAS. ADJUNTAR FICHA TECNICA DEL PRODUCTO. FECHA DE VENCIMIENTO IDEALMENTE NO MENOR A 12 MESES.ADJUNTAR TELEFONO Y/O CORREO PARA REALIZAR SEGUIMIENTO. INCLUIR DATOS BANCARIOS. EL DOCUMENTO DE DESPACHO (FACTURA O GUIA DE DESPACHO) DEBE CONTENER NUMERO DE LOTE Y FECHA DE VENCIMIENTO PARA CUMPLIR CON NORMA TECNICA N° 226"
-  },
   {
    "tipo": "POSIBLE",
    "motivos": [
@@ -343,6 +211,78 @@
   }
  ],
  "historial": [
+  {
+   "codigo": "418-1649-COT26",
+   "nombre": "LRG - INSUMOS PARA REPOSICION DE STOC EN BODEGA",
+   "organismo": "SERVICIO NACIONAL DE SALUD HOSPITAL DE PUERTO AYSEN",
+   "monto": 500000,
+   "cierre_iso": "2026-10-23T10:45:00-03:00",
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Conectores, enchufes y terminales"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=418-1649-COT26",
+   "primera_vista_iso": "2026-10-22T11:01:40-03:00",
+   "removida_iso": "2026-10-23T11:19:19-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
+  {
+   "codigo": "3765-309-COT26",
+   "nombre": "Adquisición sistema hidráulico de climatización y calefacción. ",
+   "organismo": "SERVICIO NACIONAL DE SALUD HOSPITAL DE C",
+   "monto": 1000000,
+   "cierre_iso": "2026-10-23T09:00:00-03:00",
+   "tipo": "POSIBLE",
+   "motivos": [
+    "climatización"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=3765-309-COT26",
+   "primera_vista_iso": "2026-10-21T13:00:55-03:00",
+   "removida_iso": "2026-10-23T11:19:19-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
+  {
+   "codigo": "1233615-823-COT26",
+   "nombre": "DMH SOL-2026-01931] Recursos TICS para Escuela \"Litoral Austral\" de Puerto Aysén",
+   "organismo": "Servicio Local de Educación Pública Aysén",
+   "monto": 302470,
+   "cierre_iso": "2026-10-23T08:29:00-03:00",
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Conectores, enchufes y terminales"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1233615-823-COT26",
+   "primera_vista_iso": "2026-10-19T16:57:34-03:00",
+   "removida_iso": "2026-10-23T11:19:19-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
+  {
+   "codigo": "1274667-398-COT26",
+   "nombre": "SOLICITA SERVICIO DE INSTALACION DE CLIMATIZADOR EXISTENTE TIPO SPLIT PARA CENTRO DE SALUD FAMILIAR PUERTO AYSÉN",
+   "organismo": "CENTRO DE SALUD FAMILIAR PUERTO AYSÉN",
+   "monto": 250000,
+   "cierre_iso": "2026-10-23T01:02:00-03:00",
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Gasfitería, calefacción y aire acondicionado"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1274667-398-COT26",
+   "primera_vista_iso": "2026-10-19T16:06:33-03:00",
+   "removida_iso": "2026-10-23T11:19:19-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
   {
    "codigo": "1092-69-COT26",
    "nombre": "SIC N°427 SIRE N°433 Servicio de Mantención eléctrica base Mañihuales DEPRIF",
@@ -1123,100 +1063,6 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=620956-37-COT26",
    "primera_vista_iso": "2026-10-14T13:02:14-03:00",
    "removida_iso": "2026-10-16T15:59:46-03:00",
-   "estado_api": "",
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "620956-35-COT26",
-   "nombre": "Kit encimera",
-   "organismo": "DELEGACIÓN PRESIDENCIAL PROVINCIAL DE GENERAL CARRERA",
-   "monto": 829000,
-   "cierre_iso": "2026-10-16T11:00:00-03:00",
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Materiales de física de electricidad"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=620956-35-COT26",
-   "primera_vista_iso": "2026-10-14T13:02:14-03:00",
-   "removida_iso": "2026-10-16T11:00:56-03:00",
-   "estado_api": "",
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "4140-92-COT26",
-   "nombre": "MOTOR, REPARACION AIRE ACONDICIONADO MAS MANO DE OBRA",
-   "organismo": "I MUNICIPALIDAD DE LAGO VERDE",
-   "monto": 150000,
-   "cierre_iso": "2026-10-16T10:30:00-03:00",
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Interruptores, controles y relés"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=4140-92-COT26",
-   "primera_vista_iso": "2026-10-15T10:11:17-03:00",
-   "removida_iso": "2026-10-16T11:00:56-03:00",
-   "estado_api": "",
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "2713-1246-COT26",
-   "nombre": " DIDECO/PROMOS, adquisicion de materiales de oficina, solicitud folio 1205",
-   "organismo": "I MUNICIPALIDAD DE AYSEN",
-   "monto": 310000,
-   "cierre_iso": "2026-10-16T09:00:00-03:00",
-   "tipo": "POSIBLE",
-   "motivos": [
-    "interruptor"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=2713-1246-COT26",
-   "primera_vista_iso": "2026-10-14T10:07:19-03:00",
-   "removida_iso": "2026-10-16T08:54:51-03:00",
-   "estado_api": "",
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "1092-62-COT26",
-   "nombre": "SIC N°427 SIRE N°401 Servicio de Mantención eléctrica base Mañihuales DEPRIF",
-   "organismo": "CORP NACIONAL FORESTAL",
-   "monto": 1750000,
-   "cierre_iso": "2026-10-16T08:30:00-03:00",
-   "tipo": "POSIBLE",
-   "motivos": [
-    "electricidad",
-    "instalación eléctrica",
-    "mantención eléctrica"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1092-62-COT26",
-   "primera_vista_iso": "2026-10-13T08:42:41-03:00",
-   "removida_iso": "2026-10-13T09:52:56-03:00",
-   "estado_api": "",
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "1092-63-COT26",
-   "nombre": "SIC N°427 SIRE N°401 Servicio de Mantención eléctrica base Mañihuales DEPRIF",
-   "organismo": "CORP NACIONAL FORESTAL",
-   "monto": 1750000,
-   "cierre_iso": "2026-10-16T08:30:00-03:00",
-   "tipo": "POSIBLE",
-   "motivos": [
-    "electricidad",
-    "instalación eléctrica",
-    "mantención eléctrica"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1092-63-COT26",
-   "primera_vista_iso": "2026-10-13T09:52:56-03:00",
-   "removida_iso": "2026-10-16T08:54:51-03:00",
    "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,

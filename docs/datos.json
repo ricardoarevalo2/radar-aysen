@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-10-22T22:11:34.944441-03:00",
+ "actualizado": "2026-10-23T11:19:19.152705-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
- "total_region": 287,
+ "total_region": 257,
  "rubros": {
   "80141600": "Ventas y marketing",
   "82101600": "Publicidad en medios no impresos",
@@ -14,87 +14,6 @@
   "83121700": "Comunicación social y de masas"
  },
  "filas": [
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "fotografía"
-   ],
-   "nueva": false,
-   "codigo": "828-49-COT26",
-   "nombre": "Adquisición limpiador de piso vinilico ",
-   "organismo": "MINISTERIO DE OBRAS PUBLICAS DIREC CION GRAL DE OO PP DCYF",
-   "unidad": "Dirección de Arquitectura - XI Región",
-   "monto": 30000,
-   "cierre_iso": "2026-10-23T02:47:00-03:00",
-   "publicacion": "15-10 17:27",
-   "publicacion_iso": "2026-10-15T17:27:00-03:00",
-   "ofertas": 3,
-   "productos": [
-    [
-     "47132102",
-     "Kits de limpieza de uso general",
-     3,
-     "LIMPIADOR PISO VINILICO (900 ml o 1.000 ml)"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=828-49-COT26",
-   "sin_detalle": false,
-   "descripcion": "Se requiere cotización de limpiador liquido para piso vinílico (SPC) 3 litros (NO PISO FLOTANTE). Proveedor adjudicado deberá estar inscrito en sistema de facturación del MOP y facturar a Unidad de pago 1380. Valor debe incluir despacho. Se debe adjuntar especificaciones técnicas y fotografía del producto ofertado."
-  },
-  {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Fotógrafos y camarógrafos"
-   ],
-   "nueva": false,
-   "codigo": "4733-410-COT26",
-   "nombre": "CAPSULAS DE RADIALES",
-   "organismo": "I MUNICIPALIDAD DE LAS GUAITECAS",
-   "unidad": "I MUNICIPALIDAD DE LAS GUAITECAS",
-   "monto": 150000,
-   "cierre_iso": "2026-10-23T09:03:00-03:00",
-   "publicacion": "19-10 15:08",
-   "publicacion_iso": "2026-10-19T15:08:00-03:00",
-   "ofertas": 1,
-   "productos": [
-    [
-     "82131603",
-     "Producción de vídeo",
-     1,
-     "PRODUCCION IDENTIDAD SONORA DEL PROYECTO"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=4733-410-COT26",
-   "sin_detalle": false,
-   "descripcion": "Se requiere contratar el servicio de producción identidad sonora del proyecto fondo de medios, según detalle adjunto, adjuntar cotización."
-  },
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "fotografía"
-   ],
-   "nueva": false,
-   "codigo": "3431-118-COT26",
-   "nombre": "F-I Solicitud de cotización para la adquisición de refrigerador que será utilizado en el casino de suboficiales de esta unidad.",
-   "organismo": "Ejercito de Chile",
-   "unidad": "Regimiento N° 8 Chiloé",
-   "monto": 700000,
-   "cierre_iso": "2026-10-23T11:00:00-03:00",
-   "publicacion": "20-10 12:00",
-   "publicacion_iso": "2026-10-20T12:00:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "52141501",
-     "Refrigeradores domésticos",
-     1,
-     "Refrigerador top freezer con dispensador, peso 59,5 kgs. capacidad 389 lts. capacidad congelador 97 lts. No frost - multo flow deodorizador, 03 bandejas vidrio templado, luz interior."
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=3431-118-COT26",
-   "sin_detalle": false,
-   "descripcion": "Solicitud de cotización para la adquisición de refrigerador que será utilizado en el casino de suboficiales de esta unidad.\nConforme a anexo adjunto. \nLos proveedores interesados deben adjuntar fotografía del producto con sus características técnicas."
-  },
   {
    "tipo": "POSIBLE",
    "motivos": [
@@ -139,7 +58,7 @@
    "motivos": [
     "audiovisual"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "1233615-840-COT26",
    "nombre": "TRM/SOL 2068 COMPONENTES AUDIO LICEO BICENTENARIO ARTURO PRAT CHACON",
    "organismo": "Servicio Local de Educación Pública Aysén",
@@ -313,6 +232,159 @@
    "descripcion": "Adquisición de elementos de difusión institucional para la SEREMI MINVU Región de Aysén, que contempla: 4 banderas institucionales tipo vela de 100 x 300 cm,  base y accesorios; 1 tela de poliéster de 225 x 350 cm para módulo araña curvo; y 2 mini pendones de sobremesa, uno blanco y otro azul, con sus respectivos soportes, 1 pendon de 100*200 cm. Los productos deberán cumplir con las especificaciones técnicas y gráficas adjuntas. Entrega en Freire N° 3, Coyhaique."
   },
   {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "difusión",
+    "marketing",
+    "publicitaria"
+   ],
+   "nueva": true,
+   "codigo": "3797-492-COT26",
+   "nombre": "MATERIAL APOYO MARKETING FERIAS",
+   "organismo": "I MUNICIPALIDAD DE COCHRANE",
+   "unidad": "I MUNICIPALIDAD DE COCHRANE",
+   "monto": 2770000,
+   "cierre_iso": "2026-10-24T08:40:00-03:00",
+   "publicacion": "23-10 08:38",
+   "publicacion_iso": "2026-10-23T08:38:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "82121505",
+     "Impresión promocional o publicitaria",
+     2000,
+     "Tríptico servicios de Cochrane, papel couche 130 gr, 4*4 colores, tamaño oficio.\n2 diseños distintos entregado por Municipalidad de Cochrane.\nSe deben considerar las exigencias indicadas en el documento adjunto."
+    ],
+    [
+     "82121505",
+     "Impresión promocional o publicitaria",
+     2,
+     "Trovicel 5mm Emplacado Personalizado Resistente 40*25cm.\n2 diseños distintos entregado por Municipalidad de Cochrane.\nSe deben considerar las exigencias indicadas en el documento adjunto."
+    ],
+    [
+     "82121505",
+     "Impresión promocional o publicitaria",
+     6,
+     "Trovicel 5mm Emplacado Personalizado Resistente 80*30cm.\nDiseñosentregado por Municipalidad de Cochrane.\nSe deben considerar las exigencias indicadas en el documento adjunto."
+    ],
+    [
+     "82121505",
+     "Impresión promocional o publicitaria",
+     3,
+     "Letrero acrílico, tamaño carta con diseño Casa Mate y QR agrupación de guías, Municipalidad de Cochrane, Cámara Com. y Turismo.\nTrovicel 5mm Emplacado Personalizado Resistente 40*25cm.\nDiseños entregados por Municipalidad de Cochrane.\nSe deben considerar las exigencias indicadas en el documento adjunto."
+    ],
+    [
+     "82121505",
+     "Impresión promocional o publicitaria",
+     18,
+     "Sobre de 10 unidades de papel fotográfico instantáneo, compatible con cámara \"Intax Wide 300\"\nSe deben considerar las exigencias indicadas en el documento adjunto."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=3797-492-COT26",
+   "sin_detalle": false,
+   "descripcion": "Adquisición de material de apoyo destinado a fortalecer la participación, promoción y difusión de los servicios turísticos y emprendimientos locales de la comuna de Cochrane."
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "difusion",
+    "radial",
+    "redes sociales",
+    "television"
+   ],
+   "nueva": true,
+   "codigo": "4140-97-COT26",
+   "nombre": "DIFUSION DIGITAL PARA PROMOSION DE LAS ACTIVIDADES NIÑEZ Y PATRIMONIO ",
+   "organismo": "I MUNICIPALIDAD DE LAGO VERDE",
+   "unidad": "Adquisiciones",
+   "monto": 500000,
+   "cierre_iso": "2026-10-24T11:00:00-03:00",
+   "publicacion": "23-10 10:36",
+   "publicacion_iso": "2026-10-23T10:36:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "55101519",
+     "Publicaciones periódicas",
+     6,
+     "PUBLICACIONES DIGITALES DE DIFUSION PREVIA: PUBLICACIONES EN REDES SOCIALES Y MEDIOS DIGITALES DURANTE LAS SEMANAS PREVIAS AL INICIO DE LAS ACTIVIDADES, INCLUYENDO LANZAMIENTO DEL PROYECTO, INFORMACION DE LOS TALLERES, FECHAS, LUGARES Y CONVOCATORIA DIRIGIDA A LOS NIÑOS, NIÑAS, ADOLESCENTES Y SUS FAMILIAS"
+    ],
+    [
+     "55101519",
+     "Publicaciones periódicas",
+     2,
+     "ARTICULOS DEL PROYECTO EN EL SITIO WEB DEL PROVEEDOR; PUBLICACION DE CONTENIDOS EN DOS INSTANCIAS; UNA PRIMERA PUBLICACION PARA PRESENTAR Y PROMOCIONAR EL PROYECTO ANTES DEL INICIO DE LAS ACTIVIDADES Y UNA SEGUNDA PARA INFORMAR SOBRE LOS RESULTADOS FINALES Y LOS PRODUCTOS OBTENIDOS."
+    ],
+    [
+     "55101519",
+     "Publicaciones periódicas",
+     10,
+     "DIFUSION RADIAL O TELEVISIVA DIGITAL: MENCIONES A TRAVES DE RADIOS, CANALES DE TELEVISION U OTRAS PLATAFORMAS DE COMUNICACION DIGITAL DURANTE EL PERIODO DE CONVOCATORIA PREVIO AL INICIO DE LAS ACTIVIDADES, ENTREGANDO INFORMACION SOBRE EL PROYECTO Y MOTIVANDO LA PARTICIPACION DE LA COMUNIDAD"
+    ],
+    [
+     "55101519",
+     "Publicaciones periódicas",
+     2,
+     "PUBLICACIONES DIGITALES DE LA CEREMONIA DE CIERRE: PUBLICACIONES DESTINADAS A ANUNCIAR PREVIAMENTE LA CEREMONIA DE CIERRE Y POSTERIORMENTE, COMUNICAR SU REALIZACION, DESTACANDO SUS PRINCIPALES HITOS Y RESULTADOS."
+    ],
+    [
+     "55101519",
+     "Publicaciones periódicas",
+     1,
+     "PUBLICACION DE RESULTADOS EN REDES SOCIALES; PUBLICACION DESTINADA A PRESENTAR LOS PRINCIPALES RESULTADOS, PRODUCTOS Y APRENDIZAJES DEL PROYECTO, INCLUYENDO LA PRESENTACION DEL LIBRO Y EL RECONOCIMIENTO A LA PARTICIPACION DE LOS NIÑOS, NIÑAS Y ADOLESCENTES"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=4140-97-COT26",
+   "sin_detalle": false,
+   "descripcion": "SE REQUIERE REALIZAR DIFUSION DIGITAL PARA LA PROMOCION DE LAS ACTIVIDADES DEL PROYECTO NIÑEZ Y PATRIMONIO"
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "audiovisual",
+    "difusion"
+   ],
+   "nueva": true,
+   "codigo": "4140-98-COT26",
+   "nombre": "SE REQUIERE SERVICIO DE CREACION Y DIAGRAMACION DE PUBLICACION INFANTIL PATRIMONIAL MEDIANTES TALLES PARTICIPATIVOS",
+   "organismo": "I MUNICIPALIDAD DE LAGO VERDE",
+   "unidad": "Adquisiciones",
+   "monto": 6636200,
+   "cierre_iso": "2026-10-24T11:10:00-03:00",
+   "publicacion": "23-10 11:08",
+   "publicacion_iso": "2026-10-23T11:08:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "94121704",
+     "Clubes de aficionados o talleres de bellas artes",
+     9,
+     "SERVICIO EJECUCION DE TALLERES: DISEÑO, PLANIFICACION, DESARROLLO METODOLOGICO Y TRABAJO CON NIÑOS, NIÑAS Y ADOLESCENTES( CONTAR CON CERTIFICADO DE INHABILIDAD) DE TALLERES CREATIVOS EN 3 LOCALIDADES LAGOVERDE, AMENGUAL Y TAPERA. EL DISEÑO DEBE ESTAR DIRIGIDO A 60 NNA DE LA COMUNA LOS CUALES SE REALIZARAN EN LA ESCUELA DE CADA LOCALIDAD CON UNA DURACION DE 1 HORA Y 30 MINUTOS"
+    ],
+    [
+     "94121704",
+     "Clubes de aficionados o talleres de bellas artes",
+     1,
+     "SERVICIO EDITORIAL: ESTRUCTURACION Y ORGANIZACION DE LOS CONTENIDOS, EDICION Y CORRECCION DE TEXTOS, DIG Y TRATAMIENTO GRAFICO DE LAS OBRAS, DISEÑOS Y DIAGRAMACION EDITORIAL, PRES. DE LOS PARTICIPANTES U SUS PROCESOS CREATIVOS , REGISTRO FOTOGRAFICO DEL TERRITORIO Y LA IDENTIDAD LOCAL, ELABORACION DE RECURSOS GRAFICOS COMPLEMENTARIOS, DISEÑO PORTADA Y CONTRAPORTADA, INCORPORACION DE INTEGRANTES AL PROYECTO, PREPARACION DE ARCHIV. PARA IMPRESION Y ENTREGA DE LOS RECURSOS GRAFICO Y ARCHIVOS FINALE"
+    ],
+    [
+     "94121704",
+     "Clubes de aficionados o talleres de bellas artes",
+     1,
+     "SERV. LOGISTICO Y APOYO OPERATIVO: COORDINACION PRESENCIALMENTE CON LA CONTRAPARTE TEC MUN. PLANIF Y SEGUIMIENTO DE LA ACTIVIDADES, ASUMIR LA ORG. Y JECUCION OPERATIVA DE CADA JORNADA, INCLUYENDO LA PREPARACION, HABILITACION Y ORDENAMIENTO Y LIMPIEZA DE LOS ESPACIOS UTILIZADOS Y PROPORCIONAR COLACIONES ADECUADAS PARA NINOS (AS)DE CADA UNA DEDE LAS 9 JORNADASDE TALLERES, CONSIDERANDO CONDICIONES HIGIENICASY CRITRIOS DE ALIMENTACION SALUDABLE. ASUMIR COSTOS DE TRASLADOSDEL EQUIP EJECUTOR"
+    ],
+    [
+     "94121704",
+     "Clubes de aficionados o talleres de bellas artes",
+     1,
+     "SERV. DE CIERRE Y DIFUSION COMUNITARIA : REGISTRO FOTOGRAFICO Y AUDIOVISUAL PROFESIONAL DEL PROCESO COMPLETO EN LAS LOCALIDADES LAGO VERDE, VILLA LA TAPERA Y VILLA AMENGIAL, INCLUYENDO LA ELABORACION DE UNA PIEZA AUDIOVISUAL EDITADA DE AL MENOS DOS MINUTOS QUE DOCUMENTE EL PROCESO CREATIVO ( MAS ESPECIFICACION EN ADJUNTO)"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=4140-98-COT26",
+   "sin_detalle": false,
+   "descripcion": "SE REQUIERE SERVICIO DE CREACION Y DIAGRAMACION DE PUBLICACION INFANTIL PATRIMONIAL MEDIANTES TALLES PARTICIPATIVOS PROYECTO NIÑEZ Y PATRIMONIO"
+  },
+  {
    "tipo": "OPORTUNIDAD",
    "motivos": [
     "Ventas y marketing"
@@ -338,6 +410,69 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=1343644-108-COT26",
    "sin_detalle": false,
    "descripcion": "Servicio de producción con la finalidad de realizar una jornada de\nencuentro comunitario en torno a la conmemoración del mes de las personas mayores en la comuna; destinada a reconocer el rol que cumplen las personas mayores en el desarrollo de la población."
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "publicitaria"
+   ],
+   "nueva": true,
+   "codigo": "3950-688-COT26",
+   "nombre": "Adquisición de material impreso para campañas de prevención del suicidio.",
+   "organismo": "DIRECCION SALUD RURAL",
+   "unidad": "Dirección de Salud Rural",
+   "monto": 300000,
+   "cierre_iso": "2026-10-26T08:00:00-03:00",
+   "publicacion": "23-10 10:50",
+   "publicacion_iso": "2026-10-23T10:50:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "82121505",
+     "Impresión promocional o publicitaria",
+     600,
+     "50 unidades por localidad\nImpresión sticker de prevención del suicidio. (Lago Atravesado-Ñirehuao-Villa Ortega-Valle Simpson-Amengual-Tapera-Castillo-Ibañez-Murta-Sánchez-Tranquilo-Mañihuales), color nítido en papel adhesivo con una medida de 6x8 cm."
+    ],
+    [
+     "82121505",
+     "Impresión promocional o publicitaria",
+     200,
+     "100 unidades por localidad.\nImpresión de sticker de prevención del suicidio,(Huichas-Melinka), color nítido en papel adhesivo con una medida de 6x8 cm."
+    ],
+    [
+     "82121505",
+     "Impresión promocional o publicitaria",
+     200,
+     "Impresión de sticker de prevención del suicidio.\n(Balmaceda), color nítido en papel adhesivo con una medida de 6x8 cm."
+    ],
+    [
+     "82121505",
+     "Impresión promocional o publicitaria",
+     12,
+     "Poster imagen de mate con información de la prevención del suicidio. -Se solicita que la impresión sea a color nítido sobre una medida rectangular de 35x50 cm, en papel grueso (tipo poster) -Se solicita que sea 1 poster de cada imagen (Lago Atravesado, Ñirehuao,Villa Ortega, Valle Simpson, Villa Amengual, La Tapera, Cerro Castillo, Puerto Ibañez, Bahia Murta, Puerto Sánchez, Puerto Tranquilo, Mañihuales)."
+    ],
+    [
+     "82121505",
+     "Impresión promocional o publicitaria",
+     2,
+     "Poster imagen de mate con información de la prevención del suicidio. - Se solicita que la impresión sea a color nítido sobre una medida rectangular de 35x50 cm en papel grueso (tipo poster), (Huichas)."
+    ],
+    [
+     "82121505",
+     "Impresión promocional o publicitaria",
+     1,
+     "Poster imagen de mate con información de la prevención del suicidio. - Se solicita que la impresión sea a color nítido sobre una medida rectangular de 35x50 cm, en papel grueso (tipo poster), (Melinka)."
+    ],
+    [
+     "82121505",
+     "Impresión promocional o publicitaria",
+     3,
+     "Poster imagen de mate con información de la prevención del suicidio. -Se solicita que la impresión sea a color nítido sobre una medida rectangular de 35x50 cm, en papel grueso (tipo poster), (Balmaceda)."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=3950-688-COT26",
+   "sin_detalle": false,
+   "descripcion": "Con despacho incluido"
   },
   {
    "tipo": "POSIBLE",
@@ -412,6 +547,60 @@
    "primera_vista_iso": "2026-10-22T11:01:40-03:00",
    "removida_iso": "2026-10-22T12:57:35-03:00",
    "estado_api": "",
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
+  {
+   "codigo": "3431-118-COT26",
+   "nombre": "F-I Solicitud de cotización para la adquisición de refrigerador que será utilizado en el casino de suboficiales de esta unidad.",
+   "organismo": "Ejercito de Chile",
+   "monto": 700000,
+   "cierre_iso": "2026-10-23T11:00:00-03:00",
+   "tipo": "POSIBLE",
+   "motivos": [
+    "fotografía"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=3431-118-COT26",
+   "primera_vista_iso": "2026-10-20T12:57:59-03:00",
+   "removida_iso": "2026-10-23T11:19:19-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
+  {
+   "codigo": "4733-410-COT26",
+   "nombre": "CAPSULAS DE RADIALES",
+   "organismo": "I MUNICIPALIDAD DE LAS GUAITECAS",
+   "monto": 150000,
+   "cierre_iso": "2026-10-23T09:03:00-03:00",
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Fotógrafos y camarógrafos"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=4733-410-COT26",
+   "primera_vista_iso": "2026-10-19T16:06:33-03:00",
+   "removida_iso": "2026-10-23T11:19:19-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
+  {
+   "codigo": "828-49-COT26",
+   "nombre": "Adquisición limpiador de piso vinilico ",
+   "organismo": "MINISTERIO DE OBRAS PUBLICAS DIREC CION GRAL DE OO PP DCYF",
+   "monto": 30000,
+   "cierre_iso": "2026-10-23T02:47:00-03:00",
+   "tipo": "POSIBLE",
+   "motivos": [
+    "fotografía"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=828-49-COT26",
+   "primera_vista_iso": "2026-10-15T17:55:27-03:00",
+   "removida_iso": "2026-10-23T11:19:19-03:00",
+   "estado_api": null,
    "adj_nombre": null,
    "adj_monto": null,
    "adj_iso": null
@@ -1011,24 +1200,6 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=1521-76-COT26",
    "primera_vista_iso": "2026-10-13T16:55:07-03:00",
    "removida_iso": "2026-10-16T12:56:38-03:00",
-   "estado_api": "",
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "2713-1253-COT26",
-   "nombre": "Agitadores de lodo y polímero - DAOMA -PTAS - 1295",
-   "organismo": "I MUNICIPALIDAD DE AYSEN",
-   "monto": 4600000,
-   "cierre_iso": "2026-10-16T11:00:00-03:00",
-   "tipo": "POSIBLE",
-   "motivos": [
-    "fotografía"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=2713-1253-COT26",
-   "primera_vista_iso": "2026-10-15T11:03:49-03:00",
-   "removida_iso": "2026-10-16T11:00:56-03:00",
    "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,

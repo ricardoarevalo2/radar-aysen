@@ -18,7 +18,7 @@
   "adj_nombre": null,
   "adj_monto": null,
   "adj_iso": null,
-  "adj_revisado_iso": "2026-10-22T20:50:29-03:00"
+  "adj_revisado_iso": "2026-10-23T11:19:19-03:00"
  },
  "3540-255-COT26": {
   "codigo": "3540-255-COT26",
@@ -39,7 +39,7 @@
   "adj_nombre": null,
   "adj_monto": null,
   "adj_iso": null,
-  "adj_revisado_iso": "2026-10-22T20:50:29-03:00"
+  "adj_revisado_iso": "2026-10-23T11:19:19-03:00"
  },
  "4626-32-COT26": {
   "codigo": "4626-32-COT26",
@@ -60,7 +60,7 @@
   "adj_nombre": null,
   "adj_monto": null,
   "adj_iso": null,
-  "adj_revisado_iso": "2026-10-22T20:50:29-03:00"
+  "adj_revisado_iso": "2026-10-23T11:19:19-03:00"
  },
  "711-194-COT26": {
   "codigo": "711-194-COT26",
@@ -76,59 +76,13 @@
   ],
   "link": "https://buscador.mercadopublico.cl/ficha?code=711-194-COT26",
   "primera_vista_iso": "2026-10-11T21:06:47-03:00",
-  "ultima_activa_iso": "2026-10-22T22:11:34-03:00",
+  "ultima_activa_iso": "2026-10-23T11:19:19-03:00",
   "removida_iso": null,
   "estado_api": "",
   "adj_nombre": null,
   "adj_monto": null,
   "adj_iso": null,
   "adj_revisado_iso": "2026-10-21T08:57:31-03:00"
- },
- "1092-62-COT26": {
-  "codigo": "1092-62-COT26",
-  "nombre": "SIC N°427 SIRE N°401 Servicio de Mantención eléctrica base Mañihuales DEPRIF",
-  "organismo": "CORP NACIONAL FORESTAL",
-  "unidad": "XI Región - Oficina Regional de Aysén",
-  "monto": 1750000,
-  "cierre_iso": "2026-10-16T08:30:00-03:00",
-  "tipo": "POSIBLE",
-  "motivos": [
-   "electricidad",
-   "instalación eléctrica",
-   "mantención eléctrica"
-  ],
-  "link": "https://buscador.mercadopublico.cl/ficha?code=1092-62-COT26",
-  "primera_vista_iso": "2026-10-13T08:42:41-03:00",
-  "ultima_activa_iso": "2026-10-13T08:42:41-03:00",
-  "removida_iso": "2026-10-13T09:52:56-03:00",
-  "estado_api": "",
-  "adj_nombre": null,
-  "adj_monto": null,
-  "adj_iso": null,
-  "adj_revisado_iso": "2026-10-22T20:50:29-03:00"
- },
- "1092-63-COT26": {
-  "codigo": "1092-63-COT26",
-  "nombre": "SIC N°427 SIRE N°401 Servicio de Mantención eléctrica base Mañihuales DEPRIF",
-  "organismo": "CORP NACIONAL FORESTAL",
-  "unidad": "XI Región - Oficina Regional de Aysén",
-  "monto": 1750000,
-  "cierre_iso": "2026-10-16T08:30:00-03:00",
-  "tipo": "POSIBLE",
-  "motivos": [
-   "electricidad",
-   "instalación eléctrica",
-   "mantención eléctrica"
-  ],
-  "link": "https://buscador.mercadopublico.cl/ficha?code=1092-63-COT26",
-  "primera_vista_iso": "2026-10-13T09:52:56-03:00",
-  "ultima_activa_iso": "2026-10-16T07:56:39-03:00",
-  "removida_iso": "2026-10-16T08:54:51-03:00",
-  "estado_api": "",
-  "adj_nombre": null,
-  "adj_monto": null,
-  "adj_iso": null,
-  "adj_revisado_iso": "2026-10-22T20:50:29-03:00"
  },
  "4066-419-COT26": {
   "codigo": "4066-419-COT26",
@@ -143,7 +97,7 @@
   ],
   "link": "https://buscador.mercadopublico.cl/ficha?code=4066-419-COT26",
   "primera_vista_iso": "2026-10-13T15:51:46-03:00",
-  "ultima_activa_iso": "2026-10-22T22:11:34-03:00",
+  "ultima_activa_iso": "2026-10-23T11:19:19-03:00",
   "removida_iso": null,
   "estado_api": "",
   "adj_nombre": null,
@@ -170,28 +124,7 @@
   "adj_nombre": null,
   "adj_monto": null,
   "adj_iso": null,
-  "adj_revisado_iso": "2026-10-22T22:11:34-03:00"
- },
- "2713-1246-COT26": {
-  "codigo": "2713-1246-COT26",
-  "nombre": " DIDECO/PROMOS, adquisicion de materiales de oficina, solicitud folio 1205",
-  "organismo": "I MUNICIPALIDAD DE AYSEN",
-  "unidad": "I.MUNICIPALIDAD AYSEN-ADQUISICIONES",
-  "monto": 310000,
-  "cierre_iso": "2026-10-16T09:00:00-03:00",
-  "tipo": "POSIBLE",
-  "motivos": [
-   "interruptor"
-  ],
-  "link": "https://buscador.mercadopublico.cl/ficha?code=2713-1246-COT26",
-  "primera_vista_iso": "2026-10-14T10:07:19-03:00",
-  "ultima_activa_iso": "2026-10-16T07:56:39-03:00",
-  "removida_iso": "2026-10-16T08:54:51-03:00",
-  "estado_api": "",
-  "adj_nombre": null,
-  "adj_monto": null,
-  "adj_iso": null,
-  "adj_revisado_iso": "2026-10-22T22:11:34-03:00"
+  "adj_revisado_iso": "2026-10-23T11:19:19-03:00"
  },
  "3765-295-COT26": {
   "codigo": "3765-295-COT26",
@@ -212,28 +145,7 @@
   "adj_nombre": null,
   "adj_monto": null,
   "adj_iso": null,
-  "adj_revisado_iso": "2026-10-22T22:11:34-03:00"
- },
- "620956-35-COT26": {
-  "codigo": "620956-35-COT26",
-  "nombre": "Kit encimera",
-  "organismo": "DELEGACIÓN PRESIDENCIAL PROVINCIAL DE GENERAL CARRERA",
-  "unidad": "Complejo Fronterizo Jeinimeni",
-  "monto": 829000,
-  "cierre_iso": "2026-10-16T11:00:00-03:00",
-  "tipo": "OPORTUNIDAD",
-  "motivos": [
-   "Materiales de física de electricidad"
-  ],
-  "link": "https://buscador.mercadopublico.cl/ficha?code=620956-35-COT26",
-  "primera_vista_iso": "2026-10-14T13:02:14-03:00",
-  "ultima_activa_iso": "2026-10-16T10:09:44-03:00",
-  "removida_iso": "2026-10-16T11:00:56-03:00",
-  "estado_api": "",
-  "adj_nombre": null,
-  "adj_monto": null,
-  "adj_iso": null,
-  "adj_revisado_iso": "2026-10-22T16:57:20-03:00"
+  "adj_revisado_iso": "2026-10-23T11:19:19-03:00"
  },
  "620956-37-COT26": {
   "codigo": "620956-37-COT26",
@@ -311,7 +223,7 @@
   ],
   "link": "https://buscador.mercadopublico.cl/ficha?code=4889-41-COT26",
   "primera_vista_iso": "2026-10-14T16:56:08-03:00",
-  "ultima_activa_iso": "2026-10-22T22:11:34-03:00",
+  "ultima_activa_iso": "2026-10-23T11:19:19-03:00",
   "removida_iso": null,
   "estado_api": null,
   "adj_nombre": null,
@@ -360,27 +272,6 @@
   "adj_monto": null,
   "adj_iso": null,
   "adj_revisado_iso": "2026-10-22T17:57:00-03:00"
- },
- "4140-92-COT26": {
-  "codigo": "4140-92-COT26",
-  "nombre": "MOTOR, REPARACION AIRE ACONDICIONADO MAS MANO DE OBRA",
-  "organismo": "I MUNICIPALIDAD DE LAGO VERDE",
-  "unidad": "Adquisiciones",
-  "monto": 150000,
-  "cierre_iso": "2026-10-16T10:30:00-03:00",
-  "tipo": "OPORTUNIDAD",
-  "motivos": [
-   "Interruptores, controles y relés"
-  ],
-  "link": "https://buscador.mercadopublico.cl/ficha?code=4140-92-COT26",
-  "primera_vista_iso": "2026-10-15T10:11:17-03:00",
-  "ultima_activa_iso": "2026-10-16T10:09:44-03:00",
-  "removida_iso": "2026-10-16T11:00:56-03:00",
-  "estado_api": "",
-  "adj_nombre": null,
-  "adj_monto": null,
-  "adj_iso": null,
-  "adj_revisado_iso": "2026-10-22T18:55:50-03:00"
  },
  "2713-1255-COT26": {
   "codigo": "2713-1255-COT26",
@@ -778,7 +669,7 @@
   "link": "https://buscador.mercadopublico.cl/ficha?code=1274667-398-COT26",
   "primera_vista_iso": "2026-10-19T16:06:33-03:00",
   "ultima_activa_iso": "2026-10-22T22:11:34-03:00",
-  "removida_iso": null,
+  "removida_iso": "2026-10-23T11:19:19-03:00",
   "estado_api": null,
   "adj_nombre": null,
   "adj_monto": null,
@@ -862,7 +753,7 @@
   "link": "https://buscador.mercadopublico.cl/ficha?code=1233615-823-COT26",
   "primera_vista_iso": "2026-10-19T16:57:34-03:00",
   "ultima_activa_iso": "2026-10-22T22:11:34-03:00",
-  "removida_iso": null,
+  "removida_iso": "2026-10-23T11:19:19-03:00",
   "estado_api": null,
   "adj_nombre": null,
   "adj_monto": null,
@@ -1121,7 +1012,7 @@
   "link": "https://buscador.mercadopublico.cl/ficha?code=3765-309-COT26",
   "primera_vista_iso": "2026-10-21T13:00:55-03:00",
   "ultima_activa_iso": "2026-10-22T22:11:34-03:00",
-  "removida_iso": null,
+  "removida_iso": "2026-10-23T11:19:19-03:00",
   "estado_api": null,
   "adj_nombre": null,
   "adj_monto": null,
@@ -1162,7 +1053,7 @@
   ],
   "link": "https://buscador.mercadopublico.cl/ficha?code=1905-77-COT26",
   "primera_vista_iso": "2026-10-21T16:55:28-03:00",
-  "ultima_activa_iso": "2026-10-22T22:11:34-03:00",
+  "ultima_activa_iso": "2026-10-23T11:19:19-03:00",
   "removida_iso": null,
   "estado_api": null,
   "adj_nombre": null,
@@ -1184,7 +1075,7 @@
   "link": "https://buscador.mercadopublico.cl/ficha?code=418-1649-COT26",
   "primera_vista_iso": "2026-10-22T11:01:40-03:00",
   "ultima_activa_iso": "2026-10-22T22:11:34-03:00",
-  "removida_iso": null,
+  "removida_iso": "2026-10-23T11:19:19-03:00",
   "estado_api": null,
   "adj_nombre": null,
   "adj_monto": null,
@@ -1204,7 +1095,7 @@
   ],
   "link": "https://buscador.mercadopublico.cl/ficha?code=1458-25-COT26",
   "primera_vista_iso": "2026-10-22T12:57:35-03:00",
-  "ultima_activa_iso": "2026-10-22T22:11:34-03:00",
+  "ultima_activa_iso": "2026-10-23T11:19:19-03:00",
   "removida_iso": null,
   "estado_api": null,
   "adj_nombre": null,
@@ -1225,7 +1116,7 @@
   ],
   "link": "https://buscador.mercadopublico.cl/ficha?code=2042-372-COT26",
   "primera_vista_iso": "2026-10-22T16:57:20-03:00",
-  "ultima_activa_iso": "2026-10-22T22:11:34-03:00",
+  "ultima_activa_iso": "2026-10-23T11:19:19-03:00",
   "removida_iso": null,
   "estado_api": null,
   "adj_nombre": null,
@@ -1246,7 +1137,7 @@
   ],
   "link": "https://buscador.mercadopublico.cl/ficha?code=1458-26-COT26",
   "primera_vista_iso": "2026-10-22T17:57:00-03:00",
-  "ultima_activa_iso": "2026-10-22T22:11:34-03:00",
+  "ultima_activa_iso": "2026-10-23T11:19:19-03:00",
   "removida_iso": null,
   "estado_api": null,
   "adj_nombre": null,
