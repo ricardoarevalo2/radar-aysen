@@ -20,49 +20,6 @@
   "adj_iso": null,
   "adj_revisado_iso": "2026-10-23T11:19:19-03:00"
  },
- "1282238-78-COT26": {
-  "codigo": "1282238-78-COT26",
-  "nombre": "Servicio de Diseño y Ejecución Encuentro Arte, Cultura y Patrimonio - FNDR 3465 Talleres Patrimoniales",
-  "organismo": "CORPORACION CULTURAL MUNICIPAL DE COYHAIQUE",
-  "unidad": "CORPORACION CULTURAL MUNICIPAL DE COYHAIQUE",
-  "monto": 2950000,
-  "cierre_iso": "2026-10-16T15:00:00-03:00",
-  "tipo": "OPORTUNIDAD",
-  "motivos": [
-   "Fotógrafos y camarógrafos",
-   "Ventas y marketing"
-  ],
-  "link": "https://buscador.mercadopublico.cl/ficha?code=1282238-78-COT26",
-  "primera_vista_iso": "2026-10-11T21:06:47-03:00",
-  "ultima_activa_iso": "2026-10-16T14:53:21-03:00",
-  "removida_iso": "2026-10-16T15:59:46-03:00",
-  "estado_api": "",
-  "adj_nombre": null,
-  "adj_monto": null,
-  "adj_iso": null,
-  "adj_revisado_iso": "2026-10-23T11:19:19-03:00"
- },
- "1521-76-COT26": {
-  "codigo": "1521-76-COT26",
-  "nombre": "Servicio de relatoría para III Seminario STEM",
-  "organismo": "Departamento Provincial de Coyhaique",
-  "unidad": "Departamento Provincial de Coyhaique",
-  "monto": 350000,
-  "cierre_iso": "2026-10-16T13:05:00-03:00",
-  "tipo": "POSIBLE",
-  "motivos": [
-   "difusión"
-  ],
-  "link": "https://buscador.mercadopublico.cl/ficha?code=1521-76-COT26",
-  "primera_vista_iso": "2026-10-13T16:55:07-03:00",
-  "ultima_activa_iso": "2026-10-16T11:57:33-03:00",
-  "removida_iso": "2026-10-16T12:56:38-03:00",
-  "estado_api": "",
-  "adj_nombre": null,
-  "adj_monto": null,
-  "adj_iso": null,
-  "adj_revisado_iso": "2026-10-23T11:19:19-03:00"
- },
  "4778-319-COT26": {
   "codigo": "4778-319-COT26",
   "nombre": "RELE- SOLICITUD N° 10134-MEL- MEJORAMIEN ENTORNO LABORAL-DEBE INCLUIR DESPACHO",
@@ -124,7 +81,7 @@
   "adj_nombre": null,
   "adj_monto": null,
   "adj_iso": null,
-  "adj_revisado_iso": "2026-10-22T22:11:34-03:00"
+  "adj_revisado_iso": "2026-10-23T15:31:59-03:00"
  },
  "1201-184-COT26": {
   "codigo": "1201-184-COT26",
@@ -148,7 +105,7 @@
   "adj_nombre": null,
   "adj_monto": null,
   "adj_iso": null,
-  "adj_revisado_iso": "2026-10-22T22:11:34-03:00"
+  "adj_revisado_iso": "2026-10-23T15:31:59-03:00"
  },
  "4144-304-COT26": {
   "codigo": "4144-304-COT26",
@@ -169,7 +126,7 @@
   "adj_nombre": null,
   "adj_monto": null,
   "adj_iso": null,
-  "adj_revisado_iso": "2026-10-22T22:11:34-03:00"
+  "adj_revisado_iso": "2026-10-23T15:31:59-03:00"
  },
  "1057062-460-COT26": {
   "codigo": "1057062-460-COT26",
@@ -190,7 +147,7 @@
   "adj_nombre": null,
   "adj_monto": null,
   "adj_iso": null,
-  "adj_revisado_iso": "2026-10-22T16:06:22-03:00"
+  "adj_revisado_iso": "2026-10-23T15:31:59-03:00"
  },
  "1182705-193-COT26": {
   "codigo": "1182705-193-COT26",
@@ -212,7 +169,7 @@
   "adj_nombre": null,
   "adj_monto": null,
   "adj_iso": null,
-  "adj_revisado_iso": "2026-10-22T16:06:22-03:00"
+  "adj_revisado_iso": "2026-10-23T15:31:59-03:00"
  },
  "828-47-COT26": {
   "codigo": "828-47-COT26",
@@ -375,7 +332,7 @@
   ],
   "link": "https://buscador.mercadopublico.cl/ficha?code=682-20-COT26",
   "primera_vista_iso": "2026-10-16T10:09:44-03:00",
-  "ultima_activa_iso": "2026-10-23T11:19:19-03:00",
+  "ultima_activa_iso": "2026-10-23T15:31:59-03:00",
   "removida_iso": null,
   "estado_api": null,
   "adj_nombre": null,
@@ -587,7 +544,7 @@
   ],
   "link": "https://buscador.mercadopublico.cl/ficha?code=2495-564-COT26",
   "primera_vista_iso": "2026-10-19T16:57:34-03:00",
-  "ultima_activa_iso": "2026-10-23T11:19:19-03:00",
+  "ultima_activa_iso": "2026-10-23T15:31:59-03:00",
   "removida_iso": null,
   "estado_api": null,
   "adj_nombre": null,
@@ -797,7 +754,7 @@
   ],
   "link": "https://buscador.mercadopublico.cl/ficha?code=4609-286-COT26",
   "primera_vista_iso": "2026-10-20T16:54:52-03:00",
-  "ultima_activa_iso": "2026-10-23T11:19:19-03:00",
+  "ultima_activa_iso": "2026-10-23T15:31:59-03:00",
   "removida_iso": null,
   "estado_api": null,
   "adj_nombre": null,
@@ -839,7 +796,7 @@
   ],
   "link": "https://buscador.mercadopublico.cl/ficha?code=886182-233-COT26",
   "primera_vista_iso": "2026-10-21T10:12:39-03:00",
-  "ultima_activa_iso": "2026-10-23T11:19:19-03:00",
+  "ultima_activa_iso": "2026-10-23T15:31:59-03:00",
   "removida_iso": null,
   "estado_api": null,
   "adj_nombre": null,
@@ -860,7 +817,7 @@
   ],
   "link": "https://buscador.mercadopublico.cl/ficha?code=1234-14-COT26",
   "primera_vista_iso": "2026-10-21T16:55:28-03:00",
-  "ultima_activa_iso": "2026-10-23T11:19:19-03:00",
+  "ultima_activa_iso": "2026-10-23T15:31:59-03:00",
   "removida_iso": null,
   "estado_api": null,
   "adj_nombre": null,
@@ -883,7 +840,7 @@
   ],
   "link": "https://buscador.mercadopublico.cl/ficha?code=613-33-COT26",
   "primera_vista_iso": "2026-10-21T19:54:17-03:00",
-  "ultima_activa_iso": "2026-10-23T11:19:19-03:00",
+  "ultima_activa_iso": "2026-10-23T15:31:59-03:00",
   "removida_iso": null,
   "estado_api": null,
   "adj_nombre": null,
@@ -905,7 +862,7 @@
   "link": "https://buscador.mercadopublico.cl/ficha?code=1233615-840-COT26",
   "primera_vista_iso": "2026-10-22T10:13:15-03:00",
   "ultima_activa_iso": "2026-10-23T11:19:19-03:00",
-  "removida_iso": null,
+  "removida_iso": "2026-10-23T15:31:59-03:00",
   "estado_api": null,
   "adj_nombre": null,
   "adj_monto": null,
@@ -950,7 +907,7 @@
   "link": "https://buscador.mercadopublico.cl/ficha?code=4140-93-COT26",
   "primera_vista_iso": "2026-10-22T11:59:22-03:00",
   "ultima_activa_iso": "2026-10-23T11:19:19-03:00",
-  "removida_iso": null,
+  "removida_iso": "2026-10-23T15:31:59-03:00",
   "estado_api": null,
   "adj_nombre": null,
   "adj_monto": null,
@@ -971,7 +928,7 @@
   "link": "https://buscador.mercadopublico.cl/ficha?code=2495-574-COT26",
   "primera_vista_iso": "2026-10-22T14:53:55-03:00",
   "ultima_activa_iso": "2026-10-23T11:19:19-03:00",
-  "removida_iso": null,
+  "removida_iso": "2026-10-23T15:31:59-03:00",
   "estado_api": null,
   "adj_nombre": null,
   "adj_monto": null,
@@ -991,7 +948,7 @@
   ],
   "link": "https://buscador.mercadopublico.cl/ficha?code=1343644-108-COT26",
   "primera_vista_iso": "2026-10-22T17:57:00-03:00",
-  "ultima_activa_iso": "2026-10-23T11:19:19-03:00",
+  "ultima_activa_iso": "2026-10-23T15:31:59-03:00",
   "removida_iso": null,
   "estado_api": null,
   "adj_nombre": null,
@@ -1014,7 +971,7 @@
   ],
   "link": "https://buscador.mercadopublico.cl/ficha?code=3797-492-COT26",
   "primera_vista_iso": "2026-10-23T11:19:19-03:00",
-  "ultima_activa_iso": "2026-10-23T11:19:19-03:00",
+  "ultima_activa_iso": "2026-10-23T15:31:59-03:00",
   "removida_iso": null,
   "estado_api": null,
   "adj_nombre": null,
@@ -1038,7 +995,7 @@
   ],
   "link": "https://buscador.mercadopublico.cl/ficha?code=4140-97-COT26",
   "primera_vista_iso": "2026-10-23T11:19:19-03:00",
-  "ultima_activa_iso": "2026-10-23T11:19:19-03:00",
+  "ultima_activa_iso": "2026-10-23T15:31:59-03:00",
   "removida_iso": null,
   "estado_api": null,
   "adj_nombre": null,
@@ -1060,7 +1017,7 @@
   ],
   "link": "https://buscador.mercadopublico.cl/ficha?code=4140-98-COT26",
   "primera_vista_iso": "2026-10-23T11:19:19-03:00",
-  "ultima_activa_iso": "2026-10-23T11:19:19-03:00",
+  "ultima_activa_iso": "2026-10-23T15:31:59-03:00",
   "removida_iso": null,
   "estado_api": null,
   "adj_nombre": null,
@@ -1081,7 +1038,51 @@
   ],
   "link": "https://buscador.mercadopublico.cl/ficha?code=3950-688-COT26",
   "primera_vista_iso": "2026-10-23T11:19:19-03:00",
-  "ultima_activa_iso": "2026-10-23T11:19:19-03:00",
+  "ultima_activa_iso": "2026-10-23T15:31:59-03:00",
+  "removida_iso": null,
+  "estado_api": null,
+  "adj_nombre": null,
+  "adj_monto": null,
+  "adj_iso": null,
+  "adj_revisado_iso": null
+ },
+ "3791-1058-COT26": {
+  "codigo": "3791-1058-COT26",
+  "nombre": "DIFUSION RADIAL ",
+  "organismo": "I MUNICIPALIDAD DE CISNES",
+  "unidad": "Finanzas",
+  "monto": 399999,
+  "cierre_iso": "2026-10-26T10:30:00-03:00",
+  "tipo": "OPORTUNIDAD",
+  "motivos": [
+   "Publicidad en medios no impresos"
+  ],
+  "link": "https://buscador.mercadopublico.cl/ficha?code=3791-1058-COT26",
+  "primera_vista_iso": "2026-10-23T15:31:59-03:00",
+  "ultima_activa_iso": "2026-10-23T15:31:59-03:00",
+  "removida_iso": null,
+  "estado_api": null,
+  "adj_nombre": null,
+  "adj_monto": null,
+  "adj_iso": null,
+  "adj_revisado_iso": null
+ },
+ "1608-89-COT26": {
+  "codigo": "1608-89-COT26",
+  "nombre": "ARTICULOS DE DIFUSIÓN PROGRAMA CONADI",
+  "organismo": "DELEGACIÓN PRESIDENCIAL REGIONAL DE AYSÉN DEL GENERAL CARLOS IBÁÑEZ DE",
+  "unidad": "DELEGACION PRESIDENCIAL REGIONAL DE AYSEN",
+  "monto": 1330000,
+  "cierre_iso": "2026-10-26T14:00:00-03:00",
+  "tipo": "POSIBLE",
+  "motivos": [
+   "difusión",
+   "publicidad",
+   "publicitarios"
+  ],
+  "link": "https://buscador.mercadopublico.cl/ficha?code=1608-89-COT26",
+  "primera_vista_iso": "2026-10-23T15:31:59-03:00",
+  "ultima_activa_iso": "2026-10-23T15:31:59-03:00",
   "removida_iso": null,
   "estado_api": null,
   "adj_nombre": null,

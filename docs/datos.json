@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-10-23T11:19:19.152705-03:00",
+ "actualizado": "2026-10-23T15:31:59.298954-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
- "total_region": 257,
+ "total_region": 258,
  "rubros": {
   "80141600": "Ventas y marketing",
   "82101600": "Publicidad en medios no impresos",
@@ -14,99 +14,6 @@
   "83121700": "Comunicación social y de masas"
  },
  "filas": [
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "radio"
-   ],
-   "nueva": true,
-   "codigo": "4140-93-COT26",
-   "nombre": "IMPLEMENTOS PARA RADIO LAGO VERDE, CON FONDOS DE MEDIOS",
-   "organismo": "I MUNICIPALIDAD DE LAGO VERDE",
-   "unidad": "Adquisiciones",
-   "monto": 693960,
-   "cierre_iso": "2026-10-23T12:00:00-03:00",
-   "publicacion": "22-10 11:51",
-   "publicacion_iso": "2026-10-22T11:51:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "52161520",
-     "Micrófonos",
-     1,
-     "MICROFONO PARA POSDCAST DINAMICO PARA RADIO LOCUCION"
-    ],
-    [
-     "52161520",
-     "Micrófonos",
-     2,
-     "SOPORTE ARTICULADO PARA MICROFONO DE SOBREMESA"
-    ],
-    [
-     "52161520",
-     "Micrófonos",
-     3,
-     "AUDIFONOS PARA LOCUCION RADIO, USO EN MESA"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=4140-93-COT26",
-   "sin_detalle": false,
-   "descripcion": "SE REQUIERE LA ADQUISICION DE MICRIFONO PARA PODSCAST DINAMICO PARA RADIO LOCUCION, 02 SOPORTES ARTICULADOS PARA MICROFONOS SOBREMESA, 03 AUDIFONOS PARA LOCUCION RADIO USO EN MESA; SE ADJUNTAN ESPECIFICACIONES OFERTAS NO DEBEN SUPERAR LA DISPONIBILIDAD Y DEBE DETALLAR CON FOTOGRAFIAS LO QUE OFRECE AJUSTANDOSE A LO REQUERIDO"
-  },
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "audiovisual"
-   ],
-   "nueva": false,
-   "codigo": "1233615-840-COT26",
-   "nombre": "TRM/SOL 2068 COMPONENTES AUDIO LICEO BICENTENARIO ARTURO PRAT CHACON",
-   "organismo": "Servicio Local de Educación Pública Aysén",
-   "unidad": "Servicio Local de Educación Pública Aysén",
-   "monto": 1599998,
-   "cierre_iso": "2026-10-23T12:00:00-03:00",
-   "publicacion": "22-10 09:50",
-   "publicacion_iso": "2026-10-22T09:50:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "86141702",
-     "Tecnología audiovisual",
-     1,
-     "COMPONENTES AUDIO PARA LICEO BICENTENARIO ARTURO PRAT CHACON, SEGUN DETALLE ADJUNTO CONSIDERAR DESPACHO Avda. José María Caro S/N, PUERTO CISNES."
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1233615-840-COT26",
-   "sin_detalle": false,
-   "descripcion": "SOL 2068 COMPONENTES AUDIO LICEO BICENTENARIO ARTURO PRAT CHACON"
-  },
-  {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Ventas y marketing"
-   ],
-   "nueva": true,
-   "codigo": "2495-574-COT26",
-   "nombre": "Servicio de producción del stand turístico de Coyhaique",
-   "organismo": "I MUNICIPALIDAD DE COYHAIQUE",
-   "unidad": "DIRECCION DESARROLLO COMUNITARIO",
-   "monto": 3000000,
-   "cierre_iso": "2026-10-23T15:00:00-03:00",
-   "publicacion": "22-10 14:32",
-   "publicacion_iso": "2026-10-22T14:32:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "80141607",
-     "Producción de eventos",
-     1,
-     "Segun TTR"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=2495-574-COT26",
-   "sin_detalle": false,
-   "descripcion": "Servicio de producción del stand turístico de Coyhaique según ttr adjunto. (ver adjunto)\n\nAdjuntar a la oferta Hoja de oferta económica y aceptación de condiciones. (ver adjunto)"
-  },
   {
    "tipo": "OPORTUNIDAD",
    "motivos": [
@@ -502,6 +409,33 @@
    "descripcion": "Se requiere cotizar 4 discos fiscales según diseño adjunto. Se solicita al proveedor indicar plazo  de entrega y adjuntar cotización con detalle de lo ofertado. Dirección de entrega Eusebio Lillo\nN°667 o en dependencias del proveedor, en Coyhaique. La cotización debe incluir impuestos. Se podrá privilegiar el menor plazo ofertado que cumpla con lo especificado y a proveedor local."
   },
   {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Publicidad en medios no impresos"
+   ],
+   "nueva": true,
+   "codigo": "3791-1058-COT26",
+   "nombre": "DIFUSION RADIAL ",
+   "organismo": "I MUNICIPALIDAD DE CISNES",
+   "unidad": "Finanzas",
+   "monto": 399999,
+   "cierre_iso": "2026-10-26T10:30:00-03:00",
+   "publicacion": "23-10 11:31",
+   "publicacion_iso": "2026-10-23T11:31:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "82101601",
+     "Publicidad en radio",
+     1,
+     "SERVICIO DE PUBLICIDAD RADIAL DURANTE LOS MESES DE NOVIEMBRE Y DICIEMBRE DE 2026 EN EL MARCO DEL PROGRAMA TODOS PUEDEN CANTAR. SE ADJUNTAN ESPECIFICACIONES"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=3791-1058-COT26",
+   "sin_detalle": false,
+   "descripcion": "SERVICIO DE PUBLICIDAD RADIAL DURANTE LOS MESES DE NOVIEMBRE Y DICIEMBRE DE 2026 EN EL MARCO DEL PROGRAMA TODOS PUEDEN CANTAR. SE ADJUNTAN ESPECIFICACIONES"
+  },
+  {
    "tipo": "POSIBLE",
    "motivos": [
     "avisos"
@@ -527,6 +461,65 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=682-20-COT26",
    "sin_detalle": false,
    "descripcion": "Se requiere contar con la publicación digital de 17 avisos correspondientes a 2 veces o publicaciones por beneficiario o expediente, las cuales se harán indistintamente los días primero y quince del mes o en la edición inmediatamente siguiente si el diario o periódico no se publicare en los días indicados. Se enviaran publicaciones despues de 01 día hábil posterior a la emisión de la Orden de Compra. Plazo de ejecución 252 días habiles. Revisar documentoS adjunto para la selección de proveedor."
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "difusión",
+    "publicidad",
+    "publicitarios"
+   ],
+   "nueva": true,
+   "codigo": "1608-89-COT26",
+   "nombre": "ARTICULOS DE DIFUSIÓN PROGRAMA CONADI",
+   "organismo": "DELEGACIÓN PRESIDENCIAL REGIONAL DE AYSÉN DEL GENERAL CARLOS IBÁÑEZ DE",
+   "unidad": "DELEGACION PRESIDENCIAL REGIONAL DE AYSEN",
+   "monto": 1330000,
+   "cierre_iso": "2026-10-26T14:00:00-03:00",
+   "publicacion": "23-10 12:20",
+   "publicacion_iso": "2026-10-23T12:20:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "32131010",
+     "Tarjetas sencillas de circuitos impresos",
+     1,
+     "01 CAJA DE 100 UNIDADES DE TARJETAS DE PRESENTACION COLOR EN PAPEL COUCHE 300 GR CONSIDERA DISEÑO. (DISEÑO LO APORTA LA INSTITUCIÓN)"
+    ],
+    [
+     "32131010",
+     "Tarjetas sencillas de circuitos impresos",
+     4,
+     "CREDENCIALES PVC CON GRAFICA AMBAS CARAS MAS LANYARD COLGANTE BLANCO CON ESTAMPADO (DISEÑO LO APORTA LA INSTITUCIÓN)"
+    ],
+    [
+     "45111603",
+     "Pantallas de proyección",
+     1,
+     "PENDON ROLLER GRAF DE 2 X 1 MTS CON BOLSO PORTADOR (DISEÑO LO APORTA LA INSTITUCIÓN)"
+    ],
+    [
+     "45111603",
+     "Pantallas de proyección",
+     1,
+     "PANEL ARAÑA TEXTIL RECTO DE 225 X 230 CM GRAFICA FULL COLOR (DISEÑO LO APORTA LA INSTITUCIÓN)"
+    ],
+    [
+     "55121706",
+     "Banderas",
+     1,
+     "BANDERA DE VELA DE 220 DE MASTIL MAS TELA DE 140 X 70 CM (DISEÑO LO APORTA LA INSTITUCIÓN)"
+    ],
+    [
+     "82101507",
+     "Folletos y catálogos publicitarios, servicios de publicidad y distribución",
+     1000,
+     "1000 MIL UNIDADES DE DIPTICOS TAMAÑO CARTA 4/4 COLOR EN PAPEL COUCHE 130 GR (DISEÑO LO APORTA LA INSTITUCIÓN)"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1608-89-COT26",
+   "sin_detalle": false,
+   "descripcion": "CORIZAR; Artículos de Difusión Programa CONADI, Región de Aysén, con despacho incluido y entrega en 03 días de emitida la Orden de Compra.!!Diseño que los productos lo aportara la Institución¡¡"
   }
  ],
  "historial": [
@@ -547,6 +540,60 @@
    "primera_vista_iso": "2026-10-22T11:01:40-03:00",
    "removida_iso": "2026-10-22T12:57:35-03:00",
    "estado_api": "",
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
+  {
+   "codigo": "2495-574-COT26",
+   "nombre": "Servicio de producción del stand turístico de Coyhaique",
+   "organismo": "I MUNICIPALIDAD DE COYHAIQUE",
+   "monto": 3000000,
+   "cierre_iso": "2026-10-23T15:00:00-03:00",
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Ventas y marketing"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=2495-574-COT26",
+   "primera_vista_iso": "2026-10-22T14:53:55-03:00",
+   "removida_iso": "2026-10-23T15:31:59-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
+  {
+   "codigo": "1233615-840-COT26",
+   "nombre": "TRM/SOL 2068 COMPONENTES AUDIO LICEO BICENTENARIO ARTURO PRAT CHACON",
+   "organismo": "Servicio Local de Educación Pública Aysén",
+   "monto": 1599998,
+   "cierre_iso": "2026-10-23T12:00:00-03:00",
+   "tipo": "POSIBLE",
+   "motivos": [
+    "audiovisual"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1233615-840-COT26",
+   "primera_vista_iso": "2026-10-22T10:13:15-03:00",
+   "removida_iso": "2026-10-23T15:31:59-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
+  {
+   "codigo": "4140-93-COT26",
+   "nombre": "IMPLEMENTOS PARA RADIO LAGO VERDE, CON FONDOS DE MEDIOS",
+   "organismo": "I MUNICIPALIDAD DE LAGO VERDE",
+   "monto": 693960,
+   "cierre_iso": "2026-10-23T12:00:00-03:00",
+   "tipo": "POSIBLE",
+   "motivos": [
+    "radio"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=4140-93-COT26",
+   "primera_vista_iso": "2026-10-22T11:59:22-03:00",
+   "removida_iso": "2026-10-23T15:31:59-03:00",
+   "estado_api": null,
    "adj_nombre": null,
    "adj_monto": null,
    "adj_iso": null
@@ -1163,43 +1210,6 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=1057062-460-COT26",
    "primera_vista_iso": "2026-10-15T16:05:38-03:00",
    "removida_iso": "2026-10-16T15:59:46-03:00",
-   "estado_api": "",
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "1282238-78-COT26",
-   "nombre": "Servicio de Diseño y Ejecución Encuentro Arte, Cultura y Patrimonio - FNDR 3465 Talleres Patrimoniales",
-   "organismo": "CORPORACION CULTURAL MUNICIPAL DE COYHAIQUE",
-   "monto": 2950000,
-   "cierre_iso": "2026-10-16T15:00:00-03:00",
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Fotógrafos y camarógrafos",
-    "Ventas y marketing"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1282238-78-COT26",
-   "primera_vista_iso": "2026-10-11T21:06:47-03:00",
-   "removida_iso": "2026-10-16T15:59:46-03:00",
-   "estado_api": "",
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "1521-76-COT26",
-   "nombre": "Servicio de relatoría para III Seminario STEM",
-   "organismo": "Departamento Provincial de Coyhaique",
-   "monto": 350000,
-   "cierre_iso": "2026-10-16T13:05:00-03:00",
-   "tipo": "POSIBLE",
-   "motivos": [
-    "difusión"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1521-76-COT26",
-   "primera_vista_iso": "2026-10-13T16:55:07-03:00",
-   "removida_iso": "2026-10-16T12:56:38-03:00",
    "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,

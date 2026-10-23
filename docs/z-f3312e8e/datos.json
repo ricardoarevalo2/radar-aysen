@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-10-23T11:19:19.152705-03:00",
+ "actualizado": "2026-10-23T15:31:59.298954-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
- "total_region": 257,
+ "total_region": 258,
  "rubros": {
   "25172700": "Aire acondicionado",
   "25173900": "Componentes eléctricos",
@@ -106,7 +106,7 @@
    "motivos": [
     "electricidad"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "1458-25-COT26",
    "nombre": "Adquisición diésel calefacción",
    "organismo": "SERPLAC XI Región",
@@ -154,6 +154,33 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=1458-26-COT26",
    "sin_detalle": false,
    "descripcion": "La Secretaría Regional Ministerial de Desarrollo Social y Familia de la región de Aysén, debe adquirir 600 litros aproximados de Kerosene para calefacción de las oficinas. El Kerosene debe ser entregado en las dependencias de la Seremi, ubicada en Gral. Parra N°326 y el camión que transporte el combustible debe estar autorizado por la Superintendencia de Electricidad y Combustible. (VER TÉRMINOS DE REFERENCIA)"
+  },
+  {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Conectores, enchufes y terminales"
+   ],
+   "nueva": true,
+   "codigo": "1233615-852-COT26",
+   "nombre": "DMH SOL-2026-01931] Recursos TICS para Escuela \"Litoral Austral\" de Puerto Aysén",
+   "organismo": "Servicio Local de Educación Pública Aysén",
+   "unidad": "Servicio Local de Educación Pública Aysén",
+   "monto": 302470,
+   "cierre_iso": "2026-10-27T10:00:00-03:00",
+   "publicacion": "23-10 14:14",
+   "publicacion_iso": "2026-10-23T14:14:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "39121409",
+     "Conectores de cables eléctricos",
+     1,
+     "insumos, accesorios y equipamiento informático necesarios para garantizar la continuidad operativa, mantención y adecuado funcionamiento de los recursos tecnológicos de la Escuela Litoral Austral, de acuerdo a requerimiento adjunto a la presente compra (debe llenar el formulario N°1)"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1233615-852-COT26",
+   "sin_detalle": false,
+   "descripcion": "Se solicita la adquisición de insumos, accesorios y equipamiento informático necesarios para garantizar la continuidad operativa, mantención y adecuado funcionamiento de los recursos tecnológicos de la Escuela Litoral Austral."
   },
   {
    "tipo": "OPORTUNIDAD",
@@ -1044,24 +1071,6 @@
    ],
    "link": "https://buscador.mercadopublico.cl/ficha?code=4778-329-COT26",
    "primera_vista_iso": "2026-10-15T16:05:38-03:00",
-   "removida_iso": "2026-10-16T15:59:46-03:00",
-   "estado_api": "",
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "620956-37-COT26",
-   "nombre": "Aires acondicionado ",
-   "organismo": "DELEGACIÓN PRESIDENCIAL PROVINCIAL DE GENERAL CARRERA",
-   "monto": 3700000,
-   "cierre_iso": "2026-10-16T15:00:00-03:00",
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Gasfitería, calefacción y aire acondicionado"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=620956-37-COT26",
-   "primera_vista_iso": "2026-10-14T13:02:14-03:00",
    "removida_iso": "2026-10-16T15:59:46-03:00",
    "estado_api": "",
    "adj_nombre": null,

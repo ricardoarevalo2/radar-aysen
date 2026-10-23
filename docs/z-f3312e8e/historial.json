@@ -76,7 +76,7 @@
   ],
   "link": "https://buscador.mercadopublico.cl/ficha?code=711-194-COT26",
   "primera_vista_iso": "2026-10-11T21:06:47-03:00",
-  "ultima_activa_iso": "2026-10-23T11:19:19-03:00",
+  "ultima_activa_iso": "2026-10-23T15:31:59-03:00",
   "removida_iso": null,
   "estado_api": "",
   "adj_nombre": null,
@@ -97,7 +97,7 @@
   ],
   "link": "https://buscador.mercadopublico.cl/ficha?code=4066-419-COT26",
   "primera_vista_iso": "2026-10-13T15:51:46-03:00",
-  "ultima_activa_iso": "2026-10-23T11:19:19-03:00",
+  "ultima_activa_iso": "2026-10-23T15:31:59-03:00",
   "removida_iso": null,
   "estado_api": "",
   "adj_nombre": null,
@@ -147,27 +147,6 @@
   "adj_iso": null,
   "adj_revisado_iso": "2026-10-23T11:19:19-03:00"
  },
- "620956-37-COT26": {
-  "codigo": "620956-37-COT26",
-  "nombre": "Aires acondicionado ",
-  "organismo": "DELEGACIÓN PRESIDENCIAL PROVINCIAL DE GENERAL CARRERA",
-  "unidad": "Complejo Fronterizo Jeinimeni",
-  "monto": 3700000,
-  "cierre_iso": "2026-10-16T15:00:00-03:00",
-  "tipo": "OPORTUNIDAD",
-  "motivos": [
-   "Gasfitería, calefacción y aire acondicionado"
-  ],
-  "link": "https://buscador.mercadopublico.cl/ficha?code=620956-37-COT26",
-  "primera_vista_iso": "2026-10-14T13:02:14-03:00",
-  "ultima_activa_iso": "2026-10-16T14:53:21-03:00",
-  "removida_iso": "2026-10-16T15:59:46-03:00",
-  "estado_api": "",
-  "adj_nombre": null,
-  "adj_monto": null,
-  "adj_iso": null,
-  "adj_revisado_iso": "2026-10-22T16:57:20-03:00"
- },
  "3765-299-COT26": {
   "codigo": "3765-299-COT26",
   "nombre": "INSUMOS PARA EL SISTEMA DE CLIMATIZACIÓN DEL ESTABLECIMEINTO ",
@@ -187,7 +166,7 @@
   "adj_nombre": null,
   "adj_monto": null,
   "adj_iso": null,
-  "adj_revisado_iso": "2026-10-22T16:57:20-03:00"
+  "adj_revisado_iso": "2026-10-23T15:31:59-03:00"
  },
  "3540-274-COT26": {
   "codigo": "3540-274-COT26",
@@ -208,7 +187,7 @@
   "adj_nombre": null,
   "adj_monto": null,
   "adj_iso": null,
-  "adj_revisado_iso": "2026-10-22T17:57:00-03:00"
+  "adj_revisado_iso": "2026-10-23T15:31:59-03:00"
  },
  "4889-41-COT26": {
   "codigo": "4889-41-COT26",
@@ -223,7 +202,7 @@
   ],
   "link": "https://buscador.mercadopublico.cl/ficha?code=4889-41-COT26",
   "primera_vista_iso": "2026-10-14T16:56:08-03:00",
-  "ultima_activa_iso": "2026-10-23T11:19:19-03:00",
+  "ultima_activa_iso": "2026-10-23T15:31:59-03:00",
   "removida_iso": null,
   "estado_api": null,
   "adj_nombre": null,
@@ -250,7 +229,7 @@
   "adj_nombre": null,
   "adj_monto": null,
   "adj_iso": null,
-  "adj_revisado_iso": "2026-10-22T17:57:00-03:00"
+  "adj_revisado_iso": "2026-10-23T15:31:59-03:00"
  },
  "4609-281-COT26": {
   "codigo": "4609-281-COT26",
@@ -271,7 +250,7 @@
   "adj_nombre": null,
   "adj_monto": null,
   "adj_iso": null,
-  "adj_revisado_iso": "2026-10-22T17:57:00-03:00"
+  "adj_revisado_iso": "2026-10-23T15:31:59-03:00"
  },
  "2713-1255-COT26": {
   "codigo": "2713-1255-COT26",
@@ -292,7 +271,7 @@
   "adj_nombre": null,
   "adj_monto": null,
   "adj_iso": null,
-  "adj_revisado_iso": "2026-10-22T18:55:50-03:00"
+  "adj_revisado_iso": "2026-10-23T15:31:59-03:00"
  },
  "3431-116-COT26": {
   "codigo": "3431-116-COT26",
@@ -1053,7 +1032,7 @@
   ],
   "link": "https://buscador.mercadopublico.cl/ficha?code=1905-77-COT26",
   "primera_vista_iso": "2026-10-21T16:55:28-03:00",
-  "ultima_activa_iso": "2026-10-23T11:19:19-03:00",
+  "ultima_activa_iso": "2026-10-23T15:31:59-03:00",
   "removida_iso": null,
   "estado_api": null,
   "adj_nombre": null,
@@ -1095,7 +1074,7 @@
   ],
   "link": "https://buscador.mercadopublico.cl/ficha?code=1458-25-COT26",
   "primera_vista_iso": "2026-10-22T12:57:35-03:00",
-  "ultima_activa_iso": "2026-10-23T11:19:19-03:00",
+  "ultima_activa_iso": "2026-10-23T15:31:59-03:00",
   "removida_iso": null,
   "estado_api": null,
   "adj_nombre": null,
@@ -1116,7 +1095,7 @@
   ],
   "link": "https://buscador.mercadopublico.cl/ficha?code=2042-372-COT26",
   "primera_vista_iso": "2026-10-22T16:57:20-03:00",
-  "ultima_activa_iso": "2026-10-23T11:19:19-03:00",
+  "ultima_activa_iso": "2026-10-23T15:31:59-03:00",
   "removida_iso": null,
   "estado_api": null,
   "adj_nombre": null,
@@ -1137,7 +1116,28 @@
   ],
   "link": "https://buscador.mercadopublico.cl/ficha?code=1458-26-COT26",
   "primera_vista_iso": "2026-10-22T17:57:00-03:00",
-  "ultima_activa_iso": "2026-10-23T11:19:19-03:00",
+  "ultima_activa_iso": "2026-10-23T15:31:59-03:00",
+  "removida_iso": null,
+  "estado_api": null,
+  "adj_nombre": null,
+  "adj_monto": null,
+  "adj_iso": null,
+  "adj_revisado_iso": null
+ },
+ "1233615-852-COT26": {
+  "codigo": "1233615-852-COT26",
+  "nombre": "DMH SOL-2026-01931] Recursos TICS para Escuela \"Litoral Austral\" de Puerto Aysén",
+  "organismo": "Servicio Local de Educación Pública Aysén",
+  "unidad": "Servicio Local de Educación Pública Aysén",
+  "monto": 302470,
+  "cierre_iso": "2026-10-27T10:00:00-03:00",
+  "tipo": "OPORTUNIDAD",
+  "motivos": [
+   "Conectores, enchufes y terminales"
+  ],
+  "link": "https://buscador.mercadopublico.cl/ficha?code=1233615-852-COT26",
+  "primera_vista_iso": "2026-10-23T15:31:59-03:00",
+  "ultima_activa_iso": "2026-10-23T15:31:59-03:00",
   "removida_iso": null,
   "estado_api": null,
   "adj_nombre": null,
