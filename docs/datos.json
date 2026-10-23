@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-10-23T15:31:59.298954-03:00",
+ "actualizado": "2026-10-23T19:25:33.052809-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
- "total_region": 258,
+ "total_region": 262,
  "rubros": {
   "80141600": "Ventas y marketing",
   "82101600": "Publicidad en medios no impresos",
@@ -14,60 +14,6 @@
   "83121700": "Comunicación social y de masas"
  },
  "filas": [
-  {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Ventas y marketing"
-   ],
-   "nueva": false,
-   "codigo": "4609-286-COT26",
-   "nombre": "SERVICIO PRODUCCION EVENTO",
-   "organismo": "I MUNICIPALIDAD DE CHILE CHICO",
-   "unidad": "Finanzas",
-   "monto": 6200000,
-   "cierre_iso": "2026-10-23T15:30:00-03:00",
-   "publicacion": "20-10 16:28",
-   "publicacion_iso": "2026-10-20T16:28:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "80141607",
-     "Producción de eventos",
-     1,
-     "SERVICIO DE PRODUCCION TECNICA, ARTISTICA Y DE CATERING PARA EL LANZAMIENTO DE TEMPORADA TURISTICA, PUERTO GUADAL 2026-2027. (Detalle TDR adjunto)."
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=4609-286-COT26",
-   "sin_detalle": false,
-   "descripcion": "COTIZACION SERVICIO PRODUCCION EVENTO"
-  },
-  {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Comunicación social y de masas"
-   ],
-   "nueva": false,
-   "codigo": "1234-14-COT26",
-   "nombre": "SERVICIO SATELITAL PARA ANTENA STARLINK",
-   "organismo": "DIRECCIÓN REGIONAL ADUANA DE COYHAIQUE",
-   "unidad": "Dirección Regional Aduana de Coyhaique",
-   "monto": 1500000,
-   "cierre_iso": "2026-10-23T16:00:00-03:00",
-   "publicacion": "21-10 16:48",
-   "publicacion_iso": "2026-10-21T16:48:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "83121703",
-     "Servicios relacionados con Internet",
-     1,
-     "Servicio de Internet Satelital Starlink modalidad \"En Movimiento\" o equivalente, compatible con la antena Starlink Mini de propiedad institucional, para ser utilizada en vehículos institucionales que realizan labores operativas y de fiscalización en pasos fronterizos y rutas de la Región de Aysén."
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1234-14-COT26",
-   "sin_detalle": false,
-   "descripcion": "La Dirección Regional de Aduana de Coyhaique requiere contratar el servicio de Internet Satelital Starlink modalidad \"En Movimiento\" o equivalente, compatible con la antena Starlink Mini de propiedad institucional, para ser utilizada en vehículos institucionales que realizan labores operativas y de fiscalización en pasos fronterizos y rutas de la Región de Aysén."
-  },
   {
    "tipo": "POSIBLE",
    "motivos": [
@@ -296,7 +242,7 @@
    "motivos": [
     "Ventas y marketing"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "1343644-108-COT26",
    "nombre": "Servicio de producción Conmemoración Mes de las personas mayores 2026",
    "organismo": "I MUNICIPALIDAD DE O HIGGINS",
@@ -382,6 +328,33 @@
    "descripcion": "Con despacho incluido"
   },
   {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Ventas y marketing"
+   ],
+   "nueva": true,
+   "codigo": "3622-18-COT26",
+   "nombre": "Servicio de producción de eventos Conmemoración Día del Funcionario Municipal 2026",
+   "organismo": "I MUNICIPALIDAD DE O HIGGINS",
+   "unidad": "Administracion Y Finanzas",
+   "monto": 4000000,
+   "cierre_iso": "2026-10-26T08:30:00-03:00",
+   "publicacion": "23-10 15:54",
+   "publicacion_iso": "2026-10-23T15:54:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "80141607",
+     "Producción de eventos",
+     1,
+     "Servicio de producción de eventos que contemple una charla taller a cargo de un(a) profesional psicólogo(a) o afin, servicio de cátering y cóctel, caja surtida individual, reconocimiento a la trayectoria y presentes para los participantes, para la conmemoración del Día del Funcionario Municipal.\nSe adjunta ficha tecnica con terminos y condiciones que deben cumplir los proveedores para cotizar."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=3622-18-COT26",
+   "sin_detalle": false,
+   "descripcion": "Servicio de producción de eventos con la finalidad de realizar una jornada de charla de convivencia laboral y conmemoración del Día del Funcionario Municipal, destinada a reconocer y destacar la labor que desempeñan los funcionarios y funcionarias municipales en el desarrollo de la comuna."
+  },
+  {
    "tipo": "POSIBLE",
    "motivos": [
     "publicitaria"
@@ -411,6 +384,33 @@
   {
    "tipo": "OPORTUNIDAD",
    "motivos": [
+    "Ventas y marketing"
+   ],
+   "nueva": true,
+   "codigo": "2495-578-COT26",
+   "nombre": "PRODUCCION ENCUENTRO DE CHAMAME",
+   "organismo": "I MUNICIPALIDAD DE COYHAIQUE",
+   "unidad": "DIRECCION DESARROLLO COMUNITARIO",
+   "monto": 7000000,
+   "cierre_iso": "2026-10-26T10:00:00-03:00",
+   "publicacion": "23-10 17:29",
+   "publicacion_iso": "2026-10-23T17:29:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "80141607",
+     "Producción de eventos",
+     1,
+     "SE REQUIERE EL SERVICIO DE PRODUCCION DE EVENTO PARA ENCUENTRO DE CHAMAME A REALIZARSE EN LUGAR, FECHA Y HORARIO A CONVENIR CON MUNICIPALIDAD SEGUN REQUERIMIENTOS TECNICOS DESCRITOS EN ARCHIVO ADJUNTO AL CUAL DEBE AJUSTARSE INTEGRAMENTE, SE PREVILEGIARA PROVEEDOR DE LA COMUNA DE COYHAIQUE CON DISPONIBILIDAD INMEDIATA Y DISPOSICION LA MODIFICACIONES EN TIEMPO Y FORMA, ADJUNTAR COTIZACION Y COMPROBANTE DE EXPERIENCIA PREVIA"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=2495-578-COT26",
+   "sin_detalle": false,
+   "descripcion": "SE REQUIERE EL SERVICIO DE PRODUCCION DE EVENTO PARA ENCUENTRO DE CHAMAME A REALIZARSE EN LUGAR, FECHA Y HORARIO A CONVENIR CON MUNICIPALIDAD SEGUN REQUERIMIENTOS TECNICOS DESCRITOS EN ARCHIVO ADJUNTO AL CUAL DEBE AJUSTARSE INTEGRAMENTE, SE PREVILEGIARA PROVEEDOR DE LA COMUNA DE COYHAIQUE CON DISPONIBILIDAD INMEDIATA Y DISPOSICION LA MODIFICACIONES EN TIEMPO Y FORMA, ADJUNTAR COTIZACION Y COMPROBANTE DE EXPERIENCIA PREVIA"
+  },
+  {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
     "Publicidad en medios no impresos"
    ],
    "nueva": true,
@@ -434,6 +434,33 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=3791-1058-COT26",
    "sin_detalle": false,
    "descripcion": "SERVICIO DE PUBLICIDAD RADIAL DURANTE LOS MESES DE NOVIEMBRE Y DICIEMBRE DE 2026 EN EL MARCO DEL PROGRAMA TODOS PUEDEN CANTAR. SE ADJUNTAN ESPECIFICACIONES"
+  },
+  {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Ventas y marketing"
+   ],
+   "nueva": true,
+   "codigo": "1286987-46-COT26",
+   "nombre": "Evento de producción para eventos deportivos recreativos",
+   "organismo": "Corporación Municipal de Deportes y Recreación Coy",
+   "unidad": "Corporación Municipal de Deportes y Recreación Coy",
+   "monto": 1200000,
+   "cierre_iso": "2026-10-26T12:00:00-03:00",
+   "publicacion": "23-10 17:52",
+   "publicacion_iso": "2026-10-23T17:52:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "80141607",
+     "Producción de eventos",
+     1,
+     "se adjuntan bases tecnicas"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1286987-46-COT26",
+   "sin_detalle": false,
+   "descripcion": "Se adjuntan bases tecnicas"
   },
   {
    "tipo": "POSIBLE",
@@ -540,6 +567,42 @@
    "primera_vista_iso": "2026-10-22T11:01:40-03:00",
    "removida_iso": "2026-10-22T12:57:35-03:00",
    "estado_api": "",
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
+  {
+   "codigo": "1234-14-COT26",
+   "nombre": "SERVICIO SATELITAL PARA ANTENA STARLINK",
+   "organismo": "DIRECCIÓN REGIONAL ADUANA DE COYHAIQUE",
+   "monto": 1500000,
+   "cierre_iso": "2026-10-23T16:00:00-03:00",
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Comunicación social y de masas"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1234-14-COT26",
+   "primera_vista_iso": "2026-10-21T16:55:28-03:00",
+   "removida_iso": "2026-10-23T19:25:33-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
+  {
+   "codigo": "4609-286-COT26",
+   "nombre": "SERVICIO PRODUCCION EVENTO",
+   "organismo": "I MUNICIPALIDAD DE CHILE CHICO",
+   "monto": 6200000,
+   "cierre_iso": "2026-10-23T15:30:00-03:00",
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Ventas y marketing"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=4609-286-COT26",
+   "primera_vista_iso": "2026-10-20T16:54:52-03:00",
+   "removida_iso": "2026-10-23T19:25:33-03:00",
+   "estado_api": null,
    "adj_nombre": null,
    "adj_monto": null,
    "adj_iso": null
@@ -1192,24 +1255,6 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=4066-426-COT26",
    "primera_vista_iso": "2026-10-16T15:59:46-03:00",
    "removida_iso": "2026-10-18T22:07:29-03:00",
-   "estado_api": "",
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "1057062-460-COT26",
-   "nombre": "Servicio de alojamiento para músicos_Programa Orquesta_FISABS 2317",
-   "organismo": "UNIVERSIDAD DE AYSEN",
-   "monto": 1000000,
-   "cierre_iso": "2026-10-16T15:37:00-03:00",
-   "tipo": "POSIBLE",
-   "motivos": [
-    "radio"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1057062-460-COT26",
-   "primera_vista_iso": "2026-10-15T16:05:38-03:00",
-   "removida_iso": "2026-10-16T15:59:46-03:00",
    "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,

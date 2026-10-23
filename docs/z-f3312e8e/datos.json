@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-10-23T15:31:59.298954-03:00",
+ "actualizado": "2026-10-23T19:25:33.052809-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
- "total_region": 258,
+ "total_region": 262,
  "rubros": {
   "25172700": "Aire acondicionado",
   "25173900": "Componentes eléctricos",
@@ -133,7 +133,7 @@
    "motivos": [
     "electricidad"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "1458-26-COT26",
    "nombre": "Adquisición de Kerosene para calefacción ",
    "organismo": "SERPLAC XI Región",
@@ -214,7 +214,7 @@
    "motivos": [
     "luminaria"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "2042-372-COT26",
    "nombre": "ADQUISICION  DE  FOCOS  LED .",
    "organismo": "I MUNICIPALIDAD DE TORTEL",
@@ -997,81 +997,6 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=4609-281-COT26",
    "primera_vista_iso": "2026-10-15T08:55:42-03:00",
    "removida_iso": "2026-10-17T11:48:33-03:00",
-   "estado_api": "",
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "1057062-462-COT26",
-   "nombre": "Equipamientos Tecnológicos Proyecto URY 20991 y FIU Territorios",
-   "organismo": "UNIVERSIDAD DE AYSEN",
-   "monto": 7100000,
-   "cierre_iso": "2026-10-16T17:45:00-03:00",
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Cables eléctricos y accesorios"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1057062-462-COT26",
-   "primera_vista_iso": "2026-10-15T17:55:27-03:00",
-   "removida_iso": "2026-10-16T17:54:39-03:00",
-   "estado_api": "",
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "1195-521-COT26",
-   "nombre": "Materiales para recambio de tableros alumbrado público",
-   "organismo": "I MUNICIPALIDAD DE COYHAIQUE",
-   "monto": 2000000,
-   "cierre_iso": "2026-10-16T17:00:00-03:00",
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Cables eléctricos y accesorios",
-    "Cajas y accesorios eléctricos",
-    "Conectores, enchufes y terminales",
-    "Suministros y accesorios eléctricos"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1195-521-COT26",
-   "primera_vista_iso": "2026-10-15T17:55:27-03:00",
-   "removida_iso": "2026-10-16T17:54:39-03:00",
-   "estado_api": "",
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "2713-1255-COT26",
-   "nombre": "EQUIPO AIRE ACONDICIONADO CON SERVICIO DE INSTALACION. FOLIO 1293 DIDECO",
-   "organismo": "I MUNICIPALIDAD DE AYSEN",
-   "monto": 900000,
-   "cierre_iso": "2026-10-16T15:40:00-03:00",
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Enfriamiento (aires acondicionados)"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=2713-1255-COT26",
-   "primera_vista_iso": "2026-10-15T12:58:39-03:00",
-   "removida_iso": "2026-10-16T15:59:46-03:00",
-   "estado_api": "",
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "4778-329-COT26",
-   "nombre": "VEM-ALMOHADAS, CUBRE COLCHÓN, JUEGO DE VAJILLA, JUEGO DE VASOS, TAZONES, INDIVIDUALES, CUCHARAS, CUCHARA DE TÉ, TENEDOR, CUCHILLO, ALARGADOR O ZAPATILLA ELÉCTRICA",
-   "organismo": "SERVICIO NACIONAL DE SALUD HOSPITAL DE C",
-   "monto": 380109,
-   "cierre_iso": "2026-10-16T15:35:00-03:00",
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Conectores, enchufes y terminales"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=4778-329-COT26",
-   "primera_vista_iso": "2026-10-15T16:05:38-03:00",
-   "removida_iso": "2026-10-16T15:59:46-03:00",
    "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,

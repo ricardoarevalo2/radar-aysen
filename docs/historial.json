@@ -18,7 +18,7 @@
   "adj_nombre": null,
   "adj_monto": null,
   "adj_iso": null,
-  "adj_revisado_iso": "2026-10-23T11:19:19-03:00"
+  "adj_revisado_iso": "2026-10-23T19:25:33-03:00"
  },
  "4778-319-COT26": {
   "codigo": "4778-319-COT26",
@@ -39,7 +39,7 @@
   "adj_nombre": null,
   "adj_monto": null,
   "adj_iso": null,
-  "adj_revisado_iso": "2026-10-23T11:19:19-03:00"
+  "adj_revisado_iso": "2026-10-23T19:25:33-03:00"
  },
  "2713-1250-COT26": {
   "codigo": "2713-1250-COT26",
@@ -60,7 +60,7 @@
   "adj_nombre": null,
   "adj_monto": null,
   "adj_iso": null,
-  "adj_revisado_iso": "2026-10-23T11:19:19-03:00"
+  "adj_revisado_iso": "2026-10-23T19:25:33-03:00"
  },
  "1201-181-COT26": {
   "codigo": "1201-181-COT26",
@@ -128,27 +128,6 @@
   "adj_iso": null,
   "adj_revisado_iso": "2026-10-23T15:31:59-03:00"
  },
- "1057062-460-COT26": {
-  "codigo": "1057062-460-COT26",
-  "nombre": "Servicio de alojamiento para músicos_Programa Orquesta_FISABS 2317",
-  "organismo": "UNIVERSIDAD DE AYSEN",
-  "unidad": "Proyectos",
-  "monto": 1000000,
-  "cierre_iso": "2026-10-16T15:37:00-03:00",
-  "tipo": "POSIBLE",
-  "motivos": [
-   "radio"
-  ],
-  "link": "https://buscador.mercadopublico.cl/ficha?code=1057062-460-COT26",
-  "primera_vista_iso": "2026-10-15T16:05:38-03:00",
-  "ultima_activa_iso": "2026-10-16T14:53:21-03:00",
-  "removida_iso": "2026-10-16T15:59:46-03:00",
-  "estado_api": "",
-  "adj_nombre": null,
-  "adj_monto": null,
-  "adj_iso": null,
-  "adj_revisado_iso": "2026-10-23T15:31:59-03:00"
- },
  "1182705-193-COT26": {
   "codigo": "1182705-193-COT26",
   "nombre": "Estampado Sublimación Logo CFT Estatal Aysen \"TNS En Veterinaria y Producción Agropecuaria\" en trajes de cirugia alumnos Diurnos y Vesperinos.\t\t\t\t\t\t\t\t\t\t\t\t\t",
@@ -190,7 +169,7 @@
   "adj_nombre": null,
   "adj_monto": null,
   "adj_iso": null,
-  "adj_revisado_iso": "2026-10-22T16:57:20-03:00"
+  "adj_revisado_iso": "2026-10-23T19:25:33-03:00"
  },
  "2713-1258-COT26": {
   "codigo": "2713-1258-COT26",
@@ -211,7 +190,7 @@
   "adj_nombre": null,
   "adj_monto": null,
   "adj_iso": null,
-  "adj_revisado_iso": "2026-10-22T16:57:20-03:00"
+  "adj_revisado_iso": "2026-10-23T19:25:33-03:00"
  },
  "828-49-COT26": {
   "codigo": "828-49-COT26",
@@ -332,7 +311,7 @@
   ],
   "link": "https://buscador.mercadopublico.cl/ficha?code=682-20-COT26",
   "primera_vista_iso": "2026-10-16T10:09:44-03:00",
-  "ultima_activa_iso": "2026-10-23T15:31:59-03:00",
+  "ultima_activa_iso": "2026-10-23T19:25:33-03:00",
   "removida_iso": null,
   "estado_api": null,
   "adj_nombre": null,
@@ -544,7 +523,7 @@
   ],
   "link": "https://buscador.mercadopublico.cl/ficha?code=2495-564-COT26",
   "primera_vista_iso": "2026-10-19T16:57:34-03:00",
-  "ultima_activa_iso": "2026-10-23T15:31:59-03:00",
+  "ultima_activa_iso": "2026-10-23T19:25:33-03:00",
   "removida_iso": null,
   "estado_api": null,
   "adj_nombre": null,
@@ -755,7 +734,7 @@
   "link": "https://buscador.mercadopublico.cl/ficha?code=4609-286-COT26",
   "primera_vista_iso": "2026-10-20T16:54:52-03:00",
   "ultima_activa_iso": "2026-10-23T15:31:59-03:00",
-  "removida_iso": null,
+  "removida_iso": "2026-10-23T19:25:33-03:00",
   "estado_api": null,
   "adj_nombre": null,
   "adj_monto": null,
@@ -796,7 +775,7 @@
   ],
   "link": "https://buscador.mercadopublico.cl/ficha?code=886182-233-COT26",
   "primera_vista_iso": "2026-10-21T10:12:39-03:00",
-  "ultima_activa_iso": "2026-10-23T15:31:59-03:00",
+  "ultima_activa_iso": "2026-10-23T19:25:33-03:00",
   "removida_iso": null,
   "estado_api": null,
   "adj_nombre": null,
@@ -818,7 +797,7 @@
   "link": "https://buscador.mercadopublico.cl/ficha?code=1234-14-COT26",
   "primera_vista_iso": "2026-10-21T16:55:28-03:00",
   "ultima_activa_iso": "2026-10-23T15:31:59-03:00",
-  "removida_iso": null,
+  "removida_iso": "2026-10-23T19:25:33-03:00",
   "estado_api": null,
   "adj_nombre": null,
   "adj_monto": null,
@@ -840,7 +819,7 @@
   ],
   "link": "https://buscador.mercadopublico.cl/ficha?code=613-33-COT26",
   "primera_vista_iso": "2026-10-21T19:54:17-03:00",
-  "ultima_activa_iso": "2026-10-23T15:31:59-03:00",
+  "ultima_activa_iso": "2026-10-23T19:25:33-03:00",
   "removida_iso": null,
   "estado_api": null,
   "adj_nombre": null,
@@ -948,7 +927,7 @@
   ],
   "link": "https://buscador.mercadopublico.cl/ficha?code=1343644-108-COT26",
   "primera_vista_iso": "2026-10-22T17:57:00-03:00",
-  "ultima_activa_iso": "2026-10-23T15:31:59-03:00",
+  "ultima_activa_iso": "2026-10-23T19:25:33-03:00",
   "removida_iso": null,
   "estado_api": null,
   "adj_nombre": null,
@@ -971,7 +950,7 @@
   ],
   "link": "https://buscador.mercadopublico.cl/ficha?code=3797-492-COT26",
   "primera_vista_iso": "2026-10-23T11:19:19-03:00",
-  "ultima_activa_iso": "2026-10-23T15:31:59-03:00",
+  "ultima_activa_iso": "2026-10-23T19:25:33-03:00",
   "removida_iso": null,
   "estado_api": null,
   "adj_nombre": null,
@@ -995,7 +974,7 @@
   ],
   "link": "https://buscador.mercadopublico.cl/ficha?code=4140-97-COT26",
   "primera_vista_iso": "2026-10-23T11:19:19-03:00",
-  "ultima_activa_iso": "2026-10-23T15:31:59-03:00",
+  "ultima_activa_iso": "2026-10-23T19:25:33-03:00",
   "removida_iso": null,
   "estado_api": null,
   "adj_nombre": null,
@@ -1017,7 +996,7 @@
   ],
   "link": "https://buscador.mercadopublico.cl/ficha?code=4140-98-COT26",
   "primera_vista_iso": "2026-10-23T11:19:19-03:00",
-  "ultima_activa_iso": "2026-10-23T15:31:59-03:00",
+  "ultima_activa_iso": "2026-10-23T19:25:33-03:00",
   "removida_iso": null,
   "estado_api": null,
   "adj_nombre": null,
@@ -1038,7 +1017,7 @@
   ],
   "link": "https://buscador.mercadopublico.cl/ficha?code=3950-688-COT26",
   "primera_vista_iso": "2026-10-23T11:19:19-03:00",
-  "ultima_activa_iso": "2026-10-23T15:31:59-03:00",
+  "ultima_activa_iso": "2026-10-23T19:25:33-03:00",
   "removida_iso": null,
   "estado_api": null,
   "adj_nombre": null,
@@ -1059,7 +1038,7 @@
   ],
   "link": "https://buscador.mercadopublico.cl/ficha?code=3791-1058-COT26",
   "primera_vista_iso": "2026-10-23T15:31:59-03:00",
-  "ultima_activa_iso": "2026-10-23T15:31:59-03:00",
+  "ultima_activa_iso": "2026-10-23T19:25:33-03:00",
   "removida_iso": null,
   "estado_api": null,
   "adj_nombre": null,
@@ -1082,7 +1061,70 @@
   ],
   "link": "https://buscador.mercadopublico.cl/ficha?code=1608-89-COT26",
   "primera_vista_iso": "2026-10-23T15:31:59-03:00",
-  "ultima_activa_iso": "2026-10-23T15:31:59-03:00",
+  "ultima_activa_iso": "2026-10-23T19:25:33-03:00",
+  "removida_iso": null,
+  "estado_api": null,
+  "adj_nombre": null,
+  "adj_monto": null,
+  "adj_iso": null,
+  "adj_revisado_iso": null
+ },
+ "3622-18-COT26": {
+  "codigo": "3622-18-COT26",
+  "nombre": "Servicio de producción de eventos Conmemoración Día del Funcionario Municipal 2026",
+  "organismo": "I MUNICIPALIDAD DE O HIGGINS",
+  "unidad": "Administracion Y Finanzas",
+  "monto": 4000000,
+  "cierre_iso": "2026-10-26T08:30:00-03:00",
+  "tipo": "OPORTUNIDAD",
+  "motivos": [
+   "Ventas y marketing"
+  ],
+  "link": "https://buscador.mercadopublico.cl/ficha?code=3622-18-COT26",
+  "primera_vista_iso": "2026-10-23T19:25:33-03:00",
+  "ultima_activa_iso": "2026-10-23T19:25:33-03:00",
+  "removida_iso": null,
+  "estado_api": null,
+  "adj_nombre": null,
+  "adj_monto": null,
+  "adj_iso": null,
+  "adj_revisado_iso": null
+ },
+ "2495-578-COT26": {
+  "codigo": "2495-578-COT26",
+  "nombre": "PRODUCCION ENCUENTRO DE CHAMAME",
+  "organismo": "I MUNICIPALIDAD DE COYHAIQUE",
+  "unidad": "DIRECCION DESARROLLO COMUNITARIO",
+  "monto": 7000000,
+  "cierre_iso": "2026-10-26T10:00:00-03:00",
+  "tipo": "OPORTUNIDAD",
+  "motivos": [
+   "Ventas y marketing"
+  ],
+  "link": "https://buscador.mercadopublico.cl/ficha?code=2495-578-COT26",
+  "primera_vista_iso": "2026-10-23T19:25:33-03:00",
+  "ultima_activa_iso": "2026-10-23T19:25:33-03:00",
+  "removida_iso": null,
+  "estado_api": null,
+  "adj_nombre": null,
+  "adj_monto": null,
+  "adj_iso": null,
+  "adj_revisado_iso": null
+ },
+ "1286987-46-COT26": {
+  "codigo": "1286987-46-COT26",
+  "nombre": "Evento de producción para eventos deportivos recreativos",
+  "organismo": "Corporación Municipal de Deportes y Recreación Coy",
+  "unidad": "Corporación Municipal de Deportes y Recreación Coy",
+  "monto": 1200000,
+  "cierre_iso": "2026-10-26T12:00:00-03:00",
+  "tipo": "OPORTUNIDAD",
+  "motivos": [
+   "Ventas y marketing"
+  ],
+  "link": "https://buscador.mercadopublico.cl/ficha?code=1286987-46-COT26",
+  "primera_vista_iso": "2026-10-23T19:25:33-03:00",
+  "ultima_activa_iso": "2026-10-23T19:25:33-03:00",
   "removida_iso": null,
   "estado_api": null,
   "adj_nombre": null,
