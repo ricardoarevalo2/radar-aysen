@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-10-24T13:46:15.627611-03:00",
+ "actualizado": "2026-10-24T16:35:55.279888-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
- "total_region": 235,
+ "total_region": 224,
  "rubros": {
   "80141600": "Ventas y marketing",
   "82101600": "Publicidad en medios no impresos",
@@ -190,7 +190,7 @@
    "motivos": [
     "Publicidad en medios no impresos"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "3791-1058-COT26",
    "nombre": "DIFUSION RADIAL ",
    "organismo": "I MUNICIPALIDAD DE CISNES",
@@ -273,7 +273,7 @@
     "publicidad",
     "publicitarios"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "1608-89-COT26",
    "nombre": "ARTICULOS DE DIFUSIÓN PROGRAMA CONADI",
    "organismo": "DELEGACIÓN PRESIDENCIAL REGIONAL DE AYSÉN DEL GENERAL CARLOS IBÁÑEZ DE",

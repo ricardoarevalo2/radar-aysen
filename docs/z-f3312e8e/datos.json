@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-10-24T13:46:15.627611-03:00",
+ "actualizado": "2026-10-24T16:35:55.279888-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
- "total_region": 235,
+ "total_region": 224,
  "rubros": {
   "25172700": "Aire acondicionado",
   "25173900": "Componentes eléctricos",
@@ -19,61 +19,6 @@
   "39121400": "Conectores, enchufes y terminales"
  },
  "filas": [
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "climatización",
-    "eléctricos"
-   ],
-   "nueva": false,
-   "codigo": "711-194-COT26",
-   "nombre": "PROCESO DE ADQUISICIÓN PARA EL SERVICIO DE LEVANTAMIENTO ELECTRICO, RETIRO E INSTALACIÓN DE EQUIUPOS DE CLIMATIZACIÓN PARA OFICINAS DE LA SEREMITT DE AYSÉN",
-   "organismo": "SUBSECRETARIA DE TRANSPORTES",
-   "unidad": "SUBSECRETARÍA DE TRANSPORTES",
-   "monto": 2400000,
-   "cierre_iso": "2026-10-24T14:20:00-03:00",
-   "publicacion": "07-10 08:20",
-   "publicacion_iso": "2026-10-07T08:20:00-03:00",
-   "ofertas": 3,
-   "productos": [
-    [
-     "73171510",
-     "Servicios de fabricación de accesorios o suministros eléctricos",
-     1,
-     "PROCESO DE ADQUISICIÓN PARA EL SERVICIO DE LEVANTAMIENTO ELECTRICO, RETIRO E INSTALACIÓN DE EQUIUPOS DE CLIMATIZACIÓN PARA OFICINAS DE LA SEREMITT DE AYSÉN\n\nVER REQUERIMIENTO TÉCNICO"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=711-194-COT26",
-   "sin_detalle": false,
-   "descripcion": "PROCESO DE ADQUISICIÓN PARA EL SERVICIO DE LEVANTAMIENTO ELECTRICO, RETIRO E INSTALACIÓN DE EQUIUPOS DE CLIMATIZACIÓN PARA OFICINAS DE LA SEREMITT DE AYSÉN\n\nLA VISITA ENTERRENO SERÁ EL DÍA 9 DE OCTUBRE A LAS 10:00 HORAS\nVER  REQUERIMIENTO TÉCNICO"
-  },
-  {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Gasfitería, calefacción y aire acondicionado"
-   ],
-   "nueva": false,
-   "codigo": "4889-41-COT26",
-   "nombre": "MANTENIMIENTO SENTINA - OFICINAS SEREMI DE LAS CULTURAS",
-   "organismo": "Subsecretaria de las Culturas y las Artes Región de Aysen",
-   "unidad": "Consejo Regional de Cultura Región de Aysen",
-   "monto": 250000,
-   "cierre_iso": "2026-10-24T15:22:00-03:00",
-   "publicacion": "14-10 16:37",
-   "publicacion_iso": "2026-10-14T16:37:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "72102304",
-     "Mantenimiento o reparación de sistemas de fontanería, gasfitería",
-     1,
-     "MANTENIMIENTO SENTINA - OFICINAS SEREMI DE LAS CULTURAS - Características según archivo adjunto"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=4889-41-COT26",
-   "sin_detalle": false,
-   "descripcion": "MANTENIMIENTO SENTINA - OFICINAS SEREMI DE LAS CULTURAS\nCARACTERÍSTICAS REQUERIDAS SEGUN ARCHIVO ADJUNTO"
-  },
   {
    "tipo": "OPORTUNIDAD",
    "motivos": [
@@ -160,7 +105,7 @@
    "motivos": [
     "Conectores, enchufes y terminales"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "1233615-852-COT26",
    "nombre": "DMH SOL-2026-01931] Recursos TICS para Escuela \"Litoral Austral\" de Puerto Aysén",
    "organismo": "Servicio Local de Educación Pública Aysén",
@@ -238,6 +183,43 @@
   }
  ],
  "historial": [
+  {
+   "codigo": "4889-41-COT26",
+   "nombre": "MANTENIMIENTO SENTINA - OFICINAS SEREMI DE LAS CULTURAS",
+   "organismo": "Subsecretaria de las Culturas y las Artes Región de Aysen",
+   "monto": 250000,
+   "cierre_iso": "2026-10-24T15:22:00-03:00",
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Gasfitería, calefacción y aire acondicionado"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=4889-41-COT26",
+   "primera_vista_iso": "2026-10-14T16:56:08-03:00",
+   "removida_iso": "2026-10-24T16:35:55-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
+  {
+   "codigo": "711-194-COT26",
+   "nombre": "PROCESO DE ADQUISICIÓN PARA EL SERVICIO DE LEVANTAMIENTO ELECTRICO, RETIRO E INSTALACIÓN DE EQUIUPOS DE CLIMATIZACIÓN PARA OFICINAS DE LA SEREMITT DE AYSÉN",
+   "organismo": "SUBSECRETARIA DE TRANSPORTES",
+   "monto": 2400000,
+   "cierre_iso": "2026-10-24T14:20:00-03:00",
+   "tipo": "POSIBLE",
+   "motivos": [
+    "climatización",
+    "eléctricos"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=711-194-COT26",
+   "primera_vista_iso": "2026-10-11T21:06:47-03:00",
+   "removida_iso": "2026-10-24T16:35:55-03:00",
+   "estado_api": "",
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
   {
    "codigo": "418-1649-COT26",
    "nombre": "LRG - INSUMOS PARA REPOSICION DE STOC EN BODEGA",
