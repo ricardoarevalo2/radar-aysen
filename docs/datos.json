@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-10-23T21:52:30.258422-03:00",
+ "actualizado": "2026-10-24T10:26:01.697254-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
- "total_region": 260,
+ "total_region": 246,
  "rubros": {
   "80141600": "Ventas y marketing",
   "82101600": "Publicidad en medios no impresos",
@@ -14,88 +14,6 @@
   "83121700": "Comunicación social y de masas"
  },
  "filas": [
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "difusión",
-    "publicidad",
-    "publicitarios"
-   ],
-   "nueva": false,
-   "codigo": "613-33-COT26",
-   "nombre": "Adquisición de elementos gráficos de difusión institucional para la SEREMI MINVU Región de Aysén",
-   "organismo": "Ministerio de Vivienda y Urbanismo",
-   "unidad": "SEREMI MINVU XI REGION",
-   "monto": 874616,
-   "cierre_iso": "2026-10-24T08:00:00-03:00",
-   "publicacion": "21-10 19:25",
-   "publicacion_iso": "2026-10-21T19:25:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "82101507",
-     "Folletos y catálogos publicitarios, servicios de publicidad y distribución",
-     1,
-     "Adquisición de elementos de difusión institucional para la SEREMI MINVU Región de Aysén, que contempla: 4 banderas institucionales tipo vela de 100 x 300 cm,  base y accesorios; 1 tela de poliéster de 225 x 350 cm para módulo araña curvo; y 2 mini pendones de sobremesa, uno blanco y otro azul, con sus respectivos soportes, 1 pendon de 100*200 cm. Los productos deberán cumplir con las especificaciones técnicas y gráficas adjuntas. Entrega en Freire N° 3, Coyhaique."
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=613-33-COT26",
-   "sin_detalle": false,
-   "descripcion": "Adquisición de elementos de difusión institucional para la SEREMI MINVU Región de Aysén, que contempla: 4 banderas institucionales tipo vela de 100 x 300 cm,  base y accesorios; 1 tela de poliéster de 225 x 350 cm para módulo araña curvo; y 2 mini pendones de sobremesa, uno blanco y otro azul, con sus respectivos soportes, 1 pendon de 100*200 cm. Los productos deberán cumplir con las especificaciones técnicas y gráficas adjuntas. Entrega en Freire N° 3, Coyhaique."
-  },
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "difusión",
-    "marketing",
-    "publicitaria"
-   ],
-   "nueva": true,
-   "codigo": "3797-492-COT26",
-   "nombre": "MATERIAL APOYO MARKETING FERIAS",
-   "organismo": "I MUNICIPALIDAD DE COCHRANE",
-   "unidad": "I MUNICIPALIDAD DE COCHRANE",
-   "monto": 2770000,
-   "cierre_iso": "2026-10-24T08:40:00-03:00",
-   "publicacion": "23-10 08:38",
-   "publicacion_iso": "2026-10-23T08:38:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "82121505",
-     "Impresión promocional o publicitaria",
-     2000,
-     "Tríptico servicios de Cochrane, papel couche 130 gr, 4*4 colores, tamaño oficio.\n2 diseños distintos entregado por Municipalidad de Cochrane.\nSe deben considerar las exigencias indicadas en el documento adjunto."
-    ],
-    [
-     "82121505",
-     "Impresión promocional o publicitaria",
-     2,
-     "Trovicel 5mm Emplacado Personalizado Resistente 40*25cm.\n2 diseños distintos entregado por Municipalidad de Cochrane.\nSe deben considerar las exigencias indicadas en el documento adjunto."
-    ],
-    [
-     "82121505",
-     "Impresión promocional o publicitaria",
-     6,
-     "Trovicel 5mm Emplacado Personalizado Resistente 80*30cm.\nDiseñosentregado por Municipalidad de Cochrane.\nSe deben considerar las exigencias indicadas en el documento adjunto."
-    ],
-    [
-     "82121505",
-     "Impresión promocional o publicitaria",
-     3,
-     "Letrero acrílico, tamaño carta con diseño Casa Mate y QR agrupación de guías, Municipalidad de Cochrane, Cámara Com. y Turismo.\nTrovicel 5mm Emplacado Personalizado Resistente 40*25cm.\nDiseños entregados por Municipalidad de Cochrane.\nSe deben considerar las exigencias indicadas en el documento adjunto."
-    ],
-    [
-     "82121505",
-     "Impresión promocional o publicitaria",
-     18,
-     "Sobre de 10 unidades de papel fotográfico instantáneo, compatible con cámara \"Intax Wide 300\"\nSe deben considerar las exigencias indicadas en el documento adjunto."
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=3797-492-COT26",
-   "sin_detalle": false,
-   "descripcion": "Adquisición de material de apoyo destinado a fortalecer la participación, promoción y difusión de los servicios turísticos y emprendimientos locales de la comuna de Cochrane."
-  },
   {
    "tipo": "POSIBLE",
    "motivos": [
@@ -526,6 +444,46 @@
    "primera_vista_iso": "2026-10-22T11:01:40-03:00",
    "removida_iso": "2026-10-22T12:57:35-03:00",
    "estado_api": "",
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
+  {
+   "codigo": "3797-492-COT26",
+   "nombre": "MATERIAL APOYO MARKETING FERIAS",
+   "organismo": "I MUNICIPALIDAD DE COCHRANE",
+   "monto": 2770000,
+   "cierre_iso": "2026-10-24T08:40:00-03:00",
+   "tipo": "POSIBLE",
+   "motivos": [
+    "difusión",
+    "marketing",
+    "publicitaria"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=3797-492-COT26",
+   "primera_vista_iso": "2026-10-23T11:19:19-03:00",
+   "removida_iso": "2026-10-24T10:26:01-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
+  {
+   "codigo": "613-33-COT26",
+   "nombre": "Adquisición de elementos gráficos de difusión institucional para la SEREMI MINVU Región de Aysén",
+   "organismo": "Ministerio de Vivienda y Urbanismo",
+   "monto": 874616,
+   "cierre_iso": "2026-10-24T08:00:00-03:00",
+   "tipo": "POSIBLE",
+   "motivos": [
+    "difusión",
+    "publicidad",
+    "publicitarios"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=613-33-COT26",
+   "primera_vista_iso": "2026-10-21T19:54:17-03:00",
+   "removida_iso": "2026-10-24T10:26:01-03:00",
+   "estado_api": null,
    "adj_nombre": null,
    "adj_monto": null,
    "adj_iso": null
