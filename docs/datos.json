@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-10-24T16:35:55.279888-03:00",
+ "actualizado": "2026-10-24T19:36:09.601569-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
- "total_region": 224,
+ "total_region": 223,
  "rubros": {
   "80141600": "Ventas y marketing",
   "82101600": "Publicidad en medios no impresos",
@@ -109,7 +109,7 @@
    "motivos": [
     "Ventas y marketing"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "3622-18-COT26",
    "nombre": "Servicio de producción de eventos Conmemoración Día del Funcionario Municipal 2026",
    "organismo": "I MUNICIPALIDAD DE O HIGGINS",
@@ -163,7 +163,7 @@
    "motivos": [
     "Ventas y marketing"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "2495-578-COT26",
    "nombre": "PRODUCCION ENCUENTRO DE CHAMAME",
    "organismo": "I MUNICIPALIDAD DE COYHAIQUE",
@@ -217,7 +217,7 @@
    "motivos": [
     "Ventas y marketing"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "1286987-46-COT26",
    "nombre": "Evento de producción para eventos deportivos recreativos",
    "organismo": "Corporación Municipal de Deportes y Recreación Coy",

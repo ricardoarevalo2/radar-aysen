@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-10-24T16:35:55.279888-03:00",
+ "actualizado": "2026-10-24T19:36:09.601569-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
- "total_region": 224,
+ "total_region": 223,
  "rubros": {
   "25172700": "Aire acondicionado",
   "25173900": "Componentes eléctricos",
@@ -196,7 +196,7 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=4889-41-COT26",
    "primera_vista_iso": "2026-10-14T16:56:08-03:00",
    "removida_iso": "2026-10-24T16:35:55-03:00",
-   "estado_api": null,
+   "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,
    "adj_iso": null
@@ -906,43 +906,6 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=3950-657-COT26",
    "primera_vista_iso": "2026-10-16T14:53:21-03:00",
    "removida_iso": "2026-10-19T08:59:27-03:00",
-   "estado_api": "",
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "3540-255-COT26",
-   "nombre": "Contactores magnético trifásico para hormigonera Emaresa (P.2426)",
-   "organismo": "Ejercito de Chile",
-   "monto": 300000,
-   "cierre_iso": "2026-10-17T18:36:00-03:00",
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Interruptores, controles y relés"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=3540-255-COT26",
-   "primera_vista_iso": "2026-10-11T21:06:47-03:00",
-   "removida_iso": "2026-10-17T18:47:40-03:00",
-   "estado_api": "",
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "1343644-107-COT26",
-   "nombre": "Repuestos y Accesorios Barcaza Integración de la Ilustre Municipalidad de O\"higgins",
-   "organismo": "I MUNICIPALIDAD DE O HIGGINS",
-   "monto": 2000000,
-   "cierre_iso": "2026-10-17T18:12:00-03:00",
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Conectores, enchufes y terminales",
-    "Interruptores, controles y relés"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1343644-107-COT26",
-   "primera_vista_iso": "2026-10-15T17:55:27-03:00",
-   "removida_iso": "2026-10-17T18:47:40-03:00",
    "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,
