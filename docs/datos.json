@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-10-24T10:26:01.697254-03:00",
+ "actualizado": "2026-10-24T13:46:15.627611-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
- "total_region": 246,
+ "total_region": 235,
  "rubros": {
   "80141600": "Ventas y marketing",
   "82101600": "Publicidad en medios no impresos",
@@ -14,106 +14,6 @@
   "83121700": "Comunicación social y de masas"
  },
  "filas": [
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "difusion",
-    "radial",
-    "redes sociales",
-    "television"
-   ],
-   "nueva": true,
-   "codigo": "4140-97-COT26",
-   "nombre": "DIFUSION DIGITAL PARA PROMOSION DE LAS ACTIVIDADES NIÑEZ Y PATRIMONIO ",
-   "organismo": "I MUNICIPALIDAD DE LAGO VERDE",
-   "unidad": "Adquisiciones",
-   "monto": 500000,
-   "cierre_iso": "2026-10-24T11:00:00-03:00",
-   "publicacion": "23-10 10:36",
-   "publicacion_iso": "2026-10-23T10:36:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "55101519",
-     "Publicaciones periódicas",
-     6,
-     "PUBLICACIONES DIGITALES DE DIFUSION PREVIA: PUBLICACIONES EN REDES SOCIALES Y MEDIOS DIGITALES DURANTE LAS SEMANAS PREVIAS AL INICIO DE LAS ACTIVIDADES, INCLUYENDO LANZAMIENTO DEL PROYECTO, INFORMACION DE LOS TALLERES, FECHAS, LUGARES Y CONVOCATORIA DIRIGIDA A LOS NIÑOS, NIÑAS, ADOLESCENTES Y SUS FAMILIAS"
-    ],
-    [
-     "55101519",
-     "Publicaciones periódicas",
-     2,
-     "ARTICULOS DEL PROYECTO EN EL SITIO WEB DEL PROVEEDOR; PUBLICACION DE CONTENIDOS EN DOS INSTANCIAS; UNA PRIMERA PUBLICACION PARA PRESENTAR Y PROMOCIONAR EL PROYECTO ANTES DEL INICIO DE LAS ACTIVIDADES Y UNA SEGUNDA PARA INFORMAR SOBRE LOS RESULTADOS FINALES Y LOS PRODUCTOS OBTENIDOS."
-    ],
-    [
-     "55101519",
-     "Publicaciones periódicas",
-     10,
-     "DIFUSION RADIAL O TELEVISIVA DIGITAL: MENCIONES A TRAVES DE RADIOS, CANALES DE TELEVISION U OTRAS PLATAFORMAS DE COMUNICACION DIGITAL DURANTE EL PERIODO DE CONVOCATORIA PREVIO AL INICIO DE LAS ACTIVIDADES, ENTREGANDO INFORMACION SOBRE EL PROYECTO Y MOTIVANDO LA PARTICIPACION DE LA COMUNIDAD"
-    ],
-    [
-     "55101519",
-     "Publicaciones periódicas",
-     2,
-     "PUBLICACIONES DIGITALES DE LA CEREMONIA DE CIERRE: PUBLICACIONES DESTINADAS A ANUNCIAR PREVIAMENTE LA CEREMONIA DE CIERRE Y POSTERIORMENTE, COMUNICAR SU REALIZACION, DESTACANDO SUS PRINCIPALES HITOS Y RESULTADOS."
-    ],
-    [
-     "55101519",
-     "Publicaciones periódicas",
-     1,
-     "PUBLICACION DE RESULTADOS EN REDES SOCIALES; PUBLICACION DESTINADA A PRESENTAR LOS PRINCIPALES RESULTADOS, PRODUCTOS Y APRENDIZAJES DEL PROYECTO, INCLUYENDO LA PRESENTACION DEL LIBRO Y EL RECONOCIMIENTO A LA PARTICIPACION DE LOS NIÑOS, NIÑAS Y ADOLESCENTES"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=4140-97-COT26",
-   "sin_detalle": false,
-   "descripcion": "SE REQUIERE REALIZAR DIFUSION DIGITAL PARA LA PROMOCION DE LAS ACTIVIDADES DEL PROYECTO NIÑEZ Y PATRIMONIO"
-  },
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "audiovisual",
-    "difusion"
-   ],
-   "nueva": true,
-   "codigo": "4140-98-COT26",
-   "nombre": "SE REQUIERE SERVICIO DE CREACION Y DIAGRAMACION DE PUBLICACION INFANTIL PATRIMONIAL MEDIANTES TALLES PARTICIPATIVOS",
-   "organismo": "I MUNICIPALIDAD DE LAGO VERDE",
-   "unidad": "Adquisiciones",
-   "monto": 6636200,
-   "cierre_iso": "2026-10-24T11:10:00-03:00",
-   "publicacion": "23-10 11:08",
-   "publicacion_iso": "2026-10-23T11:08:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "94121704",
-     "Clubes de aficionados o talleres de bellas artes",
-     9,
-     "SERVICIO EJECUCION DE TALLERES: DISEÑO, PLANIFICACION, DESARROLLO METODOLOGICO Y TRABAJO CON NIÑOS, NIÑAS Y ADOLESCENTES( CONTAR CON CERTIFICADO DE INHABILIDAD) DE TALLERES CREATIVOS EN 3 LOCALIDADES LAGOVERDE, AMENGUAL Y TAPERA. EL DISEÑO DEBE ESTAR DIRIGIDO A 60 NNA DE LA COMUNA LOS CUALES SE REALIZARAN EN LA ESCUELA DE CADA LOCALIDAD CON UNA DURACION DE 1 HORA Y 30 MINUTOS"
-    ],
-    [
-     "94121704",
-     "Clubes de aficionados o talleres de bellas artes",
-     1,
-     "SERVICIO EDITORIAL: ESTRUCTURACION Y ORGANIZACION DE LOS CONTENIDOS, EDICION Y CORRECCION DE TEXTOS, DIG Y TRATAMIENTO GRAFICO DE LAS OBRAS, DISEÑOS Y DIAGRAMACION EDITORIAL, PRES. DE LOS PARTICIPANTES U SUS PROCESOS CREATIVOS , REGISTRO FOTOGRAFICO DEL TERRITORIO Y LA IDENTIDAD LOCAL, ELABORACION DE RECURSOS GRAFICOS COMPLEMENTARIOS, DISEÑO PORTADA Y CONTRAPORTADA, INCORPORACION DE INTEGRANTES AL PROYECTO, PREPARACION DE ARCHIV. PARA IMPRESION Y ENTREGA DE LOS RECURSOS GRAFICO Y ARCHIVOS FINALE"
-    ],
-    [
-     "94121704",
-     "Clubes de aficionados o talleres de bellas artes",
-     1,
-     "SERV. LOGISTICO Y APOYO OPERATIVO: COORDINACION PRESENCIALMENTE CON LA CONTRAPARTE TEC MUN. PLANIF Y SEGUIMIENTO DE LA ACTIVIDADES, ASUMIR LA ORG. Y JECUCION OPERATIVA DE CADA JORNADA, INCLUYENDO LA PREPARACION, HABILITACION Y ORDENAMIENTO Y LIMPIEZA DE LOS ESPACIOS UTILIZADOS Y PROPORCIONAR COLACIONES ADECUADAS PARA NINOS (AS)DE CADA UNA DEDE LAS 9 JORNADASDE TALLERES, CONSIDERANDO CONDICIONES HIGIENICASY CRITRIOS DE ALIMENTACION SALUDABLE. ASUMIR COSTOS DE TRASLADOSDEL EQUIP EJECUTOR"
-    ],
-    [
-     "94121704",
-     "Clubes de aficionados o talleres de bellas artes",
-     1,
-     "SERV. DE CIERRE Y DIFUSION COMUNITARIA : REGISTRO FOTOGRAFICO Y AUDIOVISUAL PROFESIONAL DEL PROCESO COMPLETO EN LAS LOCALIDADES LAGO VERDE, VILLA LA TAPERA Y VILLA AMENGIAL, INCLUYENDO LA ELABORACION DE UNA PIEZA AUDIOVISUAL EDITADA DE AL MENOS DOS MINUTOS QUE DOCUMENTE EL PROCESO CREATIVO ( MAS ESPECIFICACION EN ADJUNTO)"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=4140-98-COT26",
-   "sin_detalle": false,
-   "descripcion": "SE REQUIERE SERVICIO DE CREACION Y DIAGRAMACION DE PUBLICACION INFANTIL PATRIMONIAL MEDIANTES TALLES PARTICIPATIVOS PROYECTO NIÑEZ Y PATRIMONIO"
-  },
   {
    "tipo": "OPORTUNIDAD",
    "motivos": [
@@ -146,7 +46,7 @@
    "motivos": [
     "publicitaria"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "3950-688-COT26",
    "nombre": "Adquisición de material impreso para campañas de prevención del suicidio.",
    "organismo": "DIRECCION SALUD RURAL",
@@ -444,6 +344,46 @@
    "primera_vista_iso": "2026-10-22T11:01:40-03:00",
    "removida_iso": "2026-10-22T12:57:35-03:00",
    "estado_api": "",
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
+  {
+   "codigo": "4140-98-COT26",
+   "nombre": "SE REQUIERE SERVICIO DE CREACION Y DIAGRAMACION DE PUBLICACION INFANTIL PATRIMONIAL MEDIANTES TALLES PARTICIPATIVOS",
+   "organismo": "I MUNICIPALIDAD DE LAGO VERDE",
+   "monto": 6636200,
+   "cierre_iso": "2026-10-24T11:10:00-03:00",
+   "tipo": "POSIBLE",
+   "motivos": [
+    "audiovisual",
+    "difusion"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=4140-98-COT26",
+   "primera_vista_iso": "2026-10-23T11:19:19-03:00",
+   "removida_iso": "2026-10-24T13:46:15-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
+  {
+   "codigo": "4140-97-COT26",
+   "nombre": "DIFUSION DIGITAL PARA PROMOSION DE LAS ACTIVIDADES NIÑEZ Y PATRIMONIO ",
+   "organismo": "I MUNICIPALIDAD DE LAGO VERDE",
+   "monto": 500000,
+   "cierre_iso": "2026-10-24T11:00:00-03:00",
+   "tipo": "POSIBLE",
+   "motivos": [
+    "difusion",
+    "radial",
+    "redes sociales",
+    "television"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=4140-97-COT26",
+   "primera_vista_iso": "2026-10-23T11:19:19-03:00",
+   "removida_iso": "2026-10-24T13:46:15-03:00",
+   "estado_api": null,
    "adj_nombre": null,
    "adj_monto": null,
    "adj_iso": null

@@ -1,25 +1,4 @@
 {
- "1274667-388-COT26": {
-  "codigo": "1274667-388-COT26",
-  "nombre": "RVB - SOLICITA SERVICIO MANTENCIÓN CORRECTIVA PARA GRUPO GENERADOR  CATERPILLAR DE CENTRO DE SALUD FAMILIAR PUERTO AYSÉN",
-  "organismo": "CENTRO DE SALUD FAMILIAR PUERTO AYSÉN",
-  "unidad": "CENTRO DE SALUD FAMILIAR PUERTO AYSÉN",
-  "monto": 150000,
-  "cierre_iso": "2026-10-17T12:49:00-03:00",
-  "tipo": "POSIBLE",
-  "motivos": [
-   "generador"
-  ],
-  "link": "https://buscador.mercadopublico.cl/ficha?code=1274667-388-COT26",
-  "primera_vista_iso": "2026-10-11T21:06:47-03:00",
-  "ultima_activa_iso": "2026-10-17T12:49:03-03:00",
-  "removida_iso": "2026-10-17T13:50:09-03:00",
-  "estado_api": "",
-  "adj_nombre": null,
-  "adj_monto": null,
-  "adj_iso": null,
-  "adj_revisado_iso": "2026-10-24T10:26:01-03:00"
- },
  "3540-255-COT26": {
   "codigo": "3540-255-COT26",
   "nombre": "Contactores magnético trifásico para hormigonera Emaresa (P.2426)",
@@ -76,7 +55,7 @@
   ],
   "link": "https://buscador.mercadopublico.cl/ficha?code=711-194-COT26",
   "primera_vista_iso": "2026-10-11T21:06:47-03:00",
-  "ultima_activa_iso": "2026-10-24T10:26:01-03:00",
+  "ultima_activa_iso": "2026-10-24T13:46:15-03:00",
   "removida_iso": null,
   "estado_api": "",
   "adj_nombre": null,
@@ -97,7 +76,7 @@
   ],
   "link": "https://buscador.mercadopublico.cl/ficha?code=4066-419-COT26",
   "primera_vista_iso": "2026-10-13T15:51:46-03:00",
-  "ultima_activa_iso": "2026-10-24T10:26:01-03:00",
+  "ultima_activa_iso": "2026-10-24T13:46:15-03:00",
   "removida_iso": null,
   "estado_api": "",
   "adj_nombre": null,
@@ -166,7 +145,7 @@
   "adj_nombre": null,
   "adj_monto": null,
   "adj_iso": null,
-  "adj_revisado_iso": "2026-10-23T21:52:30-03:00"
+  "adj_revisado_iso": "2026-10-24T13:46:15-03:00"
  },
  "3540-274-COT26": {
   "codigo": "3540-274-COT26",
@@ -187,7 +166,7 @@
   "adj_nombre": null,
   "adj_monto": null,
   "adj_iso": null,
-  "adj_revisado_iso": "2026-10-23T21:52:30-03:00"
+  "adj_revisado_iso": "2026-10-24T13:46:15-03:00"
  },
  "4889-41-COT26": {
   "codigo": "4889-41-COT26",
@@ -202,7 +181,7 @@
   ],
   "link": "https://buscador.mercadopublico.cl/ficha?code=4889-41-COT26",
   "primera_vista_iso": "2026-10-14T16:56:08-03:00",
-  "ultima_activa_iso": "2026-10-24T10:26:01-03:00",
+  "ultima_activa_iso": "2026-10-24T13:46:15-03:00",
   "removida_iso": null,
   "estado_api": null,
   "adj_nombre": null,
@@ -229,28 +208,7 @@
   "adj_nombre": null,
   "adj_monto": null,
   "adj_iso": null,
-  "adj_revisado_iso": "2026-10-23T21:52:30-03:00"
- },
- "4609-281-COT26": {
-  "codigo": "4609-281-COT26",
-  "nombre": "RELOJ CONTROL  BIOMETRICO Y OTROS",
-  "organismo": "I MUNICIPALIDAD DE CHILE CHICO",
-  "unidad": "Finanzas",
-  "monto": 3600000,
-  "cierre_iso": "2026-10-17T11:46:00-03:00",
-  "tipo": "OPORTUNIDAD",
-  "motivos": [
-   "Cajas y accesorios eléctricos"
-  ],
-  "link": "https://buscador.mercadopublico.cl/ficha?code=4609-281-COT26",
-  "primera_vista_iso": "2026-10-15T08:55:42-03:00",
-  "ultima_activa_iso": "2026-10-17T10:50:25-03:00",
-  "removida_iso": "2026-10-17T11:48:33-03:00",
-  "estado_api": "",
-  "adj_nombre": null,
-  "adj_monto": null,
-  "adj_iso": null,
-  "adj_revisado_iso": "2026-10-23T21:52:30-03:00"
+  "adj_revisado_iso": "2026-10-24T13:46:15-03:00"
  },
  "3431-116-COT26": {
   "codigo": "3431-116-COT26",
@@ -271,7 +229,7 @@
   "adj_nombre": null,
   "adj_monto": null,
   "adj_iso": null,
-  "adj_revisado_iso": "2026-10-23T21:52:30-03:00"
+  "adj_revisado_iso": "2026-10-24T13:46:15-03:00"
  },
  "1343644-107-COT26": {
   "codigo": "1343644-107-COT26",
@@ -293,7 +251,7 @@
   "adj_nombre": null,
   "adj_monto": null,
   "adj_iso": null,
-  "adj_revisado_iso": "2026-10-22T19:54:36-03:00"
+  "adj_revisado_iso": "2026-10-24T13:46:15-03:00"
  },
  "2713-1258-COT26": {
   "codigo": "2713-1258-COT26",
@@ -945,7 +903,7 @@
   ],
   "link": "https://buscador.mercadopublico.cl/ficha?code=1905-77-COT26",
   "primera_vista_iso": "2026-10-21T16:55:28-03:00",
-  "ultima_activa_iso": "2026-10-24T10:26:01-03:00",
+  "ultima_activa_iso": "2026-10-24T13:46:15-03:00",
   "removida_iso": null,
   "estado_api": null,
   "adj_nombre": null,
@@ -987,7 +945,7 @@
   ],
   "link": "https://buscador.mercadopublico.cl/ficha?code=1458-25-COT26",
   "primera_vista_iso": "2026-10-22T12:57:35-03:00",
-  "ultima_activa_iso": "2026-10-24T10:26:01-03:00",
+  "ultima_activa_iso": "2026-10-24T13:46:15-03:00",
   "removida_iso": null,
   "estado_api": null,
   "adj_nombre": null,
@@ -1008,7 +966,7 @@
   ],
   "link": "https://buscador.mercadopublico.cl/ficha?code=2042-372-COT26",
   "primera_vista_iso": "2026-10-22T16:57:20-03:00",
-  "ultima_activa_iso": "2026-10-24T10:26:01-03:00",
+  "ultima_activa_iso": "2026-10-24T13:46:15-03:00",
   "removida_iso": null,
   "estado_api": null,
   "adj_nombre": null,
@@ -1029,7 +987,7 @@
   ],
   "link": "https://buscador.mercadopublico.cl/ficha?code=1458-26-COT26",
   "primera_vista_iso": "2026-10-22T17:57:00-03:00",
-  "ultima_activa_iso": "2026-10-24T10:26:01-03:00",
+  "ultima_activa_iso": "2026-10-24T13:46:15-03:00",
   "removida_iso": null,
   "estado_api": null,
   "adj_nombre": null,
@@ -1050,7 +1008,7 @@
   ],
   "link": "https://buscador.mercadopublico.cl/ficha?code=1233615-852-COT26",
   "primera_vista_iso": "2026-10-23T15:31:59-03:00",
-  "ultima_activa_iso": "2026-10-24T10:26:01-03:00",
+  "ultima_activa_iso": "2026-10-24T13:46:15-03:00",
   "removida_iso": null,
   "estado_api": null,
   "adj_nombre": null,
