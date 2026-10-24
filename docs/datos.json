@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-10-23T19:25:33.052809-03:00",
+ "actualizado": "2026-10-23T21:52:30.258422-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
- "total_region": 262,
+ "total_region": 260,
  "rubros": {
   "80141600": "Ventas y marketing",
   "82101600": "Publicidad en medios no impresos",
@@ -14,47 +14,6 @@
   "83121700": "Comunicación social y de masas"
  },
  "filas": [
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "difusión",
-    "publicidad",
-    "publicitarios"
-   ],
-   "nueva": false,
-   "codigo": "2495-564-COT26",
-   "nombre": "Adquisición de folletería y pelotas antiestrés para la difusión del Programa SENDA Previene 2026.",
-   "organismo": "I MUNICIPALIDAD DE COYHAIQUE",
-   "unidad": "DIRECCION DESARROLLO COMUNITARIO",
-   "monto": 200000,
-   "cierre_iso": "2026-10-23T21:00:00-03:00",
-   "publicacion": "19-10 16:54",
-   "publicacion_iso": "2026-10-19T16:54:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "82101507",
-     "Folletos y catálogos publicitarios, servicios de publicidad y distribución",
-     100,
-     "Estrella antiestrés personalizable (75?×?75?×?35?mm ˜ 3,7?cm de ancho): espuma blanda, colores vivos, disponible en blanco, azul"
-    ],
-    [
-     "82101507",
-     "Folletos y catálogos publicitarios, servicios de publicidad y distribución",
-     100,
-     "Folleteria 1412 medidas 14.5x21.5 cm"
-    ],
-    [
-     "82101507",
-     "Folletos y catálogos publicitarios, servicios de publicidad y distribución",
-     100,
-     "folleteri ¿Qué es senda? Medidas 14.5x21.5 cm"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=2495-564-COT26",
-   "sin_detalle": false,
-   "descripcion": "Adquisición de estrellas antiestrés personalizables y folletería informativa “¿Qué es SENDA?” y “1412 Escucha y Orienta”, para fortalecer la difusión del Programa SENDA Previene 2026, promover factores protectores y sensibilizar a la comunidad sobre la prevención del consumo de alcohol y otras drogas."
-  },
   {
    "tipo": "POSIBLE",
    "motivos": [
@@ -572,6 +531,26 @@
    "adj_iso": null
   },
   {
+   "codigo": "2495-564-COT26",
+   "nombre": "Adquisición de folletería y pelotas antiestrés para la difusión del Programa SENDA Previene 2026.",
+   "organismo": "I MUNICIPALIDAD DE COYHAIQUE",
+   "monto": 200000,
+   "cierre_iso": "2026-10-23T21:00:00-03:00",
+   "tipo": "POSIBLE",
+   "motivos": [
+    "difusión",
+    "publicidad",
+    "publicitarios"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=2495-564-COT26",
+   "primera_vista_iso": "2026-10-19T16:57:34-03:00",
+   "removida_iso": "2026-10-23T21:52:30-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
+  {
    "codigo": "1234-14-COT26",
    "nombre": "SERVICIO SATELITAL PARA ANTENA STARLINK",
    "organismo": "DIRECCIÓN REGIONAL ADUANA DE COYHAIQUE",
@@ -710,7 +689,7 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=828-49-COT26",
    "primera_vista_iso": "2026-10-15T17:55:27-03:00",
    "removida_iso": "2026-10-23T11:19:19-03:00",
-   "estado_api": null,
+   "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,
    "adj_iso": null
