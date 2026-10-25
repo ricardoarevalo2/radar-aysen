@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-10-24T22:21:29.532338-03:00",
+ "actualizado": "2026-10-25T10:47:48.504581-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
- "total_region": 223,
+ "total_region": 210,
  "rubros": {
   "80141600": "Ventas y marketing",
   "82101600": "Publicidad en medios no impresos",
@@ -40,6 +40,33 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=1343644-108-COT26",
    "sin_detalle": false,
    "descripcion": "Servicio de producción con la finalidad de realizar una jornada de\nencuentro comunitario en torno a la conmemoración del mes de las personas mayores en la comuna; destinada a reconocer el rol que cumplen las personas mayores en el desarrollo de la población."
+  },
+  {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Ventas y marketing"
+   ],
+   "nueva": true,
+   "codigo": "1195-539-COT26",
+   "nombre": "Servicio de producción para tercer encuentro de acordeonista en villa Frei",
+   "organismo": "I MUNICIPALIDAD DE COYHAIQUE",
+   "unidad": "Ilustre Municipalidad de Coyhaique",
+   "monto": 4100000,
+   "cierre_iso": "2026-10-26T08:00:00-03:00",
+   "publicacion": "24-10 23:56",
+   "publicacion_iso": "2026-10-24T23:56:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "80141607",
+     "Producción de eventos",
+     1,
+     "SERVICIO DE PRODUCCION PARA TERCER ENCUENTRO DE ACORDEONISTAS EN VILLA FREI PARA EL DIA 31 DE OCTUBRE DE 2026, COTIZACION SEGUN ANEXO ADJUNTO"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1195-539-COT26",
+   "sin_detalle": false,
+   "descripcion": "SERVICIO DE PRODUCCION PARA TERCER ENCUENTRO DE ACORDEONISTAS EN VILLA FREI PARA EL DIA 31 DE OCTUBRE DE 2026, COTIZACION SEGUN ANEXO ADJUNTO"
   },
   {
    "tipo": "POSIBLE",
