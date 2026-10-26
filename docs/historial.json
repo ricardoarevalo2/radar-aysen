@@ -20,27 +20,6 @@
   "adj_iso": null,
   "adj_revisado_iso": "2026-10-26T13:13:41-03:00"
  },
- "4778-319-COT26": {
-  "codigo": "4778-319-COT26",
-  "nombre": "RELE- SOLICITUD N° 10134-MEL- MEJORAMIEN ENTORNO LABORAL-DEBE INCLUIR DESPACHO",
-  "organismo": "SERVICIO NACIONAL DE SALUD HOSPITAL DE C",
-  "unidad": "Compras de Insumos y Servicios Generales",
-  "monto": 6481800,
-  "cierre_iso": "2026-10-19T17:00:00-03:00",
-  "tipo": "POSIBLE",
-  "motivos": [
-   "radio"
-  ],
-  "link": "https://buscador.mercadopublico.cl/ficha?code=4778-319-COT26",
-  "primera_vista_iso": "2026-10-14T14:56:34-03:00",
-  "ultima_activa_iso": "2026-10-19T16:06:33-03:00",
-  "removida_iso": "2026-10-19T16:57:34-03:00",
-  "estado_api": "",
-  "adj_nombre": null,
-  "adj_monto": null,
-  "adj_iso": null,
-  "adj_revisado_iso": "2026-10-26T13:13:41-03:00"
- },
  "4144-304-COT26": {
   "codigo": "4144-304-COT26",
   "nombre": "Se requiere la adquisicion de un equipo de radio portatil para la localidad de Villa Amengual",
@@ -336,7 +315,7 @@
   "adj_nombre": null,
   "adj_monto": null,
   "adj_iso": null,
-  "adj_revisado_iso": "2026-10-22T19:54:36-03:00"
+  "adj_revisado_iso": "2026-10-26T18:06:24-03:00"
  },
  "1195-527-COT26": {
   "codigo": "1195-527-COT26",
@@ -357,7 +336,7 @@
   "adj_nombre": null,
   "adj_monto": null,
   "adj_iso": null,
-  "adj_revisado_iso": "2026-10-22T19:54:36-03:00"
+  "adj_revisado_iso": "2026-10-26T18:06:24-03:00"
  },
  "3950-674-COT26": {
   "codigo": "3950-674-COT26",
@@ -378,7 +357,7 @@
   "adj_nombre": null,
   "adj_monto": null,
   "adj_iso": null,
-  "adj_revisado_iso": "2026-10-22T19:54:36-03:00"
+  "adj_revisado_iso": "2026-10-26T18:06:24-03:00"
  },
  "3431-118-COT26": {
   "codigo": "3431-118-COT26",
@@ -395,11 +374,11 @@
   "primera_vista_iso": "2026-10-20T12:57:59-03:00",
   "ultima_activa_iso": "2026-10-22T22:11:34-03:00",
   "removida_iso": "2026-10-23T11:19:19-03:00",
-  "estado_api": null,
+  "estado_api": "",
   "adj_nombre": null,
   "adj_monto": null,
   "adj_iso": null,
-  "adj_revisado_iso": null
+  "adj_revisado_iso": "2026-10-26T18:06:24-03:00"
  },
  "2713-1268-COT26": {
   "codigo": "2713-1268-COT26",
@@ -420,7 +399,7 @@
   "adj_nombre": null,
   "adj_monto": null,
   "adj_iso": null,
-  "adj_revisado_iso": "2026-10-22T19:54:36-03:00"
+  "adj_revisado_iso": "2026-10-26T18:06:24-03:00"
  },
  "3797-483-COT26": {
   "codigo": "3797-483-COT26",
@@ -739,7 +718,7 @@
   ],
   "link": "https://buscador.mercadopublico.cl/ficha?code=4140-97-COT26",
   "primera_vista_iso": "2026-10-23T11:19:19-03:00",
-  "ultima_activa_iso": "2026-10-26T16:26:03-03:00",
+  "ultima_activa_iso": "2026-10-26T18:06:24-03:00",
   "removida_iso": null,
   "estado_api": null,
   "adj_nombre": null,
@@ -931,7 +910,7 @@
   ],
   "link": "https://buscador.mercadopublico.cl/ficha?code=2495-580-COT26",
   "primera_vista_iso": "2026-10-26T13:13:41-03:00",
-  "ultima_activa_iso": "2026-10-26T16:26:03-03:00",
+  "ultima_activa_iso": "2026-10-26T18:06:24-03:00",
   "removida_iso": null,
   "estado_api": null,
   "adj_nombre": null,
@@ -952,7 +931,7 @@
   ],
   "link": "https://buscador.mercadopublico.cl/ficha?code=1494998-27-COT26",
   "primera_vista_iso": "2026-10-26T13:13:41-03:00",
-  "ultima_activa_iso": "2026-10-26T16:26:03-03:00",
+  "ultima_activa_iso": "2026-10-26T18:06:24-03:00",
   "removida_iso": null,
   "estado_api": null,
   "adj_nombre": null,
@@ -973,7 +952,7 @@
   ],
   "link": "https://buscador.mercadopublico.cl/ficha?code=854-29-COT26",
   "primera_vista_iso": "2026-10-26T13:13:41-03:00",
-  "ultima_activa_iso": "2026-10-26T16:26:03-03:00",
+  "ultima_activa_iso": "2026-10-26T18:06:24-03:00",
   "removida_iso": null,
   "estado_api": null,
   "adj_nombre": null,
@@ -994,7 +973,7 @@
   ],
   "link": "https://buscador.mercadopublico.cl/ficha?code=3791-1066-COT26",
   "primera_vista_iso": "2026-10-26T16:12:12-03:00",
-  "ultima_activa_iso": "2026-10-26T16:26:03-03:00",
+  "ultima_activa_iso": "2026-10-26T18:06:24-03:00",
   "removida_iso": null,
   "estado_api": null,
   "adj_nombre": null,
@@ -1015,7 +994,50 @@
   ],
   "link": "https://buscador.mercadopublico.cl/ficha?code=3791-1068-COT26",
   "primera_vista_iso": "2026-10-26T16:12:12-03:00",
-  "ultima_activa_iso": "2026-10-26T16:26:03-03:00",
+  "ultima_activa_iso": "2026-10-26T18:06:24-03:00",
+  "removida_iso": null,
+  "estado_api": null,
+  "adj_nombre": null,
+  "adj_monto": null,
+  "adj_iso": null,
+  "adj_revisado_iso": null
+ },
+ "2495-584-COT26": {
+  "codigo": "2495-584-COT26",
+  "nombre": "ADQUISICIÓN DE MATERIALES PARA LA DIFUSIÓN DEL PROGRAMA SENDA PREVIENE 2026 ",
+  "organismo": "I MUNICIPALIDAD DE COYHAIQUE",
+  "unidad": "DIRECCION DESARROLLO COMUNITARIO",
+  "monto": 200000,
+  "cierre_iso": "2026-10-29T21:00:00-03:00",
+  "tipo": "POSIBLE",
+  "motivos": [
+   "difusión",
+   "publicidad"
+  ],
+  "link": "https://buscador.mercadopublico.cl/ficha?code=2495-584-COT26",
+  "primera_vista_iso": "2026-10-26T18:06:24-03:00",
+  "ultima_activa_iso": "2026-10-26T18:06:24-03:00",
+  "removida_iso": null,
+  "estado_api": null,
+  "adj_nombre": null,
+  "adj_monto": null,
+  "adj_iso": null,
+  "adj_revisado_iso": null
+ },
+ "1208109-24-COT26": {
+  "codigo": "1208109-24-COT26",
+  "nombre": "Servicio de almuerzos y cenas para participantes del Encuentro Nacional de Participación",
+  "organismo": "SERVICIO NACIONAL DE PROTECCIÓN ESPECIALIZADA A LA NIÑEZ Y ADOLESCENCI",
+  "unidad": "DIRECCION REGIONAL AYSEN",
+  "monto": 370755,
+  "cierre_iso": "2026-10-30T10:00:00-03:00",
+  "tipo": "POSIBLE",
+  "motivos": [
+   "radio"
+  ],
+  "link": "https://buscador.mercadopublico.cl/ficha?code=1208109-24-COT26",
+  "primera_vista_iso": "2026-10-26T18:06:24-03:00",
+  "ultima_activa_iso": "2026-10-26T18:06:24-03:00",
   "removida_iso": null,
   "estado_api": null,
   "adj_nombre": null,

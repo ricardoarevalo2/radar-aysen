@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-10-26T16:26:03.612898-03:00",
+ "actualizado": "2026-10-26T18:06:24.825698-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
- "total_region": 194,
+ "total_region": 218,
  "rubros": {
   "25172700": "Aire acondicionado",
   "25173900": "Componentes eléctricos",
@@ -235,6 +235,36 @@
   {
    "tipo": "POSIBLE",
    "motivos": [
+    "certificación sec",
+    "eléctrico"
+   ],
+   "nueva": true,
+   "codigo": "886182-239-COT26",
+   "nombre": "Adquisición de 2 estufas de calefacción eléctrica_FISABS 2225",
+   "organismo": "UNIVERSIDAD DE AYSEN",
+   "unidad": "Universidad de Aysen",
+   "monto": 360000,
+   "cierre_iso": "2026-10-29T08:30:00-03:00",
+   "publicacion": "26-10 17:34",
+   "publicacion_iso": "2026-10-26T17:34:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "40101808",
+     "Estufas de la calefacción",
+     2,
+     "Se requiere 2 ESTUFAS ELECTRICAS DE CALEFACCIÓN. Producto nuevo. Rango de calefacción de 0 – 50 m2. Capacidad de calefacción de 0-37°. Panel Convector eléctrico. Consumo 1500 W. Wifi. Pantalla Led con control digital. Con certificación SEC. Debe incluir una garantía mínima de 6 meses. Según EETT adjunto."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=886182-239-COT26",
+   "sin_detalle": false,
+   "descripcion": "Se requiere cotizar 2 estufas de calefacción eléctrica según EETT\nadjunto (VER). Cotización debe indicar la especificación técnica\nde lo ofertado y el plazo de entrega en días hábiles, considerando\nla entrega de los productos en dependencias de la Universidad\nde Aysén y no en la empresa de transportes. El valor ofertado\ndebe incluir impuestos y flete. Se podrá privilegiar el menor plazo\nofertado que cumpla con lo especificado.",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
     "luminaria"
    ],
    "nueva": false,
@@ -403,7 +433,7 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=1274667-398-COT26",
    "primera_vista_iso": "2026-10-19T16:06:33-03:00",
    "removida_iso": "2026-10-23T11:19:19-03:00",
-   "estado_api": null,
+   "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,
    "adj_iso": null
@@ -860,24 +890,6 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=4626-32-COT26",
    "primera_vista_iso": "2026-10-11T21:06:47-03:00",
    "removida_iso": "2026-10-19T18:53:52-03:00",
-   "estado_api": "",
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "1281188-17-COT26",
-   "nombre": "Adquisición de 04 Plafones 24W y 02 Proyectores Led 40w con panel solar",
-   "organismo": "DELEGACIÓN PRESIDENCIAL PROVINCIAL DE CAPITÁN PRAT",
-   "monto": 214000,
-   "cierre_iso": "2026-10-19T16:30:00-03:00",
-   "tipo": "POSIBLE",
-   "motivos": [
-    "iluminación"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1281188-17-COT26",
-   "primera_vista_iso": "2026-10-16T16:50:54-03:00",
-   "removida_iso": "2026-10-19T16:57:34-03:00",
    "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,

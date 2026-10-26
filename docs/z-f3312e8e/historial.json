@@ -55,7 +55,7 @@
   ],
   "link": "https://buscador.mercadopublico.cl/ficha?code=4066-419-COT26",
   "primera_vista_iso": "2026-10-13T15:51:46-03:00",
-  "ultima_activa_iso": "2026-10-26T16:26:03-03:00",
+  "ultima_activa_iso": "2026-10-26T18:06:24-03:00",
   "removida_iso": null,
   "estado_api": "",
   "adj_nombre": null,
@@ -210,27 +210,6 @@
   "adj_iso": null,
   "adj_revisado_iso": "2026-10-26T16:26:03-03:00"
  },
- "1281188-17-COT26": {
-  "codigo": "1281188-17-COT26",
-  "nombre": "Adquisición de 04 Plafones 24W y 02 Proyectores Led 40w con panel solar",
-  "organismo": "DELEGACIÓN PRESIDENCIAL PROVINCIAL DE CAPITÁN PRAT",
-  "unidad": "Pasos Fronterizos Provincial de Capitán Prat",
-  "monto": 214000,
-  "cierre_iso": "2026-10-19T16:30:00-03:00",
-  "tipo": "POSIBLE",
-  "motivos": [
-   "iluminación"
-  ],
-  "link": "https://buscador.mercadopublico.cl/ficha?code=1281188-17-COT26",
-  "primera_vista_iso": "2026-10-16T16:50:54-03:00",
-  "ultima_activa_iso": "2026-10-19T16:06:33-03:00",
-  "removida_iso": "2026-10-19T16:57:34-03:00",
-  "estado_api": "",
-  "adj_nombre": null,
-  "adj_monto": null,
-  "adj_iso": null,
-  "adj_revisado_iso": "2026-10-26T16:26:03-03:00"
- },
  "1173433-18-COT26": {
   "codigo": "1173433-18-COT26",
   "nombre": "Adquisición de maquinaria y equipamiento para el fortalecimiento de las actividades productivas y de mantenimiento del C.E.T. de Valle Verde. ",
@@ -250,7 +229,7 @@
   "adj_nombre": null,
   "adj_monto": null,
   "adj_iso": null,
-  "adj_revisado_iso": "2026-10-22T16:57:20-03:00"
+  "adj_revisado_iso": "2026-10-26T18:06:24-03:00"
  },
  "1107283-173-COT26": {
   "codigo": "1107283-173-COT26",
@@ -271,7 +250,7 @@
   "adj_nombre": null,
   "adj_monto": null,
   "adj_iso": null,
-  "adj_revisado_iso": "2026-10-22T16:57:20-03:00"
+  "adj_revisado_iso": "2026-10-26T18:06:24-03:00"
  },
  "1758-245-COT26": {
   "codigo": "1758-245-COT26",
@@ -292,7 +271,7 @@
   "adj_nombre": null,
   "adj_monto": null,
   "adj_iso": null,
-  "adj_revisado_iso": "2026-10-22T17:57:00-03:00"
+  "adj_revisado_iso": "2026-10-26T18:06:24-03:00"
  },
  "1274667-398-COT26": {
   "codigo": "1274667-398-COT26",
@@ -309,11 +288,11 @@
   "primera_vista_iso": "2026-10-19T16:06:33-03:00",
   "ultima_activa_iso": "2026-10-22T22:11:34-03:00",
   "removida_iso": "2026-10-23T11:19:19-03:00",
-  "estado_api": null,
+  "estado_api": "",
   "adj_nombre": null,
   "adj_monto": null,
   "adj_iso": null,
-  "adj_revisado_iso": null
+  "adj_revisado_iso": "2026-10-26T18:06:24-03:00"
  },
  "1758-247-COT26": {
   "codigo": "1758-247-COT26",
@@ -334,7 +313,7 @@
   "adj_nombre": null,
   "adj_monto": null,
   "adj_iso": null,
-  "adj_revisado_iso": "2026-10-22T17:57:00-03:00"
+  "adj_revisado_iso": "2026-10-26T18:06:24-03:00"
  },
  "1758-246-COT26": {
   "codigo": "1758-246-COT26",
@@ -755,7 +734,7 @@
   ],
   "link": "https://buscador.mercadopublico.cl/ficha?code=2042-372-COT26",
   "primera_vista_iso": "2026-10-22T16:57:20-03:00",
-  "ultima_activa_iso": "2026-10-26T16:26:03-03:00",
+  "ultima_activa_iso": "2026-10-26T18:06:24-03:00",
   "removida_iso": null,
   "estado_api": null,
   "adj_nombre": null,
@@ -776,7 +755,7 @@
   ],
   "link": "https://buscador.mercadopublico.cl/ficha?code=1458-26-COT26",
   "primera_vista_iso": "2026-10-22T17:57:00-03:00",
-  "ultima_activa_iso": "2026-10-26T16:26:03-03:00",
+  "ultima_activa_iso": "2026-10-26T18:06:24-03:00",
   "removida_iso": null,
   "estado_api": null,
   "adj_nombre": null,
@@ -797,7 +776,7 @@
   ],
   "link": "https://buscador.mercadopublico.cl/ficha?code=1233615-852-COT26",
   "primera_vista_iso": "2026-10-23T15:31:59-03:00",
-  "ultima_activa_iso": "2026-10-26T16:26:03-03:00",
+  "ultima_activa_iso": "2026-10-26T18:06:24-03:00",
   "removida_iso": null,
   "estado_api": null,
   "adj_nombre": null,
@@ -818,7 +797,7 @@
   ],
   "link": "https://buscador.mercadopublico.cl/ficha?code=1274667-416-COT26",
   "primera_vista_iso": "2026-10-26T13:13:41-03:00",
-  "ultima_activa_iso": "2026-10-26T16:26:03-03:00",
+  "ultima_activa_iso": "2026-10-26T18:06:24-03:00",
   "removida_iso": null,
   "estado_api": null,
   "adj_nombre": null,
@@ -839,7 +818,7 @@
   ],
   "link": "https://buscador.mercadopublico.cl/ficha?code=3949-265-COT26",
   "primera_vista_iso": "2026-10-26T13:13:41-03:00",
-  "ultima_activa_iso": "2026-10-26T16:26:03-03:00",
+  "ultima_activa_iso": "2026-10-26T18:06:24-03:00",
   "removida_iso": null,
   "estado_api": null,
   "adj_nombre": null,
@@ -863,7 +842,7 @@
   ],
   "link": "https://buscador.mercadopublico.cl/ficha?code=1494998-26-COT26",
   "primera_vista_iso": "2026-10-26T13:13:41-03:00",
-  "ultima_activa_iso": "2026-10-26T16:26:03-03:00",
+  "ultima_activa_iso": "2026-10-26T18:06:24-03:00",
   "removida_iso": null,
   "estado_api": null,
   "adj_nombre": null,
@@ -885,7 +864,29 @@
   ],
   "link": "https://buscador.mercadopublico.cl/ficha?code=3765-311-COT26",
   "primera_vista_iso": "2026-10-26T16:26:03-03:00",
-  "ultima_activa_iso": "2026-10-26T16:26:03-03:00",
+  "ultima_activa_iso": "2026-10-26T18:06:24-03:00",
+  "removida_iso": null,
+  "estado_api": null,
+  "adj_nombre": null,
+  "adj_monto": null,
+  "adj_iso": null,
+  "adj_revisado_iso": null
+ },
+ "886182-239-COT26": {
+  "codigo": "886182-239-COT26",
+  "nombre": "Adquisición de 2 estufas de calefacción eléctrica_FISABS 2225",
+  "organismo": "UNIVERSIDAD DE AYSEN",
+  "unidad": "Universidad de Aysen",
+  "monto": 360000,
+  "cierre_iso": "2026-10-29T08:30:00-03:00",
+  "tipo": "POSIBLE",
+  "motivos": [
+   "certificación sec",
+   "eléctrico"
+  ],
+  "link": "https://buscador.mercadopublico.cl/ficha?code=886182-239-COT26",
+  "primera_vista_iso": "2026-10-26T18:06:24-03:00",
+  "ultima_activa_iso": "2026-10-26T18:06:24-03:00",
   "removida_iso": null,
   "estado_api": null,
   "adj_nombre": null,

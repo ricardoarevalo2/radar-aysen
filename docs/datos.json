@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-10-26T16:26:03.612898-03:00",
+ "actualizado": "2026-10-26T18:06:24.825698-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
- "total_region": 194,
+ "total_region": 218,
  "rubros": {
   "80141600": "Ventas y marketing",
   "82101600": "Publicidad en medios no impresos",
@@ -218,6 +218,77 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=854-29-COT26",
    "sin_detalle": false,
    "descripcion": "Las presentes bases tienen por objeto indicar los detalles y aspectos específicos del servicio de impresión de volantes (flyers) para informar a las familias de la Región de Aysén sobre el proceso de postulación a los jardines infantiles de JUNJI, que se difundirán en la oficina regional, en los jardines infantiles, en actividades en terreno y en espacios públicos de la región en la campaña “Asistir al jardín marca la diferencia”.",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "difusión",
+    "publicidad"
+   ],
+   "nueva": true,
+   "codigo": "2495-584-COT26",
+   "nombre": "ADQUISICIÓN DE MATERIALES PARA LA DIFUSIÓN DEL PROGRAMA SENDA PREVIENE 2026 ",
+   "organismo": "I MUNICIPALIDAD DE COYHAIQUE",
+   "unidad": "DIRECCION DESARROLLO COMUNITARIO",
+   "monto": 200000,
+   "cierre_iso": "2026-10-29T21:00:00-03:00",
+   "publicacion": "26-10 16:56",
+   "publicacion_iso": "2026-10-26T16:56:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "42251610",
+     "Pelotas o accesorios terapéuticos",
+     100,
+     "Folleteria 1412 medidas 14.5x21.5 cm"
+    ],
+    [
+     "82101502",
+     "Publicidad en carteles",
+     100,
+     "Estrella antiestrés personalizable (75?×?75?×?35?mm ˜ 3,7?cm de ancho): espuma blanda, colores vivos, disponible en blanco, azul"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=2495-584-COT26",
+   "sin_detalle": false,
+   "descripcion": "ADQUISICIÓN DE MATERIALES DE DIFUSIÓN Y PROMOCIÓN DEL PROGRAMA SENDA PREVIENE 2026",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "radio"
+   ],
+   "nueva": true,
+   "codigo": "1208109-24-COT26",
+   "nombre": "Servicio de almuerzos y cenas para participantes del Encuentro Nacional de Participación",
+   "organismo": "SERVICIO NACIONAL DE PROTECCIÓN ESPECIALIZADA A LA NIÑEZ Y ADOLESCENCI",
+   "unidad": "DIRECCION REGIONAL AYSEN",
+   "monto": 370755,
+   "cierre_iso": "2026-10-30T10:00:00-03:00",
+   "publicacion": "26-10 17:09",
+   "publicacion_iso": "2026-10-26T17:09:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "90101501",
+     "Restaurantes",
+     12,
+     "12 almuerzos distribuidos desde el 04 al 06 de noviembre (4 almuerzos diarios)"
+    ],
+    [
+     "90101501",
+     "Restaurantes",
+     16,
+     "16 cenas distribuidas desde el 03 al 06 de noviembre (4 cenas diarias)"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1208109-24-COT26",
+   "sin_detalle": false,
+   "descripcion": "Se requiere el servicio de alimentación para 4 personas, el cual consiste en la entrega de almuerzos y cenas para los participantes del encuentro nacional de participación a desarrollarse los días 03 al 06 de noviembre. Este servicio debe prestarse con la entrega de la alimentación en restaurant ubicado en un radio intermedio entre el hotel Brasilia, ubicado en calle Santo Domingo N°2228 y la Biblioteca de Santiago ubicada en calle Avenida Matucana N°151",
    "en_gracia": false,
    "desaparecida_iso": ""
   }
@@ -608,7 +679,7 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=3431-118-COT26",
    "primera_vista_iso": "2026-10-20T12:57:59-03:00",
    "removida_iso": "2026-10-23T11:19:19-03:00",
-   "estado_api": null,
+   "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,
    "adj_iso": null
@@ -969,24 +1040,6 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=4066-424-COT26",
    "primera_vista_iso": "2026-10-15T18:54:09-03:00",
    "removida_iso": "2026-10-19T19:53:01-03:00",
-   "estado_api": "",
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "4778-319-COT26",
-   "nombre": "RELE- SOLICITUD N° 10134-MEL- MEJORAMIEN ENTORNO LABORAL-DEBE INCLUIR DESPACHO",
-   "organismo": "SERVICIO NACIONAL DE SALUD HOSPITAL DE C",
-   "monto": 6481800,
-   "cierre_iso": "2026-10-19T17:00:00-03:00",
-   "tipo": "POSIBLE",
-   "motivos": [
-    "radio"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=4778-319-COT26",
-   "primera_vista_iso": "2026-10-14T14:56:34-03:00",
-   "removida_iso": "2026-10-19T16:57:34-03:00",
    "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,
