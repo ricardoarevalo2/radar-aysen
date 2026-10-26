@@ -370,10 +370,13 @@ def preparar_datos(perfil, filas, ahora, total_region, hist_cerradas=(), pendien
         "region": " · ".join(REGIONES.get(r, f"Región {r}") for r in perfil["regiones"]),
         "total_region": total_region,
         "rubros": perfil["rubros"],
-        "filas": [{k: f[k] for k in ("tipo", "motivos", "nueva", "codigo", "nombre", "organismo", "unidad", "monto",
-                                     "cierre_iso", "publicacion", "publicacion_iso", "ofertas", "productos", "link",
-                                     "sin_detalle", "descripcion",
-                                     "en_gracia", "desaparecida_iso")} for f in filas],
+        "filas": [{
+            **{k: f[k] for k in ("tipo", "motivos", "nueva", "codigo", "nombre", "organismo", "unidad", "monto",
+                                  "cierre_iso", "publicacion", "publicacion_iso", "ofertas", "productos", "link",
+                                  "sin_detalle", "descripcion")},
+            "en_gracia": f.get("en_gracia", False),
+            "desaparecida_iso": f.get("desaparecida_iso", ""),
+        } for f in filas],
         "historial": [
             {k: h.get(k) for k in ("codigo", "nombre", "organismo", "monto", "cierre_iso", "tipo",
                                    "motivos", "link", "primera_vista_iso", "removida_iso",
