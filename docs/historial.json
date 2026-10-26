@@ -124,7 +124,7 @@
   "adj_nombre": null,
   "adj_monto": null,
   "adj_iso": null,
-  "adj_revisado_iso": "2026-10-25T22:25:36-03:00"
+  "adj_revisado_iso": "2026-10-26T16:12:12-03:00"
  },
  "4066-424-COT26": {
   "codigo": "4066-424-COT26",
@@ -145,7 +145,7 @@
   "adj_nombre": null,
   "adj_monto": null,
   "adj_iso": null,
-  "adj_revisado_iso": "2026-10-25T20:23:51-03:00"
+  "adj_revisado_iso": "2026-10-26T16:12:12-03:00"
  },
  "4066-425-COT26": {
   "codigo": "4066-425-COT26",
@@ -166,7 +166,7 @@
   "adj_nombre": null,
   "adj_monto": null,
   "adj_iso": null,
-  "adj_revisado_iso": "2026-10-25T20:23:51-03:00"
+  "adj_revisado_iso": "2026-10-26T16:12:12-03:00"
  },
  "682-20-COT26": {
   "codigo": "682-20-COT26",
@@ -183,53 +183,11 @@
   "primera_vista_iso": "2026-10-16T10:09:44-03:00",
   "ultima_activa_iso": "2026-10-25T22:25:36-03:00",
   "removida_iso": "2026-10-26T13:13:41-03:00",
-  "estado_api": null,
-  "adj_nombre": null,
-  "adj_monto": null,
-  "adj_iso": null,
-  "adj_revisado_iso": null
- },
- "1057062-464-COT26": {
-  "codigo": "1057062-464-COT26",
-  "nombre": "Servicio de producción de eventos para el 22 y 23 de octubre en Coyhaique y Puerto Aysén según Fisabs 2297_Programa Orquestas",
-  "organismo": "UNIVERSIDAD DE AYSEN",
-  "unidad": "Proyectos",
-  "monto": 1950000,
-  "cierre_iso": "2026-10-19T16:00:00-03:00",
-  "tipo": "OPORTUNIDAD",
-  "motivos": [
-   "Ventas y marketing"
-  ],
-  "link": "https://buscador.mercadopublico.cl/ficha?code=1057062-464-COT26",
-  "primera_vista_iso": "2026-10-16T11:00:56-03:00",
-  "ultima_activa_iso": "2026-10-19T14:52:46-03:00",
-  "removida_iso": "2026-10-19T16:06:33-03:00",
   "estado_api": "",
   "adj_nombre": null,
   "adj_monto": null,
   "adj_iso": null,
-  "adj_revisado_iso": "2026-10-22T17:57:00-03:00"
- },
- "4778-331-COT26": {
-  "codigo": "4778-331-COT26",
-  "nombre": "ADQUISICION DE INSUMOS CLINICOS PARA MONITOREO DE PACIENTES",
-  "organismo": "SERVICIO NACIONAL DE SALUD HOSPITAL DE C",
-  "unidad": "Compras de Insumos y Servicios Generales",
-  "monto": 5909540,
-  "cierre_iso": "2026-10-19T16:00:00-03:00",
-  "tipo": "POSIBLE",
-  "motivos": [
-   "spot"
-  ],
-  "link": "https://buscador.mercadopublico.cl/ficha?code=4778-331-COT26",
-  "primera_vista_iso": "2026-10-16T13:57:01-03:00",
-  "ultima_activa_iso": "2026-10-19T14:52:46-03:00",
-  "removida_iso": "2026-10-19T16:06:33-03:00",
-  "estado_api": "",
-  "adj_nombre": null,
-  "adj_monto": null,
-  "adj_iso": null,
-  "adj_revisado_iso": "2026-10-22T17:57:00-03:00"
+  "adj_revisado_iso": "2026-10-26T16:12:12-03:00"
  },
  "1746-241-COT26": {
   "codigo": "1746-241-COT26",
@@ -250,7 +208,7 @@
   "adj_nombre": null,
   "adj_monto": null,
   "adj_iso": null,
-  "adj_revisado_iso": "2026-10-22T18:55:50-03:00"
+  "adj_revisado_iso": "2026-10-26T16:12:12-03:00"
  },
  "1233615-819-COT26": {
   "codigo": "1233615-819-COT26",
@@ -781,7 +739,7 @@
   ],
   "link": "https://buscador.mercadopublico.cl/ficha?code=4140-97-COT26",
   "primera_vista_iso": "2026-10-23T11:19:19-03:00",
-  "ultima_activa_iso": "2026-10-26T13:13:41-03:00",
+  "ultima_activa_iso": "2026-10-26T16:12:12-03:00",
   "removida_iso": null,
   "estado_api": null,
   "adj_nombre": null,
@@ -869,7 +827,7 @@
   "link": "https://buscador.mercadopublico.cl/ficha?code=1608-89-COT26",
   "primera_vista_iso": "2026-10-23T15:31:59-03:00",
   "ultima_activa_iso": "2026-10-26T13:13:41-03:00",
-  "removida_iso": null,
+  "removida_iso": "2026-10-26T16:12:12-03:00",
   "estado_api": null,
   "adj_nombre": null,
   "adj_monto": null,
@@ -973,7 +931,7 @@
   ],
   "link": "https://buscador.mercadopublico.cl/ficha?code=2495-580-COT26",
   "primera_vista_iso": "2026-10-26T13:13:41-03:00",
-  "ultima_activa_iso": "2026-10-26T13:13:41-03:00",
+  "ultima_activa_iso": "2026-10-26T16:12:12-03:00",
   "removida_iso": null,
   "estado_api": null,
   "adj_nombre": null,
@@ -994,7 +952,7 @@
   ],
   "link": "https://buscador.mercadopublico.cl/ficha?code=1494998-27-COT26",
   "primera_vista_iso": "2026-10-26T13:13:41-03:00",
-  "ultima_activa_iso": "2026-10-26T13:13:41-03:00",
+  "ultima_activa_iso": "2026-10-26T16:12:12-03:00",
   "removida_iso": null,
   "estado_api": null,
   "adj_nombre": null,
@@ -1015,7 +973,49 @@
   ],
   "link": "https://buscador.mercadopublico.cl/ficha?code=854-29-COT26",
   "primera_vista_iso": "2026-10-26T13:13:41-03:00",
-  "ultima_activa_iso": "2026-10-26T13:13:41-03:00",
+  "ultima_activa_iso": "2026-10-26T16:12:12-03:00",
+  "removida_iso": null,
+  "estado_api": null,
+  "adj_nombre": null,
+  "adj_monto": null,
+  "adj_iso": null,
+  "adj_revisado_iso": null
+ },
+ "3791-1066-COT26": {
+  "codigo": "3791-1066-COT26",
+  "nombre": "CAMARA PARA TRANSMISION ",
+  "organismo": "I MUNICIPALIDAD DE CISNES",
+  "unidad": "Finanzas",
+  "monto": 290001,
+  "cierre_iso": "2026-10-27T15:00:00-03:00",
+  "tipo": "POSIBLE",
+  "motivos": [
+   "difusion"
+  ],
+  "link": "https://buscador.mercadopublico.cl/ficha?code=3791-1066-COT26",
+  "primera_vista_iso": "2026-10-26T16:12:12-03:00",
+  "ultima_activa_iso": "2026-10-26T16:12:12-03:00",
+  "removida_iso": null,
+  "estado_api": null,
+  "adj_nombre": null,
+  "adj_monto": null,
+  "adj_iso": null,
+  "adj_revisado_iso": null
+ },
+ "3791-1068-COT26": {
+  "codigo": "3791-1068-COT26",
+  "nombre": "SERVICIOS DE PRODUCCION ",
+  "organismo": "I MUNICIPALIDAD DE CISNES",
+  "unidad": "Finanzas",
+  "monto": 1200000,
+  "cierre_iso": "2026-10-27T15:30:00-03:00",
+  "tipo": "OPORTUNIDAD",
+  "motivos": [
+   "Ventas y marketing"
+  ],
+  "link": "https://buscador.mercadopublico.cl/ficha?code=3791-1068-COT26",
+  "primera_vista_iso": "2026-10-26T16:12:12-03:00",
+  "ultima_activa_iso": "2026-10-26T16:12:12-03:00",
   "removida_iso": null,
   "estado_api": null,
   "adj_nombre": null,
