@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-10-25T22:25:36.357885-03:00",
+ "actualizado": "2026-10-26T13:13:41.926187-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
- "total_region": 197,
+ "total_region": 184,
  "rubros": {
   "25172700": "Aire acondicionado",
   "25173900": "Componentes eléctricos",
@@ -19,60 +19,6 @@
   "39121400": "Conectores, enchufes y terminales"
  },
  "filas": [
-  {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Servicios eléctricos"
-   ],
-   "nueva": false,
-   "codigo": "1905-77-COT26",
-   "nombre": "Instalación lamparas de Emergencia y Letreros Led Salida Emergencia Oficina de Puerto Aysén",
-   "organismo": "SERVICIO DE REGISTRO CIVIL E IDENTIFICAC",
-   "unidad": "Dirección Regional XI Región",
-   "monto": 900000,
-   "cierre_iso": "2026-10-26T09:00:00-03:00",
-   "publicacion": "21-10 16:11",
-   "publicacion_iso": "2026-10-21T16:11:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "72102201",
-     "Instalación o servicio de sistemas de energía eléctrica",
-     1,
-     "Instalación lámparas de Emergencia y Letreros Led Salida Emergencia Oficina de Puerto Aysén"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1905-77-COT26",
-   "sin_detalle": false,
-   "descripcion": "Instalación lámparas de Emergencia y Letreros Led Salida Emergencia Oficina de Puerto Aysén"
-  },
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "electricidad"
-   ],
-   "nueva": false,
-   "codigo": "1458-25-COT26",
-   "nombre": "Adquisición diésel calefacción",
-   "organismo": "SERPLAC XI Región",
-   "unidad": "SERPLAC XI Región",
-   "monto": 6917449,
-   "cierre_iso": "2026-10-26T10:00:00-03:00",
-   "publicacion": "22-10 12:44",
-   "publicacion_iso": "2026-10-22T12:44:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "15101505",
-     "Diesel",
-     1,
-     "La Secretaría Regional Ministerial de Desarrollo Social y Familia de la región de Aysén, requiere adquirir 4310 litros de combustible diésel para calefacción de la oficina. El combustible debe ser entregado en las dependencias de la Seremi, ubicada en calle Gral. Parra N°326.El camión que transporte el combustible debe estar autorizado por la Superintendencia de Electricidad y Combustible. (Ver Términos de Referencia)"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1458-25-COT26",
-   "sin_detalle": false,
-   "descripcion": "La Secretaría Regional Ministerial de Desarrollo Social y Familia de la región de Aysén, requiere adquirir 4310 litros de combustible diésel para calefacción de la oficina. El combustible debe ser entregado en las dependencias de la Seremi, ubicada en calle Gral. Parra N°326, Coyhaique, a petición por parte del servicio, ya que la capacidad del estanque para almacenar combustible es solo de 2000 litros. (Ver Términos de Referencia)"
-  },
   {
    "tipo": "POSIBLE",
    "motivos": [
@@ -130,6 +76,96 @@
   {
    "tipo": "OPORTUNIDAD",
    "motivos": [
+    "Gasfitería, calefacción y aire acondicionado"
+   ],
+   "nueva": true,
+   "codigo": "1274667-416-COT26",
+   "nombre": "SOLICITA SERVICIO DE INSTALACION DE CLIMATIZADOR EXISTENTE TIPO SPLIT PARA CENTRO DE SALUD FAMILIAR PUERTO AYSÉN",
+   "organismo": "CENTRO DE SALUD FAMILIAR PUERTO AYSÉN",
+   "unidad": "CENTRO DE SALUD FAMILIAR PUERTO AYSÉN",
+   "monto": 250000,
+   "cierre_iso": "2026-10-27T11:15:00-03:00",
+   "publicacion": "26-10 11:12",
+   "publicacion_iso": "2026-10-26T11:12:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "72102305",
+     "Servicios de reparación, mantenimiento o reparación de aire acondicionado",
+     1,
+     "SERVICIO DE INSTALACIÓN, DE CLIMATIZADOR TIPO SPLIT - DETALLE EN DOCUMENTO ADJUNTO."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1274667-416-COT26",
+   "sin_detalle": false,
+   "descripcion": "ADJUNTAR COTIZACION - ADJUNTAR FICHA TECNICA PARA PODER EVALUAR CORRECTAMENTE LA OFERTA - DATOS BANCARIOS - CONTACTO PARA RESOLVER DUDAS - EN CASO DE ADJUDICACION FAVOR EMITIR DESPACHO CON GUIA - MARCAS MENCIONADAS SON SOLAMENTE REFERENCIALES. DETALLES EN DOCUMENTO ADJUNTO."
+  },
+  {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Conectores, enchufes y terminales"
+   ],
+   "nueva": true,
+   "codigo": "3949-265-COT26",
+   "nombre": "SET DE PARCHES ELECTRODOS PEDIÁTRICOS ",
+   "organismo": "CONSULTORIO GENERAL URBANO DR ALEJANDRO GUTIERREZ",
+   "unidad": "ID 3949 - CESFAM Dr Alejandro Gutiérrez",
+   "monto": 100000,
+   "cierre_iso": "2026-10-27T11:45:00-03:00",
+   "publicacion": "26-10 11:35",
+   "publicacion_iso": "2026-10-26T11:35:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "39121436",
+     "Electrodos",
+     4,
+     "SET DE PARCHES DE ELECTRODOS PEDIATRICOS COMPATIBLES PARA MONITOR INSTRAMED, MODELO CARDIOMAX CON FECHA DE VENCIMIENTO 2028 Y 2029, ADJUNTAR ESPECIFICACIÓN TÉCNICA PARA LA CORRECTA EVALUACIÓN"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=3949-265-COT26",
+   "sin_detalle": false,
+   "descripcion": "SE REQUIERE ADQUIRIR PARCHES ELECTRODOS PEDIATRICOS COMPATIBLES PARA MONITOR INSTRAMED, MODELO CARDIOMAX CON FECHA DE VENCIMIENTO 2028-2029. DESPACHO INMEDIATO A COYHAIQUE"
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "eléctrico",
+    "eléctricos",
+    "generador",
+    "generador eléctrico"
+   ],
+   "nueva": true,
+   "codigo": "1494998-26-COT26",
+   "nombre": "ADQUISICIÓN Y DESPACHO DE GENERADORES ELÉCTRICOS PARA LAS ÁREAS PROTEGIDAS DE LA DIRECCIÓN REGIONAL DE AYSÉN SBAP (Convenio SBAP-CONAF)",
+   "organismo": "Servicio de Biodiversidad y Áreas Protegidas",
+   "unidad": "Dirección Regional de Aysén",
+   "monto": 1900000,
+   "cierre_iso": "2026-10-27T12:00:00-03:00",
+   "publicacion": "26-10 10:04",
+   "publicacion_iso": "2026-10-26T10:04:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "26111601",
+     "Generadores diesel",
+     1,
+     "GENERADOR 6.5 KW. GASOLINA P. ELECTRICA: Con Regulador de Voltaje AVR.  Sistema de arranque manual y eléctrico. Su Autonomía es de 12,2 horas (50% de carga). Estanque de 25 litros. Debe incluir Horómetro. Considerar EETT en TDR adjuntos."
+    ],
+    [
+     "26111601",
+     "Generadores diesel",
+     1,
+     "GENERADOR ELÉCTRICO GASOLINA PARTIDA ELÉCTRICA 6000 W 25 I:Potencia de 6000 W y un motor bencinero de 4 tiempos de 419cc. Capacidad de tanque de 25 litros. Autonomía de entre 7.5 y 8.5 horas. Considerar EETT en TDR adjuntos."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1494998-26-COT26",
+   "sin_detalle": false,
+   "descripcion": "El Servicio de Biodiversidad y Áreas Protegidas, en adelante el SBAP, llama a proveedores a participar en la presentación de ofertas destinadas a la adquisición y despacho de generadores eléctricos para las Áreas Protegidas de la Dirección Regional de Aysén del General Carlos Ibáñez del Campo. Considerar TDR y EETT adjuntas para proceso de postulación."
+  },
+  {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
     "Servicios eléctricos"
    ],
    "nueva": false,
@@ -183,6 +219,42 @@
   }
  ],
  "historial": [
+  {
+   "codigo": "1458-25-COT26",
+   "nombre": "Adquisición diésel calefacción",
+   "organismo": "SERPLAC XI Región",
+   "monto": 6917449,
+   "cierre_iso": "2026-10-26T10:00:00-03:00",
+   "tipo": "POSIBLE",
+   "motivos": [
+    "electricidad"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1458-25-COT26",
+   "primera_vista_iso": "2026-10-22T12:57:35-03:00",
+   "removida_iso": "2026-10-26T13:13:41-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
+  {
+   "codigo": "1905-77-COT26",
+   "nombre": "Instalación lamparas de Emergencia y Letreros Led Salida Emergencia Oficina de Puerto Aysén",
+   "organismo": "SERVICIO DE REGISTRO CIVIL E IDENTIFICAC",
+   "monto": 900000,
+   "cierre_iso": "2026-10-26T09:00:00-03:00",
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Servicios eléctricos"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1905-77-COT26",
+   "primera_vista_iso": "2026-10-21T16:55:28-03:00",
+   "removida_iso": "2026-10-26T13:13:41-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
   {
    "codigo": "4889-41-COT26",
    "nombre": "MANTENIMIENTO SENTINA - OFICINAS SEREMI DE LAS CULTURAS",
@@ -798,114 +870,6 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=1057062-464-COT26",
    "primera_vista_iso": "2026-10-16T11:00:56-03:00",
    "removida_iso": "2026-10-19T16:06:33-03:00",
-   "estado_api": "",
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "1107283-170-COT26",
-   "nombre": "INSUMOS GANADEROS",
-   "organismo": "INSTITUTO DE INVESTIGACIONES AGROPECUARIAS",
-   "monto": 950000,
-   "cierre_iso": "2026-10-19T10:00:00-03:00",
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Cajas y accesorios eléctricos"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1107283-170-COT26",
-   "primera_vista_iso": "2026-10-16T16:50:54-03:00",
-   "removida_iso": "2026-10-19T11:06:38-03:00",
-   "estado_api": "",
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "3797-478-COT26",
-   "nombre": "EQUIPOS DE CLIMATIZACION",
-   "organismo": "I MUNICIPALIDAD DE COCHRANE",
-   "monto": 3120565,
-   "cierre_iso": "2026-10-19T09:30:00-03:00",
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Gasfitería, calefacción y aire acondicionado"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=3797-478-COT26",
-   "primera_vista_iso": "2026-10-16T14:53:21-03:00",
-   "removida_iso": "2026-10-19T10:11:35-03:00",
-   "estado_api": "",
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "3765-295-COT26",
-   "nombre": "EPP PARA UNIDAD DE MANTENCIÓN",
-   "organismo": "SERVICIO NACIONAL DE SALUD HOSPITAL DE C",
-   "monto": 1000000,
-   "cierre_iso": "2026-10-19T09:00:00-03:00",
-   "tipo": "POSIBLE",
-   "motivos": [
-    "eléctrico"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=3765-295-COT26",
-   "primera_vista_iso": "2026-10-14T10:07:19-03:00",
-   "removida_iso": "2026-10-19T10:11:35-03:00",
-   "estado_api": "",
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "3765-299-COT26",
-   "nombre": "INSUMOS PARA EL SISTEMA DE CLIMATIZACIÓN DEL ESTABLECIMEINTO ",
-   "organismo": "SERVICIO NACIONAL DE SALUD HOSPITAL DE C",
-   "monto": 7200000,
-   "cierre_iso": "2026-10-19T09:00:00-03:00",
-   "tipo": "POSIBLE",
-   "motivos": [
-    "climatización"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=3765-299-COT26",
-   "primera_vista_iso": "2026-10-14T13:02:14-03:00",
-   "removida_iso": "2026-10-19T10:11:35-03:00",
-   "estado_api": "",
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "3765-305-COT26",
-   "nombre": "SE SOLICITA CONTRATACION DE UN INSTALADOR ELECTRICO - FACTIBILIDAD TE1 CASA SENDA ",
-   "organismo": "SERVICIO NACIONAL DE SALUD HOSPITAL DE C",
-   "monto": 1350000,
-   "cierre_iso": "2026-10-19T08:00:00-03:00",
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Conectores, enchufes y terminales"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=3765-305-COT26",
-   "primera_vista_iso": "2026-10-16T12:56:38-03:00",
-   "removida_iso": "2026-10-16T14:53:21-03:00",
-   "estado_api": "",
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "3950-657-COT26",
-   "nombre": "PROVISION Y CAMBIO DE BOMBA DE AGUA RECIRCULADORA",
-   "organismo": "DIRECCION SALUD RURAL",
-   "monto": 500000,
-   "cierre_iso": "2026-10-19T08:00:00-03:00",
-   "tipo": "POSIBLE",
-   "motivos": [
-    "electricidad"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=3950-657-COT26",
-   "primera_vista_iso": "2026-10-16T14:53:21-03:00",
-   "removida_iso": "2026-10-19T08:59:27-03:00",
    "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,

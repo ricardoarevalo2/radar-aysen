@@ -18,7 +18,7 @@
   "adj_nombre": null,
   "adj_monto": null,
   "adj_iso": null,
-  "adj_revisado_iso": "2026-10-25T18:00:49-03:00"
+  "adj_revisado_iso": "2026-10-26T13:13:41-03:00"
  },
  "711-194-COT26": {
   "codigo": "711-194-COT26",
@@ -40,7 +40,7 @@
   "adj_nombre": null,
   "adj_monto": null,
   "adj_iso": null,
-  "adj_revisado_iso": "2026-10-25T18:00:49-03:00"
+  "adj_revisado_iso": "2026-10-26T13:13:41-03:00"
  },
  "4066-419-COT26": {
   "codigo": "4066-419-COT26",
@@ -55,7 +55,7 @@
   ],
   "link": "https://buscador.mercadopublico.cl/ficha?code=4066-419-COT26",
   "primera_vista_iso": "2026-10-13T15:51:46-03:00",
-  "ultima_activa_iso": "2026-10-25T22:25:36-03:00",
+  "ultima_activa_iso": "2026-10-26T13:13:41-03:00",
   "removida_iso": null,
   "estado_api": "",
   "adj_nombre": null,
@@ -82,49 +82,7 @@
   "adj_nombre": null,
   "adj_monto": null,
   "adj_iso": null,
-  "adj_revisado_iso": "2026-10-25T18:00:49-03:00"
- },
- "3765-295-COT26": {
-  "codigo": "3765-295-COT26",
-  "nombre": "EPP PARA UNIDAD DE MANTENCIÓN",
-  "organismo": "SERVICIO NACIONAL DE SALUD HOSPITAL DE C",
-  "unidad": "Hospital Doctor  Leopoldo Ortega Rodríguez",
-  "monto": 1000000,
-  "cierre_iso": "2026-10-19T09:00:00-03:00",
-  "tipo": "POSIBLE",
-  "motivos": [
-   "eléctrico"
-  ],
-  "link": "https://buscador.mercadopublico.cl/ficha?code=3765-295-COT26",
-  "primera_vista_iso": "2026-10-14T10:07:19-03:00",
-  "ultima_activa_iso": "2026-10-19T08:59:27-03:00",
-  "removida_iso": "2026-10-19T10:11:35-03:00",
-  "estado_api": "",
-  "adj_nombre": null,
-  "adj_monto": null,
-  "adj_iso": null,
-  "adj_revisado_iso": "2026-10-25T18:00:49-03:00"
- },
- "3765-299-COT26": {
-  "codigo": "3765-299-COT26",
-  "nombre": "INSUMOS PARA EL SISTEMA DE CLIMATIZACIÓN DEL ESTABLECIMEINTO ",
-  "organismo": "SERVICIO NACIONAL DE SALUD HOSPITAL DE C",
-  "unidad": "Hospital Doctor  Leopoldo Ortega Rodríguez",
-  "monto": 7200000,
-  "cierre_iso": "2026-10-19T09:00:00-03:00",
-  "tipo": "POSIBLE",
-  "motivos": [
-   "climatización"
-  ],
-  "link": "https://buscador.mercadopublico.cl/ficha?code=3765-299-COT26",
-  "primera_vista_iso": "2026-10-14T13:02:14-03:00",
-  "ultima_activa_iso": "2026-10-19T08:59:27-03:00",
-  "removida_iso": "2026-10-19T10:11:35-03:00",
-  "estado_api": "",
-  "adj_nombre": null,
-  "adj_monto": null,
-  "adj_iso": null,
-  "adj_revisado_iso": "2026-10-25T18:00:49-03:00"
+  "adj_revisado_iso": "2026-10-26T13:13:41-03:00"
  },
  "3540-274-COT26": {
   "codigo": "3540-274-COT26",
@@ -145,7 +103,7 @@
   "adj_nombre": null,
   "adj_monto": null,
   "adj_iso": null,
-  "adj_revisado_iso": "2026-10-25T22:25:36-03:00"
+  "adj_revisado_iso": "2026-10-26T13:13:41-03:00"
  },
  "4889-41-COT26": {
   "codigo": "4889-41-COT26",
@@ -166,7 +124,7 @@
   "adj_nombre": null,
   "adj_monto": null,
   "adj_iso": null,
-  "adj_revisado_iso": "2026-10-25T22:25:36-03:00"
+  "adj_revisado_iso": "2026-10-26T13:13:41-03:00"
  },
  "1449-12-COT26": {
   "codigo": "1449-12-COT26",
@@ -293,90 +251,6 @@
   "adj_monto": null,
   "adj_iso": null,
   "adj_revisado_iso": "2026-10-25T20:23:51-03:00"
- },
- "3765-305-COT26": {
-  "codigo": "3765-305-COT26",
-  "nombre": "SE SOLICITA CONTRATACION DE UN INSTALADOR ELECTRICO - FACTIBILIDAD TE1 CASA SENDA ",
-  "organismo": "SERVICIO NACIONAL DE SALUD HOSPITAL DE C",
-  "unidad": "Hospital Doctor  Leopoldo Ortega Rodríguez",
-  "monto": 1350000,
-  "cierre_iso": "2026-10-19T08:00:00-03:00",
-  "tipo": "OPORTUNIDAD",
-  "motivos": [
-   "Conectores, enchufes y terminales"
-  ],
-  "link": "https://buscador.mercadopublico.cl/ficha?code=3765-305-COT26",
-  "primera_vista_iso": "2026-10-16T12:56:38-03:00",
-  "ultima_activa_iso": "2026-10-16T13:57:01-03:00",
-  "removida_iso": "2026-10-16T14:53:21-03:00",
-  "estado_api": "",
-  "adj_nombre": null,
-  "adj_monto": null,
-  "adj_iso": null,
-  "adj_revisado_iso": "2026-10-25T20:23:51-03:00"
- },
- "3950-657-COT26": {
-  "codigo": "3950-657-COT26",
-  "nombre": "PROVISION Y CAMBIO DE BOMBA DE AGUA RECIRCULADORA",
-  "organismo": "DIRECCION SALUD RURAL",
-  "unidad": "Dirección de Salud Rural",
-  "monto": 500000,
-  "cierre_iso": "2026-10-19T08:00:00-03:00",
-  "tipo": "POSIBLE",
-  "motivos": [
-   "electricidad"
-  ],
-  "link": "https://buscador.mercadopublico.cl/ficha?code=3950-657-COT26",
-  "primera_vista_iso": "2026-10-16T14:53:21-03:00",
-  "ultima_activa_iso": "2026-10-19T07:56:55-03:00",
-  "removida_iso": "2026-10-19T08:59:27-03:00",
-  "estado_api": "",
-  "adj_nombre": null,
-  "adj_monto": null,
-  "adj_iso": null,
-  "adj_revisado_iso": "2026-10-25T20:23:51-03:00"
- },
- "3797-478-COT26": {
-  "codigo": "3797-478-COT26",
-  "nombre": "EQUIPOS DE CLIMATIZACION",
-  "organismo": "I MUNICIPALIDAD DE COCHRANE",
-  "unidad": "I MUNICIPALIDAD DE COCHRANE",
-  "monto": 3120565,
-  "cierre_iso": "2026-10-19T09:30:00-03:00",
-  "tipo": "OPORTUNIDAD",
-  "motivos": [
-   "Gasfitería, calefacción y aire acondicionado"
-  ],
-  "link": "https://buscador.mercadopublico.cl/ficha?code=3797-478-COT26",
-  "primera_vista_iso": "2026-10-16T14:53:21-03:00",
-  "ultima_activa_iso": "2026-10-19T08:59:27-03:00",
-  "removida_iso": "2026-10-19T10:11:35-03:00",
-  "estado_api": "",
-  "adj_nombre": null,
-  "adj_monto": null,
-  "adj_iso": null,
-  "adj_revisado_iso": "2026-10-22T14:53:55-03:00"
- },
- "1107283-170-COT26": {
-  "codigo": "1107283-170-COT26",
-  "nombre": "INSUMOS GANADEROS",
-  "organismo": "INSTITUTO DE INVESTIGACIONES AGROPECUARIAS",
-  "unidad": "TAMELAIKE",
-  "monto": 950000,
-  "cierre_iso": "2026-10-19T10:00:00-03:00",
-  "tipo": "OPORTUNIDAD",
-  "motivos": [
-   "Cajas y accesorios eléctricos"
-  ],
-  "link": "https://buscador.mercadopublico.cl/ficha?code=1107283-170-COT26",
-  "primera_vista_iso": "2026-10-16T16:50:54-03:00",
-  "ultima_activa_iso": "2026-10-19T10:11:35-03:00",
-  "removida_iso": "2026-10-19T11:06:38-03:00",
-  "estado_api": "",
-  "adj_nombre": null,
-  "adj_monto": null,
-  "adj_iso": null,
-  "adj_revisado_iso": "2026-10-22T16:06:22-03:00"
  },
  "1281188-17-COT26": {
   "codigo": "1281188-17-COT26",
@@ -861,7 +735,7 @@
   "link": "https://buscador.mercadopublico.cl/ficha?code=1905-77-COT26",
   "primera_vista_iso": "2026-10-21T16:55:28-03:00",
   "ultima_activa_iso": "2026-10-25T22:25:36-03:00",
-  "removida_iso": null,
+  "removida_iso": "2026-10-26T13:13:41-03:00",
   "estado_api": null,
   "adj_nombre": null,
   "adj_monto": null,
@@ -903,7 +777,7 @@
   "link": "https://buscador.mercadopublico.cl/ficha?code=1458-25-COT26",
   "primera_vista_iso": "2026-10-22T12:57:35-03:00",
   "ultima_activa_iso": "2026-10-25T22:25:36-03:00",
-  "removida_iso": null,
+  "removida_iso": "2026-10-26T13:13:41-03:00",
   "estado_api": null,
   "adj_nombre": null,
   "adj_monto": null,
@@ -923,7 +797,7 @@
   ],
   "link": "https://buscador.mercadopublico.cl/ficha?code=2042-372-COT26",
   "primera_vista_iso": "2026-10-22T16:57:20-03:00",
-  "ultima_activa_iso": "2026-10-25T22:25:36-03:00",
+  "ultima_activa_iso": "2026-10-26T13:13:41-03:00",
   "removida_iso": null,
   "estado_api": null,
   "adj_nombre": null,
@@ -944,7 +818,7 @@
   ],
   "link": "https://buscador.mercadopublico.cl/ficha?code=1458-26-COT26",
   "primera_vista_iso": "2026-10-22T17:57:00-03:00",
-  "ultima_activa_iso": "2026-10-25T22:25:36-03:00",
+  "ultima_activa_iso": "2026-10-26T13:13:41-03:00",
   "removida_iso": null,
   "estado_api": null,
   "adj_nombre": null,
@@ -965,7 +839,73 @@
   ],
   "link": "https://buscador.mercadopublico.cl/ficha?code=1233615-852-COT26",
   "primera_vista_iso": "2026-10-23T15:31:59-03:00",
-  "ultima_activa_iso": "2026-10-25T22:25:36-03:00",
+  "ultima_activa_iso": "2026-10-26T13:13:41-03:00",
+  "removida_iso": null,
+  "estado_api": null,
+  "adj_nombre": null,
+  "adj_monto": null,
+  "adj_iso": null,
+  "adj_revisado_iso": null
+ },
+ "1274667-416-COT26": {
+  "codigo": "1274667-416-COT26",
+  "nombre": "SOLICITA SERVICIO DE INSTALACION DE CLIMATIZADOR EXISTENTE TIPO SPLIT PARA CENTRO DE SALUD FAMILIAR PUERTO AYSÉN",
+  "organismo": "CENTRO DE SALUD FAMILIAR PUERTO AYSÉN",
+  "unidad": "CENTRO DE SALUD FAMILIAR PUERTO AYSÉN",
+  "monto": 250000,
+  "cierre_iso": "2026-10-27T11:15:00-03:00",
+  "tipo": "OPORTUNIDAD",
+  "motivos": [
+   "Gasfitería, calefacción y aire acondicionado"
+  ],
+  "link": "https://buscador.mercadopublico.cl/ficha?code=1274667-416-COT26",
+  "primera_vista_iso": "2026-10-26T13:13:41-03:00",
+  "ultima_activa_iso": "2026-10-26T13:13:41-03:00",
+  "removida_iso": null,
+  "estado_api": null,
+  "adj_nombre": null,
+  "adj_monto": null,
+  "adj_iso": null,
+  "adj_revisado_iso": null
+ },
+ "3949-265-COT26": {
+  "codigo": "3949-265-COT26",
+  "nombre": "SET DE PARCHES ELECTRODOS PEDIÁTRICOS ",
+  "organismo": "CONSULTORIO GENERAL URBANO DR ALEJANDRO GUTIERREZ",
+  "unidad": "ID 3949 - CESFAM Dr Alejandro Gutiérrez",
+  "monto": 100000,
+  "cierre_iso": "2026-10-27T11:45:00-03:00",
+  "tipo": "OPORTUNIDAD",
+  "motivos": [
+   "Conectores, enchufes y terminales"
+  ],
+  "link": "https://buscador.mercadopublico.cl/ficha?code=3949-265-COT26",
+  "primera_vista_iso": "2026-10-26T13:13:41-03:00",
+  "ultima_activa_iso": "2026-10-26T13:13:41-03:00",
+  "removida_iso": null,
+  "estado_api": null,
+  "adj_nombre": null,
+  "adj_monto": null,
+  "adj_iso": null,
+  "adj_revisado_iso": null
+ },
+ "1494998-26-COT26": {
+  "codigo": "1494998-26-COT26",
+  "nombre": "ADQUISICIÓN Y DESPACHO DE GENERADORES ELÉCTRICOS PARA LAS ÁREAS PROTEGIDAS DE LA DIRECCIÓN REGIONAL DE AYSÉN SBAP (Convenio SBAP-CONAF)",
+  "organismo": "Servicio de Biodiversidad y Áreas Protegidas",
+  "unidad": "Dirección Regional de Aysén",
+  "monto": 1900000,
+  "cierre_iso": "2026-10-27T12:00:00-03:00",
+  "tipo": "POSIBLE",
+  "motivos": [
+   "eléctrico",
+   "eléctricos",
+   "generador",
+   "generador eléctrico"
+  ],
+  "link": "https://buscador.mercadopublico.cl/ficha?code=1494998-26-COT26",
+  "primera_vista_iso": "2026-10-26T13:13:41-03:00",
+  "ultima_activa_iso": "2026-10-26T13:13:41-03:00",
   "removida_iso": null,
   "estado_api": null,
   "adj_nombre": null,
