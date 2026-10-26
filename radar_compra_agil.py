@@ -64,6 +64,7 @@ HORAS_NUEVA = 24        # una compra se marca NUEVA durante sus primeras 24 h en
 DIAS_HISTORIAL = 7     # días que se conserva el historial de compras cerradas
 HORAS_REVISION_ADJ = 6  # horas mínimas entre revisiones de adjudicación por compra
 MAX_ADJ_POR_CORRIDA = 5 # máximo de consultas de adjudicación por corrida
+HORAS_GRACIA = 48       # horas que se mantiene visible una compra que desaparece del API (ej: 2º llamado)
 # ─────────────────────────────────────────
 
 SESION = requests.Session()
@@ -371,7 +372,8 @@ def preparar_datos(perfil, filas, ahora, total_region, hist_cerradas=(), pendien
         "rubros": perfil["rubros"],
         "filas": [{k: f[k] for k in ("tipo", "motivos", "nueva", "codigo", "nombre", "organismo", "unidad", "monto",
                                      "cierre_iso", "publicacion", "publicacion_iso", "ofertas", "productos", "link",
-                                     "sin_detalle", "descripcion")} for f in filas],
+                                     "sin_detalle", "descripcion",
+                                     "en_gracia", "desaparecida_iso")} for f in filas],
         "historial": [
             {k: h.get(k) for k in ("codigo", "nombre", "organismo", "monto", "cierre_iso", "tipo",
                                    "motivos", "link", "primera_vista_iso", "removida_iso",
@@ -447,6 +449,8 @@ def main():
                             for p in det.get("productos_solicitados") or []
                         ],
                         "visto": ahora.isoformat(timespec="seconds"),
+                        "_region": c.get("_region"),
+                        "_cierre_iso": ((c.get("fechas") or {}).get("fecha_cierre") or ""),
                     }
                     estado = "✓"
                 else:
@@ -470,10 +474,51 @@ def main():
         print(f"   ⚠️  {len(fallidas)} compras siguen sin detalle; se intentan en la próxima corrida.")
 
     # Limpiar del caché las compras que ya no están abiertas (solo si el listado llegó completo).
+    # Las compras que desaparecen se marcan con _desaparecida_iso y se conservan HORAS_GRACIA horas
+    # antes de borrarlas, para cubrir el caso de 2º llamado o reactivaciones.
     if completo:
         abiertas = {c["codigo"] for c in compras}
-        for cod in [k for k in cache if k not in abiertas]:
-            del cache[cod]
+        # Actualizar _cierre_iso en cache con el dato fresco del listado
+        cierre_lista = {c["codigo"]: ((c.get("fechas") or {}).get("fecha_cierre") or "") for c in compras}
+        for cod, det in cache.items():
+            if cod in cierre_lista and cierre_lista[cod]:
+                det["_cierre_iso"] = cierre_lista[cod]
+        for cod in list(cache.keys()):
+            if cod in abiertas:
+                # Está activa en el listado: limpiar cualquier marca previa
+                cache[cod].pop("_desaparecida_iso", None)
+                cache[cod].pop("_cierre_2do_iso", None)
+            elif not cache[cod].get("_desaparecida_iso"):
+                # Acaba de desaparecer: consultar la API para ver si hay un 2º llamado
+                det_actual = llamar(f"/v2/compra-agil/{cod}", intentos=1)
+                cierre_nuevo = None
+                if det_actual:
+                    cierre_nuevo = (det_actual.get("fechas") or {}).get("fecha_cierre")
+                if cierre_nuevo:
+                    cierre_dt = a_local(cierre_nuevo)
+                    if cierre_dt and cierre_dt > ahora:
+                        # 2º llamado activo: guardar nueva fecha y marcar
+                        cache[cod]["_desaparecida_iso"] = ahora.isoformat(timespec="seconds")
+                        cache[cod]["_cierre_2do_iso"] = cierre_dt.isoformat()
+                        print(f"   🔄 {cod}: no está en lista pero cierra {cierre_dt:%d-%m %H:%M} → zona de gracia")
+                    else:
+                        del cache[cod]  # cerrada de verdad
+                else:
+                    del cache[cod]  # API no la devuelve o sin fecha
+            else:
+                # Ya estaba en zona de gracia: revisar si el 2º llamado sigue vigente
+                cierre_2do = cache[cod].get("_cierre_2do_iso")
+                if cierre_2do:
+                    try:
+                        cierre_dt = datetime.fromisoformat(cierre_2do)
+                        if cierre_dt.tzinfo is None:
+                            cierre_dt = cierre_dt.replace(tzinfo=ZONA)
+                        if ahora >= cierre_dt:
+                            del cache[cod]  # 2º llamado cerrado
+                    except (ValueError, KeyError):
+                        del cache[cod]
+                else:
+                    del cache[cod]
         guardar_cache(cache)
 
     pendientes_todas = [c for c in compras if c["codigo"] not in cache]
@@ -530,6 +575,45 @@ def generar_perfil(perfil, compras, cache, ahora):
             "descripcion": "" if sin_detalle else (det.get("descripcion") or "").strip(),
             "link": f"https://buscador.mercadopublico.cl/ficha?code={c['codigo']}",
         })
+    # Agregar compras en zona de gracia: desaparecieron del API pero aún no vencen las HORAS_GRACIA.
+    codigos_activos = {c["codigo"] for c in compras}
+    for cod, det in cache.items():
+        if cod in codigos_activos:
+            continue
+        desap_iso = det.get("_desaparecida_iso")
+        if not desap_iso:
+            continue
+        region_cache = det.get("_region")
+        if region_cache not in perfil["regiones"]:
+            continue
+        tipo, motivos = clasificar(det, perfil)
+        if not tipo:
+            continue
+        filas.append({
+            "tipo": tipo,
+            "motivos": motivos,
+            "nueva": False,
+            "codigo": cod,
+            "nombre": det.get("nombre") or "",
+            "organismo": "",
+            "unidad": "",
+            "monto": None,
+            "cierre_dt": None,
+            "cierre": "",
+            "cierre_iso": "",
+            "publicacion": "",
+            "publicacion_iso": "",
+            "sin_detalle": False,
+            "ofertas": 0,
+            "productos": [[str(p.get("codigo_producto") or ""), p.get("nombre") or "",
+                           p.get("cantidad"), (p.get("descripcion") or "").strip()]
+                          for p in det.get("productos_solicitados") or []],
+            "descripcion": (det.get("descripcion") or "").strip(),
+            "link": f"https://buscador.mercadopublico.cl/ficha?code={cod}",
+            "en_gracia": True,   # flag para la plantilla
+            "desaparecida_iso": desap_iso,
+        })
+
     filas.sort(key=lambda f: f["cierre_iso"] or "9999")
     pendientes = [c for c in compras if c["codigo"] not in cache]
 

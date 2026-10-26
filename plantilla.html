@@ -434,6 +434,8 @@
     .badge-pill.pos { background: var(--purple-soft); color: var(--purple); border: 1px solid var(--purple-border); }
     .badge-pill.new { background: var(--accent-blue); color: #0B0F17; }
     .badge-pill.nd { background: var(--amber-soft); color: var(--amber); border: 1px solid var(--amber-border); }
+    .badge-pill.gracia { background: var(--amber-soft); color: var(--amber); border: 1px solid var(--amber-border); }
+    .deal-card.en-gracia { border-left: 3px solid var(--amber); }
 
     .deal-title {
       font-size: 15px;
@@ -807,10 +809,11 @@ function tarjeta(f) {
   const esRubro = f.tipo === 'OPORTUNIDAD';
   const tipo = esRubro ? '<span class="badge-pill rubro">Tu rubro</span>' : '<span class="badge-pill pos">Posible</span>';
   const nd = f.sin_detalle ? '<span class="badge-pill nd" title="Sin detalle de ítems">Sin detalle</span>' : '';
+  const gracia = f.en_gracia ? '<span class="badge-pill gracia" title="Ya no aparece en el listado de Mercado Público — puede ser un 2º llamado u otro cambio. Verifica la ficha.">Verificar estado</span>' : '';
   const motivos = f.motivos.map(m => `<span class="tag-bubble matched">${esc(m)}</span>`).join('');
   const prods = f.productos.slice(0, 3).map(p => `<span class="tag-bubble"><span class="c-id">${esc(p[0])}</span>${esc(p[1])}</span>`).join('')
     + (f.productos.length > 3 ? `<span class="tag-bubble">+${f.productos.length - 3} más</span>` : '');
-  const cls = ['deal-card', r.cls, esRubro ? 'is-opportunity' : 'is-possible', st ? 'done' : '', noVistas.has(f.codigo) && !st ? 'unseen' : ''].join(' ');
+  const cls = ['deal-card', r.cls, esRubro ? 'is-opportunity' : 'is-possible', st ? 'done' : '', noVistas.has(f.codigo) && !st ? 'unseen' : '', f.en_gracia ? 'en-gracia' : ''].join(' ');
 
   return `<article class="${cls}" data-cod="${esc(f.codigo)}">
     <div class="deal-timer">
@@ -825,6 +828,7 @@ function tarjeta(f) {
         ${noVistas.has(f.codigo) && !st ? '<span class="badge-pill unseen">No vista</span>' : ''}
         ${f.nueva ? '<span class="badge-pill new">Nueva</span>' : ''}
         ${nd}
+        ${gracia}
       </div>
       <div class="deal-title" title="${esc(f.nombre)}">${esc(f.nombre)}</div>
       <div class="deal-institution">
