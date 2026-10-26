@@ -229,7 +229,7 @@
   "adj_nombre": null,
   "adj_monto": null,
   "adj_iso": null,
-  "adj_revisado_iso": "2026-10-22T18:55:50-03:00"
+  "adj_revisado_iso": "2026-10-26T16:26:03-03:00"
  },
  "4733-410-COT26": {
   "codigo": "4733-410-COT26",
@@ -246,11 +246,11 @@
   "primera_vista_iso": "2026-10-19T16:06:33-03:00",
   "ultima_activa_iso": "2026-10-22T22:11:34-03:00",
   "removida_iso": "2026-10-23T11:19:19-03:00",
-  "estado_api": null,
+  "estado_api": "",
   "adj_nombre": null,
   "adj_monto": null,
   "adj_iso": null,
-  "adj_revisado_iso": null
+  "adj_revisado_iso": "2026-10-26T16:26:03-03:00"
  },
  "1494998-22-COT26": {
   "codigo": "1494998-22-COT26",
@@ -271,7 +271,7 @@
   "adj_nombre": null,
   "adj_monto": null,
   "adj_iso": null,
-  "adj_revisado_iso": "2026-10-22T18:55:50-03:00"
+  "adj_revisado_iso": "2026-10-26T16:26:03-03:00"
  },
  "2495-564-COT26": {
   "codigo": "2495-564-COT26",
@@ -290,11 +290,11 @@
   "primera_vista_iso": "2026-10-19T16:57:34-03:00",
   "ultima_activa_iso": "2026-10-23T19:25:33-03:00",
   "removida_iso": "2026-10-23T21:52:30-03:00",
-  "estado_api": null,
+  "estado_api": "",
   "adj_nombre": null,
   "adj_monto": null,
   "adj_iso": null,
-  "adj_revisado_iso": null
+  "adj_revisado_iso": "2026-10-26T16:26:03-03:00"
  },
  "1758-250-COT26": {
   "codigo": "1758-250-COT26",
@@ -315,7 +315,7 @@
   "adj_nombre": null,
   "adj_monto": null,
   "adj_iso": null,
-  "adj_revisado_iso": "2026-10-22T19:54:36-03:00"
+  "adj_revisado_iso": "2026-10-26T16:26:03-03:00"
  },
  "2495-565-COT26": {
   "codigo": "2495-565-COT26",
@@ -739,7 +739,7 @@
   ],
   "link": "https://buscador.mercadopublico.cl/ficha?code=4140-97-COT26",
   "primera_vista_iso": "2026-10-23T11:19:19-03:00",
-  "ultima_activa_iso": "2026-10-26T16:12:12-03:00",
+  "ultima_activa_iso": "2026-10-26T16:26:03-03:00",
   "removida_iso": null,
   "estado_api": null,
   "adj_nombre": null,
@@ -931,7 +931,7 @@
   ],
   "link": "https://buscador.mercadopublico.cl/ficha?code=2495-580-COT26",
   "primera_vista_iso": "2026-10-26T13:13:41-03:00",
-  "ultima_activa_iso": "2026-10-26T16:12:12-03:00",
+  "ultima_activa_iso": "2026-10-26T16:26:03-03:00",
   "removida_iso": null,
   "estado_api": null,
   "adj_nombre": null,
@@ -952,7 +952,7 @@
   ],
   "link": "https://buscador.mercadopublico.cl/ficha?code=1494998-27-COT26",
   "primera_vista_iso": "2026-10-26T13:13:41-03:00",
-  "ultima_activa_iso": "2026-10-26T16:12:12-03:00",
+  "ultima_activa_iso": "2026-10-26T16:26:03-03:00",
   "removida_iso": null,
   "estado_api": null,
   "adj_nombre": null,
@@ -973,7 +973,7 @@
   ],
   "link": "https://buscador.mercadopublico.cl/ficha?code=854-29-COT26",
   "primera_vista_iso": "2026-10-26T13:13:41-03:00",
-  "ultima_activa_iso": "2026-10-26T16:12:12-03:00",
+  "ultima_activa_iso": "2026-10-26T16:26:03-03:00",
   "removida_iso": null,
   "estado_api": null,
   "adj_nombre": null,
@@ -994,7 +994,7 @@
   ],
   "link": "https://buscador.mercadopublico.cl/ficha?code=3791-1066-COT26",
   "primera_vista_iso": "2026-10-26T16:12:12-03:00",
-  "ultima_activa_iso": "2026-10-26T16:12:12-03:00",
+  "ultima_activa_iso": "2026-10-26T16:26:03-03:00",
   "removida_iso": null,
   "estado_api": null,
   "adj_nombre": null,
@@ -1015,7 +1015,7 @@
   ],
   "link": "https://buscador.mercadopublico.cl/ficha?code=3791-1068-COT26",
   "primera_vista_iso": "2026-10-26T16:12:12-03:00",
-  "ultima_activa_iso": "2026-10-26T16:12:12-03:00",
+  "ultima_activa_iso": "2026-10-26T16:26:03-03:00",
   "removida_iso": null,
   "estado_api": null,
   "adj_nombre": null,

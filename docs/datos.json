@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-10-26T13:13:41.926187-03:00",
+ "actualizado": "2026-10-26T16:26:03.612898-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
- "total_region": 184,
+ "total_region": 194,
  "rubros": {
   "80141600": "Ventas y marketing",
   "82101600": "Publicidad en medios no impresos",
@@ -14,65 +14,6 @@
   "83121700": "Comunicación social y de masas"
  },
  "filas": [
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "difusión",
-    "publicidad",
-    "publicitarios"
-   ],
-   "nueva": false,
-   "codigo": "1608-89-COT26",
-   "nombre": "ARTICULOS DE DIFUSIÓN PROGRAMA CONADI",
-   "organismo": "DELEGACIÓN PRESIDENCIAL REGIONAL DE AYSÉN DEL GENERAL CARLOS IBÁÑEZ DE",
-   "unidad": "DELEGACION PRESIDENCIAL REGIONAL DE AYSEN",
-   "monto": 1330000,
-   "cierre_iso": "2026-10-26T14:00:00-03:00",
-   "publicacion": "23-10 12:20",
-   "publicacion_iso": "2026-10-23T12:20:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "32131010",
-     "Tarjetas sencillas de circuitos impresos",
-     1,
-     "01 CAJA DE 100 UNIDADES DE TARJETAS DE PRESENTACION COLOR EN PAPEL COUCHE 300 GR CONSIDERA DISEÑO. (DISEÑO LO APORTA LA INSTITUCIÓN)"
-    ],
-    [
-     "32131010",
-     "Tarjetas sencillas de circuitos impresos",
-     4,
-     "CREDENCIALES PVC CON GRAFICA AMBAS CARAS MAS LANYARD COLGANTE BLANCO CON ESTAMPADO (DISEÑO LO APORTA LA INSTITUCIÓN)"
-    ],
-    [
-     "45111603",
-     "Pantallas de proyección",
-     1,
-     "PENDON ROLLER GRAF DE 2 X 1 MTS CON BOLSO PORTADOR (DISEÑO LO APORTA LA INSTITUCIÓN)"
-    ],
-    [
-     "45111603",
-     "Pantallas de proyección",
-     1,
-     "PANEL ARAÑA TEXTIL RECTO DE 225 X 230 CM GRAFICA FULL COLOR (DISEÑO LO APORTA LA INSTITUCIÓN)"
-    ],
-    [
-     "55121706",
-     "Banderas",
-     1,
-     "BANDERA DE VELA DE 220 DE MASTIL MAS TELA DE 140 X 70 CM (DISEÑO LO APORTA LA INSTITUCIÓN)"
-    ],
-    [
-     "82101507",
-     "Folletos y catálogos publicitarios, servicios de publicidad y distribución",
-     1000,
-     "1000 MIL UNIDADES DE DIPTICOS TAMAÑO CARTA 4/4 COLOR EN PAPEL COUCHE 130 GR (DISEÑO LO APORTA LA INSTITUCIÓN)"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1608-89-COT26",
-   "sin_detalle": false,
-   "descripcion": "CORIZAR; Artículos de Difusión Programa CONADI, Región de Aysén, con despacho incluido y entrega en 03 días de emitida la Orden de Compra.!!Diseño que los productos lo aportara la Institución¡¡"
-  },
   {
    "tipo": "OPORTUNIDAD",
    "motivos": [
@@ -98,7 +39,9 @@
    ],
    "link": "https://buscador.mercadopublico.cl/ficha?code=2495-580-COT26",
    "sin_detalle": false,
-   "descripcion": "Servicio de ambientación del stand turístico de Coyhaique. ver TTR adjunto.\n\nEl monto disponible es $3.000.000.- Imp. Incl. no se aceptarán ofertas que superen este monto.\n\nAdjuntar Hoja de Oferta Económica disponible en doc adjunto. TTR SERVICIO DE PRODUCCION Y HOJA DE POSTULACION,"
+   "descripcion": "Servicio de ambientación del stand turístico de Coyhaique. ver TTR adjunto.\n\nEl monto disponible es $3.000.000.- Imp. Incl. no se aceptarán ofertas que superen este monto.\n\nAdjuntar Hoja de Oferta Económica disponible en doc adjunto. TTR SERVICIO DE PRODUCCION Y HOJA DE POSTULACION,",
+   "en_gracia": false,
+   "desaparecida_iso": ""
   },
   {
    "tipo": "POSIBLE",
@@ -152,7 +95,9 @@
    ],
    "link": "https://buscador.mercadopublico.cl/ficha?code=4140-97-COT26",
    "sin_detalle": false,
-   "descripcion": "SE REQUIERE REALIZAR DIFUSION DIGITAL PARA LA PROMOCION DE LAS ACTIVIDADES DEL PROYECTO NIÑEZ Y PATRIMONIO"
+   "descripcion": "SE REQUIERE REALIZAR DIFUSION DIGITAL PARA LA PROMOCION DE LAS ACTIVIDADES DEL PROYECTO NIÑEZ Y PATRIMONIO",
+   "en_gracia": false,
+   "desaparecida_iso": ""
   },
   {
    "tipo": "OPORTUNIDAD",
@@ -179,7 +124,73 @@
    ],
    "link": "https://buscador.mercadopublico.cl/ficha?code=1494998-27-COT26",
    "sin_detalle": false,
-   "descripcion": "El Servicio de Biodiversidad y Áreas Protegidas, en adelante el SBAP, llama a proveedores a participar en la presentación de ofertas destinadas a provisionar el servicio de apoyo a la realización de dos (2) talleres de gobernanza en el ACMU-PPA. A realizarse en la localidad de Raúl Marín Balmaceda los días 09, 10 y 11 de noviembre de 2026 para la Dirección Regional de Aysén del General Carlos Ibáñez del Campo. Considerar TDR, EETT y Anexo N°1 adjuntos para la presentación de ofertas."
+   "descripcion": "El Servicio de Biodiversidad y Áreas Protegidas, en adelante el SBAP, llama a proveedores a participar en la presentación de ofertas destinadas a provisionar el servicio de apoyo a la realización de dos (2) talleres de gobernanza en el ACMU-PPA. A realizarse en la localidad de Raúl Marín Balmaceda los días 09, 10 y 11 de noviembre de 2026 para la Dirección Regional de Aysén del General Carlos Ibáñez del Campo. Considerar TDR, EETT y Anexo N°1 adjuntos para la presentación de ofertas.",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "difusion"
+   ],
+   "nueva": true,
+   "codigo": "3791-1066-COT26",
+   "nombre": "CAMARA PARA TRANSMISION ",
+   "organismo": "I MUNICIPALIDAD DE CISNES",
+   "unidad": "Finanzas",
+   "monto": 290001,
+   "cierre_iso": "2026-10-27T15:00:00-03:00",
+   "publicacion": "26-10 14:47",
+   "publicacion_iso": "2026-10-26T14:47:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "45121504",
+     "Cámaras digitales",
+     1,
+     "Cámara para transmisión: OBSBOT Tiny 2 Lite Webcam 4K PTZ con IA o similar, con conexión USB, resolución hasta\n4K HDR."
+    ],
+    [
+     "45121602",
+     "Trípodes",
+     1,
+     "Trípode de aluminio para cámara, altura máxima de 1,72 m, soporte hasta 4 kg y cabeza de 3 vías. Incluye\ngarantía para transmisión de eventos municipales."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=3791-1066-COT26",
+   "sin_detalle": false,
+   "descripcion": "ADQUISICION DE CAMARA PARA LA TRANSMISION EN VIVO DE EVENTOS MUNICIPALES, PARA MEJORAR CALIDAD AUDIVISUAL Y LA DIFUSION DE LAS ACTIVIDADES INSTITUCIONALES. SE ADJUNTAN ESPECIFICACIONES",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Ventas y marketing"
+   ],
+   "nueva": true,
+   "codigo": "3791-1068-COT26",
+   "nombre": "SERVICIOS DE PRODUCCION ",
+   "organismo": "I MUNICIPALIDAD DE CISNES",
+   "unidad": "Finanzas",
+   "monto": 1200000,
+   "cierre_iso": "2026-10-27T15:30:00-03:00",
+   "publicacion": "26-10 15:11",
+   "publicacion_iso": "2026-10-26T15:11:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "80141607",
+     "Producción de eventos",
+     1,
+     "Servicio de producción para inauguración y premiación de Olimpiadas Comunales."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=3791-1068-COT26",
+   "sin_detalle": false,
+   "descripcion": "SERVICIO DE PRODUCCION Y APOYO TECNICO PARA REALIZACION DE LAS CEREMONIAS DE INAGURACION Y PREMIACION DE LAS OLIMPIADAS COMUNALES 2026. SE ADJUNTAN ESPECIFICACIONES",
+   "en_gracia": false,
+   "desaparecida_iso": ""
   },
   {
    "tipo": "POSIBLE",
@@ -206,10 +217,32 @@
    ],
    "link": "https://buscador.mercadopublico.cl/ficha?code=854-29-COT26",
    "sin_detalle": false,
-   "descripcion": "Las presentes bases tienen por objeto indicar los detalles y aspectos específicos del servicio de impresión de volantes (flyers) para informar a las familias de la Región de Aysén sobre el proceso de postulación a los jardines infantiles de JUNJI, que se difundirán en la oficina regional, en los jardines infantiles, en actividades en terreno y en espacios públicos de la región en la campaña “Asistir al jardín marca la diferencia”."
+   "descripcion": "Las presentes bases tienen por objeto indicar los detalles y aspectos específicos del servicio de impresión de volantes (flyers) para informar a las familias de la Región de Aysén sobre el proceso de postulación a los jardines infantiles de JUNJI, que se difundirán en la oficina regional, en los jardines infantiles, en actividades en terreno y en espacios públicos de la región en la campaña “Asistir al jardín marca la diferencia”.",
+   "en_gracia": false,
+   "desaparecida_iso": ""
   }
  ],
  "historial": [
+  {
+   "codigo": "1608-89-COT26",
+   "nombre": "ARTICULOS DE DIFUSIÓN PROGRAMA CONADI",
+   "organismo": "DELEGACIÓN PRESIDENCIAL REGIONAL DE AYSÉN DEL GENERAL CARLOS IBÁÑEZ DE",
+   "monto": 1330000,
+   "cierre_iso": "2026-10-26T14:00:00-03:00",
+   "tipo": "POSIBLE",
+   "motivos": [
+    "difusión",
+    "publicidad",
+    "publicitarios"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1608-89-COT26",
+   "primera_vista_iso": "2026-10-23T15:31:59-03:00",
+   "removida_iso": "2026-10-26T16:12:12-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
   {
    "codigo": "682-20-COT26",
    "nombre": "CONTRATACIÓN DE SERVICIOS DE PUBLICACIÓN, SANEAMIENTOS D.L. N° 2695/79",
@@ -223,7 +256,7 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=682-20-COT26",
    "primera_vista_iso": "2026-10-16T10:09:44-03:00",
    "removida_iso": "2026-10-26T13:13:41-03:00",
-   "estado_api": null,
+   "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,
    "adj_iso": null
@@ -467,7 +500,7 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=2495-564-COT26",
    "primera_vista_iso": "2026-10-19T16:57:34-03:00",
    "removida_iso": "2026-10-23T21:52:30-03:00",
-   "estado_api": null,
+   "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,
    "adj_iso": null
@@ -593,7 +626,7 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=4733-410-COT26",
    "primera_vista_iso": "2026-10-19T16:06:33-03:00",
    "removida_iso": "2026-10-23T11:19:19-03:00",
-   "estado_api": null,
+   "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,
    "adj_iso": null
@@ -954,42 +987,6 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=4778-319-COT26",
    "primera_vista_iso": "2026-10-14T14:56:34-03:00",
    "removida_iso": "2026-10-19T16:57:34-03:00",
-   "estado_api": "",
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "1057062-464-COT26",
-   "nombre": "Servicio de producción de eventos para el 22 y 23 de octubre en Coyhaique y Puerto Aysén según Fisabs 2297_Programa Orquestas",
-   "organismo": "UNIVERSIDAD DE AYSEN",
-   "monto": 1950000,
-   "cierre_iso": "2026-10-19T16:00:00-03:00",
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Ventas y marketing"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1057062-464-COT26",
-   "primera_vista_iso": "2026-10-16T11:00:56-03:00",
-   "removida_iso": "2026-10-19T16:06:33-03:00",
-   "estado_api": "",
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "4778-331-COT26",
-   "nombre": "ADQUISICION DE INSUMOS CLINICOS PARA MONITOREO DE PACIENTES",
-   "organismo": "SERVICIO NACIONAL DE SALUD HOSPITAL DE C",
-   "monto": 5909540,
-   "cierre_iso": "2026-10-19T16:00:00-03:00",
-   "tipo": "POSIBLE",
-   "motivos": [
-    "spot"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=4778-331-COT26",
-   "primera_vista_iso": "2026-10-16T13:57:01-03:00",
-   "removida_iso": "2026-10-19T16:06:33-03:00",
    "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,

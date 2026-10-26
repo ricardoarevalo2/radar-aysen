@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-10-26T13:13:41.926187-03:00",
+ "actualizado": "2026-10-26T16:26:03.612898-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
- "total_region": 184,
+ "total_region": 194,
  "rubros": {
   "25172700": "Aire acondicionado",
   "25173900": "Componentes eléctricos",
@@ -44,7 +44,9 @@
    ],
    "link": "https://buscador.mercadopublico.cl/ficha?code=1458-26-COT26",
    "sin_detalle": false,
-   "descripcion": "La Secretaría Regional Ministerial de Desarrollo Social y Familia de la región de Aysén, debe adquirir 600 litros aproximados de Kerosene para calefacción de las oficinas. El Kerosene debe ser entregado en las dependencias de la Seremi, ubicada en Gral. Parra N°326 y el camión que transporte el combustible debe estar autorizado por la Superintendencia de Electricidad y Combustible. (VER TÉRMINOS DE REFERENCIA)"
+   "descripcion": "La Secretaría Regional Ministerial de Desarrollo Social y Familia de la región de Aysén, debe adquirir 600 litros aproximados de Kerosene para calefacción de las oficinas. El Kerosene debe ser entregado en las dependencias de la Seremi, ubicada en Gral. Parra N°326 y el camión que transporte el combustible debe estar autorizado por la Superintendencia de Electricidad y Combustible. (VER TÉRMINOS DE REFERENCIA)",
+   "en_gracia": false,
+   "desaparecida_iso": ""
   },
   {
    "tipo": "OPORTUNIDAD",
@@ -71,7 +73,9 @@
    ],
    "link": "https://buscador.mercadopublico.cl/ficha?code=1233615-852-COT26",
    "sin_detalle": false,
-   "descripcion": "Se solicita la adquisición de insumos, accesorios y equipamiento informático necesarios para garantizar la continuidad operativa, mantención y adecuado funcionamiento de los recursos tecnológicos de la Escuela Litoral Austral."
+   "descripcion": "Se solicita la adquisición de insumos, accesorios y equipamiento informático necesarios para garantizar la continuidad operativa, mantención y adecuado funcionamiento de los recursos tecnológicos de la Escuela Litoral Austral.",
+   "en_gracia": false,
+   "desaparecida_iso": ""
   },
   {
    "tipo": "OPORTUNIDAD",
@@ -98,7 +102,9 @@
    ],
    "link": "https://buscador.mercadopublico.cl/ficha?code=1274667-416-COT26",
    "sin_detalle": false,
-   "descripcion": "ADJUNTAR COTIZACION - ADJUNTAR FICHA TECNICA PARA PODER EVALUAR CORRECTAMENTE LA OFERTA - DATOS BANCARIOS - CONTACTO PARA RESOLVER DUDAS - EN CASO DE ADJUDICACION FAVOR EMITIR DESPACHO CON GUIA - MARCAS MENCIONADAS SON SOLAMENTE REFERENCIALES. DETALLES EN DOCUMENTO ADJUNTO."
+   "descripcion": "ADJUNTAR COTIZACION - ADJUNTAR FICHA TECNICA PARA PODER EVALUAR CORRECTAMENTE LA OFERTA - DATOS BANCARIOS - CONTACTO PARA RESOLVER DUDAS - EN CASO DE ADJUDICACION FAVOR EMITIR DESPACHO CON GUIA - MARCAS MENCIONADAS SON SOLAMENTE REFERENCIALES. DETALLES EN DOCUMENTO ADJUNTO.",
+   "en_gracia": false,
+   "desaparecida_iso": ""
   },
   {
    "tipo": "OPORTUNIDAD",
@@ -125,7 +131,9 @@
    ],
    "link": "https://buscador.mercadopublico.cl/ficha?code=3949-265-COT26",
    "sin_detalle": false,
-   "descripcion": "SE REQUIERE ADQUIRIR PARCHES ELECTRODOS PEDIATRICOS COMPATIBLES PARA MONITOR INSTRAMED, MODELO CARDIOMAX CON FECHA DE VENCIMIENTO 2028-2029. DESPACHO INMEDIATO A COYHAIQUE"
+   "descripcion": "SE REQUIERE ADQUIRIR PARCHES ELECTRODOS PEDIATRICOS COMPATIBLES PARA MONITOR INSTRAMED, MODELO CARDIOMAX CON FECHA DE VENCIMIENTO 2028-2029. DESPACHO INMEDIATO A COYHAIQUE",
+   "en_gracia": false,
+   "desaparecida_iso": ""
   },
   {
    "tipo": "POSIBLE",
@@ -161,7 +169,39 @@
    ],
    "link": "https://buscador.mercadopublico.cl/ficha?code=1494998-26-COT26",
    "sin_detalle": false,
-   "descripcion": "El Servicio de Biodiversidad y Áreas Protegidas, en adelante el SBAP, llama a proveedores a participar en la presentación de ofertas destinadas a la adquisición y despacho de generadores eléctricos para las Áreas Protegidas de la Dirección Regional de Aysén del General Carlos Ibáñez del Campo. Considerar TDR y EETT adjuntas para proceso de postulación."
+   "descripcion": "El Servicio de Biodiversidad y Áreas Protegidas, en adelante el SBAP, llama a proveedores a participar en la presentación de ofertas destinadas a la adquisición y despacho de generadores eléctricos para las Áreas Protegidas de la Dirección Regional de Aysén del General Carlos Ibáñez del Campo. Considerar TDR y EETT adjuntas para proceso de postulación.",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "eléctrico",
+    "te1"
+   ],
+   "nueva": true,
+   "codigo": "3765-311-COT26",
+   "nombre": " SE SOLICITA CONTRATACION DE UN INSTALADOR ELECTRICO - FACTIBILIDAD TE1 CASA SENDA ",
+   "organismo": "SERVICIO NACIONAL DE SALUD HOSPITAL DE C",
+   "unidad": "Hospital Doctor  Leopoldo Ortega Rodríguez",
+   "monto": 2000000,
+   "cierre_iso": "2026-10-28T09:00:00-03:00",
+   "publicacion": "26-10 14:38",
+   "publicacion_iso": "2026-10-26T14:38:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "42191701",
+     "Servicio eléctrico o de gas médico",
+     1,
+     "SE SOLICITA CONTRATACION DE UN INSTALADOR ELECTRICO - FACTIBILIDAD TE1 CASA SENDA; SE ADJUNTA DETALLES DE SERVICIO A CONTRATAR; DISPONINILIDAD INMEDIATA Y SE DEBE ADJUNTAR UNA PROPUESTA CON LO SOLICITADO (ADMISIBILIDAD)"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=3765-311-COT26",
+   "sin_detalle": false,
+   "descripcion": "SE SOLICITA CONTRATACION DE UN INSTALADOR ELECTRICO - FACTIBILIDAD TE1 CASA SENDA SE ADJUNTA DETALLES DE SERVICIO A CONTRATAR - DISPONIBILIDAD INMEDIATA.",
+   "en_gracia": false,
+   "desaparecida_iso": ""
   },
   {
    "tipo": "OPORTUNIDAD",
@@ -188,7 +228,9 @@
    ],
    "link": "https://buscador.mercadopublico.cl/ficha?code=4066-419-COT26",
    "sin_detalle": false,
-   "descripcion": "Contratar mano de obra para ejecución de reparación de instalación eléctrica de 2 viviendas de la localidad de Puerto Sánchez. Consistente en obras de mejoramiento de la instalación eléctrica interior las cuales se deberán cumplir con las normativas vigente y las especificaciones técnicas adjuntas. El prestador deberá asegurar la entrega oportuna y conforme de los productos comprometidos en los plazos establecidos, coordinando permanentemente con la Unidad Técnica, según términos de referencias"
+   "descripcion": "Contratar mano de obra para ejecución de reparación de instalación eléctrica de 2 viviendas de la localidad de Puerto Sánchez. Consistente en obras de mejoramiento de la instalación eléctrica interior las cuales se deberán cumplir con las normativas vigente y las especificaciones técnicas adjuntas. El prestador deberá asegurar la entrega oportuna y conforme de los productos comprometidos en los plazos establecidos, coordinando permanentemente con la Unidad Técnica, según términos de referencias",
+   "en_gracia": false,
+   "desaparecida_iso": ""
   },
   {
    "tipo": "POSIBLE",
@@ -215,7 +257,9 @@
    ],
    "link": "https://buscador.mercadopublico.cl/ficha?code=2042-372-COT26",
    "sin_detalle": false,
-   "descripcion": "ADQUISICION DE  FOCOS  PROYECTORES  LED  DE   100  WATTS   ,  DESTINADOS  A  LA  REPÓSICION  DE  LA   LUMINARIA,  DE   LA   PLANTA  DE  TRATAMIENTO  DE  AGUAS  SERVIDAS  DE  LA  COMUNA . DICHAS   LUNINARIAS  DEBEN  CUMPLIAR  CON  LAS  ESPECIFICACIONES  QUE  SE  SOLICITAN   EN  ANEXO  ADJUNTO   .- SE   SOLICITA  ADJUNTAR   COTIZACION  ESTABLECIENDO   PLAZO  Y  LUGAR  DE  ENTREGA   .-"
+   "descripcion": "ADQUISICION DE  FOCOS  PROYECTORES  LED  DE   100  WATTS   ,  DESTINADOS  A  LA  REPÓSICION  DE  LA   LUMINARIA,  DE   LA   PLANTA  DE  TRATAMIENTO  DE  AGUAS  SERVIDAS  DE  LA  COMUNA . DICHAS   LUNINARIAS  DEBEN  CUMPLIAR  CON  LAS  ESPECIFICACIONES  QUE  SE  SOLICITAN   EN  ANEXO  ADJUNTO   .- SE   SOLICITA  ADJUNTAR   COTIZACION  ESTABLECIENDO   PLAZO  Y  LUGAR  DE  ENTREGA   .-",
+   "en_gracia": false,
+   "desaparecida_iso": ""
   }
  ],
  "historial": [
@@ -834,42 +878,6 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=1281188-17-COT26",
    "primera_vista_iso": "2026-10-16T16:50:54-03:00",
    "removida_iso": "2026-10-19T16:57:34-03:00",
-   "estado_api": "",
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "3431-116-COT26",
-   "nombre": "FI- Solicitud de cotización para la adquisición de servicio de mantención de la caldera del pabellón del casino de suboficiales de esta unidad.",
-   "organismo": "Ejercito de Chile",
-   "monto": 7100000,
-   "cierre_iso": "2026-10-19T16:00:00-03:00",
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Gasfitería, calefacción y aire acondicionado"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=3431-116-COT26",
-   "primera_vista_iso": "2026-10-15T14:53:38-03:00",
-   "removida_iso": "2026-10-19T16:06:33-03:00",
-   "estado_api": "",
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "1057062-464-COT26",
-   "nombre": "Servicio de producción de eventos para el 22 y 23 de octubre en Coyhaique y Puerto Aysén según Fisabs 2297_Programa Orquestas",
-   "organismo": "UNIVERSIDAD DE AYSEN",
-   "monto": 1950000,
-   "cierre_iso": "2026-10-19T16:00:00-03:00",
-   "tipo": "POSIBLE",
-   "motivos": [
-    "iluminación"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1057062-464-COT26",
-   "primera_vista_iso": "2026-10-16T11:00:56-03:00",
-   "removida_iso": "2026-10-19T16:06:33-03:00",
    "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,
