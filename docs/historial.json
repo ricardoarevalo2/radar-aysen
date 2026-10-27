@@ -18,28 +18,7 @@
   "adj_nombre": null,
   "adj_monto": null,
   "adj_iso": null,
-  "adj_revisado_iso": "2026-10-26T21:38:14-03:00"
- },
- "4144-304-COT26": {
-  "codigo": "4144-304-COT26",
-  "nombre": "Se requiere la adquisicion de un equipo de radio portatil para la localidad de Villa Amengual",
-  "organismo": "I MUNICIPALIDAD DE LAGO VERDE",
-  "unidad": "Finanzas",
-  "monto": 100000,
-  "cierre_iso": "2026-10-20T10:00:00-03:00",
-  "tipo": "POSIBLE",
-  "motivos": [
-   "radio"
-  ],
-  "link": "https://buscador.mercadopublico.cl/ficha?code=4144-304-COT26",
-  "primera_vista_iso": "2026-10-15T11:57:55-03:00",
-  "ultima_activa_iso": "2026-10-20T08:56:11-03:00",
-  "removida_iso": "2026-10-20T10:11:44-03:00",
-  "estado_api": "",
-  "adj_nombre": null,
-  "adj_monto": null,
-  "adj_iso": null,
-  "adj_revisado_iso": "2026-10-26T21:38:14-03:00"
+  "adj_revisado_iso": "2026-10-27T12:27:37-03:00"
  },
  "1182705-193-COT26": {
   "codigo": "1182705-193-COT26",
@@ -61,7 +40,7 @@
   "adj_nombre": null,
   "adj_monto": null,
   "adj_iso": null,
-  "adj_revisado_iso": "2026-10-26T21:38:14-03:00"
+  "adj_revisado_iso": "2026-10-27T12:27:37-03:00"
  },
  "2713-1258-COT26": {
   "codigo": "2713-1258-COT26",
@@ -82,7 +61,7 @@
   "adj_nombre": null,
   "adj_monto": null,
   "adj_iso": null,
-  "adj_revisado_iso": "2026-10-26T21:38:14-03:00"
+  "adj_revisado_iso": "2026-10-27T12:27:37-03:00"
  },
  "828-49-COT26": {
   "codigo": "828-49-COT26",
@@ -103,7 +82,7 @@
   "adj_nombre": null,
   "adj_monto": null,
   "adj_iso": null,
-  "adj_revisado_iso": "2026-10-26T16:12:12-03:00"
+  "adj_revisado_iso": "2026-10-27T12:27:37-03:00"
  },
  "682-20-COT26": {
   "codigo": "682-20-COT26",
@@ -124,7 +103,7 @@
   "adj_nombre": null,
   "adj_monto": null,
   "adj_iso": null,
-  "adj_revisado_iso": "2026-10-26T16:12:12-03:00"
+  "adj_revisado_iso": "2026-10-27T12:27:37-03:00"
  },
  "1746-241-COT26": {
   "codigo": "1746-241-COT26",
@@ -677,7 +656,7 @@
   "link": "https://buscador.mercadopublico.cl/ficha?code=4140-97-COT26",
   "primera_vista_iso": "2026-10-23T11:19:19-03:00",
   "ultima_activa_iso": "2026-10-26T21:38:14-03:00",
-  "removida_iso": null,
+  "removida_iso": "2026-10-27T12:27:37-03:00",
   "estado_api": null,
   "adj_nombre": null,
   "adj_monto": null,
@@ -869,7 +848,7 @@
   "link": "https://buscador.mercadopublico.cl/ficha?code=2495-580-COT26",
   "primera_vista_iso": "2026-10-26T13:13:41-03:00",
   "ultima_activa_iso": "2026-10-26T21:38:14-03:00",
-  "removida_iso": null,
+  "removida_iso": "2026-10-27T12:27:37-03:00",
   "estado_api": null,
   "adj_nombre": null,
   "adj_monto": null,
@@ -890,7 +869,7 @@
   "link": "https://buscador.mercadopublico.cl/ficha?code=1494998-27-COT26",
   "primera_vista_iso": "2026-10-26T13:13:41-03:00",
   "ultima_activa_iso": "2026-10-26T21:38:14-03:00",
-  "removida_iso": null,
+  "removida_iso": "2026-10-27T12:27:37-03:00",
   "estado_api": null,
   "adj_nombre": null,
   "adj_monto": null,
@@ -910,7 +889,7 @@
   ],
   "link": "https://buscador.mercadopublico.cl/ficha?code=854-29-COT26",
   "primera_vista_iso": "2026-10-26T13:13:41-03:00",
-  "ultima_activa_iso": "2026-10-26T21:38:14-03:00",
+  "ultima_activa_iso": "2026-10-27T12:27:37-03:00",
   "removida_iso": null,
   "estado_api": null,
   "adj_nombre": null,
@@ -931,7 +910,7 @@
   ],
   "link": "https://buscador.mercadopublico.cl/ficha?code=3791-1066-COT26",
   "primera_vista_iso": "2026-10-26T16:12:12-03:00",
-  "ultima_activa_iso": "2026-10-26T21:38:14-03:00",
+  "ultima_activa_iso": "2026-10-27T12:27:37-03:00",
   "removida_iso": null,
   "estado_api": null,
   "adj_nombre": null,
@@ -952,7 +931,7 @@
   ],
   "link": "https://buscador.mercadopublico.cl/ficha?code=3791-1068-COT26",
   "primera_vista_iso": "2026-10-26T16:12:12-03:00",
-  "ultima_activa_iso": "2026-10-26T21:38:14-03:00",
+  "ultima_activa_iso": "2026-10-27T12:27:37-03:00",
   "removida_iso": null,
   "estado_api": null,
   "adj_nombre": null,
@@ -974,7 +953,7 @@
   ],
   "link": "https://buscador.mercadopublico.cl/ficha?code=2495-584-COT26",
   "primera_vista_iso": "2026-10-26T18:06:24-03:00",
-  "ultima_activa_iso": "2026-10-26T21:38:14-03:00",
+  "ultima_activa_iso": "2026-10-27T12:27:37-03:00",
   "removida_iso": null,
   "estado_api": null,
   "adj_nombre": null,
@@ -995,7 +974,70 @@
   ],
   "link": "https://buscador.mercadopublico.cl/ficha?code=1208109-24-COT26",
   "primera_vista_iso": "2026-10-26T18:06:24-03:00",
-  "ultima_activa_iso": "2026-10-26T21:38:14-03:00",
+  "ultima_activa_iso": "2026-10-27T12:27:37-03:00",
+  "removida_iso": null,
+  "estado_api": null,
+  "adj_nombre": null,
+  "adj_monto": null,
+  "adj_iso": null,
+  "adj_revisado_iso": null
+ },
+ "2495-586-COT26": {
+  "codigo": "2495-586-COT26",
+  "nombre": "Servicio de difusión radial de cápsulas informativas del Centro de las Mujeres de Coyhaique",
+  "organismo": "I MUNICIPALIDAD DE COYHAIQUE",
+  "unidad": "DIRECCION DESARROLLO COMUNITARIO",
+  "monto": 200000,
+  "cierre_iso": "2026-10-28T12:00:00-03:00",
+  "tipo": "OPORTUNIDAD",
+  "motivos": [
+   "Servicios de radio"
+  ],
+  "link": "https://buscador.mercadopublico.cl/ficha?code=2495-586-COT26",
+  "primera_vista_iso": "2026-10-27T12:27:37-03:00",
+  "ultima_activa_iso": "2026-10-27T12:27:37-03:00",
+  "removida_iso": null,
+  "estado_api": null,
+  "adj_nombre": null,
+  "adj_monto": null,
+  "adj_iso": null,
+  "adj_revisado_iso": null
+ },
+ "1282238-79-COT26": {
+  "codigo": "1282238-79-COT26",
+  "nombre": "Servicio de difusión audiovisual en medio de comunicación digital para 3 proyectos culturales",
+  "organismo": "CORPORACION CULTURAL MUNICIPAL DE COYHAIQUE",
+  "unidad": "CORPORACION CULTURAL MUNICIPAL DE COYHAIQUE",
+  "monto": 600000,
+  "cierre_iso": "2026-10-28T18:00:00-03:00",
+  "tipo": "OPORTUNIDAD",
+  "motivos": [
+   "Publicidad en medios no impresos"
+  ],
+  "link": "https://buscador.mercadopublico.cl/ficha?code=1282238-79-COT26",
+  "primera_vista_iso": "2026-10-27T12:27:37-03:00",
+  "ultima_activa_iso": "2026-10-27T12:27:37-03:00",
+  "removida_iso": null,
+  "estado_api": null,
+  "adj_nombre": null,
+  "adj_monto": null,
+  "adj_iso": null,
+  "adj_revisado_iso": null
+ },
+ "1282238-82-COT26": {
+  "codigo": "1282238-82-COT26",
+  "nombre": "Servicios artísticos, sonido, apoyo de producción e insumos - actividad cultural masiva al aire libre 31-10 - PAOCC 2026",
+  "organismo": "CORPORACION CULTURAL MUNICIPAL DE COYHAIQUE",
+  "unidad": "CORPORACION CULTURAL MUNICIPAL DE COYHAIQUE",
+  "monto": 2500000,
+  "cierre_iso": "2026-10-28T18:00:00-03:00",
+  "tipo": "OPORTUNIDAD",
+  "motivos": [
+   "Ventas y marketing"
+  ],
+  "link": "https://buscador.mercadopublico.cl/ficha?code=1282238-82-COT26",
+  "primera_vista_iso": "2026-10-27T12:27:37-03:00",
+  "ultima_activa_iso": "2026-10-27T12:27:37-03:00",
   "removida_iso": null,
   "estado_api": null,
   "adj_nombre": null,

@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-10-26T21:38:14.553514-03:00",
+ "actualizado": "2026-10-27T12:27:37.853213-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
- "total_region": 221,
+ "total_region": 235,
  "rubros": {
   "80141600": "Ventas y marketing",
   "82101600": "Publicidad en medios no impresos",
@@ -14,120 +14,6 @@
   "83121700": "Comunicación social y de masas"
  },
  "filas": [
-  {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Ventas y marketing"
-   ],
-   "nueva": true,
-   "codigo": "2495-580-COT26",
-   "nombre": "Servicio de ambientación del stand turístico de Coyhaique",
-   "organismo": "I MUNICIPALIDAD DE COYHAIQUE",
-   "unidad": "DIRECCION DESARROLLO COMUNITARIO",
-   "monto": 3000000,
-   "cierre_iso": "2026-10-27T11:00:00-03:00",
-   "publicacion": "26-10 10:38",
-   "publicacion_iso": "2026-10-26T10:38:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "80141607",
-     "Producción de eventos",
-     1,
-     "VER TTR ADJUNTO."
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=2495-580-COT26",
-   "sin_detalle": false,
-   "descripcion": "Servicio de ambientación del stand turístico de Coyhaique. ver TTR adjunto.\n\nEl monto disponible es $3.000.000.- Imp. Incl. no se aceptarán ofertas que superen este monto.\n\nAdjuntar Hoja de Oferta Económica disponible en doc adjunto. TTR SERVICIO DE PRODUCCION Y HOJA DE POSTULACION,",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "difusion",
-    "radial",
-    "redes sociales",
-    "television"
-   ],
-   "nueva": true,
-   "codigo": "4140-97-COT26",
-   "nombre": "DIFUSION DIGITAL PARA PROMOSION DE LAS ACTIVIDADES NIÑEZ Y PATRIMONIO ",
-   "organismo": "I MUNICIPALIDAD DE LAGO VERDE",
-   "unidad": "Adquisiciones",
-   "monto": 500000,
-   "cierre_iso": "2026-10-27T11:26:00-03:00",
-   "publicacion": "23-10 10:36",
-   "publicacion_iso": "2026-10-23T10:36:00-03:00",
-   "ofertas": 1,
-   "productos": [
-    [
-     "55101519",
-     "Publicaciones periódicas",
-     6,
-     "PUBLICACIONES DIGITALES DE DIFUSION PREVIA: PUBLICACIONES EN REDES SOCIALES Y MEDIOS DIGITALES DURANTE LAS SEMANAS PREVIAS AL INICIO DE LAS ACTIVIDADES, INCLUYENDO LANZAMIENTO DEL PROYECTO, INFORMACION DE LOS TALLERES, FECHAS, LUGARES Y CONVOCATORIA DIRIGIDA A LOS NIÑOS, NIÑAS, ADOLESCENTES Y SUS FAMILIAS"
-    ],
-    [
-     "55101519",
-     "Publicaciones periódicas",
-     2,
-     "ARTICULOS DEL PROYECTO EN EL SITIO WEB DEL PROVEEDOR; PUBLICACION DE CONTENIDOS EN DOS INSTANCIAS; UNA PRIMERA PUBLICACION PARA PRESENTAR Y PROMOCIONAR EL PROYECTO ANTES DEL INICIO DE LAS ACTIVIDADES Y UNA SEGUNDA PARA INFORMAR SOBRE LOS RESULTADOS FINALES Y LOS PRODUCTOS OBTENIDOS."
-    ],
-    [
-     "55101519",
-     "Publicaciones periódicas",
-     10,
-     "DIFUSION RADIAL O TELEVISIVA DIGITAL: MENCIONES A TRAVES DE RADIOS, CANALES DE TELEVISION U OTRAS PLATAFORMAS DE COMUNICACION DIGITAL DURANTE EL PERIODO DE CONVOCATORIA PREVIO AL INICIO DE LAS ACTIVIDADES, ENTREGANDO INFORMACION SOBRE EL PROYECTO Y MOTIVANDO LA PARTICIPACION DE LA COMUNIDAD"
-    ],
-    [
-     "55101519",
-     "Publicaciones periódicas",
-     2,
-     "PUBLICACIONES DIGITALES DE LA CEREMONIA DE CIERRE: PUBLICACIONES DESTINADAS A ANUNCIAR PREVIAMENTE LA CEREMONIA DE CIERRE Y POSTERIORMENTE, COMUNICAR SU REALIZACION, DESTACANDO SUS PRINCIPALES HITOS Y RESULTADOS."
-    ],
-    [
-     "55101519",
-     "Publicaciones periódicas",
-     1,
-     "PUBLICACION DE RESULTADOS EN REDES SOCIALES; PUBLICACION DESTINADA A PRESENTAR LOS PRINCIPALES RESULTADOS, PRODUCTOS Y APRENDIZAJES DEL PROYECTO, INCLUYENDO LA PRESENTACION DEL LIBRO Y EL RECONOCIMIENTO A LA PARTICIPACION DE LOS NIÑOS, NIÑAS Y ADOLESCENTES"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=4140-97-COT26",
-   "sin_detalle": false,
-   "descripcion": "SE REQUIERE REALIZAR DIFUSION DIGITAL PARA LA PROMOCION DE LAS ACTIVIDADES DEL PROYECTO NIÑEZ Y PATRIMONIO",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
-  {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Ventas y marketing"
-   ],
-   "nueva": true,
-   "codigo": "1494998-27-COT26",
-   "nombre": "SERVICIO DE APOYO A LA REALIZACION DE TALLERES DE GOBERNANZA EN EL ACMU PITIPALENA-AÑIHUE (PPA) PARA LA DIRECCIÓN REGIONAL DE AYSÉN, SERVICIO DE BIODIVERSIDAD Y ÁREAS PROTEGIDAS  (SBAP)",
-   "organismo": "Servicio de Biodiversidad y Áreas Protegidas",
-   "unidad": "Dirección Regional de Aysén",
-   "monto": 4000000,
-   "cierre_iso": "2026-10-27T12:00:00-03:00",
-   "publicacion": "26-10 10:57",
-   "publicacion_iso": "2026-10-26T10:57:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "80141607",
-     "Producción de eventos",
-     1,
-     "Servicio de apoyo para la realización de reunión presencial en modalidad de (2) talleres participativos, para la gobernanza del ACMU - Piti Palena Añihue (PPA). En la localidad de Raúl Marín Balmaceda los días 09, 10 y 11 de noviembre de 2026. De acuerdo al detalle de las EETT, contenidas en los TDR adjuntos."
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1494998-27-COT26",
-   "sin_detalle": false,
-   "descripcion": "El Servicio de Biodiversidad y Áreas Protegidas, en adelante el SBAP, llama a proveedores a participar en la presentación de ofertas destinadas a provisionar el servicio de apoyo a la realización de dos (2) talleres de gobernanza en el ACMU-PPA. A realizarse en la localidad de Raúl Marín Balmaceda los días 09, 10 y 11 de noviembre de 2026 para la Dirección Regional de Aysén del General Carlos Ibáñez del Campo. Considerar TDR, EETT y Anexo N°1 adjuntos para la presentación de ofertas.",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
   {
    "tipo": "POSIBLE",
    "motivos": [
@@ -193,6 +79,35 @@
    "desaparecida_iso": ""
   },
   {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Servicios de radio"
+   ],
+   "nueva": true,
+   "codigo": "2495-586-COT26",
+   "nombre": "Servicio de difusión radial de cápsulas informativas del Centro de las Mujeres de Coyhaique",
+   "organismo": "I MUNICIPALIDAD DE COYHAIQUE",
+   "unidad": "DIRECCION DESARROLLO COMUNITARIO",
+   "monto": 200000,
+   "cierre_iso": "2026-10-28T12:00:00-03:00",
+   "publicacion": "27-10 11:46",
+   "publicacion_iso": "2026-10-27T11:46:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "83111904",
+     "Estudios o equipos radiales",
+     1,
+     "Duración de cada cápsula: 1 minuto. Período de emisión: 09 hasta el 30 de noviembre de 2026. Frecuencia: Una emisión diaria, de lunes a sábado. Cantidad total: 19 emisiones. Horario: Las cápsulas deberán emitirse en un horario de alta audiencia. Contenido: Difusión del trabajo y de la oferta programática del Centro de las Mujeres de Coyhaique. Material de difusión: Las cápsulas radiales serán proporcionadas por el CDM Coyhaique al medio de comunicación."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=2495-586-COT26",
+   "sin_detalle": false,
+   "descripcion": "Se requiere contratar el servicio de difusión radial de cápsulas informativas de 1 minuto de duración, destinadas a difundir el trabajo y la oferta programática del Centro de las Mujeres de Coyhaique (CDM Coyhaique). El servicio deberá ser prestado por una radiodifusora con domicilio en la comuna de Coyhaique y con cobertura dentro de dicha comuna. El proveedor deberá garantizar el cumplimiento de las 19 emisiones durante el período señalado e informar los horarios de transmisión.",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
    "tipo": "POSIBLE",
    "motivos": [
     "publicitaria"
@@ -218,6 +133,64 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=854-29-COT26",
    "sin_detalle": false,
    "descripcion": "Las presentes bases tienen por objeto indicar los detalles y aspectos específicos del servicio de impresión de volantes (flyers) para informar a las familias de la Región de Aysén sobre el proceso de postulación a los jardines infantiles de JUNJI, que se difundirán en la oficina regional, en los jardines infantiles, en actividades en terreno y en espacios públicos de la región en la campaña “Asistir al jardín marca la diferencia”.",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Publicidad en medios no impresos"
+   ],
+   "nueva": true,
+   "codigo": "1282238-79-COT26",
+   "nombre": "Servicio de difusión audiovisual en medio de comunicación digital para 3 proyectos culturales",
+   "organismo": "CORPORACION CULTURAL MUNICIPAL DE COYHAIQUE",
+   "unidad": "CORPORACION CULTURAL MUNICIPAL DE COYHAIQUE",
+   "monto": 600000,
+   "cierre_iso": "2026-10-28T18:00:00-03:00",
+   "publicacion": "27-10 12:20",
+   "publicacion_iso": "2026-10-27T12:20:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "82101603",
+     "Publicidad en Internet",
+     3,
+     "Difusión audiovisual por proyecto (3): cobertura en terreno de una actividad, nota o reportaje audiovisual editado y publicación en sitio web y redes sociales del medio, con mención del Gobierno Regional de Aysén FNDR 8% 2026 y logos. Proyectos: Programa de Formación Artística para la Comunidad 2026; Talleres Artísticos, Culturales y Patrimoniales Coyhaique; Carnaval Ciudadano en el Corazón de la Patagonia. Verificadores: enlaces, capturas y video. $150.000 IVA incluido por proyecto."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1282238-79-COT26",
+   "sin_detalle": false,
+   "descripcion": "Difusión audiovisual de 3 proyectos culturales FNDR 8% 2026 de la Corporación Cultural de Coyhaique. Por cada proyecto: cobertura en terreno de una actividad, nota o reportaje audiovisual editado y su publicación en sitio web y redes sociales del medio, con la mención del Gobierno Regional de Aysén y logos. Se considerarán mayores seguidores y alcance regional  Ejecución entre  ultimo fin de semana de octubre, noviembre y diciembre de 2026",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Ventas y marketing"
+   ],
+   "nueva": true,
+   "codigo": "1282238-82-COT26",
+   "nombre": "Servicios artísticos, sonido, apoyo de producción e insumos - actividad cultural masiva al aire libre 31-10 - PAOCC 2026",
+   "organismo": "CORPORACION CULTURAL MUNICIPAL DE COYHAIQUE",
+   "unidad": "CORPORACION CULTURAL MUNICIPAL DE COYHAIQUE",
+   "monto": 2500000,
+   "cierre_iso": "2026-10-28T18:00:00-03:00",
+   "publicacion": "27-10 10:06",
+   "publicacion_iso": "2026-10-27T10:06:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "80141607",
+     "Producción de eventos",
+     3,
+     "Apoyo a la producción de la actividad del 31-10-2026: montaje, coordinación de artistas en terreno, apoyos técnicos, atención de puntos y desmontaje."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1282238-82-COT26",
+   "sin_detalle": false,
+   "descripcion": "Actividad cultural masiva al aire libre para todo público el sábado 31-10-2026 desde las 15:00 en Coyhaique (Plaza Relámpago y puntos del recorrido). Incluye: Proyecto PAOCC MINCAP Folio 852881.Rex 2824 16/09/2026 Montos brutos. Ver EETT adjuntas.",
    "en_gracia": false,
    "desaparecida_iso": ""
   },
@@ -294,6 +267,63 @@
   }
  ],
  "historial": [
+  {
+   "codigo": "1494998-27-COT26",
+   "nombre": "SERVICIO DE APOYO A LA REALIZACION DE TALLERES DE GOBERNANZA EN EL ACMU PITIPALENA-AÑIHUE (PPA) PARA LA DIRECCIÓN REGIONAL DE AYSÉN, SERVICIO DE BIODIVERSIDAD Y ÁREAS PROTEGIDAS  (SBAP)",
+   "organismo": "Servicio de Biodiversidad y Áreas Protegidas",
+   "monto": 4000000,
+   "cierre_iso": "2026-10-27T12:00:00-03:00",
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Ventas y marketing"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1494998-27-COT26",
+   "primera_vista_iso": "2026-10-26T13:13:41-03:00",
+   "removida_iso": "2026-10-27T12:27:37-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
+  {
+   "codigo": "4140-97-COT26",
+   "nombre": "DIFUSION DIGITAL PARA PROMOSION DE LAS ACTIVIDADES NIÑEZ Y PATRIMONIO ",
+   "organismo": "I MUNICIPALIDAD DE LAGO VERDE",
+   "monto": 500000,
+   "cierre_iso": "2026-10-27T11:26:00-03:00",
+   "tipo": "POSIBLE",
+   "motivos": [
+    "difusion",
+    "radial",
+    "redes sociales",
+    "television"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=4140-97-COT26",
+   "primera_vista_iso": "2026-10-23T11:19:19-03:00",
+   "removida_iso": "2026-10-27T12:27:37-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
+  {
+   "codigo": "2495-580-COT26",
+   "nombre": "Servicio de ambientación del stand turístico de Coyhaique",
+   "organismo": "I MUNICIPALIDAD DE COYHAIQUE",
+   "monto": 3000000,
+   "cierre_iso": "2026-10-27T11:00:00-03:00",
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Ventas y marketing"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=2495-580-COT26",
+   "primera_vista_iso": "2026-10-26T13:13:41-03:00",
+   "removida_iso": "2026-10-27T12:27:37-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
   {
    "codigo": "1608-89-COT26",
    "nombre": "ARTICULOS DE DIFUSIÓN PROGRAMA CONADI",
@@ -986,24 +1016,6 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=1233615-819-COT26",
    "primera_vista_iso": "2026-10-19T12:56:38-03:00",
    "removida_iso": "2026-10-20T16:05:54-03:00",
-   "estado_api": "",
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "4144-304-COT26",
-   "nombre": "Se requiere la adquisicion de un equipo de radio portatil para la localidad de Villa Amengual",
-   "organismo": "I MUNICIPALIDAD DE LAGO VERDE",
-   "monto": 100000,
-   "cierre_iso": "2026-10-20T10:00:00-03:00",
-   "tipo": "POSIBLE",
-   "motivos": [
-    "radio"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=4144-304-COT26",
-   "primera_vista_iso": "2026-10-15T11:57:55-03:00",
-   "removida_iso": "2026-10-20T10:11:44-03:00",
    "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,

@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-10-26T21:38:14.553514-03:00",
+ "actualizado": "2026-10-27T12:27:37.853213-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
- "total_region": 221,
+ "total_region": 235,
  "rubros": {
   "25172700": "Aire acondicionado",
   "25173900": "Componentes eléctricos",
@@ -19,160 +19,6 @@
   "39121400": "Conectores, enchufes y terminales"
  },
  "filas": [
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "electricidad"
-   ],
-   "nueva": false,
-   "codigo": "1458-26-COT26",
-   "nombre": "Adquisición de Kerosene para calefacción ",
-   "organismo": "SERPLAC XI Región",
-   "unidad": "SERPLAC XI Región",
-   "monto": 860000,
-   "cierre_iso": "2026-10-27T09:00:00-03:00",
-   "publicacion": "22-10 17:06",
-   "publicacion_iso": "2026-10-22T17:06:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "15101502",
-     "Queroseno",
-     600,
-     "La Secretaría Regional Ministerial de Desarrollo Social y Familia de la región de Aysén, debe adquirir 600 litros aproximados de Kerosene para calefacción de las oficinas. El Kerosene debe ser entregado en las dependencias de la Seremi, ubicada en Gral. Parra N°326 y el camión que transporte el combustible debe estar autorizado por la Superintendencia de Electricidad y Combustible. (Ver Términos de Referencia)"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1458-26-COT26",
-   "sin_detalle": false,
-   "descripcion": "La Secretaría Regional Ministerial de Desarrollo Social y Familia de la región de Aysén, debe adquirir 600 litros aproximados de Kerosene para calefacción de las oficinas. El Kerosene debe ser entregado en las dependencias de la Seremi, ubicada en Gral. Parra N°326 y el camión que transporte el combustible debe estar autorizado por la Superintendencia de Electricidad y Combustible. (VER TÉRMINOS DE REFERENCIA)",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
-  {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Conectores, enchufes y terminales"
-   ],
-   "nueva": false,
-   "codigo": "1233615-852-COT26",
-   "nombre": "DMH SOL-2026-01931] Recursos TICS para Escuela \"Litoral Austral\" de Puerto Aysén",
-   "organismo": "Servicio Local de Educación Pública Aysén",
-   "unidad": "Servicio Local de Educación Pública Aysén",
-   "monto": 302470,
-   "cierre_iso": "2026-10-27T10:00:00-03:00",
-   "publicacion": "23-10 14:14",
-   "publicacion_iso": "2026-10-23T14:14:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "39121409",
-     "Conectores de cables eléctricos",
-     1,
-     "insumos, accesorios y equipamiento informático necesarios para garantizar la continuidad operativa, mantención y adecuado funcionamiento de los recursos tecnológicos de la Escuela Litoral Austral, de acuerdo a requerimiento adjunto a la presente compra (debe llenar el formulario N°1)"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1233615-852-COT26",
-   "sin_detalle": false,
-   "descripcion": "Se solicita la adquisición de insumos, accesorios y equipamiento informático necesarios para garantizar la continuidad operativa, mantención y adecuado funcionamiento de los recursos tecnológicos de la Escuela Litoral Austral.",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
-  {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Gasfitería, calefacción y aire acondicionado"
-   ],
-   "nueva": true,
-   "codigo": "1274667-416-COT26",
-   "nombre": "SOLICITA SERVICIO DE INSTALACION DE CLIMATIZADOR EXISTENTE TIPO SPLIT PARA CENTRO DE SALUD FAMILIAR PUERTO AYSÉN",
-   "organismo": "CENTRO DE SALUD FAMILIAR PUERTO AYSÉN",
-   "unidad": "CENTRO DE SALUD FAMILIAR PUERTO AYSÉN",
-   "monto": 250000,
-   "cierre_iso": "2026-10-27T11:15:00-03:00",
-   "publicacion": "26-10 11:12",
-   "publicacion_iso": "2026-10-26T11:12:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "72102305",
-     "Servicios de reparación, mantenimiento o reparación de aire acondicionado",
-     1,
-     "SERVICIO DE INSTALACIÓN, DE CLIMATIZADOR TIPO SPLIT - DETALLE EN DOCUMENTO ADJUNTO."
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1274667-416-COT26",
-   "sin_detalle": false,
-   "descripcion": "ADJUNTAR COTIZACION - ADJUNTAR FICHA TECNICA PARA PODER EVALUAR CORRECTAMENTE LA OFERTA - DATOS BANCARIOS - CONTACTO PARA RESOLVER DUDAS - EN CASO DE ADJUDICACION FAVOR EMITIR DESPACHO CON GUIA - MARCAS MENCIONADAS SON SOLAMENTE REFERENCIALES. DETALLES EN DOCUMENTO ADJUNTO.",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
-  {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Conectores, enchufes y terminales"
-   ],
-   "nueva": true,
-   "codigo": "3949-265-COT26",
-   "nombre": "SET DE PARCHES ELECTRODOS PEDIÁTRICOS ",
-   "organismo": "CONSULTORIO GENERAL URBANO DR ALEJANDRO GUTIERREZ",
-   "unidad": "ID 3949 - CESFAM Dr Alejandro Gutiérrez",
-   "monto": 100000,
-   "cierre_iso": "2026-10-27T11:45:00-03:00",
-   "publicacion": "26-10 11:35",
-   "publicacion_iso": "2026-10-26T11:35:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "39121436",
-     "Electrodos",
-     4,
-     "SET DE PARCHES DE ELECTRODOS PEDIATRICOS COMPATIBLES PARA MONITOR INSTRAMED, MODELO CARDIOMAX CON FECHA DE VENCIMIENTO 2028 Y 2029, ADJUNTAR ESPECIFICACIÓN TÉCNICA PARA LA CORRECTA EVALUACIÓN"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=3949-265-COT26",
-   "sin_detalle": false,
-   "descripcion": "SE REQUIERE ADQUIRIR PARCHES ELECTRODOS PEDIATRICOS COMPATIBLES PARA MONITOR INSTRAMED, MODELO CARDIOMAX CON FECHA DE VENCIMIENTO 2028-2029. DESPACHO INMEDIATO A COYHAIQUE",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "eléctrico",
-    "eléctricos",
-    "generador",
-    "generador eléctrico"
-   ],
-   "nueva": true,
-   "codigo": "1494998-26-COT26",
-   "nombre": "ADQUISICIÓN Y DESPACHO DE GENERADORES ELÉCTRICOS PARA LAS ÁREAS PROTEGIDAS DE LA DIRECCIÓN REGIONAL DE AYSÉN SBAP (Convenio SBAP-CONAF)",
-   "organismo": "Servicio de Biodiversidad y Áreas Protegidas",
-   "unidad": "Dirección Regional de Aysén",
-   "monto": 1900000,
-   "cierre_iso": "2026-10-27T12:00:00-03:00",
-   "publicacion": "26-10 10:04",
-   "publicacion_iso": "2026-10-26T10:04:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "26111601",
-     "Generadores diesel",
-     1,
-     "GENERADOR 6.5 KW. GASOLINA P. ELECTRICA: Con Regulador de Voltaje AVR.  Sistema de arranque manual y eléctrico. Su Autonomía es de 12,2 horas (50% de carga). Estanque de 25 litros. Debe incluir Horómetro. Considerar EETT en TDR adjuntos."
-    ],
-    [
-     "26111601",
-     "Generadores diesel",
-     1,
-     "GENERADOR ELÉCTRICO GASOLINA PARTIDA ELÉCTRICA 6000 W 25 I:Potencia de 6000 W y un motor bencinero de 4 tiempos de 419cc. Capacidad de tanque de 25 litros. Autonomía de entre 7.5 y 8.5 horas. Considerar EETT en TDR adjuntos."
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1494998-26-COT26",
-   "sin_detalle": false,
-   "descripcion": "El Servicio de Biodiversidad y Áreas Protegidas, en adelante el SBAP, llama a proveedores a participar en la presentación de ofertas destinadas a la adquisición y despacho de generadores eléctricos para las Áreas Protegidas de la Dirección Regional de Aysén del General Carlos Ibáñez del Campo. Considerar TDR y EETT adjuntas para proceso de postulación.",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
   {
    "tipo": "POSIBLE",
    "motivos": [
@@ -263,6 +109,302 @@
    "desaparecida_iso": ""
   },
   {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Conectores, enchufes y terminales"
+   ],
+   "nueva": true,
+   "codigo": "1282238-81-COT26",
+   "nombre": "Equipamiento técnico de sonido, registro y traslado - PAOCC 2026 Centro Cultural de Coyhaique",
+   "organismo": "CORPORACION CULTURAL MUNICIPAL DE COYHAIQUE",
+   "unidad": "CORPORACION CULTURAL MUNICIPAL DE COYHAIQUE",
+   "monto": 4825084,
+   "cierre_iso": "2026-10-29T10:00:00-03:00",
+   "publicacion": "27-10 09:34",
+   "publicacion_iso": "2026-10-27T09:34:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "26111704",
+     "Cargadores de baterías",
+     1,
+     "Batería portátil (powerbank) de 20.000 mAh, carga rápida 35 W, resistente, con linterna. Referencia: Xtorm 35W 20.000 mAh o equivalente/superior."
+    ],
+    [
+     "39121435",
+     "Hilos o cables de conexión",
+     2,
+     "Cable de parlante de 15 metros con conectores profesionales compatibles con las cajas activas. Referencia: StagePro SPG5014S o equivalente/superior."
+    ],
+    [
+     "39121435",
+     "Hilos o cables de conexión",
+     1,
+     "Pack de 3 cables de micrófono XLR macho-hembra de 6 metros cada uno. Referencia: Samson MC18 o equivalente/superior."
+    ],
+    [
+     "45111704",
+     "Consolas de mezcla de sonidos",
+     1,
+     "Mixer análogo de 12 canales con USB y efectos digitales (mín. 4 entradas XLR con preamplificador, EQ 3 bandas, envíos FX/monitor, salida principal estéreo). Referencia: Behringer XENYX 1202SFX o equivalente/superior."
+    ],
+    [
+     "45121602",
+     "Trípodes",
+     2,
+     "Atril/trípode para parlante con elevación por manivela, apto para el peso de los parlantes solicitados. Referencia: Hercules SS710B o equivalente/superior."
+    ],
+    [
+     "45121602",
+     "Trípodes",
+     1,
+     "Estabilizador (gimbal) de 3 ejes para smartphone con luz de relleno y Bluetooth. Referencia: Hohem iSteady M6 Kit o equivalente/superior."
+    ],
+    [
+     "52161512",
+     "Parlantes",
+     2,
+     "Parlante activo 15\" de 2 vías, mínimo 650 W RMS, con Bluetooth. Referencia: JBL EON715 o equivalente/superior."
+    ],
+    [
+     "52161520",
+     "Micrófonos",
+     1,
+     "Sistema inalámbrico UHF de mano: receptor + micrófono dinámico cardioide, hasta 10 canales compatibles, a pilas AA. Referencia: Sennheiser XSW1-825 o equivalente/superior."
+    ],
+    [
+     "52161520",
+     "Micrófonos",
+     3,
+     "Sistema inalámbrico UHF con transmisor de petaca, micrófono de cintillo (headworn) y receptor (3 sets). Referencia: AKG WMS 420 Headworn Set o equivalente/superior."
+    ],
+    [
+     "52161520",
+     "Micrófonos",
+     1,
+     "Micrófono inalámbrico doble para cámara/celular (2 transmisores + receptor) con conector USB-C. Referencia: Boya BY-BOYALINK 3-02 o equivalente/superior."
+    ],
+    [
+     "52161533",
+     "Megáfono",
+     1,
+     "Megáfono portátil recargable de 50 W, con micrófono de mano y Bluetooth/USB."
+    ],
+    [
+     "56101516",
+     "Baúles",
+     2,
+     "Baúl organizador plástico con tapa y cierres, aprox. 100 litros (45x40x94 cm), para traslado de equipos."
+    ],
+    [
+     "56101519",
+     "Mesas",
+     1,
+     "Mesa plegable tipo maleta de 180 cm, cubierta de resina y estructura metálica."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1282238-81-COT26",
+   "sin_detalle": false,
+   "descripcion": "Adquisición de 13 ítems de equipamiento técnico (mixer, micrófonos inalámbricos de mano y cintillo, 2 parlantes activos 15\" con atriles y cables, gimbal, micrófono para cámara, megáfono, powerbank, baúles y mesa plegable) para el proyecto Programación Centro Cultural de Coyhaique 2026, PAOCC MINCAP Folio 852881. Despacho incluido a Coyhaique. Ver especificaciones técnicas adjuntas; se aceptan productos equivalentes o superiores. Se priorizará si el proveedor es local.",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "eléctrico"
+   ],
+   "nueva": true,
+   "codigo": "5038-66-COT26",
+   "nombre": "ADQUISICIÓN DE EQUIPAMIENTO DE RED, COMUNICACIONES, GABINETE MURAL Y RESPALDO ELÉCTRICO",
+   "organismo": "I MUNICIPALIDAD RIO IBANEZ",
+   "unidad": "Administración Municipal",
+   "monto": 1350000,
+   "cierre_iso": "2026-10-29T14:00:00-03:00",
+   "publicacion": "27-10 10:01",
+   "publicacion_iso": "2026-10-27T10:01:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "43201602",
+     "Gabinete, rack, chasis o bastidores para equipos de red",
+     1,
+     "Modelo tipo Serie WB / Armable para fijación a muro en formato estándar de 19\" según términos de referencia adjuntos"
+    ],
+    [
+     "43201602",
+     "Gabinete, rack, chasis o bastidores para equipos de red",
+     1,
+     "Unidad de Distribución de Energía (PDU / Zapatilla Eléctrica) Rackeable 19\" Según términos de referencia adjuntos"
+    ],
+    [
+     "43201611",
+     "Soportes de computador",
+     1,
+     "Modelo tipo APC Back-UPS BX1200MI-MS (o Back-UPS Pro Sinewave / equivalente técnico) Según términos de referencia adjuntos"
+    ],
+    [
+     "43201611",
+     "Soportes de computador",
+     1,
+     "Modelo Tipo APC Easy UPS BVX 900VA (BVX900LI-MS / BVX900LMI-MS) o equivalente técnico según términos de referencia adjuntos"
+    ],
+    [
+     "43202208",
+     "Conjuntos de cableado",
+     1,
+     "Modelo Tipo: Keystone STP Categoría 6A de NEXCONEC según terminos de referencia adjuntos"
+    ],
+    [
+     "43222501",
+     "Equipo de seguridad de red de firewall",
+     1,
+     "Modelo tipo Ubiquiti UniFi Cloud Gateway Ultra (UCG-Ultra) o equivalente técnico según términos de referencia adjuntos"
+    ],
+    [
+     "43222609",
+     "Routers de red",
+     2,
+     "Modelo tipo Ubiquiti UniFi U7 Pro (U7-Pro) o equivalente técnico según términos de referencia adjuntos"
+    ],
+    [
+     "43222609",
+     "Routers de red",
+     1,
+     "Modelo tipo Ubiquiti UniFi Switch Lite 8 PoE (USW-Lite-8-PoE) o equivalente técnico según términos de referencia adjuntos"
+    ],
+    [
+     "43222611",
+     "Unidades de servicio de datos o canales de red",
+     1,
+     "Adaptador Ethernet para Antena Modelo Tipo Satelital Starlink según términos de referencia adjuntos"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=5038-66-COT26",
+   "sin_detalle": false,
+   "descripcion": "Tener en consideración adjuntar patente comercial vigente según términos de referencia adjunto, al igual que revisar los términos de referencia La presente adquisición tiene por objeto la compra de equipamiento de networking, infraestructura física y respaldo energético, destinados a garantizar la conectividad de red, seguridad perimetral, operatividad y ordenamiento físico de los equipos de computacionales, protegiéndolos ante cortes o fluctuaciones en el suministro eléctrico.",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "eléctrico",
+    "red eléctrica"
+   ],
+   "nueva": true,
+   "codigo": "1057062-482-COT26",
+   "nombre": "Adquisición de equipamiento para Laboratorio de producción y propagación de plantas nativas según Fisabs 2334_URY 21991",
+   "organismo": "UNIVERSIDAD DE AYSEN",
+   "unidad": "Proyectos",
+   "monto": 6985098,
+   "cierre_iso": "2026-10-29T14:30:00-03:00",
+   "publicacion": "27-10 11:58",
+   "publicacion_iso": "2026-10-27T11:58:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "23101506",
+     "Trituradoras",
+     1,
+     "Se requiere comprar chipeadora de ramas, motor bencinero de 420 cc,\npotencia máxima de 15 HP.- Certificación C.E. y E.P.A, según especificaciones técnicas adjuntas."
+    ],
+    [
+     "40101808",
+     "Estufas de la calefacción",
+     2,
+     "Se requiere comprar Calefactor-ventilador eléctrico 2 en 1 para invernadero, Bio Green Phoenix 2.8 o equivalente, apto para conexión y funcionamiento en red eléctrica utilizada en Chile, según especificaciones técnicas adjuntas."
+    ],
+    [
+     "41103011",
+     "Refrigeradores o congeladores de uso general",
+     1,
+     "Se requiere la compra de visicooler tipo Ventus LG-360 o similar, de 360 litros de capacidad, según especificaciones técnicas adjuntas."
+    ],
+    [
+     "41103011",
+     "Refrigeradores o congeladores de uso general",
+     1,
+     "Se requiere la compra de refrigerador Side by Side, sistema No Frost. Capacidad: 442 litros, según especificaciones técnicas adjuntas."
+    ],
+    [
+     "41111501",
+     "Balanzas electrónicas de carga superior",
+     1,
+     "Se requiere la compra de balanza de alta exactitud para pesaje de precisión de laboratorio, según especificaciones técnicas adjuntas."
+    ],
+    [
+     "41111501",
+     "Balanzas electrónicas de carga superior",
+     1,
+     "Se requiere la compra de balanza de sobremesa de precisión, según especificaciones técnicas adjuntas."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1057062-482-COT26",
+   "sin_detalle": false,
+   "descripcion": "Se requiere la adquisición de equipamiento para Laboratorio de producción y propagación de plantas nativas según detalle adjunto. Cotizaciones debe indicar especificaciones técnicas de lo ofertado, e indicar plazo de entrega ofertado, considerando entrega en Coyhaique. Valor cotizado debe incluir flete e impuestos. Se podrá privilegiar el menor plazo de entrega ofertado, siempre que cumpla con todas las especificaciones requeridas. Compra sujeta a posibles multas o sanciones por incumplimiento.",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "climatización"
+   ],
+   "nueva": true,
+   "codigo": "1758-261-COT26",
+   "nombre": "ARRIENDO DE SALON EQUIPADO JORNADA RDEGI EN LA CIUDAD DE COYHAIQUE",
+   "organismo": "SECRETARIA REGIONAL MINISTERIAL DE EDUCACION XI REGION",
+   "unidad": "Mineduc Administración XI Región",
+   "monto": 800000,
+   "cierre_iso": "2026-10-29T16:00:00-03:00",
+   "publicacion": "27-10 10:16",
+   "publicacion_iso": "2026-10-27T10:16:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "90111604",
+     "Salones",
+     1,
+     "01 ARRIENDO DE SALON EQUIPADO CENTRAL PARA EL DIA 06/11/2026 DE 08:30 A 17:00 HRS. PARA 40 PERSONAS EN LA CIUDAD DE COYHAIQUE."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1758-261-COT26",
+   "sin_detalle": false,
+   "descripcion": "SE REQUIERE CONTRATAR SERVICIO DE ARRIENDO DE SALON DE EVENTOS CON CAPACIDAD PARA 40 PERSONAS,CENTRAL PARA EL DÍA 06/11/2026 EN HORARIO DE 08:30 A 17:00 HRS. EN LA CIUDAD DE COYHAIQUE. EL CUAL DEBERÁ CONTAR CALEFACCION, CLIMATIZACIÓN AL INICIO DE LA JORNADA, AMPLIFICACIÓN, SOPORTE TECNICO, ACCESO A INTERNET Y A LO MENOS 6  MESAS CON SILLAS PARA DESARROLLO DE TRABAJO GRUPAL Y ZONA PARA MONTAJE DE CAFÉ. COORDINACION A CARGO SR. ANTONIO CANIHUANTE, JEFE DEPTO. EDUCACION.SECREDUC.",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Enfriamiento (aires acondicionados)"
+   ],
+   "nueva": true,
+   "codigo": "1078779-24-COT26",
+   "nombre": "EQUIPO DE AIRE ACONDICIONADO",
+   "organismo": "SERVICIO DE SALUD AYSEN CARLOS IBANEZ DEL CAMPO",
+   "unidad": "Fondos Extrapresupuestarios",
+   "monto": 303990,
+   "cierre_iso": "2026-10-30T10:00:00-03:00",
+   "publicacion": "27-10 12:13",
+   "publicacion_iso": "2026-10-27T12:13:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "40101701",
+     "Aires acondicionados",
+     1,
+     "Aire acondicionado tipo Split muro, tecnología Inverter, frío/calor, con capacidad mínima de 9.000 BTU"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1078779-24-COT26",
+   "sin_detalle": false,
+   "descripcion": "Adquisición de 1 equipo de aire acondicionado tipo Split muro, tecnología Inverter, frío/calor, con capacidad mínima de 9.000 BTU, destinado a dependencias\ndel Proyecto Mujeres Koyun.",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
    "tipo": "POSIBLE",
    "motivos": [
     "luminaria"
@@ -293,6 +435,99 @@
   }
  ],
  "historial": [
+  {
+   "codigo": "1494998-26-COT26",
+   "nombre": "ADQUISICIÓN Y DESPACHO DE GENERADORES ELÉCTRICOS PARA LAS ÁREAS PROTEGIDAS DE LA DIRECCIÓN REGIONAL DE AYSÉN SBAP (Convenio SBAP-CONAF)",
+   "organismo": "Servicio de Biodiversidad y Áreas Protegidas",
+   "monto": 1900000,
+   "cierre_iso": "2026-10-27T12:00:00-03:00",
+   "tipo": "POSIBLE",
+   "motivos": [
+    "eléctrico",
+    "eléctricos",
+    "generador",
+    "generador eléctrico"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1494998-26-COT26",
+   "primera_vista_iso": "2026-10-26T13:13:41-03:00",
+   "removida_iso": "2026-10-27T12:27:37-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
+  {
+   "codigo": "3949-265-COT26",
+   "nombre": "SET DE PARCHES ELECTRODOS PEDIÁTRICOS ",
+   "organismo": "CONSULTORIO GENERAL URBANO DR ALEJANDRO GUTIERREZ",
+   "monto": 100000,
+   "cierre_iso": "2026-10-27T11:45:00-03:00",
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Conectores, enchufes y terminales"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=3949-265-COT26",
+   "primera_vista_iso": "2026-10-26T13:13:41-03:00",
+   "removida_iso": "2026-10-27T12:27:37-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
+  {
+   "codigo": "1274667-416-COT26",
+   "nombre": "SOLICITA SERVICIO DE INSTALACION DE CLIMATIZADOR EXISTENTE TIPO SPLIT PARA CENTRO DE SALUD FAMILIAR PUERTO AYSÉN",
+   "organismo": "CENTRO DE SALUD FAMILIAR PUERTO AYSÉN",
+   "monto": 250000,
+   "cierre_iso": "2026-10-27T11:15:00-03:00",
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Gasfitería, calefacción y aire acondicionado"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1274667-416-COT26",
+   "primera_vista_iso": "2026-10-26T13:13:41-03:00",
+   "removida_iso": "2026-10-27T12:27:37-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
+  {
+   "codigo": "1233615-852-COT26",
+   "nombre": "DMH SOL-2026-01931] Recursos TICS para Escuela \"Litoral Austral\" de Puerto Aysén",
+   "organismo": "Servicio Local de Educación Pública Aysén",
+   "monto": 302470,
+   "cierre_iso": "2026-10-27T10:00:00-03:00",
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Conectores, enchufes y terminales"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1233615-852-COT26",
+   "primera_vista_iso": "2026-10-23T15:31:59-03:00",
+   "removida_iso": "2026-10-27T12:27:37-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
+  {
+   "codigo": "1458-26-COT26",
+   "nombre": "Adquisición de Kerosene para calefacción ",
+   "organismo": "SERPLAC XI Región",
+   "monto": 860000,
+   "cierre_iso": "2026-10-27T09:00:00-03:00",
+   "tipo": "POSIBLE",
+   "motivos": [
+    "electricidad"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1458-26-COT26",
+   "primera_vista_iso": "2026-10-22T17:57:00-03:00",
+   "removida_iso": "2026-10-27T12:27:37-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
   {
    "codigo": "1458-25-COT26",
    "nombre": "Adquisición diésel calefacción",
@@ -836,24 +1071,6 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=3540-274-COT26",
    "primera_vista_iso": "2026-10-14T16:05:10-03:00",
    "removida_iso": "2026-10-21T08:57:31-03:00",
-   "estado_api": "",
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "4644-86-COT26",
-   "nombre": "MATERIALES DE ESCRITORIO GORE MAÑIHUALES SIC:430  SIRE:404",
-   "organismo": "CORP NACIONAL FORESTAL",
-   "monto": 1000000,
-   "cierre_iso": "2026-10-20T10:00:00-03:00",
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Conectores, enchufes y terminales"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=4644-86-COT26",
-   "primera_vista_iso": "2026-10-14T06:57:02-03:00",
-   "removida_iso": "2026-10-20T08:56:11-03:00",
    "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,
