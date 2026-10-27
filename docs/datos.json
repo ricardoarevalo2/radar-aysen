@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-10-26T18:06:24.825698-03:00",
+ "actualizado": "2026-10-26T21:38:14.553514-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
- "total_region": 218,
+ "total_region": 221,
  "rubros": {
   "80141600": "Ventas y marketing",
   "82101600": "Publicidad en medios no impresos",
@@ -1004,42 +1004,6 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=4144-304-COT26",
    "primera_vista_iso": "2026-10-15T11:57:55-03:00",
    "removida_iso": "2026-10-20T10:11:44-03:00",
-   "estado_api": "",
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "4066-425-COT26",
-   "nombre": "Servicio de Producción de Eventos, Rueda de Negocios, Encuentro de Proveedores de Servicios Turísticos en Puerto Río Tranquilo - COD BIP 40066883-0",
-   "organismo": "I MUNICIPALIDAD RIO IBANEZ",
-   "monto": 2750000,
-   "cierre_iso": "2026-10-19T20:00:00-03:00",
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Ventas y marketing"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=4066-425-COT26",
-   "primera_vista_iso": "2026-10-15T19:50:45-03:00",
-   "removida_iso": "2026-10-19T20:52:48-03:00",
-   "estado_api": "",
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "4066-424-COT26",
-   "nombre": "Servicio de Producción de Eventos, Feria Productiva, Lanzamiento Temporada Turística 2026-2027 en Puerto Río Tranquilo - COD BIP 40066883-0",
-   "organismo": "I MUNICIPALIDAD RIO IBANEZ",
-   "monto": 7150000,
-   "cierre_iso": "2026-10-19T19:00:00-03:00",
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Ventas y marketing"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=4066-424-COT26",
-   "primera_vista_iso": "2026-10-15T18:54:09-03:00",
-   "removida_iso": "2026-10-19T19:53:01-03:00",
    "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,

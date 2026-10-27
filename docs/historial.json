@@ -18,7 +18,7 @@
   "adj_nombre": null,
   "adj_monto": null,
   "adj_iso": null,
-  "adj_revisado_iso": "2026-10-26T13:13:41-03:00"
+  "adj_revisado_iso": "2026-10-26T21:38:14-03:00"
  },
  "4144-304-COT26": {
   "codigo": "4144-304-COT26",
@@ -39,7 +39,7 @@
   "adj_nombre": null,
   "adj_monto": null,
   "adj_iso": null,
-  "adj_revisado_iso": "2026-10-26T13:13:41-03:00"
+  "adj_revisado_iso": "2026-10-26T21:38:14-03:00"
  },
  "1182705-193-COT26": {
   "codigo": "1182705-193-COT26",
@@ -61,7 +61,7 @@
   "adj_nombre": null,
   "adj_monto": null,
   "adj_iso": null,
-  "adj_revisado_iso": "2026-10-26T13:13:41-03:00"
+  "adj_revisado_iso": "2026-10-26T21:38:14-03:00"
  },
  "2713-1258-COT26": {
   "codigo": "2713-1258-COT26",
@@ -82,7 +82,7 @@
   "adj_nombre": null,
   "adj_monto": null,
   "adj_iso": null,
-  "adj_revisado_iso": "2026-10-26T13:13:41-03:00"
+  "adj_revisado_iso": "2026-10-26T21:38:14-03:00"
  },
  "828-49-COT26": {
   "codigo": "828-49-COT26",
@@ -99,48 +99,6 @@
   "primera_vista_iso": "2026-10-15T17:55:27-03:00",
   "ultima_activa_iso": "2026-10-22T22:11:34-03:00",
   "removida_iso": "2026-10-23T11:19:19-03:00",
-  "estado_api": "",
-  "adj_nombre": null,
-  "adj_monto": null,
-  "adj_iso": null,
-  "adj_revisado_iso": "2026-10-26T16:12:12-03:00"
- },
- "4066-424-COT26": {
-  "codigo": "4066-424-COT26",
-  "nombre": "Servicio de Producción de Eventos, Feria Productiva, Lanzamiento Temporada Turística 2026-2027 en Puerto Río Tranquilo - COD BIP 40066883-0",
-  "organismo": "I MUNICIPALIDAD RIO IBANEZ",
-  "unidad": "DIDECO",
-  "monto": 7150000,
-  "cierre_iso": "2026-10-19T19:00:00-03:00",
-  "tipo": "OPORTUNIDAD",
-  "motivos": [
-   "Ventas y marketing"
-  ],
-  "link": "https://buscador.mercadopublico.cl/ficha?code=4066-424-COT26",
-  "primera_vista_iso": "2026-10-15T18:54:09-03:00",
-  "ultima_activa_iso": "2026-10-19T18:53:52-03:00",
-  "removida_iso": "2026-10-19T19:53:01-03:00",
-  "estado_api": "",
-  "adj_nombre": null,
-  "adj_monto": null,
-  "adj_iso": null,
-  "adj_revisado_iso": "2026-10-26T16:12:12-03:00"
- },
- "4066-425-COT26": {
-  "codigo": "4066-425-COT26",
-  "nombre": "Servicio de Producción de Eventos, Rueda de Negocios, Encuentro de Proveedores de Servicios Turísticos en Puerto Río Tranquilo - COD BIP 40066883-0",
-  "organismo": "I MUNICIPALIDAD RIO IBANEZ",
-  "unidad": "DIDECO",
-  "monto": 2750000,
-  "cierre_iso": "2026-10-19T20:00:00-03:00",
-  "tipo": "OPORTUNIDAD",
-  "motivos": [
-   "Ventas y marketing"
-  ],
-  "link": "https://buscador.mercadopublico.cl/ficha?code=4066-425-COT26",
-  "primera_vista_iso": "2026-10-15T19:50:45-03:00",
-  "ultima_activa_iso": "2026-10-19T19:53:01-03:00",
-  "removida_iso": "2026-10-19T20:52:48-03:00",
   "estado_api": "",
   "adj_nombre": null,
   "adj_monto": null,
@@ -420,7 +378,7 @@
   "adj_nombre": null,
   "adj_monto": null,
   "adj_iso": null,
-  "adj_revisado_iso": "2026-10-22T14:53:55-03:00"
+  "adj_revisado_iso": "2026-10-26T21:38:14-03:00"
  },
  "4066-429-COT26": {
   "codigo": "4066-429-COT26",
@@ -718,7 +676,7 @@
   ],
   "link": "https://buscador.mercadopublico.cl/ficha?code=4140-97-COT26",
   "primera_vista_iso": "2026-10-23T11:19:19-03:00",
-  "ultima_activa_iso": "2026-10-26T18:06:24-03:00",
+  "ultima_activa_iso": "2026-10-26T21:38:14-03:00",
   "removida_iso": null,
   "estado_api": null,
   "adj_nombre": null,
@@ -910,7 +868,7 @@
   ],
   "link": "https://buscador.mercadopublico.cl/ficha?code=2495-580-COT26",
   "primera_vista_iso": "2026-10-26T13:13:41-03:00",
-  "ultima_activa_iso": "2026-10-26T18:06:24-03:00",
+  "ultima_activa_iso": "2026-10-26T21:38:14-03:00",
   "removida_iso": null,
   "estado_api": null,
   "adj_nombre": null,
@@ -931,7 +889,7 @@
   ],
   "link": "https://buscador.mercadopublico.cl/ficha?code=1494998-27-COT26",
   "primera_vista_iso": "2026-10-26T13:13:41-03:00",
-  "ultima_activa_iso": "2026-10-26T18:06:24-03:00",
+  "ultima_activa_iso": "2026-10-26T21:38:14-03:00",
   "removida_iso": null,
   "estado_api": null,
   "adj_nombre": null,
@@ -952,7 +910,7 @@
   ],
   "link": "https://buscador.mercadopublico.cl/ficha?code=854-29-COT26",
   "primera_vista_iso": "2026-10-26T13:13:41-03:00",
-  "ultima_activa_iso": "2026-10-26T18:06:24-03:00",
+  "ultima_activa_iso": "2026-10-26T21:38:14-03:00",
   "removida_iso": null,
   "estado_api": null,
   "adj_nombre": null,
@@ -973,7 +931,7 @@
   ],
   "link": "https://buscador.mercadopublico.cl/ficha?code=3791-1066-COT26",
   "primera_vista_iso": "2026-10-26T16:12:12-03:00",
-  "ultima_activa_iso": "2026-10-26T18:06:24-03:00",
+  "ultima_activa_iso": "2026-10-26T21:38:14-03:00",
   "removida_iso": null,
   "estado_api": null,
   "adj_nombre": null,
@@ -994,7 +952,7 @@
   ],
   "link": "https://buscador.mercadopublico.cl/ficha?code=3791-1068-COT26",
   "primera_vista_iso": "2026-10-26T16:12:12-03:00",
-  "ultima_activa_iso": "2026-10-26T18:06:24-03:00",
+  "ultima_activa_iso": "2026-10-26T21:38:14-03:00",
   "removida_iso": null,
   "estado_api": null,
   "adj_nombre": null,
@@ -1016,7 +974,7 @@
   ],
   "link": "https://buscador.mercadopublico.cl/ficha?code=2495-584-COT26",
   "primera_vista_iso": "2026-10-26T18:06:24-03:00",
-  "ultima_activa_iso": "2026-10-26T18:06:24-03:00",
+  "ultima_activa_iso": "2026-10-26T21:38:14-03:00",
   "removida_iso": null,
   "estado_api": null,
   "adj_nombre": null,
@@ -1037,7 +995,7 @@
   ],
   "link": "https://buscador.mercadopublico.cl/ficha?code=1208109-24-COT26",
   "primera_vista_iso": "2026-10-26T18:06:24-03:00",
-  "ultima_activa_iso": "2026-10-26T18:06:24-03:00",
+  "ultima_activa_iso": "2026-10-26T21:38:14-03:00",
   "removida_iso": null,
   "estado_api": null,
   "adj_nombre": null,
