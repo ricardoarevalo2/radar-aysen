@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-10-27T12:27:37.853213-03:00",
+ "actualizado": "2026-10-27T17:10:04.623742-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
- "total_region": 235,
+ "total_region": 265,
  "rubros": {
   "25172700": "Aire acondicionado",
   "25173900": "Componentes eléctricos",
@@ -25,7 +25,7 @@
     "eléctrico",
     "te1"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "3765-311-COT26",
    "nombre": " SE SOLICITA CONTRATACION DE UN INSTALADOR ELECTRICO - FACTIBILIDAD TE1 CASA SENDA ",
    "organismo": "SERVICIO NACIONAL DE SALUD HOSPITAL DE C",
@@ -46,6 +46,35 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=3765-311-COT26",
    "sin_detalle": false,
    "descripcion": "SE SOLICITA CONTRATACION DE UN INSTALADOR ELECTRICO - FACTIBILIDAD TE1 CASA SENDA SE ADJUNTA DETALLES DE SERVICIO A CONTRATAR - DISPONIBILIDAD INMEDIATA.",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Gasfitería, calefacción y aire acondicionado"
+   ],
+   "nueva": true,
+   "codigo": "1274667-416-COT26",
+   "nombre": "SOLICITA SERVICIO DE INSTALACION DE CLIMATIZADOR EXISTENTE TIPO SPLIT PARA CENTRO DE SALUD FAMILIAR PUERTO AYSÉN",
+   "organismo": "CENTRO DE SALUD FAMILIAR PUERTO AYSÉN",
+   "unidad": "CENTRO DE SALUD FAMILIAR PUERTO AYSÉN",
+   "monto": 250000,
+   "cierre_iso": "2026-10-28T14:32:00-03:00",
+   "publicacion": "26-10 11:12",
+   "publicacion_iso": "2026-10-26T11:12:00-03:00",
+   "ofertas": 2,
+   "productos": [
+    [
+     "72102305",
+     "Servicios de reparación, mantenimiento o reparación de aire acondicionado",
+     1,
+     "SERVICIO DE INSTALACIÓN, DE CLIMATIZADOR TIPO SPLIT - DETALLE EN DOCUMENTO ADJUNTO."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1274667-416-COT26",
+   "sin_detalle": false,
+   "descripcion": "ADJUNTAR COTIZACION - ADJUNTAR FICHA TECNICA PARA PODER EVALUAR CORRECTAMENTE LA OFERTA - DATOS BANCARIOS - CONTACTO PARA RESOLVER DUDAS - EN CASO DE ADJUDICACION FAVOR EMITIR DESPACHO CON GUIA - MARCAS MENCIONADAS SON SOLAMENTE REFERENCIALES. DETALLES EN DOCUMENTO ADJUNTO.",
    "en_gracia": false,
    "desaparecida_iso": ""
   },
@@ -287,6 +316,35 @@
    "desaparecida_iso": ""
   },
   {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Suministros y accesorios eléctricos"
+   ],
+   "nueva": true,
+   "codigo": "4733-431-COT26",
+   "nombre": "RECAMBIO DE LUMINARIAS EDIFICIOS MUNICIPALES",
+   "organismo": "I MUNICIPALIDAD DE LAS GUAITECAS",
+   "unidad": "I MUNICIPALIDAD DE LAS GUAITECAS",
+   "monto": 3500000,
+   "cierre_iso": "2026-10-29T14:30:00-03:00",
+   "publicacion": "27-10 14:19",
+   "publicacion_iso": "2026-10-27T14:19:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "39121701",
+     "Soportes eléctricos",
+     1,
+     "RECAMBIO DE LUMINARIAS EN EDIFICIOS MUNICIPALES"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=4733-431-COT26",
+   "sin_detalle": false,
+   "descripcion": "Se requiere contratar el servicio de recambio de 21 plafón sobrepuesto 60x60-28 de 18w, el trabajo debe consideras suministro de materiales, el cual debe ser ejecutado por un técnico electricista clase D residente de la comuna, adjuntar cotización.",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
    "tipo": "POSIBLE",
    "motivos": [
     "eléctrico",
@@ -407,6 +465,60 @@
   {
    "tipo": "POSIBLE",
    "motivos": [
+    "certificación sec",
+    "eléctrico"
+   ],
+   "nueva": true,
+   "codigo": "1173433-21-COT26",
+   "nombre": "ADQUISICIÓN DE MAQUINARIA Y EQUIPAMIENTO AGRÍCOLA",
+   "organismo": "Centro de Educación y Trabajo Valle Verde",
+   "unidad": "CET Valle Verde",
+   "monto": 5638655,
+   "cierre_iso": "2026-10-30T11:00:00-03:00",
+   "publicacion": "27-10 16:26",
+   "publicacion_iso": "2026-10-27T16:26:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "23101508",
+     "Cortadoras",
+     2,
+     "DESMALEZADORA STIHL FS 120 O SIMILAR. Cilindrada: 30,8 cc., Potencia: 1,3 kW (1,8 HP), Peso: 6,3 kg., Capacidad del estanque: 0,64 litros., Motor: 2 tiempos."
+    ],
+    [
+     "23101508",
+     "Cortadoras",
+     1,
+     "CORTA CESPED TREX 173 CC C/R R/ALTA21 O SIMILAR. Motor: 4 tiempos OHV de 173 cc (aprox. 5,0 HP)., Ancho de corte: 21\" (53 cm), Altura de corte 6 posiciones regulables mediante 1 sola palanca (entre 2,5 cm y 7,5cm)., Ruedas Traseras altas (8\"delantera / 11\"trasera), ideales para terrenos con desniveles, Capacidades de estanque 1 litro de combustible y 0,6 litros de aceite, Sistemas de trabajo 3 en 1 (incluye recolector trasero, descarga lateral y sistema Mulching), Peso: 39 kg. Certificación SEC"
+    ],
+    [
+     "23181506",
+     "Maquinaria de lavado",
+     1,
+     "HIDROLAVADORA LUSTER GASOLINA AGW. HE-3100 O SIMILAR. Partida manual, temperatura del agua 5° mín - 50 ° máx., dimensiones (lah) 70 x 45 x 66, peso 35 Kg, estanque de combustible 3,6 Lts., tipo de motor gasolina 7hp., velocidad 3600 rpm, máxima presión 213 bar, presión de trabajo 193 bar, caudal o flujo permisible 570 lts./hr."
+    ],
+    [
+     "25101901",
+     "Tractores agrícolas",
+     1,
+     "TRACTOCULTIVADOR KRAFTER R001 11 HP O SIMILAR. Motor: Diésel HSD188FAE (11 HP), Encendido: Eléctrico (y con piola de arranque manual de emergencia), Transmisión Por engranajes, Marchas: 3 hacia adelante y 1 hacia atrás, Neumáticos Frontales 4.0-8 / Traseros 5.0-12., Ancho de trabajo 1.050 mm (1,05 m), Diámetro máximo de fresas 360 mm, Peso: 240 kg."
+    ],
+    [
+     "27111508",
+     "Sierras",
+     2,
+     "MOTOSIERRA STIHL MS 250 O SIMILAR. Cilindrada 45,4 cm3, Cadena Rapid Micro/Super 0,325” 1,6 mm., Espada 18\", Motor, 2 Tiempos, Potencia (Hp) 3,1 HP."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1173433-21-COT26",
+   "sin_detalle": false,
+   "descripcion": "ADQUISICIÓN DE MAQUINARIA Y EQUIPAMIENTO PARA EL FORTALECIMIENTO DE LAS ACTIVIDADES AGRÍCOLAS C.E.T. VALLE VERDE OCTUBRE 2026.",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
     "luminaria"
    ],
    "nueva": false,
@@ -430,6 +542,35 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=2042-372-COT26",
    "sin_detalle": false,
    "descripcion": "ADQUISICION DE  FOCOS  PROYECTORES  LED  DE   100  WATTS   ,  DESTINADOS  A  LA  REPÓSICION  DE  LA   LUMINARIA,  DE   LA   PLANTA  DE  TRATAMIENTO  DE  AGUAS  SERVIDAS  DE  LA  COMUNA . DICHAS   LUNINARIAS  DEBEN  CUMPLIAR  CON  LAS  ESPECIFICACIONES  QUE  SE  SOLICITAN   EN  ANEXO  ADJUNTO   .- SE   SOLICITA  ADJUNTAR   COTIZACION  ESTABLECIENDO   PLAZO  Y  LUGAR  DE  ENTREGA   .-",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Conectores, enchufes y terminales"
+   ],
+   "nueva": true,
+   "codigo": "1233615-852-COT26",
+   "nombre": "DMH SOL-2026-01931] Recursos TICS para Escuela \"Litoral Austral\" de Puerto Aysén",
+   "organismo": "Servicio Local de Educación Pública Aysén",
+   "unidad": "Servicio Local de Educación Pública Aysén",
+   "monto": 302470,
+   "cierre_iso": "2026-10-31T12:37:00-03:00",
+   "publicacion": "23-10 14:14",
+   "publicacion_iso": "2026-10-23T14:14:00-03:00",
+   "ofertas": 2,
+   "productos": [
+    [
+     "39121409",
+     "Conectores de cables eléctricos",
+     1,
+     "insumos, accesorios y equipamiento informático necesarios para garantizar la continuidad operativa, mantención y adecuado funcionamiento de los recursos tecnológicos de la Escuela Litoral Austral, de acuerdo a requerimiento adjunto a la presente compra (debe llenar el formulario N°1)"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1233615-852-COT26",
+   "sin_detalle": false,
+   "descripcion": "Se solicita la adquisición de insumos, accesorios y equipamiento informático necesarios para garantizar la continuidad operativa, mantención y adecuado funcionamiento de los recursos tecnológicos de la Escuela Litoral Austral.",
    "en_gracia": false,
    "desaparecida_iso": ""
   }
@@ -468,42 +609,6 @@
    ],
    "link": "https://buscador.mercadopublico.cl/ficha?code=3949-265-COT26",
    "primera_vista_iso": "2026-10-26T13:13:41-03:00",
-   "removida_iso": "2026-10-27T12:27:37-03:00",
-   "estado_api": null,
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "1274667-416-COT26",
-   "nombre": "SOLICITA SERVICIO DE INSTALACION DE CLIMATIZADOR EXISTENTE TIPO SPLIT PARA CENTRO DE SALUD FAMILIAR PUERTO AYSÉN",
-   "organismo": "CENTRO DE SALUD FAMILIAR PUERTO AYSÉN",
-   "monto": 250000,
-   "cierre_iso": "2026-10-27T11:15:00-03:00",
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Gasfitería, calefacción y aire acondicionado"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1274667-416-COT26",
-   "primera_vista_iso": "2026-10-26T13:13:41-03:00",
-   "removida_iso": "2026-10-27T12:27:37-03:00",
-   "estado_api": null,
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "1233615-852-COT26",
-   "nombre": "DMH SOL-2026-01931] Recursos TICS para Escuela \"Litoral Austral\" de Puerto Aysén",
-   "organismo": "Servicio Local de Educación Pública Aysén",
-   "monto": 302470,
-   "cierre_iso": "2026-10-27T10:00:00-03:00",
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Conectores, enchufes y terminales"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1233615-852-COT26",
-   "primera_vista_iso": "2026-10-23T15:31:59-03:00",
    "removida_iso": "2026-10-27T12:27:37-03:00",
    "estado_api": null,
    "adj_nombre": null,

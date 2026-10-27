@@ -34,7 +34,7 @@
   ],
   "link": "https://buscador.mercadopublico.cl/ficha?code=4066-419-COT26",
   "primera_vista_iso": "2026-10-13T15:51:46-03:00",
-  "ultima_activa_iso": "2026-10-27T12:27:37-03:00",
+  "ultima_activa_iso": "2026-10-27T17:10:04-03:00",
   "removida_iso": null,
   "estado_api": "",
   "adj_nombre": null,
@@ -145,7 +145,7 @@
   "adj_nombre": null,
   "adj_monto": null,
   "adj_iso": null,
-  "adj_revisado_iso": "2026-10-26T16:26:03-03:00"
+  "adj_revisado_iso": "2026-10-27T17:10:04-03:00"
  },
  "1173433-18-COT26": {
   "codigo": "1173433-18-COT26",
@@ -166,7 +166,7 @@
   "adj_nombre": null,
   "adj_monto": null,
   "adj_iso": null,
-  "adj_revisado_iso": "2026-10-26T18:06:24-03:00"
+  "adj_revisado_iso": "2026-10-27T17:10:04-03:00"
  },
  "1107283-173-COT26": {
   "codigo": "1107283-173-COT26",
@@ -187,7 +187,7 @@
   "adj_nombre": null,
   "adj_monto": null,
   "adj_iso": null,
-  "adj_revisado_iso": "2026-10-26T18:06:24-03:00"
+  "adj_revisado_iso": "2026-10-27T17:10:04-03:00"
  },
  "1758-245-COT26": {
   "codigo": "1758-245-COT26",
@@ -208,7 +208,7 @@
   "adj_nombre": null,
   "adj_monto": null,
   "adj_iso": null,
-  "adj_revisado_iso": "2026-10-26T18:06:24-03:00"
+  "adj_revisado_iso": "2026-10-27T17:10:04-03:00"
  },
  "1274667-398-COT26": {
   "codigo": "1274667-398-COT26",
@@ -229,7 +229,7 @@
   "adj_nombre": null,
   "adj_monto": null,
   "adj_iso": null,
-  "adj_revisado_iso": "2026-10-26T18:06:24-03:00"
+  "adj_revisado_iso": "2026-10-27T17:10:04-03:00"
  },
  "1758-247-COT26": {
   "codigo": "1758-247-COT26",
@@ -671,7 +671,7 @@
   ],
   "link": "https://buscador.mercadopublico.cl/ficha?code=2042-372-COT26",
   "primera_vista_iso": "2026-10-22T16:57:20-03:00",
-  "ultima_activa_iso": "2026-10-27T12:27:37-03:00",
+  "ultima_activa_iso": "2026-10-27T17:10:04-03:00",
   "removida_iso": null,
   "estado_api": null,
   "adj_nombre": null,
@@ -706,15 +706,15 @@
   "organismo": "Servicio Local de Educación Pública Aysén",
   "unidad": "Servicio Local de Educación Pública Aysén",
   "monto": 302470,
-  "cierre_iso": "2026-10-27T10:00:00-03:00",
+  "cierre_iso": "2026-10-31T12:37:00-03:00",
   "tipo": "OPORTUNIDAD",
   "motivos": [
    "Conectores, enchufes y terminales"
   ],
   "link": "https://buscador.mercadopublico.cl/ficha?code=1233615-852-COT26",
   "primera_vista_iso": "2026-10-23T15:31:59-03:00",
-  "ultima_activa_iso": "2026-10-26T21:38:14-03:00",
-  "removida_iso": "2026-10-27T12:27:37-03:00",
+  "ultima_activa_iso": "2026-10-27T17:10:04-03:00",
+  "removida_iso": null,
   "estado_api": null,
   "adj_nombre": null,
   "adj_monto": null,
@@ -727,15 +727,15 @@
   "organismo": "CENTRO DE SALUD FAMILIAR PUERTO AYSÉN",
   "unidad": "CENTRO DE SALUD FAMILIAR PUERTO AYSÉN",
   "monto": 250000,
-  "cierre_iso": "2026-10-27T11:15:00-03:00",
+  "cierre_iso": "2026-10-28T14:32:00-03:00",
   "tipo": "OPORTUNIDAD",
   "motivos": [
    "Gasfitería, calefacción y aire acondicionado"
   ],
   "link": "https://buscador.mercadopublico.cl/ficha?code=1274667-416-COT26",
   "primera_vista_iso": "2026-10-26T13:13:41-03:00",
-  "ultima_activa_iso": "2026-10-26T21:38:14-03:00",
-  "removida_iso": "2026-10-27T12:27:37-03:00",
+  "ultima_activa_iso": "2026-10-27T17:10:04-03:00",
+  "removida_iso": null,
   "estado_api": null,
   "adj_nombre": null,
   "adj_monto": null,
@@ -801,7 +801,7 @@
   ],
   "link": "https://buscador.mercadopublico.cl/ficha?code=3765-311-COT26",
   "primera_vista_iso": "2026-10-26T16:26:03-03:00",
-  "ultima_activa_iso": "2026-10-27T12:27:37-03:00",
+  "ultima_activa_iso": "2026-10-27T17:10:04-03:00",
   "removida_iso": null,
   "estado_api": null,
   "adj_nombre": null,
@@ -823,7 +823,7 @@
   ],
   "link": "https://buscador.mercadopublico.cl/ficha?code=886182-239-COT26",
   "primera_vista_iso": "2026-10-26T18:06:24-03:00",
-  "ultima_activa_iso": "2026-10-27T12:27:37-03:00",
+  "ultima_activa_iso": "2026-10-27T17:10:04-03:00",
   "removida_iso": null,
   "estado_api": null,
   "adj_nombre": null,
@@ -844,7 +844,7 @@
   ],
   "link": "https://buscador.mercadopublico.cl/ficha?code=1282238-81-COT26",
   "primera_vista_iso": "2026-10-27T12:27:37-03:00",
-  "ultima_activa_iso": "2026-10-27T12:27:37-03:00",
+  "ultima_activa_iso": "2026-10-27T17:10:04-03:00",
   "removida_iso": null,
   "estado_api": null,
   "adj_nombre": null,
@@ -865,7 +865,7 @@
   ],
   "link": "https://buscador.mercadopublico.cl/ficha?code=5038-66-COT26",
   "primera_vista_iso": "2026-10-27T12:27:37-03:00",
-  "ultima_activa_iso": "2026-10-27T12:27:37-03:00",
+  "ultima_activa_iso": "2026-10-27T17:10:04-03:00",
   "removida_iso": null,
   "estado_api": null,
   "adj_nombre": null,
@@ -887,7 +887,7 @@
   ],
   "link": "https://buscador.mercadopublico.cl/ficha?code=1057062-482-COT26",
   "primera_vista_iso": "2026-10-27T12:27:37-03:00",
-  "ultima_activa_iso": "2026-10-27T12:27:37-03:00",
+  "ultima_activa_iso": "2026-10-27T17:10:04-03:00",
   "removida_iso": null,
   "estado_api": null,
   "adj_nombre": null,
@@ -908,7 +908,7 @@
   ],
   "link": "https://buscador.mercadopublico.cl/ficha?code=1758-261-COT26",
   "primera_vista_iso": "2026-10-27T12:27:37-03:00",
-  "ultima_activa_iso": "2026-10-27T12:27:37-03:00",
+  "ultima_activa_iso": "2026-10-27T17:10:04-03:00",
   "removida_iso": null,
   "estado_api": null,
   "adj_nombre": null,
@@ -929,7 +929,50 @@
   ],
   "link": "https://buscador.mercadopublico.cl/ficha?code=1078779-24-COT26",
   "primera_vista_iso": "2026-10-27T12:27:37-03:00",
-  "ultima_activa_iso": "2026-10-27T12:27:37-03:00",
+  "ultima_activa_iso": "2026-10-27T17:10:04-03:00",
+  "removida_iso": null,
+  "estado_api": null,
+  "adj_nombre": null,
+  "adj_monto": null,
+  "adj_iso": null,
+  "adj_revisado_iso": null
+ },
+ "4733-431-COT26": {
+  "codigo": "4733-431-COT26",
+  "nombre": "RECAMBIO DE LUMINARIAS EDIFICIOS MUNICIPALES",
+  "organismo": "I MUNICIPALIDAD DE LAS GUAITECAS",
+  "unidad": "I MUNICIPALIDAD DE LAS GUAITECAS",
+  "monto": 3500000,
+  "cierre_iso": "2026-10-29T14:30:00-03:00",
+  "tipo": "OPORTUNIDAD",
+  "motivos": [
+   "Suministros y accesorios eléctricos"
+  ],
+  "link": "https://buscador.mercadopublico.cl/ficha?code=4733-431-COT26",
+  "primera_vista_iso": "2026-10-27T17:10:04-03:00",
+  "ultima_activa_iso": "2026-10-27T17:10:04-03:00",
+  "removida_iso": null,
+  "estado_api": null,
+  "adj_nombre": null,
+  "adj_monto": null,
+  "adj_iso": null,
+  "adj_revisado_iso": null
+ },
+ "1173433-21-COT26": {
+  "codigo": "1173433-21-COT26",
+  "nombre": "ADQUISICIÓN DE MAQUINARIA Y EQUIPAMIENTO AGRÍCOLA",
+  "organismo": "Centro de Educación y Trabajo Valle Verde",
+  "unidad": "CET Valle Verde",
+  "monto": 5638655,
+  "cierre_iso": "2026-10-30T11:00:00-03:00",
+  "tipo": "POSIBLE",
+  "motivos": [
+   "certificación sec",
+   "eléctrico"
+  ],
+  "link": "https://buscador.mercadopublico.cl/ficha?code=1173433-21-COT26",
+  "primera_vista_iso": "2026-10-27T17:10:04-03:00",
+  "ultima_activa_iso": "2026-10-27T17:10:04-03:00",
   "removida_iso": null,
   "estado_api": null,
   "adj_nombre": null,

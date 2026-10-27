@@ -124,28 +124,7 @@
   "adj_nombre": null,
   "adj_monto": null,
   "adj_iso": null,
-  "adj_revisado_iso": "2026-10-26T16:12:12-03:00"
- },
- "1233615-819-COT26": {
-  "codigo": "1233615-819-COT26",
-  "nombre": "TRM/SOL 1954 Kit estudiante destacado LICEO BICENTENARIO LUISA RABANAL PALMA",
-  "organismo": "Servicio Local de Educación Pública Aysén",
-  "unidad": "Servicio Local de Educación Pública Aysén",
-  "monto": 500000,
-  "cierre_iso": "2026-10-20T15:00:00-03:00",
-  "tipo": "OPORTUNIDAD",
-  "motivos": [
-   "Ventas y marketing"
-  ],
-  "link": "https://buscador.mercadopublico.cl/ficha?code=1233615-819-COT26",
-  "primera_vista_iso": "2026-10-19T12:56:38-03:00",
-  "ultima_activa_iso": "2026-10-20T14:53:44-03:00",
-  "removida_iso": "2026-10-20T16:05:54-03:00",
-  "estado_api": "",
-  "adj_nombre": null,
-  "adj_monto": null,
-  "adj_iso": null,
-  "adj_revisado_iso": "2026-10-26T16:26:03-03:00"
+  "adj_revisado_iso": "2026-10-27T17:10:04-03:00"
  },
  "4733-410-COT26": {
   "codigo": "4733-410-COT26",
@@ -166,7 +145,7 @@
   "adj_nombre": null,
   "adj_monto": null,
   "adj_iso": null,
-  "adj_revisado_iso": "2026-10-26T16:26:03-03:00"
+  "adj_revisado_iso": "2026-10-27T17:10:04-03:00"
  },
  "1494998-22-COT26": {
   "codigo": "1494998-22-COT26",
@@ -187,7 +166,7 @@
   "adj_nombre": null,
   "adj_monto": null,
   "adj_iso": null,
-  "adj_revisado_iso": "2026-10-26T16:26:03-03:00"
+  "adj_revisado_iso": "2026-10-27T17:10:04-03:00"
  },
  "2495-564-COT26": {
   "codigo": "2495-564-COT26",
@@ -210,7 +189,7 @@
   "adj_nombre": null,
   "adj_monto": null,
   "adj_iso": null,
-  "adj_revisado_iso": "2026-10-26T16:26:03-03:00"
+  "adj_revisado_iso": "2026-10-27T17:10:04-03:00"
  },
  "1758-250-COT26": {
   "codigo": "1758-250-COT26",
@@ -231,7 +210,7 @@
   "adj_nombre": null,
   "adj_monto": null,
   "adj_iso": null,
-  "adj_revisado_iso": "2026-10-26T16:26:03-03:00"
+  "adj_revisado_iso": "2026-10-27T17:10:04-03:00"
  },
  "2495-565-COT26": {
   "codigo": "2495-565-COT26",
@@ -889,7 +868,7 @@
   ],
   "link": "https://buscador.mercadopublico.cl/ficha?code=854-29-COT26",
   "primera_vista_iso": "2026-10-26T13:13:41-03:00",
-  "ultima_activa_iso": "2026-10-27T12:27:37-03:00",
+  "ultima_activa_iso": "2026-10-27T17:10:04-03:00",
   "removida_iso": null,
   "estado_api": null,
   "adj_nombre": null,
@@ -911,7 +890,7 @@
   "link": "https://buscador.mercadopublico.cl/ficha?code=3791-1066-COT26",
   "primera_vista_iso": "2026-10-26T16:12:12-03:00",
   "ultima_activa_iso": "2026-10-27T12:27:37-03:00",
-  "removida_iso": null,
+  "removida_iso": "2026-10-27T17:10:04-03:00",
   "estado_api": null,
   "adj_nombre": null,
   "adj_monto": null,
@@ -932,7 +911,7 @@
   "link": "https://buscador.mercadopublico.cl/ficha?code=3791-1068-COT26",
   "primera_vista_iso": "2026-10-26T16:12:12-03:00",
   "ultima_activa_iso": "2026-10-27T12:27:37-03:00",
-  "removida_iso": null,
+  "removida_iso": "2026-10-27T17:10:04-03:00",
   "estado_api": null,
   "adj_nombre": null,
   "adj_monto": null,
@@ -953,7 +932,7 @@
   ],
   "link": "https://buscador.mercadopublico.cl/ficha?code=2495-584-COT26",
   "primera_vista_iso": "2026-10-26T18:06:24-03:00",
-  "ultima_activa_iso": "2026-10-27T12:27:37-03:00",
+  "ultima_activa_iso": "2026-10-27T17:10:04-03:00",
   "removida_iso": null,
   "estado_api": null,
   "adj_nombre": null,
@@ -974,7 +953,7 @@
   ],
   "link": "https://buscador.mercadopublico.cl/ficha?code=1208109-24-COT26",
   "primera_vista_iso": "2026-10-26T18:06:24-03:00",
-  "ultima_activa_iso": "2026-10-27T12:27:37-03:00",
+  "ultima_activa_iso": "2026-10-27T17:10:04-03:00",
   "removida_iso": null,
   "estado_api": null,
   "adj_nombre": null,
@@ -995,7 +974,7 @@
   ],
   "link": "https://buscador.mercadopublico.cl/ficha?code=2495-586-COT26",
   "primera_vista_iso": "2026-10-27T12:27:37-03:00",
-  "ultima_activa_iso": "2026-10-27T12:27:37-03:00",
+  "ultima_activa_iso": "2026-10-27T17:10:04-03:00",
   "removida_iso": null,
   "estado_api": null,
   "adj_nombre": null,
@@ -1016,7 +995,7 @@
   ],
   "link": "https://buscador.mercadopublico.cl/ficha?code=1282238-79-COT26",
   "primera_vista_iso": "2026-10-27T12:27:37-03:00",
-  "ultima_activa_iso": "2026-10-27T12:27:37-03:00",
+  "ultima_activa_iso": "2026-10-27T17:10:04-03:00",
   "removida_iso": null,
   "estado_api": null,
   "adj_nombre": null,
@@ -1037,7 +1016,29 @@
   ],
   "link": "https://buscador.mercadopublico.cl/ficha?code=1282238-82-COT26",
   "primera_vista_iso": "2026-10-27T12:27:37-03:00",
-  "ultima_activa_iso": "2026-10-27T12:27:37-03:00",
+  "ultima_activa_iso": "2026-10-27T17:10:04-03:00",
+  "removida_iso": null,
+  "estado_api": null,
+  "adj_nombre": null,
+  "adj_monto": null,
+  "adj_iso": null,
+  "adj_revisado_iso": null
+ },
+ "1092-74-COT26": {
+  "codigo": "1092-74-COT26",
+  "nombre": "SIC 457 SIRE 439 CONTRATACION PROFESIONAL",
+  "organismo": "CORP NACIONAL FORESTAL",
+  "unidad": "XI Región - Oficina Regional de Aysén",
+  "monto": 6000000,
+  "cierre_iso": "2026-10-29T11:00:00-03:00",
+  "tipo": "POSIBLE",
+  "motivos": [
+   "aviso",
+   "avisos"
+  ],
+  "link": "https://buscador.mercadopublico.cl/ficha?code=1092-74-COT26",
+  "primera_vista_iso": "2026-10-27T17:10:04-03:00",
+  "ultima_activa_iso": "2026-10-27T17:10:04-03:00",
   "removida_iso": null,
   "estado_api": null,
   "adj_nombre": null,

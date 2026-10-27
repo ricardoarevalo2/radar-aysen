@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-10-27T12:27:37.853213-03:00",
+ "actualizado": "2026-10-27T17:10:04.623742-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
- "total_region": 235,
+ "total_region": 265,
  "rubros": {
   "80141600": "Ventas y marketing",
   "82101600": "Publicidad en medios no impresos",
@@ -14,70 +14,6 @@
   "83121700": "Comunicación social y de masas"
  },
  "filas": [
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "difusion"
-   ],
-   "nueva": true,
-   "codigo": "3791-1066-COT26",
-   "nombre": "CAMARA PARA TRANSMISION ",
-   "organismo": "I MUNICIPALIDAD DE CISNES",
-   "unidad": "Finanzas",
-   "monto": 290001,
-   "cierre_iso": "2026-10-27T15:00:00-03:00",
-   "publicacion": "26-10 14:47",
-   "publicacion_iso": "2026-10-26T14:47:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "45121504",
-     "Cámaras digitales",
-     1,
-     "Cámara para transmisión: OBSBOT Tiny 2 Lite Webcam 4K PTZ con IA o similar, con conexión USB, resolución hasta\n4K HDR."
-    ],
-    [
-     "45121602",
-     "Trípodes",
-     1,
-     "Trípode de aluminio para cámara, altura máxima de 1,72 m, soporte hasta 4 kg y cabeza de 3 vías. Incluye\ngarantía para transmisión de eventos municipales."
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=3791-1066-COT26",
-   "sin_detalle": false,
-   "descripcion": "ADQUISICION DE CAMARA PARA LA TRANSMISION EN VIVO DE EVENTOS MUNICIPALES, PARA MEJORAR CALIDAD AUDIVISUAL Y LA DIFUSION DE LAS ACTIVIDADES INSTITUCIONALES. SE ADJUNTAN ESPECIFICACIONES",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
-  {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Ventas y marketing"
-   ],
-   "nueva": true,
-   "codigo": "3791-1068-COT26",
-   "nombre": "SERVICIOS DE PRODUCCION ",
-   "organismo": "I MUNICIPALIDAD DE CISNES",
-   "unidad": "Finanzas",
-   "monto": 1200000,
-   "cierre_iso": "2026-10-27T15:30:00-03:00",
-   "publicacion": "26-10 15:11",
-   "publicacion_iso": "2026-10-26T15:11:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "80141607",
-     "Producción de eventos",
-     1,
-     "Servicio de producción para inauguración y premiación de Olimpiadas Comunales."
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=3791-1068-COT26",
-   "sin_detalle": false,
-   "descripcion": "SERVICIO DE PRODUCCION Y APOYO TECNICO PARA REALIZACION DE LAS CEREMONIAS DE INAGURACION Y PREMIACION DE LAS OLIMPIADAS COMUNALES 2026. SE ADJUNTAN ESPECIFICACIONES",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
   {
    "tipo": "OPORTUNIDAD",
    "motivos": [
@@ -112,7 +48,7 @@
    "motivos": [
     "publicitaria"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "854-29-COT26",
    "nombre": "Impresión de volantes (flyers)  JUNJI XI.",
    "organismo": "JUNTA NACIONAL DE JARDINES         INFANTILES",
@@ -197,6 +133,36 @@
   {
    "tipo": "POSIBLE",
    "motivos": [
+    "aviso",
+    "avisos"
+   ],
+   "nueva": true,
+   "codigo": "1092-74-COT26",
+   "nombre": "SIC 457 SIRE 439 CONTRATACION PROFESIONAL",
+   "organismo": "CORP NACIONAL FORESTAL",
+   "unidad": "XI Región - Oficina Regional de Aysén",
+   "monto": 6000000,
+   "cierre_iso": "2026-10-29T11:00:00-03:00",
+   "publicacion": "27-10 16:21",
+   "publicacion_iso": "2026-10-27T16:21:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "70151508",
+     "Servicios de asistencia forestal",
+     1,
+     "CONTRATACIÓN DE SERVICIO PROFESIONALES DE UN INGENIERO/A FORESTAL PRESENTACIÓN DE AVISOS EJECUCIÓN DE AVISOS DE POSTERGACIÓN LEY 20283 COMUNA COYHAIQUE – RIO IBAÑEZ LA FINALIDAD ES CONTRATAR LOS SERVICIOS PROFESIONALES DE UN INGENIERO/A FORESTAL QUE LOGRE ASUMIR FUNCIONES DE APOYO EN LA PRESENTACIÓN DE 28 AVISO EJECUCIÓN DE AVISOS DE POSTERGACIÓN ASOCIADOS A PLANES DE MANEJO FORESTAL"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1092-74-COT26",
+   "sin_detalle": false,
+   "descripcion": "CONTRATACIÓN DE SERVICIO PROFESIONALES DE UN INGENIERO/A FORESTAL PRESENTACIÓN DE AVISOS EJECUCIÓN DE AVISOS DE POSTERGACIÓN LEY 20283 COMUNA COYHAIQUE – RIO IBAÑEZ La finalidad es contratar los servicios profesionales de un Ingeniero/a Forestal que logre asumir funciones de apoyo en la presentación de 28 aviso ejecución de Avisos de postergación asociados a Planes de manejo forestal ley 20283 (se adjunta Requerimientos y bases técnicas)",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
     "difusión",
     "publicidad"
    ],
@@ -267,6 +233,42 @@
   }
  ],
  "historial": [
+  {
+   "codigo": "3791-1068-COT26",
+   "nombre": "SERVICIOS DE PRODUCCION ",
+   "organismo": "I MUNICIPALIDAD DE CISNES",
+   "monto": 1200000,
+   "cierre_iso": "2026-10-27T15:30:00-03:00",
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Ventas y marketing"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=3791-1068-COT26",
+   "primera_vista_iso": "2026-10-26T16:12:12-03:00",
+   "removida_iso": "2026-10-27T17:10:04-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
+  {
+   "codigo": "3791-1066-COT26",
+   "nombre": "CAMARA PARA TRANSMISION ",
+   "organismo": "I MUNICIPALIDAD DE CISNES",
+   "monto": 290001,
+   "cierre_iso": "2026-10-27T15:00:00-03:00",
+   "tipo": "POSIBLE",
+   "motivos": [
+    "difusion"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=3791-1066-COT26",
+   "primera_vista_iso": "2026-10-26T16:12:12-03:00",
+   "removida_iso": "2026-10-27T17:10:04-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
   {
    "codigo": "1494998-27-COT26",
    "nombre": "SERVICIO DE APOYO A LA REALIZACION DE TALLERES DE GOBERNANZA EN EL ACMU PITIPALENA-AÑIHUE (PPA) PARA LA DIRECCIÓN REGIONAL DE AYSÉN, SERVICIO DE BIODIVERSIDAD Y ÁREAS PROTEGIDAS  (SBAP)",
@@ -998,24 +1000,6 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=1182705-193-COT26",
    "primera_vista_iso": "2026-10-15T16:05:38-03:00",
    "removida_iso": "2026-10-21T08:57:31-03:00",
-   "estado_api": "",
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "1233615-819-COT26",
-   "nombre": "TRM/SOL 1954 Kit estudiante destacado LICEO BICENTENARIO LUISA RABANAL PALMA",
-   "organismo": "Servicio Local de Educación Pública Aysén",
-   "monto": 500000,
-   "cierre_iso": "2026-10-20T15:00:00-03:00",
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Ventas y marketing"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1233615-819-COT26",
-   "primera_vista_iso": "2026-10-19T12:56:38-03:00",
-   "removida_iso": "2026-10-20T16:05:54-03:00",
    "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,
