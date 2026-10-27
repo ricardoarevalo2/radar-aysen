@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-10-27T17:10:04.623742-03:00",
+ "actualizado": "2026-10-27T20:52:30.730332-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
- "total_region": 265,
+ "total_region": 286,
  "rubros": {
   "25172700": "Aire acondicionado",
   "25173900": "Componentes eléctricos",
@@ -79,6 +79,35 @@
    "desaparecida_iso": ""
   },
   {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "generador"
+   ],
+   "nueva": true,
+   "codigo": "657-96-COT26",
+   "nombre": "insumos para generador CATEPILLAR",
+   "organismo": "SERVICIO DE VIVIENDA Y URBANIZACION XI REGION",
+   "unidad": "SERVIU XI REGION",
+   "monto": 693770,
+   "cierre_iso": "2026-10-28T18:00:00-03:00",
+   "publicacion": "27-10 17:48",
+   "publicacion_iso": "2026-10-27T17:48:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "40161504",
+     "Filtros de aceite",
+     1,
+     "Conjunto de filtro.\nFiltro separador de agua y combustible CAT N.° 441-5111.\nSeparador de agua y combustible.\nFiltro de aceite CAT N.° 7W-2326.\nAceite de motor Cat DEO 15W-40."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=657-96-COT26",
+   "sin_detalle": false,
+   "descripcion": "adquisición de los siguientes insumos originales para el generador Caterpillar modelo DE110GE:\n\nConjunto de filtro.\nFiltro separador de agua y combustible CAT N.° 441-5111.\nSeparador de agua y combustible.\nFiltro de aceite CAT N.° 7W-2326.\nAceite de motor Cat DEO 15W-40.\n\nLa adquisición de estos repuestos e insumos originales es necesaria para garantizar la continuidad operativa del equipo.",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
    "tipo": "OPORTUNIDAD",
    "motivos": [
     "Servicios eléctricos"
@@ -113,7 +142,7 @@
     "certificación sec",
     "eléctrico"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "886182-239-COT26",
    "nombre": "Adquisición de 2 estufas de calefacción eléctrica_FISABS 2225",
    "organismo": "UNIVERSIDAD DE AYSEN",
@@ -134,6 +163,35 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=886182-239-COT26",
    "sin_detalle": false,
    "descripcion": "Se requiere cotizar 2 estufas de calefacción eléctrica según EETT\nadjunto (VER). Cotización debe indicar la especificación técnica\nde lo ofertado y el plazo de entrega en días hábiles, considerando\nla entrega de los productos en dependencias de la Universidad\nde Aysén y no en la empresa de transportes. El valor ofertado\ndebe incluir impuestos y flete. Se podrá privilegiar el menor plazo\nofertado que cumpla con lo especificado.",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "enchufe"
+   ],
+   "nueva": true,
+   "codigo": "1692-627-COT26",
+   "nombre": "ADQUISICIÓN DE 4 RELOJES DIGITALES DE PARED CON PANTALLA LED PARA EL HOSPITAL DE COCHRANE ",
+   "organismo": "SERVICIO NACIONAL DE SALUD HOSPITAL DE COCHRANE",
+   "unidad": "Hospital Cochrane",
+   "monto": 100000,
+   "cierre_iso": "2026-10-29T10:00:00-03:00",
+   "publicacion": "27-10 19:04",
+   "publicacion_iso": "2026-10-27T19:04:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "54111601",
+     "Relojes de pared",
+     4,
+     "UNIDADES RELOJ DIGITAL DE PARED CON PANTALLA LED, CON FUNCIÓN DE TERMÓMETRO Y FECHA, ALIMENTACIÓN MEDIANTE ENCHUFE Y/O USB, DE COLOR NEGRO."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1692-627-COT26",
+   "sin_detalle": false,
+   "descripcion": "SE REQUIERE LA ADQUISICIÓN DE 4 RELOJES DIGITALES DE PARED CON PANTALLA LED PARA EL HOSPITAL DE COCHRANE. SE DEBE ADJUNTAR FICHA TÉCNICA DE LOS PRODUCTOS OFERTADOS. SE DEBE CONSIDERAR EN EL VALOR DE LOS PRODUCTOS EL FLETE HASTA LA COMUNA DE COCHRANE.",
    "en_gracia": false,
    "desaparecida_iso": ""
   },

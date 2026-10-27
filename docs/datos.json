@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-10-27T17:10:04.623742-03:00",
+ "actualizado": "2026-10-27T20:52:30.730332-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
- "total_region": 265,
+ "total_region": 286,
  "rubros": {
   "80141600": "Ventas y marketing",
   "82101600": "Publicidad en medios no impresos",
@@ -166,7 +166,7 @@
     "difusión",
     "publicidad"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "2495-584-COT26",
    "nombre": "ADQUISICIÓN DE MATERIALES PARA LA DIFUSIÓN DEL PROGRAMA SENDA PREVIENE 2026 ",
    "organismo": "I MUNICIPALIDAD DE COYHAIQUE",
@@ -201,7 +201,7 @@
    "motivos": [
     "radio"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "1208109-24-COT26",
    "nombre": "Servicio de almuerzos y cenas para participantes del Encuentro Nacional de Participación",
    "organismo": "SERVICIO NACIONAL DE PROTECCIÓN ESPECIALIZADA A LA NIÑEZ Y ADOLESCENCI",
@@ -228,6 +228,35 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=1208109-24-COT26",
    "sin_detalle": false,
    "descripcion": "Se requiere el servicio de alimentación para 4 personas, el cual consiste en la entrega de almuerzos y cenas para los participantes del encuentro nacional de participación a desarrollarse los días 03 al 06 de noviembre. Este servicio debe prestarse con la entrega de la alimentación en restaurant ubicado en un radio intermedio entre el hotel Brasilia, ubicado en calle Santo Domingo N°2228 y la Biblioteca de Santiago ubicada en calle Avenida Matucana N°151",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Fotógrafos y camarógrafos"
+   ],
+   "nueva": true,
+   "codigo": "2494-277-COT26",
+   "nombre": "BAP - Servicio de Taller de Fotografía , en el Marco del Plan de  Confianza Social del Barrio Arturo Prat - PROGRAMA RECUPERACIÓN DE BARRIOS",
+   "organismo": "I MUNICIPALIDAD DE COYHAIQUE",
+   "unidad": "SECRETARIA COMUNAL DE PLANIFICACION",
+   "monto": 400000,
+   "cierre_iso": "2026-10-30T11:00:00-03:00",
+   "publicacion": "27-10 17:13",
+   "publicacion_iso": "2026-10-27T17:13:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "82131604",
+     "Estudio fotográfico",
+     1,
+     "Se requiere contratar un servicio de taller de fotografía para 15 participantes, en el marco del Plan de Confianza Social del Barrio Arturo Prat, orientado al aprendizaje y desarrollo de habilidades creativas y comunicacionales a través de la fotografía, promoviendo además un espacio de encuentro, expresión personal y participación comunitaria. SE ADJUNTA LA DOCUMENTACIÓN \"TDR-TALLER-DE-FOTOGRAFIA.PDF\" CON LOS DETALLES DEL SERVICIO A SOLICITAR."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=2494-277-COT26",
+   "sin_detalle": false,
+   "descripcion": "Se requiere contratar un servicio de taller de fotografía para 15 participantes, en el marco del Plan de \nConfianza Social del Barrio Arturo Prat, orientado al aprendizaje y desarrollo de habilidades creativas \ny comunicacionales a través de la fotografía, promoviendo además un espacio de encuentro, \nexpresión personal y participación comunitaria.",
    "en_gracia": false,
    "desaparecida_iso": ""
   }
