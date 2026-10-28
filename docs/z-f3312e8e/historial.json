@@ -19,7 +19,7 @@
   "adj_nombre": null,
   "adj_monto": null,
   "adj_iso": null,
-  "adj_revisado_iso": "2026-10-28T02:58:43-03:00"
+  "adj_revisado_iso": "2026-10-28T13:11:01-03:00"
  },
  "4066-419-COT26": {
   "codigo": "4066-419-COT26",
@@ -34,34 +34,13 @@
   ],
   "link": "https://buscador.mercadopublico.cl/ficha?code=4066-419-COT26",
   "primera_vista_iso": "2026-10-13T15:51:46-03:00",
-  "ultima_activa_iso": "2026-10-28T02:58:43-03:00",
+  "ultima_activa_iso": "2026-10-28T13:11:01-03:00",
   "removida_iso": null,
   "estado_api": "",
   "adj_nombre": null,
   "adj_monto": null,
   "adj_iso": null,
   "adj_revisado_iso": "2026-10-21T08:57:31-03:00"
- },
- "3540-274-COT26": {
-  "codigo": "3540-274-COT26",
-  "nombre": "REPUESTOS GENERADOR DEE 8KVA KOLVO ",
-  "organismo": "Ejercito de Chile",
-  "unidad": "Cuerpo Militar del Trabajo Subjefatura Zonal Coyhaique",
-  "monto": 270000,
-  "cierre_iso": "2026-10-21T09:15:00-03:00",
-  "tipo": "POSIBLE",
-  "motivos": [
-   "generador"
-  ],
-  "link": "https://buscador.mercadopublico.cl/ficha?code=3540-274-COT26",
-  "primera_vista_iso": "2026-10-14T16:05:10-03:00",
-  "ultima_activa_iso": "2026-10-21T07:57:50-03:00",
-  "removida_iso": "2026-10-21T08:57:31-03:00",
-  "estado_api": "",
-  "adj_nombre": null,
-  "adj_monto": null,
-  "adj_iso": null,
-  "adj_revisado_iso": "2026-10-28T02:58:43-03:00"
  },
  "4889-41-COT26": {
   "codigo": "4889-41-COT26",
@@ -82,7 +61,7 @@
   "adj_nombre": null,
   "adj_monto": null,
   "adj_iso": null,
-  "adj_revisado_iso": "2026-10-28T02:58:43-03:00"
+  "adj_revisado_iso": "2026-10-28T13:11:01-03:00"
  },
  "1449-12-COT26": {
   "codigo": "1449-12-COT26",
@@ -103,7 +82,7 @@
   "adj_nombre": null,
   "adj_monto": null,
   "adj_iso": null,
-  "adj_revisado_iso": "2026-10-28T02:58:43-03:00"
+  "adj_revisado_iso": "2026-10-28T13:11:01-03:00"
  },
  "2713-1258-COT26": {
   "codigo": "2713-1258-COT26",
@@ -124,7 +103,7 @@
   "adj_nombre": null,
   "adj_monto": null,
   "adj_iso": null,
-  "adj_revisado_iso": "2026-10-28T02:58:43-03:00"
+  "adj_revisado_iso": "2026-10-28T13:11:01-03:00"
  },
  "741465-12-COT26": {
   "codigo": "741465-12-COT26",
@@ -145,28 +124,7 @@
   "adj_nombre": null,
   "adj_monto": null,
   "adj_iso": null,
-  "adj_revisado_iso": "2026-10-27T17:10:04-03:00"
- },
- "1173433-18-COT26": {
-  "codigo": "1173433-18-COT26",
-  "nombre": "Adquisición de maquinaria y equipamiento para el fortalecimiento de las actividades productivas y de mantenimiento del C.E.T. de Valle Verde. ",
-  "organismo": "Centro de Educación y Trabajo Valle Verde",
-  "unidad": "CET Valle Verde",
-  "monto": 5638655,
-  "cierre_iso": "2026-10-21T11:00:00-03:00",
-  "tipo": "OPORTUNIDAD",
-  "motivos": [
-   "Materiales de física de electricidad"
-  ],
-  "link": "https://buscador.mercadopublico.cl/ficha?code=1173433-18-COT26",
-  "primera_vista_iso": "2026-10-16T16:50:54-03:00",
-  "ultima_activa_iso": "2026-10-21T11:01:51-03:00",
-  "removida_iso": "2026-10-21T11:58:17-03:00",
-  "estado_api": "",
-  "adj_nombre": null,
-  "adj_monto": null,
-  "adj_iso": null,
-  "adj_revisado_iso": "2026-10-27T17:10:04-03:00"
+  "adj_revisado_iso": "2026-10-28T13:11:01-03:00"
  },
  "1107283-173-COT26": {
   "codigo": "1107283-173-COT26",
@@ -273,27 +231,6 @@
   "adj_iso": null,
   "adj_revisado_iso": "2026-10-26T21:38:14-03:00"
  },
- "2495-563-COT26": {
-  "codigo": "2495-563-COT26",
-  "nombre": " Adquisición de dos notebooks para el Programa 4 a 7 – Escuela Baquedano y Colegio Victor Domingo Silva",
-  "organismo": "I MUNICIPALIDAD DE COYHAIQUE",
-  "unidad": "DIRECCION DESARROLLO COMUNITARIO",
-  "monto": 1920000,
-  "cierre_iso": "2026-10-21T11:00:00-03:00",
-  "tipo": "POSIBLE",
-  "motivos": [
-   "generador"
-  ],
-  "link": "https://buscador.mercadopublico.cl/ficha?code=2495-563-COT26",
-  "primera_vista_iso": "2026-10-19T16:57:34-03:00",
-  "ultima_activa_iso": "2026-10-21T11:01:51-03:00",
-  "removida_iso": "2026-10-21T11:58:17-03:00",
-  "estado_api": null,
-  "adj_nombre": null,
-  "adj_monto": null,
-  "adj_iso": null,
-  "adj_revisado_iso": null
- },
  "1233615-823-COT26": {
   "codigo": "1233615-823-COT26",
   "nombre": "DMH SOL-2026-01931] Recursos TICS para Escuela \"Litoral Austral\" de Puerto Aysén",
@@ -309,27 +246,6 @@
   "primera_vista_iso": "2026-10-19T16:57:34-03:00",
   "ultima_activa_iso": "2026-10-22T22:11:34-03:00",
   "removida_iso": "2026-10-23T11:19:19-03:00",
-  "estado_api": null,
-  "adj_nombre": null,
-  "adj_monto": null,
-  "adj_iso": null,
-  "adj_revisado_iso": null
- },
- "1758-248-COT26": {
-  "codigo": "1758-248-COT26",
-  "nombre": "SERVICIO DE SALON EQUIPADO JORNADA DE CONVIVENCIA EDUCATIVA Y SALUD MENTAL",
-  "organismo": "SECRETARIA REGIONAL MINISTERIAL DE EDUCACION XI REGION",
-  "unidad": "Mineduc Administración XI Región",
-  "monto": 1000000,
-  "cierre_iso": "2026-10-21T10:30:00-03:00",
-  "tipo": "POSIBLE",
-  "motivos": [
-   "climatización"
-  ],
-  "link": "https://buscador.mercadopublico.cl/ficha?code=1758-248-COT26",
-  "primera_vista_iso": "2026-10-19T17:56:47-03:00",
-  "ultima_activa_iso": "2026-10-21T07:57:50-03:00",
-  "removida_iso": "2026-10-21T08:57:31-03:00",
   "estado_api": null,
   "adj_nombre": null,
   "adj_monto": null,
@@ -671,7 +587,7 @@
   ],
   "link": "https://buscador.mercadopublico.cl/ficha?code=2042-372-COT26",
   "primera_vista_iso": "2026-10-22T16:57:20-03:00",
-  "ultima_activa_iso": "2026-10-28T02:58:43-03:00",
+  "ultima_activa_iso": "2026-10-28T13:11:01-03:00",
   "removida_iso": null,
   "estado_api": null,
   "adj_nombre": null,
@@ -713,7 +629,7 @@
   ],
   "link": "https://buscador.mercadopublico.cl/ficha?code=1233615-852-COT26",
   "primera_vista_iso": "2026-10-23T15:31:59-03:00",
-  "ultima_activa_iso": "2026-10-28T02:58:43-03:00",
+  "ultima_activa_iso": "2026-10-28T13:11:01-03:00",
   "removida_iso": null,
   "estado_api": null,
   "adj_nombre": null,
@@ -734,7 +650,7 @@
   ],
   "link": "https://buscador.mercadopublico.cl/ficha?code=1274667-416-COT26",
   "primera_vista_iso": "2026-10-26T13:13:41-03:00",
-  "ultima_activa_iso": "2026-10-28T02:58:43-03:00",
+  "ultima_activa_iso": "2026-10-28T13:11:01-03:00",
   "removida_iso": null,
   "estado_api": null,
   "adj_nombre": null,
@@ -793,7 +709,7 @@
   "organismo": "SERVICIO NACIONAL DE SALUD HOSPITAL DE C",
   "unidad": "Hospital Doctor  Leopoldo Ortega Rodríguez",
   "monto": 2000000,
-  "cierre_iso": "2026-10-28T09:00:00-03:00",
+  "cierre_iso": "2026-10-30T03:21:00-03:00",
   "tipo": "POSIBLE",
   "motivos": [
    "eléctrico",
@@ -801,7 +717,7 @@
   ],
   "link": "https://buscador.mercadopublico.cl/ficha?code=3765-311-COT26",
   "primera_vista_iso": "2026-10-26T16:26:03-03:00",
-  "ultima_activa_iso": "2026-10-28T02:58:43-03:00",
+  "ultima_activa_iso": "2026-10-28T13:11:01-03:00",
   "removida_iso": null,
   "estado_api": null,
   "adj_nombre": null,
@@ -823,7 +739,7 @@
   ],
   "link": "https://buscador.mercadopublico.cl/ficha?code=886182-239-COT26",
   "primera_vista_iso": "2026-10-26T18:06:24-03:00",
-  "ultima_activa_iso": "2026-10-28T02:58:43-03:00",
+  "ultima_activa_iso": "2026-10-28T13:11:01-03:00",
   "removida_iso": null,
   "estado_api": null,
   "adj_nombre": null,
@@ -844,7 +760,7 @@
   ],
   "link": "https://buscador.mercadopublico.cl/ficha?code=1282238-81-COT26",
   "primera_vista_iso": "2026-10-27T12:27:37-03:00",
-  "ultima_activa_iso": "2026-10-28T02:58:43-03:00",
+  "ultima_activa_iso": "2026-10-28T13:11:01-03:00",
   "removida_iso": null,
   "estado_api": null,
   "adj_nombre": null,
@@ -865,7 +781,7 @@
   ],
   "link": "https://buscador.mercadopublico.cl/ficha?code=5038-66-COT26",
   "primera_vista_iso": "2026-10-27T12:27:37-03:00",
-  "ultima_activa_iso": "2026-10-28T02:58:43-03:00",
+  "ultima_activa_iso": "2026-10-28T13:11:01-03:00",
   "removida_iso": null,
   "estado_api": null,
   "adj_nombre": null,
@@ -887,7 +803,7 @@
   ],
   "link": "https://buscador.mercadopublico.cl/ficha?code=1057062-482-COT26",
   "primera_vista_iso": "2026-10-27T12:27:37-03:00",
-  "ultima_activa_iso": "2026-10-28T02:58:43-03:00",
+  "ultima_activa_iso": "2026-10-28T13:11:01-03:00",
   "removida_iso": null,
   "estado_api": null,
   "adj_nombre": null,
@@ -908,7 +824,7 @@
   ],
   "link": "https://buscador.mercadopublico.cl/ficha?code=1758-261-COT26",
   "primera_vista_iso": "2026-10-27T12:27:37-03:00",
-  "ultima_activa_iso": "2026-10-28T02:58:43-03:00",
+  "ultima_activa_iso": "2026-10-28T13:11:01-03:00",
   "removida_iso": null,
   "estado_api": null,
   "adj_nombre": null,
@@ -929,7 +845,7 @@
   ],
   "link": "https://buscador.mercadopublico.cl/ficha?code=1078779-24-COT26",
   "primera_vista_iso": "2026-10-27T12:27:37-03:00",
-  "ultima_activa_iso": "2026-10-28T02:58:43-03:00",
+  "ultima_activa_iso": "2026-10-28T13:11:01-03:00",
   "removida_iso": null,
   "estado_api": null,
   "adj_nombre": null,
@@ -950,7 +866,7 @@
   ],
   "link": "https://buscador.mercadopublico.cl/ficha?code=4733-431-COT26",
   "primera_vista_iso": "2026-10-27T17:10:04-03:00",
-  "ultima_activa_iso": "2026-10-28T02:58:43-03:00",
+  "ultima_activa_iso": "2026-10-28T13:11:01-03:00",
   "removida_iso": null,
   "estado_api": null,
   "adj_nombre": null,
@@ -972,7 +888,7 @@
   ],
   "link": "https://buscador.mercadopublico.cl/ficha?code=1173433-21-COT26",
   "primera_vista_iso": "2026-10-27T17:10:04-03:00",
-  "ultima_activa_iso": "2026-10-28T02:58:43-03:00",
+  "ultima_activa_iso": "2026-10-28T13:11:01-03:00",
   "removida_iso": null,
   "estado_api": null,
   "adj_nombre": null,
@@ -993,7 +909,7 @@
   ],
   "link": "https://buscador.mercadopublico.cl/ficha?code=657-96-COT26",
   "primera_vista_iso": "2026-10-27T20:52:30-03:00",
-  "ultima_activa_iso": "2026-10-28T02:58:43-03:00",
+  "ultima_activa_iso": "2026-10-28T13:11:01-03:00",
   "removida_iso": null,
   "estado_api": null,
   "adj_nombre": null,
@@ -1014,7 +930,91 @@
   ],
   "link": "https://buscador.mercadopublico.cl/ficha?code=1692-627-COT26",
   "primera_vista_iso": "2026-10-27T20:52:30-03:00",
-  "ultima_activa_iso": "2026-10-28T02:58:43-03:00",
+  "ultima_activa_iso": "2026-10-28T13:11:01-03:00",
+  "removida_iso": null,
+  "estado_api": null,
+  "adj_nombre": null,
+  "adj_monto": null,
+  "adj_iso": null,
+  "adj_revisado_iso": null
+ },
+ "1057062-462-COT26": {
+  "codigo": "1057062-462-COT26",
+  "nombre": "Equipamientos Tecnológicos Proyecto URY 20991 y FIU Territorios",
+  "organismo": "UNIVERSIDAD DE AYSEN",
+  "unidad": "Proyectos",
+  "monto": 7100000,
+  "cierre_iso": "2026-10-29T11:11:00-03:00",
+  "tipo": "OPORTUNIDAD",
+  "motivos": [
+   "Cables eléctricos y accesorios"
+  ],
+  "link": "https://buscador.mercadopublico.cl/ficha?code=1057062-462-COT26",
+  "primera_vista_iso": "2026-10-28T13:11:01-03:00",
+  "ultima_activa_iso": "2026-10-28T13:11:01-03:00",
+  "removida_iso": null,
+  "estado_api": null,
+  "adj_nombre": null,
+  "adj_monto": null,
+  "adj_iso": null,
+  "adj_revisado_iso": null
+ },
+ "4778-343-COT26": {
+  "codigo": "4778-343-COT26",
+  "nombre": "VEM-IMANES Y ESPEJOS DE BOLSILLO. MATERIAL PROMOCIONAL",
+  "organismo": "SERVICIO NACIONAL DE SALUD HOSPITAL DE C",
+  "unidad": "Compras de Insumos y Servicios Generales",
+  "monto": 98175,
+  "cierre_iso": "2026-10-29T12:30:00-03:00",
+  "tipo": "OPORTUNIDAD",
+  "motivos": [
+   "Materiales de física de electricidad"
+  ],
+  "link": "https://buscador.mercadopublico.cl/ficha?code=4778-343-COT26",
+  "primera_vista_iso": "2026-10-28T13:11:01-03:00",
+  "ultima_activa_iso": "2026-10-28T13:11:01-03:00",
+  "removida_iso": null,
+  "estado_api": null,
+  "adj_nombre": null,
+  "adj_monto": null,
+  "adj_iso": null,
+  "adj_revisado_iso": null
+ },
+ "2495-591-COT26": {
+  "codigo": "2495-591-COT26",
+  "nombre": "MATERIALES PARA MONTAJES DE EVENTOS CULTURALES ",
+  "organismo": "I MUNICIPALIDAD DE COYHAIQUE",
+  "unidad": "DIRECCION DESARROLLO COMUNITARIO",
+  "monto": 216000,
+  "cierre_iso": "2026-10-29T13:00:00-03:00",
+  "tipo": "OPORTUNIDAD",
+  "motivos": [
+   "Suministros y accesorios eléctricos"
+  ],
+  "link": "https://buscador.mercadopublico.cl/ficha?code=2495-591-COT26",
+  "primera_vista_iso": "2026-10-28T13:11:01-03:00",
+  "ultima_activa_iso": "2026-10-28T13:11:01-03:00",
+  "removida_iso": null,
+  "estado_api": null,
+  "adj_nombre": null,
+  "adj_monto": null,
+  "adj_iso": null,
+  "adj_revisado_iso": null
+ },
+ "418-1720-COT26": {
+  "codigo": "418-1720-COT26",
+  "nombre": "CCD- Adquisición Cable DVI-D 24+1 macho a HDMI Tipo A macho ",
+  "organismo": "SERVICIO NACIONAL DE SALUD HOSPITAL DE PUERTO AYSEN",
+  "unidad": "H Puerto Aysén",
+  "monto": 1,
+  "cierre_iso": "2026-10-31T14:00:00-03:00",
+  "tipo": "OPORTUNIDAD",
+  "motivos": [
+   "Cables eléctricos y accesorios"
+  ],
+  "link": "https://buscador.mercadopublico.cl/ficha?code=418-1720-COT26",
+  "primera_vista_iso": "2026-10-28T13:11:01-03:00",
+  "ultima_activa_iso": "2026-10-28T13:11:01-03:00",
   "removida_iso": null,
   "estado_api": null,
   "adj_nombre": null,

@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-10-28T02:58:43.140085-03:00",
+ "actualizado": "2026-10-28T13:11:01.955547-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
- "total_region": 284,
+ "total_region": 281,
  "rubros": {
   "80141600": "Ventas y marketing",
   "82101600": "Publicidad en medios no impresos",
@@ -17,67 +17,9 @@
   {
    "tipo": "OPORTUNIDAD",
    "motivos": [
-    "Servicios de radio"
-   ],
-   "nueva": true,
-   "codigo": "2495-586-COT26",
-   "nombre": "Servicio de difusión radial de cápsulas informativas del Centro de las Mujeres de Coyhaique",
-   "organismo": "I MUNICIPALIDAD DE COYHAIQUE",
-   "unidad": "DIRECCION DESARROLLO COMUNITARIO",
-   "monto": 200000,
-   "cierre_iso": "2026-10-28T12:00:00-03:00",
-   "publicacion": "27-10 11:46",
-   "publicacion_iso": "2026-10-27T11:46:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "83111904",
-     "Estudios o equipos radiales",
-     1,
-     "Duración de cada cápsula: 1 minuto. Período de emisión: 09 hasta el 30 de noviembre de 2026. Frecuencia: Una emisión diaria, de lunes a sábado. Cantidad total: 19 emisiones. Horario: Las cápsulas deberán emitirse en un horario de alta audiencia. Contenido: Difusión del trabajo y de la oferta programática del Centro de las Mujeres de Coyhaique. Material de difusión: Las cápsulas radiales serán proporcionadas por el CDM Coyhaique al medio de comunicación."
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=2495-586-COT26",
-   "sin_detalle": false,
-   "descripcion": "Se requiere contratar el servicio de difusión radial de cápsulas informativas de 1 minuto de duración, destinadas a difundir el trabajo y la oferta programática del Centro de las Mujeres de Coyhaique (CDM Coyhaique). El servicio deberá ser prestado por una radiodifusora con domicilio en la comuna de Coyhaique y con cobertura dentro de dicha comuna. El proveedor deberá garantizar el cumplimiento de las 19 emisiones durante el período señalado e informar los horarios de transmisión.",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "publicitaria"
-   ],
-   "nueva": false,
-   "codigo": "854-29-COT26",
-   "nombre": "Impresión de volantes (flyers)  JUNJI XI.",
-   "organismo": "JUNTA NACIONAL DE JARDINES         INFANTILES",
-   "unidad": "Junji - XI Región",
-   "monto": 300000,
-   "cierre_iso": "2026-10-28T12:00:00-03:00",
-   "publicacion": "26-10 12:11",
-   "publicacion_iso": "2026-10-26T12:11:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "82121505",
-     "Impresión promocional o publicitaria",
-     1000,
-     "Impresión de volantes (flyers) a todo color, formato 14 x 21 cm."
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=854-29-COT26",
-   "sin_detalle": false,
-   "descripcion": "Las presentes bases tienen por objeto indicar los detalles y aspectos específicos del servicio de impresión de volantes (flyers) para informar a las familias de la Región de Aysén sobre el proceso de postulación a los jardines infantiles de JUNJI, que se difundirán en la oficina regional, en los jardines infantiles, en actividades en terreno y en espacios públicos de la región en la campaña “Asistir al jardín marca la diferencia”.",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
-  {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
     "Publicidad en medios no impresos"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "1282238-79-COT26",
    "nombre": "Servicio de difusión audiovisual en medio de comunicación digital para 3 proyectos culturales",
    "organismo": "CORPORACION CULTURAL MUNICIPAL DE COYHAIQUE",
@@ -106,7 +48,7 @@
    "motivos": [
     "Ventas y marketing"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "1282238-82-COT26",
    "nombre": "Servicios artísticos, sonido, apoyo de producción e insumos - actividad cultural masiva al aire libre 31-10 - PAOCC 2026",
    "organismo": "CORPORACION CULTURAL MUNICIPAL DE COYHAIQUE",
@@ -163,6 +105,64 @@
   {
    "tipo": "POSIBLE",
    "motivos": [
+    "radial"
+   ],
+   "nueva": true,
+   "codigo": "418-1716-COT26",
+   "nombre": "CCD- Reposición bomba de impulsión Diálisis",
+   "organismo": "SERVICIO NACIONAL DE SALUD HOSPITAL DE PUERTO AYSEN",
+   "unidad": "H Puerto Aysén",
+   "monto": 1,
+   "cierre_iso": "2026-10-29T13:00:00-03:00",
+   "publicacion": "28-10 10:25",
+   "publicacion_iso": "2026-10-28T10:25:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "40151510",
+     "Bombas de agua",
+     2,
+     "Electrobomba centrífuga monoblock monofásica, marca Lowara, modelo CEAM 120/5, o equivalente técnico para agua."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=418-1716-COT26",
+   "sin_detalle": false,
+   "descripcion": "Se requiere la adquisición de una (2) electrobombas centrífugas monoblock de un solo impulsor, con aspiración axial y descarga radial. marca Lowara, modelo CEAM 120/5, o equivalente, 0.9 kW, 6A 220 v, caudal 9.6 m3/h. Actualmente se tiene una monofásica. El precio incluye entrega en Yuseef Laibe, instalación y desinfección al instalar",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Fotógrafos y camarógrafos"
+   ],
+   "nueva": true,
+   "codigo": "4803-174-COT26",
+   "nombre": "REGISTRO FOTOGRÁFICO Y AUDIOVISUAL EN DOS ESTABLECIMIENTOS EDUCACIONALES, UBICADOS EN LA REGIÓN DE AYSÉN DEL GENERAL CARLOS IBÁÑEZ DEL CAMPO",
+   "organismo": "SENADO DE LA REPUBLICA",
+   "unidad": "Senado de la República de Chile",
+   "monto": 500000,
+   "cierre_iso": "2026-10-29T15:00:00-03:00",
+   "publicacion": "28-10 11:59",
+   "publicacion_iso": "2026-10-28T11:59:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "82131601",
+     "Servicios de fotografía aérea",
+     1,
+     "REGISTRO FOTOGRÁFICO Y AUDIOVISUAL EN DOS ESTABLECIMIENTOS EDUCACIONALES, UBICADOS EN LA REGIÓN DE AYSÉN DEL GENERAL CARLOS IBÁÑEZ DEL CAMPO. VER ARCHIVO ADJUNTO."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=4803-174-COT26",
+   "sin_detalle": false,
+   "descripcion": "REGISTRO FOTOGRÁFICO Y AUDIOVISUAL EN DOS ESTABLECIMIENTOS EDUCACIONALES,UBICADOS EN LA REGIÓN DE AYSÉN DEL GENERAL CARLOS IBÁÑEZ DEL CAMPO. VER ARCHIVO ADJUNTO.",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
     "difusión",
     "publicidad"
    ],
@@ -193,6 +193,112 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=2495-584-COT26",
    "sin_detalle": false,
    "descripcion": "ADQUISICIÓN DE MATERIALES DE DIFUSIÓN Y PROMOCIÓN DEL PROGRAMA SENDA PREVIENE 2026",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Ventas y marketing"
+   ],
+   "nueva": true,
+   "codigo": "1057062-490-COT26",
+   "nombre": "Servicio de produccion de evento  \"Carnaval de los animales\" durante el mes de noviembre_segun fisabs 2343 programa orquesta",
+   "organismo": "UNIVERSIDAD DE AYSEN",
+   "unidad": "Proyectos",
+   "monto": 1500000,
+   "cierre_iso": "2026-10-30T08:00:00-03:00",
+   "publicacion": "28-10 12:57",
+   "publicacion_iso": "2026-10-28T12:57:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "80141607",
+     "Producción de eventos",
+     1,
+     "Se requiere servicio de producción para concierto: 14/11 concierto en gimnasio regional 19:00hrs. Arriendo de espacio para ensayo fechas: 10/11, 11/11, 12/11 según horario en EETT adjuntos. Traslado de instrumentos. Instalación de instrumentos. Traslado e instalación gráficas y atriles, instalación de sillas, Catering para equipo Orquesta. Revisar archivo adjunto EETT. Cotización debe indicar la especificación técnica de lo ofertado."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1057062-490-COT26",
+   "sin_detalle": false,
+   "descripcion": "Se requiere servicio de producción para conciertos: 14/11 concierto en gimnasio regional 19:00hrs. Arriendo de espacio para ensayo fechas: 10/11, 11/11, 12/11 según horario en EETT adjuntos. Traslado de instrumentos. Instalación de instrumentos. Traslado e instalación gráficas y atriles, instalación de sillas, Catering para equipo Orquesta. Revisar archivo adjunto EETT. Cotización debe indicar la especificación técnica de lo ofertado.",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "aviso"
+   ],
+   "nueva": true,
+   "codigo": "886182-230-COT26",
+   "nombre": "Servicio de contrato de suministro traslados estudiantes Universidad de Aysén_FISABS 2284",
+   "organismo": "UNIVERSIDAD DE AYSEN",
+   "unidad": "Universidad de Aysen",
+   "monto": 5000000,
+   "cierre_iso": "2026-10-30T08:30:00-03:00",
+   "publicacion": "28-10 10:43",
+   "publicacion_iso": "2026-10-28T10:43:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "25101502",
+     "Autobuses",
+     10,
+     "CONVENIO DE SUMINISTRO Servicio de transporte terrestre Coyhaique - Ñirehuao - Coyhaique, previa confirmación (aviso 24 hrs), con capacidad de hasta 2 servicios simultáneos por día. Salidas martes a viernes (08:30-17:30 hrs). CAPACIDAD MÍNIMA: 7 pasajeros + chofer. según fechas tentativas adjuntas. Se confirma fecha previa notificación por el encargado del contrato a través de correo electrónico."
+    ],
+    [
+     "25101502",
+     "Autobuses",
+     5,
+     "CONVENIO DE SUMINISTRO Servicio de transporte terrestre Coyhaique - Balmaceda- Coyhaique, previa confirmación (aviso 24 hrs), con capacidad de hasta 2 servicios simultáneos por día. Salidas martes a viernes (08:30-17:30 hrs). CAPACIDAD MÍNIMA: 7 pasajeros + chofer. según fechas tentativas adjuntas. Se confirma fecha previa notificación por el encargado del contrato a través de correo electrónico."
+    ],
+    [
+     "25101502",
+     "Autobuses",
+     5,
+     "CONVENIO DE SUMINISTRO Servicio de transporte terrestre Coyhaique - Villa Ortega- Coyhaique, previa confirmación (aviso 24 hrs), con capacidad de hasta 2 servicios simultáneos por día. Salidas martes a viernes (08:30-17:30 hrs). CAPACIDAD MÍNIMA: 7 pasajeros + chofer. según fechas tentativas adjuntas. Se confirma fecha previa notificación por el encargado del contrato a través de correo electrónico."
+    ],
+    [
+     "25101502",
+     "Autobuses",
+     4,
+     "CONVENIO DE SUMINISTRO Servicio de transporte terrestre Coyhaique - Cerro Castillo - Coyhaique, previa confirmación (aviso 24 hrs), con capacidad de hasta 2 servicios simultáneos por día. Salidas martes a viernes (08:30-17:30 hrs). CAPACIDAD MÍNIMA: 7 pasajeros + chofer. según fechas tentativas adjuntas. Se confirma fecha previa notificación por el encargado del contrato a través de correo electrónico."
+    ],
+    [
+     "25101502",
+     "Autobuses",
+     1,
+     "CONVENIO DE SUMINISTRO Servicio de transporte terrestre Coyhaique - Villa Frei - Coyhaique, previa confirmación (aviso 24 hrs), con capacidad de hasta 2 servicios simultáneos por día. Salidas martes a viernes (08:30-17:30 hrs). CAPACIDAD MÍNIMA: 7 pasajeros + chofer. según fechas tentativas adjuntas. Se confirma fecha previa notificación por el encargado del contrato a través de correo electrónico."
+    ],
+    [
+     "25101502",
+     "Autobuses",
+     2,
+     "CONVENIO DE SUMINISTRO Servicio de transporte terrestre Coyhaique - Mañihuales - Coyhaique, previa confirmación (aviso 24 hrs), con capacidad de hasta 2 servicios simultáneos por día. Salidas martes a viernes (08:30-17:30 hrs). CAPACIDAD MÍNIMA: 7 pasajeros + chofer. según fechas tentativas adjuntas. Se confirma fecha previa notificación por el encargado del contrato a través de correo electrónico"
+    ],
+    [
+     "25101502",
+     "Autobuses",
+     5,
+     "CONVENIO DE SUMINISTRO Servicio de transporte terrestre Coyhaique - Valle Simpson - Coyhaique, previa confirmación (aviso 24 hrs), con capacidad de hasta 2 servicios simultáneos por día. Salidas martes a viernes (08:30-17:30 hrs). CAPACIDAD MÍNIMA: 7 pasajeros + chofer. según fechas tentativas adjuntas. Se confirma fecha previa notificación por el encargado del contrato a través de correo electrónico."
+    ],
+    [
+     "25101502",
+     "Autobuses",
+     5,
+     "CONVENIO DE SUMINISTRO Servicio de transporte terrestre Coyhaique - Lago Atravesado - Coyhaique, previa confirmación (aviso 24 hrs), con capacidad de hasta 2 servicios simultáneos por día. Salidas martes a viernes (08:30-17:30 hrs). CAPACIDAD MÍNIMA: 7 pasajeros + chofer. según fechas tentativas adjuntas. Se confirma fecha previa notificación por el encargado del contrato a través de correo electrónico."
+    ],
+    [
+     "25101502",
+     "Autobuses",
+     3,
+     "CONVENIO DE SUMINISTRO Servicio de transporte terrestre Coyhaique - El Blanco - Coyhaique, previa confirmación (aviso 24 hrs), con capacidad de hasta 2 servicios simultáneos por día. Salidas martes a viernes (08:30-17:30 hrs). CAPACIDAD MÍNIMA: 7 pasajeros + chofer. según fechas tentativas adjuntas. Se confirma fecha previa notificación por el encargado del contrato a través de correo electrónico."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=886182-230-COT26",
+   "sin_detalle": false,
+   "descripcion": "Se requiere contrato de suministro para traslados de estudiantes y docentes a postas rurales en prácticas clínicas de Enfermería y Obstetricia (2do semestre 2026), según EETT adjuntas (ver). El servicio considera 9 tramos (Villa Ortega, Lago Atravesado, El Blanco, Ñirehuao, Valle Simpson, Balmaceda, Cerro Castillo, Mañihuales y Villa Frei). Cotización debe indicar especificación técnica de lo ofertado. El valor debe incluir chofer, combustible y seguros. Capacidad mín: 7 pasajeros + conductor.",
    "en_gracia": false,
    "desaparecida_iso": ""
   },
@@ -259,9 +365,74 @@
    "descripcion": "Se requiere contratar un servicio de taller de fotografía para 15 participantes, en el marco del Plan de \nConfianza Social del Barrio Arturo Prat, orientado al aprendizaje y desarrollo de habilidades creativas \ny comunicacionales a través de la fotografía, promoviendo además un espacio de encuentro, \nexpresión personal y participación comunitaria.",
    "en_gracia": false,
    "desaparecida_iso": ""
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "comunicacional"
+   ],
+   "nueva": true,
+   "codigo": "854-30-COT26",
+   "nombre": "Traslado de funcionarios/as a distintas localidades Jardin Infantil comunicacional",
+   "organismo": "JUNTA NACIONAL DE JARDINES         INFANTILES",
+   "unidad": "Junji - XI Región",
+   "monto": 6820000,
+   "cierre_iso": "2026-10-30T12:00:00-03:00",
+   "publicacion": "28-10 10:04",
+   "publicacion_iso": "2026-10-28T10:04:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "78111803",
+     "Servicios de autobuses contratados",
+     1,
+     "Traslado de funcionarios JUNJI a distintas localidades de la region, de acuerdo a calendario propuesto.\nRevisar especificaciones adjuntas"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=854-30-COT26",
+   "sin_detalle": false,
+   "descripcion": "Traslado de funcionarios del Jardin infantil comunicacional a distintas localidades, de acuerdo a las fechas indicadas.\nel oferente debe cumplir ocn los requisitos y adjuntar la documentación indicada en su propuesta.\nlas salidas se desarrollarán durante el mes de novembre y diciembre.",
+   "en_gracia": false,
+   "desaparecida_iso": ""
   }
  ],
  "historial": [
+  {
+   "codigo": "854-29-COT26",
+   "nombre": "Impresión de volantes (flyers)  JUNJI XI.",
+   "organismo": "JUNTA NACIONAL DE JARDINES         INFANTILES",
+   "monto": 300000,
+   "cierre_iso": "2026-10-28T12:00:00-03:00",
+   "tipo": "POSIBLE",
+   "motivos": [
+    "publicitaria"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=854-29-COT26",
+   "primera_vista_iso": "2026-10-26T13:13:41-03:00",
+   "removida_iso": "2026-10-28T13:11:01-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
+  {
+   "codigo": "2495-586-COT26",
+   "nombre": "Servicio de difusión radial de cápsulas informativas del Centro de las Mujeres de Coyhaique",
+   "organismo": "I MUNICIPALIDAD DE COYHAIQUE",
+   "monto": 200000,
+   "cierre_iso": "2026-10-28T12:00:00-03:00",
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Servicios de radio"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=2495-586-COT26",
+   "primera_vista_iso": "2026-10-27T12:27:37-03:00",
+   "removida_iso": "2026-10-28T13:11:01-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
   {
    "codigo": "3791-1068-COT26",
    "nombre": "SERVICIOS DE PRODUCCION ",
@@ -992,43 +1163,6 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=2713-1268-COT26",
    "primera_vista_iso": "2026-10-20T13:58:42-03:00",
    "removida_iso": "2026-10-21T13:59:05-03:00",
-   "estado_api": "",
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "1758-250-COT26",
-   "nombre": "SERVICIOS DE ALOJAMIENTOS Y ALIMENTACION JORNADA CONVIVENCIA EDUCATIVA Y SALUD MENTAL",
-   "organismo": "SECRETARIA REGIONAL MINISTERIAL DE EDUCACION XI REGION",
-   "monto": 860000,
-   "cierre_iso": "2026-10-21T11:00:00-03:00",
-   "tipo": "POSIBLE",
-   "motivos": [
-    "radio"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1758-250-COT26",
-   "primera_vista_iso": "2026-10-19T18:53:52-03:00",
-   "removida_iso": "2026-10-21T11:58:17-03:00",
-   "estado_api": "",
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "1182705-193-COT26",
-   "nombre": "Estampado Sublimación Logo CFT Estatal Aysen \"TNS En Veterinaria y Producción Agropecuaria\" en trajes de cirugia alumnos Diurnos y Vesperinos.\t\t\t\t\t\t\t\t\t\t\t\t\t",
-   "organismo": "CENTRO DE FORMACIÓN TÉCNICA DE LA REGIÓN DE AYSÉN DEL GENERAL CARLOS I",
-   "monto": 163000,
-   "cierre_iso": "2026-10-21T09:34:00-03:00",
-   "tipo": "POSIBLE",
-   "motivos": [
-    "marketing",
-    "publicidad"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1182705-193-COT26",
-   "primera_vista_iso": "2026-10-15T16:05:38-03:00",
-   "removida_iso": "2026-10-21T08:57:31-03:00",
    "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,

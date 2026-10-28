@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-10-28T02:58:43.140085-03:00",
+ "actualizado": "2026-10-28T13:11:01.955547-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
- "total_region": 284,
+ "total_region": 281,
  "rubros": {
   "25172700": "Aire acondicionado",
   "25173900": "Componentes eléctricos",
@@ -19,36 +19,6 @@
   "39121400": "Conectores, enchufes y terminales"
  },
  "filas": [
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "eléctrico",
-    "te1"
-   ],
-   "nueva": false,
-   "codigo": "3765-311-COT26",
-   "nombre": " SE SOLICITA CONTRATACION DE UN INSTALADOR ELECTRICO - FACTIBILIDAD TE1 CASA SENDA ",
-   "organismo": "SERVICIO NACIONAL DE SALUD HOSPITAL DE C",
-   "unidad": "Hospital Doctor  Leopoldo Ortega Rodríguez",
-   "monto": 2000000,
-   "cierre_iso": "2026-10-28T09:00:00-03:00",
-   "publicacion": "26-10 14:38",
-   "publicacion_iso": "2026-10-26T14:38:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "42191701",
-     "Servicio eléctrico o de gas médico",
-     1,
-     "SE SOLICITA CONTRATACION DE UN INSTALADOR ELECTRICO - FACTIBILIDAD TE1 CASA SENDA; SE ADJUNTA DETALLES DE SERVICIO A CONTRATAR; DISPONINILIDAD INMEDIATA Y SE DEBE ADJUNTAR UNA PROPUESTA CON LO SOLICITADO (ADMISIBILIDAD)"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=3765-311-COT26",
-   "sin_detalle": false,
-   "descripcion": "SE SOLICITA CONTRATACION DE UN INSTALADOR ELECTRICO - FACTIBILIDAD TE1 CASA SENDA SE ADJUNTA DETALLES DE SERVICIO A CONTRATAR - DISPONIBILIDAD INMEDIATA.",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
   {
    "tipo": "OPORTUNIDAD",
    "motivos": [
@@ -200,7 +170,7 @@
    "motivos": [
     "Conectores, enchufes y terminales"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "1282238-81-COT26",
    "nombre": "Equipamiento técnico de sonido, registro y traslado - PAOCC 2026 Centro Cultural de Coyhaique",
    "organismo": "CORPORACION CULTURAL MUNICIPAL DE COYHAIQUE",
@@ -297,11 +267,194 @@
    "desaparecida_iso": ""
   },
   {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Cables eléctricos y accesorios"
+   ],
+   "nueva": true,
+   "codigo": "1057062-462-COT26",
+   "nombre": "Equipamientos Tecnológicos Proyecto URY 20991 y FIU Territorios",
+   "organismo": "UNIVERSIDAD DE AYSEN",
+   "unidad": "Proyectos",
+   "monto": 7100000,
+   "cierre_iso": "2026-10-29T11:11:00-03:00",
+   "publicacion": "15-10 17:44",
+   "publicacion_iso": "2026-10-15T17:44:00-03:00",
+   "ofertas": 3,
+   "productos": [
+    [
+     "23153202",
+     "Robots para coger y colocar",
+     2,
+     "Brazo robótico educativo y de investigación con visión artificial 3D integrada, equipado con al menos 6 grados de libertad y 6 servomotores inteligentes de alto torque para manipulación de objetos, se debe adjuntar oferta que acumpla al menos con lo indicado en el adjunto"
+    ],
+    [
+     "25173303",
+     "Sistemas informáticos para automóviles",
+     1,
+     "Computador todo en uno (All-in-One) de alto desempeño tipo IMAC -Apple iMac de 24 pulgadas con chip M4, 16 GB de memoria unificada y 256 GB SSD o equivalente, se debe adjuntar oferta que acumpla al menos con lo indicado en el adjunto"
+    ],
+    [
+     "26121604",
+     "Cable para señales",
+     4,
+     "Cable HDMI versión 2.1 o superior, se debe adjuntar oferta que acumpla al menos con lo indicado en el adjunto"
+    ],
+    [
+     "26121620",
+     "Cable para interconexiones",
+     9,
+     "Tipo dispositivo Hub multipuerto con Conector dual USB-A y USB-C Interfaz de conexión, se debe adjuntar oferta que acumpla al menos con lo indicado en el adjunto"
+    ],
+    [
+     "27112718",
+     "Grabadores",
+     1,
+     "Grabadora de audio portátil profesional 360° Zoom H3-VR o equivalente, se debe adjuntar oferta que acumpla al menos con lo indicado en el adjunto"
+    ],
+    [
+     "43201803",
+     "Discos duros",
+     5,
+     "Unidad de almacenamiento USB Flash de 1 TB de capacidad, con interfaz USB 3.0 o superior, se debe adjuntar oferta que acumpla al menos con lo indicado en el adjunto"
+    ],
+    [
+     "43211503",
+     "Notebook, laptop o computador portátil excepto Tablet PC",
+     1,
+     "Notebook 14\" OLED, ASUS Zenbook A14 (UX3407) o equivalente, se debe adjuntar oferta que acumpla al menos con lo indicado en el adjunto"
+    ],
+    [
+     "43211503",
+     "Notebook, laptop o computador portátil excepto Tablet PC",
+     1,
+     "Notebook 15,6\" de alto desempeño, Lenovo LOQ 15i Gen 10 o equivalente, se debe adjuntar oferta que acumpla al menos con lo indicado en el adjunto"
+    ],
+    [
+     "43211509",
+     "Computadores portátiles tipo Tablet PC",
+     1,
+     "Tablet de alto desempeño tipo IPAD - Apple iPad Air M4 de 13 pulgadas Wi-Fi 512 GB o equivalente, se debe adjuntar oferta que acumpla al menos con lo indicado en el adjunto"
+    ],
+    [
+     "43211706",
+     "Teclados",
+     11,
+     "Kit Teclado y Mouse Inalámbrico, se debe adjuntar oferta que acumpla al menos con lo indicado en el adjunto"
+    ],
+    [
+     "45111609",
+     "Proyectores multimedia",
+     1,
+     "Sistema portátil de proyección (proyector y telón), Byintek P70 con telón portátil de 80 pulgadas o equivalente, se debe adjuntar oferta que acumpla al menos con lo indicado en el adjunto"
+    ],
+    [
+     "52161514",
+     "Audífonos",
+     6,
+     "Audífonos con micrófono y cancelación de ruido, se debe adjuntar oferta que acumpla al menos con lo indicado en el adjunto"
+    ],
+    [
+     "60101732",
+     "Apuntadores o punteros",
+     4,
+     "Presentador inalámbrico con receptor USB, se debe adjuntar oferta que acumpla al menos con lo indicado en el adjunto"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1057062-462-COT26",
+   "sin_detalle": false,
+   "descripcion": "Se requiere cotizar equipamiento tecnológico descrito en el presente cotizador, se debe detallar lo ofertado considerando que cumpla con al menos lo indicado en el documento adjunto, indicar el plazo de entrega el cual podría ser privilegiado, y la garantía post-venta, y considerar el envío a las dependencias de la Universidad. (plazo para aceptar la Orden de compra es de 2 días corridos, si no queda sin efecto, plazo que comienza a contar los dias de plazo. Adqusiicón asociada a multa según adj",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Materiales de física de electricidad"
+   ],
+   "nueva": true,
+   "codigo": "4778-343-COT26",
+   "nombre": "VEM-IMANES Y ESPEJOS DE BOLSILLO. MATERIAL PROMOCIONAL",
+   "organismo": "SERVICIO NACIONAL DE SALUD HOSPITAL DE C",
+   "unidad": "Compras de Insumos y Servicios Generales",
+   "monto": 98175,
+   "cierre_iso": "2026-10-29T12:30:00-03:00",
+   "publicacion": "28-10 12:27",
+   "publicacion_iso": "2026-10-28T12:27:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "60103111",
+     "Espejo geométrico",
+     30,
+     "ESPEJOS DE BOLSILLO (MATERIAL DIDÁCTICO Y PROMOCIONAL)"
+    ],
+    [
+     "60104910",
+     "Electroimanes",
+     30,
+     "IMANES DE 7x7 CM. (MATERIAL DIDÁCTICO Y PROMOCIONAL)"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=4778-343-COT26",
+   "sin_detalle": false,
+   "descripcion": "1. LEER ADJUNTOS PARA AJUSTARSE A ESPECIFICACIONES.\n2. INCLUIR FOTOS,COTIZACIÓN FORMAL Y ESPECIFICACIONES TÉCNICAS EN ESPAÑOL.\n   INDIQUE GARANTÍAS, PLAZOS DE REPOSICIÓN Y TODA INFORMACIÓN ÚTIL PARA EL \n   ANÁLISIS Y COMPARACIÓN  DE OFERTAS. \n3. INCLUIR EMBALAJE Y FLETE A DIRECCIÓN DE DESPACHO.\n4. VIGENCIA DEL PRODUCTO DEBE SER SUPERIOR A UN AÑO COMO MÍNIMO. \n5. NO PARCIALIZAR DESPACHO (UN SÓLO ENVÍO)\n6. NO DEBE ESTAR SUJETA A STOCK\n   (COTIZACIONES, MARCAS Y VALORES ADJUNTOS SON REFERENCIALES)",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Suministros y accesorios eléctricos"
+   ],
+   "nueva": true,
+   "codigo": "2495-591-COT26",
+   "nombre": "MATERIALES PARA MONTAJES DE EVENTOS CULTURALES ",
+   "organismo": "I MUNICIPALIDAD DE COYHAIQUE",
+   "unidad": "DIRECCION DESARROLLO COMUNITARIO",
+   "monto": 216000,
+   "cierre_iso": "2026-10-29T13:00:00-03:00",
+   "publicacion": "28-10 09:49",
+   "publicacion_iso": "2026-10-28T09:49:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "10141601",
+     "Bridas",
+     300,
+     "amarras plasticas de 30 cm o similar"
+    ],
+    [
+     "31201528",
+     "Cinta de montaje",
+     2,
+     "cinta gaffer negra"
+    ],
+    [
+     "31201528",
+     "Cinta de montaje",
+     2,
+     "cinta señalización"
+    ],
+    [
+     "39121719",
+     "Protectores",
+     5,
+     "protectores de cables o pasacables"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=2495-591-COT26",
+   "sin_detalle": false,
+   "descripcion": "SE REQUIERE LA COMPRA DE MATERIALES PARA MONTAJES DE EVENTOS CULTURALES COMO CINTA GAFFER, PROTECTOR DE CABLES, CINTA SEÑALIZACION DE PISO, AMARRAS PLASTICAS, ENTRE OTROS, SE PREVILEGIARA PROVEEDOR DE LA COMUNA DE COYHAIQUE CON DISPONIBILIDAD INMEDIATA Y DISPOSICION AL CAMBIO",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
    "tipo": "POSIBLE",
    "motivos": [
     "eléctrico"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "5038-66-COT26",
    "nombre": "ADQUISICIÓN DE EQUIPAMIENTO DE RED, COMUNICACIONES, GABINETE MURAL Y RESPALDO ELÉCTRICO",
    "organismo": "I MUNICIPALIDAD RIO IBANEZ",
@@ -408,7 +561,7 @@
     "eléctrico",
     "red eléctrica"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "1057062-482-COT26",
    "nombre": "Adquisición de equipamiento para Laboratorio de producción y propagación de plantas nativas según Fisabs 2334_URY 21991",
    "organismo": "UNIVERSIDAD DE AYSEN",
@@ -467,7 +620,7 @@
    "motivos": [
     "climatización"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "1758-261-COT26",
    "nombre": "ARRIENDO DE SALON EQUIPADO JORNADA RDEGI EN LA CIUDAD DE COYHAIQUE",
    "organismo": "SECRETARIA REGIONAL MINISTERIAL DE EDUCACION XI REGION",
@@ -492,11 +645,41 @@
    "desaparecida_iso": ""
   },
   {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "eléctrico",
+    "te1"
+   ],
+   "nueva": false,
+   "codigo": "3765-311-COT26",
+   "nombre": " SE SOLICITA CONTRATACION DE UN INSTALADOR ELECTRICO - FACTIBILIDAD TE1 CASA SENDA ",
+   "organismo": "SERVICIO NACIONAL DE SALUD HOSPITAL DE C",
+   "unidad": "Hospital Doctor  Leopoldo Ortega Rodríguez",
+   "monto": 2000000,
+   "cierre_iso": "2026-10-30T03:21:00-03:00",
+   "publicacion": "26-10 14:38",
+   "publicacion_iso": "2026-10-26T14:38:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "42191701",
+     "Servicio eléctrico o de gas médico",
+     1,
+     "SE SOLICITA CONTRATACION DE UN INSTALADOR ELECTRICO - FACTIBILIDAD TE1 CASA SENDA; SE ADJUNTA DETALLES DE SERVICIO A CONTRATAR; DISPONINILIDAD INMEDIATA Y SE DEBE ADJUNTAR UNA PROPUESTA CON LO SOLICITADO (ADMISIBILIDAD)"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=3765-311-COT26",
+   "sin_detalle": false,
+   "descripcion": "SE SOLICITA CONTRATACION DE UN INSTALADOR ELECTRICO - FACTIBILIDAD TE1 CASA SENDA SE ADJUNTA DETALLES DE SERVICIO A CONTRATAR - DISPONIBILIDAD INMEDIATA.",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
    "tipo": "OPORTUNIDAD",
    "motivos": [
     "Enfriamiento (aires acondicionados)"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "1078779-24-COT26",
    "nombre": "EQUIPO DE AIRE ACONDICIONADO",
    "organismo": "SERVICIO DE SALUD AYSEN CARLOS IBANEZ DEL CAMPO",
@@ -629,6 +812,35 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=1233615-852-COT26",
    "sin_detalle": false,
    "descripcion": "Se solicita la adquisición de insumos, accesorios y equipamiento informático necesarios para garantizar la continuidad operativa, mantención y adecuado funcionamiento de los recursos tecnológicos de la Escuela Litoral Austral.",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Cables eléctricos y accesorios"
+   ],
+   "nueva": true,
+   "codigo": "418-1720-COT26",
+   "nombre": "CCD- Adquisición Cable DVI-D 24+1 macho a HDMI Tipo A macho ",
+   "organismo": "SERVICIO NACIONAL DE SALUD HOSPITAL DE PUERTO AYSEN",
+   "unidad": "H Puerto Aysén",
+   "monto": 1,
+   "cierre_iso": "2026-10-31T14:00:00-03:00",
+   "publicacion": "28-10 11:27",
+   "publicacion_iso": "2026-10-28T11:27:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "26121604",
+     "Cable para señales",
+     2,
+     "Se requiere específicamente la configuración DVI-D 24+1 macho con tornillos de fijación  a HDMI Tipo A macho, mínimo 6 metros de longitud. Entrega en Yussef Laibe 180, Puerto Aysén"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=418-1720-COT26",
+   "sin_detalle": false,
+   "descripcion": "Se solicita la cantidad de 2 unidades cable DVI-D 24+1 macho a HDMI Tipo A macho.\nEl cable será utilizado para la conexión de video entre las torres de laparoscopia y los monitores correspondientes, por lo que se solicita respetar específicamente la configuración DVI-D 24+1 macho a HDMI Tipo A macho. NO OFERTAR cables DVI-I, DVI-A u otras configuraciones que no correspondan.\nEntrega en Yussef Laibe 180, Hospital de Puerto Aysén",
    "en_gracia": false,
    "desaparecida_iso": ""
   }
@@ -1163,78 +1375,6 @@
    "primera_vista_iso": "2026-10-20T13:58:42-03:00",
    "removida_iso": "2026-10-21T13:59:05-03:00",
    "estado_api": null,
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "1173433-18-COT26",
-   "nombre": "Adquisición de maquinaria y equipamiento para el fortalecimiento de las actividades productivas y de mantenimiento del C.E.T. de Valle Verde. ",
-   "organismo": "Centro de Educación y Trabajo Valle Verde",
-   "monto": 5638655,
-   "cierre_iso": "2026-10-21T11:00:00-03:00",
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Materiales de física de electricidad"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1173433-18-COT26",
-   "primera_vista_iso": "2026-10-16T16:50:54-03:00",
-   "removida_iso": "2026-10-21T11:58:17-03:00",
-   "estado_api": "",
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "2495-563-COT26",
-   "nombre": " Adquisición de dos notebooks para el Programa 4 a 7 – Escuela Baquedano y Colegio Victor Domingo Silva",
-   "organismo": "I MUNICIPALIDAD DE COYHAIQUE",
-   "monto": 1920000,
-   "cierre_iso": "2026-10-21T11:00:00-03:00",
-   "tipo": "POSIBLE",
-   "motivos": [
-    "generador"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=2495-563-COT26",
-   "primera_vista_iso": "2026-10-19T16:57:34-03:00",
-   "removida_iso": "2026-10-21T11:58:17-03:00",
-   "estado_api": null,
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "1758-248-COT26",
-   "nombre": "SERVICIO DE SALON EQUIPADO JORNADA DE CONVIVENCIA EDUCATIVA Y SALUD MENTAL",
-   "organismo": "SECRETARIA REGIONAL MINISTERIAL DE EDUCACION XI REGION",
-   "monto": 1000000,
-   "cierre_iso": "2026-10-21T10:30:00-03:00",
-   "tipo": "POSIBLE",
-   "motivos": [
-    "climatización"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1758-248-COT26",
-   "primera_vista_iso": "2026-10-19T17:56:47-03:00",
-   "removida_iso": "2026-10-21T08:57:31-03:00",
-   "estado_api": null,
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "3540-274-COT26",
-   "nombre": "REPUESTOS GENERADOR DEE 8KVA KOLVO ",
-   "organismo": "Ejercito de Chile",
-   "monto": 270000,
-   "cierre_iso": "2026-10-21T09:15:00-03:00",
-   "tipo": "POSIBLE",
-   "motivos": [
-    "generador"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=3540-274-COT26",
-   "primera_vista_iso": "2026-10-14T16:05:10-03:00",
-   "removida_iso": "2026-10-21T08:57:31-03:00",
-   "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,
    "adj_iso": null

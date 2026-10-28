@@ -18,29 +18,7 @@
   "adj_nombre": null,
   "adj_monto": null,
   "adj_iso": null,
-  "adj_revisado_iso": "2026-10-28T02:58:43-03:00"
- },
- "1182705-193-COT26": {
-  "codigo": "1182705-193-COT26",
-  "nombre": "Estampado Sublimación Logo CFT Estatal Aysen \"TNS En Veterinaria y Producción Agropecuaria\" en trajes de cirugia alumnos Diurnos y Vesperinos.\t\t\t\t\t\t\t\t\t\t\t\t\t",
-  "organismo": "CENTRO DE FORMACIÓN TÉCNICA DE LA REGIÓN DE AYSÉN DEL GENERAL CARLOS I",
-  "unidad": "FINANZAS",
-  "monto": 163000,
-  "cierre_iso": "2026-10-21T09:34:00-03:00",
-  "tipo": "POSIBLE",
-  "motivos": [
-   "marketing",
-   "publicidad"
-  ],
-  "link": "https://buscador.mercadopublico.cl/ficha?code=1182705-193-COT26",
-  "primera_vista_iso": "2026-10-15T16:05:38-03:00",
-  "ultima_activa_iso": "2026-10-21T07:57:50-03:00",
-  "removida_iso": "2026-10-21T08:57:31-03:00",
-  "estado_api": "",
-  "adj_nombre": null,
-  "adj_monto": null,
-  "adj_iso": null,
-  "adj_revisado_iso": "2026-10-28T02:58:43-03:00"
+  "adj_revisado_iso": "2026-10-28T13:11:01-03:00"
  },
  "2713-1258-COT26": {
   "codigo": "2713-1258-COT26",
@@ -61,7 +39,7 @@
   "adj_nombre": null,
   "adj_monto": null,
   "adj_iso": null,
-  "adj_revisado_iso": "2026-10-28T02:58:43-03:00"
+  "adj_revisado_iso": "2026-10-28T13:11:01-03:00"
  },
  "828-49-COT26": {
   "codigo": "828-49-COT26",
@@ -82,7 +60,7 @@
   "adj_nombre": null,
   "adj_monto": null,
   "adj_iso": null,
-  "adj_revisado_iso": "2026-10-28T02:58:43-03:00"
+  "adj_revisado_iso": "2026-10-28T13:11:01-03:00"
  },
  "682-20-COT26": {
   "codigo": "682-20-COT26",
@@ -103,7 +81,7 @@
   "adj_nombre": null,
   "adj_monto": null,
   "adj_iso": null,
-  "adj_revisado_iso": "2026-10-28T02:58:43-03:00"
+  "adj_revisado_iso": "2026-10-28T13:11:01-03:00"
  },
  "1746-241-COT26": {
   "codigo": "1746-241-COT26",
@@ -124,7 +102,7 @@
   "adj_nombre": null,
   "adj_monto": null,
   "adj_iso": null,
-  "adj_revisado_iso": "2026-10-27T17:10:04-03:00"
+  "adj_revisado_iso": "2026-10-28T13:11:01-03:00"
  },
  "4733-410-COT26": {
   "codigo": "4733-410-COT26",
@@ -185,27 +163,6 @@
   "primera_vista_iso": "2026-10-19T16:57:34-03:00",
   "ultima_activa_iso": "2026-10-23T19:25:33-03:00",
   "removida_iso": "2026-10-23T21:52:30-03:00",
-  "estado_api": "",
-  "adj_nombre": null,
-  "adj_monto": null,
-  "adj_iso": null,
-  "adj_revisado_iso": "2026-10-27T17:10:04-03:00"
- },
- "1758-250-COT26": {
-  "codigo": "1758-250-COT26",
-  "nombre": "SERVICIOS DE ALOJAMIENTOS Y ALIMENTACION JORNADA CONVIVENCIA EDUCATIVA Y SALUD MENTAL",
-  "organismo": "SECRETARIA REGIONAL MINISTERIAL DE EDUCACION XI REGION",
-  "unidad": "Mineduc Administración XI Región",
-  "monto": 860000,
-  "cierre_iso": "2026-10-21T11:00:00-03:00",
-  "tipo": "POSIBLE",
-  "motivos": [
-   "radio"
-  ],
-  "link": "https://buscador.mercadopublico.cl/ficha?code=1758-250-COT26",
-  "primera_vista_iso": "2026-10-19T18:53:52-03:00",
-  "ultima_activa_iso": "2026-10-21T11:01:51-03:00",
-  "removida_iso": "2026-10-21T11:58:17-03:00",
   "estado_api": "",
   "adj_nombre": null,
   "adj_monto": null,
@@ -869,7 +826,7 @@
   "link": "https://buscador.mercadopublico.cl/ficha?code=854-29-COT26",
   "primera_vista_iso": "2026-10-26T13:13:41-03:00",
   "ultima_activa_iso": "2026-10-28T02:58:43-03:00",
-  "removida_iso": null,
+  "removida_iso": "2026-10-28T13:11:01-03:00",
   "estado_api": null,
   "adj_nombre": null,
   "adj_monto": null,
@@ -932,7 +889,7 @@
   ],
   "link": "https://buscador.mercadopublico.cl/ficha?code=2495-584-COT26",
   "primera_vista_iso": "2026-10-26T18:06:24-03:00",
-  "ultima_activa_iso": "2026-10-28T02:58:43-03:00",
+  "ultima_activa_iso": "2026-10-28T13:11:01-03:00",
   "removida_iso": null,
   "estado_api": null,
   "adj_nombre": null,
@@ -953,7 +910,7 @@
   ],
   "link": "https://buscador.mercadopublico.cl/ficha?code=1208109-24-COT26",
   "primera_vista_iso": "2026-10-26T18:06:24-03:00",
-  "ultima_activa_iso": "2026-10-28T02:58:43-03:00",
+  "ultima_activa_iso": "2026-10-28T13:11:01-03:00",
   "removida_iso": null,
   "estado_api": null,
   "adj_nombre": null,
@@ -975,7 +932,7 @@
   "link": "https://buscador.mercadopublico.cl/ficha?code=2495-586-COT26",
   "primera_vista_iso": "2026-10-27T12:27:37-03:00",
   "ultima_activa_iso": "2026-10-28T02:58:43-03:00",
-  "removida_iso": null,
+  "removida_iso": "2026-10-28T13:11:01-03:00",
   "estado_api": null,
   "adj_nombre": null,
   "adj_monto": null,
@@ -995,7 +952,7 @@
   ],
   "link": "https://buscador.mercadopublico.cl/ficha?code=1282238-79-COT26",
   "primera_vista_iso": "2026-10-27T12:27:37-03:00",
-  "ultima_activa_iso": "2026-10-28T02:58:43-03:00",
+  "ultima_activa_iso": "2026-10-28T13:11:01-03:00",
   "removida_iso": null,
   "estado_api": null,
   "adj_nombre": null,
@@ -1016,7 +973,7 @@
   ],
   "link": "https://buscador.mercadopublico.cl/ficha?code=1282238-82-COT26",
   "primera_vista_iso": "2026-10-27T12:27:37-03:00",
-  "ultima_activa_iso": "2026-10-28T02:58:43-03:00",
+  "ultima_activa_iso": "2026-10-28T13:11:01-03:00",
   "removida_iso": null,
   "estado_api": null,
   "adj_nombre": null,
@@ -1038,7 +995,7 @@
   ],
   "link": "https://buscador.mercadopublico.cl/ficha?code=1092-74-COT26",
   "primera_vista_iso": "2026-10-27T17:10:04-03:00",
-  "ultima_activa_iso": "2026-10-28T02:58:43-03:00",
+  "ultima_activa_iso": "2026-10-28T13:11:01-03:00",
   "removida_iso": null,
   "estado_api": null,
   "adj_nombre": null,
@@ -1059,7 +1016,112 @@
   ],
   "link": "https://buscador.mercadopublico.cl/ficha?code=2494-277-COT26",
   "primera_vista_iso": "2026-10-27T20:52:30-03:00",
-  "ultima_activa_iso": "2026-10-28T02:58:43-03:00",
+  "ultima_activa_iso": "2026-10-28T13:11:01-03:00",
+  "removida_iso": null,
+  "estado_api": null,
+  "adj_nombre": null,
+  "adj_monto": null,
+  "adj_iso": null,
+  "adj_revisado_iso": null
+ },
+ "418-1716-COT26": {
+  "codigo": "418-1716-COT26",
+  "nombre": "CCD- Reposición bomba de impulsión Diálisis",
+  "organismo": "SERVICIO NACIONAL DE SALUD HOSPITAL DE PUERTO AYSEN",
+  "unidad": "H Puerto Aysén",
+  "monto": 1,
+  "cierre_iso": "2026-10-29T13:00:00-03:00",
+  "tipo": "POSIBLE",
+  "motivos": [
+   "radial"
+  ],
+  "link": "https://buscador.mercadopublico.cl/ficha?code=418-1716-COT26",
+  "primera_vista_iso": "2026-10-28T13:11:01-03:00",
+  "ultima_activa_iso": "2026-10-28T13:11:01-03:00",
+  "removida_iso": null,
+  "estado_api": null,
+  "adj_nombre": null,
+  "adj_monto": null,
+  "adj_iso": null,
+  "adj_revisado_iso": null
+ },
+ "4803-174-COT26": {
+  "codigo": "4803-174-COT26",
+  "nombre": "REGISTRO FOTOGRÁFICO Y AUDIOVISUAL EN DOS ESTABLECIMIENTOS EDUCACIONALES, UBICADOS EN LA REGIÓN DE AYSÉN DEL GENERAL CARLOS IBÁÑEZ DEL CAMPO",
+  "organismo": "SENADO DE LA REPUBLICA",
+  "unidad": "Senado de la República de Chile",
+  "monto": 500000,
+  "cierre_iso": "2026-10-29T15:00:00-03:00",
+  "tipo": "OPORTUNIDAD",
+  "motivos": [
+   "Fotógrafos y camarógrafos"
+  ],
+  "link": "https://buscador.mercadopublico.cl/ficha?code=4803-174-COT26",
+  "primera_vista_iso": "2026-10-28T13:11:01-03:00",
+  "ultima_activa_iso": "2026-10-28T13:11:01-03:00",
+  "removida_iso": null,
+  "estado_api": null,
+  "adj_nombre": null,
+  "adj_monto": null,
+  "adj_iso": null,
+  "adj_revisado_iso": null
+ },
+ "1057062-490-COT26": {
+  "codigo": "1057062-490-COT26",
+  "nombre": "Servicio de produccion de evento  \"Carnaval de los animales\" durante el mes de noviembre_segun fisabs 2343 programa orquesta",
+  "organismo": "UNIVERSIDAD DE AYSEN",
+  "unidad": "Proyectos",
+  "monto": 1500000,
+  "cierre_iso": "2026-10-30T08:00:00-03:00",
+  "tipo": "OPORTUNIDAD",
+  "motivos": [
+   "Ventas y marketing"
+  ],
+  "link": "https://buscador.mercadopublico.cl/ficha?code=1057062-490-COT26",
+  "primera_vista_iso": "2026-10-28T13:11:01-03:00",
+  "ultima_activa_iso": "2026-10-28T13:11:01-03:00",
+  "removida_iso": null,
+  "estado_api": null,
+  "adj_nombre": null,
+  "adj_monto": null,
+  "adj_iso": null,
+  "adj_revisado_iso": null
+ },
+ "886182-230-COT26": {
+  "codigo": "886182-230-COT26",
+  "nombre": "Servicio de contrato de suministro traslados estudiantes Universidad de Aysén_FISABS 2284",
+  "organismo": "UNIVERSIDAD DE AYSEN",
+  "unidad": "Universidad de Aysen",
+  "monto": 5000000,
+  "cierre_iso": "2026-10-30T08:30:00-03:00",
+  "tipo": "POSIBLE",
+  "motivos": [
+   "aviso"
+  ],
+  "link": "https://buscador.mercadopublico.cl/ficha?code=886182-230-COT26",
+  "primera_vista_iso": "2026-10-28T13:11:01-03:00",
+  "ultima_activa_iso": "2026-10-28T13:11:01-03:00",
+  "removida_iso": null,
+  "estado_api": null,
+  "adj_nombre": null,
+  "adj_monto": null,
+  "adj_iso": null,
+  "adj_revisado_iso": null
+ },
+ "854-30-COT26": {
+  "codigo": "854-30-COT26",
+  "nombre": "Traslado de funcionarios/as a distintas localidades Jardin Infantil comunicacional",
+  "organismo": "JUNTA NACIONAL DE JARDINES         INFANTILES",
+  "unidad": "Junji - XI Región",
+  "monto": 6820000,
+  "cierre_iso": "2026-10-30T12:00:00-03:00",
+  "tipo": "POSIBLE",
+  "motivos": [
+   "comunicacional"
+  ],
+  "link": "https://buscador.mercadopublico.cl/ficha?code=854-30-COT26",
+  "primera_vista_iso": "2026-10-28T13:11:01-03:00",
+  "ultima_activa_iso": "2026-10-28T13:11:01-03:00",
   "removida_iso": null,
   "estado_api": null,
   "adj_nombre": null,
