@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-10-28T18:12:20.829078-03:00",
+ "actualizado": "2026-10-28T22:06:03.901395-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
- "total_region": 296,
+ "total_region": 293,
  "rubros": {
   "25172700": "Aire acondicionado",
   "25173900": "Componentes eléctricos",
@@ -83,7 +83,7 @@
    "motivos": [
     "enchufe"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "1692-627-COT26",
    "nombre": "ADQUISICIÓN DE 4 RELOJES DIGITALES DE PARED CON PANTALLA LED PARA EL HOSPITAL DE COCHRANE ",
    "organismo": "SERVICIO NACIONAL DE SALUD HOSPITAL DE COCHRANE",
@@ -1281,7 +1281,7 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=1092-69-COT26",
    "primera_vista_iso": "2026-10-20T13:58:42-03:00",
    "removida_iso": "2026-10-22T16:57:20-03:00",
-   "estado_api": null,
+   "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,
    "adj_iso": null
@@ -1394,7 +1394,7 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=3791-1048-COT26",
    "primera_vista_iso": "2026-10-21T11:01:51-03:00",
    "removida_iso": "2026-10-22T11:01:40-03:00",
-   "estado_api": null,
+   "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,
    "adj_iso": null

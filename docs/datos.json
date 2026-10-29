@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-10-28T18:12:20.829078-03:00",
+ "actualizado": "2026-10-28T22:06:03.901395-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
- "total_region": 296,
+ "total_region": 293,
  "rubros": {
   "80141600": "Ventas y marketing",
   "82101600": "Publicidad en medios no impresos",
@@ -406,7 +406,7 @@
    "motivos": [
     "Fotógrafos y camarógrafos"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "2494-277-COT26",
    "nombre": "BAP - Servicio de Taller de Fotografía , en el Marco del Plan de  Confianza Social del Barrio Arturo Prat - PROGRAMA RECUPERACIÓN DE BARRIOS",
    "organismo": "I MUNICIPALIDAD DE COYHAIQUE",
@@ -939,7 +939,7 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=4609-286-COT26",
    "primera_vista_iso": "2026-10-20T16:54:52-03:00",
    "removida_iso": "2026-10-23T19:25:33-03:00",
-   "estado_api": null,
+   "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,
    "adj_iso": null
