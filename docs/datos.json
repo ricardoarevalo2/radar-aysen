@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-10-29T18:15:57.074735-03:00",
+ "actualizado": "2026-10-29T22:11:21.696972-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
- "total_region": 326,
+ "total_region": 323,
  "rubros": {
   "80141600": "Ventas y marketing",
   "82101600": "Publicidad en medios no impresos",
@@ -14,42 +14,6 @@
   "83121700": "Comunicación social y de masas"
  },
  "filas": [
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "difusión",
-    "publicidad"
-   ],
-   "nueva": false,
-   "codigo": "2495-584-COT26",
-   "nombre": "ADQUISICIÓN DE MATERIALES PARA LA DIFUSIÓN DEL PROGRAMA SENDA PREVIENE 2026 ",
-   "organismo": "I MUNICIPALIDAD DE COYHAIQUE",
-   "unidad": "DIRECCION DESARROLLO COMUNITARIO",
-   "monto": 200000,
-   "cierre_iso": "2026-10-29T21:00:00-03:00",
-   "publicacion": "26-10 16:56",
-   "publicacion_iso": "2026-10-26T16:56:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "42251610",
-     "Pelotas o accesorios terapéuticos",
-     100,
-     "Folleteria 1412 medidas 14.5x21.5 cm"
-    ],
-    [
-     "82101502",
-     "Publicidad en carteles",
-     100,
-     "Estrella antiestrés personalizable (75?×?75?×?35?mm ˜ 3,7?cm de ancho): espuma blanda, colores vivos, disponible en blanco, azul"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=2495-584-COT26",
-   "sin_detalle": false,
-   "descripcion": "ADQUISICIÓN DE MATERIALES DE DIFUSIÓN Y PROMOCIÓN DEL PROGRAMA SENDA PREVIENE 2026",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
   {
    "tipo": "OPORTUNIDAD",
    "motivos": [
@@ -621,6 +585,25 @@
   }
  ],
  "historial": [
+  {
+   "codigo": "2495-584-COT26",
+   "nombre": "ADQUISICIÓN DE MATERIALES PARA LA DIFUSIÓN DEL PROGRAMA SENDA PREVIENE 2026 ",
+   "organismo": "I MUNICIPALIDAD DE COYHAIQUE",
+   "monto": 200000,
+   "cierre_iso": "2026-10-29T21:00:00-03:00",
+   "tipo": "POSIBLE",
+   "motivos": [
+    "difusión",
+    "publicidad"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=2495-584-COT26",
+   "primera_vista_iso": "2026-10-26T18:06:24-03:00",
+   "removida_iso": "2026-10-29T22:11:21-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
   {
    "codigo": "4803-174-COT26",
    "nombre": "REGISTRO FOTOGRÁFICO Y AUDIOVISUAL EN DOS ESTABLECIMIENTOS EDUCACIONALES, UBICADOS EN LA REGIÓN DE AYSÉN DEL GENERAL CARLOS IBÁÑEZ DEL CAMPO",
