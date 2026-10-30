@@ -1,25 +1,4 @@
 {
- "828-49-COT26": {
-  "codigo": "828-49-COT26",
-  "nombre": "Adquisición limpiador de piso vinilico ",
-  "organismo": "MINISTERIO DE OBRAS PUBLICAS DIREC CION GRAL DE OO PP DCYF",
-  "unidad": "Dirección de Arquitectura - XI Región",
-  "monto": 30000,
-  "cierre_iso": "2026-10-23T02:47:00-03:00",
-  "tipo": "POSIBLE",
-  "motivos": [
-   "fotografía"
-  ],
-  "link": "https://buscador.mercadopublico.cl/ficha?code=828-49-COT26",
-  "primera_vista_iso": "2026-10-15T17:55:27-03:00",
-  "ultima_activa_iso": "2026-10-22T22:11:34-03:00",
-  "removida_iso": "2026-10-23T11:19:19-03:00",
-  "estado_api": "",
-  "adj_nombre": null,
-  "adj_monto": null,
-  "adj_iso": null,
-  "adj_revisado_iso": "2026-10-29T22:11:21-03:00"
- },
  "682-20-COT26": {
   "codigo": "682-20-COT26",
   "nombre": "CONTRATACIÓN DE SERVICIOS DE PUBLICACIÓN, SANEAMIENTOS D.L. N° 2695/79",
@@ -39,28 +18,7 @@
   "adj_nombre": null,
   "adj_monto": null,
   "adj_iso": null,
-  "adj_revisado_iso": "2026-10-29T22:11:21-03:00"
- },
- "4733-410-COT26": {
-  "codigo": "4733-410-COT26",
-  "nombre": "CAPSULAS DE RADIALES",
-  "organismo": "I MUNICIPALIDAD DE LAS GUAITECAS",
-  "unidad": "I MUNICIPALIDAD DE LAS GUAITECAS",
-  "monto": 150000,
-  "cierre_iso": "2026-10-23T09:03:00-03:00",
-  "tipo": "OPORTUNIDAD",
-  "motivos": [
-   "Fotógrafos y camarógrafos"
-  ],
-  "link": "https://buscador.mercadopublico.cl/ficha?code=4733-410-COT26",
-  "primera_vista_iso": "2026-10-19T16:06:33-03:00",
-  "ultima_activa_iso": "2026-10-22T22:11:34-03:00",
-  "removida_iso": "2026-10-23T11:19:19-03:00",
-  "estado_api": "",
-  "adj_nombre": null,
-  "adj_monto": null,
-  "adj_iso": null,
-  "adj_revisado_iso": "2026-10-29T22:11:21-03:00"
+  "adj_revisado_iso": "2026-10-30T13:05:28-03:00"
  },
  "2495-564-COT26": {
   "codigo": "2495-564-COT26",
@@ -83,28 +41,7 @@
   "adj_nombre": null,
   "adj_monto": null,
   "adj_iso": null,
-  "adj_revisado_iso": "2026-10-29T22:11:21-03:00"
- },
- "3431-118-COT26": {
-  "codigo": "3431-118-COT26",
-  "nombre": "F-I Solicitud de cotización para la adquisición de refrigerador que será utilizado en el casino de suboficiales de esta unidad.",
-  "organismo": "Ejercito de Chile",
-  "unidad": "Regimiento N° 8 Chiloé",
-  "monto": 700000,
-  "cierre_iso": "2026-10-23T11:00:00-03:00",
-  "tipo": "POSIBLE",
-  "motivos": [
-   "fotografía"
-  ],
-  "link": "https://buscador.mercadopublico.cl/ficha?code=3431-118-COT26",
-  "primera_vista_iso": "2026-10-20T12:57:59-03:00",
-  "ultima_activa_iso": "2026-10-22T22:11:34-03:00",
-  "removida_iso": "2026-10-23T11:19:19-03:00",
-  "estado_api": "",
-  "adj_nombre": null,
-  "adj_monto": null,
-  "adj_iso": null,
-  "adj_revisado_iso": "2026-10-29T22:11:21-03:00"
+  "adj_revisado_iso": "2026-10-30T13:05:28-03:00"
  },
  "4609-286-COT26": {
   "codigo": "4609-286-COT26",
@@ -125,7 +62,7 @@
   "adj_nombre": null,
   "adj_monto": null,
   "adj_iso": null,
-  "adj_revisado_iso": "2026-10-29T18:15:57-03:00"
+  "adj_revisado_iso": "2026-10-30T13:05:28-03:00"
  },
  "886182-233-COT26": {
   "codigo": "886182-233-COT26",
@@ -146,7 +83,7 @@
   "adj_nombre": null,
   "adj_monto": null,
   "adj_iso": null,
-  "adj_revisado_iso": "2026-10-29T18:15:57-03:00"
+  "adj_revisado_iso": "2026-10-30T13:05:28-03:00"
  },
  "1234-14-COT26": {
   "codigo": "1234-14-COT26",
@@ -167,7 +104,7 @@
   "adj_nombre": null,
   "adj_monto": null,
   "adj_iso": null,
-  "adj_revisado_iso": "2026-10-29T18:15:57-03:00"
+  "adj_revisado_iso": "2026-10-30T13:05:28-03:00"
  },
  "613-33-COT26": {
   "codigo": "613-33-COT26",
@@ -186,27 +123,6 @@
   "primera_vista_iso": "2026-10-21T19:54:17-03:00",
   "ultima_activa_iso": "2026-10-23T21:52:30-03:00",
   "removida_iso": "2026-10-24T10:26:01-03:00",
-  "estado_api": "",
-  "adj_nombre": null,
-  "adj_monto": null,
-  "adj_iso": null,
-  "adj_revisado_iso": "2026-10-29T18:15:57-03:00"
- },
- "1233615-840-COT26": {
-  "codigo": "1233615-840-COT26",
-  "nombre": "TRM/SOL 2068 COMPONENTES AUDIO LICEO BICENTENARIO ARTURO PRAT CHACON",
-  "organismo": "Servicio Local de Educación Pública Aysén",
-  "unidad": "Servicio Local de Educación Pública Aysén",
-  "monto": 1599998,
-  "cierre_iso": "2026-10-23T12:00:00-03:00",
-  "tipo": "POSIBLE",
-  "motivos": [
-   "audiovisual"
-  ],
-  "link": "https://buscador.mercadopublico.cl/ficha?code=1233615-840-COT26",
-  "primera_vista_iso": "2026-10-22T10:13:15-03:00",
-  "ultima_activa_iso": "2026-10-23T11:19:19-03:00",
-  "removida_iso": "2026-10-23T15:31:59-03:00",
   "estado_api": "",
   "adj_nombre": null,
   "adj_monto": null,
@@ -236,27 +152,6 @@
   "adj_monto": null,
   "adj_iso": null,
   "adj_revisado_iso": "2026-10-22T20:50:29-03:00"
- },
- "4140-93-COT26": {
-  "codigo": "4140-93-COT26",
-  "nombre": "IMPLEMENTOS PARA RADIO LAGO VERDE, CON FONDOS DE MEDIOS",
-  "organismo": "I MUNICIPALIDAD DE LAGO VERDE",
-  "unidad": "Adquisiciones",
-  "monto": 693960,
-  "cierre_iso": "2026-10-23T12:00:00-03:00",
-  "tipo": "POSIBLE",
-  "motivos": [
-   "radio"
-  ],
-  "link": "https://buscador.mercadopublico.cl/ficha?code=4140-93-COT26",
-  "primera_vista_iso": "2026-10-22T11:59:22-03:00",
-  "ultima_activa_iso": "2026-10-23T11:19:19-03:00",
-  "removida_iso": "2026-10-23T15:31:59-03:00",
-  "estado_api": null,
-  "adj_nombre": null,
-  "adj_monto": null,
-  "adj_iso": null,
-  "adj_revisado_iso": null
  },
  "2495-574-COT26": {
   "codigo": "2495-574-COT26",
@@ -651,14 +546,14 @@
   "organismo": "SERVICIO NACIONAL DE PROTECCIÓN ESPECIALIZADA A LA NIÑEZ Y ADOLESCENCI",
   "unidad": "DIRECCION REGIONAL AYSEN",
   "monto": 370755,
-  "cierre_iso": "2026-10-30T10:00:00-03:00",
+  "cierre_iso": "2026-11-03T02:50:00-03:00",
   "tipo": "POSIBLE",
   "motivos": [
    "radio"
   ],
   "link": "https://buscador.mercadopublico.cl/ficha?code=1208109-24-COT26",
   "primera_vista_iso": "2026-10-26T18:06:24-03:00",
-  "ultima_activa_iso": "2026-10-29T22:11:21-03:00",
+  "ultima_activa_iso": "2026-10-30T13:05:28-03:00",
   "removida_iso": null,
   "estado_api": null,
   "adj_nombre": null,
@@ -757,14 +652,14 @@
   "organismo": "I MUNICIPALIDAD DE COYHAIQUE",
   "unidad": "SECRETARIA COMUNAL DE PLANIFICACION",
   "monto": 400000,
-  "cierre_iso": "2026-10-30T11:00:00-03:00",
+  "cierre_iso": "2026-11-02T04:46:00-03:00",
   "tipo": "OPORTUNIDAD",
   "motivos": [
    "Fotógrafos y camarógrafos"
   ],
   "link": "https://buscador.mercadopublico.cl/ficha?code=2494-277-COT26",
   "primera_vista_iso": "2026-10-27T20:52:30-03:00",
-  "ultima_activa_iso": "2026-10-29T22:11:21-03:00",
+  "ultima_activa_iso": "2026-10-30T13:05:28-03:00",
   "removida_iso": null,
   "estado_api": null,
   "adj_nombre": null,
@@ -828,7 +723,7 @@
   "link": "https://buscador.mercadopublico.cl/ficha?code=1057062-490-COT26",
   "primera_vista_iso": "2026-10-28T13:11:01-03:00",
   "ultima_activa_iso": "2026-10-29T22:11:21-03:00",
-  "removida_iso": null,
+  "removida_iso": "2026-10-30T13:05:28-03:00",
   "estado_api": null,
   "adj_nombre": null,
   "adj_monto": null,
@@ -849,7 +744,7 @@
   "link": "https://buscador.mercadopublico.cl/ficha?code=886182-230-COT26",
   "primera_vista_iso": "2026-10-28T13:11:01-03:00",
   "ultima_activa_iso": "2026-10-29T22:11:21-03:00",
-  "removida_iso": null,
+  "removida_iso": "2026-10-30T13:05:28-03:00",
   "estado_api": null,
   "adj_nombre": null,
   "adj_monto": null,
@@ -870,7 +765,7 @@
   "link": "https://buscador.mercadopublico.cl/ficha?code=854-30-COT26",
   "primera_vista_iso": "2026-10-28T13:11:01-03:00",
   "ultima_activa_iso": "2026-10-29T22:11:21-03:00",
-  "removida_iso": null,
+  "removida_iso": "2026-10-30T13:05:28-03:00",
   "estado_api": null,
   "adj_nombre": null,
   "adj_monto": null,
@@ -911,7 +806,7 @@
   ],
   "link": "https://buscador.mercadopublico.cl/ficha?code=1233615-885-COT26",
   "primera_vista_iso": "2026-10-28T18:12:20-03:00",
-  "ultima_activa_iso": "2026-10-29T22:11:21-03:00",
+  "ultima_activa_iso": "2026-10-30T13:05:28-03:00",
   "removida_iso": null,
   "estado_api": null,
   "adj_nombre": null,
@@ -933,7 +828,7 @@
   "link": "https://buscador.mercadopublico.cl/ficha?code=734-196-COT26",
   "primera_vista_iso": "2026-10-28T18:12:20-03:00",
   "ultima_activa_iso": "2026-10-29T22:11:21-03:00",
-  "removida_iso": null,
+  "removida_iso": "2026-10-30T13:05:28-03:00",
   "estado_api": null,
   "adj_nombre": null,
   "adj_monto": null,
@@ -954,7 +849,7 @@
   "link": "https://buscador.mercadopublico.cl/ficha?code=1746-253-COT26",
   "primera_vista_iso": "2026-10-28T18:12:20-03:00",
   "ultima_activa_iso": "2026-10-29T22:11:21-03:00",
-  "removida_iso": null,
+  "removida_iso": "2026-10-30T13:05:28-03:00",
   "estado_api": null,
   "adj_nombre": null,
   "adj_monto": null,
@@ -975,7 +870,7 @@
   "link": "https://buscador.mercadopublico.cl/ficha?code=1057062-489-COT26",
   "primera_vista_iso": "2026-10-29T13:17:18-03:00",
   "ultima_activa_iso": "2026-10-29T22:11:21-03:00",
-  "removida_iso": null,
+  "removida_iso": "2026-10-30T13:05:28-03:00",
   "estado_api": null,
   "adj_nombre": null,
   "adj_monto": null,
@@ -996,7 +891,7 @@
   "link": "https://buscador.mercadopublico.cl/ficha?code=2495-602-COT26",
   "primera_vista_iso": "2026-10-29T13:17:18-03:00",
   "ultima_activa_iso": "2026-10-29T22:11:21-03:00",
-  "removida_iso": null,
+  "removida_iso": "2026-10-30T13:05:28-03:00",
   "estado_api": null,
   "adj_nombre": null,
   "adj_monto": null,
@@ -1016,7 +911,7 @@
   ],
   "link": "https://buscador.mercadopublico.cl/ficha?code=1057062-493-COT26",
   "primera_vista_iso": "2026-10-29T13:17:18-03:00",
-  "ultima_activa_iso": "2026-10-29T22:11:21-03:00",
+  "ultima_activa_iso": "2026-10-30T13:05:28-03:00",
   "removida_iso": null,
   "estado_api": null,
   "adj_nombre": null,
@@ -1037,7 +932,7 @@
   ],
   "link": "https://buscador.mercadopublico.cl/ficha?code=854-32-COT26",
   "primera_vista_iso": "2026-10-29T13:17:18-03:00",
-  "ultima_activa_iso": "2026-10-29T22:11:21-03:00",
+  "ultima_activa_iso": "2026-10-30T13:05:28-03:00",
   "removida_iso": null,
   "estado_api": null,
   "adj_nombre": null,
@@ -1058,7 +953,7 @@
   ],
   "link": "https://buscador.mercadopublico.cl/ficha?code=4066-449-COT26",
   "primera_vista_iso": "2026-10-29T13:17:18-03:00",
-  "ultima_activa_iso": "2026-10-29T22:11:21-03:00",
+  "ultima_activa_iso": "2026-10-30T13:05:28-03:00",
   "removida_iso": null,
   "estado_api": null,
   "adj_nombre": null,
@@ -1079,7 +974,7 @@
   ],
   "link": "https://buscador.mercadopublico.cl/ficha?code=723-26-COT26",
   "primera_vista_iso": "2026-10-29T13:17:18-03:00",
-  "ultima_activa_iso": "2026-10-29T22:11:21-03:00",
+  "ultima_activa_iso": "2026-10-30T13:05:28-03:00",
   "removida_iso": null,
   "estado_api": null,
   "adj_nombre": null,
@@ -1102,7 +997,7 @@
   ],
   "link": "https://buscador.mercadopublico.cl/ficha?code=1426103-29-COT26",
   "primera_vista_iso": "2026-10-29T18:15:57-03:00",
-  "ultima_activa_iso": "2026-10-29T22:11:21-03:00",
+  "ultima_activa_iso": "2026-10-30T13:05:28-03:00",
   "removida_iso": null,
   "estado_api": null,
   "adj_nombre": null,
@@ -1124,7 +1019,72 @@
   ],
   "link": "https://buscador.mercadopublico.cl/ficha?code=1426103-27-COT26",
   "primera_vista_iso": "2026-10-29T18:15:57-03:00",
-  "ultima_activa_iso": "2026-10-29T22:11:21-03:00",
+  "ultima_activa_iso": "2026-10-30T13:05:28-03:00",
+  "removida_iso": null,
+  "estado_api": null,
+  "adj_nombre": null,
+  "adj_monto": null,
+  "adj_iso": null,
+  "adj_revisado_iso": null
+ },
+ "4140-105-COT26": {
+  "codigo": "4140-105-COT26",
+  "nombre": "DIFUSION DIGITAL PAR ALA PROMOCION DE LAS ACTIVIDAES PROYECTO \"NIÑEZ Y PATRIMONIO\"",
+  "organismo": "I MUNICIPALIDAD DE LAGO VERDE",
+  "unidad": "Adquisiciones",
+  "monto": 500000,
+  "cierre_iso": "2026-11-02T08:30:00-03:00",
+  "tipo": "POSIBLE",
+  "motivos": [
+   "difusion",
+   "radiales",
+   "redes sociales"
+  ],
+  "link": "https://buscador.mercadopublico.cl/ficha?code=4140-105-COT26",
+  "primera_vista_iso": "2026-10-30T13:05:28-03:00",
+  "ultima_activa_iso": "2026-10-30T13:05:28-03:00",
+  "removida_iso": null,
+  "estado_api": null,
+  "adj_nombre": null,
+  "adj_monto": null,
+  "adj_iso": null,
+  "adj_revisado_iso": null
+ },
+ "734-199-COT26": {
+  "codigo": "734-199-COT26",
+  "nombre": "ADQUISICIÓN 04 SMART TV Y SOPORTES MURALES COMPATIBLES PARA COSAM COYHAIQUE",
+  "organismo": "SERVICIO DE SALUD AYSEN CARLOS IBANEZ DEL CAMPO",
+  "unidad": "DIRECCION",
+  "monto": 1270000,
+  "cierre_iso": "2026-11-02T11:00:00-03:00",
+  "tipo": "POSIBLE",
+  "motivos": [
+   "televisión"
+  ],
+  "link": "https://buscador.mercadopublico.cl/ficha?code=734-199-COT26",
+  "primera_vista_iso": "2026-10-30T13:05:28-03:00",
+  "ultima_activa_iso": "2026-10-30T13:05:28-03:00",
+  "removida_iso": null,
+  "estado_api": null,
+  "adj_nombre": null,
+  "adj_monto": null,
+  "adj_iso": null,
+  "adj_revisado_iso": null
+ },
+ "734-201-COT26": {
+  "codigo": "734-201-COT26",
+  "nombre": "ADQUISICIÓN TELEVISOR SMART TV, SOPORTE Y CABLE HDMI",
+  "organismo": "SERVICIO DE SALUD AYSEN CARLOS IBANEZ DEL CAMPO",
+  "unidad": "DIRECCION",
+  "monto": 450000,
+  "cierre_iso": "2026-11-02T16:00:00-03:00",
+  "tipo": "POSIBLE",
+  "motivos": [
+   "televisión"
+  ],
+  "link": "https://buscador.mercadopublico.cl/ficha?code=734-201-COT26",
+  "primera_vista_iso": "2026-10-30T13:05:28-03:00",
+  "ultima_activa_iso": "2026-10-30T13:05:28-03:00",
   "removida_iso": null,
   "estado_api": null,
   "adj_nombre": null,

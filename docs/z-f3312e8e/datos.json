@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-10-29T22:11:21.696972-03:00",
+ "actualizado": "2026-10-30T13:05:28.030877-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
- "total_region": 323,
+ "total_region": 296,
  "rubros": {
   "25172700": "Aire acondicionado",
   "25173900": "Componentes eléctricos",
@@ -19,207 +19,6 @@
   "39121400": "Conectores, enchufes y terminales"
  },
  "filas": [
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "eléctrico",
-    "te1"
-   ],
-   "nueva": false,
-   "codigo": "3765-311-COT26",
-   "nombre": " SE SOLICITA CONTRATACION DE UN INSTALADOR ELECTRICO - FACTIBILIDAD TE1 CASA SENDA ",
-   "organismo": "SERVICIO NACIONAL DE SALUD HOSPITAL DE C",
-   "unidad": "Hospital Doctor  Leopoldo Ortega Rodríguez",
-   "monto": 2000000,
-   "cierre_iso": "2026-10-30T03:21:00-03:00",
-   "publicacion": "26-10 14:38",
-   "publicacion_iso": "2026-10-26T14:38:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "42191701",
-     "Servicio eléctrico o de gas médico",
-     1,
-     "SE SOLICITA CONTRATACION DE UN INSTALADOR ELECTRICO - FACTIBILIDAD TE1 CASA SENDA; SE ADJUNTA DETALLES DE SERVICIO A CONTRATAR; DISPONINILIDAD INMEDIATA Y SE DEBE ADJUNTAR UNA PROPUESTA CON LO SOLICITADO (ADMISIBILIDAD)"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=3765-311-COT26",
-   "sin_detalle": false,
-   "descripcion": "SE SOLICITA CONTRATACION DE UN INSTALADOR ELECTRICO - FACTIBILIDAD TE1 CASA SENDA SE ADJUNTA DETALLES DE SERVICIO A CONTRATAR - DISPONIBILIDAD INMEDIATA.",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
-  {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Cajas y accesorios eléctricos"
-   ],
-   "nueva": false,
-   "codigo": "1107283-179-COT26",
-   "nombre": "INSUMOS CERCO ELÉCTRICO",
-   "organismo": "INSTITUTO DE INVESTIGACIONES AGROPECUARIAS",
-   "unidad": "TAMELAIKE",
-   "monto": 3000000,
-   "cierre_iso": "2026-10-30T10:00:00-03:00",
-   "publicacion": "28-10 14:28",
-   "publicacion_iso": "2026-10-28T14:28:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "39121311",
-     "Accesorios eléctricos",
-     4,
-     "Energizador Solar de 4 a 6 km"
-    ],
-    [
-     "39121311",
-     "Accesorios eléctricos",
-     8,
-     "Barras de Tierra Galvanizada tipo “Y” de 1 m"
-    ],
-    [
-     "39121311",
-     "Accesorios eléctricos",
-     4,
-     "Carretes con engranaje incluido cable electrificado de 500 metros"
-    ],
-    [
-     "39121311",
-     "Accesorios eléctricos",
-     2,
-     "Carretes Inteligente es un sistema todo en uno de 4 alambres, instantáneo y completamente portátil."
-    ],
-    [
-     "39121311",
-     "Accesorios eléctricos",
-     100,
-     "Estaca Plástica multi cable"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1107283-179-COT26",
-   "sin_detalle": false,
-   "descripcion": "ADQUISICIÓN DE INSUMOS CERCO ELÉCTRICO.",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
-  {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Enfriamiento (aires acondicionados)"
-   ],
-   "nueva": false,
-   "codigo": "1078779-24-COT26",
-   "nombre": "EQUIPO DE AIRE ACONDICIONADO",
-   "organismo": "SERVICIO DE SALUD AYSEN CARLOS IBANEZ DEL CAMPO",
-   "unidad": "Fondos Extrapresupuestarios",
-   "monto": 303990,
-   "cierre_iso": "2026-10-30T10:00:00-03:00",
-   "publicacion": "27-10 12:13",
-   "publicacion_iso": "2026-10-27T12:13:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "40101701",
-     "Aires acondicionados",
-     1,
-     "Aire acondicionado tipo Split muro, tecnología Inverter, frío/calor, con capacidad mínima de 9.000 BTU"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1078779-24-COT26",
-   "sin_detalle": false,
-   "descripcion": "Adquisición de 1 equipo de aire acondicionado tipo Split muro, tecnología Inverter, frío/calor, con capacidad mínima de 9.000 BTU, destinado a dependencias\ndel Proyecto Mujeres Koyun.",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "certificación sec",
-    "eléctrico"
-   ],
-   "nueva": false,
-   "codigo": "1173433-21-COT26",
-   "nombre": "ADQUISICIÓN DE MAQUINARIA Y EQUIPAMIENTO AGRÍCOLA",
-   "organismo": "Centro de Educación y Trabajo Valle Verde",
-   "unidad": "CET Valle Verde",
-   "monto": 5638655,
-   "cierre_iso": "2026-10-30T11:00:00-03:00",
-   "publicacion": "27-10 16:26",
-   "publicacion_iso": "2026-10-27T16:26:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "23101508",
-     "Cortadoras",
-     2,
-     "DESMALEZADORA STIHL FS 120 O SIMILAR. Cilindrada: 30,8 cc., Potencia: 1,3 kW (1,8 HP), Peso: 6,3 kg., Capacidad del estanque: 0,64 litros., Motor: 2 tiempos."
-    ],
-    [
-     "23101508",
-     "Cortadoras",
-     1,
-     "CORTA CESPED TREX 173 CC C/R R/ALTA21 O SIMILAR. Motor: 4 tiempos OHV de 173 cc (aprox. 5,0 HP)., Ancho de corte: 21\" (53 cm), Altura de corte 6 posiciones regulables mediante 1 sola palanca (entre 2,5 cm y 7,5cm)., Ruedas Traseras altas (8\"delantera / 11\"trasera), ideales para terrenos con desniveles, Capacidades de estanque 1 litro de combustible y 0,6 litros de aceite, Sistemas de trabajo 3 en 1 (incluye recolector trasero, descarga lateral y sistema Mulching), Peso: 39 kg. Certificación SEC"
-    ],
-    [
-     "23181506",
-     "Maquinaria de lavado",
-     1,
-     "HIDROLAVADORA LUSTER GASOLINA AGW. HE-3100 O SIMILAR. Partida manual, temperatura del agua 5° mín - 50 ° máx., dimensiones (lah) 70 x 45 x 66, peso 35 Kg, estanque de combustible 3,6 Lts., tipo de motor gasolina 7hp., velocidad 3600 rpm, máxima presión 213 bar, presión de trabajo 193 bar, caudal o flujo permisible 570 lts./hr."
-    ],
-    [
-     "25101901",
-     "Tractores agrícolas",
-     1,
-     "TRACTOCULTIVADOR KRAFTER R001 11 HP O SIMILAR. Motor: Diésel HSD188FAE (11 HP), Encendido: Eléctrico (y con piola de arranque manual de emergencia), Transmisión Por engranajes, Marchas: 3 hacia adelante y 1 hacia atrás, Neumáticos Frontales 4.0-8 / Traseros 5.0-12., Ancho de trabajo 1.050 mm (1,05 m), Diámetro máximo de fresas 360 mm, Peso: 240 kg."
-    ],
-    [
-     "27111508",
-     "Sierras",
-     2,
-     "MOTOSIERRA STIHL MS 250 O SIMILAR. Cilindrada 45,4 cm3, Cadena Rapid Micro/Super 0,325” 1,6 mm., Espada 18\", Motor, 2 Tiempos, Potencia (Hp) 3,1 HP."
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1173433-21-COT26",
-   "sin_detalle": false,
-   "descripcion": "ADQUISICIÓN DE MAQUINARIA Y EQUIPAMIENTO PARA EL FORTALECIMIENTO DE LAS ACTIVIDADES AGRÍCOLAS C.E.T. VALLE VERDE OCTUBRE 2026.",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
-  {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Materiales de física de electricidad"
-   ],
-   "nueva": false,
-   "codigo": "4778-343-COT26",
-   "nombre": "VEM-IMANES Y ESPEJOS DE BOLSILLO. MATERIAL PROMOCIONAL",
-   "organismo": "SERVICIO NACIONAL DE SALUD HOSPITAL DE C",
-   "unidad": "Compras de Insumos y Servicios Generales",
-   "monto": 98175,
-   "cierre_iso": "2026-10-30T12:32:00-03:00",
-   "publicacion": "28-10 12:27",
-   "publicacion_iso": "2026-10-28T12:27:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "60103111",
-     "Espejo geométrico",
-     30,
-     "ESPEJOS DE BOLSILLO (MATERIAL DIDÁCTICO Y PROMOCIONAL)"
-    ],
-    [
-     "60104910",
-     "Electroimanes",
-     30,
-     "IMANES DE 7x7 CM. (MATERIAL DIDÁCTICO Y PROMOCIONAL)"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=4778-343-COT26",
-   "sin_detalle": false,
-   "descripcion": "1. LEER ADJUNTOS PARA AJUSTARSE A ESPECIFICACIONES.\n2. INCLUIR FOTOS,COTIZACIÓN FORMAL Y ESPECIFICACIONES TÉCNICAS EN ESPAÑOL.\n   INDIQUE GARANTÍAS, PLAZOS DE REPOSICIÓN Y TODA INFORMACIÓN ÚTIL PARA EL \n   ANÁLISIS Y COMPARACIÓN  DE OFERTAS. \n3. INCLUIR EMBALAJE Y FLETE A DIRECCIÓN DE DESPACHO.\n4. VIGENCIA DEL PRODUCTO DEBE SER SUPERIOR A UN AÑO COMO MÍNIMO. \n5. NO PARCIALIZAR DESPACHO (UN SÓLO ENVÍO)\n6. NO DEBE ESTAR SUJETA A STOCK\n   (COTIZACIONES, MARCAS Y VALORES ADJUNTOS SON REFERENCIALES)",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
   {
    "tipo": "POSIBLE",
    "motivos": [
@@ -401,6 +200,35 @@
    "desaparecida_iso": ""
   },
   {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Gasfitería, calefacción y aire acondicionado"
+   ],
+   "nueva": true,
+   "codigo": "2495-605-COT26",
+   "nombre": "REPARACIONES CASA PERSONA MAYOR",
+   "organismo": "I MUNICIPALIDAD DE COYHAIQUE",
+   "unidad": "DIRECCION DESARROLLO COMUNITARIO",
+   "monto": 280000,
+   "cierre_iso": "2026-10-31T15:00:00-03:00",
+   "publicacion": "30-10 10:44",
+   "publicacion_iso": "2026-10-30T10:44:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "72102304",
+     "Mantenimiento o reparación de sistemas de fontanería, gasfitería",
+     1,
+     "Reparaciones casa persona mayor: Incluye monomando eléctrico (grifería térmica para lavaplatos/lavamanos); Enchufe de fuerza (instalación modulo de fuerza 16A) y mano de obra (Desinstalación, cambio y habilitación de artefactos). La reparación incluye materiales y mano de obra."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=2495-605-COT26",
+   "sin_detalle": false,
+   "descripcion": "SE REQUIERE REALIZAR REPARACIONES SANITARIAS Y ELECTRICAS EN EL RECINTO DE LA CASA PERSONA MAYOR UBICADA EN CALLE CERRO LA PIRAMIDE N° 16156.",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
    "tipo": "POSIBLE",
    "motivos": [
     "eléctrico"
@@ -551,6 +379,222 @@
   {
    "tipo": "OPORTUNIDAD",
    "motivos": [
+    "Cables eléctricos y accesorios",
+    "Suministros y accesorios eléctricos"
+   ],
+   "nueva": true,
+   "codigo": "886182-248-COT26",
+   "nombre": "Materiales de oficina_segun fisabs 2350_Departamento Ciencias Naturales y Tecnología",
+   "organismo": "UNIVERSIDAD DE AYSEN",
+   "unidad": "Universidad de Aysen",
+   "monto": 1421958,
+   "cierre_iso": "2026-11-02T12:00:00-03:00",
+   "publicacion": "30-10 11:08",
+   "publicacion_iso": "2026-10-30T11:08:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "14111525",
+     "Papel multiuso",
+     4,
+     "\"NOTA POST-IT 3M ULTRA 654 DE DISTINTOS COLORES -\nSIMILAR MARCA POST-IT\""
+    ],
+    [
+     "14111525",
+     "Papel multiuso",
+     3,
+     "\"PACK BANDERITA POST-IT AZUL X 2 UNIDADES - SIMILAR\nMARCA POST-IT\""
+    ],
+    [
+     "14111525",
+     "Papel multiuso",
+     3,
+     "\"PACK BANDERITA POST-IT AMARILLO X 2 UNIDADES -\nSIMILAR MARCA POST-IT\""
+    ],
+    [
+     "14111525",
+     "Papel multiuso",
+     3,
+     "\"PACK BANDERITA POST-IT ROJO X 2 UNIDADES - SIMILAR\nMARCA POST-IT\""
+    ],
+    [
+     "14111525",
+     "Papel multiuso",
+     3,
+     "\"PACK BANDERITA POST-IT VERDE X 2 UNIDADES -\nSIMILAR MARCA POST-IT\""
+    ],
+    [
+     "26111706",
+     "Pilas electrónicas",
+     2,
+     "\"KIT CARGADOR DE PILAS ELECTRÓNICAS INCLUYE 2\nPILAS AAA Y 2 PILAS AA - SIMILAR MARCA PHILCO\""
+    ],
+    [
+     "26121620",
+     "Cable para interconexiones",
+     2,
+     "\"CABLE HDMI BLINDADO 4K - 2 MTS ( CM ) DE COLOR\nNEGRO - SIMILAR MARCA HP\""
+    ],
+    [
+     "27112401",
+     "Pistolas de grapas",
+     2,
+     "\"CORCHETERA A7 26/6 - 24/6 NEGRA PLASTICA (CM) -\nSIMILAR MARCA COLON\""
+    ],
+    [
+     "31162404",
+     "Grapas de ferretería",
+     3,
+     "\"CORCHETE 26/6 5000 UNID. ( CH ) ( CM ) - SIMILAR MARCA\nISOFIT\""
+    ],
+    [
+     "31201512",
+     "Cinta Transparente",
+     6,
+     "\"CINTA ADHESIVA 3M 18 X 25 Mts. ( CH ) TRANSPARENTE -\nSIMILAR MARCA SCOTCH\""
+    ],
+    [
+     "39121710",
+     "Receptáculo multiplicador eléctrico",
+     1,
+     "\"ALARGADOR MULTIPLE 4 ENCHUFES 1.5MTS COLOR\nNEGRO - SIMILAR MARCA PHILCO\""
+    ],
+    [
+     "39121710",
+     "Receptáculo multiplicador eléctrico",
+     2,
+     "\"ALARGADOR MULTIPLE 6 ENCHUFES 3MTS NEGRO XT-30 - SIMILAR MARCA PHILCO\""
+    ],
+    [
+     "44103105",
+     "Cartuchos de tinta",
+     72,
+     "\"CARTUCHO TINTA PARA PLUMON DE PIZARRA ROJO -\nSIMILAR MARCA PILOT\""
+    ],
+    [
+     "44103105",
+     "Cartuchos de tinta",
+     72,
+     "\"CARTUCHO TINTA PARA PLUMON DE PIZARRA NEGRO -\nSIMILAR MARCA PILOT\""
+    ],
+    [
+     "44103105",
+     "Cartuchos de tinta",
+     72,
+     "\"CARTUCHO TINTA PARA PLUMON DE PIZARRA AZUL -\nSIMILAR MARCA PILOT\""
+    ],
+    [
+     "44111801",
+     "Rotuladores",
+     2,
+     "\"KIT/ BLISTER DE PLUMONES 4 COLORES PERMANENTE -\nSIMILAR MARCA PROARTE\""
+    ],
+    [
+     "44111801",
+     "Rotuladores",
+     19,
+     "\"PLUMON DE PIZARRA CON CARTUCHO AZUL ( CH ) -\nSIMILAR MARCA PILOT\""
+    ],
+    [
+     "44111801",
+     "Rotuladores",
+     19,
+     "\"PLUMON DE PIZARRA CON CARTUCHO NEGRO ( CH ) -\nSIMILAR MARCA PILOT\""
+    ],
+    [
+     "44111801",
+     "Rotuladores",
+     19,
+     "\"PLUMON DE PIZARRA CON CARTUCHO ROJO ( CH ) -\nSIMILAR MARCA PILOT\""
+    ],
+    [
+     "44121506",
+     "Sobres estándar",
+     30,
+     "SOBRE SACO TAMAÑO OFICIO BLANCO GIGANT"
+    ],
+    [
+     "44121506",
+     "Sobres estándar",
+     30,
+     "SOBRE SACO REVISTA CARTA BLANCO OLIMPIA 80"
+    ],
+    [
+     "44121613",
+     "Saca corchetes",
+     2,
+     "\"SACACORCHETE NEGRO SC 100 ( CM ) - SIMILAR MARCA\nISOFIT\""
+    ],
+    [
+     "44121716",
+     "Rotuladores",
+     1,
+     "\"PACK DE DESTACADORES SIMILAR A STABILO BOSS\nFLUOR 8 UNIDADES DE DISTINTOS COLORES\""
+    ],
+    [
+     "44122104",
+     "Clips para papel",
+     4,
+     "\"CAJA DE CLIPS METALICOS 78 mm - 50 UNIDADES PROX -\nSIMILAR MARCA ISOFIT\""
+    ],
+    [
+     "44122104",
+     "Clips para papel",
+     2,
+     "\"CAJA DE CLIPS METALICOS 28 mm 100 UNIDADES PROX -\nSIMILAR MARCA ISOFIT\""
+    ],
+    [
+     "45101802",
+     "Máquinas cortadoras para libros",
+     3,
+     "\"CUCHILLO CARTONERO GRANDE 18MM ANTIDESLIZANTE\nRETRACTIL C/SEGURO ( CM ) - SIMILAR MARCA TORRE\""
+    ],
+    [
+     "45101802",
+     "Máquinas cortadoras para libros",
+     3,
+     "\"PACK REPUESTO CUCHILLO CARTONERO 18MM x 10\nUNIDADES ( CM ) - SIMILAR MARCA TORRE\""
+    ],
+    [
+     "60101732",
+     "Apuntadores o punteros",
+     4,
+     "\"PUNTERO LÁSER / PRESENTADOR INALAMBRICO LASER\nSS10 C/PILA AAA - SIMILAR MARCA HP\""
+    ],
+    [
+     "60121109",
+     "Blocs de dibujo",
+     4,
+     "\"Bloc Grande / Papel Papelógrafo 650MM X 800 MM 30 HOJAS\n- SIMILAR MARCA RHEIN - De preferencia estás medidas:\n65cm X 80cm, sino 63.5cm X 77cm.\""
+    ],
+    [
+     "60121524",
+     "Bolígrafos de gel",
+     32,
+     "\"LAPIZ TINTA V-BALL GRIP 1.0 COLOR ROJO - SIMILAR\nMARCA PILOT\""
+    ],
+    [
+     "60121524",
+     "Bolígrafos de gel",
+     32,
+     "\"LAPIZ TINTA V-BALL GRIP 1.0 COLOR NEGRO - SIMILAR\nMARCA PILOT\""
+    ],
+    [
+     "60121524",
+     "Bolígrafos de gel",
+     32,
+     "\"LAPIZ TINTA V-BALL GRIP 1.0 COLOR AZUL - SIMILAR\nMARCA PILOT\""
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=886182-248-COT26",
+   "sin_detalle": false,
+   "descripcion": "Se requiere cotizar el insumo descrito en el presente formulario. Cotización debe indicar la especificación técnica de lo ofertado y el plazo de entrega en días corridos, considerando la entrega de los productos en dependencias de la Uaysen y no en la empresa de transportes. El valor ofertado debe incluir impuestos y flete. Se podrá privilegiar el menor plazo ofertado que cumpla con lo especificado. Cotización debe indicar datos de contacto del oferente.",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
     "Conectores, enchufes y terminales"
    ],
    "nueva": false,
@@ -574,6 +618,47 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=1233615-886-COT26",
    "sin_detalle": false,
    "descripcion": "Se requiere la adquisición de Router y Faceplate para Liceo Altos del Mackay, el proveedor deberá contemplar despacho al establecimiento educacional ubicado en Km3, Sector El Claro, Coyhaique",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Cables eléctricos y accesorios"
+   ],
+   "nueva": true,
+   "codigo": "734-201-COT26",
+   "nombre": "ADQUISICIÓN TELEVISOR SMART TV, SOPORTE Y CABLE HDMI",
+   "organismo": "SERVICIO DE SALUD AYSEN CARLOS IBANEZ DEL CAMPO",
+   "unidad": "DIRECCION",
+   "monto": 450000,
+   "cierre_iso": "2026-11-02T16:00:00-03:00",
+   "publicacion": "30-10 11:55",
+   "publicacion_iso": "2026-10-30T11:55:00-03:00",
+   "ofertas": 1,
+   "productos": [
+    [
+     "26121604",
+     "Cable para señales",
+     1,
+     "01 Cable HDMI, longitud 10 metros, conectores HDMI en ambos extremos, compatibilidad con resolución 4K UHD, capacidad de transmisión de audio y video digital, compatibilidad con la conexión entre un computador u otro dispositivo con salida HDMI y el televisor ofertado. Todos los componentes deben ser nuevos, sin uso y en perfecto estado. Se debe garantizar la compatibilidad entre todos los bienes. Revisar y cumplir con Especificaciones Técnicas adjuntas."
+    ],
+    [
+     "45111802",
+     "Soportes de televisión",
+     1,
+     "01 Soporte Mural Articulado compatible con televisor de 55 pulgadas, capacidad de carga de al menos 35 kg, giro horizontal de hasta 90° e inclinación de hasta 15°, diseño articulado, compatibilidad con el patrón de montaje VESA del televisor, inclusión de elementos de fijación y accesorios necesarios para su instalación. Revisar y cumplir con Especificaciones Técnicas adjuntas."
+    ],
+    [
+     "52161505",
+     "Televisores convencionales, de plasma y LCD",
+     1,
+     "Smart TV de 55 pulgadas, resolución 4K UHD, equivalente a 3840x2160, tecnología de pantalla Mini LED, QNED o UHD LED/LCD, sistema operativo para acceder a aplicaciones y servicios digitales, conectividad inalámbrica Wi-Fi integrada, mínimo 3 puertos HDMI y 1 puerto USB, funciones de inteligencia artificial integradas, asistente virtual, control remoto inteligente, compatibilidad con computadores y otros dispositivos, inclusión de cable de alimentación y accesorios necesarios. Cumplir con EETT."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=734-201-COT26",
+   "sin_detalle": false,
+   "descripcion": "Se solicita 01 Televisor Smart TV de 55 pulgadas, resolución 4K UHD, con tecnología de pantalla mini LED, QNED o UHD que incluya soporte mural articulado compatible y cable HDMI de 10 metros compatible con resolución 4K UHD. Se evaluará precio, especificaciones técnicas y plazo de entrega. Los bienes deben entregarse nuevos, completos, correctamente embalados y sin daños visibles, incluir accesorios. Revisar y cumplir con lo indicado en Especificaciones Técnicas adjuntas.",
    "en_gracia": false,
    "desaparecida_iso": ""
   },
@@ -806,6 +891,37 @@
   {
    "tipo": "POSIBLE",
    "motivos": [
+    "eléctrico",
+    "generador",
+    "generador eléctrico"
+   ],
+   "nueva": true,
+   "codigo": "1281188-19-COT26",
+   "nombre": "Generador Eléctrico Diésel Uso Continuo 17kVa ",
+   "organismo": "DELEGACIÓN PRESIDENCIAL PROVINCIAL DE CAPITÁN PRAT",
+   "unidad": "Pasos Fronterizos Provincial de Capitán Prat",
+   "monto": 7200000,
+   "cierre_iso": "2026-11-05T07:30:00-03:00",
+   "publicacion": "30-10 10:10",
+   "publicacion_iso": "2026-10-30T10:10:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "26111601",
+     "Generadores diesel",
+     1,
+     "Generador Eléctrico Diésel Uso Continuo 17kVa igual o similar a marca Kipor, según especificaciones técnicas requeridas en archivo adjunto a compra ágil, en donde, los oferentes deberán adjuntar firmada a su oferta."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1281188-19-COT26",
+   "sin_detalle": false,
+   "descripcion": "Generador Electrico Diesel Uso Continuo 17kVa según especificaciones técnicas, requeridas en anexo adjunto a compra ágil, a su vez los oferentes deberán adjuntar en su oferta anexo firmado.",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
     "grupo electrógeno"
    ],
    "nueva": true,
@@ -863,6 +979,98 @@
   }
  ],
  "historial": [
+  {
+   "codigo": "4778-343-COT26",
+   "nombre": "VEM-IMANES Y ESPEJOS DE BOLSILLO. MATERIAL PROMOCIONAL",
+   "organismo": "SERVICIO NACIONAL DE SALUD HOSPITAL DE C",
+   "monto": 98175,
+   "cierre_iso": "2026-10-30T12:32:00-03:00",
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Materiales de física de electricidad"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=4778-343-COT26",
+   "primera_vista_iso": "2026-10-28T13:11:01-03:00",
+   "removida_iso": "2026-10-30T13:05:28-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
+  {
+   "codigo": "1173433-21-COT26",
+   "nombre": "ADQUISICIÓN DE MAQUINARIA Y EQUIPAMIENTO AGRÍCOLA",
+   "organismo": "Centro de Educación y Trabajo Valle Verde",
+   "monto": 5638655,
+   "cierre_iso": "2026-10-30T11:00:00-03:00",
+   "tipo": "POSIBLE",
+   "motivos": [
+    "certificación sec",
+    "eléctrico"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1173433-21-COT26",
+   "primera_vista_iso": "2026-10-27T17:10:04-03:00",
+   "removida_iso": "2026-10-30T13:05:28-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
+  {
+   "codigo": "1078779-24-COT26",
+   "nombre": "EQUIPO DE AIRE ACONDICIONADO",
+   "organismo": "SERVICIO DE SALUD AYSEN CARLOS IBANEZ DEL CAMPO",
+   "monto": 303990,
+   "cierre_iso": "2026-10-30T10:00:00-03:00",
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Enfriamiento (aires acondicionados)"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1078779-24-COT26",
+   "primera_vista_iso": "2026-10-27T12:27:37-03:00",
+   "removida_iso": "2026-10-30T13:05:28-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
+  {
+   "codigo": "1107283-179-COT26",
+   "nombre": "INSUMOS CERCO ELÉCTRICO",
+   "organismo": "INSTITUTO DE INVESTIGACIONES AGROPECUARIAS",
+   "monto": 3000000,
+   "cierre_iso": "2026-10-30T10:00:00-03:00",
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Cajas y accesorios eléctricos"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1107283-179-COT26",
+   "primera_vista_iso": "2026-10-28T18:12:20-03:00",
+   "removida_iso": "2026-10-30T13:05:28-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
+  {
+   "codigo": "3765-311-COT26",
+   "nombre": " SE SOLICITA CONTRATACION DE UN INSTALADOR ELECTRICO - FACTIBILIDAD TE1 CASA SENDA ",
+   "organismo": "SERVICIO NACIONAL DE SALUD HOSPITAL DE C",
+   "monto": 2000000,
+   "cierre_iso": "2026-10-30T03:21:00-03:00",
+   "tipo": "POSIBLE",
+   "motivos": [
+    "eléctrico",
+    "te1"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=3765-311-COT26",
+   "primera_vista_iso": "2026-10-26T16:26:03-03:00",
+   "removida_iso": "2026-10-30T13:05:28-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
   {
    "codigo": "1057062-462-COT26",
    "nombre": "Equipamientos Tecnológicos Proyecto URY 20991 y FIU Territorios",
@@ -1260,78 +1468,6 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=711-194-COT26",
    "primera_vista_iso": "2026-10-11T21:06:47-03:00",
    "removida_iso": "2026-10-24T16:35:55-03:00",
-   "estado_api": "",
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "418-1649-COT26",
-   "nombre": "LRG - INSUMOS PARA REPOSICION DE STOC EN BODEGA",
-   "organismo": "SERVICIO NACIONAL DE SALUD HOSPITAL DE PUERTO AYSEN",
-   "monto": 500000,
-   "cierre_iso": "2026-10-23T10:45:00-03:00",
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Conectores, enchufes y terminales"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=418-1649-COT26",
-   "primera_vista_iso": "2026-10-22T11:01:40-03:00",
-   "removida_iso": "2026-10-23T11:19:19-03:00",
-   "estado_api": "",
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "3765-309-COT26",
-   "nombre": "Adquisición sistema hidráulico de climatización y calefacción. ",
-   "organismo": "SERVICIO NACIONAL DE SALUD HOSPITAL DE C",
-   "monto": 1000000,
-   "cierre_iso": "2026-10-23T09:00:00-03:00",
-   "tipo": "POSIBLE",
-   "motivos": [
-    "climatización"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=3765-309-COT26",
-   "primera_vista_iso": "2026-10-21T13:00:55-03:00",
-   "removida_iso": "2026-10-23T11:19:19-03:00",
-   "estado_api": "",
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "1233615-823-COT26",
-   "nombre": "DMH SOL-2026-01931] Recursos TICS para Escuela \"Litoral Austral\" de Puerto Aysén",
-   "organismo": "Servicio Local de Educación Pública Aysén",
-   "monto": 302470,
-   "cierre_iso": "2026-10-23T08:29:00-03:00",
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Conectores, enchufes y terminales"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1233615-823-COT26",
-   "primera_vista_iso": "2026-10-19T16:57:34-03:00",
-   "removida_iso": "2026-10-23T11:19:19-03:00",
-   "estado_api": "",
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "1274667-398-COT26",
-   "nombre": "SOLICITA SERVICIO DE INSTALACION DE CLIMATIZADOR EXISTENTE TIPO SPLIT PARA CENTRO DE SALUD FAMILIAR PUERTO AYSÉN",
-   "organismo": "CENTRO DE SALUD FAMILIAR PUERTO AYSÉN",
-   "monto": 250000,
-   "cierre_iso": "2026-10-23T01:02:00-03:00",
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Gasfitería, calefacción y aire acondicionado"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1274667-398-COT26",
-   "primera_vista_iso": "2026-10-19T16:06:33-03:00",
-   "removida_iso": "2026-10-23T11:19:19-03:00",
    "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,

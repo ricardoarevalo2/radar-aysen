@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-10-29T22:11:21.696972-03:00",
+ "actualizado": "2026-10-30T13:05:28.030877-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
- "total_region": 323,
+ "total_region": 296,
  "rubros": {
   "80141600": "Ventas y marketing",
   "82101600": "Publicidad en medios no impresos",
@@ -14,327 +14,6 @@
   "83121700": "Comunicación social y de masas"
  },
  "filas": [
-  {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Ventas y marketing"
-   ],
-   "nueva": false,
-   "codigo": "1057062-490-COT26",
-   "nombre": "Servicio de produccion de evento  \"Carnaval de los animales\" durante el mes de noviembre_segun fisabs 2343 programa orquesta",
-   "organismo": "UNIVERSIDAD DE AYSEN",
-   "unidad": "Proyectos",
-   "monto": 1500000,
-   "cierre_iso": "2026-10-30T08:00:00-03:00",
-   "publicacion": "28-10 12:57",
-   "publicacion_iso": "2026-10-28T12:57:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "80141607",
-     "Producción de eventos",
-     1,
-     "Se requiere servicio de producción para concierto: 14/11 concierto en gimnasio regional 19:00hrs. Arriendo de espacio para ensayo fechas: 10/11, 11/11, 12/11 según horario en EETT adjuntos. Traslado de instrumentos. Instalación de instrumentos. Traslado e instalación gráficas y atriles, instalación de sillas, Catering para equipo Orquesta. Revisar archivo adjunto EETT. Cotización debe indicar la especificación técnica de lo ofertado."
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1057062-490-COT26",
-   "sin_detalle": false,
-   "descripcion": "Se requiere servicio de producción para conciertos: 14/11 concierto en gimnasio regional 19:00hrs. Arriendo de espacio para ensayo fechas: 10/11, 11/11, 12/11 según horario en EETT adjuntos. Traslado de instrumentos. Instalación de instrumentos. Traslado e instalación gráficas y atriles, instalación de sillas, Catering para equipo Orquesta. Revisar archivo adjunto EETT. Cotización debe indicar la especificación técnica de lo ofertado.",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "aviso"
-   ],
-   "nueva": false,
-   "codigo": "886182-230-COT26",
-   "nombre": "Servicio de contrato de suministro traslados estudiantes Universidad de Aysén_FISABS 2284",
-   "organismo": "UNIVERSIDAD DE AYSEN",
-   "unidad": "Universidad de Aysen",
-   "monto": 5000000,
-   "cierre_iso": "2026-10-30T08:30:00-03:00",
-   "publicacion": "28-10 10:43",
-   "publicacion_iso": "2026-10-28T10:43:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "25101502",
-     "Autobuses",
-     10,
-     "CONVENIO DE SUMINISTRO Servicio de transporte terrestre Coyhaique - Ñirehuao - Coyhaique, previa confirmación (aviso 24 hrs), con capacidad de hasta 2 servicios simultáneos por día. Salidas martes a viernes (08:30-17:30 hrs). CAPACIDAD MÍNIMA: 7 pasajeros + chofer. según fechas tentativas adjuntas. Se confirma fecha previa notificación por el encargado del contrato a través de correo electrónico."
-    ],
-    [
-     "25101502",
-     "Autobuses",
-     5,
-     "CONVENIO DE SUMINISTRO Servicio de transporte terrestre Coyhaique - Balmaceda- Coyhaique, previa confirmación (aviso 24 hrs), con capacidad de hasta 2 servicios simultáneos por día. Salidas martes a viernes (08:30-17:30 hrs). CAPACIDAD MÍNIMA: 7 pasajeros + chofer. según fechas tentativas adjuntas. Se confirma fecha previa notificación por el encargado del contrato a través de correo electrónico."
-    ],
-    [
-     "25101502",
-     "Autobuses",
-     5,
-     "CONVENIO DE SUMINISTRO Servicio de transporte terrestre Coyhaique - Villa Ortega- Coyhaique, previa confirmación (aviso 24 hrs), con capacidad de hasta 2 servicios simultáneos por día. Salidas martes a viernes (08:30-17:30 hrs). CAPACIDAD MÍNIMA: 7 pasajeros + chofer. según fechas tentativas adjuntas. Se confirma fecha previa notificación por el encargado del contrato a través de correo electrónico."
-    ],
-    [
-     "25101502",
-     "Autobuses",
-     4,
-     "CONVENIO DE SUMINISTRO Servicio de transporte terrestre Coyhaique - Cerro Castillo - Coyhaique, previa confirmación (aviso 24 hrs), con capacidad de hasta 2 servicios simultáneos por día. Salidas martes a viernes (08:30-17:30 hrs). CAPACIDAD MÍNIMA: 7 pasajeros + chofer. según fechas tentativas adjuntas. Se confirma fecha previa notificación por el encargado del contrato a través de correo electrónico."
-    ],
-    [
-     "25101502",
-     "Autobuses",
-     1,
-     "CONVENIO DE SUMINISTRO Servicio de transporte terrestre Coyhaique - Villa Frei - Coyhaique, previa confirmación (aviso 24 hrs), con capacidad de hasta 2 servicios simultáneos por día. Salidas martes a viernes (08:30-17:30 hrs). CAPACIDAD MÍNIMA: 7 pasajeros + chofer. según fechas tentativas adjuntas. Se confirma fecha previa notificación por el encargado del contrato a través de correo electrónico."
-    ],
-    [
-     "25101502",
-     "Autobuses",
-     2,
-     "CONVENIO DE SUMINISTRO Servicio de transporte terrestre Coyhaique - Mañihuales - Coyhaique, previa confirmación (aviso 24 hrs), con capacidad de hasta 2 servicios simultáneos por día. Salidas martes a viernes (08:30-17:30 hrs). CAPACIDAD MÍNIMA: 7 pasajeros + chofer. según fechas tentativas adjuntas. Se confirma fecha previa notificación por el encargado del contrato a través de correo electrónico"
-    ],
-    [
-     "25101502",
-     "Autobuses",
-     5,
-     "CONVENIO DE SUMINISTRO Servicio de transporte terrestre Coyhaique - Valle Simpson - Coyhaique, previa confirmación (aviso 24 hrs), con capacidad de hasta 2 servicios simultáneos por día. Salidas martes a viernes (08:30-17:30 hrs). CAPACIDAD MÍNIMA: 7 pasajeros + chofer. según fechas tentativas adjuntas. Se confirma fecha previa notificación por el encargado del contrato a través de correo electrónico."
-    ],
-    [
-     "25101502",
-     "Autobuses",
-     5,
-     "CONVENIO DE SUMINISTRO Servicio de transporte terrestre Coyhaique - Lago Atravesado - Coyhaique, previa confirmación (aviso 24 hrs), con capacidad de hasta 2 servicios simultáneos por día. Salidas martes a viernes (08:30-17:30 hrs). CAPACIDAD MÍNIMA: 7 pasajeros + chofer. según fechas tentativas adjuntas. Se confirma fecha previa notificación por el encargado del contrato a través de correo electrónico."
-    ],
-    [
-     "25101502",
-     "Autobuses",
-     3,
-     "CONVENIO DE SUMINISTRO Servicio de transporte terrestre Coyhaique - El Blanco - Coyhaique, previa confirmación (aviso 24 hrs), con capacidad de hasta 2 servicios simultáneos por día. Salidas martes a viernes (08:30-17:30 hrs). CAPACIDAD MÍNIMA: 7 pasajeros + chofer. según fechas tentativas adjuntas. Se confirma fecha previa notificación por el encargado del contrato a través de correo electrónico."
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=886182-230-COT26",
-   "sin_detalle": false,
-   "descripcion": "Se requiere contrato de suministro para traslados de estudiantes y docentes a postas rurales en prácticas clínicas de Enfermería y Obstetricia (2do semestre 2026), según EETT adjuntas (ver). El servicio considera 9 tramos (Villa Ortega, Lago Atravesado, El Blanco, Ñirehuao, Valle Simpson, Balmaceda, Cerro Castillo, Mañihuales y Villa Frei). Cotización debe indicar especificación técnica de lo ofertado. El valor debe incluir chofer, combustible y seguros. Capacidad mín: 7 pasajeros + conductor.",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "radio"
-   ],
-   "nueva": false,
-   "codigo": "734-196-COT26",
-   "nombre": "Radio portátil de palma VHF modo análogo/digital.",
-   "organismo": "SERVICIO DE SALUD AYSEN CARLOS IBANEZ DEL CAMPO",
-   "unidad": "DIRECCION",
-   "monto": 487900,
-   "cierre_iso": "2026-10-30T09:00:00-03:00",
-   "publicacion": "28-10 16:31",
-   "publicacion_iso": "2026-10-28T16:31:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "43191510",
-     "Comunicaciones bilaterales por radio",
-     1,
-     "Radio portátil VHF\tRadio portátil de palma VHF modo análogo/digital.\nCantidad\t1.\nRango de frecuencia\t136 - 174 MHz.\nPotencia RF\t\nCapacidad de canales\t64.\nDuración de batería\tPMNN4598 Batería de Alta Capacidad.\nEstándares\tIP55.\nDebe incluir\tSer compatible con la red del Servicio de Salud Aysén.\nIncluir licencia lp Site Connect.\nREVISAR EETT"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=734-196-COT26",
-   "sin_detalle": false,
-   "descripcion": "Radio portátil VHF: Radio portátil de palma VHF modo análogo/digital.\nCantidad: 1.\nRango de frecuencia: 136 - 174 MHz.\nPotencia: RF\t\nCapacidad de canales: 64.\nDuración de batería:PMNN4598 Batería de Alta Capacidad.\nEstándares: IP55.\nDebe incluir:Ser compatible con la red del Servicio de Salud Aysén.\nIncluir licencia lp Site Connect.",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
-  {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Agencias de publicidad"
-   ],
-   "nueva": true,
-   "codigo": "1057062-489-COT26",
-   "nombre": "Servicio de publicidad digital: Dos campañas digitales OCUA 2026_segun fisabs 2336",
-   "organismo": "UNIVERSIDAD DE AYSEN",
-   "unidad": "Proyectos",
-   "monto": 1500000,
-   "cierre_iso": "2026-10-30T09:05:00-03:00",
-   "publicacion": "29-10 09:04",
-   "publicacion_iso": "2026-10-29T09:04:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "82101801",
-     "Campañas publicitarias",
-     1,
-     "la Orquesta de Cámara de la Universidad de Aysén (OCUA) requiere contratar un servicio de publicidad digital en Meta Business (Facebook e Instagram), con el objetivo de promocionar dos conciertos por medio de dos campañas. Las cotizaciones deberán entregar el detalle de TODO lo ofertado SEGUN LO SOLICITADO EN EETT, valorizando cada uno de los servicios solicitados en las EETT adjuntas. Se seleccionará la empresa que genera la mayor inversión efectiva en los medios solicitados."
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1057062-489-COT26",
-   "sin_detalle": false,
-   "descripcion": "Se solicita servicio de publicidad digital. Promocionar en redes sociales (Instagram y Facebook) dos conciertos de la Orquesta UAysén, uno es el Carnaval de los Animales (14/11) y el Concierto IX 17/12 en coyhaique y 18/12 en Puerto aysén. Entre residentes de ciertas localidades y ampliar su visibilidad. Descripción total en\nEspecificaciones Técnicas adjuntas.",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "fotografía"
-   ],
-   "nueva": false,
-   "codigo": "1746-253-COT26",
-   "nombre": "GRAFICAS TROVISEL (P 518 DSP)",
-   "organismo": "SUBSECRETARIA DE SALUD PUBLICA",
-   "unidad": "Seremi de Salud XI Región",
-   "monto": 1200000,
-   "cierre_iso": "2026-10-30T10:00:00-03:00",
-   "publicacion": "28-10 16:36",
-   "publicacion_iso": "2026-10-28T16:36:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "60106105",
-     "Materiales de enseñanza de artes gráficas o fotografía",
-     45,
-     "Gráfica en trovicel a color, notificación de enfermedades transmisibles DS N° 7, de acuerdo a especificaciones indicadas en el adjunto"
-    ],
-    [
-     "60106105",
-     "Materiales de enseñanza de artes gráficas o fotografía",
-     45,
-     "Gráfica en trovicel a color de algoritmo de sospecha de Hantavirus, de acuerdo a especificaciones indicadas en el adjunto."
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1746-253-COT26",
-   "sin_detalle": false,
-   "descripcion": "Solicitado mediante Pedido de Materiales N° 518 del Departamento de Salud Pública",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "radio"
-   ],
-   "nueva": false,
-   "codigo": "1208109-24-COT26",
-   "nombre": "Servicio de almuerzos y cenas para participantes del Encuentro Nacional de Participación",
-   "organismo": "SERVICIO NACIONAL DE PROTECCIÓN ESPECIALIZADA A LA NIÑEZ Y ADOLESCENCI",
-   "unidad": "DIRECCION REGIONAL AYSEN",
-   "monto": 370755,
-   "cierre_iso": "2026-10-30T10:00:00-03:00",
-   "publicacion": "26-10 17:09",
-   "publicacion_iso": "2026-10-26T17:09:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "90101501",
-     "Restaurantes",
-     12,
-     "12 almuerzos distribuidos desde el 04 al 06 de noviembre (4 almuerzos diarios)"
-    ],
-    [
-     "90101501",
-     "Restaurantes",
-     16,
-     "16 cenas distribuidas desde el 03 al 06 de noviembre (4 cenas diarias)"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1208109-24-COT26",
-   "sin_detalle": false,
-   "descripcion": "Se requiere el servicio de alimentación para 4 personas, el cual consiste en la entrega de almuerzos y cenas para los participantes del encuentro nacional de participación a desarrollarse los días 03 al 06 de noviembre. Este servicio debe prestarse con la entrega de la alimentación en restaurant ubicado en un radio intermedio entre el hotel Brasilia, ubicado en calle Santo Domingo N°2228 y la Biblioteca de Santiago ubicada en calle Avenida Matucana N°151",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
-  {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Fotógrafos y camarógrafos"
-   ],
-   "nueva": false,
-   "codigo": "2494-277-COT26",
-   "nombre": "BAP - Servicio de Taller de Fotografía , en el Marco del Plan de  Confianza Social del Barrio Arturo Prat - PROGRAMA RECUPERACIÓN DE BARRIOS",
-   "organismo": "I MUNICIPALIDAD DE COYHAIQUE",
-   "unidad": "SECRETARIA COMUNAL DE PLANIFICACION",
-   "monto": 400000,
-   "cierre_iso": "2026-10-30T11:00:00-03:00",
-   "publicacion": "27-10 17:13",
-   "publicacion_iso": "2026-10-27T17:13:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "82131604",
-     "Estudio fotográfico",
-     1,
-     "Se requiere contratar un servicio de taller de fotografía para 15 participantes, en el marco del Plan de Confianza Social del Barrio Arturo Prat, orientado al aprendizaje y desarrollo de habilidades creativas y comunicacionales a través de la fotografía, promoviendo además un espacio de encuentro, expresión personal y participación comunitaria. SE ADJUNTA LA DOCUMENTACIÓN \"TDR-TALLER-DE-FOTOGRAFIA.PDF\" CON LOS DETALLES DEL SERVICIO A SOLICITAR."
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=2494-277-COT26",
-   "sin_detalle": false,
-   "descripcion": "Se requiere contratar un servicio de taller de fotografía para 15 participantes, en el marco del Plan de \nConfianza Social del Barrio Arturo Prat, orientado al aprendizaje y desarrollo de habilidades creativas \ny comunicacionales a través de la fotografía, promoviendo además un espacio de encuentro, \nexpresión personal y participación comunitaria.",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "comunicacional"
-   ],
-   "nueva": false,
-   "codigo": "854-30-COT26",
-   "nombre": "Traslado de funcionarios/as a distintas localidades Jardin Infantil comunicacional",
-   "organismo": "JUNTA NACIONAL DE JARDINES         INFANTILES",
-   "unidad": "Junji - XI Región",
-   "monto": 6820000,
-   "cierre_iso": "2026-10-30T12:00:00-03:00",
-   "publicacion": "28-10 10:04",
-   "publicacion_iso": "2026-10-28T10:04:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "78111803",
-     "Servicios de autobuses contratados",
-     1,
-     "Traslado de funcionarios JUNJI a distintas localidades de la region, de acuerdo a calendario propuesto.\nRevisar especificaciones adjuntas"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=854-30-COT26",
-   "sin_detalle": false,
-   "descripcion": "Traslado de funcionarios del Jardin infantil comunicacional a distintas localidades, de acuerdo a las fechas indicadas.\nel oferente debe cumplir ocn los requisitos y adjuntar la documentación indicada en su propuesta.\nlas salidas se desarrollarán durante el mes de novembre y diciembre.",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "fotografía"
-   ],
-   "nueva": true,
-   "codigo": "2495-602-COT26",
-   "nombre": "cajonera plastica",
-   "organismo": "I MUNICIPALIDAD DE COYHAIQUE",
-   "unidad": "DIRECCION DESARROLLO COMUNITARIO",
-   "monto": 60000,
-   "cierre_iso": "2026-10-30T13:00:00-03:00",
-   "publicacion": "29-10 11:55",
-   "publicacion_iso": "2026-10-29T11:55:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "31261501",
-     "Cubiertas y cajas de plástico",
-     2,
-     "mueble plástico organizador con 3 cajones"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=2495-602-COT26",
-   "sin_detalle": false,
-   "descripcion": "se requiere la compra de dos cajoneras plásticas para almacenar artículos de oficina, se privilegiará proveedor de la comuna de Coyhaique con disponibilidad inmediata y disposición a cambios, presentar cotización con fotografía.",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
   {
    "tipo": "POSIBLE",
    "motivos": [
@@ -436,6 +115,113 @@
    "desaparecida_iso": ""
   },
   {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Fotógrafos y camarógrafos"
+   ],
+   "nueva": false,
+   "codigo": "2494-277-COT26",
+   "nombre": "BAP - Servicio de Taller de Fotografía , en el Marco del Plan de  Confianza Social del Barrio Arturo Prat - PROGRAMA RECUPERACIÓN DE BARRIOS",
+   "organismo": "I MUNICIPALIDAD DE COYHAIQUE",
+   "unidad": "SECRETARIA COMUNAL DE PLANIFICACION",
+   "monto": 400000,
+   "cierre_iso": "2026-11-02T04:46:00-03:00",
+   "publicacion": "27-10 17:13",
+   "publicacion_iso": "2026-10-27T17:13:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "82131604",
+     "Estudio fotográfico",
+     1,
+     "Se requiere contratar un servicio de taller de fotografía para 15 participantes, en el marco del Plan de Confianza Social del Barrio Arturo Prat, orientado al aprendizaje y desarrollo de habilidades creativas y comunicacionales a través de la fotografía, promoviendo además un espacio de encuentro, expresión personal y participación comunitaria. SE ADJUNTA LA DOCUMENTACIÓN \"TDR-TALLER-DE-FOTOGRAFIA.PDF\" CON LOS DETALLES DEL SERVICIO A SOLICITAR."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=2494-277-COT26",
+   "sin_detalle": false,
+   "descripcion": "Se requiere contratar un servicio de taller de fotografía para 15 participantes, en el marco del Plan de \nConfianza Social del Barrio Arturo Prat, orientado al aprendizaje y desarrollo de habilidades creativas \ny comunicacionales a través de la fotografía, promoviendo además un espacio de encuentro, \nexpresión personal y participación comunitaria.",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "difusion",
+    "radiales",
+    "redes sociales"
+   ],
+   "nueva": true,
+   "codigo": "4140-105-COT26",
+   "nombre": "DIFUSION DIGITAL PAR ALA PROMOCION DE LAS ACTIVIDAES PROYECTO \"NIÑEZ Y PATRIMONIO\"",
+   "organismo": "I MUNICIPALIDAD DE LAGO VERDE",
+   "unidad": "Adquisiciones",
+   "monto": 500000,
+   "cierre_iso": "2026-11-02T08:30:00-03:00",
+   "publicacion": "30-10 09:08",
+   "publicacion_iso": "2026-10-30T09:08:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "55101519",
+     "Publicaciones periódicas",
+     1,
+     "SE REQUIERE LA CONTRATACION DE 01 SERVICIO DE DIFUSION QUE CONTEMPLE 06 PUBLICACIONES DIGITALES, 02 ARTICULOS DEL PROYECTO EN SITIO WEB, 10 DIFUSIONES RADIALES O TELEVISIVA DIGITAL, 02 PUBLICACIONES DE LA CEREMONIA DE CIERRE, 01 PUBLICACION DE RESULTADO EN REDES SOCIALES. LAS OFERTAS NO DEBEN SUPERAR LA DISPONIBILIDAD INDICADA."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=4140-105-COT26",
+   "sin_detalle": false,
+   "descripcion": "SE REQUIERE LA CONTRATACION DE 01 SERVICIO DE DIFUSION QUE CONTEMPLE 06 PUBLICACIONES DIGITALES, 02 ARTICULOS DEL PROYECTO EN SITIO WEB, 10 DIFUSIONES RADIALES O TELEVISIVA DIGITAL, 02 PUBLICACIONES DE LA CEREMONIA DE CIERRE, 01 PUBLICACION DE RESULTADO EN REDES SOCIALES. LAS OFERTAS NO DEBEN SUPERAR LA DISPONIBILIDAD INDICADA.",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "televisión"
+   ],
+   "nueva": true,
+   "codigo": "734-199-COT26",
+   "nombre": "ADQUISICIÓN 04 SMART TV Y SOPORTES MURALES COMPATIBLES PARA COSAM COYHAIQUE",
+   "organismo": "SERVICIO DE SALUD AYSEN CARLOS IBANEZ DEL CAMPO",
+   "unidad": "DIRECCION",
+   "monto": 1270000,
+   "cierre_iso": "2026-11-02T11:00:00-03:00",
+   "publicacion": "30-10 10:06",
+   "publicacion_iso": "2026-10-30T10:06:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "45111802",
+     "Soportes de televisión",
+     3,
+     "3 Soportes compatibles con televisores de 32 pulgadas, compatibilidad con patrón de montaje VESA y peso de cada televisor ofertado, capacidad de carga certificada o declarada por el fabricante, con margen de seguridad para el equipo asociado, estructura metálica, tornillos y elementos de fijación incluidos, se aceptan soportes fijos inclinables, adecuados para su uso seguro en muro. Revisar y cumplir con Especificaciones Técnicas adjuntas."
+    ],
+    [
+     "45111802",
+     "Soportes de televisión",
+     1,
+     "1 Soporte compatible con televisor de 55 pulgadas, compatibilidad con patrón de montaje VESA y peso de cada televisor ofertado, capacidad de carga certificada o declarada por el fabricante, con margen de seguridad para el equipo asociado, estructura metálica, tornillos y elementos de fijación incluidos, se aceptan soportes fijos inclinables, adecuados para su uso seguro en muro. Revisar y cumplir con Especificaciones Técnicas adjuntas."
+    ],
+    [
+     "52161505",
+     "Televisores convencionales, de plasma y LCD",
+     3,
+     "03 Smart TV de 32 pulgadas, pantalla LED, QLED o tecnología equivalente, resolución mínima Full HD (1920x1080), para lectura de textos y presentaciones, sistema Smart TV vigente, con conexión Wi-Fi, conectividad mínima: 2 entradas HDMI, 1 puerto USB y conexión inalámbrica Wi-Fi, bluetooth incorporado, frecuencia de imagen mínima de 60 Hz o equivalente, funciones de duplicación/transmisión de pantalla, control remoto, cable de alimentación y accesorios de fábrica incluidos. Revisar EETT adjuntas."
+    ],
+    [
+     "52161505",
+     "Televisores convencionales, de plasma y LCD",
+     1,
+     "01 Smart TV de 55 pulgadas, resolución mínima 4K UHD (3840x2160), con compatibilidad HDR10 o tecnología equivalente, sistema Smart TV vigente, con actualizaciones de software del fabricante, conectividad mínima: 3 entradas HDMI, 1 puerto USB, Wi-Fi y Bluetooth, frecuencia de imagen mínima de 60 Hz o equivalente, funciones de duplicación/transmisión de pantalla, control remoto, cable de alimentación y accesorios de fábrica incluidos. Revisar y cumplir con Especificaciones Técnicas adjuntas."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=734-199-COT26",
+   "sin_detalle": false,
+   "descripcion": "Se solicita la adquisición de 03 Smart TV de 32 pulgadas y 01 Smart TV de 55 pulgadas, con sus respectivos soportes murales compatibles para COSAM Coyhaique. Se evaluará precio y plazo de entrega según documento adjunto. Se debe revisar y cumplir con lo indicado en Especificaciones Técnicas. Equipos nuevos, sin uso, de fabricación y comercialización vigentes, garantía mínima 12 meses, se debe indicar marca, modelo y ficha técnica, acreditando el cumplimiento de las características solicitadas.",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
    "tipo": "POSIBLE",
    "motivos": [
     "difusión"
@@ -467,6 +253,47 @@
   {
    "tipo": "POSIBLE",
    "motivos": [
+    "televisión"
+   ],
+   "nueva": true,
+   "codigo": "734-201-COT26",
+   "nombre": "ADQUISICIÓN TELEVISOR SMART TV, SOPORTE Y CABLE HDMI",
+   "organismo": "SERVICIO DE SALUD AYSEN CARLOS IBANEZ DEL CAMPO",
+   "unidad": "DIRECCION",
+   "monto": 450000,
+   "cierre_iso": "2026-11-02T16:00:00-03:00",
+   "publicacion": "30-10 11:55",
+   "publicacion_iso": "2026-10-30T11:55:00-03:00",
+   "ofertas": 1,
+   "productos": [
+    [
+     "26121604",
+     "Cable para señales",
+     1,
+     "01 Cable HDMI, longitud 10 metros, conectores HDMI en ambos extremos, compatibilidad con resolución 4K UHD, capacidad de transmisión de audio y video digital, compatibilidad con la conexión entre un computador u otro dispositivo con salida HDMI y el televisor ofertado. Todos los componentes deben ser nuevos, sin uso y en perfecto estado. Se debe garantizar la compatibilidad entre todos los bienes. Revisar y cumplir con Especificaciones Técnicas adjuntas."
+    ],
+    [
+     "45111802",
+     "Soportes de televisión",
+     1,
+     "01 Soporte Mural Articulado compatible con televisor de 55 pulgadas, capacidad de carga de al menos 35 kg, giro horizontal de hasta 90° e inclinación de hasta 15°, diseño articulado, compatibilidad con el patrón de montaje VESA del televisor, inclusión de elementos de fijación y accesorios necesarios para su instalación. Revisar y cumplir con Especificaciones Técnicas adjuntas."
+    ],
+    [
+     "52161505",
+     "Televisores convencionales, de plasma y LCD",
+     1,
+     "Smart TV de 55 pulgadas, resolución 4K UHD, equivalente a 3840x2160, tecnología de pantalla Mini LED, QNED o UHD LED/LCD, sistema operativo para acceder a aplicaciones y servicios digitales, conectividad inalámbrica Wi-Fi integrada, mínimo 3 puertos HDMI y 1 puerto USB, funciones de inteligencia artificial integradas, asistente virtual, control remoto inteligente, compatibilidad con computadores y otros dispositivos, inclusión de cable de alimentación y accesorios necesarios. Cumplir con EETT."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=734-201-COT26",
+   "sin_detalle": false,
+   "descripcion": "Se solicita 01 Televisor Smart TV de 55 pulgadas, resolución 4K UHD, con tecnología de pantalla mini LED, QNED o UHD que incluya soporte mural articulado compatible y cable HDMI de 10 metros compatible con resolución 4K UHD. Se evaluará precio, especificaciones técnicas y plazo de entrega. Los bienes deben entregarse nuevos, completos, correctamente embalados y sin daños visibles, incluir accesorios. Revisar y cumplir con lo indicado en Especificaciones Técnicas adjuntas.",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
     "difusion"
    ],
    "nueva": true,
@@ -490,6 +317,41 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=4066-449-COT26",
    "sin_detalle": false,
    "descripcion": "se requiere contratar el servicio de fotografias y videos promocionales de la comuna de rio ibañez, bajo el  componente de comunicacion y difusion del programa transferencia de fortalecimiento productivo para la comuna de rio ibañez codido bip-40066883-0, segun terminos de referencia adjuntos",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "radio"
+   ],
+   "nueva": false,
+   "codigo": "1208109-24-COT26",
+   "nombre": "Servicio de almuerzos y cenas para participantes del Encuentro Nacional de Participación",
+   "organismo": "SERVICIO NACIONAL DE PROTECCIÓN ESPECIALIZADA A LA NIÑEZ Y ADOLESCENCI",
+   "unidad": "DIRECCION REGIONAL AYSEN",
+   "monto": 370755,
+   "cierre_iso": "2026-11-03T02:50:00-03:00",
+   "publicacion": "26-10 17:09",
+   "publicacion_iso": "2026-10-26T17:09:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "90101501",
+     "Restaurantes",
+     12,
+     "12 almuerzos distribuidos desde el 04 al 06 de noviembre (4 almuerzos diarios)"
+    ],
+    [
+     "90101501",
+     "Restaurantes",
+     16,
+     "16 cenas distribuidas desde el 03 al 06 de noviembre (4 cenas diarias)"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1208109-24-COT26",
+   "sin_detalle": false,
+   "descripcion": "Se requiere el servicio de alimentación para 4 personas, el cual consiste en la entrega de almuerzos y cenas para los participantes del encuentro nacional de participación a desarrollarse los días 03 al 06 de noviembre. Este servicio debe prestarse con la entrega de la alimentación en restaurant ubicado en un radio intermedio entre el hotel Brasilia, ubicado en calle Santo Domingo N°2228 y la Biblioteca de Santiago ubicada en calle Avenida Matucana N°151",
    "en_gracia": false,
    "desaparecida_iso": ""
   },
@@ -585,6 +447,132 @@
   }
  ],
  "historial": [
+  {
+   "codigo": "2495-602-COT26",
+   "nombre": "cajonera plastica",
+   "organismo": "I MUNICIPALIDAD DE COYHAIQUE",
+   "monto": 60000,
+   "cierre_iso": "2026-10-30T13:00:00-03:00",
+   "tipo": "POSIBLE",
+   "motivos": [
+    "fotografía"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=2495-602-COT26",
+   "primera_vista_iso": "2026-10-29T13:17:18-03:00",
+   "removida_iso": "2026-10-30T13:05:28-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
+  {
+   "codigo": "854-30-COT26",
+   "nombre": "Traslado de funcionarios/as a distintas localidades Jardin Infantil comunicacional",
+   "organismo": "JUNTA NACIONAL DE JARDINES         INFANTILES",
+   "monto": 6820000,
+   "cierre_iso": "2026-10-30T12:00:00-03:00",
+   "tipo": "POSIBLE",
+   "motivos": [
+    "comunicacional"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=854-30-COT26",
+   "primera_vista_iso": "2026-10-28T13:11:01-03:00",
+   "removida_iso": "2026-10-30T13:05:28-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
+  {
+   "codigo": "1746-253-COT26",
+   "nombre": "GRAFICAS TROVISEL (P 518 DSP)",
+   "organismo": "SUBSECRETARIA DE SALUD PUBLICA",
+   "monto": 1200000,
+   "cierre_iso": "2026-10-30T10:00:00-03:00",
+   "tipo": "POSIBLE",
+   "motivos": [
+    "fotografía"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1746-253-COT26",
+   "primera_vista_iso": "2026-10-28T18:12:20-03:00",
+   "removida_iso": "2026-10-30T13:05:28-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
+  {
+   "codigo": "1057062-489-COT26",
+   "nombre": "Servicio de publicidad digital: Dos campañas digitales OCUA 2026_segun fisabs 2336",
+   "organismo": "UNIVERSIDAD DE AYSEN",
+   "monto": 1500000,
+   "cierre_iso": "2026-10-30T09:05:00-03:00",
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Agencias de publicidad"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1057062-489-COT26",
+   "primera_vista_iso": "2026-10-29T13:17:18-03:00",
+   "removida_iso": "2026-10-30T13:05:28-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
+  {
+   "codigo": "734-196-COT26",
+   "nombre": "Radio portátil de palma VHF modo análogo/digital.",
+   "organismo": "SERVICIO DE SALUD AYSEN CARLOS IBANEZ DEL CAMPO",
+   "monto": 487900,
+   "cierre_iso": "2026-10-30T09:00:00-03:00",
+   "tipo": "POSIBLE",
+   "motivos": [
+    "radio"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=734-196-COT26",
+   "primera_vista_iso": "2026-10-28T18:12:20-03:00",
+   "removida_iso": "2026-10-30T13:05:28-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
+  {
+   "codigo": "886182-230-COT26",
+   "nombre": "Servicio de contrato de suministro traslados estudiantes Universidad de Aysén_FISABS 2284",
+   "organismo": "UNIVERSIDAD DE AYSEN",
+   "monto": 5000000,
+   "cierre_iso": "2026-10-30T08:30:00-03:00",
+   "tipo": "POSIBLE",
+   "motivos": [
+    "aviso"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=886182-230-COT26",
+   "primera_vista_iso": "2026-10-28T13:11:01-03:00",
+   "removida_iso": "2026-10-30T13:05:28-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
+  {
+   "codigo": "1057062-490-COT26",
+   "nombre": "Servicio de produccion de evento  \"Carnaval de los animales\" durante el mes de noviembre_segun fisabs 2343 programa orquesta",
+   "organismo": "UNIVERSIDAD DE AYSEN",
+   "monto": 1500000,
+   "cierre_iso": "2026-10-30T08:00:00-03:00",
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Ventas y marketing"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1057062-490-COT26",
+   "primera_vista_iso": "2026-10-28T13:11:01-03:00",
+   "removida_iso": "2026-10-30T13:05:28-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
   {
    "codigo": "2495-584-COT26",
    "nombre": "ADQUISICIÓN DE MATERIALES PARA LA DIFUSIÓN DEL PROGRAMA SENDA PREVIENE 2026 ",
@@ -1174,96 +1162,6 @@
    "primera_vista_iso": "2026-10-22T14:53:55-03:00",
    "removida_iso": "2026-10-23T15:31:59-03:00",
    "estado_api": null,
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "1233615-840-COT26",
-   "nombre": "TRM/SOL 2068 COMPONENTES AUDIO LICEO BICENTENARIO ARTURO PRAT CHACON",
-   "organismo": "Servicio Local de Educación Pública Aysén",
-   "monto": 1599998,
-   "cierre_iso": "2026-10-23T12:00:00-03:00",
-   "tipo": "POSIBLE",
-   "motivos": [
-    "audiovisual"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1233615-840-COT26",
-   "primera_vista_iso": "2026-10-22T10:13:15-03:00",
-   "removida_iso": "2026-10-23T15:31:59-03:00",
-   "estado_api": "",
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "4140-93-COT26",
-   "nombre": "IMPLEMENTOS PARA RADIO LAGO VERDE, CON FONDOS DE MEDIOS",
-   "organismo": "I MUNICIPALIDAD DE LAGO VERDE",
-   "monto": 693960,
-   "cierre_iso": "2026-10-23T12:00:00-03:00",
-   "tipo": "POSIBLE",
-   "motivos": [
-    "radio"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=4140-93-COT26",
-   "primera_vista_iso": "2026-10-22T11:59:22-03:00",
-   "removida_iso": "2026-10-23T15:31:59-03:00",
-   "estado_api": null,
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "3431-118-COT26",
-   "nombre": "F-I Solicitud de cotización para la adquisición de refrigerador que será utilizado en el casino de suboficiales de esta unidad.",
-   "organismo": "Ejercito de Chile",
-   "monto": 700000,
-   "cierre_iso": "2026-10-23T11:00:00-03:00",
-   "tipo": "POSIBLE",
-   "motivos": [
-    "fotografía"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=3431-118-COT26",
-   "primera_vista_iso": "2026-10-20T12:57:59-03:00",
-   "removida_iso": "2026-10-23T11:19:19-03:00",
-   "estado_api": "",
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "4733-410-COT26",
-   "nombre": "CAPSULAS DE RADIALES",
-   "organismo": "I MUNICIPALIDAD DE LAS GUAITECAS",
-   "monto": 150000,
-   "cierre_iso": "2026-10-23T09:03:00-03:00",
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Fotógrafos y camarógrafos"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=4733-410-COT26",
-   "primera_vista_iso": "2026-10-19T16:06:33-03:00",
-   "removida_iso": "2026-10-23T11:19:19-03:00",
-   "estado_api": "",
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "828-49-COT26",
-   "nombre": "Adquisición limpiador de piso vinilico ",
-   "organismo": "MINISTERIO DE OBRAS PUBLICAS DIREC CION GRAL DE OO PP DCYF",
-   "monto": 30000,
-   "cierre_iso": "2026-10-23T02:47:00-03:00",
-   "tipo": "POSIBLE",
-   "motivos": [
-    "fotografía"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=828-49-COT26",
-   "primera_vista_iso": "2026-10-15T17:55:27-03:00",
-   "removida_iso": "2026-10-23T11:19:19-03:00",
-   "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,
    "adj_iso": null
