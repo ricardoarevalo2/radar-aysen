@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-10-30T13:05:28.030877-03:00",
+ "actualizado": "2026-10-30T17:56:18.094278-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
- "total_region": 296,
+ "total_region": 266,
  "rubros": {
   "25172700": "Aire acondicionado",
   "25173900": "Componentes eléctricos",
@@ -19,99 +19,6 @@
   "39121400": "Conectores, enchufes y terminales"
  },
  "filas": [
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "luminaria"
-   ],
-   "nueva": false,
-   "codigo": "2042-372-COT26",
-   "nombre": "ADQUISICION  DE  FOCOS  LED .",
-   "organismo": "I MUNICIPALIDAD DE TORTEL",
-   "unidad": "Ilustre Municipalidad de Tortel",
-   "monto": 1035300,
-   "cierre_iso": "2026-10-30T13:30:00-03:00",
-   "publicacion": "22-10 16:13",
-   "publicacion_iso": "2026-10-22T16:13:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "39101608",
-     "Focos cialiticos",
-     10,
-     "FOCOS  LED  DE   100 WATTS  IP65   .-"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=2042-372-COT26",
-   "sin_detalle": false,
-   "descripcion": "ADQUISICION DE  FOCOS  PROYECTORES  LED  DE   100  WATTS   ,  DESTINADOS  A  LA  REPÓSICION  DE  LA   LUMINARIA,  DE   LA   PLANTA  DE  TRATAMIENTO  DE  AGUAS  SERVIDAS  DE  LA  COMUNA . DICHAS   LUNINARIAS  DEBEN  CUMPLIAR  CON  LAS  ESPECIFICACIONES  QUE  SE  SOLICITAN   EN  ANEXO  ADJUNTO   .- SE   SOLICITA  ADJUNTAR   COTIZACION  ESTABLECIENDO   PLAZO  Y  LUGAR  DE  ENTREGA   .-",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "alargador"
-   ],
-   "nueva": true,
-   "codigo": "418-1740-COT26",
-   "nombre": "CO-ALARGADOR VENOSO CONEXION MACHO/HEMBRA 10 CM UD./ALARGADOR VENOSO 15 CM C/LLAVE 3 PASOS",
-   "organismo": "SERVICIO NACIONAL DE SALUD HOSPITAL DE PUERTO AYSEN",
-   "unidad": "H Puerto Aysén",
-   "monto": 1,
-   "cierre_iso": "2026-10-30T15:50:00-03:00",
-   "publicacion": "29-10 15:47",
-   "publicacion_iso": "2026-10-29T15:47:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "30201901",
-     "Unidades médicas",
-     1000,
-     "ALARGADOR VENOSO 15 CM C/LLAVE 3 PASOS"
-    ],
-    [
-     "30201901",
-     "Unidades médicas",
-     300,
-     "ALARGADOR VENOSO CONEXION MACHO/HEMBRA 10 CM UD."
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=418-1740-COT26",
-   "sin_detalle": false,
-   "descripcion": "*COTIZACIÓN DEBE TENER UNA VIGENCIA DE AL MENOS 30 DÍAS. \n*COTIZACIÓN DEBE INCLUIR FLETE. \n*COTIZACIÓN DEBE INCLUIR DATOS BANCARIOS. \n*DEBE INCLUIR FICHA TÉCNICA. \n*DEBE INCLUIR COTIZACIÓN. \n*DEBE OFERTAR POR LA TOTALIDAD DE PRODUCTOS.\n*ADJUNTAR TELEFONO Y/O CORREO PARA REALIZAR SEGUIMIENTO.\n*EL DOCUMENTO DE DESPACHO (FACTURA O GUIA DE DESPACHO) DEBE CONTENER NUMERO DE LOTE Y FECHA DE VENCIMIENTO PARA CUMPLIR CON NORMA TECNICA N° 226.",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "grupo electrógeno"
-   ],
-   "nueva": true,
-   "codigo": "613-34-COT26",
-   "nombre": "Servicio de mantención y reparación del grupo electrógeno y sistema de transferencia automática",
-   "organismo": "Ministerio de Vivienda y Urbanismo",
-   "unidad": "SEREMI MINVU XI REGION",
-   "monto": 7000000,
-   "cierre_iso": "2026-10-30T16:00:00-03:00",
-   "publicacion": "29-10 15:11",
-   "publicacion_iso": "2026-10-29T15:11:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "25202004",
-     "Sistemas de grupo electrógeno de pista (APU)",
-     1,
-     "1. Grupo electrógeno: Mantención mecánica preventiva y correctiva del PROTELEC LGXI-33 kVA; cambio total de aceite de especificación compatible con fabricante; cambio de filtros de aceite, combustible y aire; revisión y reposición de refrigerante con protección anticongelante/anticorrosiva; inspección de conexiones, sensores, protecciones y sistema de arranque.\n2. Controlador: Suministro, reemplazo, configuración y calibración de la tarjeta controladora defectuosa por módulo digital compatible,"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=613-34-COT26",
-   "sin_detalle": false,
-   "descripcion": "La SECRETARÍA REGIONAL MINISTERIAL DE VIVIENDA Y URBANISMO DE LA REGIÓN DE AYSÉN requiere contratar el servicio integral de mantención preventiva y correctiva, reparación y puesta en funcionamiento del sistema de energía de respaldo de su edificio institucional, ubicado en Coyhaique.",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
   {
    "tipo": "OPORTUNIDAD",
    "motivos": [
@@ -310,7 +217,7 @@
    "motivos": [
     "iluminación"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "1057062-493-COT26",
    "nombre": "Adquisición de micrófonos, atril, luces, telón y otros implementos [Fisabs 2310 - URYRED 22995] ",
    "organismo": "UNIVERSIDAD DE AYSEN",
@@ -373,6 +280,35 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=1057062-493-COT26",
    "sin_detalle": false,
    "descripcion": "Adquisición de micrófonos, atril, luces, telón, proyector y otros implementos, según cotizador. Proveedor deberá adjuntar cotización detallada, indicando marca, modelo y características de los productos ofertados, los cuales deberán cumplir con las especificaciones técnicas requeridas (Ver adjunto). Indicar: valor total con IVA y flete incluidos, plazo de entrega en días corridos desde emisión de la orden de compra y entrega en lillo 630, Coyhaique.",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "iluminación"
+   ],
+   "nueva": true,
+   "codigo": "4066-459-COT26",
+   "nombre": "SERVICIO DE PRODUCCIÓN EVENTOS PARA LA AMPLIFICACIÓN, SONIDO E ILUMINACIÓN, SERVICIOS ARTÍSTICOS MUSICALES Y OTROS, ACTIVIDAD MUNICIPAL “ANIVERSARIO VILLA CERRO CASTILLO 2026”.",
+   "organismo": "I MUNICIPALIDAD RIO IBANEZ",
+   "unidad": "DIDECO",
+   "monto": 7170000,
+   "cierre_iso": "2026-11-01T15:00:00-03:00",
+   "publicacion": "30-10 14:28",
+   "publicacion_iso": "2026-10-30T14:28:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "80141607",
+     "Producción de eventos",
+     1,
+     "SERVICIO DE PRODUCCIÓN EVENTOS PARA LA AMPLIFICACIÓN, SONIDO E ILUMINACIÓN, SERVICIOS ARTÍSTICOS MUSICALES Y OTROS, ACTIVIDAD MUNICIPAL “CELEBRACIÓN ANIVERSARIO VILLA CERRO CASTILLO 2025”, ENTRE LOS DÍAS ENTRE LOS DÍAS 09.11.2026 AL 14.11.2026.SEGÚN LO SOLICITADO EN TÉRMINOS DE REFERENCIA."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=4066-459-COT26",
+   "sin_detalle": false,
+   "descripcion": "CONTRATAR LOS SERVICIO DE PRODUCCIÓN EVENTOS PARA LA AMPLIFICACIÓN, SONIDO E ILUMINACIÓN, SERVICIOS ARTÍSTICOS MUSICALES Y OTROS, ACTIVIDAD MUNICIPAL “CELEBRACIÓN ANIVERSARIO VILLA CERRO CASTILLO 2025”, ENTRE LOS DÍAS ENTRE LOS DÍAS 09.11.2026 AL 14.11.2026.",
    "en_gracia": false,
    "desaparecida_iso": ""
   },
@@ -864,7 +800,7 @@
    "motivos": [
     "Gasfitería, calefacción y aire acondicionado"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "1113144-82-COT26",
    "nombre": "GORE 2026- REQ. 38 SERVICIO DE CONEXION AGUA POTABLE VIVERO",
    "organismo": "CORP NACIONAL FORESTAL",
@@ -924,7 +860,7 @@
    "motivos": [
     "grupo electrógeno"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "1403-464-COT26",
    "nombre": "MANTENCION PREVENTIVA DE GRUPO ELECTROGENO DEL CDP DE PUERTO AYSEN",
    "organismo": "Dirección Regional de Gendarmeria - Coyhaique",
@@ -953,7 +889,7 @@
    "motivos": [
     "eléctricos"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "3325-31-COT26",
    "nombre": "MANTENCIÓN DE GENERADORES ELÉCTRICOS DE CUARTELES PDI COYHAIQUE Y PTO. AYSÉN, 3325-31-COT26",
    "organismo": "POLICIA DE INVESTIGACIONES DE CHILE",
@@ -979,6 +915,60 @@
   }
  ],
  "historial": [
+  {
+   "codigo": "613-34-COT26",
+   "nombre": "Servicio de mantención y reparación del grupo electrógeno y sistema de transferencia automática",
+   "organismo": "Ministerio de Vivienda y Urbanismo",
+   "monto": 7000000,
+   "cierre_iso": "2026-10-30T16:00:00-03:00",
+   "tipo": "POSIBLE",
+   "motivos": [
+    "grupo electrógeno"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=613-34-COT26",
+   "primera_vista_iso": "2026-10-29T18:15:57-03:00",
+   "removida_iso": "2026-10-30T17:56:18-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
+  {
+   "codigo": "418-1740-COT26",
+   "nombre": "CO-ALARGADOR VENOSO CONEXION MACHO/HEMBRA 10 CM UD./ALARGADOR VENOSO 15 CM C/LLAVE 3 PASOS",
+   "organismo": "SERVICIO NACIONAL DE SALUD HOSPITAL DE PUERTO AYSEN",
+   "monto": 1,
+   "cierre_iso": "2026-10-30T15:50:00-03:00",
+   "tipo": "POSIBLE",
+   "motivos": [
+    "alargador"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=418-1740-COT26",
+   "primera_vista_iso": "2026-10-29T18:15:57-03:00",
+   "removida_iso": "2026-10-30T17:56:18-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
+  {
+   "codigo": "2042-372-COT26",
+   "nombre": "ADQUISICION  DE  FOCOS  LED .",
+   "organismo": "I MUNICIPALIDAD DE TORTEL",
+   "monto": 1035300,
+   "cierre_iso": "2026-10-30T13:30:00-03:00",
+   "tipo": "POSIBLE",
+   "motivos": [
+    "luminaria"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=2042-372-COT26",
+   "primera_vista_iso": "2026-10-22T16:57:20-03:00",
+   "removida_iso": "2026-10-30T17:56:18-03:00",
+   "estado_api": "",
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
   {
    "codigo": "4778-343-COT26",
    "nombre": "VEM-IMANES Y ESPEJOS DE BOLSILLO. MATERIAL PROMOCIONAL",
@@ -1338,7 +1328,7 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=1274667-416-COT26",
    "primera_vista_iso": "2026-10-26T13:13:41-03:00",
    "removida_iso": "2026-10-28T18:12:20-03:00",
-   "estado_api": null,
+   "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,
    "adj_iso": null
@@ -1359,7 +1349,7 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=1494998-26-COT26",
    "primera_vista_iso": "2026-10-26T13:13:41-03:00",
    "removida_iso": "2026-10-27T12:27:37-03:00",
-   "estado_api": null,
+   "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,
    "adj_iso": null
@@ -1377,7 +1367,7 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=3949-265-COT26",
    "primera_vista_iso": "2026-10-26T13:13:41-03:00",
    "removida_iso": "2026-10-27T12:27:37-03:00",
-   "estado_api": null,
+   "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,
    "adj_iso": null

@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-10-30T13:05:28.030877-03:00",
+ "actualizado": "2026-10-30T17:56:18.094278-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
- "total_region": 296,
+ "total_region": 266,
  "rubros": {
   "80141600": "Ventas y marketing",
   "82101600": "Publicidad en medios no impresos",
@@ -17,38 +17,9 @@
   {
    "tipo": "POSIBLE",
    "motivos": [
-    "radio"
-   ],
-   "nueva": false,
-   "codigo": "1233615-885-COT26",
-   "nombre": "DMH [SOL-2026-02128] PARLANTE CON MICROFONO PARA ACTIVIDADES PEDAGOGICAS JARDIN INFANTIL AYELEN RUKA",
-   "organismo": "Servicio Local de Educación Pública Aysén",
-   "unidad": "Servicio Local de Educación Pública Aysén",
-   "monto": 180000,
-   "cierre_iso": "2026-10-30T16:09:00-03:00",
-   "publicacion": "28-10 15:12",
-   "publicacion_iso": "2026-10-28T15:12:00-03:00",
-   "ofertas": 3,
-   "productos": [
-    [
-     "52161512",
-     "Parlantes",
-     1,
-     "Caja acústica activa portátil MEKSE, modelo CBT-15-2MIC, de 15 pulgadas, con Bluetooth y batería recargable. Incluye dos micrófonos inalámbricos VHF, control remoto y cable de alimentación. Cuenta con ecualizador de 5 bandas, efecto eco, entradas para micrófonos y guitarra, además de reproducción por USB, tarjeta SD y radio FM."
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1233615-885-COT26",
-   "sin_detalle": false,
-   "descripcion": "Parlante mas micrófono para el Jardín Infantil y Sala Cuna Ayelen Ruka, cuya adquisición permitirá apoyar las experiencias pedagógicas y los cierres de unidad vinculados con nuestro sello artístico y medioambiental, facilitando el uso de música, la participación de las familias y el desarrollo de actividades con los niños y niñas.",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
     "audiovisual"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "1057062-493-COT26",
    "nombre": "Adquisición de micrófonos, atril, luces, telón y otros implementos [Fisabs 2310 - URYRED 22995] ",
    "organismo": "UNIVERSIDAD DE AYSEN",
@@ -111,6 +82,35 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=1057062-493-COT26",
    "sin_detalle": false,
    "descripcion": "Adquisición de micrófonos, atril, luces, telón, proyector y otros implementos, según cotizador. Proveedor deberá adjuntar cotización detallada, indicando marca, modelo y características de los productos ofertados, los cuales deberán cumplir con las especificaciones técnicas requeridas (Ver adjunto). Indicar: valor total con IVA y flete incluidos, plazo de entrega en días corridos desde emisión de la orden de compra y entrega en lillo 630, Coyhaique.",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Ventas y marketing"
+   ],
+   "nueva": true,
+   "codigo": "4066-459-COT26",
+   "nombre": "SERVICIO DE PRODUCCIÓN EVENTOS PARA LA AMPLIFICACIÓN, SONIDO E ILUMINACIÓN, SERVICIOS ARTÍSTICOS MUSICALES Y OTROS, ACTIVIDAD MUNICIPAL “ANIVERSARIO VILLA CERRO CASTILLO 2026”.",
+   "organismo": "I MUNICIPALIDAD RIO IBANEZ",
+   "unidad": "DIDECO",
+   "monto": 7170000,
+   "cierre_iso": "2026-11-01T15:00:00-03:00",
+   "publicacion": "30-10 14:28",
+   "publicacion_iso": "2026-10-30T14:28:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "80141607",
+     "Producción de eventos",
+     1,
+     "SERVICIO DE PRODUCCIÓN EVENTOS PARA LA AMPLIFICACIÓN, SONIDO E ILUMINACIÓN, SERVICIOS ARTÍSTICOS MUSICALES Y OTROS, ACTIVIDAD MUNICIPAL “CELEBRACIÓN ANIVERSARIO VILLA CERRO CASTILLO 2025”, ENTRE LOS DÍAS ENTRE LOS DÍAS 09.11.2026 AL 14.11.2026.SEGÚN LO SOLICITADO EN TÉRMINOS DE REFERENCIA."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=4066-459-COT26",
+   "sin_detalle": false,
+   "descripcion": "CONTRATAR LOS SERVICIO DE PRODUCCIÓN EVENTOS PARA LA AMPLIFICACIÓN, SONIDO E ILUMINACIÓN, SERVICIOS ARTÍSTICOS MUSICALES Y OTROS, ACTIVIDAD MUNICIPAL “CELEBRACIÓN ANIVERSARIO VILLA CERRO CASTILLO 2025”, ENTRE LOS DÍAS ENTRE LOS DÍAS 09.11.2026 AL 14.11.2026.",
    "en_gracia": false,
    "desaparecida_iso": ""
   },
@@ -224,9 +224,44 @@
   {
    "tipo": "POSIBLE",
    "motivos": [
-    "difusión"
+    "publicitarios"
    ],
    "nueva": true,
+   "codigo": "3765-323-COT26",
+   "nombre": "INSUMOS PARA PRESENTACIÓN DE STANDS EDUCATIVOS",
+   "organismo": "SERVICIO NACIONAL DE SALUD HOSPITAL DE C",
+   "unidad": "Hospital Doctor  Leopoldo Ortega Rodríguez",
+   "monto": 100000,
+   "cierre_iso": "2026-11-02T14:00:00-03:00",
+   "publicacion": "30-10 14:55",
+   "publicacion_iso": "2026-10-30T14:55:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "31281521",
+     "Estampados revestidos",
+     1,
+     "MANTEL DE 2 METROS DE LARGO X 1.70 METROS DE ALTO X 60CM DE ANCHO COLOR AZUL REY (DISEÑO ADJUNTO)"
+    ],
+    [
+     "82101501",
+     "Letreros publicitarios",
+     1,
+     "PENDON ROLER DE 1.70 METROS DE ALTO X 60 CENTIMETROS DE ANCHO (DISEÑO ADJUNTO)"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=3765-323-COT26",
+   "sin_detalle": false,
+   "descripcion": "COMPRA DE PENDON Y MANTEL PARA PRESENTACIÓN DE STANDS EDUCATIVOS HLOR. LAS COTIZACIONES INGRESADAS DEBERÁN ENVIAR IMAGENES REFERENCIALES DEL PRODUCTO OFERTADO. LAS COTIZACIONES QUEDARÁN SUETAS AL DISEÑO PRESENTADO.",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "difusión"
+   ],
+   "nueva": false,
    "codigo": "854-32-COT26",
    "nombre": "Exhibición de mensaje en pantalla digital - JUNJI XI.",
    "organismo": "JUNTA NACIONAL DE JARDINES         INFANTILES",
@@ -296,7 +331,7 @@
    "motivos": [
     "difusion"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "4066-449-COT26",
    "nombre": "servicio de fotografia y videos promocionales de la comuna de Río Ibáñez",
    "organismo": "I MUNICIPALIDAD RIO IBANEZ",
@@ -360,7 +395,7 @@
    "motivos": [
     "Agencias de publicidad"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "723-26-COT26",
    "nombre": "Programa de difusión “Fomento de los Territorios Palena Queulat y Litoral de la Comuna de Cisnes en Turismo”",
    "organismo": "SERVICIO DE COOPERACION TECNICA",
@@ -447,6 +482,24 @@
   }
  ],
  "historial": [
+  {
+   "codigo": "1233615-885-COT26",
+   "nombre": "DMH [SOL-2026-02128] PARLANTE CON MICROFONO PARA ACTIVIDADES PEDAGOGICAS JARDIN INFANTIL AYELEN RUKA",
+   "organismo": "Servicio Local de Educación Pública Aysén",
+   "monto": 180000,
+   "cierre_iso": "2026-10-30T16:09:00-03:00",
+   "tipo": "POSIBLE",
+   "motivos": [
+    "radio"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1233615-885-COT26",
+   "primera_vista_iso": "2026-10-28T18:12:20-03:00",
+   "removida_iso": "2026-10-30T17:56:18-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
   {
    "codigo": "2495-602-COT26",
    "nombre": "cajonera plastica",
@@ -807,7 +860,7 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=4140-97-COT26",
    "primera_vista_iso": "2026-10-23T11:19:19-03:00",
    "removida_iso": "2026-10-27T12:27:37-03:00",
-   "estado_api": null,
+   "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,
    "adj_iso": null
@@ -1028,7 +1081,7 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=1343644-108-COT26",
    "primera_vista_iso": "2026-10-22T17:57:00-03:00",
    "removida_iso": "2026-10-25T18:00:49-03:00",
-   "estado_api": null,
+   "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,
    "adj_iso": null
@@ -1067,7 +1120,7 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=3797-492-COT26",
    "primera_vista_iso": "2026-10-23T11:19:19-03:00",
    "removida_iso": "2026-10-24T10:26:01-03:00",
-   "estado_api": null,
+   "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,
    "adj_iso": null
@@ -1108,60 +1161,6 @@
    "primera_vista_iso": "2026-10-19T16:57:34-03:00",
    "removida_iso": "2026-10-23T21:52:30-03:00",
    "estado_api": "",
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "1234-14-COT26",
-   "nombre": "SERVICIO SATELITAL PARA ANTENA STARLINK",
-   "organismo": "DIRECCIÓN REGIONAL ADUANA DE COYHAIQUE",
-   "monto": 1500000,
-   "cierre_iso": "2026-10-23T16:00:00-03:00",
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Comunicación social y de masas"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1234-14-COT26",
-   "primera_vista_iso": "2026-10-21T16:55:28-03:00",
-   "removida_iso": "2026-10-23T19:25:33-03:00",
-   "estado_api": "",
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "4609-286-COT26",
-   "nombre": "SERVICIO PRODUCCION EVENTO",
-   "organismo": "I MUNICIPALIDAD DE CHILE CHICO",
-   "monto": 6200000,
-   "cierre_iso": "2026-10-23T15:30:00-03:00",
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Ventas y marketing"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=4609-286-COT26",
-   "primera_vista_iso": "2026-10-20T16:54:52-03:00",
-   "removida_iso": "2026-10-23T19:25:33-03:00",
-   "estado_api": "",
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "2495-574-COT26",
-   "nombre": "Servicio de producción del stand turístico de Coyhaique",
-   "organismo": "I MUNICIPALIDAD DE COYHAIQUE",
-   "monto": 3000000,
-   "cierre_iso": "2026-10-23T15:00:00-03:00",
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Ventas y marketing"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=2495-574-COT26",
-   "primera_vista_iso": "2026-10-22T14:53:55-03:00",
-   "removida_iso": "2026-10-23T15:31:59-03:00",
-   "estado_api": null,
    "adj_nombre": null,
    "adj_monto": null,
    "adj_iso": null
