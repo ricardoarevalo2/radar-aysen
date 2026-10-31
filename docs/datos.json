@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-10-31T16:24:34.943305-03:00",
+ "actualizado": "2026-10-31T19:37:55.476274-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
- "total_region": 231,
+ "total_region": 222,
  "rubros": {
   "80141600": "Ventas y marketing",
   "82101600": "Publicidad en medios no impresos",
@@ -90,7 +90,7 @@
    "motivos": [
     "Ventas y marketing"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "4066-459-COT26",
    "nombre": "SERVICIO DE PRODUCCIÓN EVENTOS PARA LA AMPLIFICACIÓN, SONIDO E ILUMINACIÓN, SERVICIOS ARTÍSTICOS MUSICALES Y OTROS, ACTIVIDAD MUNICIPAL “ANIVERSARIO VILLA CERRO CASTILLO 2026”.",
    "organismo": "I MUNICIPALIDAD RIO IBANEZ",
@@ -226,7 +226,7 @@
    "motivos": [
     "publicitarios"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "3765-323-COT26",
    "nombre": "INSUMOS PARA PRESENTACIÓN DE STANDS EDUCATIVOS",
    "organismo": "SERVICIO NACIONAL DE SALUD HOSPITAL DE C",
