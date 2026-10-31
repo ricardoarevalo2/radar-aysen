@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-10-31T12:25:44.295150-03:00",
+ "actualizado": "2026-10-31T16:24:34.943305-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
- "total_region": 244,
+ "total_region": 231,
  "rubros": {
   "80141600": "Ventas y marketing",
   "82101600": "Publicidad en medios no impresos",
@@ -150,7 +150,7 @@
     "radiales",
     "redes sociales"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "4140-105-COT26",
    "nombre": "DIFUSION DIGITAL PAR ALA PROMOCION DE LAS ACTIVIDAES PROYECTO \"NIÑEZ Y PATRIMONIO\"",
    "organismo": "I MUNICIPALIDAD DE LAGO VERDE",
@@ -179,7 +179,7 @@
    "motivos": [
     "televisión"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "734-199-COT26",
    "nombre": "ADQUISICIÓN 04 SMART TV Y SOPORTES MURALES COMPATIBLES PARA COSAM COYHAIQUE",
    "organismo": "SERVICIO DE SALUD AYSEN CARLOS IBANEZ DEL CAMPO",
@@ -290,7 +290,7 @@
    "motivos": [
     "televisión"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "734-201-COT26",
    "nombre": "ADQUISICIÓN TELEVISOR SMART TV, SOPORTE Y CABLE HDMI",
    "organismo": "SERVICIO DE SALUD AYSEN CARLOS IBANEZ DEL CAMPO",
@@ -957,7 +957,7 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=1608-89-COT26",
    "primera_vista_iso": "2026-10-23T15:31:59-03:00",
    "removida_iso": "2026-10-26T16:12:12-03:00",
-   "estado_api": null,
+   "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,
    "adj_iso": null
@@ -1050,7 +1050,7 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=2495-578-COT26",
    "primera_vista_iso": "2026-10-23T19:25:33-03:00",
    "removida_iso": "2026-10-26T13:13:41-03:00",
-   "estado_api": null,
+   "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,
    "adj_iso": null
@@ -1086,7 +1086,7 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=3622-18-COT26",
    "primera_vista_iso": "2026-10-23T19:25:33-03:00",
    "removida_iso": "2026-10-26T13:13:41-03:00",
-   "estado_api": null,
+   "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,
    "adj_iso": null

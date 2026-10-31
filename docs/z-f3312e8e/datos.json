@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-10-31T12:25:44.295150-03:00",
+ "actualizado": "2026-10-31T16:24:34.943305-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
- "total_region": 244,
+ "total_region": 231,
  "rubros": {
   "25172700": "Aire acondicionado",
   "25173900": "Componentes eléctricos",
@@ -19,93 +19,6 @@
   "39121400": "Conectores, enchufes y terminales"
  },
  "filas": [
-  {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Conectores, enchufes y terminales"
-   ],
-   "nueva": false,
-   "codigo": "1233615-852-COT26",
-   "nombre": "DMH SOL-2026-01931] Recursos TICS para Escuela \"Litoral Austral\" de Puerto Aysén",
-   "organismo": "Servicio Local de Educación Pública Aysén",
-   "unidad": "Servicio Local de Educación Pública Aysén",
-   "monto": 302470,
-   "cierre_iso": "2026-10-31T12:37:00-03:00",
-   "publicacion": "23-10 14:14",
-   "publicacion_iso": "2026-10-23T14:14:00-03:00",
-   "ofertas": 2,
-   "productos": [
-    [
-     "39121409",
-     "Conectores de cables eléctricos",
-     1,
-     "insumos, accesorios y equipamiento informático necesarios para garantizar la continuidad operativa, mantención y adecuado funcionamiento de los recursos tecnológicos de la Escuela Litoral Austral, de acuerdo a requerimiento adjunto a la presente compra (debe llenar el formulario N°1)"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1233615-852-COT26",
-   "sin_detalle": false,
-   "descripcion": "Se solicita la adquisición de insumos, accesorios y equipamiento informático necesarios para garantizar la continuidad operativa, mantención y adecuado funcionamiento de los recursos tecnológicos de la Escuela Litoral Austral.",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
-  {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Cables eléctricos y accesorios"
-   ],
-   "nueva": false,
-   "codigo": "418-1720-COT26",
-   "nombre": "CCD- Adquisición Cable DVI-D 24+1 macho a HDMI Tipo A macho ",
-   "organismo": "SERVICIO NACIONAL DE SALUD HOSPITAL DE PUERTO AYSEN",
-   "unidad": "H Puerto Aysén",
-   "monto": 1,
-   "cierre_iso": "2026-10-31T14:00:00-03:00",
-   "publicacion": "28-10 11:27",
-   "publicacion_iso": "2026-10-28T11:27:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "26121604",
-     "Cable para señales",
-     2,
-     "Se requiere específicamente la configuración DVI-D 24+1 macho con tornillos de fijación  a HDMI Tipo A macho, mínimo 6 metros de longitud. Entrega en Yussef Laibe 180, Puerto Aysén"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=418-1720-COT26",
-   "sin_detalle": false,
-   "descripcion": "Se solicita la cantidad de 2 unidades cable DVI-D 24+1 macho a HDMI Tipo A macho.\nEl cable será utilizado para la conexión de video entre las torres de laparoscopia y los monitores correspondientes, por lo que se solicita respetar específicamente la configuración DVI-D 24+1 macho a HDMI Tipo A macho. NO OFERTAR cables DVI-I, DVI-A u otras configuraciones que no correspondan.\nEntrega en Yussef Laibe 180, Hospital de Puerto Aysén",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
-  {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Gasfitería, calefacción y aire acondicionado"
-   ],
-   "nueva": true,
-   "codigo": "2495-605-COT26",
-   "nombre": "REPARACIONES CASA PERSONA MAYOR",
-   "organismo": "I MUNICIPALIDAD DE COYHAIQUE",
-   "unidad": "DIRECCION DESARROLLO COMUNITARIO",
-   "monto": 280000,
-   "cierre_iso": "2026-10-31T15:00:00-03:00",
-   "publicacion": "30-10 10:44",
-   "publicacion_iso": "2026-10-30T10:44:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "72102304",
-     "Mantenimiento o reparación de sistemas de fontanería, gasfitería",
-     1,
-     "Reparaciones casa persona mayor: Incluye monomando eléctrico (grifería térmica para lavaplatos/lavamanos); Enchufe de fuerza (instalación modulo de fuerza 16A) y mano de obra (Desinstalación, cambio y habilitación de artefactos). La reparación incluye materiales y mano de obra."
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=2495-605-COT26",
-   "sin_detalle": false,
-   "descripcion": "SE REQUIERE REALIZAR REPARACIONES SANITARIAS Y ELECTRICAS EN EL RECINTO DE LA CASA PERSONA MAYOR UBICADA EN CALLE CERRO LA PIRAMIDE N° 16156.",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
   {
    "tipo": "POSIBLE",
    "motivos": [
@@ -289,7 +202,7 @@
     "Cables eléctricos y accesorios",
     "Suministros y accesorios eléctricos"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "886182-248-COT26",
    "nombre": "Materiales de oficina_segun fisabs 2350_Departamento Ciencias Naturales y Tecnología",
    "organismo": "UNIVERSIDAD DE AYSEN",
@@ -533,7 +446,7 @@
    "motivos": [
     "Cables eléctricos y accesorios"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "734-201-COT26",
    "nombre": "ADQUISICIÓN TELEVISOR SMART TV, SOPORTE Y CABLE HDMI",
    "organismo": "SERVICIO DE SALUD AYSEN CARLOS IBANEZ DEL CAMPO",
@@ -796,13 +709,42 @@
    "desaparecida_iso": ""
   },
   {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Cables eléctricos y accesorios"
+   ],
+   "nueva": false,
+   "codigo": "418-1720-COT26",
+   "nombre": "CCD- Adquisición Cable DVI-D 24+1 macho a HDMI Tipo A macho ",
+   "organismo": "SERVICIO NACIONAL DE SALUD HOSPITAL DE PUERTO AYSEN",
+   "unidad": "H Puerto Aysén",
+   "monto": 1,
+   "cierre_iso": "2026-11-03T16:32:00-03:00",
+   "publicacion": "28-10 11:27",
+   "publicacion_iso": "2026-10-28T11:27:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "26121604",
+     "Cable para señales",
+     2,
+     "Se requiere específicamente la configuración DVI-D 24+1 macho con tornillos de fijación  a HDMI Tipo A macho, mínimo 6 metros de longitud. Entrega en Yussef Laibe 180, Puerto Aysén"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=418-1720-COT26",
+   "sin_detalle": false,
+   "descripcion": "Se solicita la cantidad de 2 unidades cable DVI-D 24+1 macho a HDMI Tipo A macho.\nEl cable será utilizado para la conexión de video entre las torres de laparoscopia y los monitores correspondientes, por lo que se solicita respetar específicamente la configuración DVI-D 24+1 macho a HDMI Tipo A macho. NO OFERTAR cables DVI-I, DVI-A u otras configuraciones que no correspondan.\nEntrega en Yussef Laibe 180, Hospital de Puerto Aysén",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
    "tipo": "POSIBLE",
    "motivos": [
     "eléctrico",
     "generador",
     "generador eléctrico"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "1281188-19-COT26",
    "nombre": "Generador Eléctrico Diésel Uso Continuo 17kVa ",
    "organismo": "DELEGACIÓN PRESIDENCIAL PROVINCIAL DE CAPITÁN PRAT",
@@ -886,6 +828,42 @@
   }
  ],
  "historial": [
+  {
+   "codigo": "2495-605-COT26",
+   "nombre": "REPARACIONES CASA PERSONA MAYOR",
+   "organismo": "I MUNICIPALIDAD DE COYHAIQUE",
+   "monto": 280000,
+   "cierre_iso": "2026-10-31T15:00:00-03:00",
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Gasfitería, calefacción y aire acondicionado"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=2495-605-COT26",
+   "primera_vista_iso": "2026-10-30T13:05:28-03:00",
+   "removida_iso": "2026-10-31T16:24:34-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
+  {
+   "codigo": "1233615-852-COT26",
+   "nombre": "DMH SOL-2026-01931] Recursos TICS para Escuela \"Litoral Austral\" de Puerto Aysén",
+   "organismo": "Servicio Local de Educación Pública Aysén",
+   "monto": 302470,
+   "cierre_iso": "2026-10-31T12:37:00-03:00",
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Conectores, enchufes y terminales"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1233615-852-COT26",
+   "primera_vista_iso": "2026-10-23T15:31:59-03:00",
+   "removida_iso": "2026-10-31T16:24:34-03:00",
+   "estado_api": "",
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
   {
    "codigo": "613-35-COT26",
    "nombre": "Servicio de mantención preventiva y correctiva y reubicación de equipos de climatización",
@@ -1410,43 +1388,6 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=1905-77-COT26",
    "primera_vista_iso": "2026-10-21T16:55:28-03:00",
    "removida_iso": "2026-10-26T13:13:41-03:00",
-   "estado_api": "",
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "4889-41-COT26",
-   "nombre": "MANTENIMIENTO SENTINA - OFICINAS SEREMI DE LAS CULTURAS",
-   "organismo": "Subsecretaria de las Culturas y las Artes Región de Aysen",
-   "monto": 250000,
-   "cierre_iso": "2026-10-24T15:22:00-03:00",
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Gasfitería, calefacción y aire acondicionado"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=4889-41-COT26",
-   "primera_vista_iso": "2026-10-14T16:56:08-03:00",
-   "removida_iso": "2026-10-24T16:35:55-03:00",
-   "estado_api": "",
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "711-194-COT26",
-   "nombre": "PROCESO DE ADQUISICIÓN PARA EL SERVICIO DE LEVANTAMIENTO ELECTRICO, RETIRO E INSTALACIÓN DE EQUIUPOS DE CLIMATIZACIÓN PARA OFICINAS DE LA SEREMITT DE AYSÉN",
-   "organismo": "SUBSECRETARIA DE TRANSPORTES",
-   "monto": 2400000,
-   "cierre_iso": "2026-10-24T14:20:00-03:00",
-   "tipo": "POSIBLE",
-   "motivos": [
-    "climatización",
-    "eléctricos"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=711-194-COT26",
-   "primera_vista_iso": "2026-10-11T21:06:47-03:00",
-   "removida_iso": "2026-10-24T16:35:55-03:00",
    "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,
