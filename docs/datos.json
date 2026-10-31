@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-10-30T17:56:18.094278-03:00",
+ "actualizado": "2026-10-30T21:54:39.095163-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
- "total_region": 266,
+ "total_region": 261,
  "rubros": {
   "80141600": "Ventas y marketing",
   "82101600": "Publicidad en medios no impresos",
@@ -426,7 +426,7 @@
     "publicidad",
     "publicitarios"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "1426103-29-COT26",
    "nombre": "Adquisición de folletería, afiches y carteles de publicidad de la  Dirección Regional de Aysén",
    "organismo": "SERVICIO NACIONAL DE REINSERCION SOCIAL JUVENIL",
@@ -456,7 +456,7 @@
     "difusión",
     "publicitarios"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "1426103-27-COT26",
    "nombre": "Adquisición de pendones y panel araña publicitarios para la Dirección Regional de Aysén ",
    "organismo": "SERVICIO NACIONAL DE REINSERCION SOCIAL JUVENIL",
@@ -952,7 +952,7 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=3791-1058-COT26",
    "primera_vista_iso": "2026-10-23T15:31:59-03:00",
    "removida_iso": "2026-10-26T13:13:41-03:00",
-   "estado_api": null,
+   "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,
    "adj_iso": null
@@ -1045,7 +1045,7 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=3950-688-COT26",
    "primera_vista_iso": "2026-10-23T11:19:19-03:00",
    "removida_iso": "2026-10-26T13:13:41-03:00",
-   "estado_api": null,
+   "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,
    "adj_iso": null
@@ -1100,7 +1100,7 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=4140-98-COT26",
    "primera_vista_iso": "2026-10-23T11:19:19-03:00",
    "removida_iso": "2026-10-24T13:46:15-03:00",
-   "estado_api": null,
+   "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,
    "adj_iso": null
@@ -1140,26 +1140,6 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=613-33-COT26",
    "primera_vista_iso": "2026-10-21T19:54:17-03:00",
    "removida_iso": "2026-10-24T10:26:01-03:00",
-   "estado_api": "",
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "2495-564-COT26",
-   "nombre": "Adquisición de folletería y pelotas antiestrés para la difusión del Programa SENDA Previene 2026.",
-   "organismo": "I MUNICIPALIDAD DE COYHAIQUE",
-   "monto": 200000,
-   "cierre_iso": "2026-10-23T21:00:00-03:00",
-   "tipo": "POSIBLE",
-   "motivos": [
-    "difusión",
-    "publicidad",
-    "publicitarios"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=2495-564-COT26",
-   "primera_vista_iso": "2026-10-19T16:57:34-03:00",
-   "removida_iso": "2026-10-23T21:52:30-03:00",
    "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,

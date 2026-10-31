@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-10-30T17:56:18.094278-03:00",
+ "actualizado": "2026-10-30T21:54:39.095163-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
- "total_region": 266,
+ "total_region": 261,
  "rubros": {
   "25172700": "Aire acondicionado",
   "25173900": "Componentes eléctricos",
@@ -24,7 +24,7 @@
    "motivos": [
     "Gasfitería, calefacción y aire acondicionado"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "613-35-COT26",
    "nombre": "Servicio de mantención preventiva y correctiva y reubicación de equipos de climatización",
    "organismo": "Ministerio de Vivienda y Urbanismo",
@@ -603,7 +603,7 @@
    "motivos": [
     "Cables eléctricos y accesorios"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "3171-157-COT26",
    "nombre": "ADQUISICIÓN DE MATERIALES DE CONSTRUCCIÓN PARA LA CAPITANÍA DE PUERTO DE MELINKA",
    "organismo": "GOBERNACION MARITIMA DE AYSEN",
