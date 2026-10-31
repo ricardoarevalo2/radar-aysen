@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-10-30T21:54:39.095163-03:00",
+ "actualizado": "2026-10-31T12:25:44.295150-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
- "total_region": 261,
+ "total_region": 244,
  "rubros": {
   "25172700": "Aire acondicionado",
   "25173900": "Componentes eléctricos",
@@ -19,35 +19,6 @@
   "39121400": "Conectores, enchufes y terminales"
  },
  "filas": [
-  {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Gasfitería, calefacción y aire acondicionado"
-   ],
-   "nueva": false,
-   "codigo": "613-35-COT26",
-   "nombre": "Servicio de mantención preventiva y correctiva y reubicación de equipos de climatización",
-   "organismo": "Ministerio de Vivienda y Urbanismo",
-   "unidad": "SEREMI MINVU XI REGION",
-   "monto": 2142000,
-   "cierre_iso": "2026-10-31T10:00:00-03:00",
-   "publicacion": "29-10 16:54",
-   "publicacion_iso": "2026-10-29T16:54:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "72102305",
-     "Servicios de reparación, mantenimiento o reparación de aire acondicionado",
-     1,
-     "1. Mantención de siete (7) unidades: Desmontaje cuidadoso de tapas cuando corresponda; limpieza y desinfección de filtros con productos compatibles; limpieza no corrosiva de serpentín evaporador, turbina, bandeja de condensados y drenajes; verificación de sensores, control remoto y operación frío/calor.\n2. Mantención de siete (7) unidades: Limpieza controlada de condensador; revisión de estado de bases, soportes, anclajes, vibraciones, corrosión, ventiladores y conexiones. No se deberá aplicar p"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=613-35-COT26",
-   "sin_detalle": false,
-   "descripcion": "1. Mantención de siete (7) unidades: Desmontaje cuidadoso de tapas cuando corresponda; limpieza y desinfección de filtros con productos compatibles; limpieza no corrosiva de serpentín evaporador, turbina, bandeja de condensados y drenajes; verificación de sensores, control remoto y operación frío/calor.\n2. Mantención de siete (7) unidades: Limpieza controlada de condensador; revisión de estado de bases, soportes, anclajes, vibraciones, corrosión, ventiladores y conexiones.",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
   {
    "tipo": "OPORTUNIDAD",
    "motivos": [
@@ -915,6 +886,24 @@
   }
  ],
  "historial": [
+  {
+   "codigo": "613-35-COT26",
+   "nombre": "Servicio de mantención preventiva y correctiva y reubicación de equipos de climatización",
+   "organismo": "Ministerio de Vivienda y Urbanismo",
+   "monto": 2142000,
+   "cierre_iso": "2026-10-31T10:00:00-03:00",
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Gasfitería, calefacción y aire acondicionado"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=613-35-COT26",
+   "primera_vista_iso": "2026-10-29T18:15:57-03:00",
+   "removida_iso": "2026-10-31T12:25:44-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
   {
    "codigo": "613-34-COT26",
    "nombre": "Servicio de mantención y reparación del grupo electrógeno y sistema de transferencia automática",

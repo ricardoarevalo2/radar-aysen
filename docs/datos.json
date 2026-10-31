@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-10-30T21:54:39.095163-03:00",
+ "actualizado": "2026-10-31T12:25:44.295150-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
- "total_region": 261,
+ "total_region": 244,
  "rubros": {
   "80141600": "Ventas y marketing",
   "82101600": "Publicidad en medios no impresos",
@@ -416,6 +416,65 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=723-26-COT26",
    "sin_detalle": false,
    "descripcion": "Contratación de servicios para la elaboración de productos\ncomunicacionales destinados a la difusión y promoción del\nprograma FNDR “Fomento de los Territorios Palena Queulat y\nLitoral de la Comuna de Cisnes en Turismo” CÓDIGO BIP 40073606-0",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "aviso"
+   ],
+   "nueva": true,
+   "codigo": "1282238-84-COT26",
+   "nombre": "Suministro de catering para elencos y equipos, entregas mensuales nov 2026 - may 2027 - PAOCC 2026 (Corporación Cultural Coyhaique)",
+   "organismo": "CORPORACION CULTURAL MUNICIPAL DE COYHAIQUE",
+   "unidad": "CORPORACION CULTURAL MUNICIPAL DE COYHAIQUE",
+   "monto": 1000000,
+   "cierre_iso": "2026-11-03T15:00:00-03:00",
+   "publicacion": "31-10 11:33",
+   "publicacion_iso": "2026-10-31T11:33:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "50101634",
+     "Fruta fresca",
+     7,
+     "Fruta fresca de temporada en buen estado. Por entrega: 5 kg aprox. Cantidad = 7 entregas mensuales (nov 2026 a may 2027) en Centro Cultural de Coyhaique, Eusebio Lillo 23, con aviso de 3 días hábiles. Proveedor local de Coyhaique. Proyecto PAOCC 2026 Folio 852881."
+    ],
+    [
+     "50181905",
+     "Galletas dulces o pastelitos",
+     7,
+     "Galletas dulces y saladas surtidas en paquete. Por entrega: 15 paquetes aprox. Cantidad = 7 entregas mensuales (nov 2026 a may 2027) en Centro Cultural de Coyhaique, Eusebio Lillo 23, con aviso de 3 días hábiles. Proveedor local de Coyhaique. Proyecto PAOCC 2026 Folio 852881."
+    ],
+    [
+     "50182001",
+     "Tartas, empanadas o pastas frescas",
+     7,
+     "Queques o bizcochos de elaboración local, tamaño familiar, entregados frescos. Por entrega: 3 unidades aprox. Cantidad = 7 entregas mensuales (nov 2026 a may 2027) en Centro Cultural de Coyhaique, Eusebio Lillo 23, con aviso de 3 días hábiles. Proveedor local de Coyhaique. Proyecto PAOCC 2026 Folio 852881."
+    ],
+    [
+     "50192110",
+     "Nueces o frutos secos",
+     7,
+     "Mezcla de frutos secos. Por entrega: 1 kg aprox. Cantidad = 7 entregas mensuales (nov 2026 a may 2027) en Centro Cultural de Coyhaique, Eusebio Lillo 23, con aviso de 3 días hábiles. Proveedor local de Coyhaique. Proyecto PAOCC 2026 Folio 852881."
+    ],
+    [
+     "50201706",
+     "Café",
+     7,
+     "Café lifolizado o de grano molido, azucar y endulzante, en formato para servicio colectivo. Por entrega: 2 tarros de café de 170 g aprox.  Cantidad = 7 entregas mensuales (nov 2026 a may 2027) en Centro Cultural de Coyhaique, Eusebio Lillo 23, con aviso de 3 días hábiles. Proveedor local de Coyhaique. Proyecto PAOCC 2026 Folio 852881."
+    ],
+    [
+     "50202304",
+     "Jugos y néctar envasados",
+     7,
+     "Jugos o néctares en envase de 1 a 1,5 L, sabores surtidos. Por entrega: 12 unidades aprox. Cantidad = 7 entregas mensuales (nov 2026 a may 2027) en Centro Cultural de Coyhaique, Eusebio Lillo 23, con aviso de 3 días hábiles. Proveedor local de Coyhaique. Proyecto PAOCC 2026 Folio 852881."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1282238-84-COT26",
+   "sin_detalle": false,
+   "descripcion": "Suministro de catering para elencos y equipos de trabajo del proyecto «Programación Centro Cultural de Coyhaique 2026» (PAOCC MINCAP, Folio 852881): café, jugos, galletas, queques, frutos secos y fruta fresca. 7 entregas, una vez al mes, de noviembre 2026 a mayo 2027, en el Centro Cultural de Coyhaique, con aviso de 3 días hábiles. Se requiere proveedor local de Coyhaique. Ver especificaciones técnicas.",
    "en_gracia": false,
    "desaparecida_iso": ""
   },
@@ -1081,65 +1140,6 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=1343644-108-COT26",
    "primera_vista_iso": "2026-10-22T17:57:00-03:00",
    "removida_iso": "2026-10-25T18:00:49-03:00",
-   "estado_api": "",
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "4140-98-COT26",
-   "nombre": "SE REQUIERE SERVICIO DE CREACION Y DIAGRAMACION DE PUBLICACION INFANTIL PATRIMONIAL MEDIANTES TALLES PARTICIPATIVOS",
-   "organismo": "I MUNICIPALIDAD DE LAGO VERDE",
-   "monto": 6636200,
-   "cierre_iso": "2026-10-24T11:10:00-03:00",
-   "tipo": "POSIBLE",
-   "motivos": [
-    "audiovisual",
-    "difusion"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=4140-98-COT26",
-   "primera_vista_iso": "2026-10-23T11:19:19-03:00",
-   "removida_iso": "2026-10-24T13:46:15-03:00",
-   "estado_api": "",
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "3797-492-COT26",
-   "nombre": "MATERIAL APOYO MARKETING FERIAS",
-   "organismo": "I MUNICIPALIDAD DE COCHRANE",
-   "monto": 2770000,
-   "cierre_iso": "2026-10-24T08:40:00-03:00",
-   "tipo": "POSIBLE",
-   "motivos": [
-    "difusión",
-    "marketing",
-    "publicitaria"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=3797-492-COT26",
-   "primera_vista_iso": "2026-10-23T11:19:19-03:00",
-   "removida_iso": "2026-10-24T10:26:01-03:00",
-   "estado_api": "",
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "613-33-COT26",
-   "nombre": "Adquisición de elementos gráficos de difusión institucional para la SEREMI MINVU Región de Aysén",
-   "organismo": "Ministerio de Vivienda y Urbanismo",
-   "monto": 874616,
-   "cierre_iso": "2026-10-24T08:00:00-03:00",
-   "tipo": "POSIBLE",
-   "motivos": [
-    "difusión",
-    "publicidad",
-    "publicitarios"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=613-33-COT26",
-   "primera_vista_iso": "2026-10-21T19:54:17-03:00",
-   "removida_iso": "2026-10-24T10:26:01-03:00",
    "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,
