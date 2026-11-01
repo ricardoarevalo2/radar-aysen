@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-10-31T23:23:31.441094-03:00",
+ "actualizado": "2026-11-01T13:10:43.485001-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
- "total_region": 220,
+ "total_region": 209,
  "rubros": {
   "80141600": "Ventas y marketing",
   "82101600": "Publicidad en medios no impresos",
@@ -14,77 +14,6 @@
   "83121700": "Comunicación social y de masas"
  },
  "filas": [
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "audiovisual"
-   ],
-   "nueva": false,
-   "codigo": "1057062-493-COT26",
-   "nombre": "Adquisición de micrófonos, atril, luces, telón y otros implementos [Fisabs 2310 - URYRED 22995] ",
-   "organismo": "UNIVERSIDAD DE AYSEN",
-   "unidad": "Proyectos",
-   "monto": 4438830,
-   "cierre_iso": "2026-11-01T08:00:00-03:00",
-   "publicacion": "29-10 10:55",
-   "publicacion_iso": "2026-10-29T10:55:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "39111704",
-     "Luces proyectantes",
-     4,
-     "Luces PAR LED Slim 18x12W RGBW (4 en 1) o equivalente. Fuente de iluminación de 18 LED de 12W, potencia 200W, alimentación AC 100-240V, 50/60Hz. Modos de control automático, rítmico, maestro/esclavo y DMX512. Chasis metálico o aluminio, conectores de alimentación Powercon de entrada y salida. El producto ofertado deberá cumplir con las características de las EETT adjuntas e indicar plazo de entrega."
-    ],
-    [
-     "39111704",
-     "Luces proyectantes",
-     3,
-     "Luz barra LED de 224 LED RGB 3 en 1, modelo WAVEPIX o equivalente. Estructura de aluminio, pantalla LED de 4 dígitos, conectores DMX XLR-3 de entrada y salida, alimentación IEC de entrada/salida. Modos de operación DMX, automático, audio rítmico y maestro/esclavo. Canales DMX: 3/5/8/24/48/53. Dimensiones referenciales: 1010x60x60 mm, peso 3,5 kg. El producto ofertado deberá cumplir con las características de las EETT adjuntas e indicar plazo de entrega."
-    ],
-    [
-     "45111501",
-     "Atriles de pie",
-     5,
-     "Atril para micrófono con brazo telescópico articulado de 2 piezas, estructura de acero, patas plegables y base de zinc fundido a presión. Ajuste de altura mediante embrague, sujeción de brazo con tuerca de mariposa, conector roscado de 3/8\", color negro. Largo del brazo: 425 a 725 mm; altura regulable: 925 a 1.630 mm; peso referencial: 3 kg. Ajuste metálico del brazo. El producto ofertado deberá cumplir con las especificaciones técnicas requeridas o equivalentes, indicar plazo de entrega."
-    ],
-    [
-     "45111603",
-     "Pantallas de proyección",
-     1,
-     "Telón mural de proyección Fresnel ant luz WANBO o equivalente. Tamaño referencial de 72 pulgadas, relación de aspecto 16:9, sistema de operación manual y superficie apta para proyección audiovisual.  El producto ofertado deberá cumplir con las características de las EETT adjuntas, formato y calidad de proyección. Indicar plazo de entrega."
-    ],
-    [
-     "45111609",
-     "Proyectores multimedia",
-     1,
-     "Proyector multimedia Epson PowerLite E24 o equivalente. Tecnología de proyección 3LCD de 3 chips, luminosidad mínima de 3.600 lúmenes en color y 3.600 lúmenes en blanco. Capacidad de proyección de imágenes superiores a 100 pulgadas, adecuada para espacios educativos iluminados. Conectividad HDMI para transmisión de audio y video de alta definición. El producto ofertado deberá cumplir con las especificaciones técnicas requeridas o equivalentes, indicar plazo de entrega."
-    ],
-    [
-     "52161512",
-     "Parlantes",
-     1,
-     "Parlante Sony Soundbar HT-S20 de 400W o equivalente con sistema de audio de 5.1 canales, potencia de 400W, conectividad inalámbrica Bluetooth, subwoofer incluido, al menos una entrada HDMI y una entrada USB. Producto ofertado deberá cumplir con las especificaciones técnicas indicadas o presentar características equivalentes en conectividad y calidad de sonido, indicar plazo de entrega."
-    ],
-    [
-     "52161520",
-     "Micrófonos",
-     1,
-     "1 Set de 2 micrófonos condensadores Neumann KM 184 MT o equivalente. Diafragma pequeño, patrón cardioide, respuesta de frecuencia 20 Hz-20 kHz, sensibilidad 15 mV/Pa, SPL máximo 138 dB, ruido propio 13 dB-A, rango dinámico 125 dB, impedancia 50 ohm y alimentación Phantom 48V. Conexión XLR-3 macho. Incluir 2 pinzas giratorias, 2 pantallas antiviento y estuche rígido. El producto ofertado deberá cumplir con las características de las EETT adjuntas e indicar plazo de entrega."
-    ],
-    [
-     "52161520",
-     "Micrófonos",
-     4,
-     "Micrófono de condensador, patrón polar cardioide, respuesta de frecuencia 20 Hz-20 kHz, SPL máximo 135/155 dB, sensibilidad 20 mV, impedancia nominal 200 ohm, ruido propio 16 dBA y conector de salida XLR macho de 3 pines. Dimensiones referenciales: 16,5 cm de largo, 5,4 cm de diámetro y peso 530 g. El producto ofertado deberá cumplir con las especificaciones técnicas requeridas o equivalentes, indicar plazo de entrega."
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1057062-493-COT26",
-   "sin_detalle": false,
-   "descripcion": "Adquisición de micrófonos, atril, luces, telón, proyector y otros implementos, según cotizador. Proveedor deberá adjuntar cotización detallada, indicando marca, modelo y características de los productos ofertados, los cuales deberán cumplir con las especificaciones técnicas requeridas (Ver adjunto). Indicar: valor total con IVA y flete incluidos, plazo de entrega en días corridos desde emisión de la orden de compra y entrega en lillo 630, Coyhaique.",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
   {
    "tipo": "OPORTUNIDAD",
    "motivos": [
@@ -424,7 +353,7 @@
    "motivos": [
     "aviso"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "1282238-84-COT26",
    "nombre": "Suministro de catering para elencos y equipos, entregas mensuales nov 2026 - may 2027 - PAOCC 2026 (Corporación Cultural Coyhaique)",
    "organismo": "CORPORACION CULTURAL MUNICIPAL DE COYHAIQUE",
@@ -541,6 +470,24 @@
   }
  ],
  "historial": [
+  {
+   "codigo": "1057062-493-COT26",
+   "nombre": "Adquisición de micrófonos, atril, luces, telón y otros implementos [Fisabs 2310 - URYRED 22995] ",
+   "organismo": "UNIVERSIDAD DE AYSEN",
+   "monto": 4438830,
+   "cierre_iso": "2026-11-01T08:00:00-03:00",
+   "tipo": "POSIBLE",
+   "motivos": [
+    "audiovisual"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1057062-493-COT26",
+   "primera_vista_iso": "2026-10-29T13:17:18-03:00",
+   "removida_iso": "2026-11-01T13:10:43-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
   {
    "codigo": "1233615-885-COT26",
    "nombre": "DMH [SOL-2026-02128] PARLANTE CON MICROFONO PARA ACTIVIDADES PEDAGOGICAS JARDIN INFANTIL AYELEN RUKA",
