@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-11-01T13:10:43.485001-03:00",
+ "actualizado": "2026-11-01T17:39:52.628282-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
- "total_region": 209,
+ "total_region": 201,
  "rubros": {
   "80141600": "Ventas y marketing",
   "82101600": "Publicidad en medios no impresos",
@@ -14,35 +14,6 @@
   "83121700": "Comunicación social y de masas"
  },
  "filas": [
-  {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Ventas y marketing"
-   ],
-   "nueva": false,
-   "codigo": "4066-459-COT26",
-   "nombre": "SERVICIO DE PRODUCCIÓN EVENTOS PARA LA AMPLIFICACIÓN, SONIDO E ILUMINACIÓN, SERVICIOS ARTÍSTICOS MUSICALES Y OTROS, ACTIVIDAD MUNICIPAL “ANIVERSARIO VILLA CERRO CASTILLO 2026”.",
-   "organismo": "I MUNICIPALIDAD RIO IBANEZ",
-   "unidad": "DIDECO",
-   "monto": 7170000,
-   "cierre_iso": "2026-11-01T15:00:00-03:00",
-   "publicacion": "30-10 14:28",
-   "publicacion_iso": "2026-10-30T14:28:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "80141607",
-     "Producción de eventos",
-     1,
-     "SERVICIO DE PRODUCCIÓN EVENTOS PARA LA AMPLIFICACIÓN, SONIDO E ILUMINACIÓN, SERVICIOS ARTÍSTICOS MUSICALES Y OTROS, ACTIVIDAD MUNICIPAL “CELEBRACIÓN ANIVERSARIO VILLA CERRO CASTILLO 2025”, ENTRE LOS DÍAS ENTRE LOS DÍAS 09.11.2026 AL 14.11.2026.SEGÚN LO SOLICITADO EN TÉRMINOS DE REFERENCIA."
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=4066-459-COT26",
-   "sin_detalle": false,
-   "descripcion": "CONTRATAR LOS SERVICIO DE PRODUCCIÓN EVENTOS PARA LA AMPLIFICACIÓN, SONIDO E ILUMINACIÓN, SERVICIOS ARTÍSTICOS MUSICALES Y OTROS, ACTIVIDAD MUNICIPAL “CELEBRACIÓN ANIVERSARIO VILLA CERRO CASTILLO 2025”, ENTRE LOS DÍAS ENTRE LOS DÍAS 09.11.2026 AL 14.11.2026.",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
   {
    "tipo": "OPORTUNIDAD",
    "motivos": [
@@ -470,6 +441,24 @@
   }
  ],
  "historial": [
+  {
+   "codigo": "4066-459-COT26",
+   "nombre": "SERVICIO DE PRODUCCIÓN EVENTOS PARA LA AMPLIFICACIÓN, SONIDO E ILUMINACIÓN, SERVICIOS ARTÍSTICOS MUSICALES Y OTROS, ACTIVIDAD MUNICIPAL “ANIVERSARIO VILLA CERRO CASTILLO 2026”.",
+   "organismo": "I MUNICIPALIDAD RIO IBANEZ",
+   "monto": 7170000,
+   "cierre_iso": "2026-11-01T15:00:00-03:00",
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Ventas y marketing"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=4066-459-COT26",
+   "primera_vista_iso": "2026-10-30T17:56:18-03:00",
+   "removida_iso": "2026-11-01T17:39:52-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
   {
    "codigo": "1057062-493-COT26",
    "nombre": "Adquisición de micrófonos, atril, luces, telón y otros implementos [Fisabs 2310 - URYRED 22995] ",
@@ -1070,24 +1059,6 @@
    "primera_vista_iso": "2026-10-25T10:47:48-03:00",
    "removida_iso": "2026-10-26T13:13:41-03:00",
    "estado_api": null,
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "1343644-108-COT26",
-   "nombre": "Servicio de producción Conmemoración Mes de las personas mayores 2026",
-   "organismo": "I MUNICIPALIDAD DE O HIGGINS",
-   "monto": 1200000,
-   "cierre_iso": "2026-10-25T17:00:00-03:00",
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Ventas y marketing"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1343644-108-COT26",
-   "primera_vista_iso": "2026-10-22T17:57:00-03:00",
-   "removida_iso": "2026-10-25T18:00:49-03:00",
-   "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,
    "adj_iso": null
