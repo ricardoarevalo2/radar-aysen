@@ -18,49 +18,7 @@
   "adj_nombre": null,
   "adj_monto": null,
   "adj_iso": null,
-  "adj_revisado_iso": "2026-11-01T21:55:12-03:00"
- },
- "1905-77-COT26": {
-  "codigo": "1905-77-COT26",
-  "nombre": "Instalación lamparas de Emergencia y Letreros Led Salida Emergencia Oficina de Puerto Aysén",
-  "organismo": "SERVICIO DE REGISTRO CIVIL E IDENTIFICAC",
-  "unidad": "Dirección Regional XI Región",
-  "monto": 900000,
-  "cierre_iso": "2026-10-26T09:00:00-03:00",
-  "tipo": "OPORTUNIDAD",
-  "motivos": [
-   "Servicios eléctricos"
-  ],
-  "link": "https://buscador.mercadopublico.cl/ficha?code=1905-77-COT26",
-  "primera_vista_iso": "2026-10-21T16:55:28-03:00",
-  "ultima_activa_iso": "2026-10-25T22:25:36-03:00",
-  "removida_iso": "2026-10-26T13:13:41-03:00",
-  "estado_api": "",
-  "adj_nombre": null,
-  "adj_monto": null,
-  "adj_iso": null,
-  "adj_revisado_iso": "2026-11-01T21:55:12-03:00"
- },
- "1458-25-COT26": {
-  "codigo": "1458-25-COT26",
-  "nombre": "Adquisición diésel calefacción",
-  "organismo": "SERPLAC XI Región",
-  "unidad": "SERPLAC XI Región",
-  "monto": 6917449,
-  "cierre_iso": "2026-10-26T10:00:00-03:00",
-  "tipo": "POSIBLE",
-  "motivos": [
-   "electricidad"
-  ],
-  "link": "https://buscador.mercadopublico.cl/ficha?code=1458-25-COT26",
-  "primera_vista_iso": "2026-10-22T12:57:35-03:00",
-  "ultima_activa_iso": "2026-10-25T22:25:36-03:00",
-  "removida_iso": "2026-10-26T13:13:41-03:00",
-  "estado_api": "",
-  "adj_nombre": null,
-  "adj_monto": null,
-  "adj_iso": null,
-  "adj_revisado_iso": "2026-11-01T21:55:12-03:00"
+  "adj_revisado_iso": "2026-11-02T16:38:38-03:00"
  },
  "2042-372-COT26": {
   "codigo": "2042-372-COT26",
@@ -81,7 +39,7 @@
   "adj_nombre": null,
   "adj_monto": null,
   "adj_iso": null,
-  "adj_revisado_iso": "2026-11-01T21:55:12-03:00"
+  "adj_revisado_iso": "2026-11-02T16:38:38-03:00"
  },
  "1458-26-COT26": {
   "codigo": "1458-26-COT26",
@@ -102,7 +60,7 @@
   "adj_nombre": null,
   "adj_monto": null,
   "adj_iso": null,
-  "adj_revisado_iso": "2026-11-01T21:55:12-03:00"
+  "adj_revisado_iso": "2026-11-02T16:38:38-03:00"
  },
  "1233615-852-COT26": {
   "codigo": "1233615-852-COT26",
@@ -123,7 +81,7 @@
   "adj_nombre": null,
   "adj_monto": null,
   "adj_iso": null,
-  "adj_revisado_iso": "2026-11-01T17:39:52-03:00"
+  "adj_revisado_iso": "2026-11-02T16:38:38-03:00"
  },
  "1274667-416-COT26": {
   "codigo": "1274667-416-COT26",
@@ -144,7 +102,7 @@
   "adj_nombre": null,
   "adj_monto": null,
   "adj_iso": null,
-  "adj_revisado_iso": "2026-11-01T17:39:52-03:00"
+  "adj_revisado_iso": "2026-11-02T16:38:38-03:00"
  },
  "3949-265-COT26": {
   "codigo": "3949-265-COT26",
@@ -474,15 +432,15 @@
   "organismo": "I MUNICIPALIDAD DE COYHAIQUE",
   "unidad": "DIRECCION DESARROLLO COMUNITARIO",
   "monto": 216000,
-  "cierre_iso": "2026-10-29T13:00:00-03:00",
+  "cierre_iso": "2026-11-03T15:10:00-03:00",
   "tipo": "OPORTUNIDAD",
   "motivos": [
    "Suministros y accesorios eléctricos"
   ],
   "link": "https://buscador.mercadopublico.cl/ficha?code=2495-591-COT26",
   "primera_vista_iso": "2026-10-28T13:11:01-03:00",
-  "ultima_activa_iso": "2026-10-28T22:06:03-03:00",
-  "removida_iso": "2026-10-29T13:17:18-03:00",
+  "ultima_activa_iso": "2026-11-02T16:38:38-03:00",
+  "removida_iso": null,
   "estado_api": null,
   "adj_nombre": null,
   "adj_monto": null,
@@ -502,7 +460,7 @@
   ],
   "link": "https://buscador.mercadopublico.cl/ficha?code=418-1720-COT26",
   "primera_vista_iso": "2026-10-28T13:11:01-03:00",
-  "ultima_activa_iso": "2026-11-01T21:55:12-03:00",
+  "ultima_activa_iso": "2026-11-02T16:38:38-03:00",
   "removida_iso": null,
   "estado_api": null,
   "adj_nombre": null,
@@ -629,7 +587,7 @@
   "link": "https://buscador.mercadopublico.cl/ficha?code=1233615-886-COT26",
   "primera_vista_iso": "2026-10-28T18:12:20-03:00",
   "ultima_activa_iso": "2026-11-01T21:55:12-03:00",
-  "removida_iso": null,
+  "removida_iso": "2026-11-02T16:38:38-03:00",
   "estado_api": null,
   "adj_nombre": null,
   "adj_monto": null,
@@ -670,7 +628,7 @@
   ],
   "link": "https://buscador.mercadopublico.cl/ficha?code=1113144-82-COT26",
   "primera_vista_iso": "2026-10-29T13:17:18-03:00",
-  "ultima_activa_iso": "2026-11-01T21:55:12-03:00",
+  "ultima_activa_iso": "2026-11-02T16:38:38-03:00",
   "removida_iso": null,
   "estado_api": null,
   "adj_nombre": null,
@@ -691,7 +649,7 @@
   ],
   "link": "https://buscador.mercadopublico.cl/ficha?code=1403-464-COT26",
   "primera_vista_iso": "2026-10-29T13:17:18-03:00",
-  "ultima_activa_iso": "2026-11-01T21:55:12-03:00",
+  "ultima_activa_iso": "2026-11-02T16:38:38-03:00",
   "removida_iso": null,
   "estado_api": null,
   "adj_nombre": null,
@@ -712,7 +670,7 @@
   ],
   "link": "https://buscador.mercadopublico.cl/ficha?code=3325-31-COT26",
   "primera_vista_iso": "2026-10-29T13:17:18-03:00",
-  "ultima_activa_iso": "2026-11-01T21:55:12-03:00",
+  "ultima_activa_iso": "2026-11-02T16:38:38-03:00",
   "removida_iso": null,
   "estado_api": null,
   "adj_nombre": null,
@@ -796,7 +754,7 @@
   ],
   "link": "https://buscador.mercadopublico.cl/ficha?code=3171-157-COT26",
   "primera_vista_iso": "2026-10-29T18:15:57-03:00",
-  "ultima_activa_iso": "2026-11-01T21:55:12-03:00",
+  "ultima_activa_iso": "2026-11-02T16:38:38-03:00",
   "removida_iso": null,
   "estado_api": null,
   "adj_nombre": null,
@@ -840,7 +798,7 @@
   "link": "https://buscador.mercadopublico.cl/ficha?code=886182-248-COT26",
   "primera_vista_iso": "2026-10-30T13:05:28-03:00",
   "ultima_activa_iso": "2026-11-01T21:55:12-03:00",
-  "removida_iso": null,
+  "removida_iso": "2026-11-02T16:38:38-03:00",
   "estado_api": null,
   "adj_nombre": null,
   "adj_monto": null,
@@ -861,7 +819,7 @@
   "link": "https://buscador.mercadopublico.cl/ficha?code=734-201-COT26",
   "primera_vista_iso": "2026-10-30T13:05:28-03:00",
   "ultima_activa_iso": "2026-11-01T21:55:12-03:00",
-  "removida_iso": null,
+  "removida_iso": "2026-11-02T16:38:38-03:00",
   "estado_api": null,
   "adj_nombre": null,
   "adj_monto": null,
@@ -883,7 +841,7 @@
   ],
   "link": "https://buscador.mercadopublico.cl/ficha?code=1281188-19-COT26",
   "primera_vista_iso": "2026-10-30T13:05:28-03:00",
-  "ultima_activa_iso": "2026-11-01T21:55:12-03:00",
+  "ultima_activa_iso": "2026-11-02T16:38:38-03:00",
   "removida_iso": null,
   "estado_api": null,
   "adj_nombre": null,
@@ -906,6 +864,74 @@
   "primera_vista_iso": "2026-10-30T17:56:18-03:00",
   "ultima_activa_iso": "2026-11-01T13:10:43-03:00",
   "removida_iso": "2026-11-01T17:39:52-03:00",
+  "estado_api": null,
+  "adj_nombre": null,
+  "adj_monto": null,
+  "adj_iso": null,
+  "adj_revisado_iso": null
+ },
+ "3791-1096-COT26": {
+  "codigo": "3791-1096-COT26",
+  "nombre": "ESPACIOS PUBLICOS ZONA SUR ",
+  "organismo": "I MUNICIPALIDAD DE CISNES",
+  "unidad": "Finanzas",
+  "monto": 4286244,
+  "cierre_iso": "2026-11-03T12:00:00-03:00",
+  "tipo": "OPORTUNIDAD",
+  "motivos": [
+   "Cables eléctricos y accesorios",
+   "Cajas y accesorios eléctricos"
+  ],
+  "link": "https://buscador.mercadopublico.cl/ficha?code=3791-1096-COT26",
+  "primera_vista_iso": "2026-11-02T16:38:38-03:00",
+  "ultima_activa_iso": "2026-11-02T16:38:38-03:00",
+  "removida_iso": null,
+  "estado_api": null,
+  "adj_nombre": null,
+  "adj_monto": null,
+  "adj_iso": null,
+  "adj_revisado_iso": null
+ },
+ "951405-261-COT26": {
+  "codigo": "951405-261-COT26",
+  "nombre": "(F.INT-CC.MANT.CAS.OFLES) JAL_CAJ_ADQ. DE MATERIALES PARA REPARACIÓN DE SISTEMA ELÉCTRICO DE TERMOS DE AGUA EN EL CASINO DE OFICIALES DEL CIELB.",
+  "organismo": "JEFATURA ADMINISTRATIVA Y LOGISTICA DE LA GUARNICION COYHAIQUE",
+  "unidad": "JAL - Guarnición \"Coyhaique\"",
+  "monto": 200000,
+  "cierre_iso": "2026-11-04T09:00:00-03:00",
+  "tipo": "OPORTUNIDAD",
+  "motivos": [
+   "Cables eléctricos y accesorios",
+   "Conectores, enchufes y terminales",
+   "Interruptores, controles y relés"
+  ],
+  "link": "https://buscador.mercadopublico.cl/ficha?code=951405-261-COT26",
+  "primera_vista_iso": "2026-11-02T16:38:38-03:00",
+  "ultima_activa_iso": "2026-11-02T16:38:38-03:00",
+  "removida_iso": null,
+  "estado_api": null,
+  "adj_nombre": null,
+  "adj_monto": null,
+  "adj_iso": null,
+  "adj_revisado_iso": null
+ },
+ "3950-710-COT26": {
+  "codigo": "3950-710-COT26",
+  "nombre": "Repuestos para Aires Acondicionado CLJ",
+  "organismo": "DIRECCION SALUD RURAL",
+  "unidad": "Dirección de Salud Rural",
+  "monto": 350000,
+  "cierre_iso": "2026-11-04T09:00:00-03:00",
+  "tipo": "POSIBLE",
+  "motivos": [
+   "aire acondicionado",
+   "enchufe",
+   "enchufes"
+  ],
+  "link": "https://buscador.mercadopublico.cl/ficha?code=3950-710-COT26",
+  "primera_vista_iso": "2026-11-02T16:38:38-03:00",
+  "ultima_activa_iso": "2026-11-02T16:38:38-03:00",
+  "removida_iso": null,
   "estado_api": null,
   "adj_nombre": null,
   "adj_monto": null,

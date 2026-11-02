@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-11-01T21:55:12.174718-03:00",
+ "actualizado": "2026-11-02T16:38:38.778907-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
- "total_region": 200,
+ "total_region": 236,
  "rubros": {
   "80141600": "Ventas y marketing",
   "82101600": "Publicidad en medios no impresos",
@@ -14,218 +14,6 @@
   "83121700": "Comunicación social y de masas"
  },
  "filas": [
-  {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Fotógrafos y camarógrafos"
-   ],
-   "nueva": false,
-   "codigo": "2494-277-COT26",
-   "nombre": "BAP - Servicio de Taller de Fotografía , en el Marco del Plan de  Confianza Social del Barrio Arturo Prat - PROGRAMA RECUPERACIÓN DE BARRIOS",
-   "organismo": "I MUNICIPALIDAD DE COYHAIQUE",
-   "unidad": "SECRETARIA COMUNAL DE PLANIFICACION",
-   "monto": 400000,
-   "cierre_iso": "2026-11-02T04:46:00-03:00",
-   "publicacion": "27-10 17:13",
-   "publicacion_iso": "2026-10-27T17:13:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "82131604",
-     "Estudio fotográfico",
-     1,
-     "Se requiere contratar un servicio de taller de fotografía para 15 participantes, en el marco del Plan de Confianza Social del Barrio Arturo Prat, orientado al aprendizaje y desarrollo de habilidades creativas y comunicacionales a través de la fotografía, promoviendo además un espacio de encuentro, expresión personal y participación comunitaria. SE ADJUNTA LA DOCUMENTACIÓN \"TDR-TALLER-DE-FOTOGRAFIA.PDF\" CON LOS DETALLES DEL SERVICIO A SOLICITAR."
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=2494-277-COT26",
-   "sin_detalle": false,
-   "descripcion": "Se requiere contratar un servicio de taller de fotografía para 15 participantes, en el marco del Plan de \nConfianza Social del Barrio Arturo Prat, orientado al aprendizaje y desarrollo de habilidades creativas \ny comunicacionales a través de la fotografía, promoviendo además un espacio de encuentro, \nexpresión personal y participación comunitaria.",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "difusion",
-    "radiales",
-    "redes sociales"
-   ],
-   "nueva": false,
-   "codigo": "4140-105-COT26",
-   "nombre": "DIFUSION DIGITAL PAR ALA PROMOCION DE LAS ACTIVIDAES PROYECTO \"NIÑEZ Y PATRIMONIO\"",
-   "organismo": "I MUNICIPALIDAD DE LAGO VERDE",
-   "unidad": "Adquisiciones",
-   "monto": 500000,
-   "cierre_iso": "2026-11-02T08:30:00-03:00",
-   "publicacion": "30-10 09:08",
-   "publicacion_iso": "2026-10-30T09:08:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "55101519",
-     "Publicaciones periódicas",
-     1,
-     "SE REQUIERE LA CONTRATACION DE 01 SERVICIO DE DIFUSION QUE CONTEMPLE 06 PUBLICACIONES DIGITALES, 02 ARTICULOS DEL PROYECTO EN SITIO WEB, 10 DIFUSIONES RADIALES O TELEVISIVA DIGITAL, 02 PUBLICACIONES DE LA CEREMONIA DE CIERRE, 01 PUBLICACION DE RESULTADO EN REDES SOCIALES. LAS OFERTAS NO DEBEN SUPERAR LA DISPONIBILIDAD INDICADA."
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=4140-105-COT26",
-   "sin_detalle": false,
-   "descripcion": "SE REQUIERE LA CONTRATACION DE 01 SERVICIO DE DIFUSION QUE CONTEMPLE 06 PUBLICACIONES DIGITALES, 02 ARTICULOS DEL PROYECTO EN SITIO WEB, 10 DIFUSIONES RADIALES O TELEVISIVA DIGITAL, 02 PUBLICACIONES DE LA CEREMONIA DE CIERRE, 01 PUBLICACION DE RESULTADO EN REDES SOCIALES. LAS OFERTAS NO DEBEN SUPERAR LA DISPONIBILIDAD INDICADA.",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "televisión"
-   ],
-   "nueva": false,
-   "codigo": "734-199-COT26",
-   "nombre": "ADQUISICIÓN 04 SMART TV Y SOPORTES MURALES COMPATIBLES PARA COSAM COYHAIQUE",
-   "organismo": "SERVICIO DE SALUD AYSEN CARLOS IBANEZ DEL CAMPO",
-   "unidad": "DIRECCION",
-   "monto": 1270000,
-   "cierre_iso": "2026-11-02T11:00:00-03:00",
-   "publicacion": "30-10 10:06",
-   "publicacion_iso": "2026-10-30T10:06:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "45111802",
-     "Soportes de televisión",
-     3,
-     "3 Soportes compatibles con televisores de 32 pulgadas, compatibilidad con patrón de montaje VESA y peso de cada televisor ofertado, capacidad de carga certificada o declarada por el fabricante, con margen de seguridad para el equipo asociado, estructura metálica, tornillos y elementos de fijación incluidos, se aceptan soportes fijos inclinables, adecuados para su uso seguro en muro. Revisar y cumplir con Especificaciones Técnicas adjuntas."
-    ],
-    [
-     "45111802",
-     "Soportes de televisión",
-     1,
-     "1 Soporte compatible con televisor de 55 pulgadas, compatibilidad con patrón de montaje VESA y peso de cada televisor ofertado, capacidad de carga certificada o declarada por el fabricante, con margen de seguridad para el equipo asociado, estructura metálica, tornillos y elementos de fijación incluidos, se aceptan soportes fijos inclinables, adecuados para su uso seguro en muro. Revisar y cumplir con Especificaciones Técnicas adjuntas."
-    ],
-    [
-     "52161505",
-     "Televisores convencionales, de plasma y LCD",
-     3,
-     "03 Smart TV de 32 pulgadas, pantalla LED, QLED o tecnología equivalente, resolución mínima Full HD (1920x1080), para lectura de textos y presentaciones, sistema Smart TV vigente, con conexión Wi-Fi, conectividad mínima: 2 entradas HDMI, 1 puerto USB y conexión inalámbrica Wi-Fi, bluetooth incorporado, frecuencia de imagen mínima de 60 Hz o equivalente, funciones de duplicación/transmisión de pantalla, control remoto, cable de alimentación y accesorios de fábrica incluidos. Revisar EETT adjuntas."
-    ],
-    [
-     "52161505",
-     "Televisores convencionales, de plasma y LCD",
-     1,
-     "01 Smart TV de 55 pulgadas, resolución mínima 4K UHD (3840x2160), con compatibilidad HDR10 o tecnología equivalente, sistema Smart TV vigente, con actualizaciones de software del fabricante, conectividad mínima: 3 entradas HDMI, 1 puerto USB, Wi-Fi y Bluetooth, frecuencia de imagen mínima de 60 Hz o equivalente, funciones de duplicación/transmisión de pantalla, control remoto, cable de alimentación y accesorios de fábrica incluidos. Revisar y cumplir con Especificaciones Técnicas adjuntas."
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=734-199-COT26",
-   "sin_detalle": false,
-   "descripcion": "Se solicita la adquisición de 03 Smart TV de 32 pulgadas y 01 Smart TV de 55 pulgadas, con sus respectivos soportes murales compatibles para COSAM Coyhaique. Se evaluará precio y plazo de entrega según documento adjunto. Se debe revisar y cumplir con lo indicado en Especificaciones Técnicas. Equipos nuevos, sin uso, de fabricación y comercialización vigentes, garantía mínima 12 meses, se debe indicar marca, modelo y ficha técnica, acreditando el cumplimiento de las características solicitadas.",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "publicitarios"
-   ],
-   "nueva": false,
-   "codigo": "3765-323-COT26",
-   "nombre": "INSUMOS PARA PRESENTACIÓN DE STANDS EDUCATIVOS",
-   "organismo": "SERVICIO NACIONAL DE SALUD HOSPITAL DE C",
-   "unidad": "Hospital Doctor  Leopoldo Ortega Rodríguez",
-   "monto": 100000,
-   "cierre_iso": "2026-11-02T14:00:00-03:00",
-   "publicacion": "30-10 14:55",
-   "publicacion_iso": "2026-10-30T14:55:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "31281521",
-     "Estampados revestidos",
-     1,
-     "MANTEL DE 2 METROS DE LARGO X 1.70 METROS DE ALTO X 60CM DE ANCHO COLOR AZUL REY (DISEÑO ADJUNTO)"
-    ],
-    [
-     "82101501",
-     "Letreros publicitarios",
-     1,
-     "PENDON ROLER DE 1.70 METROS DE ALTO X 60 CENTIMETROS DE ANCHO (DISEÑO ADJUNTO)"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=3765-323-COT26",
-   "sin_detalle": false,
-   "descripcion": "COMPRA DE PENDON Y MANTEL PARA PRESENTACIÓN DE STANDS EDUCATIVOS HLOR. LAS COTIZACIONES INGRESADAS DEBERÁN ENVIAR IMAGENES REFERENCIALES DEL PRODUCTO OFERTADO. LAS COTIZACIONES QUEDARÁN SUETAS AL DISEÑO PRESENTADO.",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "difusión"
-   ],
-   "nueva": false,
-   "codigo": "854-32-COT26",
-   "nombre": "Exhibición de mensaje en pantalla digital - JUNJI XI.",
-   "organismo": "JUNTA NACIONAL DE JARDINES         INFANTILES",
-   "unidad": "Junji - XI Región",
-   "monto": 200000,
-   "cierre_iso": "2026-11-02T15:00:00-03:00",
-   "publicacion": "29-10 09:23",
-   "publicacion_iso": "2026-10-29T09:23:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "45111606",
-     "Paneles de exhibición de cristal líquido",
-     1,
-     "Exhibición de mensaje en pantalla digital de 30 segundos, de lunes a viernes, durante 30 días hábiles de exhibición"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=854-32-COT26",
-   "sin_detalle": false,
-   "descripcion": "Las presentes bases tienen por objeto indicar los detalles y aspectos específicos del servicio de difusión en pantalla digital de alto tráfico peatonal y vehicular, ubicada en el sector céntrico de la ciudad de Coyhaique, para la campaña “Asistir al jardín marca la diferencia”, proceso de postulación y matrícula 2027 de JUNJI Región de Aysén.",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "televisión"
-   ],
-   "nueva": false,
-   "codigo": "734-201-COT26",
-   "nombre": "ADQUISICIÓN TELEVISOR SMART TV, SOPORTE Y CABLE HDMI",
-   "organismo": "SERVICIO DE SALUD AYSEN CARLOS IBANEZ DEL CAMPO",
-   "unidad": "DIRECCION",
-   "monto": 450000,
-   "cierre_iso": "2026-11-02T16:00:00-03:00",
-   "publicacion": "30-10 11:55",
-   "publicacion_iso": "2026-10-30T11:55:00-03:00",
-   "ofertas": 1,
-   "productos": [
-    [
-     "26121604",
-     "Cable para señales",
-     1,
-     "01 Cable HDMI, longitud 10 metros, conectores HDMI en ambos extremos, compatibilidad con resolución 4K UHD, capacidad de transmisión de audio y video digital, compatibilidad con la conexión entre un computador u otro dispositivo con salida HDMI y el televisor ofertado. Todos los componentes deben ser nuevos, sin uso y en perfecto estado. Se debe garantizar la compatibilidad entre todos los bienes. Revisar y cumplir con Especificaciones Técnicas adjuntas."
-    ],
-    [
-     "45111802",
-     "Soportes de televisión",
-     1,
-     "01 Soporte Mural Articulado compatible con televisor de 55 pulgadas, capacidad de carga de al menos 35 kg, giro horizontal de hasta 90° e inclinación de hasta 15°, diseño articulado, compatibilidad con el patrón de montaje VESA del televisor, inclusión de elementos de fijación y accesorios necesarios para su instalación. Revisar y cumplir con Especificaciones Técnicas adjuntas."
-    ],
-    [
-     "52161505",
-     "Televisores convencionales, de plasma y LCD",
-     1,
-     "Smart TV de 55 pulgadas, resolución 4K UHD, equivalente a 3840x2160, tecnología de pantalla Mini LED, QNED o UHD LED/LCD, sistema operativo para acceder a aplicaciones y servicios digitales, conectividad inalámbrica Wi-Fi integrada, mínimo 3 puertos HDMI y 1 puerto USB, funciones de inteligencia artificial integradas, asistente virtual, control remoto inteligente, compatibilidad con computadores y otros dispositivos, inclusión de cable de alimentación y accesorios necesarios. Cumplir con EETT."
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=734-201-COT26",
-   "sin_detalle": false,
-   "descripcion": "Se solicita 01 Televisor Smart TV de 55 pulgadas, resolución 4K UHD, con tecnología de pantalla mini LED, QNED o UHD que incluya soporte mural articulado compatible y cable HDMI de 10 metros compatible con resolución 4K UHD. Se evaluará precio, especificaciones técnicas y plazo de entrega. Los bienes deben entregarse nuevos, completos, correctamente embalados y sin daños visibles, incluir accesorios. Revisar y cumplir con lo indicado en Especificaciones Técnicas adjuntas.",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
   {
    "tipo": "POSIBLE",
    "motivos": [
@@ -293,6 +81,35 @@
   {
    "tipo": "OPORTUNIDAD",
    "motivos": [
+    "Fotógrafos y camarógrafos"
+   ],
+   "nueva": true,
+   "codigo": "2494-281-COT26",
+   "nombre": "BAP - Servicio de Taller de Fotografía , en el Marco del Plan de Confianza Social del Barrio Arturo Prat - PROGRAMA RECUPERACIÓN DE BARRIOS",
+   "organismo": "I MUNICIPALIDAD DE COYHAIQUE",
+   "unidad": "SECRETARIA COMUNAL DE PLANIFICACION",
+   "monto": 400000,
+   "cierre_iso": "2026-11-03T11:00:00-03:00",
+   "publicacion": "02-11 10:02",
+   "publicacion_iso": "2026-11-02T10:02:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "82131604",
+     "Estudio fotográfico",
+     1,
+     "Se requiere contratar un servicio de taller de fotografía para 15 participantes, en el marco del Plan de\nConfianza Social del Barrio Arturo Prat, orientado al aprendizaje y desarrollo de habilidades creativas y\ncomunicacionales a través de la fotografía, promoviendo además un espacio de encuentro,\nexpresión personal y participación comunitaria. SE ADJUNTA LA DOCUMENTACIÓN \"TDR-TALLER-DE-FOTOGRAFIA(1).PDF\" CON LOS\nDETALLES DEL SERVICIO A SOLICITAR."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=2494-281-COT26",
+   "sin_detalle": false,
+   "descripcion": "Se requiere contratar un servicio de taller de fotografía para 15\nparticipantes, en el marco del Plan de Confianza Social del Barrio Arturo\nPrat, orientado al aprendizaje y desarrollo de habilidades creativas y\ncomunicacionales a través de la fotografía, promoviendo además un\nespacio de encuentro, expresión personal y participación comunitaria.",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
     "Agencias de publicidad"
    ],
    "nueva": false,
@@ -316,6 +133,140 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=723-26-COT26",
    "sin_detalle": false,
    "descripcion": "Contratación de servicios para la elaboración de productos\ncomunicacionales destinados a la difusión y promoción del\nprograma FNDR “Fomento de los Territorios Palena Queulat y\nLitoral de la Comuna de Cisnes en Turismo” CÓDIGO BIP 40073606-0",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Ventas y marketing"
+   ],
+   "nueva": true,
+   "codigo": "3797-511-COT26",
+   "nombre": "PINES Y ARTICULOS PROMOCIONALES",
+   "organismo": "I MUNICIPALIDAD DE COCHRANE",
+   "unidad": "I MUNICIPALIDAD DE COCHRANE",
+   "monto": 580000,
+   "cierre_iso": "2026-11-03T12:00:00-03:00",
+   "publicacion": "02-11 11:39",
+   "publicacion_iso": "2026-11-02T11:39:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "80141611",
+     "Personalización de regalos o productos promocionales",
+     50,
+     "PIN 2,5 CMS. DE ALTO, ACUÑADO EN METAL, PARTE TRAVERSA 2 CLAVOS DE SUJECION"
+    ],
+    [
+     "80141611",
+     "Personalización de regalos o productos promocionales",
+     50,
+     "PIN 3 CMS DE ANCHO, ACUÑADO EN METAL , PARTE TRASERA 2 CLAVOS DE SUJECION"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=3797-511-COT26",
+   "sin_detalle": false,
+   "descripcion": "ADQUIRIR OINES METALICOS ESMALTADOS A TODO COLOR PARA SOLAPA, DESTINADOS A LA IDENTIFICACION INSTITUCIONAL DEL ALCALDE Y DE LOS FUNCIOANRIOS DE LA MUNICIPALIDAD DE COCHRANE, ASI COMO ARTICULOS PROMOCIONALES CORPORATIVOS PARA PROMOVER A COCHRANE COMO DESTINO TURISTICO DURANTE TODO EL AÑO.",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "publicitaria"
+   ],
+   "nueva": true,
+   "codigo": "2713-1320-COT26",
+   "nombre": "Impresiones - DIDECO - Turismo - 1376",
+   "organismo": "I MUNICIPALIDAD DE AYSEN",
+   "unidad": "I.MUNICIPALIDAD AYSEN-ADQUISICIONES",
+   "monto": 900000,
+   "cierre_iso": "2026-11-03T12:00:00-03:00",
+   "publicacion": "02-11 11:37",
+   "publicacion_iso": "2026-11-02T11:37:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "82121505",
+     "Impresión promocional o publicitaria",
+     500,
+     "Adhesivos troquelados e impermeables, según especificaciones técnicas adjuntas"
+    ],
+    [
+     "82121505",
+     "Impresión promocional o publicitaria",
+     500,
+     "Trípticos tamaño carta, según especificaciones técnicas adjuntas"
+    ],
+    [
+     "82121505",
+     "Impresión promocional o publicitaria",
+     100,
+     "Mapas de la comuna de Aysén, impresos en tela tipo lienzo bandera, según especificaciones técnicas adjuntas"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=2713-1320-COT26",
+   "sin_detalle": false,
+   "descripcion": "Adquisición de impresiones según anexo adjunto, las ofertas deberán: incluir la totalidad de las características solicitadas, ajustarse al presupuesto disponible, el oferente asumirá COSTO DE TRANSPORTE (no desglosarlo como ítem aparte), debe indicar plazo de entrega (no se aceptara plazo de despacho y el plazo de entrega iniciará el día hábil subsiguiente al envío de la OC), las gráficas serán enviadas al proveedor adjudicado. Ofertas que no cumplan con lo anterior serán rechazadas.",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "fotografía"
+   ],
+   "nueva": true,
+   "codigo": "2495-602-COT26",
+   "nombre": "cajonera plastica",
+   "organismo": "I MUNICIPALIDAD DE COYHAIQUE",
+   "unidad": "DIRECCION DESARROLLO COMUNITARIO",
+   "monto": 60000,
+   "cierre_iso": "2026-11-03T13:14:00-03:00",
+   "publicacion": "29-10 11:55",
+   "publicacion_iso": "2026-10-29T11:55:00-03:00",
+   "ofertas": 2,
+   "productos": [
+    [
+     "31261501",
+     "Cubiertas y cajas de plástico",
+     2,
+     "mueble plástico organizador con 3 cajones"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=2495-602-COT26",
+   "sin_detalle": false,
+   "descripcion": "se requiere la compra de dos cajoneras plásticas para almacenar artículos de oficina, se privilegiará proveedor de la comuna de Coyhaique con disponibilidad inmediata y disposición a cambios, presentar cotización con fotografía.",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "radio"
+   ],
+   "nueva": true,
+   "codigo": "1233615-904-COT26",
+   "nombre": "DMH [SOL-2026-02128] PARLANTE CON MICROFONO PARA ACTIVIDADES PEDAGOGICAS JARDIN INFANTIL AYELEN RUKA",
+   "organismo": "Servicio Local de Educación Pública Aysén",
+   "unidad": "Servicio Local de Educación Pública Aysén",
+   "monto": 180000,
+   "cierre_iso": "2026-11-03T15:00:00-03:00",
+   "publicacion": "02-11 10:47",
+   "publicacion_iso": "2026-11-02T10:47:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "52161512",
+     "Parlantes",
+     1,
+     "Caja acústica activa portátil MEKSE, modelo CBT-15-2MIC, de 15 pulgadas, con Bluetooth y batería recargable. Incluye dos micrófonos inalámbricos VHF, control remoto y cable de alimentación. Cuenta con ecualizador de 5 bandas, efecto eco, entradas para micrófonos y guitarra, además de reproducción por USB, tarjeta SD y radio FM."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1233615-904-COT26",
+   "sin_detalle": false,
+   "descripcion": "Parlante mas micrófono para el Jardín Infantil y Sala Cuna Ayelen Ruka, cuya adquisición permitirá apoyar las experiencias pedagógicas y los cierres de unidad vinculados con nuestro sello artístico y medioambiental, facilitando el uso de música, la participación de las familias y el desarrollo de actividades con los niños y niñas.",
    "en_gracia": false,
    "desaparecida_iso": ""
   },
@@ -379,6 +330,95 @@
    "desaparecida_iso": ""
   },
   {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Ventas y marketing"
+   ],
+   "nueva": true,
+   "codigo": "2495-609-COT26",
+   "nombre": "\"Servicio integral de producción técnica y show artístico para Festival de la voz”, Programa Promoción de la salud 2026",
+   "organismo": "I MUNICIPALIDAD DE COYHAIQUE",
+   "unidad": "DIRECCION DESARROLLO COMUNITARIO",
+   "monto": 1200000,
+   "cierre_iso": "2026-11-03T16:00:00-03:00",
+   "publicacion": "02-11 15:57",
+   "publicacion_iso": "2026-11-02T15:57:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "80141607",
+     "Producción de eventos",
+     1,
+     "se adjuntan bases tecnicas"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=2495-609-COT26",
+   "sin_detalle": false,
+   "descripcion": "Se adjuntan bases.",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "difusion"
+   ],
+   "nueva": true,
+   "codigo": "1758-273-COT26",
+   "nombre": "CAFETERIA JORNADA DIFUSION NUEVA POLITICA DE EDUCACION EN TERRITORIOS RURALES Y CAPACITACION DE COORD. MICROCENTROS EN COYHAIQUE",
+   "organismo": "SECRETARIA REGIONAL MINISTERIAL DE EDUCACION XI REGION",
+   "unidad": "Mineduc Administración XI Región",
+   "monto": 435000,
+   "cierre_iso": "2026-11-03T16:30:00-03:00",
+   "publicacion": "02-11 14:56",
+   "publicacion_iso": "2026-11-02T14:56:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "90101603",
+     "Servicios de catering",
+     45,
+     "30 SERVICIOS DE CAFETERIA EL 10 DE NOVIEMBRE SERVIDO A LAS 10:30 HRS.\n15 SERVICIOS DE CAFETERIA EL 10 DE NOVIEMBRE SERVIDO A LAS 16.30 HRS.\nCONTENGAN; JUGO NATURAL DE PULPA, TE/CAFE DE GRANO/LECHE SIN LACTOSA SIN CORTAR,FRUTA NATURAL EN BROCHETA O PICADA, 02 MINI SADWINCH O ALTERNATIVA SALADAS P.P. 03 ALTERNATIVAS DULCES P.P. FRUTOS SECOS O SUGERENCIA DEL PROVEEDOR. A REALIZARSE EN DEPENDENCIAS DEL LICEO JOSEFINA AGUIRRE EN LA CIUDAD DE COYHAIQUE."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1758-273-COT26",
+   "sin_detalle": false,
+   "descripcion": "45 SERVICIOS CAFETERÍAS PARA EL DÍA 10/11/2026 AM Y PM. EL PROVEEDOR DEBE CONSIDERAR MONTAJE, VAJILLA, MANTELERIA. ADEMÁS, SE PIVILEGIARÁ A LOS OFERENTES QUE CUENTEN CON POLÍTICAS QUE INCLUYAN PLAN DE MANEJO DE RESIDUOS, NO USO DE PLUMAVIT Y PREFERENCIA POR LO REUTILIZABLE O COMPOSTABLE. EL PROVEEDOR DEBERÁ CONTAR CON TODAS LAS AUTORIZACIONES SANITARIAS. COORDINADORA A CARGO SRTA. LORENA ZAPATA, SECREDUC.",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "audiovisuales",
+    "radio",
+    "streaming"
+   ],
+   "nueva": true,
+   "codigo": "4733-450-COT26",
+   "nombre": "SERVICIO DE PLATAFORMA STREAMING Y TRANSMISION MULTICANAL POR 12 MESES",
+   "organismo": "I MUNICIPALIDAD DE LAS GUAITECAS",
+   "unidad": "I MUNICIPALIDAD DE LAS GUAITECAS",
+   "monto": 550000,
+   "cierre_iso": "2026-11-05T08:00:00-03:00",
+   "publicacion": "02-11 15:27",
+   "publicacion_iso": "2026-11-02T15:27:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "43232915",
+     "Software de interconectividad de plataformas",
+     1,
+     "SUSCRIPCIÓN ANUAL PLATAFORMA DE STREAMING MULTICANAL"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=4733-450-COT26",
+   "sin_detalle": false,
+   "descripcion": "Se requiere contratar por un periodo de 12 meses una plataforma de streaming profesional para realización y transmisión simultanea de actividades de la radio la voz del ciprés y otros contenidos audiovisuales institucionales a través de Facebook, YouTube e Instagram permitiendo el uso de múltiples cámaras, invitados, gráficos y otras fuentes de videos, adjuntar cotización",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
    "tipo": "POSIBLE",
    "motivos": [
     "difusión",
@@ -438,9 +478,136 @@
    "descripcion": "La adquisición de estos pendones y panel araña responde a la necesidad de fortalecer la identidad visual institucional, apoyar las acciones de comunicación y difusión, y así contribuir a la adecuada implementación de material gráfico y señaléticas de la Dirección Regional de Aysén, perteneciente al Servicio Nacional de Reinserción Social Juvenil.",
    "en_gracia": false,
    "desaparecida_iso": ""
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "publicitarios"
+   ],
+   "nueva": false,
+   "codigo": "3765-323-COT26",
+   "nombre": "INSUMOS PARA PRESENTACIÓN DE STANDS EDUCATIVOS",
+   "organismo": "SERVICIO NACIONAL DE SALUD HOSPITAL DE C",
+   "unidad": "Hospital Doctor  Leopoldo Ortega Rodríguez",
+   "monto": 100000,
+   "cierre_iso": "2026-11-05T13:04:00-03:00",
+   "publicacion": "30-10 14:55",
+   "publicacion_iso": "2026-10-30T14:55:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "31281521",
+     "Estampados revestidos",
+     1,
+     "MANTEL DE 2 METROS DE LARGO X 1.70 METROS DE ALTO X 60CM DE ANCHO COLOR AZUL REY (DISEÑO ADJUNTO)"
+    ],
+    [
+     "82101501",
+     "Letreros publicitarios",
+     1,
+     "PENDON ROLER DE 1.70 METROS DE ALTO X 60 CENTIMETROS DE ANCHO (DISEÑO ADJUNTO)"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=3765-323-COT26",
+   "sin_detalle": false,
+   "descripcion": "COMPRA DE PENDON Y MANTEL PARA PRESENTACIÓN DE STANDS EDUCATIVOS HLOR. LAS COTIZACIONES INGRESADAS DEBERÁN ENVIAR IMAGENES REFERENCIALES DEL PRODUCTO OFERTADO. LAS COTIZACIONES QUEDARÁN SUETAS AL DISEÑO PRESENTADO.",
+   "en_gracia": false,
+   "desaparecida_iso": ""
   }
  ],
  "historial": [
+  {
+   "codigo": "734-201-COT26",
+   "nombre": "ADQUISICIÓN TELEVISOR SMART TV, SOPORTE Y CABLE HDMI",
+   "organismo": "SERVICIO DE SALUD AYSEN CARLOS IBANEZ DEL CAMPO",
+   "monto": 450000,
+   "cierre_iso": "2026-11-02T16:00:00-03:00",
+   "tipo": "POSIBLE",
+   "motivos": [
+    "televisión"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=734-201-COT26",
+   "primera_vista_iso": "2026-10-30T13:05:28-03:00",
+   "removida_iso": "2026-11-02T16:38:38-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
+  {
+   "codigo": "854-32-COT26",
+   "nombre": "Exhibición de mensaje en pantalla digital - JUNJI XI.",
+   "organismo": "JUNTA NACIONAL DE JARDINES         INFANTILES",
+   "monto": 200000,
+   "cierre_iso": "2026-11-02T15:00:00-03:00",
+   "tipo": "POSIBLE",
+   "motivos": [
+    "difusión"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=854-32-COT26",
+   "primera_vista_iso": "2026-10-29T13:17:18-03:00",
+   "removida_iso": "2026-11-02T16:38:38-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
+  {
+   "codigo": "734-199-COT26",
+   "nombre": "ADQUISICIÓN 04 SMART TV Y SOPORTES MURALES COMPATIBLES PARA COSAM COYHAIQUE",
+   "organismo": "SERVICIO DE SALUD AYSEN CARLOS IBANEZ DEL CAMPO",
+   "monto": 1270000,
+   "cierre_iso": "2026-11-02T11:00:00-03:00",
+   "tipo": "POSIBLE",
+   "motivos": [
+    "televisión"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=734-199-COT26",
+   "primera_vista_iso": "2026-10-30T13:05:28-03:00",
+   "removida_iso": "2026-11-02T16:38:38-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
+  {
+   "codigo": "4140-105-COT26",
+   "nombre": "DIFUSION DIGITAL PAR ALA PROMOCION DE LAS ACTIVIDAES PROYECTO \"NIÑEZ Y PATRIMONIO\"",
+   "organismo": "I MUNICIPALIDAD DE LAGO VERDE",
+   "monto": 500000,
+   "cierre_iso": "2026-11-02T08:30:00-03:00",
+   "tipo": "POSIBLE",
+   "motivos": [
+    "difusion",
+    "radiales",
+    "redes sociales"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=4140-105-COT26",
+   "primera_vista_iso": "2026-10-30T13:05:28-03:00",
+   "removida_iso": "2026-11-02T16:38:38-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
+  {
+   "codigo": "2494-277-COT26",
+   "nombre": "BAP - Servicio de Taller de Fotografía , en el Marco del Plan de  Confianza Social del Barrio Arturo Prat - PROGRAMA RECUPERACIÓN DE BARRIOS",
+   "organismo": "I MUNICIPALIDAD DE COYHAIQUE",
+   "monto": 400000,
+   "cierre_iso": "2026-11-02T04:46:00-03:00",
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Fotógrafos y camarógrafos"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=2494-277-COT26",
+   "primera_vista_iso": "2026-10-27T20:52:30-03:00",
+   "removida_iso": "2026-11-02T16:38:38-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
   {
    "codigo": "4066-459-COT26",
    "nombre": "SERVICIO DE PRODUCCIÓN EVENTOS PARA LA AMPLIFICACIÓN, SONIDO E ILUMINACIÓN, SERVICIOS ARTÍSTICOS MUSICALES Y OTROS, ACTIVIDAD MUNICIPAL “ANIVERSARIO VILLA CERRO CASTILLO 2026”.",
@@ -490,24 +657,6 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=1233615-885-COT26",
    "primera_vista_iso": "2026-10-28T18:12:20-03:00",
    "removida_iso": "2026-10-30T17:56:18-03:00",
-   "estado_api": null,
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "2495-602-COT26",
-   "nombre": "cajonera plastica",
-   "organismo": "I MUNICIPALIDAD DE COYHAIQUE",
-   "monto": 60000,
-   "cierre_iso": "2026-10-30T13:00:00-03:00",
-   "tipo": "POSIBLE",
-   "motivos": [
-    "fotografía"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=2495-602-COT26",
-   "primera_vista_iso": "2026-10-29T13:17:18-03:00",
-   "removida_iso": "2026-10-30T13:05:28-03:00",
    "estado_api": null,
    "adj_nombre": null,
    "adj_monto": null,
@@ -762,7 +911,7 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=854-29-COT26",
    "primera_vista_iso": "2026-10-26T13:13:41-03:00",
    "removida_iso": "2026-10-28T13:11:01-03:00",
-   "estado_api": null,
+   "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,
    "adj_iso": null
@@ -816,7 +965,7 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=3791-1066-COT26",
    "primera_vista_iso": "2026-10-26T16:12:12-03:00",
    "removida_iso": "2026-10-27T17:10:04-03:00",
-   "estado_api": null,
+   "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,
    "adj_iso": null
@@ -834,7 +983,7 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=1494998-27-COT26",
    "primera_vista_iso": "2026-10-26T13:13:41-03:00",
    "removida_iso": "2026-10-27T12:27:37-03:00",
-   "estado_api": null,
+   "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,
    "adj_iso": null
@@ -873,192 +1022,7 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=2495-580-COT26",
    "primera_vista_iso": "2026-10-26T13:13:41-03:00",
    "removida_iso": "2026-10-27T12:27:37-03:00",
-   "estado_api": null,
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "1608-89-COT26",
-   "nombre": "ARTICULOS DE DIFUSIÓN PROGRAMA CONADI",
-   "organismo": "DELEGACIÓN PRESIDENCIAL REGIONAL DE AYSÉN DEL GENERAL CARLOS IBÁÑEZ DE",
-   "monto": 1330000,
-   "cierre_iso": "2026-10-26T14:00:00-03:00",
-   "tipo": "POSIBLE",
-   "motivos": [
-    "difusión",
-    "publicidad",
-    "publicitarios"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1608-89-COT26",
-   "primera_vista_iso": "2026-10-23T15:31:59-03:00",
-   "removida_iso": "2026-10-26T16:12:12-03:00",
    "estado_api": "",
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "682-20-COT26",
-   "nombre": "CONTRATACIÓN DE SERVICIOS DE PUBLICACIÓN, SANEAMIENTOS D.L. N° 2695/79",
-   "organismo": "SECRETARIA REGIONAL MINISTERIAL DE BIENES NACIONALES XI REGION",
-   "monto": 471410,
-   "cierre_iso": "2026-10-26T12:00:00-03:00",
-   "tipo": "POSIBLE",
-   "motivos": [
-    "avisos"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=682-20-COT26",
-   "primera_vista_iso": "2026-10-16T10:09:44-03:00",
-   "removida_iso": "2026-10-26T13:13:41-03:00",
-   "estado_api": "",
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "1286987-46-COT26",
-   "nombre": "Evento de producción para eventos deportivos recreativos",
-   "organismo": "Corporación Municipal de Deportes y Recreación Coy",
-   "monto": 1200000,
-   "cierre_iso": "2026-10-26T12:00:00-03:00",
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Ventas y marketing"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1286987-46-COT26",
-   "primera_vista_iso": "2026-10-23T19:25:33-03:00",
-   "removida_iso": "2026-10-26T13:13:41-03:00",
-   "estado_api": "",
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "3791-1058-COT26",
-   "nombre": "DIFUSION RADIAL ",
-   "organismo": "I MUNICIPALIDAD DE CISNES",
-   "monto": 399999,
-   "cierre_iso": "2026-10-26T10:30:00-03:00",
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Publicidad en medios no impresos"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=3791-1058-COT26",
-   "primera_vista_iso": "2026-10-23T15:31:59-03:00",
-   "removida_iso": "2026-10-26T13:13:41-03:00",
-   "estado_api": "",
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "1608-88-COT26",
-   "nombre": "ARTICULOS DIFUSION - CONADI",
-   "organismo": "DELEGACIÓN PRESIDENCIAL REGIONAL DE AYSÉN DEL GENERAL CARLOS IBÁÑEZ DE",
-   "monto": 1550000,
-   "cierre_iso": "2026-10-26T10:00:00-03:00",
-   "tipo": "POSIBLE",
-   "motivos": [
-    "difusion",
-    "difusión",
-    "publicidad",
-    "publicitarios"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1608-88-COT26",
-   "primera_vista_iso": "2026-10-22T11:01:40-03:00",
-   "removida_iso": "2026-10-22T12:57:35-03:00",
-   "estado_api": "",
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "2495-578-COT26",
-   "nombre": "PRODUCCION ENCUENTRO DE CHAMAME",
-   "organismo": "I MUNICIPALIDAD DE COYHAIQUE",
-   "monto": 7000000,
-   "cierre_iso": "2026-10-26T10:00:00-03:00",
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Ventas y marketing"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=2495-578-COT26",
-   "primera_vista_iso": "2026-10-23T19:25:33-03:00",
-   "removida_iso": "2026-10-26T13:13:41-03:00",
-   "estado_api": "",
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "886182-233-COT26",
-   "nombre": "Adquisición 4 discos fiscales para vehículos institucionales_FISABS 2046",
-   "organismo": "UNIVERSIDAD DE AYSEN",
-   "monto": 152000,
-   "cierre_iso": "2026-10-26T08:30:00-03:00",
-   "tipo": "POSIBLE",
-   "motivos": [
-    "publicitaria"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=886182-233-COT26",
-   "primera_vista_iso": "2026-10-21T10:12:39-03:00",
-   "removida_iso": "2026-10-26T13:13:41-03:00",
-   "estado_api": "",
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "3622-18-COT26",
-   "nombre": "Servicio de producción de eventos Conmemoración Día del Funcionario Municipal 2026",
-   "organismo": "I MUNICIPALIDAD DE O HIGGINS",
-   "monto": 4000000,
-   "cierre_iso": "2026-10-26T08:30:00-03:00",
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Ventas y marketing"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=3622-18-COT26",
-   "primera_vista_iso": "2026-10-23T19:25:33-03:00",
-   "removida_iso": "2026-10-26T13:13:41-03:00",
-   "estado_api": "",
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "3950-688-COT26",
-   "nombre": "Adquisición de material impreso para campañas de prevención del suicidio.",
-   "organismo": "DIRECCION SALUD RURAL",
-   "monto": 300000,
-   "cierre_iso": "2026-10-26T08:00:00-03:00",
-   "tipo": "POSIBLE",
-   "motivos": [
-    "publicitaria"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=3950-688-COT26",
-   "primera_vista_iso": "2026-10-23T11:19:19-03:00",
-   "removida_iso": "2026-10-26T13:13:41-03:00",
-   "estado_api": "",
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "1195-539-COT26",
-   "nombre": "Servicio de producción para tercer encuentro de acordeonista en villa Frei",
-   "organismo": "I MUNICIPALIDAD DE COYHAIQUE",
-   "monto": 4100000,
-   "cierre_iso": "2026-10-26T08:00:00-03:00",
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Ventas y marketing"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1195-539-COT26",
-   "primera_vista_iso": "2026-10-25T10:47:48-03:00",
-   "removida_iso": "2026-10-26T13:13:41-03:00",
-   "estado_api": null,
    "adj_nombre": null,
    "adj_monto": null,
    "adj_iso": null
