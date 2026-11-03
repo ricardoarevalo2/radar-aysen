@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-11-02T16:38:38.778907-03:00",
+ "actualizado": "2026-11-02T23:29:10.517930-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
- "total_region": 236,
+ "total_region": 262,
  "rubros": {
   "25172700": "Aire acondicionado",
   "25173900": "Componentes eléctricos",
@@ -19,203 +19,6 @@
   "39121400": "Conectores, enchufes y terminales"
  },
  "filas": [
-  {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Cables eléctricos y accesorios"
-   ],
-   "nueva": false,
-   "codigo": "3171-157-COT26",
-   "nombre": "ADQUISICIÓN DE MATERIALES DE CONSTRUCCIÓN PARA LA CAPITANÍA DE PUERTO DE MELINKA",
-   "organismo": "GOBERNACION MARITIMA DE AYSEN",
-   "unidad": "GOBERNACION MARITIMA DE AYSEN",
-   "monto": 1963143,
-   "cierre_iso": "2026-11-02T17:00:00-03:00",
-   "publicacion": "29-10 16:51",
-   "publicacion_iso": "2026-10-29T16:51:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "11111601",
-     "Yeso",
-     2,
-     "PASTA MURO INTERIOR 06 KG"
-    ],
-    [
-     "26121614",
-     "Cable de construcción",
-     17,
-     "TUVO CONDUIT PVC NARANJO 20 MM, 03 METROS."
-    ],
-    [
-     "26121614",
-     "Cable de construcción",
-     1,
-     "CABLE ROJO DE 04 MM., 50 METROS"
-    ],
-    [
-     "26121614",
-     "Cable de construcción",
-     1,
-     "CABLE BLANCO DE 04 MM., 50 METROS"
-    ],
-    [
-     "26121614",
-     "Cable de construcción",
-     1,
-     "CABLE VERDE DE 04 MM., 50 METROS"
-    ],
-    [
-     "26121614",
-     "Cable de construcción",
-     1,
-     "CABLE ROJO DE 2.5 MM., 50 METROS"
-    ],
-    [
-     "26121614",
-     "Cable de construcción",
-     1,
-     "CABLE BLANCO DE 2.5 MM., 50 METROS"
-    ],
-    [
-     "26121614",
-     "Cable de construcción",
-     1,
-     "CABLE VERDE DE 2.5 MM., 50 METROS"
-    ],
-    [
-     "26121614",
-     "Cable de construcción",
-     1,
-     "BOTONERA SOBREPONER PARTIR/PARAR, BOTON ROJO Y VERDE."
-    ],
-    [
-     "26121614",
-     "Cable de construcción",
-     1,
-     "DISYUNTOR 25 AMPERES"
-    ],
-    [
-     "26121614",
-     "Cable de construcción",
-     20,
-     "CAJA CHIQUI SOBREPUESTA."
-    ],
-    [
-     "26121614",
-     "Cable de construcción",
-     10,
-     "ENCHUFE TRIPLE PARA CAJA CHUQUI"
-    ],
-    [
-     "26121614",
-     "Cable de construcción",
-     5,
-     "INTERRUPTOR SIMPLE PARA CAJA CHUQUI"
-    ],
-    [
-     "26121614",
-     "Cable de construcción",
-     5,
-     "TAPA CIEGA PARA CAJA CHUQUI"
-    ],
-    [
-     "26121614",
-     "Cable de construcción",
-     10,
-     "CINTA AISLADORA."
-    ],
-    [
-     "26121614",
-     "Cable de construcción",
-     5,
-     "FOCO PANEL LED 24 W., 30 CENTIMETROS DE DIAMETRO LUZ FRIA."
-    ],
-    [
-     "26121614",
-     "Cable de construcción",
-     30,
-     "CANALETA BLANCA ELECTRICA PVC 20X10 MM, 03 METROS"
-    ],
-    [
-     "30103604",
-     "Revestimiento o láminas de madera",
-     1,
-     "PLANCHA TERCIADO ESTRUCTURAL 09 MM."
-    ],
-    [
-     "30152003",
-     "Murallas de fibrocemento",
-     2,
-     "PLANCHA VOLCANITA 10 MM."
-    ],
-    [
-     "30161904",
-     "Cornisas",
-     10,
-     "GUARDA POLVO 14 MM."
-    ],
-    [
-     "30161904",
-     "Cornisas",
-     12,
-     "PILASTRA 12X30X2440 MM."
-    ],
-    [
-     "30161904",
-     "Cornisas",
-     20,
-     "CORNISA DE MADERA"
-    ],
-    [
-     "31161508",
-     "Tornillos para madera",
-     6,
-     "TORNILLOS VOLCANITA 02 PULGADAS, CAJA 100 UNIDADES"
-    ],
-    [
-     "31191501",
-     "Papeles de lija",
-     20,
-     "LIJA DE MADERA"
-    ],
-    [
-     "31201528",
-     "Cinta de montaje",
-     6,
-     "CINTA PARA JUNTA VOLCANITA 45 METROS"
-    ],
-    [
-     "31211501",
-     "Pinturas al esmalte",
-     1,
-     "TINETA ESMALTE AL AGUA GRIS GRAFITO"
-    ],
-    [
-     "31211501",
-     "Pinturas al esmalte",
-     2,
-     "TINETA PINTURA PARA PISO DE CEMENTO COLOR GRIS"
-    ],
-    [
-     "31211904",
-     "Brochas",
-     10,
-     "BROCHA 2.5 PULGADAS"
-    ],
-    [
-     "31211906",
-     "Rodillos de pintar",
-     10,
-     "RODILLOS CHIPORRO 22 CM."
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=3171-157-COT26",
-   "sin_detalle": false,
-   "descripcion": "SE REQUIERE EFECTUAR LA ADQUISICIÓN DE MATERIALES DE CONSTRUCCIÓN PARA LA CAPITANÍA DE PUERTO DE MELINKA, ESTO DE ACUERDO A LOS TÉRMINOS DE REFERENCIA ADJUNTOS, MATERIALES DEBEN SER ENTREGADOS EN LA CAPITANÍA DE PUERTO DE MELINKA, EN UN PLAZO MÁXIMO DE 05 DÍAS CORRIDOS DESDE QUE SE ENVÍE LA ORDEN DE COMPRA, COSTO DE ENVÍO CON CARGO A PROVEEDOR.",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
   {
    "tipo": "OPORTUNIDAD",
    "motivos": [
@@ -640,6 +443,35 @@
    "desaparecida_iso": ""
   },
   {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "climatización"
+   ],
+   "nueva": true,
+   "codigo": "613-37-COT26",
+   "nombre": " Servicio de mantención preventiva y correctiva y reubicación de equipos de climatización",
+   "organismo": "Ministerio de Vivienda y Urbanismo",
+   "unidad": "SEREMI MINVU XI REGION",
+   "monto": 7000000,
+   "cierre_iso": "2026-11-03T17:00:00-03:00",
+   "publicacion": "02-11 16:37",
+   "publicacion_iso": "2026-11-02T16:37:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "26111601",
+     "Generadores diesel",
+     1,
+     "La SECRETARÍA REGIONAL MINISTERIAL DE VIVIENDA Y URBANISMO DE LA REGIÓN DE AYSÉN requiere contratar el servicio integral de mantención preventiva y correctiva, reparación y puesta en funcionamiento del sistema de energía de respaldo de su edificio institucional, ubicado en Coyhaique."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=613-37-COT26",
+   "sin_detalle": false,
+   "descripcion": "1. Mantención de siete (7) unidades: Desmontaje cuidadoso de tapas cuando corresponda; limpieza y desinfección de filtros con productos compatibles; limpieza no corrosiva de serpentín evaporador, turbina, bandeja de condensados y drenajes; verificación de sensores, control remoto y operación frío/calor. 2. Mantención de siete (7) unidades: Limpieza controlada de condensador; revisión de estado de bases, soportes, anclajes, vibraciones, corrosión, ventiladores y conexiones.",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
    "tipo": "OPORTUNIDAD",
    "motivos": [
     "Cables eléctricos y accesorios",
@@ -930,6 +762,24 @@
   }
  ],
  "historial": [
+  {
+   "codigo": "3171-157-COT26",
+   "nombre": "ADQUISICIÓN DE MATERIALES DE CONSTRUCCIÓN PARA LA CAPITANÍA DE PUERTO DE MELINKA",
+   "organismo": "GOBERNACION MARITIMA DE AYSEN",
+   "monto": 1963143,
+   "cierre_iso": "2026-11-02T17:00:00-03:00",
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Cables eléctricos y accesorios"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=3171-157-COT26",
+   "primera_vista_iso": "2026-10-29T18:15:57-03:00",
+   "removida_iso": "2026-11-02T23:29:10-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
   {
    "codigo": "734-201-COT26",
    "nombre": "ADQUISICIÓN TELEVISOR SMART TV, SOPORTE Y CABLE HDMI",

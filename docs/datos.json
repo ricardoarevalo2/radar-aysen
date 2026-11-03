@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-11-02T16:38:38.778907-03:00",
+ "actualizado": "2026-11-02T23:29:10.517930-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
- "total_region": 236,
+ "total_region": 262,
  "rubros": {
   "80141600": "Ventas y marketing",
   "82101600": "Publicidad en medios no impresos",
@@ -14,35 +14,6 @@
   "83121700": "Comunicación social y de masas"
  },
  "filas": [
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "difusion"
-   ],
-   "nueva": false,
-   "codigo": "4066-449-COT26",
-   "nombre": "servicio de fotografia y videos promocionales de la comuna de Río Ibáñez",
-   "organismo": "I MUNICIPALIDAD RIO IBANEZ",
-   "unidad": "DIDECO",
-   "monto": 7150000,
-   "cierre_iso": "2026-11-02T20:00:00-03:00",
-   "publicacion": "29-10 10:12",
-   "publicacion_iso": "2026-10-29T10:12:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "90131602",
-     "Videos",
-     1,
-     "servicio de fotografia y videos promocionales segun tdr"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=4066-449-COT26",
-   "sin_detalle": false,
-   "descripcion": "se requiere contratar el servicio de fotografias y videos promocionales de la comuna de rio ibañez, bajo el  componente de comunicacion y difusion del programa transferencia de fortalecimiento productivo para la comuna de rio ibañez codido bip-40066883-0, segun terminos de referencia adjuntos",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
   {
    "tipo": "POSIBLE",
    "motivos": [
@@ -388,6 +359,35 @@
    "desaparecida_iso": ""
   },
   {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Ventas y marketing"
+   ],
+   "nueva": true,
+   "codigo": "2495-612-COT26",
+   "nombre": "PRODUCCION CONCURSO LITERARIO",
+   "organismo": "I MUNICIPALIDAD DE COYHAIQUE",
+   "unidad": "DIRECCION DESARROLLO COMUNITARIO",
+   "monto": 2700000,
+   "cierre_iso": "2026-11-04T13:00:00-03:00",
+   "publicacion": "02-11 18:57",
+   "publicacion_iso": "2026-11-02T18:57:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "80141607",
+     "Producción de eventos",
+     1,
+     "SE REQUIERE LA COMPRA DE DIVERSOS SERVICIOS PARA CONCURSO LITERARIO, COMO DIFUSION, CAJAS ARCHIVADORAS, DIPLOMAS, RAMOS DE FLORES, ENTRE OTROS ARTICULOS, SE PREVILEGIARA PROVEEDOR DE LA COMUNA DE COYHAIQUE CON DISPONIBILIDAD INMEDIATA Y DISPOSICION A MODIFICACIONES, PRESENTAR COTIZACION SEGUN TERMINOS DE REFERENCIA"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=2495-612-COT26",
+   "sin_detalle": false,
+   "descripcion": "SE REQUIERE LA COMPRA DE DIVERSOS SERVICIOS PARA CONCURSO LITERARIO, COMO DIFUSION, CAJAS ARCHIVADORAS, DIPLOMAS, RAMOS DE FLORES, ENTRE OTROS ARTICULOS, SE PREVILEGIARA PROVEEDOR DE LA COMUNA DE COYHAIQUE CON DISPONIBILIDAD INMEDIATA Y DISPOSICION A MODIFICACIONES, PRESENTAR COTIZACION SEGUN TERMINOS DE REFERENCIA",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
    "tipo": "POSIBLE",
    "motivos": [
     "audiovisuales",
@@ -516,6 +516,24 @@
   }
  ],
  "historial": [
+  {
+   "codigo": "4066-449-COT26",
+   "nombre": "servicio de fotografia y videos promocionales de la comuna de Río Ibáñez",
+   "organismo": "I MUNICIPALIDAD RIO IBANEZ",
+   "monto": 7150000,
+   "cierre_iso": "2026-11-02T20:00:00-03:00",
+   "tipo": "POSIBLE",
+   "motivos": [
+    "difusion"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=4066-449-COT26",
+   "primera_vista_iso": "2026-10-29T13:17:18-03:00",
+   "removida_iso": "2026-11-02T23:29:10-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
   {
    "codigo": "734-201-COT26",
    "nombre": "ADQUISICIÓN TELEVISOR SMART TV, SOPORTE Y CABLE HDMI",
