@@ -18,7 +18,7 @@
   "adj_nombre": null,
   "adj_monto": null,
   "adj_iso": null,
-  "adj_revisado_iso": "2026-11-02T23:29:10-03:00"
+  "adj_revisado_iso": "2026-11-03T14:11:19-03:00"
  },
  "2042-372-COT26": {
   "codigo": "2042-372-COT26",
@@ -39,28 +39,7 @@
   "adj_nombre": null,
   "adj_monto": null,
   "adj_iso": null,
-  "adj_revisado_iso": "2026-11-02T23:29:10-03:00"
- },
- "1458-26-COT26": {
-  "codigo": "1458-26-COT26",
-  "nombre": "Adquisición de Kerosene para calefacción ",
-  "organismo": "SERPLAC XI Región",
-  "unidad": "SERPLAC XI Región",
-  "monto": 860000,
-  "cierre_iso": "2026-10-27T09:00:00-03:00",
-  "tipo": "POSIBLE",
-  "motivos": [
-   "electricidad"
-  ],
-  "link": "https://buscador.mercadopublico.cl/ficha?code=1458-26-COT26",
-  "primera_vista_iso": "2026-10-22T17:57:00-03:00",
-  "ultima_activa_iso": "2026-10-26T21:38:14-03:00",
-  "removida_iso": "2026-10-27T12:27:37-03:00",
-  "estado_api": "",
-  "adj_nombre": null,
-  "adj_monto": null,
-  "adj_iso": null,
-  "adj_revisado_iso": "2026-11-02T23:29:10-03:00"
+  "adj_revisado_iso": "2026-11-03T14:11:19-03:00"
  },
  "1233615-852-COT26": {
   "codigo": "1233615-852-COT26",
@@ -81,7 +60,7 @@
   "adj_nombre": null,
   "adj_monto": null,
   "adj_iso": null,
-  "adj_revisado_iso": "2026-11-02T23:29:10-03:00"
+  "adj_revisado_iso": "2026-11-03T14:11:19-03:00"
  },
  "1274667-416-COT26": {
   "codigo": "1274667-416-COT26",
@@ -102,52 +81,7 @@
   "adj_nombre": null,
   "adj_monto": null,
   "adj_iso": null,
-  "adj_revisado_iso": "2026-11-02T23:29:10-03:00"
- },
- "3949-265-COT26": {
-  "codigo": "3949-265-COT26",
-  "nombre": "SET DE PARCHES ELECTRODOS PEDIÁTRICOS ",
-  "organismo": "CONSULTORIO GENERAL URBANO DR ALEJANDRO GUTIERREZ",
-  "unidad": "ID 3949 - CESFAM Dr Alejandro Gutiérrez",
-  "monto": 100000,
-  "cierre_iso": "2026-10-27T11:45:00-03:00",
-  "tipo": "OPORTUNIDAD",
-  "motivos": [
-   "Conectores, enchufes y terminales"
-  ],
-  "link": "https://buscador.mercadopublico.cl/ficha?code=3949-265-COT26",
-  "primera_vista_iso": "2026-10-26T13:13:41-03:00",
-  "ultima_activa_iso": "2026-10-26T21:38:14-03:00",
-  "removida_iso": "2026-10-27T12:27:37-03:00",
-  "estado_api": "",
-  "adj_nombre": null,
-  "adj_monto": null,
-  "adj_iso": null,
-  "adj_revisado_iso": "2026-11-01T17:39:52-03:00"
- },
- "1494998-26-COT26": {
-  "codigo": "1494998-26-COT26",
-  "nombre": "ADQUISICIÓN Y DESPACHO DE GENERADORES ELÉCTRICOS PARA LAS ÁREAS PROTEGIDAS DE LA DIRECCIÓN REGIONAL DE AYSÉN SBAP (Convenio SBAP-CONAF)",
-  "organismo": "Servicio de Biodiversidad y Áreas Protegidas",
-  "unidad": "Dirección Regional de Aysén",
-  "monto": 1900000,
-  "cierre_iso": "2026-10-27T12:00:00-03:00",
-  "tipo": "POSIBLE",
-  "motivos": [
-   "eléctrico",
-   "eléctricos",
-   "generador",
-   "generador eléctrico"
-  ],
-  "link": "https://buscador.mercadopublico.cl/ficha?code=1494998-26-COT26",
-  "primera_vista_iso": "2026-10-26T13:13:41-03:00",
-  "ultima_activa_iso": "2026-10-26T21:38:14-03:00",
-  "removida_iso": "2026-10-27T12:27:37-03:00",
-  "estado_api": "",
-  "adj_nombre": null,
-  "adj_monto": null,
-  "adj_iso": null,
-  "adj_revisado_iso": "2026-11-01T17:39:52-03:00"
+  "adj_revisado_iso": "2026-11-03T14:11:19-03:00"
  },
  "3765-311-COT26": {
   "codigo": "3765-311-COT26",
@@ -169,7 +103,7 @@
   "adj_nombre": null,
   "adj_monto": null,
   "adj_iso": null,
-  "adj_revisado_iso": "2026-11-01T17:39:52-03:00"
+  "adj_revisado_iso": "2026-11-03T14:11:19-03:00"
  },
  "886182-239-COT26": {
   "codigo": "886182-239-COT26",
@@ -284,15 +218,15 @@
   "organismo": "SERVICIO DE SALUD AYSEN CARLOS IBANEZ DEL CAMPO",
   "unidad": "Fondos Extrapresupuestarios",
   "monto": 303990,
-  "cierre_iso": "2026-10-30T10:00:00-03:00",
+  "cierre_iso": "2026-11-06T07:28:00-03:00",
   "tipo": "OPORTUNIDAD",
   "motivos": [
    "Enfriamiento (aires acondicionados)"
   ],
   "link": "https://buscador.mercadopublico.cl/ficha?code=1078779-24-COT26",
   "primera_vista_iso": "2026-10-27T12:27:37-03:00",
-  "ultima_activa_iso": "2026-10-29T22:11:21-03:00",
-  "removida_iso": "2026-10-30T13:05:28-03:00",
+  "ultima_activa_iso": "2026-11-03T14:11:19-03:00",
+  "removida_iso": null,
   "estado_api": null,
   "adj_nombre": null,
   "adj_monto": null,
@@ -439,7 +373,7 @@
   ],
   "link": "https://buscador.mercadopublico.cl/ficha?code=2495-591-COT26",
   "primera_vista_iso": "2026-10-28T13:11:01-03:00",
-  "ultima_activa_iso": "2026-11-02T23:29:10-03:00",
+  "ultima_activa_iso": "2026-11-03T14:11:19-03:00",
   "removida_iso": null,
   "estado_api": null,
   "adj_nombre": null,
@@ -460,7 +394,7 @@
   ],
   "link": "https://buscador.mercadopublico.cl/ficha?code=418-1720-COT26",
   "primera_vista_iso": "2026-10-28T13:11:01-03:00",
-  "ultima_activa_iso": "2026-11-02T23:29:10-03:00",
+  "ultima_activa_iso": "2026-11-03T14:11:19-03:00",
   "removida_iso": null,
   "estado_api": null,
   "adj_nombre": null,
@@ -628,7 +562,7 @@
   ],
   "link": "https://buscador.mercadopublico.cl/ficha?code=1113144-82-COT26",
   "primera_vista_iso": "2026-10-29T13:17:18-03:00",
-  "ultima_activa_iso": "2026-11-02T23:29:10-03:00",
+  "ultima_activa_iso": "2026-11-03T14:11:19-03:00",
   "removida_iso": null,
   "estado_api": null,
   "adj_nombre": null,
@@ -649,7 +583,7 @@
   ],
   "link": "https://buscador.mercadopublico.cl/ficha?code=1403-464-COT26",
   "primera_vista_iso": "2026-10-29T13:17:18-03:00",
-  "ultima_activa_iso": "2026-11-02T23:29:10-03:00",
+  "ultima_activa_iso": "2026-11-03T14:11:19-03:00",
   "removida_iso": null,
   "estado_api": null,
   "adj_nombre": null,
@@ -670,7 +604,7 @@
   ],
   "link": "https://buscador.mercadopublico.cl/ficha?code=3325-31-COT26",
   "primera_vista_iso": "2026-10-29T13:17:18-03:00",
-  "ultima_activa_iso": "2026-11-02T23:29:10-03:00",
+  "ultima_activa_iso": "2026-11-03T14:11:19-03:00",
   "removida_iso": null,
   "estado_api": null,
   "adj_nombre": null,
@@ -789,7 +723,7 @@
   "organismo": "UNIVERSIDAD DE AYSEN",
   "unidad": "Universidad de Aysen",
   "monto": 1421958,
-  "cierre_iso": "2026-11-02T12:00:00-03:00",
+  "cierre_iso": "2026-11-06T11:19:00-03:00",
   "tipo": "OPORTUNIDAD",
   "motivos": [
    "Cables eléctricos y accesorios",
@@ -797,8 +731,8 @@
   ],
   "link": "https://buscador.mercadopublico.cl/ficha?code=886182-248-COT26",
   "primera_vista_iso": "2026-10-30T13:05:28-03:00",
-  "ultima_activa_iso": "2026-11-01T21:55:12-03:00",
-  "removida_iso": "2026-11-02T16:38:38-03:00",
+  "ultima_activa_iso": "2026-11-03T14:11:19-03:00",
+  "removida_iso": null,
   "estado_api": null,
   "adj_nombre": null,
   "adj_monto": null,
@@ -841,7 +775,7 @@
   ],
   "link": "https://buscador.mercadopublico.cl/ficha?code=1281188-19-COT26",
   "primera_vista_iso": "2026-10-30T13:05:28-03:00",
-  "ultima_activa_iso": "2026-11-02T23:29:10-03:00",
+  "ultima_activa_iso": "2026-11-03T14:11:19-03:00",
   "removida_iso": null,
   "estado_api": null,
   "adj_nombre": null,
@@ -885,7 +819,7 @@
   "link": "https://buscador.mercadopublico.cl/ficha?code=3791-1096-COT26",
   "primera_vista_iso": "2026-11-02T16:38:38-03:00",
   "ultima_activa_iso": "2026-11-02T23:29:10-03:00",
-  "removida_iso": null,
+  "removida_iso": "2026-11-03T14:11:19-03:00",
   "estado_api": null,
   "adj_nombre": null,
   "adj_monto": null,
@@ -895,10 +829,10 @@
  "951405-261-COT26": {
   "codigo": "951405-261-COT26",
   "nombre": "(F.INT-CC.MANT.CAS.OFLES) JAL_CAJ_ADQ. DE MATERIALES PARA REPARACIÓN DE SISTEMA ELÉCTRICO DE TERMOS DE AGUA EN EL CASINO DE OFICIALES DEL CIELB.",
-  "organismo": "JEFATURA ADMINISTRATIVA Y LOGISTICA DE LA GUARNICION COYHAIQUE",
-  "unidad": "JAL - Guarnición \"Coyhaique\"",
-  "monto": 200000,
-  "cierre_iso": "2026-11-04T09:00:00-03:00",
+  "organismo": "",
+  "unidad": "",
+  "monto": null,
+  "cierre_iso": "",
   "tipo": "OPORTUNIDAD",
   "motivos": [
    "Cables eléctricos y accesorios",
@@ -907,7 +841,7 @@
   ],
   "link": "https://buscador.mercadopublico.cl/ficha?code=951405-261-COT26",
   "primera_vista_iso": "2026-11-02T16:38:38-03:00",
-  "ultima_activa_iso": "2026-11-02T23:29:10-03:00",
+  "ultima_activa_iso": "2026-11-03T14:11:19-03:00",
   "removida_iso": null,
   "estado_api": null,
   "adj_nombre": null,
@@ -930,7 +864,7 @@
   ],
   "link": "https://buscador.mercadopublico.cl/ficha?code=3950-710-COT26",
   "primera_vista_iso": "2026-11-02T16:38:38-03:00",
-  "ultima_activa_iso": "2026-11-02T23:29:10-03:00",
+  "ultima_activa_iso": "2026-11-03T14:11:19-03:00",
   "removida_iso": null,
   "estado_api": null,
   "adj_nombre": null,
@@ -941,17 +875,101 @@
  "613-37-COT26": {
   "codigo": "613-37-COT26",
   "nombre": " Servicio de mantención preventiva y correctiva y reubicación de equipos de climatización",
-  "organismo": "Ministerio de Vivienda y Urbanismo",
-  "unidad": "SEREMI MINVU XI REGION",
-  "monto": 7000000,
-  "cierre_iso": "2026-11-03T17:00:00-03:00",
+  "organismo": "",
+  "unidad": "",
+  "monto": null,
+  "cierre_iso": "",
   "tipo": "POSIBLE",
   "motivos": [
    "climatización"
   ],
   "link": "https://buscador.mercadopublico.cl/ficha?code=613-37-COT26",
   "primera_vista_iso": "2026-11-02T23:29:10-03:00",
-  "ultima_activa_iso": "2026-11-02T23:29:10-03:00",
+  "ultima_activa_iso": "2026-11-03T14:11:19-03:00",
+  "removida_iso": null,
+  "estado_api": null,
+  "adj_nombre": null,
+  "adj_monto": null,
+  "adj_iso": null,
+  "adj_revisado_iso": null
+ },
+ "613-38-COT26": {
+  "codigo": "613-38-COT26",
+  "nombre": " Servicio de mantención y reparación del grupo electrógeno y sistema de transferencia automática",
+  "organismo": "Ministerio de Vivienda y Urbanismo",
+  "unidad": "SEREMI MINVU XI REGION",
+  "monto": 7000000,
+  "cierre_iso": "2026-11-04T11:00:00-03:00",
+  "tipo": "POSIBLE",
+  "motivos": [
+   "grupo electrógeno"
+  ],
+  "link": "https://buscador.mercadopublico.cl/ficha?code=613-38-COT26",
+  "primera_vista_iso": "2026-11-03T14:11:19-03:00",
+  "ultima_activa_iso": "2026-11-03T14:11:19-03:00",
+  "removida_iso": null,
+  "estado_api": null,
+  "adj_nombre": null,
+  "adj_monto": null,
+  "adj_iso": null,
+  "adj_revisado_iso": null
+ },
+ "3791-1099-COT26": {
+  "codigo": "3791-1099-COT26",
+  "nombre": "ALTERNADOR Y CORREAS",
+  "organismo": "I MUNICIPALIDAD DE CISNES",
+  "unidad": "Finanzas",
+  "monto": 447000,
+  "cierre_iso": "2026-11-04T11:00:00-03:00",
+  "tipo": "POSIBLE",
+  "motivos": [
+   "generador"
+  ],
+  "link": "https://buscador.mercadopublico.cl/ficha?code=3791-1099-COT26",
+  "primera_vista_iso": "2026-11-03T14:11:19-03:00",
+  "ultima_activa_iso": "2026-11-03T14:11:19-03:00",
+  "removida_iso": null,
+  "estado_api": null,
+  "adj_nombre": null,
+  "adj_monto": null,
+  "adj_iso": null,
+  "adj_revisado_iso": null
+ },
+ "1233615-920-COT26": {
+  "codigo": "1233615-920-COT26",
+  "nombre": "DMH SOL-2026-01931] Recursos TICS para Escuela \"Litoral Austral\" de Puerto Aysén",
+  "organismo": "Servicio Local de Educación Pública Aysén",
+  "unidad": "Servicio Local de Educación Pública Aysén",
+  "monto": 302470,
+  "cierre_iso": "2026-11-05T11:00:00-03:00",
+  "tipo": "OPORTUNIDAD",
+  "motivos": [
+   "Conectores, enchufes y terminales"
+  ],
+  "link": "https://buscador.mercadopublico.cl/ficha?code=1233615-920-COT26",
+  "primera_vista_iso": "2026-11-03T14:11:19-03:00",
+  "ultima_activa_iso": "2026-11-03T14:11:19-03:00",
+  "removida_iso": null,
+  "estado_api": null,
+  "adj_nombre": null,
+  "adj_monto": null,
+  "adj_iso": null,
+  "adj_revisado_iso": null
+ },
+ "1079689-522-COT26": {
+  "codigo": "1079689-522-COT26",
+  "nombre": "ADQUISICIÓN DE REPUESTOS SISTEMA REFRIGERACIÓN DE MOTOR DIÉSEL YANGDONG YSD490D, INSTALADO EN GG.EE. KIPOR KDE18S",
+  "organismo": "SECCIÓN COMPRAS XI ZONA",
+  "unidad": "SEC DE COMP ZONA AYSÉN DEL GRAL CARL IBAÑ DEL CAMP",
+  "monto": 7225000,
+  "cierre_iso": "2026-11-05T12:00:00-03:00",
+  "tipo": "POSIBLE",
+  "motivos": [
+   "grupo electrógeno"
+  ],
+  "link": "https://buscador.mercadopublico.cl/ficha?code=1079689-522-COT26",
+  "primera_vista_iso": "2026-11-03T14:11:19-03:00",
+  "ultima_activa_iso": "2026-11-03T14:11:19-03:00",
   "removida_iso": null,
   "estado_api": null,
   "adj_nombre": null,

@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-11-02T23:29:10.517930-03:00",
+ "actualizado": "2026-11-03T14:11:19.978646-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
- "total_region": 262,
+ "total_region": 278,
  "rubros": {
   "25172700": "Aire acondicionado",
   "25173900": "Componentes eléctricos",
@@ -19,324 +19,6 @@
   "39121400": "Conectores, enchufes y terminales"
  },
  "filas": [
-  {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Cables eléctricos y accesorios",
-    "Cajas y accesorios eléctricos"
-   ],
-   "nueva": true,
-   "codigo": "3791-1096-COT26",
-   "nombre": "ESPACIOS PUBLICOS ZONA SUR ",
-   "organismo": "I MUNICIPALIDAD DE CISNES",
-   "unidad": "Finanzas",
-   "monto": 4286244,
-   "cierre_iso": "2026-11-03T12:00:00-03:00",
-   "publicacion": "02-11 11:47",
-   "publicacion_iso": "2026-11-02T11:47:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "12352310",
-     "Siliconas",
-     4,
-     "Silicona blanca"
-    ],
-    [
-     "24122004",
-     "Cabezales y tapas",
-     3,
-     "Cabezal de servicio 25mm"
-    ],
-    [
-     "26121609",
-     "Cable de redes",
-     2,
-     "Rollo Cable 2.5mm blanco y rojo 100mts"
-    ],
-    [
-     "30103605",
-     "Tablas de madera",
-     39,
-     "Pino / Madera 2x2\""
-    ],
-    [
-     "30103605",
-     "Tablas de madera",
-     10,
-     "PLANCHAS OSB 11,1"
-    ],
-    [
-     "30103605",
-     "Tablas de madera",
-     12,
-     "Planchas terciado 9mm"
-    ],
-    [
-     "30103605",
-     "Tablas de madera",
-     4,
-     "OSB estructural 11,1 mm, 1,22 × 2,44 m"
-    ],
-    [
-     "30103605",
-     "Tablas de madera",
-     21,
-     "Madera IPV 2 × 3” L= 3.2m para barandas"
-    ],
-    [
-     "30103605",
-     "Tablas de madera",
-     2,
-     "Pino IPV 2x8\""
-    ],
-    [
-     "30103605",
-     "Tablas de madera",
-     10,
-     "Pino IPV 2x6\""
-    ],
-    [
-     "30103605",
-     "Tablas de madera",
-     8,
-     "Pino IPV 2x3\""
-    ],
-    [
-     "30151505",
-     "Membranas para techos",
-     1,
-     "rollo Membrana hidrófuga transpirable"
-    ],
-    [
-     "30151508",
-     "Tejas de madera",
-     19,
-     "Siding fibrocemento 6 × 190 × 3660 mm"
-    ],
-    [
-     "30171504",
-     "Puertas de madera",
-     2,
-     "Hojas de puerta placa 0,90 × 2,00 m"
-    ],
-    [
-     "30191603",
-     "Piso del andamiaje",
-     16,
-     "Piso vinílico 8mm con rugosidad cajas"
-    ],
-    [
-     "31161503",
-     "Clavo-tornillo",
-     9,
-     "Cajas Tornillos 2\""
-    ],
-    [
-     "31161503",
-     "Clavo-tornillo",
-     2,
-     "cajas Tornillo 3\""
-    ],
-    [
-     "31161503",
-     "Clavo-tornillo",
-     25,
-     "Clavos 4\" kg"
-    ],
-    [
-     "31161505",
-     "Tornillos de presión",
-     10,
-     "cajas Tornillo turbo 4\""
-    ],
-    [
-     "31161505",
-     "Tornillos de presión",
-     1,
-     "Tornillos drywall #6 x 1 1/2\" caja de 1.000 unidades"
-    ],
-    [
-     "31161505",
-     "Tornillos de presión",
-     2,
-     "paquetes de 100 Tornillos autoperforantes fibrocemento"
-    ],
-    [
-     "31161511",
-     "Tornillos de apriete",
-     1,
-     "Caja tornillos 1/2\""
-    ],
-    [
-     "31162906",
-     "Abrazaderas de manguera o tubo",
-     3,
-     "Tubo galvanizado con hilo 25mm"
-    ],
-    [
-     "31163103",
-     "Conector de remolque",
-     3,
-     "Conector hub galvanizado con hilo 25mm"
-    ],
-    [
-     "31201518",
-     "Cinta conductor de electricidad",
-     1,
-     "Huincha aisladora 10mts"
-    ],
-    [
-     "31211501",
-     "Pinturas al esmalte",
-     4,
-     "Galones de pintura blanca"
-    ],
-    [
-     "31211501",
-     "Pinturas al esmalte",
-     2,
-     "Esmalte sintético verde"
-    ],
-    [
-     "31211501",
-     "Pinturas al esmalte",
-     2,
-     "Esmalte sintético amarillo"
-    ],
-    [
-     "31211501",
-     "Pinturas al esmalte",
-     2,
-     "Esmalte sintético azul"
-    ],
-    [
-     "31211501",
-     "Pinturas al esmalte",
-     2,
-     "tinas de Esmalte al agua"
-    ],
-    [
-     "31211501",
-     "Pinturas al esmalte",
-     2,
-     "galones Barniz marino exterior"
-    ],
-    [
-     "31211501",
-     "Pinturas al esmalte",
-     4,
-     "galones Pintura color naranjo internacional"
-    ],
-    [
-     "31211501",
-     "Pinturas al esmalte",
-     3,
-     "galones Pintura blanca esmalte al agua"
-    ],
-    [
-     "31211504",
-     "Pinturas de cobertura",
-     2,
-     "Anticorrosivo"
-    ],
-    [
-     "31211604",
-     "Diluyentes para pinturas",
-     2,
-     "Diluyente"
-    ],
-    [
-     "31261502",
-     "Cubiertas y cajas metálicas",
-     6,
-     "Tapa ciega caja chuqui"
-    ],
-    [
-     "32141016",
-     "Tubos múltiples",
-     10,
-     "Conduit PVC 32mm"
-    ],
-    [
-     "39121205",
-     "Canaletas para cables",
-     12,
-     "Canaleta eléctrica blancas 20mm de 2mts"
-    ],
-    [
-     "39121303",
-     "Cajas eléctricas",
-     12,
-     "Caja chuqui sobrepuesta PVC blanco"
-    ],
-    [
-     "39121313",
-     "Amarres a techo",
-     2,
-     "Techo autoperforante 2\""
-    ],
-    [
-     "40141705",
-     "Caños",
-     1,
-     "Kit de caños"
-    ],
-    [
-     "40141705",
-     "Caños",
-     1,
-     "Cubre caños 5.5"
-    ],
-    [
-     "40141705",
-     "Caños",
-     1,
-     "Sombrero 5.5"
-    ],
-    [
-     "40142323",
-     "Disco de ruptura",
-     10,
-     "Discos de desbaste para metal y acero"
-    ],
-    [
-     "40142323",
-     "Disco de ruptura",
-     5,
-     "Disco traslapado"
-    ],
-    [
-     "40142323",
-     "Disco de ruptura",
-     5,
-     "Disco de corte 4\""
-    ],
-    [
-     "41113602",
-     "Medidores de fase",
-     3,
-     "Caja de medidor monofásico policarbonato"
-    ],
-    [
-     "46151607",
-     "Cordones de seguridad",
-     1,
-     "Cordón eléctrico 3x4mm 50 metros lineales"
-    ],
-    [
-     "46171503",
-     "Juegos de cerraduras",
-     6,
-     "Cerraduras"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=3791-1096-COT26",
-   "sin_detalle": false,
-   "descripcion": "ADQUISICION DE MATERIALES DE CONSTRUCCION PARA REPARACION DE ESPACIOS PUBLICOS ZONA SUR COMUNA DE CISNES. SE ADJUNTAN ANEXOS",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
   {
    "tipo": "OPORTUNIDAD",
    "motivos": [
@@ -445,29 +127,559 @@
   {
    "tipo": "POSIBLE",
    "motivos": [
-    "climatización"
+    "aire acondicionado",
+    "enchufe",
+    "enchufes"
    ],
    "nueva": true,
-   "codigo": "613-37-COT26",
-   "nombre": " Servicio de mantención preventiva y correctiva y reubicación de equipos de climatización",
+   "codigo": "3950-710-COT26",
+   "nombre": "Repuestos para Aires Acondicionado CLJ",
+   "organismo": "DIRECCION SALUD RURAL",
+   "unidad": "Dirección de Salud Rural",
+   "monto": 350000,
+   "cierre_iso": "2026-11-04T09:00:00-03:00",
+   "publicacion": "02-11 15:34",
+   "publicacion_iso": "2026-11-02T15:34:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "27111704",
+     "Enchufes",
+     2,
+     "Enchufes macho"
+    ],
+    [
+     "27111704",
+     "Enchufes",
+     2,
+     "Enchufe hembra sobrepuestos"
+    ],
+    [
+     "40142007",
+     "Mangueras especiales",
+     20,
+     "Metros de Manguera 6 mm (1/4 de pulgada) de diametro interior de desague de bomba de condensado de aire acondicionado"
+    ],
+    [
+     "41103024",
+     "Condensadores de frío",
+     2,
+     "Bombas de condensado de aire acondicionado"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=3950-710-COT26",
+   "sin_detalle": false,
+   "descripcion": "Repuestos para Aires Acondicionado",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "grupo electrógeno"
+   ],
+   "nueva": true,
+   "codigo": "613-38-COT26",
+   "nombre": " Servicio de mantención y reparación del grupo electrógeno y sistema de transferencia automática",
    "organismo": "Ministerio de Vivienda y Urbanismo",
    "unidad": "SEREMI MINVU XI REGION",
    "monto": 7000000,
-   "cierre_iso": "2026-11-03T17:00:00-03:00",
-   "publicacion": "02-11 16:37",
-   "publicacion_iso": "2026-11-02T16:37:00-03:00",
+   "cierre_iso": "2026-11-04T11:00:00-03:00",
+   "publicacion": "03-11 10:50",
+   "publicacion_iso": "2026-11-03T10:50:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "25202004",
+     "Sistemas de grupo electrógeno de pista (APU)",
+     1,
+     "1. Grupo electrógeno: Mantención mecánica preventiva y correctiva del PROTELEC LGXI-33 kVA; cambio total de aceite de especificación compatible con fabricante; cambio de filtros de aceite, combustible y aire; revisión y reposición de refrigerante con protección anticongelante/anticorrosiva; inspección de conexiones, sensores, protecciones y sistema de arranque. 2. Controlador: Suministro, reemplazo, configuración y calibración de la tarjeta controladora defectuosa por módulo digital compatible,"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=613-38-COT26",
+   "sin_detalle": false,
+   "descripcion": "La SECRETARÍA REGIONAL MINISTERIAL DE VIVIENDA Y URBANISMO DE LA REGIÓN DE AYSÉN requiere contratar el servicio integral de mantención preventiva y correctiva, reparación y puesta en funcionamiento del sistema de energía de respaldo de su edificio institucional, ubicado en Coyhaique.",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "generador"
+   ],
+   "nueva": true,
+   "codigo": "3791-1099-COT26",
+   "nombre": "ALTERNADOR Y CORREAS",
+   "organismo": "I MUNICIPALIDAD DE CISNES",
+   "unidad": "Finanzas",
+   "monto": 447000,
+   "cierre_iso": "2026-11-04T11:00:00-03:00",
+   "publicacion": "03-11 10:31",
+   "publicacion_iso": "2026-11-03T10:31:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "26101615",
+     "Alternadores",
+     1,
+     "ALTERNADOR 12V 85A DENSO 102211-8180 O PERKINS 185046500"
+    ],
+    [
+     "31162310",
+     "Correas de montaje",
+     2,
+     "CORREA ALTERNADOR PERKINS 2614B655."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=3791-1099-COT26",
+   "sin_detalle": false,
+   "descripcion": "ADQUISICION DE ALTERNADOR Y DOS CORREAS PARA EL GENERADOR MODELO GX90P/G80, SERIE 170781/39,, EQUIPADO CON MOTOR PERKINS 1104A-44TG2, UBICADO EN LA LOCALIDAD DE MELIMOYU. SE ADJUNTANA NEXOS",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "eléctrico",
+    "generador",
+    "generador eléctrico"
+   ],
+   "nueva": false,
+   "codigo": "1281188-19-COT26",
+   "nombre": "Generador Eléctrico Diésel Uso Continuo 17kVa ",
+   "organismo": "DELEGACIÓN PRESIDENCIAL PROVINCIAL DE CAPITÁN PRAT",
+   "unidad": "Pasos Fronterizos Provincial de Capitán Prat",
+   "monto": 7200000,
+   "cierre_iso": "2026-11-05T07:30:00-03:00",
+   "publicacion": "30-10 10:10",
+   "publicacion_iso": "2026-10-30T10:10:00-03:00",
    "ofertas": 0,
    "productos": [
     [
      "26111601",
      "Generadores diesel",
      1,
-     "La SECRETARÍA REGIONAL MINISTERIAL DE VIVIENDA Y URBANISMO DE LA REGIÓN DE AYSÉN requiere contratar el servicio integral de mantención preventiva y correctiva, reparación y puesta en funcionamiento del sistema de energía de respaldo de su edificio institucional, ubicado en Coyhaique."
+     "Generador Eléctrico Diésel Uso Continuo 17kVa igual o similar a marca Kipor, según especificaciones técnicas requeridas en archivo adjunto a compra ágil, en donde, los oferentes deberán adjuntar firmada a su oferta."
     ]
    ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=613-37-COT26",
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1281188-19-COT26",
    "sin_detalle": false,
-   "descripcion": "1. Mantención de siete (7) unidades: Desmontaje cuidadoso de tapas cuando corresponda; limpieza y desinfección de filtros con productos compatibles; limpieza no corrosiva de serpentín evaporador, turbina, bandeja de condensados y drenajes; verificación de sensores, control remoto y operación frío/calor. 2. Mantención de siete (7) unidades: Limpieza controlada de condensador; revisión de estado de bases, soportes, anclajes, vibraciones, corrosión, ventiladores y conexiones.",
+   "descripcion": "Generador Electrico Diesel Uso Continuo 17kVa según especificaciones técnicas, requeridas en anexo adjunto a compra ágil, a su vez los oferentes deberán adjuntar en su oferta anexo firmado.",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Conectores, enchufes y terminales"
+   ],
+   "nueva": true,
+   "codigo": "1233615-920-COT26",
+   "nombre": "DMH SOL-2026-01931] Recursos TICS para Escuela \"Litoral Austral\" de Puerto Aysén",
+   "organismo": "Servicio Local de Educación Pública Aysén",
+   "unidad": "Servicio Local de Educación Pública Aysén",
+   "monto": 302470,
+   "cierre_iso": "2026-11-05T11:00:00-03:00",
+   "publicacion": "03-11 10:17",
+   "publicacion_iso": "2026-11-03T10:17:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "39121409",
+     "Conectores de cables eléctricos",
+     1,
+     "insumos, accesorios y equipamiento informático necesarios para garantizar la continuidad operativa, mantención y adecuado funcionamiento de los recursos tecnológicos de la Escuela Litoral Austral, de acuerdo a requerimiento adjunto a la presente compra (debe llenar el formulario N°1)"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1233615-920-COT26",
+   "sin_detalle": false,
+   "descripcion": "Se solicita la adquisición de insumos, accesorios y equipamiento informático necesarios para garantizar la continuidad operativa, mantención y adecuado funcionamiento de los recursos tecnológicos de la Escuela Litoral Austral.",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "grupo electrógeno"
+   ],
+   "nueva": true,
+   "codigo": "1079689-522-COT26",
+   "nombre": "ADQUISICIÓN DE REPUESTOS SISTEMA REFRIGERACIÓN DE MOTOR DIÉSEL YANGDONG YSD490D, INSTALADO EN GG.EE. KIPOR KDE18S",
+   "organismo": "SECCIÓN COMPRAS XI ZONA",
+   "unidad": "SEC DE COMP ZONA AYSÉN DEL GRAL CARL IBAÑ DEL CAMP",
+   "monto": 7225000,
+   "cierre_iso": "2026-11-05T12:00:00-03:00",
+   "publicacion": "03-11 12:06",
+   "publicacion_iso": "2026-11-03T12:06:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "25202004",
+     "Sistemas de grupo electrógeno de pista (APU)",
+     3,
+     "Correa del ventilador o sistema de refrigeración compatible motor diésel YSD490D, CONFORME ANEXO ADJUNTO"
+    ],
+    [
+     "25202004",
+     "Sistemas de grupo electrógeno de pista (APU)",
+     3,
+     "Aspa o hélice del ventilador del radiador compatible motor diésel YSD490D CONFORME ANEXO ADJUNTO"
+    ],
+    [
+     "25202004",
+     "Sistemas de grupo electrógeno de pista (APU)",
+     3,
+     "Radiador completo compatible con motor YSD490D CONFORME ANEXO ADJUNTO"
+    ],
+    [
+     "25202004",
+     "Sistemas de grupo electrógeno de pista (APU)",
+     3,
+     "Bomba de agua del motor con Junta o Empaquetadura incluida compatible motor diésel YSD490D CONFORME ANEXO ADJUNTO"
+    ],
+    [
+     "25202004",
+     "Sistemas de grupo electrógeno de pista (APU)",
+     3,
+     "Termostato del sistema de refrigeración con empaquetadura compatible con motor diésel YSD490D CONFORME ANEXO ADJUNTO"
+    ],
+    [
+     "25202004",
+     "Sistemas de grupo electrógeno de pista (APU)",
+     3,
+     "Manguera superior del radiador compatible con motor diésel YSD490D CONFORME ANEXO ADJUNTO"
+    ],
+    [
+     "25202004",
+     "Sistemas de grupo electrógeno de pista (APU)",
+     3,
+     "Manguera inferior del radiador compatible con motor diésel YSD490D CONFORME ANEXO ADJUNTO"
+    ],
+    [
+     "25202004",
+     "Sistemas de grupo electrógeno de pista (APU)",
+     3,
+     "Tapa de radiador con presión especificada por fabricante compatible con motor diésel YSD490D CONFORME ANEXO ADJUNTO"
+    ],
+    [
+     "25202004",
+     "Sistemas de grupo electrógeno de pista (APU)",
+     3,
+     "Polea de bomba de agua compatible con motor diésel YSD490D CONFORME ANEXO ADJUNTO"
+    ],
+    [
+     "25202004",
+     "Sistemas de grupo electrógeno de pista (APU)",
+     3,
+     "ventilador y elementos de fijación compatible con motor diésel YSD490D CONFORME ANEXO ADJUNTO"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1079689-522-COT26",
+   "sin_detalle": false,
+   "descripcion": "ADQUISICIÓN REPUESTOS PARA SISTEMA DE REFRIGERACIÓN DE MOTOR DIÉSEL YANGDONG YSD490D, INSTALADO EN GRUPO ELECTRÓGENO KIPOR KDE18S. OFERENTE DEBERÁ LLENAR Y SUBIR EL ARCHIVO DE REQUERIMIENTOS TÉCNICOS Y ADJUNTAR COTIZACIÓN DE VALORES DE LOS MISMOS ADICIONANDO FICHA TÉCNICA DE NO ADJUNTAR DOCUMENTACIÓN REQUERIDA NO SEGUIRÁ SIENDO EVALUADO.",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "grupo electrógeno"
+   ],
+   "nueva": false,
+   "codigo": "1403-464-COT26",
+   "nombre": "MANTENCION PREVENTIVA DE GRUPO ELECTROGENO DEL CDP DE PUERTO AYSEN",
+   "organismo": "Dirección Regional de Gendarmeria - Coyhaique",
+   "unidad": "Región de Aysén",
+   "monto": 2368100,
+   "cierre_iso": "2026-11-05T15:00:00-03:00",
+   "publicacion": "29-10 10:55",
+   "publicacion_iso": "2026-10-29T10:55:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "25202004",
+     "Sistemas de grupo electrógeno de pista (APU)",
+     1,
+     "MANTENCIÓN PREVENTIVA DE GRUPO ELECTROGENO DEL CDP DE PUERTO AYSEN, GENSA GS110-C, POTENCIA NOMINAL 100 KVA, SERVICIO INTEGRAL CON MANO DE OBRA, REPUESTOS, INSUMOS, PRUEBAS E INFORME TÉCNICO. MAYOR INFORMACIÓN EN DOCUMENTO ADJUNTO."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1403-464-COT26",
+   "sin_detalle": false,
+   "descripcion": "E1O2RT9 - MANTENCION PREVENTIVA DE GRUPO ELECTROGENO DEL CDP DE PUERTO AYSEN. CRITERIOS DE EVALUACIÓN: PRECIO 68% - PLAZO DE ENTREGA / EJECUCIÓN DEL SERVICIO 10% - GARANTÍA 10% - EXPERIENCIA EN EL RUBRO 10% - POLITICAS DE SUSTENTABILIDAD 2%. VISITA A TERRENO VOLUNTARIA EL DÍA MARTES 03 Y MIERCOLES 04 DE NOVIEMBRE 2026 ENTRE 10 Y 17 HORAS",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "eléctricos"
+   ],
+   "nueva": false,
+   "codigo": "3325-31-COT26",
+   "nombre": "MANTENCIÓN DE GENERADORES ELÉCTRICOS DE CUARTELES PDI COYHAIQUE Y PTO. AYSÉN, 3325-31-COT26",
+   "organismo": "POLICIA DE INVESTIGACIONES DE CHILE",
+   "unidad": "LOGISTICA COYHAIQUE",
+   "monto": 1100000,
+   "cierre_iso": "2026-11-05T18:30:00-03:00",
+   "publicacion": "29-10 11:11",
+   "publicacion_iso": "2026-10-29T11:11:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "26111601",
+     "Generadores diesel",
+     1,
+     "MANTENCIÓN DE GENERADORES ELÉCTRICOS, OFERTA DE ACUERDO A ESPECIFICACIONES TÉCNICAS Y ANEXO N° 1 COMPLETAR (OBLIGATORIO) ADJUNTO."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=3325-31-COT26",
+   "sin_detalle": false,
+   "descripcion": "EN VIRTUD AL PLAN ANUAL DE MANTENCIÓN DE CUARTELES POLICIALES SE REQUIERE LA MANTENCIÓN DE GRUPOS ELECTRÓGENOS MOVIBLES Y ESTACIONARIOS DE LOS CUARTELES POLICIALES DE COYHAIQUE Y PUERTO AYSÉN, ESTO CON EL FIN DE AUMENTAR LA VIDA ÚTIL DE ESTOS ELEMENTOS, Y A SU VEZ OTORGAR LAS CONDICIONES NECESARIAS EN CASO DE CORTES DE ENERGÍA ELÉCTRICA EN LAS DISTINTAS UNIDADES. COMPLETAR ANEXO N°1 ADJUNTO (OBLIGATORIO).",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Enfriamiento (aires acondicionados)"
+   ],
+   "nueva": true,
+   "codigo": "1078779-24-COT26",
+   "nombre": "EQUIPO DE AIRE ACONDICIONADO",
+   "organismo": "SERVICIO DE SALUD AYSEN CARLOS IBANEZ DEL CAMPO",
+   "unidad": "Fondos Extrapresupuestarios",
+   "monto": 303990,
+   "cierre_iso": "2026-11-06T07:28:00-03:00",
+   "publicacion": "27-10 12:13",
+   "publicacion_iso": "2026-10-27T12:13:00-03:00",
+   "ofertas": 3,
+   "productos": [
+    [
+     "40101701",
+     "Aires acondicionados",
+     1,
+     "Aire acondicionado tipo Split muro, tecnología Inverter, frío/calor, con capacidad mínima de 9.000 BTU"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1078779-24-COT26",
+   "sin_detalle": false,
+   "descripcion": "Adquisición de 1 equipo de aire acondicionado tipo Split muro, tecnología Inverter, frío/calor, con capacidad mínima de 9.000 BTU, destinado a dependencias\ndel Proyecto Mujeres Koyun.",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Cables eléctricos y accesorios",
+    "Suministros y accesorios eléctricos"
+   ],
+   "nueva": true,
+   "codigo": "886182-248-COT26",
+   "nombre": "Materiales de oficina_segun fisabs 2350_Departamento Ciencias Naturales y Tecnología",
+   "organismo": "UNIVERSIDAD DE AYSEN",
+   "unidad": "Universidad de Aysen",
+   "monto": 1421958,
+   "cierre_iso": "2026-11-06T11:19:00-03:00",
+   "publicacion": "30-10 11:08",
+   "publicacion_iso": "2026-10-30T11:08:00-03:00",
+   "ofertas": 2,
+   "productos": [
+    [
+     "14111525",
+     "Papel multiuso",
+     4,
+     "\"NOTA POST-IT 3M ULTRA 654 DE DISTINTOS COLORES -\nSIMILAR MARCA POST-IT\""
+    ],
+    [
+     "14111525",
+     "Papel multiuso",
+     3,
+     "\"PACK BANDERITA POST-IT AZUL X 2 UNIDADES - SIMILAR\nMARCA POST-IT\""
+    ],
+    [
+     "14111525",
+     "Papel multiuso",
+     3,
+     "\"PACK BANDERITA POST-IT AMARILLO X 2 UNIDADES -\nSIMILAR MARCA POST-IT\""
+    ],
+    [
+     "14111525",
+     "Papel multiuso",
+     3,
+     "\"PACK BANDERITA POST-IT ROJO X 2 UNIDADES - SIMILAR\nMARCA POST-IT\""
+    ],
+    [
+     "14111525",
+     "Papel multiuso",
+     3,
+     "\"PACK BANDERITA POST-IT VERDE X 2 UNIDADES -\nSIMILAR MARCA POST-IT\""
+    ],
+    [
+     "26111706",
+     "Pilas electrónicas",
+     2,
+     "\"KIT CARGADOR DE PILAS ELECTRÓNICAS INCLUYE 2\nPILAS AAA Y 2 PILAS AA - SIMILAR MARCA PHILCO\""
+    ],
+    [
+     "26121620",
+     "Cable para interconexiones",
+     2,
+     "\"CABLE HDMI BLINDADO 4K - 2 MTS ( CM ) DE COLOR\nNEGRO - SIMILAR MARCA HP\""
+    ],
+    [
+     "27112401",
+     "Pistolas de grapas",
+     2,
+     "\"CORCHETERA A7 26/6 - 24/6 NEGRA PLASTICA (CM) -\nSIMILAR MARCA COLON\""
+    ],
+    [
+     "31162404",
+     "Grapas de ferretería",
+     3,
+     "\"CORCHETE 26/6 5000 UNID. ( CH ) ( CM ) - SIMILAR MARCA\nISOFIT\""
+    ],
+    [
+     "31201512",
+     "Cinta Transparente",
+     6,
+     "\"CINTA ADHESIVA 3M 18 X 25 Mts. ( CH ) TRANSPARENTE -\nSIMILAR MARCA SCOTCH\""
+    ],
+    [
+     "39121710",
+     "Receptáculo multiplicador eléctrico",
+     1,
+     "\"ALARGADOR MULTIPLE 4 ENCHUFES 1.5MTS COLOR\nNEGRO - SIMILAR MARCA PHILCO\""
+    ],
+    [
+     "39121710",
+     "Receptáculo multiplicador eléctrico",
+     2,
+     "\"ALARGADOR MULTIPLE 6 ENCHUFES 3MTS NEGRO XT-30 - SIMILAR MARCA PHILCO\""
+    ],
+    [
+     "44103105",
+     "Cartuchos de tinta",
+     72,
+     "\"CARTUCHO TINTA PARA PLUMON DE PIZARRA ROJO -\nSIMILAR MARCA PILOT\""
+    ],
+    [
+     "44103105",
+     "Cartuchos de tinta",
+     72,
+     "\"CARTUCHO TINTA PARA PLUMON DE PIZARRA NEGRO -\nSIMILAR MARCA PILOT\""
+    ],
+    [
+     "44103105",
+     "Cartuchos de tinta",
+     72,
+     "\"CARTUCHO TINTA PARA PLUMON DE PIZARRA AZUL -\nSIMILAR MARCA PILOT\""
+    ],
+    [
+     "44111801",
+     "Rotuladores",
+     2,
+     "\"KIT/ BLISTER DE PLUMONES 4 COLORES PERMANENTE -\nSIMILAR MARCA PROARTE\""
+    ],
+    [
+     "44111801",
+     "Rotuladores",
+     19,
+     "\"PLUMON DE PIZARRA CON CARTUCHO AZUL ( CH ) -\nSIMILAR MARCA PILOT\""
+    ],
+    [
+     "44111801",
+     "Rotuladores",
+     19,
+     "\"PLUMON DE PIZARRA CON CARTUCHO NEGRO ( CH ) -\nSIMILAR MARCA PILOT\""
+    ],
+    [
+     "44111801",
+     "Rotuladores",
+     19,
+     "\"PLUMON DE PIZARRA CON CARTUCHO ROJO ( CH ) -\nSIMILAR MARCA PILOT\""
+    ],
+    [
+     "44121506",
+     "Sobres estándar",
+     30,
+     "SOBRE SACO TAMAÑO OFICIO BLANCO GIGANT"
+    ],
+    [
+     "44121506",
+     "Sobres estándar",
+     30,
+     "SOBRE SACO REVISTA CARTA BLANCO OLIMPIA 80"
+    ],
+    [
+     "44121613",
+     "Saca corchetes",
+     2,
+     "\"SACACORCHETE NEGRO SC 100 ( CM ) - SIMILAR MARCA\nISOFIT\""
+    ],
+    [
+     "44121716",
+     "Rotuladores",
+     1,
+     "\"PACK DE DESTACADORES SIMILAR A STABILO BOSS\nFLUOR 8 UNIDADES DE DISTINTOS COLORES\""
+    ],
+    [
+     "44122104",
+     "Clips para papel",
+     4,
+     "\"CAJA DE CLIPS METALICOS 78 mm - 50 UNIDADES PROX -\nSIMILAR MARCA ISOFIT\""
+    ],
+    [
+     "44122104",
+     "Clips para papel",
+     2,
+     "\"CAJA DE CLIPS METALICOS 28 mm 100 UNIDADES PROX -\nSIMILAR MARCA ISOFIT\""
+    ],
+    [
+     "45101802",
+     "Máquinas cortadoras para libros",
+     3,
+     "\"CUCHILLO CARTONERO GRANDE 18MM ANTIDESLIZANTE\nRETRACTIL C/SEGURO ( CM ) - SIMILAR MARCA TORRE\""
+    ],
+    [
+     "45101802",
+     "Máquinas cortadoras para libros",
+     3,
+     "\"PACK REPUESTO CUCHILLO CARTONERO 18MM x 10\nUNIDADES ( CM ) - SIMILAR MARCA TORRE\""
+    ],
+    [
+     "60101732",
+     "Apuntadores o punteros",
+     4,
+     "\"PUNTERO LÁSER / PRESENTADOR INALAMBRICO LASER\nSS10 C/PILA AAA - SIMILAR MARCA HP\""
+    ],
+    [
+     "60121109",
+     "Blocs de dibujo",
+     4,
+     "\"Bloc Grande / Papel Papelógrafo 650MM X 800 MM 30 HOJAS\n- SIMILAR MARCA RHEIN - De preferencia estás medidas:\n65cm X 80cm, sino 63.5cm X 77cm.\""
+    ],
+    [
+     "60121524",
+     "Bolígrafos de gel",
+     32,
+     "\"LAPIZ TINTA V-BALL GRIP 1.0 COLOR ROJO - SIMILAR\nMARCA PILOT\""
+    ],
+    [
+     "60121524",
+     "Bolígrafos de gel",
+     32,
+     "\"LAPIZ TINTA V-BALL GRIP 1.0 COLOR NEGRO - SIMILAR\nMARCA PILOT\""
+    ],
+    [
+     "60121524",
+     "Bolígrafos de gel",
+     32,
+     "\"LAPIZ TINTA V-BALL GRIP 1.0 COLOR AZUL - SIMILAR\nMARCA PILOT\""
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=886182-248-COT26",
+   "sin_detalle": false,
+   "descripcion": "Se requiere cotizar el insumo descrito en el presente formulario. Cotización debe indicar la especificación técnica de lo ofertado y el plazo de entrega en días corridos, considerando la entrega de los productos en dependencias de la Uaysen y no en la empresa de transportes. El valor ofertado debe incluir impuestos y flete. Se podrá privilegiar el menor plazo ofertado que cumpla con lo especificado. Cotización debe indicar datos de contacto del oferente.",
    "en_gracia": false,
    "desaparecida_iso": ""
   },
@@ -478,15 +690,15 @@
     "Conectores, enchufes y terminales",
     "Interruptores, controles y relés"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "951405-261-COT26",
    "nombre": "(F.INT-CC.MANT.CAS.OFLES) JAL_CAJ_ADQ. DE MATERIALES PARA REPARACIÓN DE SISTEMA ELÉCTRICO DE TERMOS DE AGUA EN EL CASINO DE OFICIALES DEL CIELB.",
-   "organismo": "JEFATURA ADMINISTRATIVA Y LOGISTICA DE LA GUARNICION COYHAIQUE",
-   "unidad": "JAL - Guarnición \"Coyhaique\"",
-   "monto": 200000,
-   "cierre_iso": "2026-11-04T09:00:00-03:00",
-   "publicacion": "02-11 15:37",
-   "publicacion_iso": "2026-11-02T15:37:00-03:00",
+   "organismo": "",
+   "unidad": "",
+   "monto": null,
+   "cierre_iso": "",
+   "publicacion": "",
+   "publicacion_iso": "",
    "ofertas": 0,
    "productos": [
     [
@@ -619,149 +831,59 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=951405-261-COT26",
    "sin_detalle": false,
    "descripcion": "1) COTIZACIONES A SUMA ALZADA. 2) TODA COORDINACIÓN SERÁ CON EL ADMINISTRADOR PREVIO AL ENVÍO. 3) CONSIDERAR LA TOTALIDAD DE LOS BIENES SOLICITADOS Y CON STOCK DE LOS MISMOS (CONFIRMAR). 4) LA OFERTA NO DEBERÁ SOBREPASAR EL MONTO DISPONIBLE. 5) TENDRÁ UN PLAZO DE DIEZ (10) DÍAS HÁBILES PARA LA ENTREGA. 6) LA ENTREGA SE REALIZARÁ EN AVDA. BAQUEDANO ESQUINA EJÉRCITO S/N.° (AL INTERIOR DE CMC), CIUDAD DE COYHAIQUE, REGIÓN DE AYSÉN. 7) SE PRIVILEGIARÁ AL PROVEEDOR CON ENTREGA MÁS RÁPIDA.",
-   "en_gracia": false,
-   "desaparecida_iso": ""
+   "en_gracia": true,
+   "desaparecida_iso": "2026-11-03T14:11:19-03:00"
   },
   {
    "tipo": "POSIBLE",
    "motivos": [
-    "aire acondicionado",
-    "enchufe",
-    "enchufes"
-   ],
-   "nueva": true,
-   "codigo": "3950-710-COT26",
-   "nombre": "Repuestos para Aires Acondicionado CLJ",
-   "organismo": "DIRECCION SALUD RURAL",
-   "unidad": "Dirección de Salud Rural",
-   "monto": 350000,
-   "cierre_iso": "2026-11-04T09:00:00-03:00",
-   "publicacion": "02-11 15:34",
-   "publicacion_iso": "2026-11-02T15:34:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "27111704",
-     "Enchufes",
-     2,
-     "Enchufes macho"
-    ],
-    [
-     "27111704",
-     "Enchufes",
-     2,
-     "Enchufe hembra sobrepuestos"
-    ],
-    [
-     "40142007",
-     "Mangueras especiales",
-     20,
-     "Metros de Manguera 6 mm (1/4 de pulgada) de diametro interior de desague de bomba de condensado de aire acondicionado"
-    ],
-    [
-     "41103024",
-     "Condensadores de frío",
-     2,
-     "Bombas de condensado de aire acondicionado"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=3950-710-COT26",
-   "sin_detalle": false,
-   "descripcion": "Repuestos para Aires Acondicionado",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "eléctrico",
-    "generador",
-    "generador eléctrico"
+    "climatización"
    ],
    "nueva": false,
-   "codigo": "1281188-19-COT26",
-   "nombre": "Generador Eléctrico Diésel Uso Continuo 17kVa ",
-   "organismo": "DELEGACIÓN PRESIDENCIAL PROVINCIAL DE CAPITÁN PRAT",
-   "unidad": "Pasos Fronterizos Provincial de Capitán Prat",
-   "monto": 7200000,
-   "cierre_iso": "2026-11-05T07:30:00-03:00",
-   "publicacion": "30-10 10:10",
-   "publicacion_iso": "2026-10-30T10:10:00-03:00",
+   "codigo": "613-37-COT26",
+   "nombre": " Servicio de mantención preventiva y correctiva y reubicación de equipos de climatización",
+   "organismo": "",
+   "unidad": "",
+   "monto": null,
+   "cierre_iso": "",
+   "publicacion": "",
+   "publicacion_iso": "",
    "ofertas": 0,
    "productos": [
     [
      "26111601",
      "Generadores diesel",
      1,
-     "Generador Eléctrico Diésel Uso Continuo 17kVa igual o similar a marca Kipor, según especificaciones técnicas requeridas en archivo adjunto a compra ágil, en donde, los oferentes deberán adjuntar firmada a su oferta."
+     "La SECRETARÍA REGIONAL MINISTERIAL DE VIVIENDA Y URBANISMO DE LA REGIÓN DE AYSÉN requiere contratar el servicio integral de mantención preventiva y correctiva, reparación y puesta en funcionamiento del sistema de energía de respaldo de su edificio institucional, ubicado en Coyhaique."
     ]
    ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1281188-19-COT26",
+   "link": "https://buscador.mercadopublico.cl/ficha?code=613-37-COT26",
    "sin_detalle": false,
-   "descripcion": "Generador Electrico Diesel Uso Continuo 17kVa según especificaciones técnicas, requeridas en anexo adjunto a compra ágil, a su vez los oferentes deberán adjuntar en su oferta anexo firmado.",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "grupo electrógeno"
-   ],
-   "nueva": false,
-   "codigo": "1403-464-COT26",
-   "nombre": "MANTENCION PREVENTIVA DE GRUPO ELECTROGENO DEL CDP DE PUERTO AYSEN",
-   "organismo": "Dirección Regional de Gendarmeria - Coyhaique",
-   "unidad": "Región de Aysén",
-   "monto": 2368100,
-   "cierre_iso": "2026-11-05T15:00:00-03:00",
-   "publicacion": "29-10 10:55",
-   "publicacion_iso": "2026-10-29T10:55:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "25202004",
-     "Sistemas de grupo electrógeno de pista (APU)",
-     1,
-     "MANTENCIÓN PREVENTIVA DE GRUPO ELECTROGENO DEL CDP DE PUERTO AYSEN, GENSA GS110-C, POTENCIA NOMINAL 100 KVA, SERVICIO INTEGRAL CON MANO DE OBRA, REPUESTOS, INSUMOS, PRUEBAS E INFORME TÉCNICO. MAYOR INFORMACIÓN EN DOCUMENTO ADJUNTO."
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1403-464-COT26",
-   "sin_detalle": false,
-   "descripcion": "E1O2RT9 - MANTENCION PREVENTIVA DE GRUPO ELECTROGENO DEL CDP DE PUERTO AYSEN. CRITERIOS DE EVALUACIÓN: PRECIO 68% - PLAZO DE ENTREGA / EJECUCIÓN DEL SERVICIO 10% - GARANTÍA 10% - EXPERIENCIA EN EL RUBRO 10% - POLITICAS DE SUSTENTABILIDAD 2%. VISITA A TERRENO VOLUNTARIA EL DÍA MARTES 03 Y MIERCOLES 04 DE NOVIEMBRE 2026 ENTRE 10 Y 17 HORAS",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "eléctricos"
-   ],
-   "nueva": false,
-   "codigo": "3325-31-COT26",
-   "nombre": "MANTENCIÓN DE GENERADORES ELÉCTRICOS DE CUARTELES PDI COYHAIQUE Y PTO. AYSÉN, 3325-31-COT26",
-   "organismo": "POLICIA DE INVESTIGACIONES DE CHILE",
-   "unidad": "LOGISTICA COYHAIQUE",
-   "monto": 1100000,
-   "cierre_iso": "2026-11-05T18:30:00-03:00",
-   "publicacion": "29-10 11:11",
-   "publicacion_iso": "2026-10-29T11:11:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "26111601",
-     "Generadores diesel",
-     1,
-     "MANTENCIÓN DE GENERADORES ELÉCTRICOS, OFERTA DE ACUERDO A ESPECIFICACIONES TÉCNICAS Y ANEXO N° 1 COMPLETAR (OBLIGATORIO) ADJUNTO."
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=3325-31-COT26",
-   "sin_detalle": false,
-   "descripcion": "EN VIRTUD AL PLAN ANUAL DE MANTENCIÓN DE CUARTELES POLICIALES SE REQUIERE LA MANTENCIÓN DE GRUPOS ELECTRÓGENOS MOVIBLES Y ESTACIONARIOS DE LOS CUARTELES POLICIALES DE COYHAIQUE Y PUERTO AYSÉN, ESTO CON EL FIN DE AUMENTAR LA VIDA ÚTIL DE ESTOS ELEMENTOS, Y A SU VEZ OTORGAR LAS CONDICIONES NECESARIAS EN CASO DE CORTES DE ENERGÍA ELÉCTRICA EN LAS DISTINTAS UNIDADES. COMPLETAR ANEXO N°1 ADJUNTO (OBLIGATORIO).",
-   "en_gracia": false,
-   "desaparecida_iso": ""
+   "descripcion": "1. Mantención de siete (7) unidades: Desmontaje cuidadoso de tapas cuando corresponda; limpieza y desinfección de filtros con productos compatibles; limpieza no corrosiva de serpentín evaporador, turbina, bandeja de condensados y drenajes; verificación de sensores, control remoto y operación frío/calor. 2. Mantención de siete (7) unidades: Limpieza controlada de condensador; revisión de estado de bases, soportes, anclajes, vibraciones, corrosión, ventiladores y conexiones.",
+   "en_gracia": true,
+   "desaparecida_iso": "2026-11-03T14:11:19-03:00"
   }
  ],
  "historial": [
+  {
+   "codigo": "3791-1096-COT26",
+   "nombre": "ESPACIOS PUBLICOS ZONA SUR ",
+   "organismo": "I MUNICIPALIDAD DE CISNES",
+   "monto": 4286244,
+   "cierre_iso": "2026-11-03T12:00:00-03:00",
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Cables eléctricos y accesorios",
+    "Cajas y accesorios eléctricos"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=3791-1096-COT26",
+   "primera_vista_iso": "2026-11-02T16:38:38-03:00",
+   "removida_iso": "2026-11-03T14:11:19-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
   {
    "codigo": "3171-157-COT26",
    "nombre": "ADQUISICIÓN DE MATERIALES DE CONSTRUCCIÓN PARA LA CAPITANÍA DE PUERTO DE MELINKA",
@@ -810,25 +932,6 @@
    ],
    "link": "https://buscador.mercadopublico.cl/ficha?code=1233615-886-COT26",
    "primera_vista_iso": "2026-10-28T18:12:20-03:00",
-   "removida_iso": "2026-11-02T16:38:38-03:00",
-   "estado_api": null,
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "886182-248-COT26",
-   "nombre": "Materiales de oficina_segun fisabs 2350_Departamento Ciencias Naturales y Tecnología",
-   "organismo": "UNIVERSIDAD DE AYSEN",
-   "monto": 1421958,
-   "cierre_iso": "2026-11-02T12:00:00-03:00",
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Cables eléctricos y accesorios",
-    "Suministros y accesorios eléctricos"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=886182-248-COT26",
-   "primera_vista_iso": "2026-10-30T13:05:28-03:00",
    "removida_iso": "2026-11-02T16:38:38-03:00",
    "estado_api": null,
    "adj_nombre": null,
@@ -1028,24 +1131,6 @@
    ],
    "link": "https://buscador.mercadopublico.cl/ficha?code=1173433-21-COT26",
    "primera_vista_iso": "2026-10-27T17:10:04-03:00",
-   "removida_iso": "2026-10-30T13:05:28-03:00",
-   "estado_api": null,
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "1078779-24-COT26",
-   "nombre": "EQUIPO DE AIRE ACONDICIONADO",
-   "organismo": "SERVICIO DE SALUD AYSEN CARLOS IBANEZ DEL CAMPO",
-   "monto": 303990,
-   "cierre_iso": "2026-10-30T10:00:00-03:00",
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Enfriamiento (aires acondicionados)"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1078779-24-COT26",
-   "primera_vista_iso": "2026-10-27T12:27:37-03:00",
    "removida_iso": "2026-10-30T13:05:28-03:00",
    "estado_api": null,
    "adj_nombre": null,
@@ -1338,63 +1423,6 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=1274667-416-COT26",
    "primera_vista_iso": "2026-10-26T13:13:41-03:00",
    "removida_iso": "2026-10-28T18:12:20-03:00",
-   "estado_api": "",
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "1494998-26-COT26",
-   "nombre": "ADQUISICIÓN Y DESPACHO DE GENERADORES ELÉCTRICOS PARA LAS ÁREAS PROTEGIDAS DE LA DIRECCIÓN REGIONAL DE AYSÉN SBAP (Convenio SBAP-CONAF)",
-   "organismo": "Servicio de Biodiversidad y Áreas Protegidas",
-   "monto": 1900000,
-   "cierre_iso": "2026-10-27T12:00:00-03:00",
-   "tipo": "POSIBLE",
-   "motivos": [
-    "eléctrico",
-    "eléctricos",
-    "generador",
-    "generador eléctrico"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1494998-26-COT26",
-   "primera_vista_iso": "2026-10-26T13:13:41-03:00",
-   "removida_iso": "2026-10-27T12:27:37-03:00",
-   "estado_api": "",
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "3949-265-COT26",
-   "nombre": "SET DE PARCHES ELECTRODOS PEDIÁTRICOS ",
-   "organismo": "CONSULTORIO GENERAL URBANO DR ALEJANDRO GUTIERREZ",
-   "monto": 100000,
-   "cierre_iso": "2026-10-27T11:45:00-03:00",
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Conectores, enchufes y terminales"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=3949-265-COT26",
-   "primera_vista_iso": "2026-10-26T13:13:41-03:00",
-   "removida_iso": "2026-10-27T12:27:37-03:00",
-   "estado_api": "",
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "1458-26-COT26",
-   "nombre": "Adquisición de Kerosene para calefacción ",
-   "organismo": "SERPLAC XI Región",
-   "monto": 860000,
-   "cierre_iso": "2026-10-27T09:00:00-03:00",
-   "tipo": "POSIBLE",
-   "motivos": [
-    "electricidad"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1458-26-COT26",
-   "primera_vista_iso": "2026-10-22T17:57:00-03:00",
-   "removida_iso": "2026-10-27T12:27:37-03:00",
    "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,

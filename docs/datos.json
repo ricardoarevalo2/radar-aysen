@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-11-02T23:29:10.517930-03:00",
+ "actualizado": "2026-11-03T14:11:19.978646-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
- "total_region": 262,
+ "total_region": 278,
  "rubros": {
   "80141600": "Ventas y marketing",
   "82101600": "Publicidad en medios no impresos",
@@ -14,204 +14,6 @@
   "83121700": "Comunicación social y de masas"
  },
  "filas": [
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "radio"
-   ],
-   "nueva": false,
-   "codigo": "1208109-24-COT26",
-   "nombre": "Servicio de almuerzos y cenas para participantes del Encuentro Nacional de Participación",
-   "organismo": "SERVICIO NACIONAL DE PROTECCIÓN ESPECIALIZADA A LA NIÑEZ Y ADOLESCENCI",
-   "unidad": "DIRECCION REGIONAL AYSEN",
-   "monto": 370755,
-   "cierre_iso": "2026-11-03T02:50:00-03:00",
-   "publicacion": "26-10 17:09",
-   "publicacion_iso": "2026-10-26T17:09:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "90101501",
-     "Restaurantes",
-     12,
-     "12 almuerzos distribuidos desde el 04 al 06 de noviembre (4 almuerzos diarios)"
-    ],
-    [
-     "90101501",
-     "Restaurantes",
-     16,
-     "16 cenas distribuidas desde el 03 al 06 de noviembre (4 cenas diarias)"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1208109-24-COT26",
-   "sin_detalle": false,
-   "descripcion": "Se requiere el servicio de alimentación para 4 personas, el cual consiste en la entrega de almuerzos y cenas para los participantes del encuentro nacional de participación a desarrollarse los días 03 al 06 de noviembre. Este servicio debe prestarse con la entrega de la alimentación en restaurant ubicado en un radio intermedio entre el hotel Brasilia, ubicado en calle Santo Domingo N°2228 y la Biblioteca de Santiago ubicada en calle Avenida Matucana N°151",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
-  {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Fotógrafos y camarógrafos"
-   ],
-   "nueva": true,
-   "codigo": "2494-281-COT26",
-   "nombre": "BAP - Servicio de Taller de Fotografía , en el Marco del Plan de Confianza Social del Barrio Arturo Prat - PROGRAMA RECUPERACIÓN DE BARRIOS",
-   "organismo": "I MUNICIPALIDAD DE COYHAIQUE",
-   "unidad": "SECRETARIA COMUNAL DE PLANIFICACION",
-   "monto": 400000,
-   "cierre_iso": "2026-11-03T11:00:00-03:00",
-   "publicacion": "02-11 10:02",
-   "publicacion_iso": "2026-11-02T10:02:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "82131604",
-     "Estudio fotográfico",
-     1,
-     "Se requiere contratar un servicio de taller de fotografía para 15 participantes, en el marco del Plan de\nConfianza Social del Barrio Arturo Prat, orientado al aprendizaje y desarrollo de habilidades creativas y\ncomunicacionales a través de la fotografía, promoviendo además un espacio de encuentro,\nexpresión personal y participación comunitaria. SE ADJUNTA LA DOCUMENTACIÓN \"TDR-TALLER-DE-FOTOGRAFIA(1).PDF\" CON LOS\nDETALLES DEL SERVICIO A SOLICITAR."
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=2494-281-COT26",
-   "sin_detalle": false,
-   "descripcion": "Se requiere contratar un servicio de taller de fotografía para 15\nparticipantes, en el marco del Plan de Confianza Social del Barrio Arturo\nPrat, orientado al aprendizaje y desarrollo de habilidades creativas y\ncomunicacionales a través de la fotografía, promoviendo además un\nespacio de encuentro, expresión personal y participación comunitaria.",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
-  {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Agencias de publicidad"
-   ],
-   "nueva": false,
-   "codigo": "723-26-COT26",
-   "nombre": "Programa de difusión “Fomento de los Territorios Palena Queulat y Litoral de la Comuna de Cisnes en Turismo”",
-   "organismo": "SERVICIO DE COOPERACION TECNICA",
-   "unidad": "Dirección Regional de Aysen del Gral Carlos Ibañez",
-   "monto": 2300000,
-   "cierre_iso": "2026-11-03T11:00:00-03:00",
-   "publicacion": "29-10 07:27",
-   "publicacion_iso": "2026-10-29T07:27:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "82101801",
-     "Campañas publicitarias",
-     1,
-     "VEr anexo donde se detalla Requerimientos Técnicos, criterios de evaluación etc.\n?\tSerán declaradas inadmisibles las ofertas que no cuenten con oferta técnica, o sobrepasen el presupuesto indicado o que no cumplan con las especificaciones mínimas del Anexo N° 1."
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=723-26-COT26",
-   "sin_detalle": false,
-   "descripcion": "Contratación de servicios para la elaboración de productos\ncomunicacionales destinados a la difusión y promoción del\nprograma FNDR “Fomento de los Territorios Palena Queulat y\nLitoral de la Comuna de Cisnes en Turismo” CÓDIGO BIP 40073606-0",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
-  {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Ventas y marketing"
-   ],
-   "nueva": true,
-   "codigo": "3797-511-COT26",
-   "nombre": "PINES Y ARTICULOS PROMOCIONALES",
-   "organismo": "I MUNICIPALIDAD DE COCHRANE",
-   "unidad": "I MUNICIPALIDAD DE COCHRANE",
-   "monto": 580000,
-   "cierre_iso": "2026-11-03T12:00:00-03:00",
-   "publicacion": "02-11 11:39",
-   "publicacion_iso": "2026-11-02T11:39:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "80141611",
-     "Personalización de regalos o productos promocionales",
-     50,
-     "PIN 2,5 CMS. DE ALTO, ACUÑADO EN METAL, PARTE TRAVERSA 2 CLAVOS DE SUJECION"
-    ],
-    [
-     "80141611",
-     "Personalización de regalos o productos promocionales",
-     50,
-     "PIN 3 CMS DE ANCHO, ACUÑADO EN METAL , PARTE TRASERA 2 CLAVOS DE SUJECION"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=3797-511-COT26",
-   "sin_detalle": false,
-   "descripcion": "ADQUIRIR OINES METALICOS ESMALTADOS A TODO COLOR PARA SOLAPA, DESTINADOS A LA IDENTIFICACION INSTITUCIONAL DEL ALCALDE Y DE LOS FUNCIOANRIOS DE LA MUNICIPALIDAD DE COCHRANE, ASI COMO ARTICULOS PROMOCIONALES CORPORATIVOS PARA PROMOVER A COCHRANE COMO DESTINO TURISTICO DURANTE TODO EL AÑO.",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "publicitaria"
-   ],
-   "nueva": true,
-   "codigo": "2713-1320-COT26",
-   "nombre": "Impresiones - DIDECO - Turismo - 1376",
-   "organismo": "I MUNICIPALIDAD DE AYSEN",
-   "unidad": "I.MUNICIPALIDAD AYSEN-ADQUISICIONES",
-   "monto": 900000,
-   "cierre_iso": "2026-11-03T12:00:00-03:00",
-   "publicacion": "02-11 11:37",
-   "publicacion_iso": "2026-11-02T11:37:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "82121505",
-     "Impresión promocional o publicitaria",
-     500,
-     "Adhesivos troquelados e impermeables, según especificaciones técnicas adjuntas"
-    ],
-    [
-     "82121505",
-     "Impresión promocional o publicitaria",
-     500,
-     "Trípticos tamaño carta, según especificaciones técnicas adjuntas"
-    ],
-    [
-     "82121505",
-     "Impresión promocional o publicitaria",
-     100,
-     "Mapas de la comuna de Aysén, impresos en tela tipo lienzo bandera, según especificaciones técnicas adjuntas"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=2713-1320-COT26",
-   "sin_detalle": false,
-   "descripcion": "Adquisición de impresiones según anexo adjunto, las ofertas deberán: incluir la totalidad de las características solicitadas, ajustarse al presupuesto disponible, el oferente asumirá COSTO DE TRANSPORTE (no desglosarlo como ítem aparte), debe indicar plazo de entrega (no se aceptara plazo de despacho y el plazo de entrega iniciará el día hábil subsiguiente al envío de la OC), las gráficas serán enviadas al proveedor adjudicado. Ofertas que no cumplan con lo anterior serán rechazadas.",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "fotografía"
-   ],
-   "nueva": true,
-   "codigo": "2495-602-COT26",
-   "nombre": "cajonera plastica",
-   "organismo": "I MUNICIPALIDAD DE COYHAIQUE",
-   "unidad": "DIRECCION DESARROLLO COMUNITARIO",
-   "monto": 60000,
-   "cierre_iso": "2026-11-03T13:14:00-03:00",
-   "publicacion": "29-10 11:55",
-   "publicacion_iso": "2026-10-29T11:55:00-03:00",
-   "ofertas": 2,
-   "productos": [
-    [
-     "31261501",
-     "Cubiertas y cajas de plástico",
-     2,
-     "mueble plástico organizador con 3 cajones"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=2495-602-COT26",
-   "sin_detalle": false,
-   "descripcion": "se requiere la compra de dos cajoneras plásticas para almacenar artículos de oficina, se privilegiará proveedor de la comuna de Coyhaique con disponibilidad inmediata y disposición a cambios, presentar cotización con fotografía.",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
   {
    "tipo": "POSIBLE",
    "motivos": [
@@ -355,6 +157,96 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=1758-273-COT26",
    "sin_detalle": false,
    "descripcion": "45 SERVICIOS CAFETERÍAS PARA EL DÍA 10/11/2026 AM Y PM. EL PROVEEDOR DEBE CONSIDERAR MONTAJE, VAJILLA, MANTELERIA. ADEMÁS, SE PIVILEGIARÁ A LOS OFERENTES QUE CUENTEN CON POLÍTICAS QUE INCLUYAN PLAN DE MANEJO DE RESIDUOS, NO USO DE PLUMAVIT Y PREFERENCIA POR LO REUTILIZABLE O COMPOSTABLE. EL PROVEEDOR DEBERÁ CONTAR CON TODAS LAS AUTORIZACIONES SANITARIAS. COORDINADORA A CARGO SRTA. LORENA ZAPATA, SECREDUC.",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "difusion",
+    "radio"
+   ],
+   "nueva": true,
+   "codigo": "1758-276-COT26",
+   "nombre": "ALOJAMIENTOS Y ALIMENTACION JORNADA DIFUSION NUEVA POLITICA DE EDUCACION EN TERRITORIOS RURALES Y CAPACITACION DE COORD. MICROCENTROS  DOCENTES EN CISNES",
+   "organismo": "SECRETARIA REGIONAL MINISTERIAL DE EDUCACION XI REGION",
+   "unidad": "Mineduc Administración XI Región",
+   "monto": 250000,
+   "cierre_iso": "2026-11-04T12:00:00-03:00",
+   "publicacion": "03-11 11:58",
+   "publicacion_iso": "2026-11-03T11:58:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "90101501",
+     "Restaurantes",
+     2,
+     "02 ALMUERZOS EL 12/11 DOCENTES EN PUERTO CISNES.\nQUE CONTENGA 03 TIEMPOS PLATO DE FONDO CON ALTERNATIVA PROTEICA, ACOMPAÑAMIENTO, ENSALADA/ENTRADA, POSTRE  CONTAR UNA RACION VEGETARIANA."
+    ],
+    [
+     "90101501",
+     "Restaurantes",
+     2,
+     "01 CENA EL 11/11\n01 CENA EL 12/11 DOCENTES EN PUERTO CISNES.\nQUE CONTENGA 03 TIEMPOS PLATO DE FONDO CON ALTERNATIVA PROTEICA, ACOMPAÑAMIENTO, ENSALADA/ENTRADA, POSTRE  CONSIDERAR UNA RACION VEGETARIANA."
+    ],
+    [
+     "90111801",
+     "Habitación sencilla",
+     2,
+     "01 HABITACION SINGLE EL 11/11  SR. JUAN CARLOS ARANEDA.\n01 HABITACION SINGLE EL 12/11  SRA. JACQUELINE PORCHE.\nDOCENTES EN PUERTO CISNES CONTAR CALEFACCION, WIFI Y BAÑO PRIVADO CON DESAYUNO CONTENER TE O CAFE Y/O JUGO, FRUTA, PAN CON AGREGADO EN LA LOCALIDAD."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1758-276-COT26",
+   "sin_detalle": false,
+   "descripcion": "ALOJAMIENTOS Y ALIMENTACIÓN DE 02 DOCENTES EN CISNES 11 AL 12 DE NOVIEMBRE. EN LA SU PROPUESTA EL PROVEEDOR DEBERÁ INDICAR LA DIRECCIÓN DONDE SE ENTREGARÁ EL SERVICIO, EL CUAL DEBE ESTAR DENTRO DEL RADIO URBANO DE LA CIUDAD DE COYHAIQUE, PREFERENCIALMENTE UNA UBICACIÓN CENTRAL. SE PRIVILEGIARA PROVEEDORES QUE POSEAN CERTIFICACIÓN DE SUSTENTABILIDAD Y CUENTEN CON POLÍTICAS REUTILIZACIÓN DE SABANAS Y TOALLAS CON ALIMENTACION DE CENAS. SEGREGACION Y RES. SANITARIA. COORDIN. SRTA. LORENA ZAPATA.",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "difusion",
+    "radio"
+   ],
+   "nueva": true,
+   "codigo": "1758-274-COT26",
+   "nombre": "ALOJAMIENTOS Y ALIMENTACION JORNADA DIFUSION NUEVA POLITICA DE EDUCACION EN TERRITORIOS RURALES Y CAPACITACION DE COORD. MICROCENTROS EN COYHAIQUE",
+   "organismo": "SECRETARIA REGIONAL MINISTERIAL DE EDUCACION XI REGION",
+   "unidad": "Mineduc Administración XI Región",
+   "monto": 4284000,
+   "cierre_iso": "2026-11-04T12:00:00-03:00",
+   "publicacion": "03-11 11:37",
+   "publicacion_iso": "2026-11-03T11:37:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "90101501",
+     "Restaurantes",
+     37,
+     "10 ALMUERZOS EL 09/11\n22 ALMUERZOS EL 10/11 SIN RESTRICCION.\n05 ALMUERZOS EL 11/11\nSERVICIOS 13.15 HRS. QUE CONTENGA 03 TIEMPOS PLATO DE FONDO CON ALTERNATIVA PROTEICA, ACOMPAÑAMIENTO, ENSALADA/ENTRADA, POSTRE Y BEBESTIBLE SIN ALCOHOL. CONSIDERAR VEGANO Y VEGETARIANO SERVIDOS EN LA CIUDAD DE COYHAIQUE"
+    ],
+    [
+     "90101501",
+     "Restaurantes",
+     42,
+     "05 CENAS 08/11\n20 CENAS 09/11\n12 CENAS 10/11\n05 CENAS 11/11\nQUE CONTENGA 03 TIEMPOS DE PLATO DE FONDO CON ALTERNATIVA PROTEICA, ACOMPAÑAMIENTO, ENSALADA/ENTRADA, POSTRE Y BEBESTIBLE SIN ALCOHOL. CONSIDERAR VEGANO Y VEGETARIANO SERVIDOS A LAS 19:30 HRS EN LA CIUDAD DE COYHAIQUE"
+    ],
+    [
+     "90111801",
+     "Habitación sencilla",
+     11,
+     "04 HABITACIONES SINGLES (RELATORES) SRES. ALICIA FOXLEY Y JOSE LUIS ROMERO 09 Y 10 DE NOVIEMBRE.\n03 HABITACIONES SINGLES DOC. SRA. ROMINA ESCARATE 08 AL 10 DE NOVIEMBRE.\n01 HABITACION SINGLE SR. FRANCO NUÑEZ EL 09 DE NOVIEMBRE.\n02 HABITACION SINGLES SRA. VIVIANA DUARTE EL 09 Y 10 DE NOVIEMBRE.\n01 HABITACION SINGLE SRA. KARLA PEREIRA EL 09 DE NOVIEMBRE 2026.\nCONTAR CALEFACCION, WIFI Y BAÑO PRIVADO CON DESAYUNO CONTENER TE O CAFE Y/O JUGO, FRUTA, PAN CON AGREGADO EN LA CIUDAD DE COYHAIQUE"
+    ],
+    [
+     "90111802",
+     "Habitación doble",
+     15,
+     "04 HABIT. DOBLE PAULINO PEREZ Y ANDRES ALFARO DEL 08/11 AL 11/11\n04 HABIT. DOBLE MARIA ROJO Y A. MARIA ALIAGA DEL 08/11 AL 11/11\n02 HABIT. DOBLE JUAN C. ARANEDA Y JUAN C. SANHUEZA 09/11 AL 10/11\n02 HABIT. DOBLE MARJORIE SOLIS Y JACQUELINE PORCHE DEL 09/11 AL 10/11\n01 HABIT. DOBLE MOISES ARANEDA Y JUAN OSORIO EL 09/11\n01 HABIT. DOBLE SANDRA OSORIO Y LESLIE VILLAGRAN EL 09/11\n01 HABIT. DOBLE AQUILES MAYA  \n \nCON 02 CAMAS, CALEFAC., WIFI Y BAÑO CON DESAYUNO TE O CAFE, JUGO, FRUTA, PAN CON AGREGADO."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1758-274-COT26",
+   "sin_detalle": false,
+   "descripcion": "SERVICIOS ALOJAMIENTOS Y ALIMENTACIÓN EN COYHAIQUE 08 AL 11 DE NOVIEMBRE 2026. EN LA SU PROPUESTA EL PROVEEDOR DEBERÁ INDICAR LA DIRECCIÓN DONDE SE ENTREGARÁ EL SERVICIO, EL CUAL DEBE ESTAR DENTRO DEL RADIO URBANO DE LA CIUDAD DE COYHAIQUE, PREFERENCIALMENTE UNA UBICACIÓN CENTRAL. SE PRIVILEGIARA PROVEEDORES QUE POSEAN CERTIFICACIÓN DE SUSTENTABILIDAD Y CUENTEN CON POLÍTICAS REUTILIZACIÓN DE SABANAS Y TOALLAS CON ALIMENTACION DE CENAS. SEGREGACION Y RES. SANITARIA. COORDIN. SRTA. LORENA ZAPATA.",
    "en_gracia": false,
    "desaparecida_iso": ""
   },
@@ -516,6 +408,114 @@
   }
  ],
  "historial": [
+  {
+   "codigo": "2495-602-COT26",
+   "nombre": "cajonera plastica",
+   "organismo": "I MUNICIPALIDAD DE COYHAIQUE",
+   "monto": 60000,
+   "cierre_iso": "2026-11-03T13:14:00-03:00",
+   "tipo": "POSIBLE",
+   "motivos": [
+    "fotografía"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=2495-602-COT26",
+   "primera_vista_iso": "2026-10-29T13:17:18-03:00",
+   "removida_iso": "2026-11-03T14:11:19-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
+  {
+   "codigo": "3797-511-COT26",
+   "nombre": "PINES Y ARTICULOS PROMOCIONALES",
+   "organismo": "I MUNICIPALIDAD DE COCHRANE",
+   "monto": 580000,
+   "cierre_iso": "2026-11-03T12:00:00-03:00",
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Ventas y marketing"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=3797-511-COT26",
+   "primera_vista_iso": "2026-11-02T16:38:38-03:00",
+   "removida_iso": "2026-11-03T14:11:19-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
+  {
+   "codigo": "2713-1320-COT26",
+   "nombre": "Impresiones - DIDECO - Turismo - 1376",
+   "organismo": "I MUNICIPALIDAD DE AYSEN",
+   "monto": 900000,
+   "cierre_iso": "2026-11-03T12:00:00-03:00",
+   "tipo": "POSIBLE",
+   "motivos": [
+    "publicitaria"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=2713-1320-COT26",
+   "primera_vista_iso": "2026-11-02T16:38:38-03:00",
+   "removida_iso": "2026-11-03T14:11:19-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
+  {
+   "codigo": "723-26-COT26",
+   "nombre": "Programa de difusión “Fomento de los Territorios Palena Queulat y Litoral de la Comuna de Cisnes en Turismo”",
+   "organismo": "SERVICIO DE COOPERACION TECNICA",
+   "monto": 2300000,
+   "cierre_iso": "2026-11-03T11:00:00-03:00",
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Agencias de publicidad"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=723-26-COT26",
+   "primera_vista_iso": "2026-10-29T13:17:18-03:00",
+   "removida_iso": "2026-11-03T14:11:19-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
+  {
+   "codigo": "2494-281-COT26",
+   "nombre": "BAP - Servicio de Taller de Fotografía , en el Marco del Plan de Confianza Social del Barrio Arturo Prat - PROGRAMA RECUPERACIÓN DE BARRIOS",
+   "organismo": "I MUNICIPALIDAD DE COYHAIQUE",
+   "monto": 400000,
+   "cierre_iso": "2026-11-03T11:00:00-03:00",
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Fotógrafos y camarógrafos"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=2494-281-COT26",
+   "primera_vista_iso": "2026-11-02T16:38:38-03:00",
+   "removida_iso": "2026-11-03T14:11:19-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
+  {
+   "codigo": "1208109-24-COT26",
+   "nombre": "Servicio de almuerzos y cenas para participantes del Encuentro Nacional de Participación",
+   "organismo": "SERVICIO NACIONAL DE PROTECCIÓN ESPECIALIZADA A LA NIÑEZ Y ADOLESCENCI",
+   "monto": 370755,
+   "cierre_iso": "2026-11-03T02:50:00-03:00",
+   "tipo": "POSIBLE",
+   "motivos": [
+    "radio"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1208109-24-COT26",
+   "primera_vista_iso": "2026-10-26T18:06:24-03:00",
+   "removida_iso": "2026-11-03T14:11:19-03:00",
+   "estado_api": "",
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
   {
    "codigo": "4066-449-COT26",
    "nombre": "servicio de fotografia y videos promocionales de la comuna de Río Ibáñez",
@@ -802,7 +802,7 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=2495-584-COT26",
    "primera_vista_iso": "2026-10-26T18:06:24-03:00",
    "removida_iso": "2026-10-29T22:11:21-03:00",
-   "estado_api": null,
+   "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,
    "adj_iso": null
@@ -965,7 +965,7 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=3791-1068-COT26",
    "primera_vista_iso": "2026-10-26T16:12:12-03:00",
    "removida_iso": "2026-10-27T17:10:04-03:00",
-   "estado_api": null,
+   "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,
    "adj_iso": null
@@ -983,63 +983,6 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=3791-1066-COT26",
    "primera_vista_iso": "2026-10-26T16:12:12-03:00",
    "removida_iso": "2026-10-27T17:10:04-03:00",
-   "estado_api": "",
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "1494998-27-COT26",
-   "nombre": "SERVICIO DE APOYO A LA REALIZACION DE TALLERES DE GOBERNANZA EN EL ACMU PITIPALENA-AÑIHUE (PPA) PARA LA DIRECCIÓN REGIONAL DE AYSÉN, SERVICIO DE BIODIVERSIDAD Y ÁREAS PROTEGIDAS  (SBAP)",
-   "organismo": "Servicio de Biodiversidad y Áreas Protegidas",
-   "monto": 4000000,
-   "cierre_iso": "2026-10-27T12:00:00-03:00",
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Ventas y marketing"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1494998-27-COT26",
-   "primera_vista_iso": "2026-10-26T13:13:41-03:00",
-   "removida_iso": "2026-10-27T12:27:37-03:00",
-   "estado_api": "",
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "4140-97-COT26",
-   "nombre": "DIFUSION DIGITAL PARA PROMOSION DE LAS ACTIVIDADES NIÑEZ Y PATRIMONIO ",
-   "organismo": "I MUNICIPALIDAD DE LAGO VERDE",
-   "monto": 500000,
-   "cierre_iso": "2026-10-27T11:26:00-03:00",
-   "tipo": "POSIBLE",
-   "motivos": [
-    "difusion",
-    "radial",
-    "redes sociales",
-    "television"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=4140-97-COT26",
-   "primera_vista_iso": "2026-10-23T11:19:19-03:00",
-   "removida_iso": "2026-10-27T12:27:37-03:00",
-   "estado_api": "",
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "2495-580-COT26",
-   "nombre": "Servicio de ambientación del stand turístico de Coyhaique",
-   "organismo": "I MUNICIPALIDAD DE COYHAIQUE",
-   "monto": 3000000,
-   "cierre_iso": "2026-10-27T11:00:00-03:00",
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Ventas y marketing"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=2495-580-COT26",
-   "primera_vista_iso": "2026-10-26T13:13:41-03:00",
-   "removida_iso": "2026-10-27T12:27:37-03:00",
    "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,
