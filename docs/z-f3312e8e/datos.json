@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-11-03T14:11:19.978646-03:00",
+ "actualizado": "2026-11-03T19:24:45.161259-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
- "total_region": 278,
+ "total_region": 306,
  "rubros": {
   "25172700": "Aire acondicionado",
   "25173900": "Componentes eléctricos",
@@ -20,118 +20,13 @@
  },
  "filas": [
   {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Gasfitería, calefacción y aire acondicionado"
-   ],
-   "nueva": false,
-   "codigo": "1113144-82-COT26",
-   "nombre": "GORE 2026- REQ. 38 SERVICIO DE CONEXION AGUA POTABLE VIVERO",
-   "organismo": "CORP NACIONAL FORESTAL",
-   "unidad": "XI Región - Provincial Capitán Prat",
-   "monto": 6500000,
-   "cierre_iso": "2026-11-03T14:30:00-03:00",
-   "publicacion": "29-10 12:40",
-   "publicacion_iso": "2026-10-29T12:40:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "72102303",
-     "Construcción de sistemas de fontanería o gasfitería",
-     1,
-     "SERVICIO DE CONSTRUCCIÓN E INSTALACIÓN DE RED INDEPENDIENTE DE AGUA POTABLE VIVERO CONAF COCHRANE SEGUN REQUERIMIENTO ADJUNTO EN LA PRESENTE. ESTA COMPRA CONSIDERA MULTAS, SEGUN PORTAL CHILECOMPRAS."
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1113144-82-COT26",
-   "sin_detalle": false,
-   "descripcion": "Contratar la ejecución material de las obras civiles e hidráulicas necesarias para habilitar una línea de aducción y empalme independiente de agua potable para el Vivero Institucional CONAF en Cochrane, garantizando continuidad de caudal, presión adecuada y protección térmica frente a eventos de congelamiento invernal. EL PROVEEDOR DEBE LEER EL REQUERIMIENTO Y ASISTIR A LA VISITA A TERRENO OBLIGATORIA INDICADA EN EL.",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
-  {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Suministros y accesorios eléctricos"
-   ],
-   "nueva": true,
-   "codigo": "2495-591-COT26",
-   "nombre": "MATERIALES PARA MONTAJES DE EVENTOS CULTURALES ",
-   "organismo": "I MUNICIPALIDAD DE COYHAIQUE",
-   "unidad": "DIRECCION DESARROLLO COMUNITARIO",
-   "monto": 216000,
-   "cierre_iso": "2026-11-03T15:10:00-03:00",
-   "publicacion": "28-10 09:49",
-   "publicacion_iso": "2026-10-28T09:49:00-03:00",
-   "ofertas": 1,
-   "productos": [
-    [
-     "10141601",
-     "Bridas",
-     300,
-     "amarras plasticas de 30 cm o similar"
-    ],
-    [
-     "31201528",
-     "Cinta de montaje",
-     2,
-     "cinta gaffer negra"
-    ],
-    [
-     "31201528",
-     "Cinta de montaje",
-     2,
-     "cinta señalización"
-    ],
-    [
-     "39121719",
-     "Protectores",
-     5,
-     "protectores de cables o pasacables"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=2495-591-COT26",
-   "sin_detalle": false,
-   "descripcion": "SE REQUIERE LA COMPRA DE MATERIALES PARA MONTAJES DE EVENTOS CULTURALES COMO CINTA GAFFER, PROTECTOR DE CABLES, CINTA SEÑALIZACION DE PISO, AMARRAS PLASTICAS, ENTRE OTROS, SE PREVILEGIARA PROVEEDOR DE LA COMUNA DE COYHAIQUE CON DISPONIBILIDAD INMEDIATA Y DISPOSICION AL CAMBIO",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
-  {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Cables eléctricos y accesorios"
-   ],
-   "nueva": false,
-   "codigo": "418-1720-COT26",
-   "nombre": "CCD- Adquisición Cable DVI-D 24+1 macho a HDMI Tipo A macho ",
-   "organismo": "SERVICIO NACIONAL DE SALUD HOSPITAL DE PUERTO AYSEN",
-   "unidad": "H Puerto Aysén",
-   "monto": 1,
-   "cierre_iso": "2026-11-03T16:32:00-03:00",
-   "publicacion": "28-10 11:27",
-   "publicacion_iso": "2026-10-28T11:27:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "26121604",
-     "Cable para señales",
-     2,
-     "Se requiere específicamente la configuración DVI-D 24+1 macho con tornillos de fijación  a HDMI Tipo A macho, mínimo 6 metros de longitud. Entrega en Yussef Laibe 180, Puerto Aysén"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=418-1720-COT26",
-   "sin_detalle": false,
-   "descripcion": "Se solicita la cantidad de 2 unidades cable DVI-D 24+1 macho a HDMI Tipo A macho.\nEl cable será utilizado para la conexión de video entre las torres de laparoscopia y los monitores correspondientes, por lo que se solicita respetar específicamente la configuración DVI-D 24+1 macho a HDMI Tipo A macho. NO OFERTAR cables DVI-I, DVI-A u otras configuraciones que no correspondan.\nEntrega en Yussef Laibe 180, Hospital de Puerto Aysén",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
-  {
    "tipo": "POSIBLE",
    "motivos": [
     "aire acondicionado",
     "enchufe",
     "enchufes"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "3950-710-COT26",
    "nombre": "Repuestos para Aires Acondicionado CLJ",
    "organismo": "DIRECCION SALUD RURAL",
@@ -269,6 +164,118 @@
    "desaparecida_iso": ""
   },
   {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "eléctrico",
+    "iluminación"
+   ],
+   "nueva": true,
+   "codigo": "1428275-43-COT26",
+   "nombre": "LUCES DE EMERGENCIA”",
+   "organismo": "SERVICIO NACIONAL DEL PATRIMONIO CULTURAL",
+   "unidad": "DIRECCIÓN REGIONAL DE AYSEN",
+   "monto": 580000,
+   "cierre_iso": "2026-11-05T09:00:00-03:00",
+   "publicacion": "03-11 18:41",
+   "publicacion_iso": "2026-11-03T18:41:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "39111706",
+     "Luces de emergencia o estroboscópicas",
+     20,
+     "luces de emergencia, igual o similar a la imagen adjunta, Luz led, con 02 faros con cabezales orientables que permiten dirigir la iluminación hacia distintas áreas, con batería recargable incorporada para proporcionar iluminación autónoma de 04 horas o más. Solución práctica, de luminosidad segura y de fácil instalación. Con botón de encendido automático ante cortes de energía. Alimentación eléctrica para recarga permanente. *ver documento adjunto*"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1428275-43-COT26",
+   "sin_detalle": false,
+   "descripcion": "La Biblioteca Regional de Aysén dependiente del Servicio Nacional del Patrimonio Cultural de Aysén, requiere la adquisición de “Luces de emergencia”, con el propósito de proporcionar iluminación cuando se produzca un corte o falla del suministro eléctrico, permitiendo que los usuarios y/o funcionarios puedan desplazarse de manera segura y evacuar las instalaciones si es necesario, con las características que se indican en documento adjunto.",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "generador"
+   ],
+   "nueva": true,
+   "codigo": "1403-470-COT26",
+   "nombre": "ADQ. PETROLEO PARA GENERADOR EMERGENCIA CCP COYHAIQUE",
+   "organismo": "Dirección Regional de Gendarmeria - Coyhaique",
+   "unidad": "Región de Aysén",
+   "monto": 102000,
+   "cierre_iso": "2026-11-05T09:00:00-03:00",
+   "publicacion": "03-11 16:25",
+   "publicacion_iso": "2026-11-03T16:25:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "15101505",
+     "Diesel",
+     60,
+     "PETROLEO - DIESEL PARA GENERADOR EMERGENCIA."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1403-470-COT26",
+   "sin_detalle": false,
+   "descripcion": "E1O2RT9\nENTREGAR EN CALLE INDEPENDENCIA 12, COYHAIQUE, SIN RECARGO POR DESPACHO.\nSE CUENTA CON RECEPTACULO O RECIPIENTE (BIDON) PARA RECEPCIÓN DEL PRODUCTO.",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Interruptores, controles y relés"
+   ],
+   "nueva": true,
+   "codigo": "5194-599-COT26",
+   "nombre": "PROYECTO BIENESTAR SOCIAL - CDP PUERTO AYSEN",
+   "organismo": "Servicio de Bienestar Social",
+   "unidad": "Bienestar Social y Calidad de Vida",
+   "monto": 2600000,
+   "cierre_iso": "2026-11-05T10:00:00-03:00",
+   "publicacion": "03-11 15:50",
+   "publicacion_iso": "2026-11-03T15:50:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "39121534",
+     "Luces indicadoras o indicadores luminosos",
+     6,
+     "PLAFON LED SOBREPUESTO LOGIC 24W LUZ FRIA BLACKLIGHT 1920 LM"
+    ],
+    [
+     "44121621",
+     "Tablero de mesa y sus accesorios",
+     3,
+     "COMEDOR DE MADERA DE 6 SILLAS, Medidas: 160 x 90 aprox., Cubierta de 18 mm, Madera Roble, Tapiz tela lino, Color tapiz Beige"
+    ],
+    [
+     "52141501",
+     "Refrigeradores domésticos",
+     1,
+     "Refrigerador Top Freezer Frost 204 L Silver MDRT294FGE50"
+    ],
+    [
+     "52161512",
+     "Parlantes",
+     1,
+     "PARLANTE BLUETOOTH KARAOKE CON MICROFONO BLIK LIGHTUP 700"
+    ],
+    [
+     "73121801",
+     "Servicios de fabricación de alfarería vidriada, porcelana o loza fina",
+     4,
+     "JUEGO DE VAJILLA 30 PIEZAS"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=5194-599-COT26",
+   "sin_detalle": false,
+   "descripcion": "E1O2RT9 - PROYECTO BIENESTAR SOCIAL - CDP PUERTO AYSEN. CRITERIOS DE EVALUACIÓN: PRECIO 88% - PLAZO DE ENTREGA 10% - SUSTENTABILIDAD 2%",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
    "tipo": "OPORTUNIDAD",
    "motivos": [
     "Conectores, enchufes y terminales"
@@ -381,6 +388,35 @@
    "desaparecida_iso": ""
   },
   {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Gasfitería, calefacción y aire acondicionado"
+   ],
+   "nueva": false,
+   "codigo": "1113144-82-COT26",
+   "nombre": "GORE 2026- REQ. 38 SERVICIO DE CONEXION AGUA POTABLE VIVERO",
+   "organismo": "CORP NACIONAL FORESTAL",
+   "unidad": "XI Región - Provincial Capitán Prat",
+   "monto": 6500000,
+   "cierre_iso": "2026-11-05T12:00:00-03:00",
+   "publicacion": "29-10 12:40",
+   "publicacion_iso": "2026-10-29T12:40:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "72102303",
+     "Construcción de sistemas de fontanería o gasfitería",
+     1,
+     "SERVICIO DE CONSTRUCCIÓN E INSTALACIÓN DE RED INDEPENDIENTE DE AGUA POTABLE VIVERO CONAF COCHRANE SEGUN REQUERIMIENTO ADJUNTO EN LA PRESENTE. ESTA COMPRA CONSIDERA MULTAS, SEGUN PORTAL CHILECOMPRAS."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1113144-82-COT26",
+   "sin_detalle": false,
+   "descripcion": "Contratar la ejecución material de las obras civiles e hidráulicas necesarias para habilitar una línea de aducción y empalme independiente de agua potable para el Vivero Institucional CONAF en Cochrane, garantizando continuidad de caudal, presión adecuada y protección térmica frente a eventos de congelamiento invernal. EL PROVEEDOR DEBE LEER EL REQUERIMIENTO Y ASISTIR A LA VISITA A TERRENO OBLIGATORIA INDICADA EN EL.",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
    "tipo": "POSIBLE",
    "motivos": [
     "grupo electrógeno"
@@ -464,6 +500,407 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=1078779-24-COT26",
    "sin_detalle": false,
    "descripcion": "Adquisición de 1 equipo de aire acondicionado tipo Split muro, tecnología Inverter, frío/calor, con capacidad mínima de 9.000 BTU, destinado a dependencias\ndel Proyecto Mujeres Koyun.",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "eléctrico"
+   ],
+   "nueva": true,
+   "codigo": "1057062-502-COT26",
+   "nombre": "Adquisición herramientas de construcción e insumos varios carrera T.O. [FISABS 2375, URY 24991]",
+   "organismo": "UNIVERSIDAD DE AYSEN",
+   "unidad": "Proyectos",
+   "monto": 6820000,
+   "cierre_iso": "2026-11-06T08:00:00-03:00",
+   "publicacion": "03-11 19:06",
+   "publicacion_iso": "2026-11-03T19:06:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "20102104",
+     "Piezas de recambio de perforadoras rotativas o accesorios",
+     6,
+     "Sacabocado manual de tenaza con revólver de matrices de 2, 3, 4 y 6 mm en acero endurecido, mango ergonómico con retorno por resorte y yunque de latón recambiable."
+    ],
+    [
+     "23101502",
+     "Perforadoras",
+     1,
+     "Remachadora manual de mesa para colocación de ojetillos y broches metálicos, con matrices intercambiables de 4, 6 y 8 mm, cuerpo de fundición, base perforada para anclaje y palanca de accionamiento. Debe incluir juego inicial de ojetillos y matrices."
+    ],
+    [
+     "23101502",
+     "Perforadoras",
+     4,
+     "4 Set de 12 sacabocados de golpe, de 3 a 19 mm, fabricados en acero templado, con filo circular rectificado y culata endurecida. Incluye soporte o estuche."
+    ],
+    [
+     "23153412",
+     "Tijeras de guillotina",
+     6,
+     "Tijera de hojalatero tipo aviación, de corte a la derecha, de 250 mm (10\"), con hojas de acero al molibdeno o cromo-vanadio, dentado antideslizante, mecanismo compuesto con resorte de retorno y traba de cierre. Capacidad de corte en planchas de acero de hasta 1,2 mm. Para cortar chapas metálicas y pletinas en líneas rectas y curvas hacia la derecha."
+    ],
+    [
+     "23153412",
+     "Tijeras de guillotina",
+     2,
+     "Tijera de hojalatero tipo aviación, de corte a la izquierda, de 250 mm (10\"), con hojas de acero al molibdeno o cromo-vanadio, dentado antideslizante, mecanismo compuesto con resorte de retorno y traba de cierre. Complementaria a la tijera de corte derecho, permite cortar chapas metálicas y pletinas en curvas hacia la izquierda."
+    ],
+    [
+     "23153412",
+     "Tijeras de guillotina",
+     6,
+     "Tijera para corte de termoplástico en frío, de 19 a 24 cm de longitud, con hojas de acero inoxidable y filo microdentado antideslizante. Mangos ergonómicos con anillos amplios. Apta para cortar planchas de termoplástico de hasta 3,2 mm sin astillar el material, permitiendo cortes limpios y precisos."
+    ],
+    [
+     "23153412",
+     "Tijeras de guillotina",
+     6,
+     "Tijera para corte de termoplástico en tibio, de 19 a 24 cm, con hojas de acero inoxidable, filo liso rectificado y punta redondeada, sin recubrimiento de teflón. Mangos ergonómicos. Diseñada para cortar material termoplástico reblandecido, logrando bordes lisos y limpios sin deformarlo, para uso en el Laboratorio de Ortesis de Terapia Ocupacional."
+    ],
+    [
+     "23153412",
+     "Tijeras de guillotina",
+     6,
+     "Tijera para corte de termoplástico en tibio, de 19 a 24 cm, con hojas de acero inoxidable recubiertas de teflón (PTFE) antiadherente, que evita la adherencia del material reblandecido. Mangos ergonómicos con anillos amplios. Para cortar planchas termoconformables calientes, logrando bordes limpios sin deformar el material"
+    ],
+    [
+     "24112404",
+     "Caja",
+     10,
+     "Caja organizadora plástica transparente de 45 L (50 × 40 × 31\ncm) con tapa de cierre por broche lateral. Polipropileno de alto\nimpacto, paredes reforzadas y apilable con enclave. Debe\nsoportar apilamiento cargado sin deformación permanente."
+    ],
+    [
+     "24112404",
+     "Caja",
+     5,
+     "Caja porta-herramientas de 20 a 22\" con bandeja interior\nremovible y cierre metálico con posibilidad de candado.\nEstructura de polipropileno de alto impacto o metálica, asa\nreforzada, bisagras metálicas."
+    ],
+    [
+     "27111508",
+     "Sierras",
+     6,
+     "Arco de sierra para metal de 300 mm (12\"), con marco de acero tubular, tensor de mariposa de hasta 100 kgf, mango cerrado con protección de nudillos y posiciones de corte de hoja ajustables a 90° y 45°."
+    ],
+    [
+     "27111508",
+     "Sierras",
+     4,
+     "Sierra caladora eléctrica de 600 W, con velocidad variable, movimiento pendular regulable, cambio de hoja sin herramientas, base inclinable hasta 45° y conexión para extracción de polvo. Debe incluir juego de hojas para madera, plástico y metal. Para cortar planchas de termoplástico y otros materiales en curvas y formas libres, en el Laboratorio de Ortesis de Terapia Ocupacional."
+    ],
+    [
+     "27111508",
+     "Sierras",
+     2,
+     "Sierra oscilante, multiherramienta oscilante de = 300 W con velocidad variable, con sistema de cambio de accesorio sin herramienta y juego de hojas de corte y lijado."
+    ],
+    [
+     "27111515",
+     "Taladro de mano o empuje",
+     1,
+     "Taladro de pedestal (columna) de mesa, potencia 350 W,\nmandril 1–13 mm con llave, velocidad regulable por poleas\n(mínimo 5 velocidades), mesa inclinable con regulación de\naltura (50 cm, mínimo) y tope de profundidad. Protección de\nresguardo en el mandril y base perforada para anclaje o"
+    ],
+    [
+     "27111515",
+     "Taladro de mano o empuje",
+     4,
+     "Taladro eléctrico manual de 600 W, con percusión conmutable, mandril de 1,5 a 13 mm, velocidad variable con reversa, empuñadura auxiliar y tope de profundidad. Cable de 2 m."
+    ],
+    [
+     "27111515",
+     "Taladro de mano o empuje",
+     3,
+     "Taladro atornillador inalámbrico de 18 V con motor sin\nescobillas, torque = 60 Nm, mandril sin llave de 13 mm,\nembrague de al menos 15 posiciones, dos baterías de litio y\ncargador."
+    ],
+    [
+     "27111602",
+     "Martillos",
+     6,
+     "Martillo de uña de 16 oz (450 g), con cabeza de acero forjado y templado, cara pulida y uña rectificada. Mango de fibra de vidrio con alma pasante y empuñadura antivibración, requisito obligatorio de seguridad. No se aceptan mangos encajados."
+    ],
+    [
+     "27111602",
+     "Martillos",
+     4,
+     "martillos de goma de 16 oz (450 g), cabeza no marcante y mango de fibra."
+    ],
+    [
+     "27111602",
+     "Martillos",
+     4,
+     "Martillo de peña de 24 oz (680 g), cabeza de acero forjado con\nuna cara plana y una cara de peña esférica, ambas templadas,\nmango de madera dura o fibra con alma pasante, o equivalente"
+    ],
+    [
+     "27111701",
+     "Destornilladores",
+     6,
+     "Juego de destornilladores de 6 a 10 piezas, con puntas planas de 3 a 6,5 mm y Phillips PH1–PH2 o equivalente. Vástago de acero al cromo-vanadio templado, puntas imantadas y tratamiento anticorrosión. Mangos bicomponente antideslizantes."
+    ],
+    [
+     "27111803",
+     "Escuadras",
+     6,
+     "Escuadra combinada de 300 mm, con regla de acero inoxidable graduada en milímetros, cabezal deslizante con ángulos de 90° y 45°, nivel de burbuja y punta de trazado."
+    ],
+    [
+     "27111803",
+     "Escuadras",
+     6,
+     "Escuadra fija en L de 150 × 150 mm (6”), de acero inoxidable, espesor mínimo de 1,5 mm, talón macizo y graduación grabada. Tolerancia de perpendicularidad máxima de 0,1 mm."
+    ],
+    [
+     "27111803",
+     "Escuadras",
+     6,
+     "Escuadra rápida de trazado de 300 mm, cuerpo macizo de aluminio inyectado, con talón de apoyo, escala de ángulos de 0° a 90° y ranuras guía para lápiz."
+    ],
+    [
+     "27111902",
+     "Limas",
+     6,
+     "6 Juego de 5 limas de 150 a 200 mm: acero al carbono templado, con picado doble,  mangos ergonómicos incluidos, plana, media caña, redonda, cuadrada y triangular."
+    ],
+    [
+     "27111902",
+     "Limas",
+     6,
+     "Set de limas y escofinas abrasivas para acabado de plástico, de grano fino y medio, con hojas flexibles o rígidas de 150 a 200 mm y mango integrado, o equivalentes"
+    ],
+    [
+     "27111908",
+     "Piedras o herramientas o equipos de afilar",
+     3,
+     "Herramienta rotativa multipropósito (minitorno) Dremel o equivalente, eléctrica de 120 W y 220 V, con velocidad variable de 10.000 a 33.000 rpm. Para cortar, lijar, perforar, pulir, esmerilar, grabar y afilar. Debe incluir llave de apriete, + kit de accesorios"
+    ],
+    [
+     "27111909",
+     "Espátulas",
+     3,
+     "3 Set de espátulas de silicona resistentes a altas temperaturas (220 °C), con alma interior de acero inoxidable y mango integrado de una sola pieza. Aptas para manipular termoplásticos calientes sin marcar su superficie."
+    ],
+    [
+     "27111911",
+     "Formones",
+     6,
+     "Juego de 3 formones de 12, 18 y 25 mm, con hojas de acero al cromo-vanadio templado, protector de hoja, dureza mínima de 58 HRC, mangos de fibra o madera dura y virola metálica."
+    ],
+    [
+     "27112116",
+     "Pinzas de cerco",
+     6,
+     "Pinza Punta Fina recta de 130 a 150 mm, tipo relojero o electrónica, acero inoxidable antimagnético, puntas rectificadas que cierren en toda su longitud sin luz Stanley o equivalente"
+    ],
+    [
+     "27112125",
+     "Alicates de punta redonda",
+     6,
+     "Alicate pinza de presión autoblocante de 125 mm (5\"), con mordazas curvas de acero forjado y templado, tornillo regulador de apriete y palanca de liberación rápida."
+    ],
+    [
+     "27112125",
+     "Alicates de punta redonda",
+     6,
+     "Alicate pinza de presión autoblocante de 250 mm (10\"), mordazas de\nacero forjado templado, tornillo de regulación y liberación\nrápida."
+    ],
+    [
+     "27112125",
+     "Alicates de punta redonda",
+     6,
+     "Alicate de puntas redondas finas de 115–125 mm (4,5”), con puntas cónicas lisas de acero templado, mangos bicomponente y articulación sin juego, o equivalente. Para curvar alambres y pletinas sin marcar el material, etc."
+    ],
+    [
+     "27112126",
+     "Alicates planos",
+     6,
+     "Alicate de corte diagonal de 160 mm (6\") Filos rectificados que cortan alambre de acero de hasta 1,6 mm sin mellar. Mangos bicomponente antideslizante y\narticulación remachada sin juego lateral. Norma DIN ISO 5749\no equivalente."
+    ],
+    [
+     "27112126",
+     "Alicates planos",
+     6,
+     "Alicate universal de 200 mm (8”), de acero al cromo-vanadio forjado, con zona de agarre estriada, corte templado por inducción =60 HRC, mangos bicomponente antideslizantes y protección anticorrosiva. Norma DIN ISO 5746 o equivalente."
+    ],
+    [
+     "27112134",
+     "Alicates de punta larga",
+     6,
+     "Alicate de punta larga fina de 160 mm (6”), de acero al cromo-vanadio templado, con puntas semirredondas estriadas, mangos bicomponente aislantes y articulación sin juego lateral. Debe permitir manipular piezas de 1 mm sin deformarlas."
+    ],
+    [
+     "27112708",
+     "Lijadoras mecánicas",
+     1,
+     "Lijadora estacionaria combinada de disco y banda, disco mínimo de 150 mm, banda de 100 mm y potencia de 350 W. Con mesa inclinable, guía de ángulo, boca de captación de polvo y base perforada para anclaje al mesón o equivalente"
+    ],
+    [
+     "27112717",
+     "Pistolas de calor",
+     6,
+     "Pistolas de Calor Ubermann HT1800PF o equivalente,  eléctrica de 1.800 W y 220 V, con control de temperatura de 50 a 650 °C, flujo de aire regulable, motor sin\nescobillas y cable de 2 m. Debe incluir soporte de apoyo para meson"
+    ],
+    [
+     "27112717",
+     "Pistolas de calor",
+     6,
+     "Pistolas de silicona eléctrica de 100 a 150 W, compatible con barras de 11 mm, boquilla metálica con protector antigoteo, soporte plegable y gatillo de avance progresivo. Tiempo de calentamiento inferior a 5 minutos."
+    ],
+    [
+     "27112801",
+     "Brocas",
+     6,
+     "Broca MANUAL con capacidad de 1 a 6 mm, cuerpo metálico, mandril de apriete manual con mordazas de acero templado y mango ergonómico."
+    ],
+    [
+     "31161511",
+     "Tornillos de apriete",
+     3,
+     "3 cajas con Tornillo de banco mecánico de 5\" (127 mm), con ancho de mandíbula de 127 mm, apertura de mordaza de 101,6 mm, fabricado en hierro fundido con tratamiento de endurecimiento y base giratoria de 360°. Para sujetar y fijar piezas de metal y plástico durante los trabajos de taller."
+    ],
+    [
+     "31162207",
+     "Remaches de compresión",
+     2,
+     "Remachadora manual de palanca larga tipo fuelle para\nremaches de 3,2, 4,0 y 4,8 mm. Cuerpo de acero forjado,\nboquillas intercambiables incluidas y depósito recolector de\nvástagos"
+    ],
+    [
+     "31162207",
+     "Remaches de compresión",
+     6,
+     "Remachadora manual de tijera para remaches ciegos (pop) de\n2,4 a 6,4 mm, cuerpo metálico con mangos bicomponente,\nmordazas de acero templado y juego de boquillas\nintercambiables con llave. Incluir dotación inicial de remaches."
+    ],
+    [
+     "31162207",
+     "Remaches de compresión",
+     6,
+     "Remachadora de pinza para broches a presión de 10, 12 y 15\nmm, con matrices intercambiables de acero templado y\nregulación de profundidad de cierre."
+    ],
+    [
+     "31201521",
+     "Cinta metálica",
+     6,
+     "Huincha de medir enrollable de 10 m, cinta de acero de 25 mm de ancho y 0,11 mm de espesor, sin filo, con recubrimiento antiabrasión en los primeros 15 cm. con freno, autobloqueo, gancho magnético, carcasa con funda de goma, resistente a caídas desde altura de mesón."
+    ],
+    [
+     "40151601",
+     "Compresores de aire",
+     1,
+     "Compresor de aire eléctrico portátil, libre de aceite, con estanque de 11 L, motor de 360 W, alimentación de 220 V, presión máxima de 120 psi y caudal de 50,4 L/min. Debe incluir kit de accesorios (manguera y boquillas)."
+    ],
+    [
+     "41111604",
+     "Reglas",
+     3,
+     "Regla metálica flexible de 100 cm (1 m), de acero inoxidable, con graduación en milímetros, incluir base antideslizante o dorso de corcho para corte guiado seguro."
+    ],
+    [
+     "41111604",
+     "Reglas",
+     12,
+     "Regla metálica de 300 mm (12\"), acero inoxidable de espesor =\n1 mm, graduación grabada por láser en ambos cantos, con\ncanto recto apto como guía de corte de cúter"
+    ],
+    [
+     "41111604",
+     "Reglas",
+     12,
+     "Regla metálica de 600 mm (24\"), acero inoxidable de espesor\n1,2 mm para evitar flexión, graduación grabada por láser, con\ncanto apto como guía de corte"
+    ],
+    [
+     "41111604",
+     "Reglas",
+     12,
+     "Regla metálica de 150 mm (6\"), acero inoxidable de espesor 1\nmm, graduación grabada por láser en milímetros y medias\npulgadas, con perforación de colgado."
+    ],
+    [
+     "41111621",
+     "Calibradores",
+     6,
+     "Calibrador vernier (pie de metro) analógico de 0 a 150 mm (6”), de acero inoxidable endurecido, con exactitud de ±0,025 mm, escala grabada por láser, tornillo de fijación y estuche. o equivalente"
+    ],
+    [
+     "41114201",
+     "Cintas de medir",
+     12,
+     "Huincha de sastre retráctil (enrollable con retorno automático)\nde 150 cm, graduada en centímetros y pulgadas, de material\nno deformable."
+    ],
+    [
+     "42251805",
+     "Mesas o estaciones de trabajo o accesorios para rehabilitación o terapia",
+     1,
+     "Mesa abatible con superficie lavable no porosa, ruedas con\nfreno en al menos dos de ellas y mecanismo de abatimiento\ncon traba de seguridad. Altura regulable deseable para\naproximación en silla de ruedas"
+    ],
+    [
+     "42294925",
+     "Punzones o agujas endoscópicos",
+     6,
+     "Punzón de punto centro de acero templado, punta cónica a 60° o 90°, longitud 100 a 150 mm, cuerpo moleteado y culata endurecida apta para golpe. Dureza de punta = 58 HRC."
+    ],
+    [
+     "44111803",
+     "Compases",
+     6,
+     "Compás de precisión de punta seca, apertura de 0 a 20 cm, metálico, con articulación de fricción regulable por tornillo y puntas de acero templado intercambiables."
+    ],
+    [
+     "47131605",
+     "Cepillos de limpieza",
+     6,
+     "Cepillo manual de púas de acero, superficie útil aproximada\n120 × 20 mm, 4 a 6 hileras. Púas de acero al carbono ancladas\nen cuerpo de madera dura o polipropileno."
+    ],
+    [
+     "48101529",
+     "Ollas a presión o sartenes de presión",
+     6,
+     "olla Sartén eléctrico de 40 cm de diámetro, con termostato regulable hasta 250 °C, cuba antiadherente de fondo grueso, tapa con visor y base aislante."
+    ],
+    [
+     "52141603",
+     "Planchas domésticas",
+     1,
+     "Plancha eléctrica con control de temperatura por termostato,\nsuela cerámica o de acero inoxidable, función de vapor y corte\nautomático por inactividad. El corte automático es requisito de\nseguridad para uso en entrenamiento."
+    ],
+    [
+     "60121302",
+     "Cuchillo cartonero",
+     6,
+     "Cúter cartonero retráctil de uso industrial, de 180 × 45 mm, con cuerpo de aluminio, empuñadura engomada, hoja ajustable de 61 × 19 mm y sistema de bloqueo de seguridad. Debe incluir 5 hojas de repuesto."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1057062-502-COT26",
+   "sin_detalle": false,
+   "descripcion": "Adquisición de herramientas e insumos varios para la carrera de Terapia Ocupacional, destinado a fortalecer la enseñanza y el entrenamiento práctico de los estudiantes. La evaluación considerará precio y menor plazo de entrega, conforme a las EETT. Oferente deberá adjuntar mayor descripción o enlace de cada producto, datos de contacto y plazo de entrega. Productos deberán entregarse en la Universidad de Aysén, Lillo 667, Coyhaique (no en empresas de transporte), incluir $ con IVA y envío.",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "certificación sec",
+    "eléctrico"
+   ],
+   "nueva": true,
+   "codigo": "886182-239-COT26",
+   "nombre": "Adquisición de 2 estufas de calefacción eléctrica_FISABS 2225",
+   "organismo": "UNIVERSIDAD DE AYSEN",
+   "unidad": "Universidad de Aysen",
+   "monto": 360000,
+   "cierre_iso": "2026-11-06T08:30:00-03:00",
+   "publicacion": "26-10 17:34",
+   "publicacion_iso": "2026-10-26T17:34:00-03:00",
+   "ofertas": 6,
+   "productos": [
+    [
+     "40101808",
+     "Estufas de la calefacción",
+     2,
+     "Se requiere 2 ESTUFAS ELECTRICAS DE CALEFACCIÓN. Producto nuevo. Rango de calefacción de 0 – 50 m2. Capacidad de calefacción de 0-37°. Panel Convector eléctrico. Consumo 1500 W. Wifi. Pantalla Led con control digital. Con certificación SEC. Debe incluir una garantía mínima de 6 meses. Según EETT adjunto."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=886182-239-COT26",
+   "sin_detalle": false,
+   "descripcion": "Se requiere cotizar 2 estufas de calefacción eléctrica según EETT\nadjunto (VER). Cotización debe indicar la especificación técnica\nde lo ofertado y el plazo de entrega en días hábiles, considerando\nla entrega de los productos en dependencias de la Universidad\nde Aysén y no en la empresa de transportes. El valor ofertado\ndebe incluir impuestos y flete. Se podrá privilegiar el menor plazo\nofertado que cumpla con lo especificado.",
    "en_gracia": false,
    "desaparecida_iso": ""
   },
@@ -686,6 +1123,35 @@
   {
    "tipo": "OPORTUNIDAD",
    "motivos": [
+    "Gasfitería, calefacción y aire acondicionado"
+   ],
+   "nueva": true,
+   "codigo": "761-211-COT26",
+   "nombre": " Mantencion preventiva equipos de aire acondicinado URS Aysén. E12643/2026",
+   "organismo": "SUBSECRETARIA DE DESARROLLO REGIONAL Y ADMINISTRATIVO",
+   "unidad": "Ministerio del Interior - Subsecretaría de Desarrollo Regional",
+   "monto": 500000,
+   "cierre_iso": "2026-11-09T12:00:00-03:00",
+   "publicacion": "03-11 16:23",
+   "publicacion_iso": "2026-11-03T16:23:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "72102305",
+     "Servicios de reparación, mantenimiento o reparación de aire acondicionado",
+     5,
+     "Se requiere mantenimiento preventivo y correctivo a 5 equipos Split de muro tanto para la unidad interna como la externa, se debe entregar un informe por equipo del estado y considerar todos los servicios solicitados."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=761-211-COT26",
+   "sin_detalle": false,
+   "descripcion": "e solicita visita obligatoria en día jueves 05 de noviembre a las 11:00 hrs., en la oficina de la Unidad Regional de Aysén, ubicada en 21 de Mayo N° 466, 4° Piso, oficina 415, Coyhaique.",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
     "Cables eléctricos y accesorios",
     "Conectores, enchufes y terminales",
     "Interruptores, controles y relés"
@@ -833,38 +1299,45 @@
    "descripcion": "1) COTIZACIONES A SUMA ALZADA. 2) TODA COORDINACIÓN SERÁ CON EL ADMINISTRADOR PREVIO AL ENVÍO. 3) CONSIDERAR LA TOTALIDAD DE LOS BIENES SOLICITADOS Y CON STOCK DE LOS MISMOS (CONFIRMAR). 4) LA OFERTA NO DEBERÁ SOBREPASAR EL MONTO DISPONIBLE. 5) TENDRÁ UN PLAZO DE DIEZ (10) DÍAS HÁBILES PARA LA ENTREGA. 6) LA ENTREGA SE REALIZARÁ EN AVDA. BAQUEDANO ESQUINA EJÉRCITO S/N.° (AL INTERIOR DE CMC), CIUDAD DE COYHAIQUE, REGIÓN DE AYSÉN. 7) SE PRIVILEGIARÁ AL PROVEEDOR CON ENTREGA MÁS RÁPIDA.",
    "en_gracia": true,
    "desaparecida_iso": "2026-11-03T14:11:19-03:00"
-  },
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "climatización"
-   ],
-   "nueva": false,
-   "codigo": "613-37-COT26",
-   "nombre": " Servicio de mantención preventiva y correctiva y reubicación de equipos de climatización",
-   "organismo": "",
-   "unidad": "",
-   "monto": null,
-   "cierre_iso": "",
-   "publicacion": "",
-   "publicacion_iso": "",
-   "ofertas": 0,
-   "productos": [
-    [
-     "26111601",
-     "Generadores diesel",
-     1,
-     "La SECRETARÍA REGIONAL MINISTERIAL DE VIVIENDA Y URBANISMO DE LA REGIÓN DE AYSÉN requiere contratar el servicio integral de mantención preventiva y correctiva, reparación y puesta en funcionamiento del sistema de energía de respaldo de su edificio institucional, ubicado en Coyhaique."
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=613-37-COT26",
-   "sin_detalle": false,
-   "descripcion": "1. Mantención de siete (7) unidades: Desmontaje cuidadoso de tapas cuando corresponda; limpieza y desinfección de filtros con productos compatibles; limpieza no corrosiva de serpentín evaporador, turbina, bandeja de condensados y drenajes; verificación de sensores, control remoto y operación frío/calor. 2. Mantención de siete (7) unidades: Limpieza controlada de condensador; revisión de estado de bases, soportes, anclajes, vibraciones, corrosión, ventiladores y conexiones.",
-   "en_gracia": true,
-   "desaparecida_iso": "2026-11-03T14:11:19-03:00"
   }
  ],
  "historial": [
+  {
+   "codigo": "418-1720-COT26",
+   "nombre": "CCD- Adquisición Cable DVI-D 24+1 macho a HDMI Tipo A macho ",
+   "organismo": "SERVICIO NACIONAL DE SALUD HOSPITAL DE PUERTO AYSEN",
+   "monto": 1,
+   "cierre_iso": "2026-11-03T16:32:00-03:00",
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Cables eléctricos y accesorios"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=418-1720-COT26",
+   "primera_vista_iso": "2026-10-28T13:11:01-03:00",
+   "removida_iso": "2026-11-03T19:24:45-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
+  {
+   "codigo": "2495-591-COT26",
+   "nombre": "MATERIALES PARA MONTAJES DE EVENTOS CULTURALES ",
+   "organismo": "I MUNICIPALIDAD DE COYHAIQUE",
+   "monto": 216000,
+   "cierre_iso": "2026-11-03T15:10:00-03:00",
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Suministros y accesorios eléctricos"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=2495-591-COT26",
+   "primera_vista_iso": "2026-10-28T13:11:01-03:00",
+   "removida_iso": "2026-11-03T19:24:45-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
   {
    "codigo": "3791-1096-COT26",
    "nombre": "ESPACIOS PUBLICOS ZONA SUR ",
@@ -987,7 +1460,7 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=5038-66-COT26",
    "primera_vista_iso": "2026-10-27T12:27:37-03:00",
    "removida_iso": "2026-10-31T19:37:55-03:00",
-   "estado_api": null,
+   "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,
    "adj_iso": null
@@ -1223,7 +1696,7 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=1758-261-COT26",
    "primera_vista_iso": "2026-10-27T12:27:37-03:00",
    "removida_iso": "2026-10-29T18:15:57-03:00",
-   "estado_api": null,
+   "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,
    "adj_iso": null
@@ -1278,7 +1751,7 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=1057062-482-COT26",
    "primera_vista_iso": "2026-10-27T12:27:37-03:00",
    "removida_iso": "2026-10-29T18:15:57-03:00",
-   "estado_api": null,
+   "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,
    "adj_iso": null
@@ -1296,7 +1769,7 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=4733-431-COT26",
    "primera_vista_iso": "2026-10-27T17:10:04-03:00",
    "removida_iso": "2026-10-29T18:15:57-03:00",
-   "estado_api": null,
+   "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,
    "adj_iso": null
@@ -1356,25 +1829,6 @@
    "adj_iso": null
   },
   {
-   "codigo": "886182-239-COT26",
-   "nombre": "Adquisición de 2 estufas de calefacción eléctrica_FISABS 2225",
-   "organismo": "UNIVERSIDAD DE AYSEN",
-   "monto": 360000,
-   "cierre_iso": "2026-10-29T08:30:00-03:00",
-   "tipo": "POSIBLE",
-   "motivos": [
-    "certificación sec",
-    "eléctrico"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=886182-239-COT26",
-   "primera_vista_iso": "2026-10-26T18:06:24-03:00",
-   "removida_iso": "2026-10-29T13:17:18-03:00",
-   "estado_api": null,
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
    "codigo": "4066-419-COT26",
    "nombre": " MANO DE OBRA INSTALACIÓN ELÉCTRICA 2 VIVIENDAS EN LA LOCALIDAD DE PUERTO SÁNCHEZ.",
    "organismo": "I MUNICIPALIDAD RIO IBANEZ",
@@ -1424,6 +1878,24 @@
    "primera_vista_iso": "2026-10-26T13:13:41-03:00",
    "removida_iso": "2026-10-28T18:12:20-03:00",
    "estado_api": "",
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
+  {
+   "codigo": "613-37-COT26",
+   "nombre": " Servicio de mantención preventiva y correctiva y reubicación de equipos de climatización",
+   "organismo": "",
+   "monto": null,
+   "cierre_iso": "",
+   "tipo": "POSIBLE",
+   "motivos": [
+    "climatización"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=613-37-COT26",
+   "primera_vista_iso": "2026-11-02T23:29:10-03:00",
+   "removida_iso": "2026-11-03T19:24:45-03:00",
+   "estado_api": null,
    "adj_nombre": null,
    "adj_monto": null,
    "adj_iso": null

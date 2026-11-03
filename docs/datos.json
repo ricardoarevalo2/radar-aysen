@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-11-03T14:11:19.978646-03:00",
+ "actualizado": "2026-11-03T19:24:45.161259-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
- "total_region": 278,
+ "total_region": 306,
  "rubros": {
   "80141600": "Ventas y marketing",
   "82101600": "Publicidad en medios no impresos",
@@ -14,152 +14,6 @@
   "83121700": "Comunicación social y de masas"
  },
  "filas": [
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "radio"
-   ],
-   "nueva": true,
-   "codigo": "1233615-904-COT26",
-   "nombre": "DMH [SOL-2026-02128] PARLANTE CON MICROFONO PARA ACTIVIDADES PEDAGOGICAS JARDIN INFANTIL AYELEN RUKA",
-   "organismo": "Servicio Local de Educación Pública Aysén",
-   "unidad": "Servicio Local de Educación Pública Aysén",
-   "monto": 180000,
-   "cierre_iso": "2026-11-03T15:00:00-03:00",
-   "publicacion": "02-11 10:47",
-   "publicacion_iso": "2026-11-02T10:47:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "52161512",
-     "Parlantes",
-     1,
-     "Caja acústica activa portátil MEKSE, modelo CBT-15-2MIC, de 15 pulgadas, con Bluetooth y batería recargable. Incluye dos micrófonos inalámbricos VHF, control remoto y cable de alimentación. Cuenta con ecualizador de 5 bandas, efecto eco, entradas para micrófonos y guitarra, además de reproducción por USB, tarjeta SD y radio FM."
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1233615-904-COT26",
-   "sin_detalle": false,
-   "descripcion": "Parlante mas micrófono para el Jardín Infantil y Sala Cuna Ayelen Ruka, cuya adquisición permitirá apoyar las experiencias pedagógicas y los cierres de unidad vinculados con nuestro sello artístico y medioambiental, facilitando el uso de música, la participación de las familias y el desarrollo de actividades con los niños y niñas.",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "aviso"
-   ],
-   "nueva": false,
-   "codigo": "1282238-84-COT26",
-   "nombre": "Suministro de catering para elencos y equipos, entregas mensuales nov 2026 - may 2027 - PAOCC 2026 (Corporación Cultural Coyhaique)",
-   "organismo": "CORPORACION CULTURAL MUNICIPAL DE COYHAIQUE",
-   "unidad": "CORPORACION CULTURAL MUNICIPAL DE COYHAIQUE",
-   "monto": 1000000,
-   "cierre_iso": "2026-11-03T15:00:00-03:00",
-   "publicacion": "31-10 11:33",
-   "publicacion_iso": "2026-10-31T11:33:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "50101634",
-     "Fruta fresca",
-     7,
-     "Fruta fresca de temporada en buen estado. Por entrega: 5 kg aprox. Cantidad = 7 entregas mensuales (nov 2026 a may 2027) en Centro Cultural de Coyhaique, Eusebio Lillo 23, con aviso de 3 días hábiles. Proveedor local de Coyhaique. Proyecto PAOCC 2026 Folio 852881."
-    ],
-    [
-     "50181905",
-     "Galletas dulces o pastelitos",
-     7,
-     "Galletas dulces y saladas surtidas en paquete. Por entrega: 15 paquetes aprox. Cantidad = 7 entregas mensuales (nov 2026 a may 2027) en Centro Cultural de Coyhaique, Eusebio Lillo 23, con aviso de 3 días hábiles. Proveedor local de Coyhaique. Proyecto PAOCC 2026 Folio 852881."
-    ],
-    [
-     "50182001",
-     "Tartas, empanadas o pastas frescas",
-     7,
-     "Queques o bizcochos de elaboración local, tamaño familiar, entregados frescos. Por entrega: 3 unidades aprox. Cantidad = 7 entregas mensuales (nov 2026 a may 2027) en Centro Cultural de Coyhaique, Eusebio Lillo 23, con aviso de 3 días hábiles. Proveedor local de Coyhaique. Proyecto PAOCC 2026 Folio 852881."
-    ],
-    [
-     "50192110",
-     "Nueces o frutos secos",
-     7,
-     "Mezcla de frutos secos. Por entrega: 1 kg aprox. Cantidad = 7 entregas mensuales (nov 2026 a may 2027) en Centro Cultural de Coyhaique, Eusebio Lillo 23, con aviso de 3 días hábiles. Proveedor local de Coyhaique. Proyecto PAOCC 2026 Folio 852881."
-    ],
-    [
-     "50201706",
-     "Café",
-     7,
-     "Café lifolizado o de grano molido, azucar y endulzante, en formato para servicio colectivo. Por entrega: 2 tarros de café de 170 g aprox.  Cantidad = 7 entregas mensuales (nov 2026 a may 2027) en Centro Cultural de Coyhaique, Eusebio Lillo 23, con aviso de 3 días hábiles. Proveedor local de Coyhaique. Proyecto PAOCC 2026 Folio 852881."
-    ],
-    [
-     "50202304",
-     "Jugos y néctar envasados",
-     7,
-     "Jugos o néctares en envase de 1 a 1,5 L, sabores surtidos. Por entrega: 12 unidades aprox. Cantidad = 7 entregas mensuales (nov 2026 a may 2027) en Centro Cultural de Coyhaique, Eusebio Lillo 23, con aviso de 3 días hábiles. Proveedor local de Coyhaique. Proyecto PAOCC 2026 Folio 852881."
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1282238-84-COT26",
-   "sin_detalle": false,
-   "descripcion": "Suministro de catering para elencos y equipos de trabajo del proyecto «Programación Centro Cultural de Coyhaique 2026» (PAOCC MINCAP, Folio 852881): café, jugos, galletas, queques, frutos secos y fruta fresca. 7 entregas, una vez al mes, de noviembre 2026 a mayo 2027, en el Centro Cultural de Coyhaique, con aviso de 3 días hábiles. Se requiere proveedor local de Coyhaique. Ver especificaciones técnicas.",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
-  {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Ventas y marketing"
-   ],
-   "nueva": true,
-   "codigo": "2495-609-COT26",
-   "nombre": "\"Servicio integral de producción técnica y show artístico para Festival de la voz”, Programa Promoción de la salud 2026",
-   "organismo": "I MUNICIPALIDAD DE COYHAIQUE",
-   "unidad": "DIRECCION DESARROLLO COMUNITARIO",
-   "monto": 1200000,
-   "cierre_iso": "2026-11-03T16:00:00-03:00",
-   "publicacion": "02-11 15:57",
-   "publicacion_iso": "2026-11-02T15:57:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "80141607",
-     "Producción de eventos",
-     1,
-     "se adjuntan bases tecnicas"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=2495-609-COT26",
-   "sin_detalle": false,
-   "descripcion": "Se adjuntan bases.",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "difusion"
-   ],
-   "nueva": true,
-   "codigo": "1758-273-COT26",
-   "nombre": "CAFETERIA JORNADA DIFUSION NUEVA POLITICA DE EDUCACION EN TERRITORIOS RURALES Y CAPACITACION DE COORD. MICROCENTROS EN COYHAIQUE",
-   "organismo": "SECRETARIA REGIONAL MINISTERIAL DE EDUCACION XI REGION",
-   "unidad": "Mineduc Administración XI Región",
-   "monto": 435000,
-   "cierre_iso": "2026-11-03T16:30:00-03:00",
-   "publicacion": "02-11 14:56",
-   "publicacion_iso": "2026-11-02T14:56:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "90101603",
-     "Servicios de catering",
-     45,
-     "30 SERVICIOS DE CAFETERIA EL 10 DE NOVIEMBRE SERVIDO A LAS 10:30 HRS.\n15 SERVICIOS DE CAFETERIA EL 10 DE NOVIEMBRE SERVIDO A LAS 16.30 HRS.\nCONTENGAN; JUGO NATURAL DE PULPA, TE/CAFE DE GRANO/LECHE SIN LACTOSA SIN CORTAR,FRUTA NATURAL EN BROCHETA O PICADA, 02 MINI SADWINCH O ALTERNATIVA SALADAS P.P. 03 ALTERNATIVAS DULCES P.P. FRUTOS SECOS O SUGERENCIA DEL PROVEEDOR. A REALIZARSE EN DEPENDENCIAS DEL LICEO JOSEFINA AGUIRRE EN LA CIUDAD DE COYHAIQUE."
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1758-273-COT26",
-   "sin_detalle": false,
-   "descripcion": "45 SERVICIOS CAFETERÍAS PARA EL DÍA 10/11/2026 AM Y PM. EL PROVEEDOR DEBE CONSIDERAR MONTAJE, VAJILLA, MANTELERIA. ADEMÁS, SE PIVILEGIARÁ A LOS OFERENTES QUE CUENTEN CON POLÍTICAS QUE INCLUYAN PLAN DE MANEJO DE RESIDUOS, NO USO DE PLUMAVIT Y PREFERENCIA POR LO REUTILIZABLE O COMPOSTABLE. EL PROVEEDOR DEBERÁ CONTAR CON TODAS LAS AUTORIZACIONES SANITARIAS. COORDINADORA A CARGO SRTA. LORENA ZAPATA, SECREDUC.",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
   {
    "tipo": "POSIBLE",
    "motivos": [
@@ -280,13 +134,42 @@
    "desaparecida_iso": ""
   },
   {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Publicidad en medios no impresos"
+   ],
+   "nueva": true,
+   "codigo": "1057062-499-COT26",
+   "nombre": "Servicio de Publicidad Digital: Campaña Magíster en Gestión del Cambio Climático según Fisabs 2376_URY 21991",
+   "organismo": "UNIVERSIDAD DE AYSEN",
+   "unidad": "Proyectos",
+   "monto": 7000000,
+   "cierre_iso": "2026-11-04T17:25:00-03:00",
+   "publicacion": "03-11 17:21",
+   "publicacion_iso": "2026-11-03T17:21:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "82101603",
+     "Publicidad en Internet",
+     1,
+     "Servicio de publicidad digital para la difusión del Magíster en Gestión del Cambio Climático 2027. Cotizaciones deberán entregar todo lo indicado en las especificaciones técnicas adjuntas."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1057062-499-COT26",
+   "sin_detalle": false,
+   "descripcion": "Se requiere el servicio de Publicidad Digital según especificaciones técnicas (EETT) adjuntas . Cotizaciones deben indicar el detalle de lo ofertado. Valor entregado debe considerar impuestos y todo lo necesario para cumplir con lo solicitado en las EETT. Se podrán privilegiar ofertas que consideren comenzar en el menor tiempo posible. Compra sujeta a multas por incumplimientos.",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
    "tipo": "POSIBLE",
    "motivos": [
     "audiovisuales",
     "radio",
     "streaming"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "4733-450-COT26",
    "nombre": "SERVICIO DE PLATAFORMA STREAMING Y TRANSMISION MULTICANAL POR 12 MESES",
    "organismo": "I MUNICIPALIDAD DE LAS GUAITECAS",
@@ -405,9 +288,186 @@
    "descripcion": "COMPRA DE PENDON Y MANTEL PARA PRESENTACIÓN DE STANDS EDUCATIVOS HLOR. LAS COTIZACIONES INGRESADAS DEBERÁN ENVIAR IMAGENES REFERENCIALES DEL PRODUCTO OFERTADO. LAS COTIZACIONES QUEDARÁN SUETAS AL DISEÑO PRESENTADO.",
    "en_gracia": false,
    "desaparecida_iso": ""
+  },
+  {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Ventas y marketing"
+   ],
+   "nueva": true,
+   "codigo": "1332-40-COT26",
+   "nombre": "PLAN DE MEDIOS Y CONTINUIDAD DE PLATAFORMA WEB PARA LA CAMPAÑA REGIONAL DE CONCIENCIA TURÍSTICA AYSÉN PATAGONIA",
+   "organismo": "Servicio Nacional de Turismo",
+   "unidad": "Direccion Regional de Aysen",
+   "monto": 6800000,
+   "cierre_iso": "2026-11-05T15:30:00-03:00",
+   "publicacion": "03-11 15:30",
+   "publicacion_iso": "2026-11-03T15:30:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "80141612",
+     "Campañas publicitarias o de marketing",
+     1,
+     "Según solicitud de cotización adjunta."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1332-40-COT26",
+   "sin_detalle": false,
+   "descripcion": "Contratar la implementación y gestión de un plan de medios para difundir la Campaña Regional de Conciencia Turística Aysén Patagonia a través de medios radiales, televisivos y digitales, asegurando además la continuidad operativa de la plataforma web “Aysén Eres Tú” mediante la renovación de su suscripción por 24 meses.",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "difusión"
+   ],
+   "nueva": true,
+   "codigo": "2495-620-COT26",
+   "nombre": "ADQUISICIÓN DE MATERIALES E INSUMOS PARA MATERIAL GRÁFICO E IDENTIDAD VISUAL. Código BIP 40071494-0",
+   "organismo": "I MUNICIPALIDAD DE COYHAIQUE",
+   "unidad": "DIRECCION DESARROLLO COMUNITARIO",
+   "monto": 7100000,
+   "cierre_iso": "2026-11-06T12:00:00-03:00",
+   "publicacion": "03-11 18:54",
+   "publicacion_iso": "2026-11-03T18:54:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "14111506",
+     "Papel para impresora del ordenador",
+     4,
+     "Rollo PVC Matte 13oz, Rollo adhesivo Matte, Rollo papel sintético Matte y rollo vinilo adhesivo para impresión vehícular. Las cantidades exactas están indicadas en los TTR anexos"
+    ],
+    [
+     "31201505",
+     "Cinta adhesiva de doble cara",
+     100,
+     "Cinta adhesiva doble contacto ??po TESA FAST o técnicamente equivalente."
+    ],
+    [
+     "44103112",
+     "Cinta de tinta para impresora",
+     1,
+     "Cartuchos de tinta Nubis E12 o técnicamente compatibles, en color cyan, magenta, amarillo y negro. Y cartuchos de tinta para impresora IDP Solid-310. Las cantidades exactas están indicadas en los TTR anexos"
+    ],
+    [
+     "45101702",
+     "Guillotinas de imprenta",
+     10,
+     "Cortapapeles Tipo OLFA L5 o técnicamente equivalente, de uso profesional. Junto con 100 repuestos compatibles con los cortapapeles."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=2495-620-COT26",
+   "sin_detalle": false,
+   "descripcion": "Se requiere adquirir materiales e insumos des??nados al desarrollo de trabajos de impresión, elaboración de piezas gráficas, señalética, material promocional y otros elementos de apoyo a la difusión e identidad visual de las actividades contempladas en el programa.",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "publicitaria"
+   ],
+   "nueva": true,
+   "codigo": "918434-328-COT26",
+   "nombre": "D5882 Adquisición de Pendones Roller Institucionales, Seremi de Aysen",
+   "organismo": "MINISTERIO DE LA MUJER Y LA EQUIDAD DE GÉNERO",
+   "unidad": "MINISTERIO DE LA MUJER Y LA EQUIDAD DE GÉNERO",
+   "monto": 150000,
+   "cierre_iso": "2026-11-10T14:00:00-03:00",
+   "publicacion": "03-11 17:51",
+   "publicacion_iso": "2026-11-03T17:51:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "82121505",
+     "Impresión promocional o publicitaria",
+     1,
+     "Adquisición de Pendones Roller Institucionales.\n\nSEGUN TDR ADJUNTO"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=918434-328-COT26",
+   "sin_detalle": false,
+   "descripcion": "SEGUN TDR ADJUNTO",
+   "en_gracia": false,
+   "desaparecida_iso": ""
   }
  ],
  "historial": [
+  {
+   "codigo": "1758-273-COT26",
+   "nombre": "CAFETERIA JORNADA DIFUSION NUEVA POLITICA DE EDUCACION EN TERRITORIOS RURALES Y CAPACITACION DE COORD. MICROCENTROS EN COYHAIQUE",
+   "organismo": "SECRETARIA REGIONAL MINISTERIAL DE EDUCACION XI REGION",
+   "monto": 435000,
+   "cierre_iso": "2026-11-03T16:30:00-03:00",
+   "tipo": "POSIBLE",
+   "motivos": [
+    "difusion"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1758-273-COT26",
+   "primera_vista_iso": "2026-11-02T16:38:38-03:00",
+   "removida_iso": "2026-11-03T19:24:45-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
+  {
+   "codigo": "2495-609-COT26",
+   "nombre": "\"Servicio integral de producción técnica y show artístico para Festival de la voz”, Programa Promoción de la salud 2026",
+   "organismo": "I MUNICIPALIDAD DE COYHAIQUE",
+   "monto": 1200000,
+   "cierre_iso": "2026-11-03T16:00:00-03:00",
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Ventas y marketing"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=2495-609-COT26",
+   "primera_vista_iso": "2026-11-02T16:38:38-03:00",
+   "removida_iso": "2026-11-03T19:24:45-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
+  {
+   "codigo": "1282238-84-COT26",
+   "nombre": "Suministro de catering para elencos y equipos, entregas mensuales nov 2026 - may 2027 - PAOCC 2026 (Corporación Cultural Coyhaique)",
+   "organismo": "CORPORACION CULTURAL MUNICIPAL DE COYHAIQUE",
+   "monto": 1000000,
+   "cierre_iso": "2026-11-03T15:00:00-03:00",
+   "tipo": "POSIBLE",
+   "motivos": [
+    "aviso"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1282238-84-COT26",
+   "primera_vista_iso": "2026-10-31T12:25:44-03:00",
+   "removida_iso": "2026-11-03T19:24:45-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
+  {
+   "codigo": "1233615-904-COT26",
+   "nombre": "DMH [SOL-2026-02128] PARLANTE CON MICROFONO PARA ACTIVIDADES PEDAGOGICAS JARDIN INFANTIL AYELEN RUKA",
+   "organismo": "Servicio Local de Educación Pública Aysén",
+   "monto": 180000,
+   "cierre_iso": "2026-11-03T15:00:00-03:00",
+   "tipo": "POSIBLE",
+   "motivos": [
+    "radio"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1233615-904-COT26",
+   "primera_vista_iso": "2026-11-02T16:38:38-03:00",
+   "removida_iso": "2026-11-03T19:24:45-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
   {
    "codigo": "2495-602-COT26",
    "nombre": "cajonera plastica",
@@ -621,7 +681,7 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=2494-277-COT26",
    "primera_vista_iso": "2026-10-27T20:52:30-03:00",
    "removida_iso": "2026-11-02T16:38:38-03:00",
-   "estado_api": null,
+   "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,
    "adj_iso": null
@@ -875,7 +935,7 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=1092-74-COT26",
    "primera_vista_iso": "2026-10-27T17:10:04-03:00",
    "removida_iso": "2026-10-29T13:17:18-03:00",
-   "estado_api": null,
+   "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,
    "adj_iso": null
@@ -893,7 +953,7 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=1282238-79-COT26",
    "primera_vista_iso": "2026-10-27T12:27:37-03:00",
    "removida_iso": "2026-10-28T18:12:20-03:00",
-   "estado_api": null,
+   "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,
    "adj_iso": null
@@ -911,7 +971,7 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=1282238-82-COT26",
    "primera_vista_iso": "2026-10-27T12:27:37-03:00",
    "removida_iso": "2026-10-28T18:12:20-03:00",
-   "estado_api": null,
+   "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,
    "adj_iso": null
@@ -947,42 +1007,6 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=2495-586-COT26",
    "primera_vista_iso": "2026-10-27T12:27:37-03:00",
    "removida_iso": "2026-10-28T13:11:01-03:00",
-   "estado_api": null,
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "3791-1068-COT26",
-   "nombre": "SERVICIOS DE PRODUCCION ",
-   "organismo": "I MUNICIPALIDAD DE CISNES",
-   "monto": 1200000,
-   "cierre_iso": "2026-10-27T15:30:00-03:00",
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Ventas y marketing"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=3791-1068-COT26",
-   "primera_vista_iso": "2026-10-26T16:12:12-03:00",
-   "removida_iso": "2026-10-27T17:10:04-03:00",
-   "estado_api": "",
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "3791-1066-COT26",
-   "nombre": "CAMARA PARA TRANSMISION ",
-   "organismo": "I MUNICIPALIDAD DE CISNES",
-   "monto": 290001,
-   "cierre_iso": "2026-10-27T15:00:00-03:00",
-   "tipo": "POSIBLE",
-   "motivos": [
-    "difusion"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=3791-1066-COT26",
-   "primera_vista_iso": "2026-10-26T16:12:12-03:00",
-   "removida_iso": "2026-10-27T17:10:04-03:00",
    "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,
