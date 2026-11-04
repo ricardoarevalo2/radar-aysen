@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-11-03T23:29:29.485372-03:00",
+ "actualizado": "2026-11-04T14:23:11.581773-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
- "total_region": 307,
+ "total_region": 302,
  "rubros": {
   "25172700": "Aire acondicionado",
   "25173900": "Componentes eléctricos",
@@ -19,119 +19,6 @@
   "39121400": "Conectores, enchufes y terminales"
  },
  "filas": [
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "aire acondicionado",
-    "enchufe",
-    "enchufes"
-   ],
-   "nueva": false,
-   "codigo": "3950-710-COT26",
-   "nombre": "Repuestos para Aires Acondicionado CLJ",
-   "organismo": "DIRECCION SALUD RURAL",
-   "unidad": "Dirección de Salud Rural",
-   "monto": 350000,
-   "cierre_iso": "2026-11-04T09:00:00-03:00",
-   "publicacion": "02-11 15:34",
-   "publicacion_iso": "2026-11-02T15:34:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "27111704",
-     "Enchufes",
-     2,
-     "Enchufes macho"
-    ],
-    [
-     "27111704",
-     "Enchufes",
-     2,
-     "Enchufe hembra sobrepuestos"
-    ],
-    [
-     "40142007",
-     "Mangueras especiales",
-     20,
-     "Metros de Manguera 6 mm (1/4 de pulgada) de diametro interior de desague de bomba de condensado de aire acondicionado"
-    ],
-    [
-     "41103024",
-     "Condensadores de frío",
-     2,
-     "Bombas de condensado de aire acondicionado"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=3950-710-COT26",
-   "sin_detalle": false,
-   "descripcion": "Repuestos para Aires Acondicionado",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "grupo electrógeno"
-   ],
-   "nueva": true,
-   "codigo": "613-38-COT26",
-   "nombre": " Servicio de mantención y reparación del grupo electrógeno y sistema de transferencia automática",
-   "organismo": "Ministerio de Vivienda y Urbanismo",
-   "unidad": "SEREMI MINVU XI REGION",
-   "monto": 7000000,
-   "cierre_iso": "2026-11-04T11:00:00-03:00",
-   "publicacion": "03-11 10:50",
-   "publicacion_iso": "2026-11-03T10:50:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "25202004",
-     "Sistemas de grupo electrógeno de pista (APU)",
-     1,
-     "1. Grupo electrógeno: Mantención mecánica preventiva y correctiva del PROTELEC LGXI-33 kVA; cambio total de aceite de especificación compatible con fabricante; cambio de filtros de aceite, combustible y aire; revisión y reposición de refrigerante con protección anticongelante/anticorrosiva; inspección de conexiones, sensores, protecciones y sistema de arranque. 2. Controlador: Suministro, reemplazo, configuración y calibración de la tarjeta controladora defectuosa por módulo digital compatible,"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=613-38-COT26",
-   "sin_detalle": false,
-   "descripcion": "La SECRETARÍA REGIONAL MINISTERIAL DE VIVIENDA Y URBANISMO DE LA REGIÓN DE AYSÉN requiere contratar el servicio integral de mantención preventiva y correctiva, reparación y puesta en funcionamiento del sistema de energía de respaldo de su edificio institucional, ubicado en Coyhaique.",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "generador"
-   ],
-   "nueva": true,
-   "codigo": "3791-1099-COT26",
-   "nombre": "ALTERNADOR Y CORREAS",
-   "organismo": "I MUNICIPALIDAD DE CISNES",
-   "unidad": "Finanzas",
-   "monto": 447000,
-   "cierre_iso": "2026-11-04T11:00:00-03:00",
-   "publicacion": "03-11 10:31",
-   "publicacion_iso": "2026-11-03T10:31:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "26101615",
-     "Alternadores",
-     1,
-     "ALTERNADOR 12V 85A DENSO 102211-8180 O PERKINS 185046500"
-    ],
-    [
-     "31162310",
-     "Correas de montaje",
-     2,
-     "CORREA ALTERNADOR PERKINS 2614B655."
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=3791-1099-COT26",
-   "sin_detalle": false,
-   "descripcion": "ADQUISICION DE ALTERNADOR Y DOS CORREAS PARA EL GENERADOR MODELO GX90P/G80, SERIE 170781/39,, EQUIPADO CON MOTOR PERKINS 1104A-44TG2, UBICADO EN LA LOCALIDAD DE MELIMOYU. SE ADJUNTANA NEXOS",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
   {
    "tipo": "POSIBLE",
    "motivos": [
@@ -280,7 +167,7 @@
    "motivos": [
     "Conectores, enchufes y terminales"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "1233615-920-COT26",
    "nombre": "DMH SOL-2026-01931] Recursos TICS para Escuela \"Litoral Austral\" de Puerto Aysén",
    "organismo": "Servicio Local de Educación Pública Aysén",
@@ -305,11 +192,191 @@
    "desaparecida_iso": ""
   },
   {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Conectores, enchufes y terminales"
+   ],
+   "nueva": true,
+   "codigo": "3791-1108-COT26",
+   "nombre": "BAÑOS GIMNASIO PUYUHUAPI",
+   "organismo": "I MUNICIPALIDAD DE CISNES",
+   "unidad": "Finanzas",
+   "monto": 1335530,
+   "cierre_iso": "2026-11-05T11:10:00-03:00",
+   "publicacion": "04-11 11:01",
+   "publicacion_iso": "2026-11-04T11:01:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "12352310",
+     "Siliconas",
+     4,
+     "Silicona sanitaria antihongos"
+    ],
+    [
+     "20142201",
+     "Calentadores de línea eléctrica",
+     2,
+     "calefónt de 14 litros"
+    ],
+    [
+     "30171514",
+     "Cierres de puertas",
+     10,
+     "Bisagras 3\" para puertas de baño y ducha"
+    ],
+    [
+     "30181504",
+     "Lavamanos",
+     6,
+     "llaves de lavamanos"
+    ],
+    [
+     "30181505",
+     "Taza de WC",
+     4,
+     "urinarios de pared para hombres"
+    ],
+    [
+     "30181509",
+     "Jabonera",
+     4,
+     "dispensadores de jabon"
+    ],
+    [
+     "30181513",
+     "Tapas de inodoro",
+     5,
+     "tapas para WC"
+    ],
+    [
+     "31201522",
+     "Cinta de transferencia adhesiva",
+     2,
+     "teflón amarillo"
+    ],
+    [
+     "31201522",
+     "Cinta de transferencia adhesiva",
+     2,
+     "teflón blanco"
+    ],
+    [
+     "39121419",
+     "Conexiones flexibles",
+     4,
+     "flexibles 60cm"
+    ],
+    [
+     "39121419",
+     "Conexiones flexibles",
+     2,
+     "Flexible de gas"
+    ],
+    [
+     "40141705",
+     "Caños",
+     2,
+     "Kit ducto de evacuación de gases calefont 4\" (cañón, codo y sombrerete)"
+    ],
+    [
+     "40141716",
+     "Sifones en P",
+     4,
+     "Sifon urinarios"
+    ],
+    [
+     "40141740",
+     "Llaves de combustible",
+     2,
+     "Llave de paso de gas 1/2\""
+    ],
+    [
+     "42292307",
+     "Llaves quirúrgicas",
+     4,
+     "Llave/válvula de urinario"
+    ],
+    [
+     "46171503",
+     "Juegos de cerraduras",
+     1,
+     "cerradura completa normal doble seguro"
+    ],
+    [
+     "46171503",
+     "Juegos de cerraduras",
+     1,
+     "cerradura completa para la puerta blanca lateral"
+    ],
+    [
+     "47131703",
+     "Recipientes para residuos sanitarios",
+     4,
+     "basureros"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=3791-1108-COT26",
+   "sin_detalle": false,
+   "descripcion": "ADQUISICION DE MATERIALES DE CONSTRUCCION PARA REPARACION DE BAÑOS GIMNASIO DE PUYUHUAPI. SE ADJUNTAN ANEXOS",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "aire acondicionado",
+    "enchufe",
+    "enchufes"
+   ],
+   "nueva": true,
+   "codigo": "3950-716-COT26",
+   "nombre": "Repuestos para Aires Acondicionado CLJ",
+   "organismo": "DIRECCION SALUD RURAL",
+   "unidad": "Dirección de Salud Rural",
+   "monto": 300000,
+   "cierre_iso": "2026-11-05T11:10:00-03:00",
+   "publicacion": "04-11 10:57",
+   "publicacion_iso": "2026-11-04T10:57:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "27111704",
+     "Enchufes",
+     2,
+     "Enchufes macho"
+    ],
+    [
+     "27111704",
+     "Enchufes",
+     2,
+     "Enchufe hembra sobrepuestos"
+    ],
+    [
+     "40142007",
+     "Mangueras especiales",
+     20,
+     "Metros de Manguera 6 mm (1/4 de pulgada) de diametro interior de desague de bomba de condensado de aire acondicionado"
+    ],
+    [
+     "41103024",
+     "Condensadores de frío",
+     2,
+     "Bombas de condensado de aire acondicionado. Cable de conexión eléctrica debe ser de mínimo 2.5 metros de largo"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=3950-716-COT26",
+   "sin_detalle": false,
+   "descripcion": "Repuestos para Aires Acondicionado CLJ",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
    "tipo": "POSIBLE",
    "motivos": [
     "grupo electrógeno"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "1079689-522-COT26",
    "nombre": "ADQUISICIÓN DE REPUESTOS SISTEMA REFRIGERACIÓN DE MOTOR DIÉSEL YANGDONG YSD490D, INSTALADO EN GG.EE. KIPOR KDE18S",
    "organismo": "SECCIÓN COMPRAS XI ZONA",
@@ -448,6 +515,35 @@
   {
    "tipo": "POSIBLE",
    "motivos": [
+    "iluminación"
+   ],
+   "nueva": true,
+   "codigo": "1233615-932-COT26",
+   "nombre": "DMH [SOL-2026-02150] Recursos para el aprendizaje e innovación (focos, atriles y otros) para Liceo Politécnico A-1 de Puerto Aysén",
+   "organismo": "Servicio Local de Educación Pública Aysén",
+   "unidad": "Servicio Local de Educación Pública Aysén",
+   "monto": 425000,
+   "cierre_iso": "2026-11-05T16:30:00-03:00",
+   "publicacion": "04-11 07:29",
+   "publicacion_iso": "2026-11-04T07:29:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "39111504",
+     "Sistemas de iluminación de escenario o estudio",
+     1,
+     "Recursos para el aprendizaje e innovación (atril, focos y otros) para Liceo Politécnico A-1 de Puerto Aysén, de acuerdo a requerimiento adjunto a la presente compra (llenar formulario 1)"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1233615-932-COT26",
+   "sin_detalle": false,
+   "descripcion": "Estos implementos permitirán desarrollar competencias tecnológicas, comunicativas, técnicas y laborales, fomentar la creatividad, el trabajo colaborativo y la participación estudiantil, además de apoyar la difusión de las actividades institucionales y el mejoramiento de los espacios educativos.",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
     "eléctricos"
    ],
    "nueva": false,
@@ -479,7 +575,7 @@
    "motivos": [
     "Enfriamiento (aires acondicionados)"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "1078779-24-COT26",
    "nombre": "EQUIPO DE AIRE ACONDICIONADO",
    "organismo": "SERVICIO DE SALUD AYSEN CARLOS IBANEZ DEL CAMPO",
@@ -877,6 +973,35 @@
   {
    "tipo": "POSIBLE",
    "motivos": [
+    "eléctrico"
+   ],
+   "nueva": true,
+   "codigo": "951405-262-COT26",
+   "nombre": "(F.INT-CC.MANT.CAS.SUBOFLES) JAL_CAJ_ADQ. DE TERMO ELÉCTRICO PARA LA CAFETERÍA DEL CG IV DE.",
+   "organismo": "JEFATURA ADMINISTRATIVA Y LOGISTICA DE LA GUARNICION COYHAIQUE",
+   "unidad": "JAL - Guarnición \"Coyhaique\"",
+   "monto": 833000,
+   "cierre_iso": "2026-11-06T08:15:00-03:00",
+   "publicacion": "04-11 11:45",
+   "publicacion_iso": "2026-11-04T11:45:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "48101714",
+     "Dispensadores de agua caliente o termos",
+     1,
+     "TERMO ELÉCTRICO 200 LTS, 300 W."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=951405-262-COT26",
+   "sin_detalle": false,
+   "descripcion": "1) COTIZACIONES A SUMA ALZADA. 2) TODA COORDINACIÓN SERÁ CON EL ADMINISTRADOR PREVIO AL ENVÍO. 3) CONSIDERAR LA TOTALIDAD DE LOS BIENES SOLICITADOS Y CON STOCK DE LOS MISMOS (CONFIRMAR). 4) LA OFERTA NO DEBERÁ SOBREPASAR EL MONTO DISPONIBLE. 5) TENDRÁ UN PLAZO DE CINCO (5) DÍAS HÁBILES PARA LA ENTREGA. 6) LA ENTREGA SE REALIZARÁ EN AVDA. BAQUEDANO ESQUINA EJÉRCITO S/N.° (AL INTERIOR DE CMC), CIUDAD DE COYHAIQUE, REGIÓN DE AYSÉN. 7) SE PRIVILEGIARÁ AL PROVEEDOR CON ENTREGA MÁS RÁPIDA.",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
     "certificación sec",
     "eléctrico"
    ],
@@ -910,7 +1035,7 @@
     "Cables eléctricos y accesorios",
     "Suministros y accesorios eléctricos"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "886182-248-COT26",
    "nombre": "Materiales de oficina_segun fisabs 2350_Departamento Ciencias Naturales y Tecnología",
    "organismo": "UNIVERSIDAD DE AYSEN",
@@ -1148,160 +1273,65 @@
    "descripcion": "e solicita visita obligatoria en día jueves 05 de noviembre a las 11:00 hrs., en la oficina de la Unidad Regional de Aysén, ubicada en 21 de Mayo N° 466, 4° Piso, oficina 415, Coyhaique.",
    "en_gracia": false,
    "desaparecida_iso": ""
-  },
-  {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Cables eléctricos y accesorios",
-    "Conectores, enchufes y terminales",
-    "Interruptores, controles y relés"
-   ],
-   "nueva": false,
-   "codigo": "951405-261-COT26",
-   "nombre": "(F.INT-CC.MANT.CAS.OFLES) JAL_CAJ_ADQ. DE MATERIALES PARA REPARACIÓN DE SISTEMA ELÉCTRICO DE TERMOS DE AGUA EN EL CASINO DE OFICIALES DEL CIELB.",
-   "organismo": "",
-   "unidad": "",
-   "monto": null,
-   "cierre_iso": "",
-   "publicacion": "",
-   "publicacion_iso": "",
-   "ofertas": 0,
-   "productos": [
-    [
-     "23151506",
-     "Prensas de caucho o plástico",
-     4,
-     "PRENSA ESTOPA 13,5"
-    ],
-    [
-     "26121629",
-     "Cable de alimentación",
-     1,
-     "CABLE EVA ROJO 6 MM."
-    ],
-    [
-     "26121629",
-     "Cable de alimentación",
-     1,
-     "CABLE EVA BLANCO 6 MM."
-    ],
-    [
-     "26121634",
-     "Cable de cobre",
-     15,
-     "CABLE EVA ROJO 4 MM."
-    ],
-    [
-     "26121634",
-     "Cable de cobre",
-     15,
-     "CABLE EVA BLANCO 4 MM."
-    ],
-    [
-     "26121634",
-     "Cable de cobre",
-     15,
-     "CABLE EVA VERDE 4 MM."
-    ],
-    [
-     "26121636",
-     "Cables de alimentación",
-     5,
-     "CORDÓN ELÉCTRICO 2 x 12 AWG"
-    ],
-    [
-     "31141601",
-     "Molduras al vacío de plástico",
-     4,
-     "MOLDURA 40 x 16."
-    ],
-    [
-     "31161502",
-     "Tornillos de anclaje",
-     1,
-     "TORNILLO CABEZA DE LENTEJA 1/2, 100 UDS"
-    ],
-    [
-     "32111503",
-     "Diodos emisores de luz (LED)",
-     1,
-     "LUZ PILOTO RIEL DIN ROJA CHINT."
-    ],
-    [
-     "32141105",
-     "Obturadores o fundas de tubo",
-     1,
-     "TUBO PVC 32mm x 3 M."
-    ],
-    [
-     "39121409",
-     "Conectores de cables eléctricos",
-     1,
-     "FERRUL NARANJO, 12 AWG 100 UDS 4 MM"
-    ],
-    [
-     "39121409",
-     "Conectores de cables eléctricos",
-     1,
-     "FERRUL VERDE, 10 AWG 100 UDS 6 MM."
-    ],
-    [
-     "39121410",
-     "Tableros de Bornes",
-     1,
-     "TABLERO SOBREPUESTO 18 PUESTOS."
-    ],
-    [
-     "39121411",
-     "Cajas de Bornes para fusibles",
-     1,
-     "PORTAFUSIBLES CON FUSIBLE, 2 A."
-    ],
-    [
-     "39121426",
-     "Barra de saltacarril",
-     2,
-     "BARRA BIPOLAR 7 BORNES 125 A."
-    ],
-    [
-     "39121431",
-     "Conectores estancos de cables",
-     1,
-     "BORNERA VERDE 8 P."
-    ],
-    [
-     "39121506",
-     "Interruptores automáticos por caída de presión",
-     1,
-     "AUTOMÁTICO BIPLAR STANFORD 2 x 25 A."
-    ],
-    [
-     "39121506",
-     "Interruptores automáticos por caída de presión",
-     2,
-     "INTERRUMPOR AUTOMÁTICO STANFORD 16A."
-    ],
-    [
-     "39121506",
-     "Interruptores automáticos por caída de presión",
-     2,
-     "INTERRUMPOR DIFERENCIAL STANFORD 2 x 25A."
-    ],
-    [
-     "40142613",
-     "Conectores de tubo",
-     2,
-     "SALIDA CAJA PVC 32mm."
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=951405-261-COT26",
-   "sin_detalle": false,
-   "descripcion": "1) COTIZACIONES A SUMA ALZADA. 2) TODA COORDINACIÓN SERÁ CON EL ADMINISTRADOR PREVIO AL ENVÍO. 3) CONSIDERAR LA TOTALIDAD DE LOS BIENES SOLICITADOS Y CON STOCK DE LOS MISMOS (CONFIRMAR). 4) LA OFERTA NO DEBERÁ SOBREPASAR EL MONTO DISPONIBLE. 5) TENDRÁ UN PLAZO DE DIEZ (10) DÍAS HÁBILES PARA LA ENTREGA. 6) LA ENTREGA SE REALIZARÁ EN AVDA. BAQUEDANO ESQUINA EJÉRCITO S/N.° (AL INTERIOR DE CMC), CIUDAD DE COYHAIQUE, REGIÓN DE AYSÉN. 7) SE PRIVILEGIARÁ AL PROVEEDOR CON ENTREGA MÁS RÁPIDA.",
-   "en_gracia": true,
-   "desaparecida_iso": "2026-11-03T14:11:19-03:00"
   }
  ],
  "historial": [
+  {
+   "codigo": "613-38-COT26",
+   "nombre": " Servicio de mantención y reparación del grupo electrógeno y sistema de transferencia automática",
+   "organismo": "Ministerio de Vivienda y Urbanismo",
+   "monto": 7000000,
+   "cierre_iso": "2026-11-04T11:00:00-03:00",
+   "tipo": "POSIBLE",
+   "motivos": [
+    "grupo electrógeno"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=613-38-COT26",
+   "primera_vista_iso": "2026-11-03T14:11:19-03:00",
+   "removida_iso": "2026-11-04T14:23:11-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
+  {
+   "codigo": "3791-1099-COT26",
+   "nombre": "ALTERNADOR Y CORREAS",
+   "organismo": "I MUNICIPALIDAD DE CISNES",
+   "monto": 447000,
+   "cierre_iso": "2026-11-04T11:00:00-03:00",
+   "tipo": "POSIBLE",
+   "motivos": [
+    "generador"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=3791-1099-COT26",
+   "primera_vista_iso": "2026-11-03T14:11:19-03:00",
+   "removida_iso": "2026-11-04T14:23:11-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
+  {
+   "codigo": "3950-710-COT26",
+   "nombre": "Repuestos para Aires Acondicionado CLJ",
+   "organismo": "DIRECCION SALUD RURAL",
+   "monto": 350000,
+   "cierre_iso": "2026-11-04T09:00:00-03:00",
+   "tipo": "POSIBLE",
+   "motivos": [
+    "aire acondicionado",
+    "enchufe",
+    "enchufes"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=3950-710-COT26",
+   "primera_vista_iso": "2026-11-02T16:38:38-03:00",
+   "removida_iso": "2026-11-04T14:23:11-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
   {
    "codigo": "418-1720-COT26",
    "nombre": "CCD- Adquisición Cable DVI-D 24+1 macho a HDMI Tipo A macho ",
@@ -1878,6 +1908,26 @@
    "primera_vista_iso": "2026-10-26T13:13:41-03:00",
    "removida_iso": "2026-10-28T18:12:20-03:00",
    "estado_api": "",
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
+  {
+   "codigo": "951405-261-COT26",
+   "nombre": "(F.INT-CC.MANT.CAS.OFLES) JAL_CAJ_ADQ. DE MATERIALES PARA REPARACIÓN DE SISTEMA ELÉCTRICO DE TERMOS DE AGUA EN EL CASINO DE OFICIALES DEL CIELB.",
+   "organismo": "",
+   "monto": null,
+   "cierre_iso": "",
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Cables eléctricos y accesorios",
+    "Conectores, enchufes y terminales",
+    "Interruptores, controles y relés"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=951405-261-COT26",
+   "primera_vista_iso": "2026-11-02T16:38:38-03:00",
+   "removida_iso": "2026-11-04T14:23:11-03:00",
+   "estado_api": null,
    "adj_nombre": null,
    "adj_monto": null,
    "adj_iso": null

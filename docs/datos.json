@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-11-03T23:29:29.485372-03:00",
+ "actualizado": "2026-11-04T14:23:11.581773-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
- "total_region": 307,
+ "total_region": 302,
  "rubros": {
   "80141600": "Ventas y marketing",
   "82101600": "Publicidad en medios no impresos",
@@ -14,125 +14,6 @@
   "83121700": "Comunicación social y de masas"
  },
  "filas": [
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "difusion",
-    "radio"
-   ],
-   "nueva": true,
-   "codigo": "1758-276-COT26",
-   "nombre": "ALOJAMIENTOS Y ALIMENTACION JORNADA DIFUSION NUEVA POLITICA DE EDUCACION EN TERRITORIOS RURALES Y CAPACITACION DE COORD. MICROCENTROS  DOCENTES EN CISNES",
-   "organismo": "SECRETARIA REGIONAL MINISTERIAL DE EDUCACION XI REGION",
-   "unidad": "Mineduc Administración XI Región",
-   "monto": 250000,
-   "cierre_iso": "2026-11-04T12:00:00-03:00",
-   "publicacion": "03-11 11:58",
-   "publicacion_iso": "2026-11-03T11:58:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "90101501",
-     "Restaurantes",
-     2,
-     "02 ALMUERZOS EL 12/11 DOCENTES EN PUERTO CISNES.\nQUE CONTENGA 03 TIEMPOS PLATO DE FONDO CON ALTERNATIVA PROTEICA, ACOMPAÑAMIENTO, ENSALADA/ENTRADA, POSTRE  CONTAR UNA RACION VEGETARIANA."
-    ],
-    [
-     "90101501",
-     "Restaurantes",
-     2,
-     "01 CENA EL 11/11\n01 CENA EL 12/11 DOCENTES EN PUERTO CISNES.\nQUE CONTENGA 03 TIEMPOS PLATO DE FONDO CON ALTERNATIVA PROTEICA, ACOMPAÑAMIENTO, ENSALADA/ENTRADA, POSTRE  CONSIDERAR UNA RACION VEGETARIANA."
-    ],
-    [
-     "90111801",
-     "Habitación sencilla",
-     2,
-     "01 HABITACION SINGLE EL 11/11  SR. JUAN CARLOS ARANEDA.\n01 HABITACION SINGLE EL 12/11  SRA. JACQUELINE PORCHE.\nDOCENTES EN PUERTO CISNES CONTAR CALEFACCION, WIFI Y BAÑO PRIVADO CON DESAYUNO CONTENER TE O CAFE Y/O JUGO, FRUTA, PAN CON AGREGADO EN LA LOCALIDAD."
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1758-276-COT26",
-   "sin_detalle": false,
-   "descripcion": "ALOJAMIENTOS Y ALIMENTACIÓN DE 02 DOCENTES EN CISNES 11 AL 12 DE NOVIEMBRE. EN LA SU PROPUESTA EL PROVEEDOR DEBERÁ INDICAR LA DIRECCIÓN DONDE SE ENTREGARÁ EL SERVICIO, EL CUAL DEBE ESTAR DENTRO DEL RADIO URBANO DE LA CIUDAD DE COYHAIQUE, PREFERENCIALMENTE UNA UBICACIÓN CENTRAL. SE PRIVILEGIARA PROVEEDORES QUE POSEAN CERTIFICACIÓN DE SUSTENTABILIDAD Y CUENTEN CON POLÍTICAS REUTILIZACIÓN DE SABANAS Y TOALLAS CON ALIMENTACION DE CENAS. SEGREGACION Y RES. SANITARIA. COORDIN. SRTA. LORENA ZAPATA.",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "difusion",
-    "radio"
-   ],
-   "nueva": true,
-   "codigo": "1758-274-COT26",
-   "nombre": "ALOJAMIENTOS Y ALIMENTACION JORNADA DIFUSION NUEVA POLITICA DE EDUCACION EN TERRITORIOS RURALES Y CAPACITACION DE COORD. MICROCENTROS EN COYHAIQUE",
-   "organismo": "SECRETARIA REGIONAL MINISTERIAL DE EDUCACION XI REGION",
-   "unidad": "Mineduc Administración XI Región",
-   "monto": 4284000,
-   "cierre_iso": "2026-11-04T12:00:00-03:00",
-   "publicacion": "03-11 11:37",
-   "publicacion_iso": "2026-11-03T11:37:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "90101501",
-     "Restaurantes",
-     37,
-     "10 ALMUERZOS EL 09/11\n22 ALMUERZOS EL 10/11 SIN RESTRICCION.\n05 ALMUERZOS EL 11/11\nSERVICIOS 13.15 HRS. QUE CONTENGA 03 TIEMPOS PLATO DE FONDO CON ALTERNATIVA PROTEICA, ACOMPAÑAMIENTO, ENSALADA/ENTRADA, POSTRE Y BEBESTIBLE SIN ALCOHOL. CONSIDERAR VEGANO Y VEGETARIANO SERVIDOS EN LA CIUDAD DE COYHAIQUE"
-    ],
-    [
-     "90101501",
-     "Restaurantes",
-     42,
-     "05 CENAS 08/11\n20 CENAS 09/11\n12 CENAS 10/11\n05 CENAS 11/11\nQUE CONTENGA 03 TIEMPOS DE PLATO DE FONDO CON ALTERNATIVA PROTEICA, ACOMPAÑAMIENTO, ENSALADA/ENTRADA, POSTRE Y BEBESTIBLE SIN ALCOHOL. CONSIDERAR VEGANO Y VEGETARIANO SERVIDOS A LAS 19:30 HRS EN LA CIUDAD DE COYHAIQUE"
-    ],
-    [
-     "90111801",
-     "Habitación sencilla",
-     11,
-     "04 HABITACIONES SINGLES (RELATORES) SRES. ALICIA FOXLEY Y JOSE LUIS ROMERO 09 Y 10 DE NOVIEMBRE.\n03 HABITACIONES SINGLES DOC. SRA. ROMINA ESCARATE 08 AL 10 DE NOVIEMBRE.\n01 HABITACION SINGLE SR. FRANCO NUÑEZ EL 09 DE NOVIEMBRE.\n02 HABITACION SINGLES SRA. VIVIANA DUARTE EL 09 Y 10 DE NOVIEMBRE.\n01 HABITACION SINGLE SRA. KARLA PEREIRA EL 09 DE NOVIEMBRE 2026.\nCONTAR CALEFACCION, WIFI Y BAÑO PRIVADO CON DESAYUNO CONTENER TE O CAFE Y/O JUGO, FRUTA, PAN CON AGREGADO EN LA CIUDAD DE COYHAIQUE"
-    ],
-    [
-     "90111802",
-     "Habitación doble",
-     15,
-     "04 HABIT. DOBLE PAULINO PEREZ Y ANDRES ALFARO DEL 08/11 AL 11/11\n04 HABIT. DOBLE MARIA ROJO Y A. MARIA ALIAGA DEL 08/11 AL 11/11\n02 HABIT. DOBLE JUAN C. ARANEDA Y JUAN C. SANHUEZA 09/11 AL 10/11\n02 HABIT. DOBLE MARJORIE SOLIS Y JACQUELINE PORCHE DEL 09/11 AL 10/11\n01 HABIT. DOBLE MOISES ARANEDA Y JUAN OSORIO EL 09/11\n01 HABIT. DOBLE SANDRA OSORIO Y LESLIE VILLAGRAN EL 09/11\n01 HABIT. DOBLE AQUILES MAYA  \n \nCON 02 CAMAS, CALEFAC., WIFI Y BAÑO CON DESAYUNO TE O CAFE, JUGO, FRUTA, PAN CON AGREGADO."
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1758-274-COT26",
-   "sin_detalle": false,
-   "descripcion": "SERVICIOS ALOJAMIENTOS Y ALIMENTACIÓN EN COYHAIQUE 08 AL 11 DE NOVIEMBRE 2026. EN LA SU PROPUESTA EL PROVEEDOR DEBERÁ INDICAR LA DIRECCIÓN DONDE SE ENTREGARÁ EL SERVICIO, EL CUAL DEBE ESTAR DENTRO DEL RADIO URBANO DE LA CIUDAD DE COYHAIQUE, PREFERENCIALMENTE UNA UBICACIÓN CENTRAL. SE PRIVILEGIARA PROVEEDORES QUE POSEAN CERTIFICACIÓN DE SUSTENTABILIDAD Y CUENTEN CON POLÍTICAS REUTILIZACIÓN DE SABANAS Y TOALLAS CON ALIMENTACION DE CENAS. SEGREGACION Y RES. SANITARIA. COORDIN. SRTA. LORENA ZAPATA.",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
-  {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Ventas y marketing"
-   ],
-   "nueva": false,
-   "codigo": "2495-612-COT26",
-   "nombre": "PRODUCCION CONCURSO LITERARIO",
-   "organismo": "I MUNICIPALIDAD DE COYHAIQUE",
-   "unidad": "DIRECCION DESARROLLO COMUNITARIO",
-   "monto": 2700000,
-   "cierre_iso": "2026-11-04T13:00:00-03:00",
-   "publicacion": "02-11 18:57",
-   "publicacion_iso": "2026-11-02T18:57:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "80141607",
-     "Producción de eventos",
-     1,
-     "SE REQUIERE LA COMPRA DE DIVERSOS SERVICIOS PARA CONCURSO LITERARIO, COMO DIFUSION, CAJAS ARCHIVADORAS, DIPLOMAS, RAMOS DE FLORES, ENTRE OTROS ARTICULOS, SE PREVILEGIARA PROVEEDOR DE LA COMUNA DE COYHAIQUE CON DISPONIBILIDAD INMEDIATA Y DISPOSICION A MODIFICACIONES, PRESENTAR COTIZACION SEGUN TERMINOS DE REFERENCIA"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=2495-612-COT26",
-   "sin_detalle": false,
-   "descripcion": "SE REQUIERE LA COMPRA DE DIVERSOS SERVICIOS PARA CONCURSO LITERARIO, COMO DIFUSION, CAJAS ARCHIVADORAS, DIPLOMAS, RAMOS DE FLORES, ENTRE OTROS ARTICULOS, SE PREVILEGIARA PROVEEDOR DE LA COMUNA DE COYHAIQUE CON DISPONIBILIDAD INMEDIATA Y DISPOSICION A MODIFICACIONES, PRESENTAR COTIZACION SEGUN TERMINOS DE REFERENCIA",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
   {
    "tipo": "OPORTUNIDAD",
    "motivos": [
@@ -190,6 +71,35 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=4733-450-COT26",
    "sin_detalle": false,
    "descripcion": "Se requiere contratar por un periodo de 12 meses una plataforma de streaming profesional para realización y transmisión simultanea de actividades de la radio la voz del ciprés y otros contenidos audiovisuales institucionales a través de Facebook, YouTube e Instagram permitiendo el uso de múltiples cámaras, invitados, gráficos y otras fuentes de videos, adjuntar cotización",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "difusión"
+   ],
+   "nueva": true,
+   "codigo": "1233615-928-COT26",
+   "nombre": "DMH [SOL-2026-02150] Recursos para el aprendizaje e innovación para Liceo Politécnico A-1 de Puerto Aysén",
+   "organismo": "Servicio Local de Educación Pública Aysén",
+   "unidad": "Servicio Local de Educación Pública Aysén",
+   "monto": 552590,
+   "cierre_iso": "2026-11-05T11:00:00-03:00",
+   "publicacion": "04-11 06:39",
+   "publicacion_iso": "2026-11-04T06:39:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "52161514",
+     "Audífonos",
+     1,
+     "Recursos para el aprendizaje e innovación para Liceo Politécnico A-1 de Puerto Aysén, de acuerdo a requerimiento adjunto a la presente compra (debe llenar formulario 1)"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1233615-928-COT26",
+   "sin_detalle": false,
+   "descripcion": "Estos implementos permitirán desarrollar competencias tecnológicas, comunicativas, técnicas y laborales, fomentar la creatividad, el trabajo colaborativo y la participación estudiantil, además de apoyar la difusión de las actividades institucionales y el mejoramiento de los espacios educativos.",
    "en_gracia": false,
    "desaparecida_iso": ""
   },
@@ -290,6 +200,65 @@
    "desaparecida_iso": ""
   },
   {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "difusión",
+    "publicidad"
+   ],
+   "nueva": true,
+   "codigo": "1233615-929-COT26",
+   "nombre": "DMH [SOL-2026-02150] Recursos para el aprendizaje e innovación para Liceo Politécnico A-1 de Puerto Aysén",
+   "organismo": "Servicio Local de Educación Pública Aysén",
+   "unidad": "Servicio Local de Educación Pública Aysén",
+   "monto": 600000,
+   "cierre_iso": "2026-11-05T14:30:00-03:00",
+   "publicacion": "04-11 06:50",
+   "publicacion_iso": "2026-11-04T06:50:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "82101502",
+     "Publicidad en carteles",
+     1,
+     "Recursos para el aprendizaje e innovación para Liceo Politécnico A-1 de Puerto Aysén (bandera vela y Panel araña), de acuerdo a requerimiento adjunto a la presente compra (debe llenar formulario 1)"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1233615-929-COT26",
+   "sin_detalle": false,
+   "descripcion": "Estos implementos permitirán desarrollar competencias tecnológicas, comunicativas, técnicas y laborales, fomentar la creatividad, el trabajo colaborativo y la participación estudiantil, además de apoyar la difusión de las actividades institucionales y el mejoramiento de los espacios educativos.",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "difusión"
+   ],
+   "nueva": true,
+   "codigo": "1233615-931-COT26",
+   "nombre": "DMH [SOL-2026-02150] Recursos para el aprendizaje e innovación (hidrolavadora y manguera) para Liceo Politécnico A-1 de Puerto Aysén",
+   "organismo": "Servicio Local de Educación Pública Aysén",
+   "unidad": "Servicio Local de Educación Pública Aysén",
+   "monto": 200000,
+   "cierre_iso": "2026-11-05T15:30:00-03:00",
+   "publicacion": "04-11 07:18",
+   "publicacion_iso": "2026-11-04T07:18:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "40142008",
+     "Mangueras para agua",
+     1,
+     "Recursos para el aprendizaje e innovación (Hidrolavadora y manguera) para Liceo Politécnico A-1 de Puerto Aysén, de acuerdo a requerimiento adjunto a la presente compra (debe llenar formulario 1)"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1233615-931-COT26",
+   "sin_detalle": false,
+   "descripcion": "Estos implementos permitirán desarrollar competencias tecnológicas, comunicativas, técnicas y laborales, fomentar la creatividad, el trabajo colaborativo y la participación estudiantil, además de apoyar la difusión de las actividades institucionales y el mejoramiento de los espacios educativos.",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
    "tipo": "OPORTUNIDAD",
    "motivos": [
     "Ventas y marketing"
@@ -315,6 +284,123 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=1332-40-COT26",
    "sin_detalle": false,
    "descripcion": "Contratar la implementación y gestión de un plan de medios para difundir la Campaña Regional de Conciencia Turística Aysén Patagonia a través de medios radiales, televisivos y digitales, asegurando además la continuidad operativa de la plataforma web “Aysén Eres Tú” mediante la renovación de su suscripción por 24 meses.",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "difusión"
+   ],
+   "nueva": true,
+   "codigo": "1233615-930-COT26",
+   "nombre": "DMH [SOL-2026-02150] Recursos para el aprendizaje e innovación (parlantes) para Liceo Politécnico A-1 de Puerto Aysén",
+   "organismo": "Servicio Local de Educación Pública Aysén",
+   "unidad": "Servicio Local de Educación Pública Aysén",
+   "monto": 400000,
+   "cierre_iso": "2026-11-05T16:00:00-03:00",
+   "publicacion": "04-11 07:07",
+   "publicacion_iso": "2026-11-04T07:07:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "52161512",
+     "Parlantes",
+     1,
+     "Recursos para el aprendizaje e innovación (parlantes) para Liceo Politécnico A-1 de Puerto Aysén, de acuerdo a requerimiento adjunto a la presente compra (debe llenar el formulario 1)"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1233615-930-COT26",
+   "sin_detalle": false,
+   "descripcion": "Estos implementos permitirán desarrollar competencias tecnológicas, comunicativas, técnicas y laborales, fomentar la creatividad, el trabajo colaborativo y la participación estudiantil, además de apoyar la difusión de las actividades institucionales y el mejoramiento de los espacios educativos.",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "difusión"
+   ],
+   "nueva": true,
+   "codigo": "1233615-932-COT26",
+   "nombre": "DMH [SOL-2026-02150] Recursos para el aprendizaje e innovación (focos, atriles y otros) para Liceo Politécnico A-1 de Puerto Aysén",
+   "organismo": "Servicio Local de Educación Pública Aysén",
+   "unidad": "Servicio Local de Educación Pública Aysén",
+   "monto": 425000,
+   "cierre_iso": "2026-11-05T16:30:00-03:00",
+   "publicacion": "04-11 07:29",
+   "publicacion_iso": "2026-11-04T07:29:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "39111504",
+     "Sistemas de iluminación de escenario o estudio",
+     1,
+     "Recursos para el aprendizaje e innovación (atril, focos y otros) para Liceo Politécnico A-1 de Puerto Aysén, de acuerdo a requerimiento adjunto a la presente compra (llenar formulario 1)"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1233615-932-COT26",
+   "sin_detalle": false,
+   "descripcion": "Estos implementos permitirán desarrollar competencias tecnológicas, comunicativas, técnicas y laborales, fomentar la creatividad, el trabajo colaborativo y la participación estudiantil, además de apoyar la difusión de las actividades institucionales y el mejoramiento de los espacios educativos.",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Ventas y marketing"
+   ],
+   "nueva": true,
+   "codigo": "1057062-506-COT26",
+   "nombre": "Servicio producción e instalación de carpas_URY 2495_FISABS 2373",
+   "organismo": "UNIVERSIDAD DE AYSEN",
+   "unidad": "Proyectos",
+   "monto": 1759300,
+   "cierre_iso": "2026-11-06T08:30:00-03:00",
+   "publicacion": "04-11 09:18",
+   "publicacion_iso": "2026-11-04T09:18:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "40101808",
+     "Estufas de la calefacción",
+     3,
+     "Arriendo de 3 estufas verticales para exterior a gas con carga incluida."
+    ],
+    [
+     "52101505",
+     "Alfombras sintéticas",
+     1,
+     "Arriendo de alfombra tipo pasto sintético para carpa de 14x7 y 6x3."
+    ],
+    [
+     "52121604",
+     "Mantel de mesa",
+     15,
+     "Arriendo de 15 manteles para mesas de color negro"
+    ],
+    [
+     "56101504",
+     "Sillas",
+     25,
+     "Arriendo de 25 sillas negras acolchadas"
+    ],
+    [
+     "80141607",
+     "Producción de eventos",
+     1,
+     "Montaje y desmontaje de carpa de 14x7 metros y otra de 6x3 metros con instalación de guirnalda de luces."
+    ],
+    [
+     "80141607",
+     "Producción de eventos",
+     1,
+     "Servicio de amplificación: Técnico en sonido, 2 parlantes activos con atril, Consola de audio, micrófonos inalámbricos, Atril micrófonos y Conectores varios."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1057062-506-COT26",
+   "sin_detalle": false,
+   "descripcion": "Se requiere servicio de producción el 26 de noviembre del 2026 para la Expo talento 2026 que se llevara a cabo en paseo Horn. Se requiere montaje y desmontaje de carpas. Arriendo de alfombra, estufas, sillas y manteles. Servicio de amplificación. Cotización debe indicar la especificación técnica de lo ofertado. El valor ofertado debe incluir impuestos.",
    "en_gracia": false,
    "desaparecida_iso": ""
   },
@@ -396,6 +482,62 @@
   }
  ],
  "historial": [
+  {
+   "codigo": "2495-612-COT26",
+   "nombre": "PRODUCCION CONCURSO LITERARIO",
+   "organismo": "I MUNICIPALIDAD DE COYHAIQUE",
+   "monto": 2700000,
+   "cierre_iso": "2026-11-04T13:00:00-03:00",
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Ventas y marketing"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=2495-612-COT26",
+   "primera_vista_iso": "2026-11-02T23:29:10-03:00",
+   "removida_iso": "2026-11-04T14:23:11-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
+  {
+   "codigo": "1758-276-COT26",
+   "nombre": "ALOJAMIENTOS Y ALIMENTACION JORNADA DIFUSION NUEVA POLITICA DE EDUCACION EN TERRITORIOS RURALES Y CAPACITACION DE COORD. MICROCENTROS  DOCENTES EN CISNES",
+   "organismo": "SECRETARIA REGIONAL MINISTERIAL DE EDUCACION XI REGION",
+   "monto": 250000,
+   "cierre_iso": "2026-11-04T12:00:00-03:00",
+   "tipo": "POSIBLE",
+   "motivos": [
+    "difusion",
+    "radio"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1758-276-COT26",
+   "primera_vista_iso": "2026-11-03T14:11:19-03:00",
+   "removida_iso": "2026-11-04T14:23:11-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
+  {
+   "codigo": "1758-274-COT26",
+   "nombre": "ALOJAMIENTOS Y ALIMENTACION JORNADA DIFUSION NUEVA POLITICA DE EDUCACION EN TERRITORIOS RURALES Y CAPACITACION DE COORD. MICROCENTROS EN COYHAIQUE",
+   "organismo": "SECRETARIA REGIONAL MINISTERIAL DE EDUCACION XI REGION",
+   "monto": 4284000,
+   "cierre_iso": "2026-11-04T12:00:00-03:00",
+   "tipo": "POSIBLE",
+   "motivos": [
+    "difusion",
+    "radio"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1758-274-COT26",
+   "primera_vista_iso": "2026-11-03T14:11:19-03:00",
+   "removida_iso": "2026-11-04T14:23:11-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
   {
    "codigo": "1758-273-COT26",
    "nombre": "CAFETERIA JORNADA DIFUSION NUEVA POLITICA DE EDUCACION EN TERRITORIOS RURALES Y CAPACITACION DE COORD. MICROCENTROS EN COYHAIQUE",
@@ -971,42 +1113,6 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=1282238-82-COT26",
    "primera_vista_iso": "2026-10-27T12:27:37-03:00",
    "removida_iso": "2026-10-28T18:12:20-03:00",
-   "estado_api": "",
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "854-29-COT26",
-   "nombre": "Impresión de volantes (flyers)  JUNJI XI.",
-   "organismo": "JUNTA NACIONAL DE JARDINES         INFANTILES",
-   "monto": 300000,
-   "cierre_iso": "2026-10-28T12:00:00-03:00",
-   "tipo": "POSIBLE",
-   "motivos": [
-    "publicitaria"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=854-29-COT26",
-   "primera_vista_iso": "2026-10-26T13:13:41-03:00",
-   "removida_iso": "2026-10-28T13:11:01-03:00",
-   "estado_api": "",
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "2495-586-COT26",
-   "nombre": "Servicio de difusión radial de cápsulas informativas del Centro de las Mujeres de Coyhaique",
-   "organismo": "I MUNICIPALIDAD DE COYHAIQUE",
-   "monto": 200000,
-   "cierre_iso": "2026-10-28T12:00:00-03:00",
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Servicios de radio"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=2495-586-COT26",
-   "primera_vista_iso": "2026-10-27T12:27:37-03:00",
-   "removida_iso": "2026-10-28T13:11:01-03:00",
    "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,

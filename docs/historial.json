@@ -1,25 +1,4 @@
 {
- "854-29-COT26": {
-  "codigo": "854-29-COT26",
-  "nombre": "Impresión de volantes (flyers)  JUNJI XI.",
-  "organismo": "JUNTA NACIONAL DE JARDINES         INFANTILES",
-  "unidad": "Junji - XI Región",
-  "monto": 300000,
-  "cierre_iso": "2026-10-28T12:00:00-03:00",
-  "tipo": "POSIBLE",
-  "motivos": [
-   "publicitaria"
-  ],
-  "link": "https://buscador.mercadopublico.cl/ficha?code=854-29-COT26",
-  "primera_vista_iso": "2026-10-26T13:13:41-03:00",
-  "ultima_activa_iso": "2026-10-28T02:58:43-03:00",
-  "removida_iso": "2026-10-28T13:11:01-03:00",
-  "estado_api": "",
-  "adj_nombre": null,
-  "adj_monto": null,
-  "adj_iso": null,
-  "adj_revisado_iso": "2026-11-03T23:29:29-03:00"
- },
  "2495-584-COT26": {
   "codigo": "2495-584-COT26",
   "nombre": "ADQUISICIÓN DE MATERIALES PARA LA DIFUSIÓN DEL PROGRAMA SENDA PREVIENE 2026 ",
@@ -40,7 +19,7 @@
   "adj_nombre": null,
   "adj_monto": null,
   "adj_iso": null,
-  "adj_revisado_iso": "2026-11-03T23:29:29-03:00"
+  "adj_revisado_iso": "2026-11-04T14:23:11-03:00"
  },
  "1208109-24-COT26": {
   "codigo": "1208109-24-COT26",
@@ -61,28 +40,7 @@
   "adj_nombre": null,
   "adj_monto": null,
   "adj_iso": null,
-  "adj_revisado_iso": "2026-11-03T23:29:29-03:00"
- },
- "2495-586-COT26": {
-  "codigo": "2495-586-COT26",
-  "nombre": "Servicio de difusión radial de cápsulas informativas del Centro de las Mujeres de Coyhaique",
-  "organismo": "I MUNICIPALIDAD DE COYHAIQUE",
-  "unidad": "DIRECCION DESARROLLO COMUNITARIO",
-  "monto": 200000,
-  "cierre_iso": "2026-10-28T12:00:00-03:00",
-  "tipo": "OPORTUNIDAD",
-  "motivos": [
-   "Servicios de radio"
-  ],
-  "link": "https://buscador.mercadopublico.cl/ficha?code=2495-586-COT26",
-  "primera_vista_iso": "2026-10-27T12:27:37-03:00",
-  "ultima_activa_iso": "2026-10-28T02:58:43-03:00",
-  "removida_iso": "2026-10-28T13:11:01-03:00",
-  "estado_api": "",
-  "adj_nombre": null,
-  "adj_monto": null,
-  "adj_iso": null,
-  "adj_revisado_iso": "2026-11-03T19:24:45-03:00"
+  "adj_revisado_iso": "2026-11-04T14:23:11-03:00"
  },
  "1282238-79-COT26": {
   "codigo": "1282238-79-COT26",
@@ -103,7 +61,7 @@
   "adj_nombre": null,
   "adj_monto": null,
   "adj_iso": null,
-  "adj_revisado_iso": "2026-11-03T19:24:45-03:00"
+  "adj_revisado_iso": "2026-11-04T14:23:11-03:00"
  },
  "1282238-82-COT26": {
   "codigo": "1282238-82-COT26",
@@ -124,7 +82,7 @@
   "adj_nombre": null,
   "adj_monto": null,
   "adj_iso": null,
-  "adj_revisado_iso": "2026-11-03T19:24:45-03:00"
+  "adj_revisado_iso": "2026-11-04T14:23:11-03:00"
  },
  "1092-74-COT26": {
   "codigo": "1092-74-COT26",
@@ -146,7 +104,7 @@
   "adj_nombre": null,
   "adj_monto": null,
   "adj_iso": null,
-  "adj_revisado_iso": "2026-11-03T19:24:45-03:00"
+  "adj_revisado_iso": "2026-11-04T14:23:11-03:00"
  },
  "2494-277-COT26": {
   "codigo": "2494-277-COT26",
@@ -499,7 +457,7 @@
   ],
   "link": "https://buscador.mercadopublico.cl/ficha?code=1426103-29-COT26",
   "primera_vista_iso": "2026-10-29T18:15:57-03:00",
-  "ultima_activa_iso": "2026-11-03T23:29:29-03:00",
+  "ultima_activa_iso": "2026-11-04T14:23:11-03:00",
   "removida_iso": null,
   "estado_api": null,
   "adj_nombre": null,
@@ -521,7 +479,7 @@
   ],
   "link": "https://buscador.mercadopublico.cl/ficha?code=1426103-27-COT26",
   "primera_vista_iso": "2026-10-29T18:15:57-03:00",
-  "ultima_activa_iso": "2026-11-03T23:29:29-03:00",
+  "ultima_activa_iso": "2026-11-04T14:23:11-03:00",
   "removida_iso": null,
   "estado_api": null,
   "adj_nombre": null,
@@ -628,7 +586,7 @@
   ],
   "link": "https://buscador.mercadopublico.cl/ficha?code=3765-323-COT26",
   "primera_vista_iso": "2026-10-30T17:56:18-03:00",
-  "ultima_activa_iso": "2026-11-03T23:29:29-03:00",
+  "ultima_activa_iso": "2026-11-04T14:23:11-03:00",
   "removida_iso": null,
   "estado_api": null,
   "adj_nombre": null,
@@ -798,7 +756,7 @@
   ],
   "link": "https://buscador.mercadopublico.cl/ficha?code=4733-450-COT26",
   "primera_vista_iso": "2026-11-02T16:38:38-03:00",
-  "ultima_activa_iso": "2026-11-03T23:29:29-03:00",
+  "ultima_activa_iso": "2026-11-04T14:23:11-03:00",
   "removida_iso": null,
   "estado_api": null,
   "adj_nombre": null,
@@ -820,7 +778,7 @@
   "link": "https://buscador.mercadopublico.cl/ficha?code=2495-612-COT26",
   "primera_vista_iso": "2026-11-02T23:29:10-03:00",
   "ultima_activa_iso": "2026-11-03T23:29:29-03:00",
-  "removida_iso": null,
+  "removida_iso": "2026-11-04T14:23:11-03:00",
   "estado_api": null,
   "adj_nombre": null,
   "adj_monto": null,
@@ -842,7 +800,7 @@
   "link": "https://buscador.mercadopublico.cl/ficha?code=1758-276-COT26",
   "primera_vista_iso": "2026-11-03T14:11:19-03:00",
   "ultima_activa_iso": "2026-11-03T23:29:29-03:00",
-  "removida_iso": null,
+  "removida_iso": "2026-11-04T14:23:11-03:00",
   "estado_api": null,
   "adj_nombre": null,
   "adj_monto": null,
@@ -864,7 +822,7 @@
   "link": "https://buscador.mercadopublico.cl/ficha?code=1758-274-COT26",
   "primera_vista_iso": "2026-11-03T14:11:19-03:00",
   "ultima_activa_iso": "2026-11-03T23:29:29-03:00",
-  "removida_iso": null,
+  "removida_iso": "2026-11-04T14:23:11-03:00",
   "estado_api": null,
   "adj_nombre": null,
   "adj_monto": null,
@@ -884,7 +842,7 @@
   ],
   "link": "https://buscador.mercadopublico.cl/ficha?code=1057062-499-COT26",
   "primera_vista_iso": "2026-11-03T19:24:45-03:00",
-  "ultima_activa_iso": "2026-11-03T23:29:29-03:00",
+  "ultima_activa_iso": "2026-11-04T14:23:11-03:00",
   "removida_iso": null,
   "estado_api": null,
   "adj_nombre": null,
@@ -905,7 +863,7 @@
   ],
   "link": "https://buscador.mercadopublico.cl/ficha?code=1332-40-COT26",
   "primera_vista_iso": "2026-11-03T19:24:45-03:00",
-  "ultima_activa_iso": "2026-11-03T23:29:29-03:00",
+  "ultima_activa_iso": "2026-11-04T14:23:11-03:00",
   "removida_iso": null,
   "estado_api": null,
   "adj_nombre": null,
@@ -926,7 +884,7 @@
   ],
   "link": "https://buscador.mercadopublico.cl/ficha?code=2495-620-COT26",
   "primera_vista_iso": "2026-11-03T19:24:45-03:00",
-  "ultima_activa_iso": "2026-11-03T23:29:29-03:00",
+  "ultima_activa_iso": "2026-11-04T14:23:11-03:00",
   "removida_iso": null,
   "estado_api": null,
   "adj_nombre": null,
@@ -947,7 +905,134 @@
   ],
   "link": "https://buscador.mercadopublico.cl/ficha?code=918434-328-COT26",
   "primera_vista_iso": "2026-11-03T19:24:45-03:00",
-  "ultima_activa_iso": "2026-11-03T23:29:29-03:00",
+  "ultima_activa_iso": "2026-11-04T14:23:11-03:00",
+  "removida_iso": null,
+  "estado_api": null,
+  "adj_nombre": null,
+  "adj_monto": null,
+  "adj_iso": null,
+  "adj_revisado_iso": null
+ },
+ "1233615-928-COT26": {
+  "codigo": "1233615-928-COT26",
+  "nombre": "DMH [SOL-2026-02150] Recursos para el aprendizaje e innovación para Liceo Politécnico A-1 de Puerto Aysén",
+  "organismo": "Servicio Local de Educación Pública Aysén",
+  "unidad": "Servicio Local de Educación Pública Aysén",
+  "monto": 552590,
+  "cierre_iso": "2026-11-05T11:00:00-03:00",
+  "tipo": "POSIBLE",
+  "motivos": [
+   "difusión"
+  ],
+  "link": "https://buscador.mercadopublico.cl/ficha?code=1233615-928-COT26",
+  "primera_vista_iso": "2026-11-04T14:23:11-03:00",
+  "ultima_activa_iso": "2026-11-04T14:23:11-03:00",
+  "removida_iso": null,
+  "estado_api": null,
+  "adj_nombre": null,
+  "adj_monto": null,
+  "adj_iso": null,
+  "adj_revisado_iso": null
+ },
+ "1233615-929-COT26": {
+  "codigo": "1233615-929-COT26",
+  "nombre": "DMH [SOL-2026-02150] Recursos para el aprendizaje e innovación para Liceo Politécnico A-1 de Puerto Aysén",
+  "organismo": "Servicio Local de Educación Pública Aysén",
+  "unidad": "Servicio Local de Educación Pública Aysén",
+  "monto": 600000,
+  "cierre_iso": "2026-11-05T14:30:00-03:00",
+  "tipo": "POSIBLE",
+  "motivos": [
+   "difusión",
+   "publicidad"
+  ],
+  "link": "https://buscador.mercadopublico.cl/ficha?code=1233615-929-COT26",
+  "primera_vista_iso": "2026-11-04T14:23:11-03:00",
+  "ultima_activa_iso": "2026-11-04T14:23:11-03:00",
+  "removida_iso": null,
+  "estado_api": null,
+  "adj_nombre": null,
+  "adj_monto": null,
+  "adj_iso": null,
+  "adj_revisado_iso": null
+ },
+ "1233615-931-COT26": {
+  "codigo": "1233615-931-COT26",
+  "nombre": "DMH [SOL-2026-02150] Recursos para el aprendizaje e innovación (hidrolavadora y manguera) para Liceo Politécnico A-1 de Puerto Aysén",
+  "organismo": "Servicio Local de Educación Pública Aysén",
+  "unidad": "Servicio Local de Educación Pública Aysén",
+  "monto": 200000,
+  "cierre_iso": "2026-11-05T15:30:00-03:00",
+  "tipo": "POSIBLE",
+  "motivos": [
+   "difusión"
+  ],
+  "link": "https://buscador.mercadopublico.cl/ficha?code=1233615-931-COT26",
+  "primera_vista_iso": "2026-11-04T14:23:11-03:00",
+  "ultima_activa_iso": "2026-11-04T14:23:11-03:00",
+  "removida_iso": null,
+  "estado_api": null,
+  "adj_nombre": null,
+  "adj_monto": null,
+  "adj_iso": null,
+  "adj_revisado_iso": null
+ },
+ "1233615-930-COT26": {
+  "codigo": "1233615-930-COT26",
+  "nombre": "DMH [SOL-2026-02150] Recursos para el aprendizaje e innovación (parlantes) para Liceo Politécnico A-1 de Puerto Aysén",
+  "organismo": "Servicio Local de Educación Pública Aysén",
+  "unidad": "Servicio Local de Educación Pública Aysén",
+  "monto": 400000,
+  "cierre_iso": "2026-11-05T16:00:00-03:00",
+  "tipo": "POSIBLE",
+  "motivos": [
+   "difusión"
+  ],
+  "link": "https://buscador.mercadopublico.cl/ficha?code=1233615-930-COT26",
+  "primera_vista_iso": "2026-11-04T14:23:11-03:00",
+  "ultima_activa_iso": "2026-11-04T14:23:11-03:00",
+  "removida_iso": null,
+  "estado_api": null,
+  "adj_nombre": null,
+  "adj_monto": null,
+  "adj_iso": null,
+  "adj_revisado_iso": null
+ },
+ "1233615-932-COT26": {
+  "codigo": "1233615-932-COT26",
+  "nombre": "DMH [SOL-2026-02150] Recursos para el aprendizaje e innovación (focos, atriles y otros) para Liceo Politécnico A-1 de Puerto Aysén",
+  "organismo": "Servicio Local de Educación Pública Aysén",
+  "unidad": "Servicio Local de Educación Pública Aysén",
+  "monto": 425000,
+  "cierre_iso": "2026-11-05T16:30:00-03:00",
+  "tipo": "POSIBLE",
+  "motivos": [
+   "difusión"
+  ],
+  "link": "https://buscador.mercadopublico.cl/ficha?code=1233615-932-COT26",
+  "primera_vista_iso": "2026-11-04T14:23:11-03:00",
+  "ultima_activa_iso": "2026-11-04T14:23:11-03:00",
+  "removida_iso": null,
+  "estado_api": null,
+  "adj_nombre": null,
+  "adj_monto": null,
+  "adj_iso": null,
+  "adj_revisado_iso": null
+ },
+ "1057062-506-COT26": {
+  "codigo": "1057062-506-COT26",
+  "nombre": "Servicio producción e instalación de carpas_URY 2495_FISABS 2373",
+  "organismo": "UNIVERSIDAD DE AYSEN",
+  "unidad": "Proyectos",
+  "monto": 1759300,
+  "cierre_iso": "2026-11-06T08:30:00-03:00",
+  "tipo": "OPORTUNIDAD",
+  "motivos": [
+   "Ventas y marketing"
+  ],
+  "link": "https://buscador.mercadopublico.cl/ficha?code=1057062-506-COT26",
+  "primera_vista_iso": "2026-11-04T14:23:11-03:00",
+  "ultima_activa_iso": "2026-11-04T14:23:11-03:00",
   "removida_iso": null,
   "estado_api": null,
   "adj_nombre": null,
