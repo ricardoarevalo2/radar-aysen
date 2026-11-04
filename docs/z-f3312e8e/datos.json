@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-11-04T14:23:11.581773-03:00",
+ "actualizado": "2026-11-04T19:43:04.597711-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
- "total_region": 302,
+ "total_region": 307,
  "rubros": {
   "25172700": "Aire acondicionado",
   "25173900": "Componentes eléctricos",
@@ -56,7 +56,7 @@
     "eléctrico",
     "iluminación"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "1428275-43-COT26",
    "nombre": "LUCES DE EMERGENCIA”",
    "organismo": "SERVICIO NACIONAL DEL PATRIMONIO CULTURAL",
@@ -85,7 +85,7 @@
    "motivos": [
     "generador"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "1403-470-COT26",
    "nombre": "ADQ. PETROLEO PARA GENERADOR EMERGENCIA CCP COYHAIQUE",
    "organismo": "Dirección Regional de Gendarmeria - Coyhaique",
@@ -114,7 +114,7 @@
    "motivos": [
     "Interruptores, controles y relés"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "5194-599-COT26",
    "nombre": "PROYECTO BIENESTAR SOCIAL - CDP PUERTO AYSEN",
    "organismo": "Servicio de Bienestar Social",
@@ -604,7 +604,7 @@
    "motivos": [
     "eléctrico"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "1057062-502-COT26",
    "nombre": "Adquisición herramientas de construcción e insumos varios carrera T.O. [FISABS 2375, URY 24991]",
    "organismo": "UNIVERSIDAD DE AYSEN",
@@ -1005,7 +1005,7 @@
     "certificación sec",
     "eléctrico"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "886182-239-COT26",
    "nombre": "Adquisición de 2 estufas de calefacción eléctrica_FISABS 2225",
    "organismo": "UNIVERSIDAD DE AYSEN",
@@ -1251,6 +1251,41 @@
     "Gasfitería, calefacción y aire acondicionado"
    ],
    "nueva": true,
+   "codigo": "791766-36-COT26",
+   "nombre": "Servicio de reparación de cubierta de bodega y mantención de cuatro equipos de aire acondicionado tipo split del CAVD de Coyhaique",
+   "organismo": "SUBSECRETARIA DE PREVENCION DEL DELITO",
+   "unidad": "Programa de Atencion a Victimas",
+   "monto": 1500000,
+   "cierre_iso": "2026-11-06T14:00:00-03:00",
+   "publicacion": "04-11 18:23",
+   "publicacion_iso": "2026-11-04T18:23:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "72101605",
+     "Levantamiento o reparación de techos",
+     1,
+     "Reparación de cubierta de bodega ubicada en Baquedano N.° 835, Coyhaique, con una superficie aproximada de 15 m². El servicio considera retiro de planchas existentes, reemplazo de planchas transparentes, instalación de membrana hidrófuga, planchas de zinc de espesor igual o superior a 0,40 mm, fijaciones, cumbreras, cierres laterales, botaguas y sellos necesarios. Debe incluir garantía mínima de un año y retiro total de escombros."
+    ],
+    [
+     "72102305",
+     "Servicios de reparación, mantenimiento o reparación de aire acondicionado",
+     4,
+     "Mantención preventiva integral de equipos de aire acondicionado tipo Split. El servicio considera limpieza y desinfección de unidades interiores y exteriores, revisión de filtros, serpentines, desagües, soportes, aislamiento térmico y parámetros de funcionamiento. Debe considerar informe técnico individual por equipo con registro fotográfico y lecturas técnicas, identificación de componentes defectuosos con cotización asociada y manejo de desechos resultantes del servicio."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=791766-36-COT26",
+   "sin_detalle": false,
+   "descripcion": "E102RT9 Según lo establecido en el numeral 2, \"Descripción del requerimiento\".",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Gasfitería, calefacción y aire acondicionado"
+   ],
+   "nueva": false,
    "codigo": "761-211-COT26",
    "nombre": " Mantencion preventiva equipos de aire acondicinado URS Aysén. E12643/2026",
    "organismo": "SUBSECRETARIA DE DESARROLLO REGIONAL Y ADMINISTRATIVO",
@@ -1271,6 +1306,35 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=761-211-COT26",
    "sin_detalle": false,
    "descripcion": "e solicita visita obligatoria en día jueves 05 de noviembre a las 11:00 hrs., en la oficina de la Unidad Regional de Aysén, ubicada en 21 de Mayo N° 466, 4° Piso, oficina 415, Coyhaique.",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "instalaciones eléctricas"
+   ],
+   "nueva": true,
+   "codigo": "1079689-526-COT26",
+   "nombre": "ADQUISICIÓN SERVICIO INSTALACIÓN PISO FLOTANTE, MEJORAMIENTO INSTALACIONES ELÉCTRICAS Y FABRICACIÓN ESTANTERÍAS CON MATERIALES INCLUIDOS PARA LA A.F. 094 DE LA 1RA. CO MISARÍA COYHAIQUE.",
+   "organismo": "SECCIÓN COMPRAS XI ZONA",
+   "unidad": "SEC DE COMP ZONA AYSÉN DEL GRAL CARL IBAÑ DEL CAMP",
+   "monto": 3923100,
+   "cierre_iso": "2026-11-09T15:00:00-03:00",
+   "publicacion": "04-11 15:59",
+   "publicacion_iso": "2026-11-04T15:59:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "24102004",
+     "Estanterías para almacenaje",
+     1,
+     "ADQUISICIÓN SERVICIO INSTALACIÓN PISO FLOTANTE, MEJORAMIENTO INSTALACIONES ELÉCTRICAS Y FABRICACIÓN ESTANTERÍAS CON MATERIALES INCLUIDOS PARA LA A.F. 094 DE LA 1RA. CO MISARÍA COYHAIQUE CONFORME A ANEXO DE REQUERIMIENTOS TÉCNICOS QUE SE ADJUNTA."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1079689-526-COT26",
+   "sin_detalle": false,
+   "descripcion": "ADQUISICIÓN SERVICIO INSTALACIÓN PISO FLOTANTE, MEJORAMIENTO INSTALACIONES ELÉCTRICAS Y FABRICACIÓN ESTANTERÍAS CON MATERIALES INCLUIDOS PARA A.F. 094 DE LA 1RA. COM. COYHAIQUE. CON VISITA EN TERRENO OBLIGATORIA DÍA VIERNES 06.11.2026, A LAS 15:30 HRS EN BAQUEDANO NR. 534 COYHAIQUE A CARGO DEL SUBOF. JORGE HORMAZABAL CONCHA O QUIEN LO SUBROGUE. INDICAR PLAZO DE ENTREGA. ADJUNTAR ANEXO VISITA EN TERRENO COMPLETADO, ANEXO REQUERIMIENTOS TÉCNICOS Y COTIZACIÓN, DE NO SER ADJUNTADOS NO SERÁ EVALUADO.",
    "en_gracia": false,
    "desaparecida_iso": ""
   }
@@ -1835,7 +1899,7 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=1282238-81-COT26",
    "primera_vista_iso": "2026-10-27T12:27:37-03:00",
    "removida_iso": "2026-10-29T13:17:18-03:00",
-   "estado_api": null,
+   "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,
    "adj_iso": null
@@ -1871,42 +1935,6 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=4066-419-COT26",
    "primera_vista_iso": "2026-10-13T15:51:46-03:00",
    "removida_iso": "2026-10-29T13:17:18-03:00",
-   "estado_api": "",
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "657-96-COT26",
-   "nombre": "insumos para generador CATEPILLAR",
-   "organismo": "SERVICIO DE VIVIENDA Y URBANIZACION XI REGION",
-   "monto": 693770,
-   "cierre_iso": "2026-10-28T18:00:00-03:00",
-   "tipo": "POSIBLE",
-   "motivos": [
-    "generador"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=657-96-COT26",
-   "primera_vista_iso": "2026-10-27T20:52:30-03:00",
-   "removida_iso": "2026-10-28T18:12:20-03:00",
-   "estado_api": null,
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "1274667-416-COT26",
-   "nombre": "SOLICITA SERVICIO DE INSTALACION DE CLIMATIZADOR EXISTENTE TIPO SPLIT PARA CENTRO DE SALUD FAMILIAR PUERTO AYSÉN",
-   "organismo": "CENTRO DE SALUD FAMILIAR PUERTO AYSÉN",
-   "monto": 250000,
-   "cierre_iso": "2026-10-28T14:32:00-03:00",
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Gasfitería, calefacción y aire acondicionado"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1274667-416-COT26",
-   "primera_vista_iso": "2026-10-26T13:13:41-03:00",
-   "removida_iso": "2026-10-28T18:12:20-03:00",
    "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,
