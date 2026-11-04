@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-11-03T19:24:45.161259-03:00",
+ "actualizado": "2026-11-03T23:29:29.485372-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
- "total_region": 306,
+ "total_region": 307,
  "rubros": {
   "80141600": "Ventas y marketing",
   "82101600": "Publicidad en medios no impresos",
@@ -109,7 +109,7 @@
    "motivos": [
     "Ventas y marketing"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "2495-612-COT26",
    "nombre": "PRODUCCION CONCURSO LITERARIO",
    "organismo": "I MUNICIPALIDAD DE COYHAIQUE",
@@ -880,7 +880,7 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=4803-174-COT26",
    "primera_vista_iso": "2026-10-28T13:11:01-03:00",
    "removida_iso": "2026-10-29T18:15:57-03:00",
-   "estado_api": null,
+   "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,
    "adj_iso": null
@@ -916,7 +916,7 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=418-1716-COT26",
    "primera_vista_iso": "2026-10-28T13:11:01-03:00",
    "removida_iso": "2026-10-29T13:17:18-03:00",
-   "estado_api": null,
+   "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,
    "adj_iso": null
