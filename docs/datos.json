@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-11-05T00:34:58.353344-03:00",
+ "actualizado": "2026-11-05T14:29:51.583199-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
- "total_region": 308,
+ "total_region": 297,
  "rubros": {
   "80141600": "Ventas y marketing",
   "82101600": "Publicidad en medios no impresos",
@@ -17,166 +17,10 @@
   {
    "tipo": "POSIBLE",
    "motivos": [
-    "audiovisuales",
-    "radio",
-    "streaming"
-   ],
-   "nueva": false,
-   "codigo": "4733-450-COT26",
-   "nombre": "SERVICIO DE PLATAFORMA STREAMING Y TRANSMISION MULTICANAL POR 12 MESES",
-   "organismo": "I MUNICIPALIDAD DE LAS GUAITECAS",
-   "unidad": "I MUNICIPALIDAD DE LAS GUAITECAS",
-   "monto": 550000,
-   "cierre_iso": "2026-11-05T08:00:00-03:00",
-   "publicacion": "02-11 15:27",
-   "publicacion_iso": "2026-11-02T15:27:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "43232915",
-     "Software de interconectividad de plataformas",
-     1,
-     "SUSCRIPCIÓN ANUAL PLATAFORMA DE STREAMING MULTICANAL"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=4733-450-COT26",
-   "sin_detalle": false,
-   "descripcion": "Se requiere contratar por un periodo de 12 meses una plataforma de streaming profesional para realización y transmisión simultanea de actividades de la radio la voz del ciprés y otros contenidos audiovisuales institucionales a través de Facebook, YouTube e Instagram permitiendo el uso de múltiples cámaras, invitados, gráficos y otras fuentes de videos, adjuntar cotización",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "difusión"
-   ],
-   "nueva": true,
-   "codigo": "1233615-928-COT26",
-   "nombre": "DMH [SOL-2026-02150] Recursos para el aprendizaje e innovación para Liceo Politécnico A-1 de Puerto Aysén",
-   "organismo": "Servicio Local de Educación Pública Aysén",
-   "unidad": "Servicio Local de Educación Pública Aysén",
-   "monto": 552590,
-   "cierre_iso": "2026-11-05T11:00:00-03:00",
-   "publicacion": "04-11 06:39",
-   "publicacion_iso": "2026-11-04T06:39:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "52161514",
-     "Audífonos",
-     1,
-     "Recursos para el aprendizaje e innovación para Liceo Politécnico A-1 de Puerto Aysén, de acuerdo a requerimiento adjunto a la presente compra (debe llenar formulario 1)"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1233615-928-COT26",
-   "sin_detalle": false,
-   "descripcion": "Estos implementos permitirán desarrollar competencias tecnológicas, comunicativas, técnicas y laborales, fomentar la creatividad, el trabajo colaborativo y la participación estudiantil, además de apoyar la difusión de las actividades institucionales y el mejoramiento de los espacios educativos.",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "difusión",
-    "publicidad",
-    "publicitarios"
-   ],
-   "nueva": false,
-   "codigo": "1426103-29-COT26",
-   "nombre": "Adquisición de folletería, afiches y carteles de publicidad de la  Dirección Regional de Aysén",
-   "organismo": "SERVICIO NACIONAL DE REINSERCION SOCIAL JUVENIL",
-   "unidad": "DIRECCIÓN REGIONAL DE AYSÉN",
-   "monto": 360000,
-   "cierre_iso": "2026-11-05T12:00:00-03:00",
-   "publicacion": "29-10 17:25",
-   "publicacion_iso": "2026-10-29T17:25:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "82101507",
-     "Folletos y catálogos publicitarios, servicios de publicidad y distribución",
-     1,
-     "Folletería, afiches y cartel según especificaciones de TTR adjuntas."
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1426103-29-COT26",
-   "sin_detalle": false,
-   "descripcion": "La adquisición de estos folletos, afiches y cartel responde a la necesidad de fortalecer la comunicación y difusión de las actividades que se desarrollan en la Dirección Regional de Aysén, perteneciente al Servicio Nacional de Reinserción Social Juvenil.",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "difusión",
-    "publicitarios"
-   ],
-   "nueva": false,
-   "codigo": "1426103-27-COT26",
-   "nombre": "Adquisición de pendones y panel araña publicitarios para la Dirección Regional de Aysén ",
-   "organismo": "SERVICIO NACIONAL DE REINSERCION SOCIAL JUVENIL",
-   "unidad": "DIRECCIÓN REGIONAL DE AYSÉN",
-   "monto": 380000,
-   "cierre_iso": "2026-11-05T12:00:00-03:00",
-   "publicacion": "29-10 17:23",
-   "publicacion_iso": "2026-10-29T17:23:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "82101501",
-     "Letreros publicitarios",
-     1,
-     "Pendones roller y panel araña publicitarios según especificaciones de TTR adjuntas."
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1426103-27-COT26",
-   "sin_detalle": false,
-   "descripcion": "La adquisición de estos pendones y panel araña responde a la necesidad de fortalecer la identidad visual institucional, apoyar las acciones de comunicación y difusión, y así contribuir a la adecuada implementación de material gráfico y señaléticas de la Dirección Regional de Aysén, perteneciente al Servicio Nacional de Reinserción Social Juvenil.",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "publicitarios"
-   ],
-   "nueva": false,
-   "codigo": "3765-323-COT26",
-   "nombre": "INSUMOS PARA PRESENTACIÓN DE STANDS EDUCATIVOS",
-   "organismo": "SERVICIO NACIONAL DE SALUD HOSPITAL DE C",
-   "unidad": "Hospital Doctor  Leopoldo Ortega Rodríguez",
-   "monto": 100000,
-   "cierre_iso": "2026-11-05T13:04:00-03:00",
-   "publicacion": "30-10 14:55",
-   "publicacion_iso": "2026-10-30T14:55:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "31281521",
-     "Estampados revestidos",
-     1,
-     "MANTEL DE 2 METROS DE LARGO X 1.70 METROS DE ALTO X 60CM DE ANCHO COLOR AZUL REY (DISEÑO ADJUNTO)"
-    ],
-    [
-     "82101501",
-     "Letreros publicitarios",
-     1,
-     "PENDON ROLER DE 1.70 METROS DE ALTO X 60 CENTIMETROS DE ANCHO (DISEÑO ADJUNTO)"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=3765-323-COT26",
-   "sin_detalle": false,
-   "descripcion": "COMPRA DE PENDON Y MANTEL PARA PRESENTACIÓN DE STANDS EDUCATIVOS HLOR. LAS COTIZACIONES INGRESADAS DEBERÁN ENVIAR IMAGENES REFERENCIALES DEL PRODUCTO OFERTADO. LAS COTIZACIONES QUEDARÁN SUETAS AL DISEÑO PRESENTADO.",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
     "difusión",
     "publicidad"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "1233615-929-COT26",
    "nombre": "DMH [SOL-2026-02150] Recursos para el aprendizaje e innovación para Liceo Politécnico A-1 de Puerto Aysén",
    "organismo": "Servicio Local de Educación Pública Aysén",
@@ -205,7 +49,7 @@
    "motivos": [
     "difusión"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "1233615-931-COT26",
    "nombre": "DMH [SOL-2026-02150] Recursos para el aprendizaje e innovación (hidrolavadora y manguera) para Liceo Politécnico A-1 de Puerto Aysén",
    "organismo": "Servicio Local de Educación Pública Aysén",
@@ -293,7 +137,7 @@
    "motivos": [
     "difusión"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "1233615-930-COT26",
    "nombre": "DMH [SOL-2026-02150] Recursos para el aprendizaje e innovación (parlantes) para Liceo Politécnico A-1 de Puerto Aysén",
    "organismo": "Servicio Local de Educación Pública Aysén",
@@ -370,7 +214,7 @@
    "motivos": [
     "difusión"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "1233615-932-COT26",
    "nombre": "DMH [SOL-2026-02150] Recursos para el aprendizaje e innovación (focos, atriles y otros) para Liceo Politécnico A-1 de Puerto Aysén",
    "organismo": "Servicio Local de Educación Pública Aysén",
@@ -428,7 +272,7 @@
    "motivos": [
     "Ventas y marketing"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "1057062-506-COT26",
    "nombre": "Servicio producción e instalación de carpas_URY 2495_FISABS 2373",
    "organismo": "UNIVERSIDAD DE AYSEN",
@@ -562,6 +406,96 @@
   {
    "tipo": "POSIBLE",
    "motivos": [
+    "difusión",
+    "publicitario",
+    "publicitarios"
+   ],
+   "nueva": true,
+   "codigo": "1428275-48-COT26",
+   "nombre": "IMPRESIÓN DE PENDONES",
+   "organismo": "SERVICIO NACIONAL DEL PATRIMONIO CULTURAL",
+   "unidad": "DIRECCIÓN REGIONAL DE AYSEN",
+   "monto": 160000,
+   "cierre_iso": "2026-11-06T12:50:00-03:00",
+   "publicacion": "05-11 12:45",
+   "publicacion_iso": "2026-11-05T12:45:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "82101501",
+     "Letreros publicitarios",
+     1,
+     "Impresión de Pendón publicitario “Laboratorio de Capacitación” roller retráctil de 100x200 cms, con impresión a color de tela PVC o tela sintética de alta resistencia. Alta resolución con estructura metálica, autoestable y de buena estabilidad, con bolso transportador.\nEl diseño será entregado una vez adjudicada la Orden de Compra"
+    ],
+    [
+     "82101501",
+     "Letreros publicitarios",
+     1,
+     "Impresión de Pendón trípode publicitario “Día del patrimonio” con gráfica 80x180 cms, con impresión a color en tela PVC matte de 13oz. Soporte de aluminio y plástico ABS y con bolso de transporte.\nEl diseño será entregado una vez adjudicada la Orden de Compra"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1428275-48-COT26",
+   "sin_detalle": false,
+   "descripcion": "El Laboratorio de Capacitaciones de la Biblioteca Regional de Aysén dependiente del Servicio Nacional del Patrimonio Cultural de Aysén, requiere la adquisición de “Impresión de pendones”, con el propósito de fortalecer la identidad e imagen corporativa del Servicio en actividades, ceremonias, encuentros y diversas instancias de difusión; con las características que se indican en archivo adjunto.",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "publicitaria"
+   ],
+   "nueva": true,
+   "codigo": "1521-86-COT26",
+   "nombre": "Material Grafico asociado a la Feria de Buenas Practicas de Desarrollo Profesional Docente",
+   "organismo": "Departamento Provincial de Coyhaique",
+   "unidad": "Departamento Provincial de Coyhaique",
+   "monto": 1800000,
+   "cierre_iso": "2026-11-06T14:00:00-03:00",
+   "publicacion": "05-11 13:38",
+   "publicacion_iso": "2026-11-05T13:38:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "44121704",
+     "Lápiz pasta",
+     200,
+     "200 lapices con la Leyenda \"Desarrollo Profesional Docente\" Y logo Deprov"
+    ],
+    [
+     "49101704",
+     "Galvanos",
+     15,
+     "15 Galvanos de Reconocimiwento en Madera o Acrilico con frase estandar y Logo DEPROV"
+    ],
+    [
+     "82121505",
+     "Impresión promocional o publicitaria",
+     11,
+     "11 Unidades Postes Colgantes de 80 x 100 CM con dos Ojetillos\nDiseños por informar"
+    ],
+    [
+     "82121505",
+     "Impresión promocional o publicitaria",
+     1,
+     "Lienzo con leyenda \n\"Feria de Buenas Practicas de Desarrollo Profesional Docente\"\nLogos CPEIP, SEREMI y Deprov.\n1x3 m"
+    ],
+    [
+     "82121505",
+     "Impresión promocional o publicitaria",
+     200,
+     "Carpetas blancas Impresas con Logo Seremi Educacion Aysen"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1521-86-COT26",
+   "sin_detalle": false,
+   "descripcion": "Material Grafico asociado a la Feria de Buenas Practicas de Desarrollo Profesional Docente",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
     "registro fotográfico"
    ],
    "nueva": true,
@@ -591,6 +525,35 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=791766-36-COT26",
    "sin_detalle": false,
    "descripcion": "E102RT9 Según lo establecido en el numeral 2, \"Descripción del requerimiento\".",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "audiovisual"
+   ],
+   "nueva": true,
+   "codigo": "1080289-30-COT26",
+   "nombre": "SERVICIO DE EDICIÓN DE MATERIAL AUDIOVISUAL",
+   "organismo": "SUBSECRETARIA DE SALUD PUBLICA",
+   "unidad": "Adm Fondos o Fondos Extrapresupuestarios Aysén",
+   "monto": 1000000,
+   "cierre_iso": "2026-11-06T16:00:00-03:00",
+   "publicacion": "05-11 11:44",
+   "publicacion_iso": "2026-11-05T11:44:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "86141702",
+     "Tecnología audiovisual",
+     1,
+     "SERVICIO DE EDICIÓN DE MATERIAL AUDIOVISUAL\n- 08 CAPSULAS DE APROX. 1 MINUTO SOBRE MEDIDAS DE PREVENCIÓN DE HIDATIDOSIS\n- 02 CAPSULAS DE TESTIMONIOS 1 A 4 MINUTOS DE DURACIÓN.\nCUMPLIR CON LAS ESPECIFICACIONES TÉCNICAS DE DOCUMENTO ADJUNTO PM N° 535 DAS"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1080289-30-COT26",
+   "sin_detalle": false,
+   "descripcion": "SERVICIO DE EDICIÓN DE MATERIAL AUDIOVISUAL\n- 08 CAPSULAS DE APROX. 1 MINUTO SOBRE MEDIDAS DE PREVENCIÓN DE HIDATIDOSIS\n- 02 CAPSULAS DE TESTIMONIOS 1 A 4 MINUTOS DE DURACIÓN.\nCUMPLIR CON LAS ESPECIFICACIONES TÉCNICAS DE DOCUMENTO ADJUNTO PM N° 535 DAS",
    "en_gracia": false,
    "desaparecida_iso": ""
   },
@@ -680,9 +643,135 @@
    "descripcion": "SEGUN TDR ADJUNTO",
    "en_gracia": false,
    "desaparecida_iso": ""
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "audiovisuales",
+    "radio",
+    "streaming"
+   ],
+   "nueva": true,
+   "codigo": "4733-487-COT26",
+   "nombre": " SERVICIO DE PLATAFORMA STREAMING Y TRANSMISION MULTICANAL POR 12 MESES",
+   "organismo": "I MUNICIPALIDAD DE LAS GUAITECAS",
+   "unidad": "I MUNICIPALIDAD DE LAS GUAITECAS",
+   "monto": 600000,
+   "cierre_iso": "2026-11-12T08:00:00-03:00",
+   "publicacion": "05-11 11:54",
+   "publicacion_iso": "2026-11-05T11:54:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "43232915",
+     "Software de interconectividad de plataformas",
+     1,
+     "USCRIPCIÓN ANUAL PLATAFORMA DE STREAMING MULTICANAL"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=4733-487-COT26",
+   "sin_detalle": false,
+   "descripcion": "Se requiere contratar por un periodo de 12 meses una plataforma de streaming profesional para realización y transmisión simultanea de actividades de la radio la voz del ciprés y otros contenidos audiovisuales institucionales a través de Facebook, YouTube e Instagram permitiendo el uso de múltiples cámaras, invitados, gráficos y otras fuentes de videos, adjuntar cotización",
+   "en_gracia": false,
+   "desaparecida_iso": ""
   }
  ],
  "historial": [
+  {
+   "codigo": "3765-323-COT26",
+   "nombre": "INSUMOS PARA PRESENTACIÓN DE STANDS EDUCATIVOS",
+   "organismo": "SERVICIO NACIONAL DE SALUD HOSPITAL DE C",
+   "monto": 100000,
+   "cierre_iso": "2026-11-05T13:04:00-03:00",
+   "tipo": "POSIBLE",
+   "motivos": [
+    "publicitarios"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=3765-323-COT26",
+   "primera_vista_iso": "2026-10-30T17:56:18-03:00",
+   "removida_iso": "2026-11-05T14:29:51-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
+  {
+   "codigo": "1426103-29-COT26",
+   "nombre": "Adquisición de folletería, afiches y carteles de publicidad de la  Dirección Regional de Aysén",
+   "organismo": "SERVICIO NACIONAL DE REINSERCION SOCIAL JUVENIL",
+   "monto": 360000,
+   "cierre_iso": "2026-11-05T12:00:00-03:00",
+   "tipo": "POSIBLE",
+   "motivos": [
+    "difusión",
+    "publicidad",
+    "publicitarios"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1426103-29-COT26",
+   "primera_vista_iso": "2026-10-29T18:15:57-03:00",
+   "removida_iso": "2026-11-05T14:29:51-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
+  {
+   "codigo": "1426103-27-COT26",
+   "nombre": "Adquisición de pendones y panel araña publicitarios para la Dirección Regional de Aysén ",
+   "organismo": "SERVICIO NACIONAL DE REINSERCION SOCIAL JUVENIL",
+   "monto": 380000,
+   "cierre_iso": "2026-11-05T12:00:00-03:00",
+   "tipo": "POSIBLE",
+   "motivos": [
+    "difusión",
+    "publicitarios"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1426103-27-COT26",
+   "primera_vista_iso": "2026-10-29T18:15:57-03:00",
+   "removida_iso": "2026-11-05T14:29:51-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
+  {
+   "codigo": "1233615-928-COT26",
+   "nombre": "DMH [SOL-2026-02150] Recursos para el aprendizaje e innovación para Liceo Politécnico A-1 de Puerto Aysén",
+   "organismo": "Servicio Local de Educación Pública Aysén",
+   "monto": 552590,
+   "cierre_iso": "2026-11-05T11:00:00-03:00",
+   "tipo": "POSIBLE",
+   "motivos": [
+    "difusión"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1233615-928-COT26",
+   "primera_vista_iso": "2026-11-04T14:23:11-03:00",
+   "removida_iso": "2026-11-05T14:29:51-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
+  {
+   "codigo": "4733-450-COT26",
+   "nombre": "SERVICIO DE PLATAFORMA STREAMING Y TRANSMISION MULTICANAL POR 12 MESES",
+   "organismo": "I MUNICIPALIDAD DE LAS GUAITECAS",
+   "monto": 550000,
+   "cierre_iso": "2026-11-05T08:00:00-03:00",
+   "tipo": "POSIBLE",
+   "motivos": [
+    "audiovisuales",
+    "radio",
+    "streaming"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=4733-450-COT26",
+   "primera_vista_iso": "2026-11-02T16:38:38-03:00",
+   "removida_iso": "2026-11-05T14:29:51-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
   {
    "codigo": "1057062-499-COT26",
    "nombre": "Servicio de Publicidad Digital: Campaña Magíster en Gestión del Cambio Climático según Fisabs 2376_URY 21991",
@@ -1241,42 +1330,6 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=4803-174-COT26",
    "primera_vista_iso": "2026-10-28T13:11:01-03:00",
    "removida_iso": "2026-10-29T18:15:57-03:00",
-   "estado_api": "",
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "657-97-COT26",
-   "nombre": "Servicio de Transporte privado de pasajeros para traslado de funcionarios y funcionarias Serviu Aysén, visita obras en ejecución comuna de Coyhaique",
-   "organismo": "SERVICIO DE VIVIENDA Y URBANIZACION XI REGION",
-   "monto": 3520000,
-   "cierre_iso": "2026-10-29T13:30:00-03:00",
-   "tipo": "POSIBLE",
-   "motivos": [
-    "radio"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=657-97-COT26",
-   "primera_vista_iso": "2026-10-28T18:12:20-03:00",
-   "removida_iso": "2026-10-29T18:15:57-03:00",
-   "estado_api": "",
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "418-1716-COT26",
-   "nombre": "CCD- Reposición bomba de impulsión Diálisis",
-   "organismo": "SERVICIO NACIONAL DE SALUD HOSPITAL DE PUERTO AYSEN",
-   "monto": 1,
-   "cierre_iso": "2026-10-29T13:00:00-03:00",
-   "tipo": "POSIBLE",
-   "motivos": [
-    "radial"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=418-1716-COT26",
-   "primera_vista_iso": "2026-10-28T13:11:01-03:00",
-   "removida_iso": "2026-10-29T13:17:18-03:00",
    "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,
