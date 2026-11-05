@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-11-05T14:29:51.583199-03:00",
+ "actualizado": "2026-11-05T19:47:37.035100-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
- "total_region": 297,
+ "total_region": 314,
  "rubros": {
   "25172700": "Aire acondicionado",
   "25173900": "Componentes eléctricos",
@@ -19,93 +19,6 @@
   "39121400": "Conectores, enchufes y terminales"
  },
  "filas": [
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "grupo electrógeno"
-   ],
-   "nueva": false,
-   "codigo": "1403-464-COT26",
-   "nombre": "MANTENCION PREVENTIVA DE GRUPO ELECTROGENO DEL CDP DE PUERTO AYSEN",
-   "organismo": "Dirección Regional de Gendarmeria - Coyhaique",
-   "unidad": "Región de Aysén",
-   "monto": 2368100,
-   "cierre_iso": "2026-11-05T15:00:00-03:00",
-   "publicacion": "29-10 10:55",
-   "publicacion_iso": "2026-10-29T10:55:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "25202004",
-     "Sistemas de grupo electrógeno de pista (APU)",
-     1,
-     "MANTENCIÓN PREVENTIVA DE GRUPO ELECTROGENO DEL CDP DE PUERTO AYSEN, GENSA GS110-C, POTENCIA NOMINAL 100 KVA, SERVICIO INTEGRAL CON MANO DE OBRA, REPUESTOS, INSUMOS, PRUEBAS E INFORME TÉCNICO. MAYOR INFORMACIÓN EN DOCUMENTO ADJUNTO."
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1403-464-COT26",
-   "sin_detalle": false,
-   "descripcion": "E1O2RT9 - MANTENCION PREVENTIVA DE GRUPO ELECTROGENO DEL CDP DE PUERTO AYSEN. CRITERIOS DE EVALUACIÓN: PRECIO 68% - PLAZO DE ENTREGA / EJECUCIÓN DEL SERVICIO 10% - GARANTÍA 10% - EXPERIENCIA EN EL RUBRO 10% - POLITICAS DE SUSTENTABILIDAD 2%. VISITA A TERRENO VOLUNTARIA EL DÍA MARTES 03 Y MIERCOLES 04 DE NOVIEMBRE 2026 ENTRE 10 Y 17 HORAS",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "iluminación"
-   ],
-   "nueva": false,
-   "codigo": "1233615-932-COT26",
-   "nombre": "DMH [SOL-2026-02150] Recursos para el aprendizaje e innovación (focos, atriles y otros) para Liceo Politécnico A-1 de Puerto Aysén",
-   "organismo": "Servicio Local de Educación Pública Aysén",
-   "unidad": "Servicio Local de Educación Pública Aysén",
-   "monto": 425000,
-   "cierre_iso": "2026-11-05T16:30:00-03:00",
-   "publicacion": "04-11 07:29",
-   "publicacion_iso": "2026-11-04T07:29:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "39111504",
-     "Sistemas de iluminación de escenario o estudio",
-     1,
-     "Recursos para el aprendizaje e innovación (atril, focos y otros) para Liceo Politécnico A-1 de Puerto Aysén, de acuerdo a requerimiento adjunto a la presente compra (llenar formulario 1)"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1233615-932-COT26",
-   "sin_detalle": false,
-   "descripcion": "Estos implementos permitirán desarrollar competencias tecnológicas, comunicativas, técnicas y laborales, fomentar la creatividad, el trabajo colaborativo y la participación estudiantil, además de apoyar la difusión de las actividades institucionales y el mejoramiento de los espacios educativos.",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "eléctricos"
-   ],
-   "nueva": false,
-   "codigo": "3325-31-COT26",
-   "nombre": "MANTENCIÓN DE GENERADORES ELÉCTRICOS DE CUARTELES PDI COYHAIQUE Y PTO. AYSÉN, 3325-31-COT26",
-   "organismo": "POLICIA DE INVESTIGACIONES DE CHILE",
-   "unidad": "LOGISTICA COYHAIQUE",
-   "monto": 1100000,
-   "cierre_iso": "2026-11-05T18:30:00-03:00",
-   "publicacion": "29-10 11:11",
-   "publicacion_iso": "2026-10-29T11:11:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "26111601",
-     "Generadores diesel",
-     1,
-     "MANTENCIÓN DE GENERADORES ELÉCTRICOS, OFERTA DE ACUERDO A ESPECIFICACIONES TÉCNICAS Y ANEXO N° 1 COMPLETAR (OBLIGATORIO) ADJUNTO."
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=3325-31-COT26",
-   "sin_detalle": false,
-   "descripcion": "EN VIRTUD AL PLAN ANUAL DE MANTENCIÓN DE CUARTELES POLICIALES SE REQUIERE LA MANTENCIÓN DE GRUPOS ELECTRÓGENOS MOVIBLES Y ESTACIONARIOS DE LOS CUARTELES POLICIALES DE COYHAIQUE Y PUERTO AYSÉN, ESTO CON EL FIN DE AUMENTAR LA VIDA ÚTIL DE ESTOS ELEMENTOS, Y A SU VEZ OTORGAR LAS CONDICIONES NECESARIAS EN CASO DE CORTES DE ENERGÍA ELÉCTRICA EN LAS DISTINTAS UNIDADES. COMPLETAR ANEXO N°1 ADJUNTO (OBLIGATORIO).",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
   {
    "tipo": "OPORTUNIDAD",
    "motivos": [
@@ -1171,7 +1084,7 @@
    "motivos": [
     "Gasfitería, calefacción y aire acondicionado"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "791766-36-COT26",
    "nombre": "Servicio de reparación de cubierta de bodega y mantención de cuatro equipos de aire acondicionado tipo split del CAVD de Coyhaique",
    "organismo": "SUBSECRETARIA DE PREVENCION DEL DELITO",
@@ -1275,6 +1188,256 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=2493-109-COT26",
    "sin_detalle": false,
    "descripcion": "SE REQUIEREN MATERIALES PARA DISEÑO DE SEÑALETICAS VERTICALES Y MOLDAJES.",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Cajas y accesorios eléctricos",
+    "Conectores, enchufes y terminales"
+   ],
+   "nueva": true,
+   "codigo": "5038-67-COT26",
+   "nombre": "ADQUISICIÓN DE MATERIALES PARA MONOLITO DE IDENTIFICACIÓN DEL HUMEDAL URBANO DE PTO. IBÁÑEZ",
+   "organismo": "I MUNICIPALIDAD RIO IBANEZ",
+   "unidad": "Administración Municipal",
+   "monto": 350000,
+   "cierre_iso": "2026-11-06T15:20:00-03:00",
+   "publicacion": "05-11 15:18",
+   "publicacion_iso": "2026-11-05T15:18:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "12352310",
+     "Siliconas",
+     1,
+     "sellador de poliuretano 300ml"
+    ],
+    [
+     "15111505",
+     "Butano",
+     5,
+     "gas butano en botella de 227g"
+    ],
+    [
+     "24121802",
+     "Latas de pintura o barniz",
+     1,
+     "anti corrosivo estructural negro"
+    ],
+    [
+     "24121802",
+     "Latas de pintura o barniz",
+     1,
+     "barniz marino natural"
+    ],
+    [
+     "30103605",
+     "Tablas de madera",
+     8,
+     "pino oregón 1x6\"x 3,2mts. seco cepillado"
+    ],
+    [
+     "31161503",
+     "Clavo-tornillo",
+     200,
+     "tornillo autoperforante para madera-metal 2-24x2\" (wing screw)"
+    ],
+    [
+     "31191506",
+     "Discos abrasivos",
+     4,
+     "disco de pulir 115mm carburo de cilicio  de 4,5\""
+    ],
+    [
+     "31191506",
+     "Discos abrasivos",
+     5,
+     "disco lija traslapado de 4,5\""
+    ],
+    [
+     "31211904",
+     "Brochas",
+     2,
+     "brocha multiuso 2\""
+    ],
+    [
+     "31211904",
+     "Brochas",
+     2,
+     "brocha 3\""
+    ],
+    [
+     "32111503",
+     "Diodos emisores de luz (LED)",
+     10,
+     "cinta LED cob. impermeable cálido, 2700k, 24V."
+    ],
+    [
+     "39121207",
+     "Conductos para cables",
+     3,
+     "tubo flexible metálico con PVC 20MM gris"
+    ],
+    [
+     "39121311",
+     "Accesorios eléctricos",
+     2,
+     "Fuente poder 220V a 24V 30A."
+    ],
+    [
+     "39121409",
+     "Conectores de cables eléctricos",
+     4,
+     "conector recto 20mm p/flexible metálico"
+    ],
+    [
+     "39121432",
+     "Terminales eléctricos",
+     50,
+     "terminal ferrul aislado 2.5mm."
+    ],
+    [
+     "39121434",
+     "Conectores de tubos metálicos eléctricos (EMT)",
+     6,
+     "tubería EMT 20mm x 3m"
+    ],
+    [
+     "39121434",
+     "Conectores de tubos metálicos eléctricos (EMT)",
+     5,
+     "uniones tuberia EMT 20mm"
+    ],
+    [
+     "39121434",
+     "Conectores de tubos metálicos eléctricos (EMT)",
+     3,
+     "caja chuqui galvanizada 100x100x65mm"
+    ],
+    [
+     "39121434",
+     "Conectores de tubos metálicos eléctricos (EMT)",
+     5,
+     "codo EMT 20mm."
+    ],
+    [
+     "39121435",
+     "Hilos o cables de conexión",
+     25,
+     "cable libre de halógeno H07Z1-K 2.5MM2 450/750KV rojo"
+    ],
+    [
+     "39121435",
+     "Hilos o cables de conexión",
+     25,
+     "cable libre de halógeno H07Z1-K 2.5MM2 450/750KV blanco"
+    ],
+    [
+     "39121435",
+     "Hilos o cables de conexión",
+     25,
+     "cable libre de halógeno H07Z1-K 2.5MM2 450/750KV verde"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=5038-67-COT26",
+   "sin_detalle": false,
+   "descripcion": "SE REQUIERE LA ADQUISICIÓN DE ESTOS MATERIALES, YA QUE SON NECESARIOS PARA REALIZAR LA EJECUCIÓN DE TRABAJOS DE MEJORAMIENTO EN MONOLITO DE IDENTIFICACIÓN DEL HUMEDAL URBANO DE PTO. IBÁÑEZ",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "eléctricos",
+    "te1"
+   ],
+   "nueva": true,
+   "codigo": "3765-338-COT26",
+   "nombre": "SE SOLICITA CONTRATACION DE UN INSTALADOR ELECTRICO - FACTIBILIDAD TE1 CASA SENDA",
+   "organismo": "SERVICIO NACIONAL DE SALUD HOSPITAL DE C",
+   "unidad": "Hospital Doctor  Leopoldo Ortega Rodríguez",
+   "monto": 3000000,
+   "cierre_iso": "2026-11-06T16:00:00-03:00",
+   "publicacion": "05-11 15:42",
+   "publicacion_iso": "2026-11-05T15:42:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "73171510",
+     "Servicios de fabricación de accesorios o suministros eléctricos",
+     1,
+     "SE SOLICITA CONTRATACION DE UN INSTALADOR ELECTRICO - FACTIBILIDAD TE1 CASA SENDA; SE ADJUNTA DETALLES DE SERVICIO A CONTRATAR; DISPONINILIDAD INMEDIATA Y SE DEBE ADJUNTAR UNA PROPUESTA CON LO SOLICITADO (ADMISIBILIDAD)"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=3765-338-COT26",
+   "sin_detalle": false,
+   "descripcion": "SE SOLICITA CONTRATACION DE UN INSTALADOR ELECTRICO - FACTIBILIDAD TE1 CASA SENDA SE ADJUNTA DETALLES DE SERVICIO A CONTRATAR - DISPONIBILIDAD INMEDIATA.",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "ampolletas"
+   ],
+   "nueva": true,
+   "codigo": "3765-340-COT26",
+   "nombre": "FOCOS LED PARA CASA SENDA ",
+   "organismo": "SERVICIO NACIONAL DE SALUD HOSPITAL DE C",
+   "unidad": "Hospital Doctor  Leopoldo Ortega Rodríguez",
+   "monto": 400000,
+   "cierre_iso": "2026-11-06T17:00:00-03:00",
+   "publicacion": "05-11 16:20",
+   "publicacion_iso": "2026-11-05T16:20:00-03:00",
+   "ofertas": 1,
+   "productos": [
+    [
+     "39101601",
+     "ampolletas halógenas",
+     55,
+     "FOCO LED CUADRADO 24W SOBREPUESTO 30X30X LUZ NEUTRA 220V; SE DEBE INCLUIR LA FICHA TECNICA"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=3765-340-COT26",
+   "sin_detalle": false,
+   "descripcion": "FOCOS LED PARA CASA SENDA",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Conectores, enchufes y terminales"
+   ],
+   "nueva": true,
+   "codigo": "3765-344-COT26",
+   "nombre": "MATERIALES DE INFORMATICA",
+   "organismo": "SERVICIO NACIONAL DE SALUD HOSPITAL DE C",
+   "unidad": "Hospital Doctor  Leopoldo Ortega Rodríguez",
+   "monto": 100000,
+   "cierre_iso": "2026-11-06T17:20:00-03:00",
+   "publicacion": "05-11 17:14",
+   "publicacion_iso": "2026-11-05T17:14:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "39121409",
+     "Conectores de cables eléctricos",
+     15,
+     "FACEPLATE/TAPA RJ45, PARA CONEXION JACK UN PUERTO"
+    ],
+    [
+     "39121409",
+     "Conectores de cables eléctricos",
+     100,
+     "RJ45 JACK MACHO"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=3765-344-COT26",
+   "sin_detalle": false,
+   "descripcion": "EL HOSPITAL DE LEOPOLDO ORTEGA RODRIGUEZ REQUIERE LA COMPRA DE MATERIALES FALTANTES PARA LA NORMALIZACION DE CASA CEMA. LAS COTIZACIONES DEBERAN ADJUNTAR IMAGENES REFERENCIALES DEL PRODUCTO OFERTADO.",
    "en_gracia": false,
    "desaparecida_iso": ""
   },
@@ -1424,6 +1587,47 @@
   {
    "tipo": "POSIBLE",
    "motivos": [
+    "climatización"
+   ],
+   "nueva": true,
+   "codigo": "1758-280-COT26",
+   "nombre": "ALOJAMIENTO MAS ALIMENTACIÓN EN LA CIUDAD DE COYHAQUE LOS DÍAS 10 Y 11 DE NOVIEMBRE DE 2026.",
+   "organismo": "SECRETARIA REGIONAL MINISTERIAL DE EDUCACION XI REGION",
+   "unidad": "Mineduc Administración XI Región",
+   "monto": 552000,
+   "cierre_iso": "2026-11-09T09:00:00-03:00",
+   "publicacion": "05-11 16:15",
+   "publicacion_iso": "2026-11-05T16:15:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "90101501",
+     "Restaurantes",
+     14,
+     "- CENA PARA 07 PERSONAS SERVIDA EL DÍA 10/11 A LAS 19:30 HRS. PREFERENTEMENTE DENTRO DE LAS MISMAS DEPENDENCIAS DONDE SE HOSPEDARÁN LOS PASAJEROS.\n- ALMUERZO PARA 07 PERSONAS SERVIDO EL DÍA 11/11 A LAS 13:30 HRS. EN LUGAR DEFINIDO POR EL OFERENTE.\n- AMBOS SERVICIOS DEBEN CONSIDERAR: ENTRADA Y/O ENSALADA, PLATO DE FONDO, POSTRE Y BEBESTIBLE NO ALCOHOLICO.\n- SE DEBE CONSIDERAR UNA OPCION VEGETARIANA."
+    ],
+    [
+     "90111801",
+     "Habitación sencilla",
+     1,
+     "- 01 HABITACIÓN SINGLE CON DESAYUNO INCLUIDO, CHECK IN 10/11/26 CHECK OUT 11/11/26.\n- LA HABITACIÓN DEBE CONSIDERAR DOS CAMAS, CONTAR CON BAÑO PRIVADO, CALEFACCIÓN O CLIMATIZACIÓN Y BUENA VENTILACIÓN.\n- SE PRIVILEGIARÁ UBICACIÓN CENTRAL DENTRO DEL RADIO URBANO DE COYHAIQUE.\n- SE PRIVILEGIARÁ A LOS PROVEEDORES QUE CUENTEN CON POLITICAS DE REUTILIZACIÓN DE SÁBANAS Y TOALLAS (ESTANDAR HOTELERO) O CUENTEN CON ALGUNA CERTIFICACIÓN SUSTENTABLE."
+    ],
+    [
+     "90111802",
+     "Habitación doble",
+     3,
+     "- 03 HABITACIONES DOBLES CON DESAYUNO INCLUIDO, CHECK IN 10/11/26 CHECK OUT 11/11/26.\n- LA HABITACIÓN DEBE CONSIDERAR DOS CAMAS, CONTAR CON BAÑO PRIVADO, CALEFACCIÓN O CLIMATIZACIÓN Y BUENA VENTILACIÓN.\n- SE PRIVILEGIARÁ UBICACIÓN CENTRAL DENTRO DEL RADIO URBANO DE COYHAIQUE.\n- SE PRIVILEGIARÁ A LOS PROVEEDORES QUE CUENTEN CON POLITICAS DE REUTILIZACIÓN DE SÁBANAS Y TOALLAS (ESTANDAR HOTELERO) O CUENTEN CON ALGUNA CERTIFICACIÓN SUSTENTABLE."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1758-280-COT26",
+   "sin_detalle": false,
+   "descripcion": "- 03 HABITACIONES DOBLES CHECK IN 10/11/26 CHECK OUT 11/11/26.\n- 01 HABITACIÓN SINGLE CHECK IN 10/11/26 CHECK OUT 11/11/26.\n- EL HOSPEDAJE DEBE INCLUIR DESAYUNO EL DÍA 11/11.\n- CENA PARA 07 PERSONAS SERVIDA EL DÍA 10/11 A LAS 19:30 HRS. PREFERENTEMENTE DENTRO DE LAS MISMAS DEPENDENCIAS DONDE SE HOSPEDARÁN LOS PASAJEROS.\n- ALMUERZO PARA 07 PERSONAS SERVIDO EL DÍA 11/11 A LAS 13:30 HRS. EN LUGAR DEFINIDO POR EL OFERENTE.\n- SE DEBE INDICAR DIRECCIÓN DONDE SE PRESTARÁN LOS SERVICIOS CONTRATADOS.",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
     "interruptor"
    ],
    "nueva": true,
@@ -1516,11 +1720,117 @@
    "desaparecida_iso": ""
   },
   {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Gasfitería, calefacción y aire acondicionado"
+   ],
+   "nueva": true,
+   "codigo": "886182-252-COT26",
+   "nombre": "Servicio de instalación y mantención preventiva de aires acondicionados x 6 meses [Fisabs 2395]",
+   "organismo": "UNIVERSIDAD DE AYSEN",
+   "unidad": "Universidad de Aysen",
+   "monto": 4460000,
+   "cierre_iso": "2026-11-09T13:00:00-03:00",
+   "publicacion": "05-11 19:05",
+   "publicacion_iso": "2026-11-05T19:05:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "72102302",
+     "Instalación, reparación o mantenimiento de sistemas de calefacción",
+     1,
+     "Instalación completa de equipo de aire acondicionado (disponible) tipo Split Muro/Cassette, incluyendo traslado, montaje, circuito eléctrico dedicado directamente al tablero, recarga de refrigerante según corresponda y puesta en marcha, para el Campus Errázuriz #532, Coyhaique, Uaysén. *La ubicación específica dentro del campus donde se realizará la instalación será informada al proveedor una vez adjudicado el servicio y emitida la respectiva Orden de Compra."
+    ],
+    [
+     "72102302",
+     "Instalación, reparación o mantenimiento de sistemas de calefacción",
+     2,
+     "Instalación completa de equipo de aire acondicionado (disponible) tipo Split Muro/Cassette, incluyendo traslado, montaje, circuito eléctrico dedicado directamente al tablero, recarga de refrigerante según corresponda y puesta en marcha, para el Campus Eusebio Lillo #667, Coyhaique, Uaysén. *La ubicación específica dentro del campus donde se realizará la instalación será informada al proveedor una vez adjudicado el servicio y emitida la respectiva Orden de Compra."
+    ],
+    [
+     "72102302",
+     "Instalación, reparación o mantenimiento de sistemas de calefacción",
+     2,
+     "Instalación completa de equipo de aire acondicionado (disponible) tipo Split Muro/Cassette, incluyendo traslado, montaje, circuito eléctrico dedicado directamente al tablero, recarga de refrigerante según corresponda y puesta en marcha, para el Campus Obispo Vielmo #82, Coyhaique, Uaysén. *La ubicación específica dentro del campus donde se realizará la instalación será informada al proveedor una vez adjudicado el servicio y emitida la respectiva Orden de Compra."
+    ],
+    [
+     "72102302",
+     "Instalación, reparación o mantenimiento de sistemas de calefacción",
+     78,
+     "Servicio de mantención preventiva mensual de 13 equipos de aire acondicionado tipo Split, x un período de 6 meses, correspondientes al Campus Eusebio Lillo N° 667, Coyhaique. Considerar una mantención mensual x equipo, que incluya limpieza general y estructural, inspección mecánica y eléctrica, revisión del circuito de refrigerante, pruebas de funcionamiento y mediciones, conforme EETT adjuntas. Este servicio está sujeto a multas en caso de incumplimiento de las condiciones y plazos establecidos"
+    ],
+    [
+     "72102302",
+     "Instalación, reparación o mantenimiento de sistemas de calefacción",
+     12,
+     "Servicio de mantención preventiva mensual de 2 equipos de aire acondicionado tipo Split, x un período de 6 meses, correspondientes al Campus Eusebio Lillo N° 697, Coyhaique. Considerar una mantención mensual x equipo, que incluya limpieza general y estructural, inspección mecánica y eléctrica, revisión del circuito de refrigerante, pruebas de funcionamiento y mediciones, conforme EETT adjuntas. Este servicio está sujeto a multas en caso de incumplimiento de las condiciones y plazos establecidos."
+    ],
+    [
+     "72102302",
+     "Instalación, reparación o mantenimiento de sistemas de calefacción",
+     6,
+     "Servicio de mantención preventiva mensual de 1 equipo de aire acondicionado tipo Split, x un período de 6 meses, correspondientes al Campus Errázuriz N°532, Coyhaique. Considerar una mantención mensual x el equipo, que incluya limpieza general y estructural, inspección mecánica y eléctrica, revisión del circuito de refrigerante, pruebas de funcionamiento y mediciones, conforme EETT adjuntas. Este servicio está sujeto a multas en caso de incumplimiento de las condiciones y plazos establecidos."
+    ],
+    [
+     "72102302",
+     "Instalación, reparación o mantenimiento de sistemas de calefacción",
+     42,
+     "Servicio de mantención preventiva mensual de 7 equipos de aire acondicionado tipo Split, x un período de 6 meses, correspondientes al Campus Cochrane N°335, Coyhaique. Considerar una mantención mensual x equipo, que incluya limpieza general y estructural, inspección mecánica y eléctrica, revisión del circuito de refrigerante, pruebas de funcionamiento y mediciones, conforme EETT adjuntas. Este servicio está sujeto a multas en caso de incumplimiento de las condiciones y plazos establecidos."
+    ],
+    [
+     "72102302",
+     "Instalación, reparación o mantenimiento de sistemas de calefacción",
+     24,
+     "Servicio de mantención preventiva mensual de 4 equipos de aire acondicionado tipo Split, x un período de 6 meses, en Balmaceda N° 150 (Casa Orquesta), Coyhaique. Considerar una mantención mensual x equipo, que incluya limpieza general y estructural, inspección mecánica y eléctrica, revisión del circuito de refrigerante, pruebas de funcionamiento y mediciones, conforme EETT adjuntas. Este servicio está sujeto a multas en caso de incumplimiento de las condiciones y plazos establecidos."
+    ],
+    [
+     "72102302",
+     "Instalación, reparación o mantenimiento de sistemas de calefacción",
+     6,
+     "Servicio de mantención preventiva mensual de 1 equipo de aire acondicionado tipo Split, x un período de 6 meses, correspondiente en Obispo Vielmo N° 82, Coyhaique. Considerar una mantención mensual x el equipo, que incluya limpieza general y estructural, inspección mecánica y eléctrica, revisión del circuito de refrigerante, pruebas de funcionamiento y mediciones, conforme EETT adjuntas. Este servicio está sujeto a multas en caso de incumplimiento de las condiciones y plazos establecidos."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=886182-252-COT26",
+   "sin_detalle": false,
+   "descripcion": "La Universidad de Aysén requiere contratar la instalación de 5 equipos de aire acondicionado y la mantención preventiva de equipos existentes en sus dependencias, por un período de 6 meses. El servicio deberá ejecutarse conforme a las condiciones y plazos establecidos en las EETT adjuntas, las que forman parte integral del requerimiento. Se podrá realizar una visita a terreno opcional, antes del cierre del cotizador, para verificar accesos y estado de los equipos, según horario indicado.",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Servicios eléctricos"
+   ],
+   "nueva": true,
+   "codigo": "930039-33-COT26",
+   "nombre": "REPARACIONES ELÉCTRICAS PARA DEPENDENCIAS DEL MUSEO REGIONAL DE AYSÉN",
+   "organismo": "SERVICIO NACIONAL DEL PATRIMONIO CULTURAL",
+   "unidad": "MUSEO REGIONAL DE AYSEN",
+   "monto": 7100000,
+   "cierre_iso": "2026-11-09T15:00:00-03:00",
+   "publicacion": "05-11 15:47",
+   "publicacion_iso": "2026-11-05T15:47:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "72102201",
+     "Instalación o servicio de sistemas de energía eléctrica",
+     1,
+     "Reparaciones eléctricas para dependencias del Museo Regional de Aysén"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=930039-33-COT26",
+   "sin_detalle": false,
+   "descripcion": "El presente proceso de Compra Ágil tiene por objetivo la contratación de un servicio de mantención correctiva integral, recambio de equipos y regularización normativa para diversas instalaciones del Museo Regional de Aysén. Para efectos de claridad y ejecución, el alcance de los trabajos requeridos se concentra en cinco áreas específicas del recinto detalladas en archivo adjunto.",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
    "tipo": "POSIBLE",
    "motivos": [
     "instalaciones eléctricas"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "1079689-526-COT26",
    "nombre": "ADQUISICIÓN SERVICIO INSTALACIÓN PISO FLOTANTE, MEJORAMIENTO INSTALACIONES ELÉCTRICAS Y FABRICACIÓN ESTANTERÍAS CON MATERIALES INCLUIDOS PARA LA A.F. 094 DE LA 1RA. CO MISARÍA COYHAIQUE.",
    "organismo": "SECCIÓN COMPRAS XI ZONA",
@@ -1541,6 +1851,485 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=1079689-526-COT26",
    "sin_detalle": false,
    "descripcion": "ADQUISICIÓN SERVICIO INSTALACIÓN PISO FLOTANTE, MEJORAMIENTO INSTALACIONES ELÉCTRICAS Y FABRICACIÓN ESTANTERÍAS CON MATERIALES INCLUIDOS PARA A.F. 094 DE LA 1RA. COM. COYHAIQUE. CON VISITA EN TERRENO OBLIGATORIA DÍA VIERNES 06.11.2026, A LAS 15:30 HRS EN BAQUEDANO NR. 534 COYHAIQUE A CARGO DEL SUBOF. JORGE HORMAZABAL CONCHA O QUIEN LO SUBROGUE. INDICAR PLAZO DE ENTREGA. ADJUNTAR ANEXO VISITA EN TERRENO COMPLETADO, ANEXO REQUERIMIENTOS TÉCNICOS Y COTIZACIÓN, DE NO SER ADJUNTADOS NO SERÁ EVALUADO.",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Cajas y accesorios eléctricos"
+   ],
+   "nueva": true,
+   "codigo": "4778-376-COT26",
+   "nombre": " REC- SOLICITUD N° 10135-MEL- MEJORAMIEN ENTORNO LABORAL - DEBE INCLUIR DESPACHO",
+   "organismo": "SERVICIO NACIONAL DE SALUD HOSPITAL DE C",
+   "unidad": "Compras de Insumos y Servicios Generales",
+   "monto": 2979120,
+   "cierre_iso": "2026-11-10T10:00:00-03:00",
+   "publicacion": "05-11 16:51",
+   "publicacion_iso": "2026-11-05T16:51:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "24131504",
+     "Contenedores refrigerados",
+     1,
+     "SET DE 2 CONTENEDOR PLASTICO 14 LT."
+    ],
+    [
+     "39121311",
+     "Accesorios eléctricos",
+     2,
+     "BATERIA DE COCINA 6 PZA ALUMINIO GOURMET FANTUZZI"
+    ],
+    [
+     "49121509",
+     "Cocinilla de camping",
+     7,
+     "COCINILLA KIBO GAS 2 QUEMADORES KLIMBER"
+    ],
+    [
+     "52121604",
+     "Mantel de mesa",
+     1,
+     "MANTEL ANTIMANCHAS PRADERA 180 X 280 CM"
+    ],
+    [
+     "52121604",
+     "Mantel de mesa",
+     1,
+     "FUNDA DE NANTEL TELA SPANDEX MESA 183X60X74 EVENTO NEGRO"
+    ],
+    [
+     "52121604",
+     "Mantel de mesa",
+     1,
+     "MANTEL RECTANGULAR 180 X 240 HC"
+    ],
+    [
+     "52141511",
+     "Licuadoras domésticas",
+     1,
+     "LICUADORA 1.5 LT NEGRO/BGRIS TH 330V"
+    ],
+    [
+     "52141516",
+     "Freidoras domésticas",
+     1,
+     "FREIDORA DE AIRE 3 LITROS TH-AF30DN"
+    ],
+    [
+     "52141522",
+     "Tostadores domésticos",
+     2,
+     "TOSTADOR THOMAS TH-126 4 PANES COLOR NEGRO"
+    ],
+    [
+     "52141523",
+     "Hervidores y teteras",
+     2,
+     "JUEGO DE CUCHILLERIA ROYAL 24 PZA ACERO INOXIDABLE"
+    ],
+    [
+     "52141523",
+     "Hervidores y teteras",
+     2,
+     "MANTEL RECTANGULAR DE 130 X 180 CM ANTIMANCHAS"
+    ],
+    [
+     "52141523",
+     "Hervidores y teteras",
+     1,
+     "HERVIDOR 2 LITROS INOX HA-2900IN SINDELEN"
+    ],
+    [
+     "52141523",
+     "Hervidores y teteras",
+     4,
+     "HERVIDOR DE AGUA DIGITAL SINDELEN"
+    ],
+    [
+     "52141523",
+     "Hervidores y teteras",
+     3,
+     "HERVIDOR ELECTRICO 1.7 LT WUNDER"
+    ],
+    [
+     "52141523",
+     "Hervidores y teteras",
+     2,
+     "HERVIDOR ELECTRICO 1.7 LTS MATE JKCOO1BD-CL"
+    ],
+    [
+     "52141523",
+     "Hervidores y teteras",
+     2,
+     "HERVIDOR ELECTRICO 1.7 LTS SINDELEN"
+    ],
+    [
+     "52141523",
+     "Hervidores y teteras",
+     2,
+     "HERVIDOR ELECTRICO 1.8 URSUS TROTTER"
+    ],
+    [
+     "52141523",
+     "Hervidores y teteras",
+     1,
+     "HERVIDOR ELECTRICO OSTER 1.7 LT CONTROL DE TEMPERATURA BVSTKT8970"
+    ],
+    [
+     "52141523",
+     "Hervidores y teteras",
+     1,
+     "HERVIDOR OSTER CONTROL DE TEMPERATURA"
+    ],
+    [
+     "52141523",
+     "Hervidores y teteras",
+     1,
+     "HERVIDOR OSTER CONTROL DE TEMPERATURA BVSTKT8970"
+    ],
+    [
+     "52141523",
+     "Hervidores y teteras",
+     2,
+     "HERVIDOR BIGFAMILY SINDELEN MODELO HA-2900IN"
+    ],
+    [
+     "52141523",
+     "Hervidores y teteras",
+     2,
+     "HERVIDOR ELECTRICO 1.8 MI IDEA"
+    ],
+    [
+     "52141523",
+     "Hervidores y teteras",
+     2,
+     "JUEGO DE CUCHILLERIA ROYAL 24 PZA 2,0 MM DORAL"
+    ],
+    [
+     "52141526",
+     "Cafeteras domésticas",
+     1,
+     "CAFETERA ELECTRICA OSTER 2160 ML 900 W NEGRO"
+    ],
+    [
+     "52141526",
+     "Cafeteras domésticas",
+     1,
+     "CAFETERA FRANCESA"
+    ],
+    [
+     "52141534",
+     "Sandwichera eléctrica de uso doméstico",
+     3,
+     "SANDWICHERA OSTER PLATO ONDO"
+    ],
+    [
+     "52141534",
+     "Sandwichera eléctrica de uso doméstico",
+     2,
+     "SANDWICHERA SINDELEN 2 PANES BLANCA SW-840 BL"
+    ],
+    [
+     "52141534",
+     "Sandwichera eléctrica de uso doméstico",
+     1,
+     "SANDWICHERA UT STULK 1000 ACERO PLATEADA URSUS TROTTER GRSI"
+    ],
+    [
+     "52141534",
+     "Sandwichera eléctrica de uso doméstico",
+     1,
+     "SANSWICHERA DUO SW-840 BL SINDELEN"
+    ],
+    [
+     "52141534",
+     "Sandwichera eléctrica de uso doméstico",
+     1,
+     "SANDWICHERA ELECTRICA CKSTSM 400 NEGRO"
+    ],
+    [
+     "52141537",
+     "Olla eléctrica doméstica",
+     1,
+     "OLLA ORROCERA BIOCERAMICA 1.8 LT CKSTRC10 DFSKE OSTER"
+    ],
+    [
+     "52151704",
+     "Cucharas domésticas",
+     2,
+     "SET DE 12 UNIDADES CUCHARAS TRAMONTINA IPANEMA"
+    ],
+    [
+     "52151704",
+     "Cucharas domésticas",
+     1,
+     "SET DE 3 CUCHARAS CENA JUST INOXIDABLE"
+    ],
+    [
+     "52151704",
+     "Cucharas domésticas",
+     1,
+     "SET DE 3 CUCHARAS TE"
+    ],
+    [
+     "52151709",
+     "Set de cubiertos",
+     4,
+     "SET DE CUBIERTOS 25 PZA."
+    ],
+    [
+     "52151709",
+     "Set de cubiertos",
+     2,
+     "SET DE CUBIERTOS ACERO INOXIDABLE 30 PZA."
+    ],
+    [
+     "52151709",
+     "Set de cubiertos",
+     2,
+     "SET DE CUBIERTOS DE 14 PZA. ACERO INOXIDABLE"
+    ],
+    [
+     "52151709",
+     "Set de cubiertos",
+     2,
+     "SET DE CUBIERTOS TRAMONTINA DE 25 PZA."
+    ],
+    [
+     "52151709",
+     "Set de cubiertos",
+     2,
+     "SET DE BOWL 3.1 LTS"
+    ],
+    [
+     "52151709",
+     "Set de cubiertos",
+     3,
+     "SET DE CUBIERTOS LUJOSOS 24 PZA ACERO INOXIDABLE"
+    ],
+    [
+     "52151709",
+     "Set de cubiertos",
+     1,
+     "JUEGO DE CUBIERTOS INOXIDABLES"
+    ],
+    [
+     "52151709",
+     "Set de cubiertos",
+     1,
+     "JUEGO DE CUCHILLERIA ROYAL 24 PZA ACERO INOXIDABLE"
+    ],
+    [
+     "52151709",
+     "Set de cubiertos",
+     5,
+     "SET DE CUBIERTOS 24 PZA JUST HOME COLLECTION"
+    ],
+    [
+     "52151709",
+     "Set de cubiertos",
+     1,
+     "SET DE CUBIERTOS 25 PZA"
+    ],
+    [
+     "52151709",
+     "Set de cubiertos",
+     1,
+     "SET DE CUBIERTOS 36 PZA ACERO INOXIDABLE"
+    ],
+    [
+     "52151709",
+     "Set de cubiertos",
+     1,
+     "SET DE CUBIERTOS TRAMONTINA POLYWOOD 21199-705 CON CUCHILLOS DE ASADO 24 PZA"
+    ],
+    [
+     "52151802",
+     "Sartenes domésticas",
+     1,
+     "SET SARTENES DE 20/24/26 CM EASY COOK"
+    ],
+    [
+     "52152001",
+     "Jarras domésticas",
+     1,
+     "JARRA DE VIDRIO 1250 ML TRANSPARENTE"
+    ],
+    [
+     "52152002",
+     "Envases para guardar alimentos domésticos",
+     1,
+     "SET DE ENVASES HERMETICOS 600 ML"
+    ],
+    [
+     "52152004",
+     "Platos domésticos",
+     2,
+     "NORPLAT JUEGO DE PLATOS PLASTICOS REUTILIZABLES COLOR NORPLAT"
+    ],
+    [
+     "52152004",
+     "Platos domésticos",
+     1,
+     "SET DE 10 PLATOS DE PORCELANA"
+    ],
+    [
+     "52152009",
+     "Soperas o ensaladeras domésticas",
+     3,
+     "ENSALADERAS DE LOZA HC."
+    ],
+    [
+     "52152009",
+     "Soperas o ensaladeras domésticas",
+     1,
+     "ENSALADERA CON BASE 15 CMS"
+    ],
+    [
+     "52152009",
+     "Soperas o ensaladeras domésticas",
+     1,
+     "ENSALADERA CON BASE 27 CMS"
+    ],
+    [
+     "52152009",
+     "Soperas o ensaladeras domésticas",
+     1,
+     "FUENTE DE ENSALADERA PLASTICA"
+    ],
+    [
+     "52152009",
+     "Soperas o ensaladeras domésticas",
+     1,
+     "PACK DE 3 BOWL ENSALADA DE 2 LITROS BELLA VIDRIO"
+    ],
+    [
+     "52152009",
+     "Soperas o ensaladeras domésticas",
+     2,
+     "PANNI UT STULKI1000 PLATEADO"
+    ],
+    [
+     "52152009",
+     "Soperas o ensaladeras domésticas",
+     1,
+     "PLATO OVALADO VIDRIO OPAL TOLEDO 23 CM"
+    ],
+    [
+     "52152009",
+     "Soperas o ensaladeras domésticas",
+     1,
+     "SET DE ENSALADERA BOWL DE VIDRIO TEMPO"
+    ],
+    [
+     "52152010",
+     "Termos domésticos",
+     3,
+     "TERMO HERVIDOR 2.8 LT RECCO"
+    ],
+    [
+     "52152010",
+     "Termos domésticos",
+     2,
+     "TERMO HERVIDOR MANTENEDOR 10 LT"
+    ],
+    [
+     "52152010",
+     "Termos domésticos",
+     1,
+     "TERMO SIFON AGUA CALIENTE 2.5 LT."
+    ],
+    [
+     "52152010",
+     "Termos domésticos",
+     3,
+     "THERMO HERVIDOR 3.1 LTS."
+    ],
+    [
+     "52152010",
+     "Termos domésticos",
+     1,
+     "THERMO LIQUIDO ACERO INOXIDABLE GALCIER 500 ML"
+    ],
+    [
+     "52152010",
+     "Termos domésticos",
+     11,
+     "MUG TERMICO CON BOTON 450 ML DISTINTOS COLORES KEEP"
+    ],
+    [
+     "52152101",
+     "Tazas de café o té domésticas",
+     2,
+     "SET DE 4 TAZAS DE VIDRIO PARA CAFE/TE"
+    ],
+    [
+     "52152101",
+     "Tazas de café o té domésticas",
+     12,
+     "TAZONES"
+    ],
+    [
+     "52152102",
+     "Vasos para beber domésticos",
+     2,
+     "SET DE VASOS ALTOS"
+    ],
+    [
+     "52152102",
+     "Vasos para beber domésticos",
+     1,
+     "SET DE VASOS ALTOS DE VIDRIO 300 ML TRANSPARENTE"
+    ],
+    [
+     "52152102",
+     "Vasos para beber domésticos",
+     1,
+     "SET DE VASOS BAJOS 460 ML MIKONOS"
+    ],
+    [
+     "52152102",
+     "Vasos para beber domésticos",
+     2,
+     "SET DE VASOS DE 220 ML"
+    ],
+    [
+     "52152102",
+     "Vasos para beber domésticos",
+     1,
+     "SET VASOS ALTO DE VIDRIO 334 ML"
+    ],
+    [
+     "52152102",
+     "Vasos para beber domésticos",
+     2,
+     "SET DE 6 VASOS DE VIDRIO"
+    ],
+    [
+     "73121801",
+     "Servicios de fabricación de alfarería vidriada, porcelana o loza fina",
+     1,
+     "JUEGO DE LOZA 16 PZA HOME COLLECTION"
+    ],
+    [
+     "73121801",
+     "Servicios de fabricación de alfarería vidriada, porcelana o loza fina",
+     5,
+     "JUEGO DE LOZA 30 PIEZA"
+    ],
+    [
+     "91101503",
+     "Servicios de masajes",
+     1,
+     "SET DE 3 MASAJEADOR PROFESIONAL HOMBROS, CUELLO Y ESPALDA"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=4778-376-COT26",
+   "sin_detalle": false,
+   "descripcion": "PROYECTO MEL, SE SOLICITA SEGUN RESOLUCION EXENTA N° 3032/2026 DE FECHA 17-08-2026, SEGUN CALSIFICADOR PRESUPUESTARIO AL SUBTITULO 29.05, SE REQUIERE LA COMPRA DE ARTICULOS SEGUN ANEXO SERAN CONSIDERARADAS LAS OFERTAS LISTADO COMPLETO, SE REQUIERE COTIZAR TODOS LOS ARTICULOS, INCLUIR DESPACHO A BODEGA KM 5 SECTOR RECTA FOITZICK COYHAIQUE.",
    "en_gracia": false,
    "desaparecida_iso": ""
   },
@@ -1574,9 +2363,92 @@
    "descripcion": "Generador Electrico Diesel Uso Continuo 17kVa según especificaciones técnicas, requeridas en anexo adjunto a compra ágil, a su vez los oferentes deberán adjuntar en su oferta anexo firmado.",
    "en_gracia": false,
    "desaparecida_iso": ""
+  },
+  {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Gasfitería, calefacción y aire acondicionado"
+   ],
+   "nueva": true,
+   "codigo": "1905-82-COT26",
+   "nombre": "Servicio de mejoramiento de calefacción en oficina de Puerto Aysén y Coyhaique",
+   "organismo": "SERVICIO DE REGISTRO CIVIL E IDENTIFICAC",
+   "unidad": "Dirección Regional XI Región",
+   "monto": 3600000,
+   "cierre_iso": "2026-11-12T15:00:00-03:00",
+   "publicacion": "05-11 15:27",
+   "publicacion_iso": "2026-11-05T15:27:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "72102305",
+     "Servicios de reparación, mantenimiento o reparación de aire acondicionado",
+     1,
+     "Servicio de mejoramiento de calefacción en oficina de Puerto Aysén y Coyhaique"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1905-82-COT26",
+   "sin_detalle": false,
+   "descripcion": "Servicio de mejoramiento de calefacción en oficina de Puerto Aysén y Coyhaique",
+   "en_gracia": false,
+   "desaparecida_iso": ""
   }
  ],
  "historial": [
+  {
+   "codigo": "3325-31-COT26",
+   "nombre": "MANTENCIÓN DE GENERADORES ELÉCTRICOS DE CUARTELES PDI COYHAIQUE Y PTO. AYSÉN, 3325-31-COT26",
+   "organismo": "POLICIA DE INVESTIGACIONES DE CHILE",
+   "monto": 1100000,
+   "cierre_iso": "2026-11-05T18:30:00-03:00",
+   "tipo": "POSIBLE",
+   "motivos": [
+    "eléctricos"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=3325-31-COT26",
+   "primera_vista_iso": "2026-10-29T13:17:18-03:00",
+   "removida_iso": "2026-11-05T19:47:37-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
+  {
+   "codigo": "1233615-932-COT26",
+   "nombre": "DMH [SOL-2026-02150] Recursos para el aprendizaje e innovación (focos, atriles y otros) para Liceo Politécnico A-1 de Puerto Aysén",
+   "organismo": "Servicio Local de Educación Pública Aysén",
+   "monto": 425000,
+   "cierre_iso": "2026-11-05T16:30:00-03:00",
+   "tipo": "POSIBLE",
+   "motivos": [
+    "iluminación"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1233615-932-COT26",
+   "primera_vista_iso": "2026-11-04T14:23:11-03:00",
+   "removida_iso": "2026-11-05T19:47:37-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
+  {
+   "codigo": "1403-464-COT26",
+   "nombre": "MANTENCION PREVENTIVA DE GRUPO ELECTROGENO DEL CDP DE PUERTO AYSEN",
+   "organismo": "Dirección Regional de Gendarmeria - Coyhaique",
+   "monto": 2368100,
+   "cierre_iso": "2026-11-05T15:00:00-03:00",
+   "tipo": "POSIBLE",
+   "motivos": [
+    "grupo electrógeno"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1403-464-COT26",
+   "primera_vista_iso": "2026-10-29T13:17:18-03:00",
+   "removida_iso": "2026-11-05T19:47:37-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
   {
    "codigo": "3950-716-COT26",
    "nombre": "Repuestos para Aires Acondicionado CLJ",
@@ -1739,7 +2611,7 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=418-1720-COT26",
    "primera_vista_iso": "2026-10-28T13:11:01-03:00",
    "removida_iso": "2026-11-03T19:24:45-03:00",
-   "estado_api": null,
+   "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,
    "adj_iso": null
@@ -1757,7 +2629,7 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=2495-591-COT26",
    "primera_vista_iso": "2026-10-28T13:11:01-03:00",
    "removida_iso": "2026-11-03T19:24:45-03:00",
-   "estado_api": null,
+   "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,
    "adj_iso": null
@@ -2010,7 +2882,7 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=4778-343-COT26",
    "primera_vista_iso": "2026-10-28T13:11:01-03:00",
    "removida_iso": "2026-10-30T13:05:28-03:00",
-   "estado_api": null,
+   "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,
    "adj_iso": null
@@ -2047,7 +2919,7 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=1107283-179-COT26",
    "primera_vista_iso": "2026-10-28T18:12:20-03:00",
    "removida_iso": "2026-10-30T13:05:28-03:00",
-   "estado_api": null,
+   "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,
    "adj_iso": null
@@ -2066,114 +2938,6 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=3765-311-COT26",
    "primera_vista_iso": "2026-10-26T16:26:03-03:00",
    "removida_iso": "2026-10-30T13:05:28-03:00",
-   "estado_api": "",
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "1057062-462-COT26",
-   "nombre": "Equipamientos Tecnológicos Proyecto URY 20991 y FIU Territorios",
-   "organismo": "UNIVERSIDAD DE AYSEN",
-   "monto": 7100000,
-   "cierre_iso": "2026-10-29T17:00:00-03:00",
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Cables eléctricos y accesorios"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1057062-462-COT26",
-   "primera_vista_iso": "2026-10-28T13:11:01-03:00",
-   "removida_iso": "2026-10-29T18:15:57-03:00",
-   "estado_api": null,
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "4644-108-COT26",
-   "nombre": " ACCESORIOS, REPUESTOS COMPUTACIONALES GORE MAÑIHUALES  SIC 446 SIRE :425",
-   "organismo": "CORP NACIONAL FORESTAL",
-   "monto": 190000,
-   "cierre_iso": "2026-10-29T17:00:00-03:00",
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Conectores, enchufes y terminales"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=4644-108-COT26",
-   "primera_vista_iso": "2026-10-28T18:12:20-03:00",
-   "removida_iso": "2026-10-29T18:15:57-03:00",
-   "estado_api": null,
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "1758-261-COT26",
-   "nombre": "ARRIENDO DE SALON EQUIPADO JORNADA RDEGI EN LA CIUDAD DE COYHAIQUE",
-   "organismo": "SECRETARIA REGIONAL MINISTERIAL DE EDUCACION XI REGION",
-   "monto": 800000,
-   "cierre_iso": "2026-10-29T16:00:00-03:00",
-   "tipo": "POSIBLE",
-   "motivos": [
-    "climatización"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1758-261-COT26",
-   "primera_vista_iso": "2026-10-27T12:27:37-03:00",
-   "removida_iso": "2026-10-29T18:15:57-03:00",
-   "estado_api": "",
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "1233615-883-COT26",
-   "nombre": "DMH SOL-2026-02079] CABLES E INSUMOS TECNÓLOGICOS PARA LICEO RAUL BROUSSAIN CAMPINO - PUERTO AYSEN",
-   "organismo": "Servicio Local de Educación Pública Aysén",
-   "monto": 146323,
-   "cierre_iso": "2026-10-29T15:30:00-03:00",
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Cables eléctricos y accesorios"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1233615-883-COT26",
-   "primera_vista_iso": "2026-10-28T18:12:20-03:00",
-   "removida_iso": "2026-10-29T18:15:57-03:00",
-   "estado_api": null,
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "3949-271-COT26",
-   "nombre": "SET DE PARCHES ELECTRODOS PEDIÁTRICOS",
-   "organismo": "CONSULTORIO GENERAL URBANO DR ALEJANDRO GUTIERREZ",
-   "monto": 150000,
-   "cierre_iso": "2026-10-29T15:20:00-03:00",
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Conectores, enchufes y terminales"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=3949-271-COT26",
-   "primera_vista_iso": "2026-10-28T18:12:20-03:00",
-   "removida_iso": "2026-10-29T18:15:57-03:00",
-   "estado_api": null,
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "4733-431-COT26",
-   "nombre": "RECAMBIO DE LUMINARIAS EDIFICIOS MUNICIPALES",
-   "organismo": "I MUNICIPALIDAD DE LAS GUAITECAS",
-   "monto": 3500000,
-   "cierre_iso": "2026-10-29T14:30:00-03:00",
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Suministros y accesorios eléctricos"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=4733-431-COT26",
-   "primera_vista_iso": "2026-10-27T17:10:04-03:00",
-   "removida_iso": "2026-10-29T18:15:57-03:00",
    "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,
