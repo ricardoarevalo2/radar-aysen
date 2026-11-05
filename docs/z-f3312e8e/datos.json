@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-11-04T19:43:04.597711-03:00",
+ "actualizado": "2026-11-05T00:34:58.353344-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
- "total_region": 307,
+ "total_region": 308,
  "rubros": {
   "25172700": "Aire acondicionado",
   "25173900": "Componentes eléctricos",
@@ -1281,6 +1281,66 @@
    "desaparecida_iso": ""
   },
   {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "eléctrico",
+    "red eléctrica"
+   ],
+   "nueva": true,
+   "codigo": "1057062-482-COT26",
+   "nombre": "Adquisición de equipamiento para Laboratorio de producción y propagación de plantas nativas según Fisabs 2334_URY 21991",
+   "organismo": "UNIVERSIDAD DE AYSEN",
+   "unidad": "Proyectos",
+   "monto": 6985098,
+   "cierre_iso": "2026-11-07T10:00:00-03:00",
+   "publicacion": "27-10 11:58",
+   "publicacion_iso": "2026-10-27T11:58:00-03:00",
+   "ofertas": 4,
+   "productos": [
+    [
+     "23101506",
+     "Trituradoras",
+     1,
+     "Se requiere comprar chipeadora de ramas, motor bencinero de 420 cc,\npotencia máxima de 15 HP.- Certificación C.E. y E.P.A, según especificaciones técnicas adjuntas."
+    ],
+    [
+     "40101808",
+     "Estufas de la calefacción",
+     2,
+     "Se requiere comprar Calefactor-ventilador eléctrico 2 en 1 para invernadero, Bio Green Phoenix 2.8 o equivalente, apto para conexión y funcionamiento en red eléctrica utilizada en Chile, según especificaciones técnicas adjuntas."
+    ],
+    [
+     "41103011",
+     "Refrigeradores o congeladores de uso general",
+     1,
+     "Se requiere la compra de visicooler tipo Ventus LG-360 o similar, de 360 litros de capacidad, según especificaciones técnicas adjuntas."
+    ],
+    [
+     "41103011",
+     "Refrigeradores o congeladores de uso general",
+     1,
+     "Se requiere la compra de refrigerador Side by Side, sistema No Frost. Capacidad: 442 litros, según especificaciones técnicas adjuntas."
+    ],
+    [
+     "41111501",
+     "Balanzas electrónicas de carga superior",
+     1,
+     "Se requiere la compra de balanza de alta exactitud para pesaje de precisión de laboratorio, según especificaciones técnicas adjuntas."
+    ],
+    [
+     "41111501",
+     "Balanzas electrónicas de carga superior",
+     1,
+     "Se requiere la compra de balanza de sobremesa de precisión, según especificaciones técnicas adjuntas."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1057062-482-COT26",
+   "sin_detalle": false,
+   "descripcion": "Se requiere la adquisición de equipamiento para Laboratorio de producción y propagación de plantas nativas según detalle adjunto. Cotizaciones debe indicar especificaciones técnicas de lo ofertado, e indicar plazo de entrega ofertado, considerando entrega en Coyhaique. Valor cotizado debe incluir flete e impuestos. Se podrá privilegiar el menor plazo de entrega ofertado, siempre que cumpla con todas las especificaciones requeridas. Compra sujeta a posibles multas o sanciones por incumplimiento.",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
    "tipo": "OPORTUNIDAD",
    "motivos": [
     "Gasfitería, calefacción y aire acondicionado"
@@ -1699,7 +1759,7 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=1173433-21-COT26",
    "primera_vista_iso": "2026-10-27T17:10:04-03:00",
    "removida_iso": "2026-10-30T13:05:28-03:00",
-   "estado_api": null,
+   "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,
    "adj_iso": null
@@ -1827,25 +1887,6 @@
    "primera_vista_iso": "2026-10-28T18:12:20-03:00",
    "removida_iso": "2026-10-29T18:15:57-03:00",
    "estado_api": null,
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "1057062-482-COT26",
-   "nombre": "Adquisición de equipamiento para Laboratorio de producción y propagación de plantas nativas según Fisabs 2334_URY 21991",
-   "organismo": "UNIVERSIDAD DE AYSEN",
-   "monto": 6985098,
-   "cierre_iso": "2026-10-29T14:30:00-03:00",
-   "tipo": "POSIBLE",
-   "motivos": [
-    "eléctrico",
-    "red eléctrica"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1057062-482-COT26",
-   "primera_vista_iso": "2026-10-27T12:27:37-03:00",
-   "removida_iso": "2026-10-29T18:15:57-03:00",
-   "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,
    "adj_iso": null
