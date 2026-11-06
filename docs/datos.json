@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-11-05T19:47:37.035100-03:00",
+ "actualizado": "2026-11-06T00:29:52.417147-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
- "total_region": 314,
+ "total_region": 315,
  "rubros": {
   "80141600": "Ventas y marketing",
   "82101600": "Publicidad en medios no impresos",
@@ -442,6 +442,94 @@
   {
    "tipo": "POSIBLE",
    "motivos": [
+    "difusión",
+    "publicidad"
+   ],
+   "nueva": true,
+   "codigo": "1233615-929-COT26",
+   "nombre": "DMH [SOL-2026-02150] Recursos para el aprendizaje e innovación para Liceo Politécnico A-1 de Puerto Aysén",
+   "organismo": "Servicio Local de Educación Pública Aysén",
+   "unidad": "Servicio Local de Educación Pública Aysén",
+   "monto": 600000,
+   "cierre_iso": "2026-11-07T07:03:00-03:00",
+   "publicacion": "04-11 06:50",
+   "publicacion_iso": "2026-11-04T06:50:00-03:00",
+   "ofertas": 5,
+   "productos": [
+    [
+     "82101502",
+     "Publicidad en carteles",
+     1,
+     "Recursos para el aprendizaje e innovación para Liceo Politécnico A-1 de Puerto Aysén (bandera vela y Panel araña), de acuerdo a requerimiento adjunto a la presente compra (debe llenar formulario 1)"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1233615-929-COT26",
+   "sin_detalle": false,
+   "descripcion": "Estos implementos permitirán desarrollar competencias tecnológicas, comunicativas, técnicas y laborales, fomentar la creatividad, el trabajo colaborativo y la participación estudiantil, además de apoyar la difusión de las actividades institucionales y el mejoramiento de los espacios educativos.",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "difusión"
+   ],
+   "nueva": true,
+   "codigo": "1233615-931-COT26",
+   "nombre": "DMH [SOL-2026-02150] Recursos para el aprendizaje e innovación (hidrolavadora y manguera) para Liceo Politécnico A-1 de Puerto Aysén",
+   "organismo": "Servicio Local de Educación Pública Aysén",
+   "unidad": "Servicio Local de Educación Pública Aysén",
+   "monto": 200000,
+   "cierre_iso": "2026-11-07T07:20:00-03:00",
+   "publicacion": "04-11 07:18",
+   "publicacion_iso": "2026-11-04T07:18:00-03:00",
+   "ofertas": 3,
+   "productos": [
+    [
+     "40142008",
+     "Mangueras para agua",
+     1,
+     "Recursos para el aprendizaje e innovación (Hidrolavadora y manguera) para Liceo Politécnico A-1 de Puerto Aysén, de acuerdo a requerimiento adjunto a la presente compra (debe llenar formulario 1)"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1233615-931-COT26",
+   "sin_detalle": false,
+   "descripcion": "Estos implementos permitirán desarrollar competencias tecnológicas, comunicativas, técnicas y laborales, fomentar la creatividad, el trabajo colaborativo y la participación estudiantil, además de apoyar la difusión de las actividades institucionales y el mejoramiento de los espacios educativos.",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "difusión"
+   ],
+   "nueva": true,
+   "codigo": "1233615-932-COT26",
+   "nombre": "DMH [SOL-2026-02150] Recursos para el aprendizaje e innovación (focos, atriles y otros) para Liceo Politécnico A-1 de Puerto Aysén",
+   "organismo": "Servicio Local de Educación Pública Aysén",
+   "unidad": "Servicio Local de Educación Pública Aysén",
+   "monto": 425000,
+   "cierre_iso": "2026-11-07T08:09:00-03:00",
+   "publicacion": "04-11 07:29",
+   "publicacion_iso": "2026-11-04T07:29:00-03:00",
+   "ofertas": 5,
+   "productos": [
+    [
+     "39111504",
+     "Sistemas de iluminación de escenario o estudio",
+     1,
+     "Recursos para el aprendizaje e innovación (atril, focos y otros) para Liceo Politécnico A-1 de Puerto Aysén, de acuerdo a requerimiento adjunto a la presente compra (llenar formulario 1)"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1233615-932-COT26",
+   "sin_detalle": false,
+   "descripcion": "Estos implementos permitirán desarrollar competencias tecnológicas, comunicativas, técnicas y laborales, fomentar la creatividad, el trabajo colaborativo y la participación estudiantil, además de apoyar la difusión de las actividades institucionales y el mejoramiento de los espacios educativos.",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
     "registro fotográfico"
    ],
    "nueva": false,
@@ -648,24 +736,6 @@
    "adj_iso": null
   },
   {
-   "codigo": "1233615-932-COT26",
-   "nombre": "DMH [SOL-2026-02150] Recursos para el aprendizaje e innovación (focos, atriles y otros) para Liceo Politécnico A-1 de Puerto Aysén",
-   "organismo": "Servicio Local de Educación Pública Aysén",
-   "monto": 425000,
-   "cierre_iso": "2026-11-05T16:30:00-03:00",
-   "tipo": "POSIBLE",
-   "motivos": [
-    "difusión"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1233615-932-COT26",
-   "primera_vista_iso": "2026-11-04T14:23:11-03:00",
-   "removida_iso": "2026-11-05T19:47:37-03:00",
-   "estado_api": null,
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
    "codigo": "1233615-930-COT26",
    "nombre": "DMH [SOL-2026-02150] Recursos para el aprendizaje e innovación (parlantes) para Liceo Politécnico A-1 de Puerto Aysén",
    "organismo": "Servicio Local de Educación Pública Aysén",
@@ -714,43 +784,6 @@
    ],
    "link": "https://buscador.mercadopublico.cl/ficha?code=1332-40-COT26",
    "primera_vista_iso": "2026-11-03T19:24:45-03:00",
-   "removida_iso": "2026-11-05T19:47:37-03:00",
-   "estado_api": null,
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "1233615-931-COT26",
-   "nombre": "DMH [SOL-2026-02150] Recursos para el aprendizaje e innovación (hidrolavadora y manguera) para Liceo Politécnico A-1 de Puerto Aysén",
-   "organismo": "Servicio Local de Educación Pública Aysén",
-   "monto": 200000,
-   "cierre_iso": "2026-11-05T15:30:00-03:00",
-   "tipo": "POSIBLE",
-   "motivos": [
-    "difusión"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1233615-931-COT26",
-   "primera_vista_iso": "2026-11-04T14:23:11-03:00",
-   "removida_iso": "2026-11-05T19:47:37-03:00",
-   "estado_api": null,
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "1233615-929-COT26",
-   "nombre": "DMH [SOL-2026-02150] Recursos para el aprendizaje e innovación para Liceo Politécnico A-1 de Puerto Aysén",
-   "organismo": "Servicio Local de Educación Pública Aysén",
-   "monto": 600000,
-   "cierre_iso": "2026-11-05T14:30:00-03:00",
-   "tipo": "POSIBLE",
-   "motivos": [
-    "difusión",
-    "publicidad"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1233615-929-COT26",
-   "primera_vista_iso": "2026-11-04T14:23:11-03:00",
    "removida_iso": "2026-11-05T19:47:37-03:00",
    "estado_api": null,
    "adj_nombre": null,
@@ -1011,7 +1044,7 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=2495-602-COT26",
    "primera_vista_iso": "2026-10-29T13:17:18-03:00",
    "removida_iso": "2026-11-03T14:11:19-03:00",
-   "estado_api": null,
+   "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,
    "adj_iso": null
@@ -1319,7 +1352,7 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=1057062-489-COT26",
    "primera_vista_iso": "2026-10-29T13:17:18-03:00",
    "removida_iso": "2026-10-30T13:05:28-03:00",
-   "estado_api": null,
+   "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,
    "adj_iso": null
@@ -1373,25 +1406,6 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=1057062-490-COT26",
    "primera_vista_iso": "2026-10-28T13:11:01-03:00",
    "removida_iso": "2026-10-30T13:05:28-03:00",
-   "estado_api": "",
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "2495-584-COT26",
-   "nombre": "ADQUISICIÓN DE MATERIALES PARA LA DIFUSIÓN DEL PROGRAMA SENDA PREVIENE 2026 ",
-   "organismo": "I MUNICIPALIDAD DE COYHAIQUE",
-   "monto": 200000,
-   "cierre_iso": "2026-10-29T21:00:00-03:00",
-   "tipo": "POSIBLE",
-   "motivos": [
-    "difusión",
-    "publicidad"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=2495-584-COT26",
-   "primera_vista_iso": "2026-10-26T18:06:24-03:00",
-   "removida_iso": "2026-10-29T22:11:21-03:00",
    "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,

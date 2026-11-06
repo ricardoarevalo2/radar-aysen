@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-11-05T19:47:37.035100-03:00",
+ "actualizado": "2026-11-06T00:29:52.417147-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
- "total_region": 314,
+ "total_region": 315,
  "rubros": {
   "25172700": "Aire acondicionado",
   "25173900": "Componentes eléctricos",
@@ -19,35 +19,6 @@
   "39121400": "Conectores, enchufes y terminales"
  },
  "filas": [
-  {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Gasfitería, calefacción y aire acondicionado"
-   ],
-   "nueva": false,
-   "codigo": "1113144-82-COT26",
-   "nombre": "GORE 2026- REQ. 38 SERVICIO DE CONEXION AGUA POTABLE VIVERO",
-   "organismo": "CORP NACIONAL FORESTAL",
-   "unidad": "XI Región - Provincial Capitán Prat",
-   "monto": 6500000,
-   "cierre_iso": "2026-11-05T20:00:00-03:00",
-   "publicacion": "29-10 12:40",
-   "publicacion_iso": "2026-10-29T12:40:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "72102303",
-     "Construcción de sistemas de fontanería o gasfitería",
-     1,
-     "SERVICIO DE CONSTRUCCIÓN E INSTALACIÓN DE RED INDEPENDIENTE DE AGUA POTABLE VIVERO CONAF COCHRANE SEGUN REQUERIMIENTO ADJUNTO EN LA PRESENTE. ESTA COMPRA CONSIDERA MULTAS, SEGUN PORTAL CHILECOMPRAS."
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1113144-82-COT26",
-   "sin_detalle": false,
-   "descripcion": "Contratar la ejecución material de las obras civiles e hidráulicas necesarias para habilitar una línea de aducción y empalme independiente de agua potable para el Vivero Institucional CONAF en Cochrane, garantizando continuidad de caudal, presión adecuada y protección térmica frente a eventos de congelamiento invernal. EL PROVEEDOR DEBE LEER EL REQUERIMIENTO Y ASISTIR A LA VISITA A TERRENO OBLIGATORIA INDICADA EN EL.",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
   {
    "tipo": "OPORTUNIDAD",
    "motivos": [
@@ -1444,6 +1415,35 @@
   {
    "tipo": "POSIBLE",
    "motivos": [
+    "iluminación"
+   ],
+   "nueva": true,
+   "codigo": "1233615-932-COT26",
+   "nombre": "DMH [SOL-2026-02150] Recursos para el aprendizaje e innovación (focos, atriles y otros) para Liceo Politécnico A-1 de Puerto Aysén",
+   "organismo": "Servicio Local de Educación Pública Aysén",
+   "unidad": "Servicio Local de Educación Pública Aysén",
+   "monto": 425000,
+   "cierre_iso": "2026-11-07T08:09:00-03:00",
+   "publicacion": "04-11 07:29",
+   "publicacion_iso": "2026-11-04T07:29:00-03:00",
+   "ofertas": 5,
+   "productos": [
+    [
+     "39111504",
+     "Sistemas de iluminación de escenario o estudio",
+     1,
+     "Recursos para el aprendizaje e innovación (atril, focos y otros) para Liceo Politécnico A-1 de Puerto Aysén, de acuerdo a requerimiento adjunto a la presente compra (llenar formulario 1)"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1233615-932-COT26",
+   "sin_detalle": false,
+   "descripcion": "Estos implementos permitirán desarrollar competencias tecnológicas, comunicativas, técnicas y laborales, fomentar la creatividad, el trabajo colaborativo y la participación estudiantil, además de apoyar la difusión de las actividades institucionales y el mejoramiento de los espacios educativos.",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
     "eléctrico",
     "red eléctrica"
    ],
@@ -1581,6 +1581,35 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=1079689-522-COT26",
    "sin_detalle": false,
    "descripcion": "ADQUISICIÓN REPUESTOS PARA SISTEMA DE REFRIGERACIÓN DE MOTOR DIÉSEL YANGDONG YSD490D, INSTALADO EN GRUPO ELECTRÓGENO KIPOR KDE18S. OFERENTE DEBERÁ LLENAR Y SUBIR EL ARCHIVO DE REQUERIMIENTOS TÉCNICOS Y ADJUNTAR COTIZACIÓN DE VALORES DE LOS MISMOS ADICIONANDO FICHA TÉCNICA DE NO ADJUNTAR DOCUMENTACIÓN REQUERIDA NO SEGUIRÁ SIENDO EVALUADO.",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Conectores, enchufes y terminales"
+   ],
+   "nueva": true,
+   "codigo": "1233615-920-COT26",
+   "nombre": "DMH SOL-2026-01931] Recursos TICS para Escuela \"Litoral Austral\" de Puerto Aysén",
+   "organismo": "Servicio Local de Educación Pública Aysén",
+   "unidad": "Servicio Local de Educación Pública Aysén",
+   "monto": 302470,
+   "cierre_iso": "2026-11-08T00:29:00-03:00",
+   "publicacion": "03-11 10:17",
+   "publicacion_iso": "2026-11-03T10:17:00-03:00",
+   "ofertas": 3,
+   "productos": [
+    [
+     "39121409",
+     "Conectores de cables eléctricos",
+     1,
+     "insumos, accesorios y equipamiento informático necesarios para garantizar la continuidad operativa, mantención y adecuado funcionamiento de los recursos tecnológicos de la Escuela Litoral Austral, de acuerdo a requerimiento adjunto a la presente compra (debe llenar el formulario N°1)"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1233615-920-COT26",
+   "sin_detalle": false,
+   "descripcion": "Se solicita la adquisición de insumos, accesorios y equipamiento informático necesarios para garantizar la continuidad operativa, mantención y adecuado funcionamiento de los recursos tecnológicos de la Escuela Litoral Austral.",
    "en_gracia": false,
    "desaparecida_iso": ""
   },
@@ -2396,6 +2425,24 @@
  ],
  "historial": [
   {
+   "codigo": "1113144-82-COT26",
+   "nombre": "GORE 2026- REQ. 38 SERVICIO DE CONEXION AGUA POTABLE VIVERO",
+   "organismo": "CORP NACIONAL FORESTAL",
+   "monto": 6500000,
+   "cierre_iso": "2026-11-05T20:00:00-03:00",
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Gasfitería, calefacción y aire acondicionado"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1113144-82-COT26",
+   "primera_vista_iso": "2026-10-29T13:17:18-03:00",
+   "removida_iso": "2026-11-06T00:29:52-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
+  {
    "codigo": "3325-31-COT26",
    "nombre": "MANTENCIÓN DE GENERADORES ELÉCTRICOS DE CUARTELES PDI COYHAIQUE Y PTO. AYSÉN, 3325-31-COT26",
    "organismo": "POLICIA DE INVESTIGACIONES DE CHILE",
@@ -2407,24 +2454,6 @@
    ],
    "link": "https://buscador.mercadopublico.cl/ficha?code=3325-31-COT26",
    "primera_vista_iso": "2026-10-29T13:17:18-03:00",
-   "removida_iso": "2026-11-05T19:47:37-03:00",
-   "estado_api": null,
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "1233615-932-COT26",
-   "nombre": "DMH [SOL-2026-02150] Recursos para el aprendizaje e innovación (focos, atriles y otros) para Liceo Politécnico A-1 de Puerto Aysén",
-   "organismo": "Servicio Local de Educación Pública Aysén",
-   "monto": 425000,
-   "cierre_iso": "2026-11-05T16:30:00-03:00",
-   "tipo": "POSIBLE",
-   "motivos": [
-    "iluminación"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1233615-932-COT26",
-   "primera_vista_iso": "2026-11-04T14:23:11-03:00",
    "removida_iso": "2026-11-05T19:47:37-03:00",
    "estado_api": null,
    "adj_nombre": null,
@@ -2463,24 +2492,6 @@
    ],
    "link": "https://buscador.mercadopublico.cl/ficha?code=3950-716-COT26",
    "primera_vista_iso": "2026-11-04T14:23:11-03:00",
-   "removida_iso": "2026-11-05T14:29:51-03:00",
-   "estado_api": null,
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "1233615-920-COT26",
-   "nombre": "DMH SOL-2026-01931] Recursos TICS para Escuela \"Litoral Austral\" de Puerto Aysén",
-   "organismo": "Servicio Local de Educación Pública Aysén",
-   "monto": 302470,
-   "cierre_iso": "2026-11-05T11:00:00-03:00",
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Conectores, enchufes y terminales"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1233615-920-COT26",
-   "primera_vista_iso": "2026-11-03T14:11:19-03:00",
    "removida_iso": "2026-11-05T14:29:51-03:00",
    "estado_api": null,
    "adj_nombre": null,
@@ -2702,7 +2713,7 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=1233615-886-COT26",
    "primera_vista_iso": "2026-10-28T18:12:20-03:00",
    "removida_iso": "2026-11-02T16:38:38-03:00",
-   "estado_api": null,
+   "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,
    "adj_iso": null
