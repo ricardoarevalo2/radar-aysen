@@ -945,6 +945,14 @@ document.querySelectorAll('.segmented-tabs button').forEach(b => b.addEventListe
   const txt = min < 1 ? 'recién' : min < 60 ? `hace ${min} min` : min < 60 * 24 ? `hace ${Math.round(min / 60)} h` : `hace ${Math.round(min / 1440)} días`;
   $('#hace').textContent = txt;
   if (min > 90) $('.live-dot').classList.add('old');
+  if (D.api_caida_iso) {
+    const fmt = iso => { const d = new Date(iso); return d.toLocaleDateString('es-CL', {day:'2-digit', month:'2-digit'}) + ' ' + d.toLocaleTimeString('es-CL', {hour:'2-digit', minute:'2-digit', hour12:false}); };
+    const aviso = document.createElement('div');
+    aviso.className = 'visit-banner';
+    aviso.style.cssText = 'border-color:var(--amber-border);background:var(--amber-soft);color:var(--text-main)';
+    aviso.innerHTML = `<span class="dot" style="background:var(--amber)"></span><span><b>Mercado Público no está respondiendo.</b> Estos datos son del ${fmt(D.actualizado)} y pueden faltar compras nuevas. Último intento: ${fmt(D.api_caida_iso)}.</span>`;
+    $('#visita').before(aviso);
+  }
 })();
 
 function pintarVisita() {

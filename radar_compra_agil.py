@@ -403,6 +403,23 @@ def generar_html(datos):
     return antes + 'id="datos">' + js + '</script>' + despues
 
 
+def marcar_api_caida(perfiles, ahora):
+    """La API no respondió: conserva el último reporte y le agrega un aviso visible."""
+    for perfil in perfiles:
+        destino = os.path.join(SALIDA, perfil["carpeta"]) if perfil["carpeta"] else SALIDA
+        ruta_datos = os.path.join(destino, "datos.json")
+        try:
+            with open(ruta_datos, encoding="utf-8") as f:
+                datos = json.load(f)
+        except (FileNotFoundError, json.JSONDecodeError):
+            continue
+        datos["api_caida_iso"] = ahora.isoformat()
+        with open(os.path.join(destino, "index.html"), "w", encoding="utf-8") as f:
+            f.write(generar_html(datos))
+        with open(ruta_datos, "w", encoding="utf-8") as f:
+            json.dump(datos, f, ensure_ascii=False, indent=1)
+
+
 def main():
     ahora = datetime.now(ZONA)
     perfiles = cargar_perfiles()
@@ -417,7 +434,10 @@ def main():
         compras.extend(lote)
         completo = completo and ok
     if not compras:
-        sys.exit("No llegaron compras (¿API caída o sin conexión?).")
+        # Una caída de ChileCompra no es un fallo del radar: se avisa en el reporte y se termina sin error.
+        print("⚠️  La API no entregó compras (¿caída?). Se conserva el último reporte con un aviso.")
+        marcar_api_caida(perfiles, ahora)
+        return
     if not completo:
         print("   ⚠️  El listado quedó incompleto; se usa lo que alcanzó a llegar.")
 
