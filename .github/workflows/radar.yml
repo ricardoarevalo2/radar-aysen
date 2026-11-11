@@ -39,7 +39,15 @@ jobs:
         run: |
           git config user.name "radar-bot"
           git config user.email "radar-bot@users.noreply.github.com"
+          # 1. Guardar temporalmente los reportes recién generados en una carpeta aparte
+          mkdir -p /tmp/radar_out
+          cp -r docs /tmp/radar_out/ 2>/dev/null || true
+          cp cache_compras.json /tmp/radar_out/ 2>/dev/null || true
+          # 2. Limpiar el árbol local, sincronizar con GitHub sin conflictos y restaurar los reportes frescos
+          git checkout -- .
+          git pull --rebase origin main
+          cp -r /tmp/radar_out/docs . 2>/dev/null || true
+          cp /tmp/radar_out/cache_compras.json . 2>/dev/null || true
+          # 3. Crear el commit y publicar
           git add docs cache_compras.json 2>/dev/null || true
-          git diff --staged --quiet || git commit -m "Radar: actualizacion $(TZ=America/Punta_Arenas date '+%d-%m %H:%M')"
-          git pull --rebase
-          git push
+          git diff --staged --quiet || (git commit -m "Radar: actualizacion $(TZ=America/Punta_Arenas date '+%d-%m %H:%M')" && git push)
