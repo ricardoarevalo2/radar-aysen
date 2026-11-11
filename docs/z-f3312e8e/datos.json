@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-11-10T23:02:20.958716-03:00",
+ "actualizado": "2026-11-11T14:18:43.639416-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
- "total_region": 339,
+ "total_region": 330,
  "rubros": {
   "25172700": "Aire acondicionado",
   "25173900": "Componentes eléctricos",
@@ -22,343 +22,9 @@
   {
    "tipo": "POSIBLE",
    "motivos": [
-    "eléctrico",
-    "generador",
-    "generador eléctrico"
-   ],
-   "nueva": false,
-   "codigo": "1281188-19-COT26",
-   "nombre": "Generador Eléctrico Diésel Uso Continuo 17kVa ",
-   "organismo": "DELEGACIÓN PRESIDENCIAL PROVINCIAL DE CAPITÁN PRAT",
-   "unidad": "Pasos Fronterizos Provincial de Capitán Prat",
-   "monto": 7200000,
-   "cierre_iso": "2026-11-11T07:57:00-03:00",
-   "publicacion": "30-10 10:10",
-   "publicacion_iso": "2026-10-30T10:10:00-03:00",
-   "ofertas": 11,
-   "productos": [
-    [
-     "26111601",
-     "Generadores diesel",
-     1,
-     "Generador Eléctrico Diésel Uso Continuo 17kVa igual o similar a marca Kipor, según especificaciones técnicas requeridas en archivo adjunto a compra ágil, en donde, los oferentes deberán adjuntar firmada a su oferta."
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1281188-19-COT26",
-   "sin_detalle": false,
-   "descripcion": "Generador Electrico Diesel Uso Continuo 17kVa según especificaciones técnicas, requeridas en anexo adjunto a compra ágil, a su vez los oferentes deberán adjuntar en su oferta anexo firmado.",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
-  {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Cables eléctricos y accesorios",
-    "Suministros y accesorios eléctricos"
-   ],
-   "nueva": true,
-   "codigo": "886182-256-COT26",
-   "nombre": " Materiales de oficina_segun fisabs 2350_Departamento Ciencias Naturales y Tecnología",
-   "organismo": "UNIVERSIDAD DE AYSEN",
-   "unidad": "Universidad de Aysen",
-   "monto": 1421958,
-   "cierre_iso": "2026-11-11T08:00:00-03:00",
-   "publicacion": "09-11 16:48",
-   "publicacion_iso": "2026-11-09T16:48:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "14111525",
-     "Papel multiuso",
-     4,
-     "\"NOTA POST-IT 3M ULTRA 654 DE DISTINTOS COLORES - SIMILAR MARCA POST-IT\""
-    ],
-    [
-     "14111525",
-     "Papel multiuso",
-     3,
-     "\"PACK BANDERITA POST-IT AZUL X 2 UNIDADES - SIMILAR MARCA POST-IT\""
-    ],
-    [
-     "14111525",
-     "Papel multiuso",
-     3,
-     "\"PACK BANDERITA POST-IT AMARILLO X 2 UNIDADES - SIMILAR MARCA POST-IT\""
-    ],
-    [
-     "14111525",
-     "Papel multiuso",
-     3,
-     "\"PACK BANDERITA POST-IT ROJO X 2 UNIDADES - SIMILAR MARCA POST-IT\""
-    ],
-    [
-     "14111525",
-     "Papel multiuso",
-     3,
-     "\"PACK BANDERITA POST-IT VERDE X 2 UNIDADES - SIMILAR MARCA POST-IT\""
-    ],
-    [
-     "26111706",
-     "Pilas electrónicas",
-     2,
-     "\"KIT CARGADOR DE PILAS ELECTRÓNICAS INCLUYE 2 PILAS AAA Y 2 PILAS AA - SIMILAR MARCA PHILCO\""
-    ],
-    [
-     "26121620",
-     "Cable para interconexiones",
-     2,
-     "CABLE HDMI BLINDADO 4K – 1.8 MTS o 2 MTS ( CM ) DE COLOR NEGRO - SIMILAR MARCA HP"
-    ],
-    [
-     "27112401",
-     "Pistolas de grapas",
-     2,
-     "\"CORCHETERA A7 26/6 - 24/6 NEGRA PLASTICA (CM) - SIMILAR MARCA COLON\""
-    ],
-    [
-     "31162404",
-     "Grapas de ferretería",
-     3,
-     "\"CORCHETE 26/6 5000 UNID. ( CH ) ( CM ) - SIMILAR MARCA ISOFIT\""
-    ],
-    [
-     "31201512",
-     "Cinta Transparente",
-     6,
-     "\"CINTA ADHESIVA 3M 18 X 25 Mts. ( CH ) TRANSPARENTE - SIMILAR MARCA SCOTCH\""
-    ],
-    [
-     "39121710",
-     "Receptáculo multiplicador eléctrico",
-     1,
-     "ALARGADOR MULTIPLE 4 ENCHUFES 1.5MTS o 2.0 MTS COLOR NEGRO - SIMILAR MARCA PHILCO"
-    ],
-    [
-     "39121710",
-     "Receptáculo multiplicador eléctrico",
-     2,
-     "ALARGADOR MULTIPLE 5 o 6 ENCHUFES 3MTS NEGRO – De preferencia 6 enchufes SIMILAR MARCA PHILCO XT-30"
-    ],
-    [
-     "44103105",
-     "Cartuchos de tinta",
-     72,
-     "\"CARTUCHO TINTA PARA PLUMON DE PIZARRA NEGRO - SIMILAR MARCA PILOT\""
-    ],
-    [
-     "44103105",
-     "Cartuchos de tinta",
-     72,
-     "\"CARTUCHO TINTA PARA PLUMON DE PIZARRA AZUL - SIMILAR MARCA PILOT\""
-    ],
-    [
-     "44103105",
-     "Cartuchos de tinta",
-     72,
-     "\"CARTUCHO TINTA PARA PLUMON DE PIZARRA ROJO - SIMILAR MARCA PILOT\""
-    ],
-    [
-     "44111801",
-     "Rotuladores",
-     1,
-     "\"PACK DE DESTACADORES SIMILAR A STABILO BOSS FLUOR 8 UNIDADES DE DISTINTOS COLORES\""
-    ],
-    [
-     "44111801",
-     "Rotuladores",
-     2,
-     "\"KIT/ BLISTER DE PLUMONES 4 COLORES PERMANENTE - SIMILAR MARCA PROARTE\""
-    ],
-    [
-     "44111801",
-     "Rotuladores",
-     19,
-     "\"PLUMON DE PIZARRA CON CARTUCHO AZUL ( CH ) - SIMILAR MARCA PILOT\""
-    ],
-    [
-     "44111801",
-     "Rotuladores",
-     19,
-     "\"PLUMON DE PIZARRA CON CARTUCHO NEGRO ( CH ) - SIMILAR MARCA PILOT\""
-    ],
-    [
-     "44111801",
-     "Rotuladores",
-     19,
-     "\"PLUMON DE PIZARRA CON CARTUCHO ROJO ( CH ) - SIMILAR MARCA PILOT\""
-    ],
-    [
-     "44121506",
-     "Sobres estándar",
-     30,
-     "SOBRE SACO TAMAÑO OFICIO BLANCO GIGANT"
-    ],
-    [
-     "44121506",
-     "Sobres estándar",
-     30,
-     "SOBRE SACO REVISTA CARTA BLANCO OLIMPIA 80"
-    ],
-    [
-     "44121613",
-     "Saca corchetes",
-     2,
-     "\"SACACORCHETE NEGRO SC 100 ( CM ) - SIMILAR MARCA ISOFIT\""
-    ],
-    [
-     "44122104",
-     "Clips para papel",
-     4,
-     "CAJA DE CLIPS METALICOS 78 mm o 80 mm - 50 UNIDADES PROX - SIMILAR MARCA ISOFIT"
-    ],
-    [
-     "44122104",
-     "Clips para papel",
-     2,
-     "\"CAJA DE CLIPS METALICOS 28 mm 100 UNIDADES PROX - SIMILAR MARCA ISOFIT\""
-    ],
-    [
-     "45101802",
-     "Máquinas cortadoras para libros",
-     3,
-     "\"CUCHILLO CARTONERO GRANDE 18MM ANTIDESLIZANTE RETRACTIL C/SEGURO ( CM ) - SIMILAR MARCA TORRE\""
-    ],
-    [
-     "45101802",
-     "Máquinas cortadoras para libros",
-     3,
-     "\"PACK REPUESTO CUCHILLO CARTONERO 18MM x 10 UNIDADES ( CM ) - SIMILAR MARCA TORRE\""
-    ],
-    [
-     "60101732",
-     "Apuntadores o punteros",
-     4,
-     "PUNTERO LÁSER / PRESENTADOR INALAMBRICO LASER DE PREFERENCIA QUE VENGA C/PILA AAA SIMILAR MARCA HP"
-    ],
-    [
-     "60121109",
-     "Blocs de dibujo",
-     4,
-     "BLOC GRANDE/ PIZARRA PAPELÓGRAFO 30 HOJAS 65cm X 80cm o 63.5cm X 77cm o 63.5cm X 76.2cm (De preferencia tamaños similares) - SIMILAR MARCA RHEIN o POST-IT"
-    ],
-    [
-     "60121524",
-     "Bolígrafos de gel",
-     32,
-     "\"LAPIZ TINTA V-BALL GRIP 1.0 COLOR ROJO - SIMILAR MARCA PILOT\""
-    ],
-    [
-     "60121524",
-     "Bolígrafos de gel",
-     32,
-     "\"LAPIZ TINTA V-BALL GRIP 1.0 COLOR NEGRO - SIMILAR MARCA PILOT\""
-    ],
-    [
-     "60121524",
-     "Bolígrafos de gel",
-     32,
-     "\"LAPIZ TINTA V-BALL GRIP 1.0 COLOR AZUL - SIMILAR MARCA PILOT\""
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=886182-256-COT26",
-   "sin_detalle": false,
-   "descripcion": "Se requiere cotizar el insumo descrito en el presente formulario. Cotización debe indicar la especificación técnica de lo ofertado y el plazo de entrega en días corridos, considerando la entrega de los productos en dependencias de la Uaysen y no en la empresa de transportes. El valor ofertado debe incluir impuestos y flete. Se podrá privilegiar el menor plazo ofertado que cumpla con lo especificado. Cotización debe indicar datos de contacto del oferente.",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
-  {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Conectores, enchufes y terminales"
-   ],
-   "nueva": true,
-   "codigo": "1233615-963-COT26",
-   "nombre": "DMH SOL-2026-01931] Recursos TICS para Escuela \"Litoral Austral\" de Puerto Aysén",
-   "organismo": "Servicio Local de Educación Pública Aysén",
-   "unidad": "Servicio Local de Educación Pública Aysén",
-   "monto": 302470,
-   "cierre_iso": "2026-11-11T09:00:00-03:00",
-   "publicacion": "09-11 11:11",
-   "publicacion_iso": "2026-11-09T11:11:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "39121409",
-     "Conectores de cables eléctricos",
-     1,
-     "insumos, accesorios y equipamiento informático necesarios para garantizar la continuidad operativa, mantención y adecuado funcionamiento de los recursos tecnológicos de la Escuela Litoral Austral, de acuerdo a requerimiento adjunto a la presente compra (debe llenar el formulario N°1)"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1233615-963-COT26",
-   "sin_detalle": false,
-   "descripcion": "Se solicita la adquisición de insumos, accesorios y equipamiento informático necesarios para garantizar la continuidad operativa, mantención y adecuado funcionamiento de los recursos tecnológicos de la Escuela Litoral Austral.",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "iluminación"
-   ],
-   "nueva": true,
-   "codigo": "1233615-960-COT26",
-   "nombre": "DMH [SOL-2026-02150] Recursos para el aprendizaje e innovación (focos, atriles y otros) para Liceo Politécnico A-1 de Puerto Aysén",
-   "organismo": "Servicio Local de Educación Pública Aysén",
-   "unidad": "Servicio Local de Educación Pública Aysén",
-   "monto": 425000,
-   "cierre_iso": "2026-11-11T10:00:00-03:00",
-   "publicacion": "09-11 10:52",
-   "publicacion_iso": "2026-11-09T10:52:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "39111504",
-     "Sistemas de iluminación de escenario o estudio",
-     1,
-     "Recursos para el aprendizaje e innovación (atril, focos y otros) para Liceo Politécnico A-1 de Puerto Aysén, de acuerdo a requerimiento adjunto a la presente compra (llenar formulario 1)"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1233615-960-COT26",
-   "sin_detalle": false,
-   "descripcion": "Estos implementos permitirán desarrollar competencias tecnológicas, comunicativas, técnicas y laborales, fomentar la creatividad, el trabajo colaborativo y la participación estudiantil, además de apoyar la difusión de las actividades institucionales y el mejoramiento de los espacios educativos.",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
-  {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Gasfitería, calefacción y aire acondicionado"
-   ],
-   "nueva": true,
-   "codigo": "4733-496-COT26",
-   "nombre": "REPARACION SALA DE PROCESO",
-   "organismo": "I MUNICIPALIDAD DE LAS GUAITECAS",
-   "unidad": "I MUNICIPALIDAD DE LAS GUAITECAS",
-   "monto": 95000,
-   "cierre_iso": "2026-11-11T10:00:00-03:00",
-   "publicacion": "06-11 16:11",
-   "publicacion_iso": "2026-11-06T16:11:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "72102302",
-     "Instalación, reparación o mantenimiento de sistemas de calefacción",
-     1,
-     "REPARACION Y MANTENIMIENTO SALA DE PROCESOS"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=4733-496-COT26",
-   "sin_detalle": false,
-   "descripcion": "Se requiere contratar el servicio para reparación y mantenimiento de sala de proceso, según especificaciones adjuntas, adjuntar cotización.-",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
     "certificación sec"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "2713-1347-COT26",
    "nombre": "IMPLEMENTOS. FOLIO 1409 DIDECO CAE- VG",
    "organismo": "I MUNICIPALIDAD DE AYSEN",
@@ -411,7 +77,7 @@
    "motivos": [
     "Servicios eléctricos"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "4140-108-COT26",
    "nombre": "MANO DE OBRA, INSTALACION DE CENTRO ELECTRICO",
    "organismo": "I MUNICIPALIDAD DE LAGO VERDE",
@@ -494,7 +160,7 @@
     "certificación sec",
     "eléctrico"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "1173433-21-COT26",
    "nombre": "ADQUISICIÓN DE MAQUINARIA Y EQUIPAMIENTO AGRÍCOLA",
    "organismo": "Centro de Educación y Trabajo Valle Verde",
@@ -547,7 +213,7 @@
    "motivos": [
     "eléctrico"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "1180817-3-COT26",
    "nombre": "Adquisición de Mobiliario y Equipamiento",
    "organismo": "SERVICIO DE SALUD AYSEN CARLOS IBANEZ DEL CAMPO",
@@ -608,11 +274,273 @@
    "desaparecida_iso": ""
   },
   {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Conectores, enchufes y terminales"
+   ],
+   "nueva": true,
+   "codigo": "3791-1135-COT26",
+   "nombre": "TECHO MERCADO MUNICIPAL LA JUNTA ",
+   "organismo": "I MUNICIPALIDAD DE CISNES",
+   "unidad": "Finanzas",
+   "monto": 1306300,
+   "cierre_iso": "2026-11-12T11:00:00-03:00",
+   "publicacion": "09-11 16:43",
+   "publicacion_iso": "2026-11-09T16:43:00-03:00",
+   "ofertas": 1,
+   "productos": [
+    [
+     "30103605",
+     "Tablas de madera",
+     8,
+     "TERCIADO RANURADO COLONIAL 9MM 1.22X2.44M"
+    ],
+    [
+     "30103605",
+     "Tablas de madera",
+     4,
+     "PINO SECO CEPILLADO 1X8 X 3.2MTS"
+    ],
+    [
+     "30103605",
+     "Tablas de madera",
+     6,
+     "PINO SECO CEPILLADO 2X5 X 3.2 MTS"
+    ],
+    [
+     "30103605",
+     "Tablas de madera",
+     4,
+     "PINO SECO CEPILLADO 2X6 3.2M"
+    ],
+    [
+     "30103605",
+     "Tablas de madera",
+     6,
+     "PINO SECO CEPILLADO 5X5 X 3.2MTS"
+    ],
+    [
+     "30103605",
+     "Tablas de madera",
+     18,
+     "PINO SECO CEPILLADO 2X2 X 3.2 MTS"
+    ],
+    [
+     "30111601",
+     "Cemento",
+     4,
+     "CEMENTO MELON 25K"
+    ],
+    [
+     "30151505",
+     "Membranas para techos",
+     1,
+     "TYVEK MEMBRANA HIDROFUGA SURHOUSE 75M2"
+    ],
+    [
+     "30151506",
+     "Tejas",
+     12,
+     "TEJA CONTINUA NEGRA 3.66"
+    ],
+    [
+     "30161718",
+     "Plataforma de acero antideslizante",
+     3,
+     "CUMBRERA X 3M NEGRO"
+    ],
+    [
+     "31161503",
+     "Clavo-tornillo",
+     3,
+     "CLAVO. 4\" X 8 CTE X KILO"
+    ],
+    [
+     "31161503",
+     "Clavo-tornillo",
+     2,
+     "CLAVO. 3\" X10 CTE X KILO"
+    ],
+    [
+     "31161503",
+     "Clavo-tornillo",
+     100,
+     "TORNILLO DRYWALL 1 1/4\""
+    ],
+    [
+     "31161608",
+     "Tirafondos",
+     30,
+     "TIRAFONDO 3/8 X 2.1/2\""
+    ],
+    [
+     "31162005",
+     "Clavos para tejados",
+     100,
+     "HEXAG. AUTOP. TORN. 2.1/2\""
+    ],
+    [
+     "31211504",
+     "Pinturas de cobertura",
+     1,
+     "CERESTAIN NATURAL"
+    ],
+    [
+     "31211904",
+     "Brochas",
+     2,
+     "BROCHA CERDA NAT. 4\" COBRA"
+    ],
+    [
+     "39121435",
+     "Hilos o cables de conexión",
+     1,
+     "TRUPER HILO ALBAÑIL"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=3791-1135-COT26",
+   "sin_detalle": false,
+   "descripcion": "ADQUISICION DE MATERIALES PARA LA REPARACION EN TECHO DE MERCADO MUNICIPAL DE LA JUNTA. SE ADJUNTAN ANEXOS",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Conectores, enchufes y terminales"
+   ],
+   "nueva": true,
+   "codigo": "3791-1132-COT26",
+   "nombre": "BAÑOS GIM PUYUHUAPI",
+   "organismo": "I MUNICIPALIDAD DE CISNES",
+   "unidad": "Finanzas",
+   "monto": 1335530,
+   "cierre_iso": "2026-11-12T11:12:00-03:00",
+   "publicacion": "09-11 16:00",
+   "publicacion_iso": "2026-11-09T16:00:00-03:00",
+   "ofertas": 1,
+   "productos": [
+    [
+     "12352310",
+     "Siliconas",
+     4,
+     "Silicona sanitaria antihongos"
+    ],
+    [
+     "20142201",
+     "Calentadores de línea eléctrica",
+     2,
+     "calefónt de 14 litros"
+    ],
+    [
+     "30171514",
+     "Cierres de puertas",
+     10,
+     "Bisagras 3\" para puertas de baño y ducha"
+    ],
+    [
+     "30181504",
+     "Lavamanos",
+     6,
+     "llaves de lavamanos"
+    ],
+    [
+     "30181505",
+     "Taza de WC",
+     4,
+     "urinarios de pared para hombres"
+    ],
+    [
+     "30181509",
+     "Jabonera",
+     4,
+     "dispensadores de jabon"
+    ],
+    [
+     "30181513",
+     "Tapas de inodoro",
+     5,
+     "tapas para WC"
+    ],
+    [
+     "31201522",
+     "Cinta de transferencia adhesiva",
+     2,
+     "teflón amarillo"
+    ],
+    [
+     "31201522",
+     "Cinta de transferencia adhesiva",
+     2,
+     "teflón blanco"
+    ],
+    [
+     "39121419",
+     "Conexiones flexibles",
+     4,
+     "flexibles 60cm"
+    ],
+    [
+     "39121419",
+     "Conexiones flexibles",
+     2,
+     "Flexible de gas"
+    ],
+    [
+     "40141705",
+     "Caños",
+     2,
+     "Kit ducto de evacuación de gases calefont 4\" (cañón, codo y sombrerete)"
+    ],
+    [
+     "40141716",
+     "Sifones en P",
+     4,
+     "Sifon urinarios"
+    ],
+    [
+     "42292307",
+     "Llaves quirúrgicas",
+     2,
+     "Llave de paso de gas 1/2\""
+    ],
+    [
+     "42292307",
+     "Llaves quirúrgicas",
+     4,
+     "Llave/válvula de urinario"
+    ],
+    [
+     "46171503",
+     "Juegos de cerraduras",
+     1,
+     "cerradura completa normal doble seguro"
+    ],
+    [
+     "46171503",
+     "Juegos de cerraduras",
+     1,
+     "cerradura completa para la puerta blanca lateral"
+    ],
+    [
+     "47131703",
+     "Recipientes para residuos sanitarios",
+     4,
+     "basureros"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=3791-1132-COT26",
+   "sin_detalle": false,
+   "descripcion": "ADQISICION DE MATERIALES DE CONSTRUCCION PARA REPARACION DE BAÑOS GIMNASIO PUYUHUAPI",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
    "tipo": "POSIBLE",
    "motivos": [
     "eléctrico"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "4066-494-COT26",
    "nombre": "SERVICIO DE IMPRESIÓN DE IMPLEMENTOS PARA TURISMO",
    "organismo": "I MUNICIPALIDAD RIO IBANEZ",
@@ -649,11 +577,137 @@
    "desaparecida_iso": ""
   },
   {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Cajas y accesorios eléctricos",
+    "Interruptores, controles y relés"
+   ],
+   "nueva": true,
+   "codigo": "5019-66-COT26",
+   "nombre": "Adquisición de elementos de construcción",
+   "organismo": "Ejercito de Chile",
+   "unidad": "Centro Clínico Militar Coyhaique",
+   "monto": 340000,
+   "cierre_iso": "2026-11-12T12:30:00-03:00",
+   "publicacion": "11-11 12:02",
+   "publicacion_iso": "2026-11-11T12:02:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "11121610",
+     "Maderas duras",
+     2,
+     "Moldura ½ caña pino finger natural 15mm x 45mm x 3mts."
+    ],
+    [
+     "27111704",
+     "Enchufes",
+     2,
+     "Enchufe embutido triple 10-16 amperes, color blanco."
+    ],
+    [
+     "27111712",
+     "Extractores",
+     1,
+     "Extracto de aire, techo – pared de 4 pulgadas."
+    ],
+    [
+     "30102212",
+     "Plancha de cinc",
+     1,
+     "Plancha yeso cartón borde rebajado 10mm, 120cm x 240 cm.."
+    ],
+    [
+     "31151703",
+     "Cables elevadores",
+     1,
+     "Cable libre de halógeno, 1x2.5mm rojo, rollo de 25 metros."
+    ],
+    [
+     "31151703",
+     "Cables elevadores",
+     1,
+     "Cable libre de halógeno, 1x2.5mm blanco, rollo de 25 metros."
+    ],
+    [
+     "31151703",
+     "Cables elevadores",
+     1,
+     "Cable libre de halógeno, 1x2.5mm verde, rollo de 25 metros."
+    ],
+    [
+     "31161505",
+     "Tornillos de presión",
+     1,
+     "Tornillo vulcanita zincado CRS 6X2-1/2 pulgadas, punta fina, caja 100 unidades."
+    ],
+    [
+     "31211501",
+     "Pinturas al esmalte",
+     1,
+     "Esmalte al agua galón semibrillo blanco, exterior – interior."
+    ],
+    [
+     "31211904",
+     "Brochas",
+     1,
+     "Brocha multiuso 2 pulgadas."
+    ],
+    [
+     "39101608",
+     "Focos cialiticos",
+     7,
+     "Foco led redondo color blanco, embutido luz cálida, diámetro 22 cms."
+    ],
+    [
+     "39121205",
+     "Canaletas para cables",
+     6,
+     "Canaleta blanca 40x16mm, 2 metros con adhesivo."
+    ],
+    [
+     "39121311",
+     "Accesorios eléctricos",
+     4,
+     "Caja chuqui blanca sobrepuesta universal"
+    ],
+    [
+     "39121511",
+     "Interruptores variables",
+     1,
+     "Interruptor 9/12 embutido, color blanco"
+    ],
+    [
+     "46171503",
+     "Juegos de cerraduras",
+     1,
+     "Cerradura acceso doble manilla 914, material de acero, color bronce sanitado."
+    ],
+    [
+     "51102702",
+     "Agua destilada para irrigación",
+     5,
+     "Agua desmineralizada, bidón 05 litros"
+    ],
+    [
+     "56111601",
+     "Pantallas para los sistemas de panel",
+     1,
+     "Panel led sobrepuesto 60cms x 60 cms, luz fría."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=5019-66-COT26",
+   "sin_detalle": false,
+   "descripcion": "Adquisición de elementos de construcción para el CCM \"Coyhaique\". Las ofertas serán declaradas inadmisibles cuando: Cotización sobrepase presupuesto disponible, oferten elementos de construcción que no sean los solicitados, oferta considere flete aparte y exceder plazo de entrega. Características técnicas solicitadas en anexo adjunto. Se deberá postular por la totalidad de los insumos. El retiro o entrega debe ser en la ciudad de Coyhaique.",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
    "tipo": "POSIBLE",
    "motivos": [
     "eléctrico"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "1113146-63-COT26",
    "nombre": "ELEMENTOS DE TERRENO",
    "organismo": "CORP NACIONAL FORESTAL",
@@ -707,7 +761,7 @@
     "ampolleta",
     "ampolletas"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "1113146-61-COT26",
    "nombre": "Materiales de Faena y otros",
    "organismo": "CORP NACIONAL FORESTAL",
@@ -916,7 +970,7 @@
     "generador",
     "generador eléctrico"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "907-101-COT26",
    "nombre": "AAH Mantención correctiva generador eléctrico diésel laboratorio",
    "organismo": "SERVICIO AGRICOLA Y GANADERO",
@@ -1531,6 +1585,99 @@
  ],
  "historial": [
   {
+   "codigo": "1233615-960-COT26",
+   "nombre": "DMH [SOL-2026-02150] Recursos para el aprendizaje e innovación (focos, atriles y otros) para Liceo Politécnico A-1 de Puerto Aysén",
+   "organismo": "Servicio Local de Educación Pública Aysén",
+   "monto": 425000,
+   "cierre_iso": "2026-11-11T10:00:00-03:00",
+   "tipo": "POSIBLE",
+   "motivos": [
+    "iluminación"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1233615-960-COT26",
+   "primera_vista_iso": "2026-11-10T19:26:29-03:00",
+   "removida_iso": "2026-11-11T14:18:43-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
+  {
+   "codigo": "4733-496-COT26",
+   "nombre": "REPARACION SALA DE PROCESO",
+   "organismo": "I MUNICIPALIDAD DE LAS GUAITECAS",
+   "monto": 95000,
+   "cierre_iso": "2026-11-11T10:00:00-03:00",
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Gasfitería, calefacción y aire acondicionado"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=4733-496-COT26",
+   "primera_vista_iso": "2026-11-10T19:26:29-03:00",
+   "removida_iso": "2026-11-11T14:18:43-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
+  {
+   "codigo": "1233615-963-COT26",
+   "nombre": "DMH SOL-2026-01931] Recursos TICS para Escuela \"Litoral Austral\" de Puerto Aysén",
+   "organismo": "Servicio Local de Educación Pública Aysén",
+   "monto": 302470,
+   "cierre_iso": "2026-11-11T09:00:00-03:00",
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Conectores, enchufes y terminales"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1233615-963-COT26",
+   "primera_vista_iso": "2026-11-10T19:26:29-03:00",
+   "removida_iso": "2026-11-11T14:18:43-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
+  {
+   "codigo": "886182-256-COT26",
+   "nombre": " Materiales de oficina_segun fisabs 2350_Departamento Ciencias Naturales y Tecnología",
+   "organismo": "UNIVERSIDAD DE AYSEN",
+   "monto": 1421958,
+   "cierre_iso": "2026-11-11T08:00:00-03:00",
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Cables eléctricos y accesorios",
+    "Suministros y accesorios eléctricos"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=886182-256-COT26",
+   "primera_vista_iso": "2026-11-10T19:26:29-03:00",
+   "removida_iso": "2026-11-11T14:18:43-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
+  {
+   "codigo": "1281188-19-COT26",
+   "nombre": "Generador Eléctrico Diésel Uso Continuo 17kVa ",
+   "organismo": "DELEGACIÓN PRESIDENCIAL PROVINCIAL DE CAPITÁN PRAT",
+   "monto": 7200000,
+   "cierre_iso": "2026-11-11T07:57:00-03:00",
+   "tipo": "POSIBLE",
+   "motivos": [
+    "eléctrico",
+    "generador",
+    "generador eléctrico"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1281188-19-COT26",
+   "primera_vista_iso": "2026-10-30T13:05:28-03:00",
+   "removida_iso": "2026-11-11T14:18:43-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
+  {
    "codigo": "1079689-526-COT26",
    "nombre": "ADQUISICIÓN SERVICIO INSTALACIÓN PISO FLOTANTE, MEJORAMIENTO INSTALACIONES ELÉCTRICAS Y FABRICACIÓN ESTANTERÍAS CON MATERIALES INCLUIDOS PARA LA A.F. 094 DE LA 1RA. CO MISARÍA COYHAIQUE.",
    "organismo": "SECCIÓN COMPRAS XI ZONA",
@@ -1944,7 +2091,7 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=1078779-24-COT26",
    "primera_vista_iso": "2026-10-27T12:27:37-03:00",
    "removida_iso": "2026-11-10T19:26:29-03:00",
-   "estado_api": null,
+   "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,
    "adj_iso": null
@@ -2074,62 +2221,6 @@
    "primera_vista_iso": "2026-11-03T19:24:45-03:00",
    "removida_iso": "2026-11-05T14:29:51-03:00",
    "estado_api": null,
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "613-38-COT26",
-   "nombre": " Servicio de mantención y reparación del grupo electrógeno y sistema de transferencia automática",
-   "organismo": "Ministerio de Vivienda y Urbanismo",
-   "monto": 7000000,
-   "cierre_iso": "2026-11-04T11:00:00-03:00",
-   "tipo": "POSIBLE",
-   "motivos": [
-    "grupo electrógeno"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=613-38-COT26",
-   "primera_vista_iso": "2026-11-03T14:11:19-03:00",
-   "removida_iso": "2026-11-04T14:23:11-03:00",
-   "estado_api": "",
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "3791-1099-COT26",
-   "nombre": "ALTERNADOR Y CORREAS",
-   "organismo": "I MUNICIPALIDAD DE CISNES",
-   "monto": 447000,
-   "cierre_iso": "2026-11-04T11:00:00-03:00",
-   "tipo": "POSIBLE",
-   "motivos": [
-    "generador"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=3791-1099-COT26",
-   "primera_vista_iso": "2026-11-03T14:11:19-03:00",
-   "removida_iso": "2026-11-04T14:23:11-03:00",
-   "estado_api": "",
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "3950-710-COT26",
-   "nombre": "Repuestos para Aires Acondicionado CLJ",
-   "organismo": "DIRECCION SALUD RURAL",
-   "monto": 350000,
-   "cierre_iso": "2026-11-04T09:00:00-03:00",
-   "tipo": "POSIBLE",
-   "motivos": [
-    "aire acondicionado",
-    "enchufe",
-    "enchufes"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=3950-710-COT26",
-   "primera_vista_iso": "2026-11-02T16:38:38-03:00",
-   "removida_iso": "2026-11-04T14:23:11-03:00",
-   "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,
    "adj_iso": null

@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-11-10T23:02:20.958716-03:00",
+ "actualizado": "2026-11-11T14:18:43.639416-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
- "total_region": 339,
+ "total_region": 330,
  "rubros": {
   "80141600": "Ventas y marketing",
   "82101600": "Publicidad en medios no impresos",
@@ -15,203 +15,11 @@
  },
  "filas": [
   {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "difusion"
-   ],
-   "nueva": true,
-   "codigo": "4144-313-COT26",
-   "nombre": "Se requiere la contratacion de servicios de Desarrollo de plataforma Digital patra ejecucion del Proyecto Niñez y Patrimonio en LagoVerde.-",
-   "organismo": "I MUNICIPALIDAD DE LAGO VERDE",
-   "unidad": "Finanzas",
-   "monto": 1400000,
-   "cierre_iso": "2026-11-11T08:00:00-03:00",
-   "publicacion": "06-11 08:51",
-   "publicacion_iso": "2026-11-06T08:51:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "81112103",
-     "Servicios de diseño de sitio Web",
-     1,
-     "Servicio de Desarrollo Web: desarrollo e implementacion de una plataforma digital  web orientada a la visualizacion y difusion de contenido culturales generados en talleres participativos , incluyendo la integracion de animaciones de personajes  creados por los usuarios.el servicio contempla diseño y desarrollo frontend/backend , estructuracion de base de datos  carga y gestion de contenido mutimendia y optimizacion para acceso mutiplataforma.Se adjunta Terminos de referencia del servicio,"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=4144-313-COT26",
-   "sin_detalle": false,
-   "descripcion": "Se requiere la contratacion de servicios de Desarrollo de plataforma Digital patra ejecucion del Proyecto Niñez y Patrimonio en LagoVerde.-",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "difusión",
-    "publicidad"
-   ],
-   "nueva": true,
-   "codigo": "1233615-962-COT26",
-   "nombre": "DMH [SOL-2026-02150] Recursos para el aprendizaje e innovación (pendones) para Liceo Politécnico A-1 de Puerto Aysén",
-   "organismo": "Servicio Local de Educación Pública Aysén",
-   "unidad": "Servicio Local de Educación Pública Aysén",
-   "monto": 600000,
-   "cierre_iso": "2026-11-11T10:00:00-03:00",
-   "publicacion": "09-11 11:02",
-   "publicacion_iso": "2026-11-09T11:02:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "82101502",
-     "Publicidad en carteles",
-     1,
-     "Recursos para el aprendizaje e innovación para Liceo Politécnico A-1 de Puerto Aysén (bandera vela y Panel araña), de acuerdo a requerimiento adjunto a la presente compra (debe llenar formulario 1)"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1233615-962-COT26",
-   "sin_detalle": false,
-   "descripcion": "Estos implementos permitirán desarrollar competencias tecnológicas, comunicativas, técnicas y laborales, fomentar la creatividad, el trabajo colaborativo y la participación estudiantil, además de apoyar la difusión de las actividades institucionales y el mejoramiento de los espacios educativos.",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "difusión"
-   ],
-   "nueva": true,
-   "codigo": "1233615-961-COT26",
-   "nombre": "DMH [SOL-2026-02150] Recursos para el aprendizaje e innovación (hidrolavadora y manguera) para Liceo Politécnico A-1 de Puerto Aysén",
-   "organismo": "Servicio Local de Educación Pública Aysén",
-   "unidad": "Servicio Local de Educación Pública Aysén",
-   "monto": 230000,
-   "cierre_iso": "2026-11-11T10:00:00-03:00",
-   "publicacion": "09-11 10:57",
-   "publicacion_iso": "2026-11-09T10:57:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "40142008",
-     "Mangueras para agua",
-     1,
-     "Recursos para el aprendizaje e innovación (Hidrolavadora y manguera) para Liceo Politécnico A-1 de Puerto Aysén, de acuerdo a requerimiento adjunto a la presente compra (debe llenar formulario 1)"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1233615-961-COT26",
-   "sin_detalle": false,
-   "descripcion": "Estos implementos permitirán desarrollar competencias tecnológicas, comunicativas, técnicas y laborales, fomentar la creatividad, el trabajo colaborativo y la participación estudiantil, además de apoyar la difusión de las actividades institucionales y el mejoramiento de los espacios educativos.",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "difusión"
-   ],
-   "nueva": true,
-   "codigo": "1233615-960-COT26",
-   "nombre": "DMH [SOL-2026-02150] Recursos para el aprendizaje e innovación (focos, atriles y otros) para Liceo Politécnico A-1 de Puerto Aysén",
-   "organismo": "Servicio Local de Educación Pública Aysén",
-   "unidad": "Servicio Local de Educación Pública Aysén",
-   "monto": 425000,
-   "cierre_iso": "2026-11-11T10:00:00-03:00",
-   "publicacion": "09-11 10:52",
-   "publicacion_iso": "2026-11-09T10:52:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "39111504",
-     "Sistemas de iluminación de escenario o estudio",
-     1,
-     "Recursos para el aprendizaje e innovación (atril, focos y otros) para Liceo Politécnico A-1 de Puerto Aysén, de acuerdo a requerimiento adjunto a la presente compra (llenar formulario 1)"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1233615-960-COT26",
-   "sin_detalle": false,
-   "descripcion": "Estos implementos permitirán desarrollar competencias tecnológicas, comunicativas, técnicas y laborales, fomentar la creatividad, el trabajo colaborativo y la participación estudiantil, además de apoyar la difusión de las actividades institucionales y el mejoramiento de los espacios educativos.",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "difusión"
-   ],
-   "nueva": true,
-   "codigo": "2495-635-COT26",
-   "nombre": "PENDON CENTRO DE LAS MUJERES",
-   "organismo": "I MUNICIPALIDAD DE COYHAIQUE",
-   "unidad": "DIRECCION DESARROLLO COMUNITARIO",
-   "monto": 200000,
-   "cierre_iso": "2026-11-11T11:00:00-03:00",
-   "publicacion": "10-11 10:06",
-   "publicacion_iso": "2026-11-10T10:06:00-03:00",
-   "ofertas": 0,
-   "productos": [],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=2495-635-COT26",
-   "sin_detalle": false,
-   "descripcion": "Se requiere la adquisición de pendon, herramientas lúdicas para apoyar las actividades de difusión, promoción del Centro de las Mujeres. Los productos deberán cumplir con las características técnicas y especificaciones detalladas en el documento adjunto, el cual forma parte integral del presente requerimiento.\n\nSe solicita que los materiales sean nuevos, de buena calidad y que cumplan íntegramente con las especificaciones técnicas requeridas.",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "audiovisual",
-    "difusión",
-    "registro audiovisual"
-   ],
-   "nueva": true,
-   "codigo": "3797-527-COT26",
-   "nombre": "EQUIPAMIENTO AUDIOVISUAL",
-   "organismo": "I MUNICIPALIDAD DE COCHRANE",
-   "unidad": "I MUNICIPALIDAD DE COCHRANE",
-   "monto": 1000000,
-   "cierre_iso": "2026-11-11T12:40:00-03:00",
-   "publicacion": "10-11 12:37",
-   "publicacion_iso": "2026-11-10T12:37:00-03:00",
-   "ofertas": 0,
-   "productos": [],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=3797-527-COT26",
-   "sin_detalle": false,
-   "descripcion": "En el marco de las actividades de la oficina local de la niñez se requiere la adquisición de una cámara digital para registro audiovisual y dos micrófonos inalámbricos, destinados al desarrollo de actividades institucionales, difusión y promoción de derechos de niños, niñas y adolescentes.",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "difusion"
-   ],
-   "nueva": true,
-   "codigo": "4609-308-COT26",
-   "nombre": "MATERIALES DE DIFUSION Y/O PROMOCION ",
-   "organismo": "I MUNICIPALIDAD DE CHILE CHICO",
-   "unidad": "Finanzas",
-   "monto": 1600000,
-   "cierre_iso": "2026-11-11T12:45:00-03:00",
-   "publicacion": "06-11 12:51",
-   "publicacion_iso": "2026-11-06T12:51:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "60105810",
-     "Materiales educativos de tintes y pinturas textiles",
-     1,
-     "MATERIALES DE DIFUSION Y/O PROMOCION A TRAVES DE LA OFICINA LOCAL DE LA NIÑEZ. (Detalles en archivos adjunto)."
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=4609-308-COT26",
-   "sin_detalle": false,
-   "descripcion": "COTIZACION MATERIALES DE DIFUSION Y/O PROMOCION (OLN)",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
-  {
    "tipo": "OPORTUNIDAD",
    "motivos": [
     "Ventas y marketing"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "2713-1341-COT26",
    "nombre": "Producción de actividades - DIDECO - PROMOS - 1398",
    "organismo": "I MUNICIPALIDAD DE AYSEN",
@@ -373,7 +181,7 @@
     "publicitario",
     "publicitarios"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "4066-494-COT26",
    "nombre": "SERVICIO DE IMPRESIÓN DE IMPLEMENTOS PARA TURISMO",
    "organismo": "I MUNICIPALIDAD RIO IBANEZ",
@@ -410,11 +218,40 @@
    "desaparecida_iso": ""
   },
   {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "audiovisual"
+   ],
+   "nueva": true,
+   "codigo": "1280-78-COT26",
+   "nombre": "TELEVISOR SMART TV 75”",
+   "organismo": "MINISTERIO DE OBRAS PUBLICAS DIREC CION GRAL DE OO PP DCYF",
+   "unidad": "Direccion de Vialidad - XI Región - Provincia de Cochrane",
+   "monto": 850000,
+   "cierre_iso": "2026-11-12T13:15:00-03:00",
+   "publicacion": "11-11 13:00",
+   "publicacion_iso": "2026-11-11T13:00:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "52161505",
+     "Televisores convencionales, de plasma y LCD",
+     1,
+     "Televisor Smart TV LED de 75 pulgadas, con resolución 4K Ultra HD,, segun ETE indicadas en terminos de referencia.\nSe debe completar formulario, sino oferta no sera evaluada (se declarar inadmisible). Proveedor debe entregar TV en la Ciudad de Cochrane, debe cancelar flete de traslado."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1280-78-COT26",
+   "sin_detalle": false,
+   "descripcion": "Televisor Smart TV LED de 75 pulgadas, con resolución 4K Ultra HD, destinado a satisfacer las necesidades de visualización de contenido audiovisual, presentaciones institucionales y demás actividades propias del Servicio.\nTelevisor debe ser entregado en la ciudad de Cochrane, proveedor debe  cancelar flete.",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
    "tipo": "OPORTUNIDAD",
    "motivos": [
     "Ventas y marketing"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "4889-48-COT26",
    "nombre": "Servicios integrales de producción para jornada de bienestar y formación CeCrea -  SEREMI de las Culturas, las Artes y el Patrimonio Región de Aysén",
    "organismo": "Subsecretaria de las Culturas y las Artes Región de Aysen",
@@ -435,6 +272,35 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=4889-48-COT26",
    "sin_detalle": false,
    "descripcion": "La Secretaría Regional Ministerial de las Culturas, las Artes y el Patrimonio de la Región de Aysén requiere contratar Servicios integrales de producción para jornada de bienestar y formación CeCrea",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "publicitaria"
+   ],
+   "nueva": true,
+   "codigo": "1538639-14-COT26",
+   "nombre": "Adquisición de material gráfico institucional personalizado",
+   "organismo": "CORPORACIÓN DE DESARROLLO DEL GOBIERNO REGIONAL DE AYSÉN",
+   "unidad": "CORPORACIÓN DE DESARROLLO DEL GOBIERNO REGIONAL DE AYSÉN",
+   "monto": 1500000,
+   "cierre_iso": "2026-11-12T15:00:00-03:00",
+   "publicacion": "11-11 12:30",
+   "publicacion_iso": "2026-11-11T12:30:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "82121505",
+     "Impresión promocional o publicitaria",
+     1,
+     "Servicio integral de diseño, impresión y suministro de 100 carpetas corporativas impresas por ambas caras, 100 lápices personalizados, 100 fichas institucionales y 400 tarjetas de presentación (4 diseños). Incluye diagramación, preparación de archivos, terminaciones y despacho a Coyhaique. Se cotiza el conjunto completo como una sola unidad, sin ofertas parciales. Cumplimiento obligatorio de las especificaciones técnicas y condiciones de la minuta adjunta."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1538639-14-COT26",
+   "sin_detalle": false,
+   "descripcion": "La Corporación de Desarrollo del Gobierno Regional de Aysén requiere adquirir 100 carpetas corporativas, 100 lápices personalizados, 100 fichas institucionales y 400 tarjetas de presentación, incluyendo diseño, impresión por ambas caras cuando corresponda y despacho a Coyhaique.\nPlazo de entrega: 5 días corridos, conforme a la minuta adjunta. Presupuesto máximo: $1.500.000 IVA incluido. No se aceptan ofertas parciales.",
    "en_gracia": false,
    "desaparecida_iso": ""
   },
@@ -463,24 +329,61 @@
    "desaparecida_iso": ""
   },
   {
-   "tipo": "POSIBLE",
+   "tipo": "OPORTUNIDAD",
    "motivos": [
-    "radiales"
+    "Inserciones publicitarias en medios"
    ],
    "nueva": true,
-   "codigo": "1332-43-COT26",
-   "nombre": "PLAN DE MEDIOS Y CONTINUIDAD DE PLATAFORMA WEB PARA LA CAMPAÑA REGIONAL DE CONCIENCIA TURÍSTICA AYSÉN PATAGONIA",
-   "organismo": "Servicio Nacional de Turismo",
-   "unidad": "Direccion Regional de Aysen",
-   "monto": 6800000,
-   "cierre_iso": "2026-11-13T12:00:00-03:00",
-   "publicacion": "10-11 15:56",
-   "publicacion_iso": "2026-11-10T15:56:00-03:00",
+   "codigo": "1274667-438-COT26",
+   "nombre": "RVB - SE SOLICITA SERVICIO DE AVISOS RADIALES PARA EL CESFAM DE PUERTO AYSEN",
+   "organismo": "CENTRO DE SALUD FAMILIAR PUERTO AYSÉN",
+   "unidad": "CENTRO DE SALUD FAMILIAR PUERTO AYSÉN",
+   "monto": 342150,
+   "cierre_iso": "2026-11-13T08:00:00-03:00",
+   "publicacion": "11-11 08:39",
+   "publicacion_iso": "2026-11-11T08:39:00-03:00",
    "ofertas": 0,
-   "productos": [],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1332-43-COT26",
+   "productos": [
+    [
+     "82101901",
+     "Avisos en radio",
+     1,
+     "Se requiere contratar un servicio de difusión de avisos radiales para informar a la comunidad sobre actividades, apertura de agendas médicas, campañas preventivas, prestaciones de salud y otras comunicaciones institucionales del CESFAM Puerto Aysén."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1274667-438-COT26",
    "sin_detalle": false,
-   "descripcion": "Contratar la implementación y gestión de un plan de medios para difundir la Campaña Regional de Conciencia Turística Aysén Patagonia a través de medios radiales, televisivos y digitales, asegurando además la continuidad operativa de la plataforma web “Aysén Eres Tú” mediante la renovación de su suscripción por 24 meses.",
+   "descripcion": "ADJUNTAR Cotización formal: indicar valor unitario neto por aviso radial, duración incluida en el precio, IVA, nombre de la emisora y vigencia de la oferta. - Ficha técnica del servicio indicando nombre de la emisora, frecuencia radial, cobertura y horarios disponibles para la transmisión.",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "aviso",
+    "avisos"
+   ],
+   "nueva": true,
+   "codigo": "1092-86-COT26",
+   "nombre": "SIC 457 SIRE 471 SERVICIOS PROFECIONALES",
+   "organismo": "CORP NACIONAL FORESTAL",
+   "unidad": "XI Región - Oficina Regional de Aysén",
+   "monto": 6000000,
+   "cierre_iso": "2026-11-14T13:00:00-03:00",
+   "publicacion": "11-11 12:50",
+   "publicacion_iso": "2026-11-11T12:50:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "70151508",
+     "Servicios de asistencia forestal",
+     1,
+     "CONTRATACIÓN DE SERVICIO PROFESIONALES DE UN INGENIERO/A FORESTAL PRESENTACIÓN DE AVISOS EJECUCIÓN DE AVISOS DE POSTERGACIÓN LEY 20283 COMUNA COYHAIQUE – RIO IBAÑEZ LA FINALIDAD ES CONTRATAR LOS SERVICIOS PROFESIONALES DE UN INGENIERO/A FORESTAL QUE LOGRE ASUMIR FUNCIONES DE APOYO EN LA PRESENTACIÓN DE 28 AVISO EJECUCIÓN DE AVISOS DE POSTERGACIÓN ASOCIADOS A PLANES DE MANEJO FORESTAL"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1092-86-COT26",
+   "sin_detalle": false,
+   "descripcion": "CONTRATACIÓN DE SERVICIO PROFESIONALES DE UN INGENIERO/A FORESTAL PRESENTACIÓN DE AVISOS EJECUCIÓN DE AVISOS DE POSTERGACIÓN LEY 20283 COMUNA COYHAIQUE – RIO IBAÑEZ La finalidad es contratar los servicios profesionales de un Ingeniero/a Forestal que logre asumir funciones de apoyo en la presentación de 28 aviso ejecución de Avisos de postergación asociados a Planes de manejo forestal ley 20283 (se adjunta Requerimientos y bases técnicas)",
    "en_gracia": false,
    "desaparecida_iso": ""
   },
@@ -490,7 +393,7 @@
     "avisos",
     "publicidad"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "682-21-COT26",
    "nombre": "CONTRATACIÓN DE SERVICIOS DE PUBLICACIÓN, SANEAMIENTOS D.L. N° 2695/79",
    "organismo": "SECRETARIA REGIONAL MINISTERIAL DE BIENES NACIONALES XI REGION",
@@ -506,9 +409,160 @@
    "descripcion": "Es necesario cumplir con el Art.11 del D.L. N°2695/79, referido a publicidad del saneamiento de inmueble. Se requiere contratar la publicación digital de 17 avisos correspondientes a 2 veces o publicaciones por beneficiario o expediente, las cuales se harán indistintamente los días 1 y 15 del mes o en la edición inmediatamente siguiente si el diario o periódico no se publicare en los días indicados. Plazo de ejecución 252 días hábiles. Revisar documento adjunto para selección de proveedor.",
    "en_gracia": false,
    "desaparecida_iso": ""
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "radiales"
+   ],
+   "nueva": false,
+   "codigo": "1332-43-COT26",
+   "nombre": "PLAN DE MEDIOS Y CONTINUIDAD DE PLATAFORMA WEB PARA LA CAMPAÑA REGIONAL DE CONCIENCIA TURÍSTICA AYSÉN PATAGONIA",
+   "organismo": "",
+   "unidad": "",
+   "monto": null,
+   "cierre_iso": "",
+   "publicacion": "",
+   "publicacion_iso": "",
+   "ofertas": 0,
+   "productos": [],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1332-43-COT26",
+   "sin_detalle": false,
+   "descripcion": "Contratar la implementación y gestión de un plan de medios para difundir la Campaña Regional de Conciencia Turística Aysén Patagonia a través de medios radiales, televisivos y digitales, asegurando además la continuidad operativa de la plataforma web “Aysén Eres Tú” mediante la renovación de su suscripción por 24 meses.",
+   "en_gracia": true,
+   "desaparecida_iso": "2026-11-11T14:18:43-03:00"
   }
  ],
  "historial": [
+  {
+   "codigo": "4609-308-COT26",
+   "nombre": "MATERIALES DE DIFUSION Y/O PROMOCION ",
+   "organismo": "I MUNICIPALIDAD DE CHILE CHICO",
+   "monto": 1600000,
+   "cierre_iso": "2026-11-11T12:45:00-03:00",
+   "tipo": "POSIBLE",
+   "motivos": [
+    "difusion"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=4609-308-COT26",
+   "primera_vista_iso": "2026-11-10T19:26:29-03:00",
+   "removida_iso": "2026-11-11T14:18:43-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
+  {
+   "codigo": "3797-527-COT26",
+   "nombre": "EQUIPAMIENTO AUDIOVISUAL",
+   "organismo": "I MUNICIPALIDAD DE COCHRANE",
+   "monto": 1000000,
+   "cierre_iso": "2026-11-11T12:40:00-03:00",
+   "tipo": "POSIBLE",
+   "motivos": [
+    "audiovisual",
+    "difusión",
+    "registro audiovisual"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=3797-527-COT26",
+   "primera_vista_iso": "2026-11-10T19:26:29-03:00",
+   "removida_iso": "2026-11-11T14:18:43-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
+  {
+   "codigo": "2495-635-COT26",
+   "nombre": "PENDON CENTRO DE LAS MUJERES",
+   "organismo": "I MUNICIPALIDAD DE COYHAIQUE",
+   "monto": 200000,
+   "cierre_iso": "2026-11-11T11:00:00-03:00",
+   "tipo": "POSIBLE",
+   "motivos": [
+    "difusión"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=2495-635-COT26",
+   "primera_vista_iso": "2026-11-10T19:26:29-03:00",
+   "removida_iso": "2026-11-11T14:18:43-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
+  {
+   "codigo": "1233615-962-COT26",
+   "nombre": "DMH [SOL-2026-02150] Recursos para el aprendizaje e innovación (pendones) para Liceo Politécnico A-1 de Puerto Aysén",
+   "organismo": "Servicio Local de Educación Pública Aysén",
+   "monto": 600000,
+   "cierre_iso": "2026-11-11T10:00:00-03:00",
+   "tipo": "POSIBLE",
+   "motivos": [
+    "difusión",
+    "publicidad"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1233615-962-COT26",
+   "primera_vista_iso": "2026-11-10T19:26:29-03:00",
+   "removida_iso": "2026-11-11T14:18:43-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
+  {
+   "codigo": "1233615-961-COT26",
+   "nombre": "DMH [SOL-2026-02150] Recursos para el aprendizaje e innovación (hidrolavadora y manguera) para Liceo Politécnico A-1 de Puerto Aysén",
+   "organismo": "Servicio Local de Educación Pública Aysén",
+   "monto": 230000,
+   "cierre_iso": "2026-11-11T10:00:00-03:00",
+   "tipo": "POSIBLE",
+   "motivos": [
+    "difusión"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1233615-961-COT26",
+   "primera_vista_iso": "2026-11-10T19:26:29-03:00",
+   "removida_iso": "2026-11-11T14:18:43-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
+  {
+   "codigo": "1233615-960-COT26",
+   "nombre": "DMH [SOL-2026-02150] Recursos para el aprendizaje e innovación (focos, atriles y otros) para Liceo Politécnico A-1 de Puerto Aysén",
+   "organismo": "Servicio Local de Educación Pública Aysén",
+   "monto": 425000,
+   "cierre_iso": "2026-11-11T10:00:00-03:00",
+   "tipo": "POSIBLE",
+   "motivos": [
+    "difusión"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1233615-960-COT26",
+   "primera_vista_iso": "2026-11-10T19:26:29-03:00",
+   "removida_iso": "2026-11-11T14:18:43-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
+  {
+   "codigo": "4144-313-COT26",
+   "nombre": "Se requiere la contratacion de servicios de Desarrollo de plataforma Digital patra ejecucion del Proyecto Niñez y Patrimonio en LagoVerde.-",
+   "organismo": "I MUNICIPALIDAD DE LAGO VERDE",
+   "monto": 1400000,
+   "cierre_iso": "2026-11-11T08:00:00-03:00",
+   "tipo": "POSIBLE",
+   "motivos": [
+    "difusion"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=4144-313-COT26",
+   "primera_vista_iso": "2026-11-10T19:26:29-03:00",
+   "removida_iso": "2026-11-11T14:18:43-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
   {
    "codigo": "918434-328-COT26",
    "nombre": "D5882 Adquisición de Pendones Roller Institucionales, Seremi de Aysen",
@@ -1037,62 +1091,6 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=1057062-499-COT26",
    "primera_vista_iso": "2026-11-03T19:24:45-03:00",
    "removida_iso": "2026-11-04T19:43:04-03:00",
-   "estado_api": "",
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "2495-612-COT26",
-   "nombre": "PRODUCCION CONCURSO LITERARIO",
-   "organismo": "I MUNICIPALIDAD DE COYHAIQUE",
-   "monto": 2700000,
-   "cierre_iso": "2026-11-04T13:00:00-03:00",
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Ventas y marketing"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=2495-612-COT26",
-   "primera_vista_iso": "2026-11-02T23:29:10-03:00",
-   "removida_iso": "2026-11-04T14:23:11-03:00",
-   "estado_api": "",
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "1758-276-COT26",
-   "nombre": "ALOJAMIENTOS Y ALIMENTACION JORNADA DIFUSION NUEVA POLITICA DE EDUCACION EN TERRITORIOS RURALES Y CAPACITACION DE COORD. MICROCENTROS  DOCENTES EN CISNES",
-   "organismo": "SECRETARIA REGIONAL MINISTERIAL DE EDUCACION XI REGION",
-   "monto": 250000,
-   "cierre_iso": "2026-11-04T12:00:00-03:00",
-   "tipo": "POSIBLE",
-   "motivos": [
-    "difusion",
-    "radio"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1758-276-COT26",
-   "primera_vista_iso": "2026-11-03T14:11:19-03:00",
-   "removida_iso": "2026-11-04T14:23:11-03:00",
-   "estado_api": "",
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "1758-274-COT26",
-   "nombre": "ALOJAMIENTOS Y ALIMENTACION JORNADA DIFUSION NUEVA POLITICA DE EDUCACION EN TERRITORIOS RURALES Y CAPACITACION DE COORD. MICROCENTROS EN COYHAIQUE",
-   "organismo": "SECRETARIA REGIONAL MINISTERIAL DE EDUCACION XI REGION",
-   "monto": 4284000,
-   "cierre_iso": "2026-11-04T12:00:00-03:00",
-   "tipo": "POSIBLE",
-   "motivos": [
-    "difusion",
-    "radio"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1758-274-COT26",
-   "primera_vista_iso": "2026-11-03T14:11:19-03:00",
-   "removida_iso": "2026-11-04T14:23:11-03:00",
    "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,
