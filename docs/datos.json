@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-11-11T18:12:56.814817-03:00",
+ "actualizado": "2026-11-11T20:33:25.056516-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
- "total_region": 358,
+ "total_region": 353,
  "rubros": {
   "80141600": "Ventas y marketing",
   "82101600": "Publicidad en medios no impresos",
@@ -19,7 +19,7 @@
    "motivos": [
     "difusión"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "1057062-525-COT26",
    "nombre": "Adquisiciones de material de difusión u aysen para el 27 de nov_segun fisabs 2449 ury 2493",
    "organismo": "UNIVERSIDAD DE AYSEN",
@@ -204,7 +204,7 @@
     "redes sociales",
     "registro fotográfico"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "1195-569-COT26",
    "nombre": "CONTRATACIÓN DE SERVICIOS DE ASESORÍA AUDIOVISUAL PARA EL EVENTO DEPORTIVO “LOS 4 LAGOS MTB RACE”",
    "organismo": "I MUNICIPALIDAD DE COYHAIQUE",

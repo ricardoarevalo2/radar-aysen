@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-11-11T18:12:56.814817-03:00",
+ "actualizado": "2026-11-11T20:33:25.056516-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
- "total_region": 358,
+ "total_region": 353,
  "rubros": {
   "25172700": "Aire acondicionado",
   "25173900": "Componentes eléctricos",
@@ -19,37 +19,6 @@
   "39121400": "Conectores, enchufes y terminales"
  },
  "filas": [
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "electricidad",
-    "eléctrico",
-    "instalación eléctrica"
-   ],
-   "nueva": true,
-   "codigo": "4066-489-COT26",
-   "nombre": "servicio de arreglo eléctrico: 2 casa de personas mayores de Puerto Sánchez",
-   "organismo": "I MUNICIPALIDAD RIO IBANEZ",
-   "unidad": "DIDECO",
-   "monto": 900000,
-   "cierre_iso": "2026-11-11T18:21:00-03:00",
-   "publicacion": "09-11 09:28",
-   "publicacion_iso": "2026-11-09T09:28:00-03:00",
-   "ofertas": 1,
-   "productos": [
-    [
-     "83101801",
-     "Suministro de electricidad monofásica",
-     1,
-     "Contratar mano de obra para ejecución de reparación de instalación eléctrica de 2 viviendas de la localidad de Puerto Sánchez. se adjunta Términos de referencia"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=4066-489-COT26",
-   "sin_detalle": false,
-   "descripcion": "Contratar mano de obra para ejecución de reparación de instalación eléctrica de 2 viviendas de la localidad de Puerto Sánchez. \nEl prestador de servicio deberá asegurar la entrega oportuna y conforme de los productos comprometidos en los plazos establecidos, coordinando permanentemente con la Unidad Técnica.",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
   {
    "tipo": "POSIBLE",
    "motivos": [
@@ -1062,7 +1031,7 @@
    "motivos": [
     "eléctrico"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "907-103-COT26",
    "nombre": "\tMAO ADQUISICIÓN ENSERES OFICINA COYHAIQUE",
    "organismo": "SERVICIO AGRICOLA Y GANADERO",
@@ -1149,7 +1118,7 @@
    "motivos": [
     "Suministros y accesorios eléctricos"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "1691-2061-COT26",
    "nombre": "EFCC- ASAS DE RECECTOSCOPIO COD.: 27050 G K.STORZ UD PARA REPOSICIÓN DE INS. CLINICOS HRC ",
    "organismo": "SERVICIO NACIONAL DE SALUD HOSPITAL DE C",
@@ -1654,6 +1623,26 @@
   }
  ],
  "historial": [
+  {
+   "codigo": "4066-489-COT26",
+   "nombre": "servicio de arreglo eléctrico: 2 casa de personas mayores de Puerto Sánchez",
+   "organismo": "I MUNICIPALIDAD RIO IBANEZ",
+   "monto": 900000,
+   "cierre_iso": "2026-11-11T18:21:00-03:00",
+   "tipo": "POSIBLE",
+   "motivos": [
+    "electricidad",
+    "eléctrico",
+    "instalación eléctrica"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=4066-489-COT26",
+   "primera_vista_iso": "2026-11-10T19:26:29-03:00",
+   "removida_iso": "2026-11-11T20:33:25-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
   {
    "codigo": "828-53-COT26",
    "nombre": "Adquisición de petróleo para calefacción -Edificio MOP Región de Aysén",
