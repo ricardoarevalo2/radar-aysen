@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-11-11T14:18:43.639416-03:00",
+ "actualizado": "2026-11-11T18:01:41.660184-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
- "total_region": 330,
+ "total_region": 363,
  "rubros": {
   "80141600": "Ventas y marketing",
   "82101600": "Publicidad en medios no impresos",
@@ -14,113 +14,6 @@
   "83121700": "Comunicación social y de masas"
  },
  "filas": [
-  {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Ventas y marketing"
-   ],
-   "nueva": false,
-   "codigo": "2713-1341-COT26",
-   "nombre": "Producción de actividades - DIDECO - PROMOS - 1398",
-   "organismo": "I MUNICIPALIDAD DE AYSEN",
-   "unidad": "I.MUNICIPALIDAD AYSEN-ADQUISICIONES",
-   "monto": 2195063,
-   "cierre_iso": "2026-11-11T15:21:00-03:00",
-   "publicacion": "06-11 12:42",
-   "publicacion_iso": "2026-11-06T12:42:00-03:00",
-   "ofertas": 1,
-   "productos": [
-    [
-     "80141607",
-     "Producción de eventos",
-     150,
-     "Adhesivos numerados para baby corredores"
-    ],
-    [
-     "80141607",
-     "Producción de eventos",
-     150,
-     "Medallas de participación"
-    ],
-    [
-     "80141607",
-     "Producción de eventos",
-     150,
-     "Colación infantil para baby maratón"
-    ],
-    [
-     "80141607",
-     "Producción de eventos",
-     1,
-     "Stand de hidratación para baby maratón"
-    ],
-    [
-     "80141607",
-     "Producción de eventos",
-     6,
-     "Arriendo de mesas con mantel y toldos"
-    ],
-    [
-     "80141607",
-     "Producción de eventos",
-     1,
-     "Amplificación de sonido y operador para baby maratón"
-    ],
-    [
-     "80141607",
-     "Producción de eventos",
-     1,
-     "Amplificación de sonido y operador para encuentro psicomotor"
-    ],
-    [
-     "80141607",
-     "Producción de eventos",
-     1,
-     "Personal para registro de inscripción y planillas para baby maratón"
-    ],
-    [
-     "80141607",
-     "Producción de eventos",
-     1,
-     "Personal para registro de inscripción y planillas para encuentro psicomotor"
-    ],
-    [
-     "80141607",
-     "Producción de eventos",
-     1,
-     "Arriendo de recinto techado alternativo para baby maratón"
-    ],
-    [
-     "80141607",
-     "Producción de eventos",
-     1,
-     "Arriendo de recinto techado alternativo para encuentro psicomotor"
-    ],
-    [
-     "80141607",
-     "Producción de eventos",
-     200,
-     "Colación infantil para encuentro psicomotor"
-    ],
-    [
-     "80141607",
-     "Producción de eventos",
-     1,
-     "Stand de hidratación para encuentro psicomotor"
-    ],
-    [
-     "80141607",
-     "Producción de eventos",
-     200,
-     "Diplomas de participación"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=2713-1341-COT26",
-   "sin_detalle": false,
-   "descripcion": "Adquisición de servicio de producción de actividad \"Baby Maratón\" y \"Encuentro Psicomotor\", según detalle del anexo adjunto, las ofertas deberán: incluir la totalidad de los productos y servicios solicitados, ajustarse al presupuesto disponible , el oferente asumirá COSTO DE TRANSPORTE (no desglosarlo como ítem aparte), actividades según EETT, en el lugar y a la hora indicada previa coordinación con el encargado. Ofertas que no cumplan con lo anterior serán rechazada",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
   {
    "tipo": "POSIBLE",
    "motivos": [
@@ -358,6 +251,127 @@
    "desaparecida_iso": ""
   },
   {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Ventas y marketing"
+   ],
+   "nueva": true,
+   "codigo": "4066-504-COT26",
+   "nombre": "SERVICIO DE ANIMACIÓN Y PRESENTACIÓN ARTISTICA EN ACTIVIDAD “ENCUENTRO DE ACORDEON Y GUITARRA 2026”.Segun TDR adjuntos",
+   "organismo": "I MUNICIPALIDAD RIO IBANEZ",
+   "unidad": "DIDECO",
+   "monto": 400000,
+   "cierre_iso": "2026-11-13T09:00:00-03:00",
+   "publicacion": "11-11 14:15",
+   "publicacion_iso": "2026-11-11T14:15:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "80141607",
+     "Producción de eventos",
+     1,
+     "SERVICIO DE ANIMACIÓN Y PRESENTACIÓN ARTISTICA EN ACTIVIDAD “ENCUENTRO DE ACORDEON Y GUITARRA 2026”.Segun TDR adjuntos"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=4066-504-COT26",
+   "sin_detalle": false,
+   "descripcion": "La Municipalidad de Río Ibáñez por intermedio de la oficina de cultura requiere contratar un servicio que reúna la animación de la jornada y una presentación musical en vivo, a cargo de la misma persona. El Encuentro de Acordeón y Guitarra reunirá a artistas locales, vecinas y vecinos, y expositores de la feria comunitaria en Puerto Río Tranquilo. Según TDR adjuntos.",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Ventas y marketing"
+   ],
+   "nueva": true,
+   "codigo": "2495-650-COT26",
+   "nombre": "Producción de 2 sesiones de baños de bosque para 20 personas.",
+   "organismo": "I MUNICIPALIDAD DE COYHAIQUE",
+   "unidad": "DIRECCION DESARROLLO COMUNITARIO",
+   "monto": 300000,
+   "cierre_iso": "2026-11-13T10:00:00-03:00",
+   "publicacion": "11-11 16:49",
+   "publicacion_iso": "2026-11-11T16:49:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "80141607",
+     "Producción de eventos",
+     2,
+     "Producción de 2 sesiones de baños de bosque para 20 personas: debe incluir monitor en baños de bosque o asociado y colación: Pan mas jugo o leche en caja."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=2495-650-COT26",
+   "sin_detalle": false,
+   "descripcion": "Producción de 2 sesiones de baños de bosque para 20 personas: debe incluir monitor en baños de bosque o asociado y colación: Pan mas jugo.",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "radio"
+   ],
+   "nueva": true,
+   "codigo": "973172-4-COT26",
+   "nombre": "ALMUERZO CAMPESTRE OFICINA DE BIENESTAR Y CALIDAD DE VIDA 2026",
+   "organismo": "SII Oficina de Bienestar",
+   "unidad": "BIENESTAR SII - DR COYHAIQUE",
+   "monto": 1500000,
+   "cierre_iso": "2026-11-13T12:00:00-03:00",
+   "publicacion": "11-11 16:24",
+   "publicacion_iso": "2026-11-11T16:24:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "90101601",
+     "Banquetes",
+     1,
+     "VER EN ADJUNTO LOS TERMINOS DE REFERENCIA PARA CONTRATACIÓN Y ESPECIFICACIONES DEL REQUERIMIENTO."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=973172-4-COT26",
+   "sin_detalle": false,
+   "descripcion": "Se requiere contratar el servicio de almuerzo campestre para 100 personas, funcionarios/as del SII, esta actividad se realizará en lugar por definir en la comuna de Coyhaique y alrededores en un radio de 9 km. aproximadamente. La fecha de realización del evento será el día 14 o 16 diciembre 2026 desde las 13:00 horas.",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "audiovisual",
+    "comunicacional",
+    "difusión",
+    "radiales",
+    "redes sociales",
+    "transmisión en vivo"
+   ],
+   "nueva": true,
+   "codigo": "2495-652-COT26",
+   "nombre": "SERVICIO DE COBERTURA AUDIOVISUAL, TRANSMISIÓN Y DIFUSIÓN DE LA EXPO GANADERA COYHAIQUE 2026",
+   "organismo": "I MUNICIPALIDAD DE COYHAIQUE",
+   "unidad": "DIRECCION DESARROLLO COMUNITARIO",
+   "monto": 5500000,
+   "cierre_iso": "2026-11-13T13:00:00-03:00",
+   "publicacion": "11-11 17:38",
+   "publicacion_iso": "2026-11-11T17:38:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "43223207",
+     "Sistema de transmisión por secuencias de video",
+     1,
+     "Servicio integral que contempla difusión previa del evento, gestión de dos entrevistas radiales, cobertura audiovisual y fotográfica presencial durante los días 27, 28 y 29 de noviembre de 2026, generación de contenidos para redes sociales institucionales, entrevistas a 40 expositores, realización de al menos cuatro transmisiones en vivo, entrega de mínimo 150 fotografías editadas, videos de actividades relevantes, banco audiovisual organizado y video resumen institucional de 3 a 5 minutos."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=2495-652-COT26",
+   "sin_detalle": false,
+   "descripcion": "La Municipalidad de Coyhaique requiere contratar un servicio especializado de producción y cobertura audiovisual, difusión comunicacional y transmisión en vivo para la Expo Ganadera Coyhaique 2026, actividad que se realizará los días 27, 28 y 29 de noviembre de 2026, orientada a promover el desarrollo agropecuario comunal, los emprendimientos rurales, la identidad cultural campesina y el desarrollo económico local.",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
    "tipo": "POSIBLE",
    "motivos": [
     "aviso",
@@ -434,6 +448,24 @@
   }
  ],
  "historial": [
+  {
+   "codigo": "2713-1341-COT26",
+   "nombre": "Producción de actividades - DIDECO - PROMOS - 1398",
+   "organismo": "I MUNICIPALIDAD DE AYSEN",
+   "monto": 2195063,
+   "cierre_iso": "2026-11-11T15:21:00-03:00",
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Ventas y marketing"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=2713-1341-COT26",
+   "primera_vista_iso": "2026-11-10T19:26:29-03:00",
+   "removida_iso": "2026-11-11T18:01:41-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
   {
    "codigo": "4609-308-COT26",
    "nombre": "MATERIALES DE DIFUSION Y/O PROMOCION ",
@@ -576,7 +608,7 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=918434-328-COT26",
    "primera_vista_iso": "2026-11-03T19:24:45-03:00",
    "removida_iso": "2026-11-10T19:26:29-03:00",
-   "estado_api": null,
+   "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,
    "adj_iso": null
@@ -703,7 +735,7 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=1233615-929-COT26",
    "primera_vista_iso": "2026-11-04T14:23:11-03:00",
    "removida_iso": "2026-11-10T19:26:29-03:00",
-   "estado_api": null,
+   "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,
    "adj_iso": null
@@ -849,7 +881,7 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=2495-620-COT26",
    "primera_vista_iso": "2026-11-03T19:24:45-03:00",
    "removida_iso": "2026-11-10T19:26:29-03:00",
-   "estado_api": null,
+   "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,
    "adj_iso": null
@@ -1053,7 +1085,7 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=1233615-928-COT26",
    "primera_vista_iso": "2026-11-04T14:23:11-03:00",
    "removida_iso": "2026-11-05T14:29:51-03:00",
-   "estado_api": null,
+   "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,
    "adj_iso": null
@@ -1073,24 +1105,6 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=4733-450-COT26",
    "primera_vista_iso": "2026-11-02T16:38:38-03:00",
    "removida_iso": "2026-11-05T14:29:51-03:00",
-   "estado_api": "",
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "1057062-499-COT26",
-   "nombre": "Servicio de Publicidad Digital: Campaña Magíster en Gestión del Cambio Climático según Fisabs 2376_URY 21991",
-   "organismo": "UNIVERSIDAD DE AYSEN",
-   "monto": 7000000,
-   "cierre_iso": "2026-11-04T17:25:00-03:00",
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Publicidad en medios no impresos"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1057062-499-COT26",
-   "primera_vista_iso": "2026-11-03T19:24:45-03:00",
-   "removida_iso": "2026-11-04T19:43:04-03:00",
    "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,

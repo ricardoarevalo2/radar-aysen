@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-11-11T14:18:43.639416-03:00",
+ "actualizado": "2026-11-11T18:01:41.660184-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
- "total_region": 330,
+ "total_region": 363,
  "rubros": {
   "25172700": "Aire acondicionado",
   "25173900": "Componentes eléctricos",
@@ -19,110 +19,6 @@
   "39121400": "Conectores, enchufes y terminales"
  },
  "filas": [
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "certificación sec"
-   ],
-   "nueva": false,
-   "codigo": "2713-1347-COT26",
-   "nombre": "IMPLEMENTOS. FOLIO 1409 DIDECO CAE- VG",
-   "organismo": "I MUNICIPALIDAD DE AYSEN",
-   "unidad": "I.MUNICIPALIDAD AYSEN-ADQUISICIONES",
-   "monto": 1700000,
-   "cierre_iso": "2026-11-11T14:30:00-03:00",
-   "publicacion": "09-11 11:52",
-   "publicacion_iso": "2026-11-09T11:52:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "40101808",
-     "Estufas de la calefacción",
-     1,
-     "Estufa Laser.Sistema de combustión limpia mediante inyección electronica y ventilación forzada (tipo láser o equivalente técnico). Capacidad de estanque aproximado de 5.4 litros, removible. Obligatorio: Sello de Certificación SEC \nvigente y sistema de apagado automático por volcamiento."
-    ],
-    [
-     "47121602",
-     "Aspiradoras",
-     1,
-     "Aspiradora de cenizas. Diseñada para limpieza de cenizas frías especialmente estufa a pellet o combustión lenta. Potencia mínima de 1200W. Estanque metálico o de acero inoxidable entre 15 y 20 litros aprox. Filtro lavable e ignífugo. Manguera flexible con revestimiento interior metálico o equivalente. Obligatorio: Sello de Certificación SEC vigente."
-    ],
-    [
-     "47121702",
-     "Envases para residuos o forros rígidos",
-     2,
-     "Set de basureros de baño. Set que incluye: 1) Basurero de 3 a 5 litros de acero inoxidable o ABS, con \nbalde interior removible y pedal; 2) Escobilla de baño con cerdas de alta densidad y su respectivo \nportaescobilla cerrado a juego; 3) Accesorio complementario de baño (sopapo o dispensador)."
-    ],
-    [
-     "52141802",
-     "Estufas domésticas",
-     1,
-     "Estufa Laser.Sistema de combustión limpia mediante inyecciónelectrónica de combustible y ventilación forzada (tipo láser o equivalente técnico). Capacidad de estanque aproximado de 7.6 litros, removible. Obligatorio: \nSello de Certificación SEC vigente."
-    ],
-    [
-     "56101519",
-     "Mesas",
-     1,
-     "Mesa Plegable Rectangular.Medidas aproximadas de 150x76 cm y altura estándar de 74 cm. Cubierta de polietileno de alta densidad (HDPE) con protección UV o material semejante. Estructura y patas de acero o material de alta resistencia. Sistema \nde plegado tipo maleta con anillos de seguridad."
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=2713-1347-COT26",
-   "sin_detalle": false,
-   "descripcion": "COTIZACIÓN DE IMPLEMENTOS. LOS COSTOS DE TRASLADOS A PUERTO AYSÉN SERÁN DEL OFERENTE. EL PLAZO DE ENTREGA SERÁN DE 10 DÍA HÁBIL, DE LO CONTRARIO SE DESCARTARAN.EL PROVEEDOR QUE NO INDIQUE EL PLAZO DE ENTREGA SE DESCARTARA SU COTIZACIÓN. OFERENTE DEBE INCLUIR FLETES EN EL PRECIO DEL PRODUCTO.SE SOLICITA ANEXAR FICHA TECNICA DE CADA PRODUCTO, DE LO CONTRARIO SE DESCARTARA. PLAZO DE ENTREGA COMIENZA A CONTAR DEL DIA HABIL SUBSIGUIENTE DEL ENVÍO DE ORDEN DE COMPRA.",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
-  {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Servicios eléctricos"
-   ],
-   "nueva": false,
-   "codigo": "4140-108-COT26",
-   "nombre": "MANO DE OBRA, INSTALACION DE CENTRO ELECTRICO",
-   "organismo": "I MUNICIPALIDAD DE LAGO VERDE",
-   "unidad": "Adquisiciones",
-   "monto": 150000,
-   "cierre_iso": "2026-11-11T16:21:00-03:00",
-   "publicacion": "09-11 16:08",
-   "publicacion_iso": "2026-11-09T16:08:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "72102201",
-     "Instalación o servicio de sistemas de energía eléctrica",
-     1,
-     "SE REQUIERE MANO DE OBRA PARA INSTALACION DE CENTRO ELECTRICO CANALIZADO CON LOS RESPECTIVOS MATERIALES A UTILIZAR  MATERIALES COMO ENCHUFE DOBLE,CAJA SOBREPUESTO GALVANIZADA, CABLES, CANALIZACION TUBO GALVANIZADO, SOLDADURA, HUINCHA ENGOMADA, HUINCHA AISLADORA"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=4140-108-COT26",
-   "sin_detalle": false,
-   "descripcion": "SE REQUIERE MANO DE OBRA PARA INSTALACION DE CENTRO ELECTRICO CANALIZADO Y MATERIALES COMO ENCHUFE DOBLE,CAJA SOBREPUESTO GALVANIZADA, CABLES, CANALIZACION TUBO GALVANIZADO, SOLDADURA, HUINCHA ENGOMADA, HUINCHA AISLADORA",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "certificación sec"
-   ],
-   "nueva": true,
-   "codigo": "828-53-COT26",
-   "nombre": "Adquisición de petróleo para calefacción -Edificio MOP Región de Aysén",
-   "organismo": "MINISTERIO DE OBRAS PUBLICAS DIREC CION GRAL DE OO PP DCYF",
-   "unidad": "Dirección de Arquitectura - XI Región",
-   "monto": 3270000,
-   "cierre_iso": "2026-11-11T17:30:00-03:00",
-   "publicacion": "10-11 17:12",
-   "publicacion_iso": "2026-11-10T17:12:00-03:00",
-   "ofertas": 0,
-   "productos": [],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=828-53-COT26",
-   "sin_detalle": false,
-   "descripcion": "Se requiere adquirir petróleo a granel para calefacción Edificio MOP de la Región de Aysén, ubicado en Riquelme N° 465, Coyhaique, con servicio de storage. Una vez adjudicado, el camión surtidor debe hacer entrega del combustible en el edificio MOP, según requerimiento. El camión surtidor debe contar con certificación SEC y tener representabilidad en la ciudad de Coyhaique. (Facturar a Unidad de pago 1380).",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
   {
    "tipo": "POSIBLE",
    "motivos": [
@@ -887,6 +783,93 @@
    "desaparecida_iso": ""
   },
   {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "eléctrico"
+   ],
+   "nueva": true,
+   "codigo": "4644-128-COT26",
+   "nombre": "CABLE PARA HUINCHE,GORE MAÑIHUALES  479: SIRE: 443 ",
+   "organismo": "CORP NACIONAL FORESTAL",
+   "unidad": "XI Región - Oficina Provincial Aysen",
+   "monto": 965000,
+   "cierre_iso": "2026-11-12T16:00:00-03:00",
+   "publicacion": "11-11 15:23",
+   "publicacion_iso": "2026-11-11T15:23:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "31151705",
+     "Cable de acero no eléctrico",
+     1,
+     "Cable de acero de alta resistencia compactado para huinche forestal, Diámetro nominal 9/16” (14.3mm), Longitud total de 80 metros lineal continuo. Gastos de envió incluido."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=4644-128-COT26",
+   "sin_detalle": false,
+   "descripcion": "CONAF requiere adquirir Repuesto Cable para Huinche de Tractor, Área Intervención Mañihuales. Despacho en Oficina CONAF en Puerto Aysén ubicada en ruta 240 KM 2 Camino Aysén -Coyhaique  Región de Aysén.",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Servicios eléctricos"
+   ],
+   "nueva": true,
+   "codigo": "1274667-444-COT26",
+   "nombre": "RVB - SERVICIO DE HABILITACIÓN DE EMPALME E INSTALACIÓN ELÉCTRICA PARA 4 EQUIPOS SPLIT – DEPENDENCIA DE REHABILITACION DE NNA EX HOGAR DEL ANGEL",
+   "organismo": "CENTRO DE SALUD FAMILIAR PUERTO AYSÉN",
+   "unidad": "CENTRO DE SALUD FAMILIAR PUERTO AYSÉN",
+   "monto": 4000000,
+   "cierre_iso": "2026-11-12T16:45:00-03:00",
+   "publicacion": "11-11 16:43",
+   "publicacion_iso": "2026-11-11T16:43:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "72102201",
+     "Instalación o servicio de sistemas de energía eléctrica",
+     1,
+     "Se solicita contratar servicio de habilitación de empalme eléctrico independiente para 4 equipos split en ex hogar angel, Puerto Aysén. Incluye suministro de materiales, mano de obra, tablero eléctrico, canalizaciones, protecciones, 4 circuitos independientes, conexiones, pruebas y certificaciones SEC que correspondan. Detalles del servicio en documento adjunto."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1274667-444-COT26",
+   "sin_detalle": false,
+   "descripcion": "SE REQUIERE COTIZACION FORMAL Y FICHA TECNICA - DATOS BANCARIOS - VCONTACTO PARA RESOLVER DUDAS Y GESTIONAR PAGO. TODAS LAS DETALLES EN ARCHIVO ADJUNTO. CERTIFICACIONES SEC QUE CORRESPONDAN.",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Servicios eléctricos"
+   ],
+   "nueva": true,
+   "codigo": "4644-129-COT26",
+   "nombre": " Mantención infraestructura GORE MAÑIHAULES  SIC: 488 SIRE: 442",
+   "organismo": "CORP NACIONAL FORESTAL",
+   "unidad": "XI Región - Oficina Provincial Aysen",
+   "monto": 740000,
+   "cierre_iso": "2026-11-12T17:00:00-03:00",
+   "publicacion": "11-11 16:26",
+   "publicacion_iso": "2026-11-11T16:26:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "72102201",
+     "Instalación o servicio de sistemas de energía eléctrica",
+     1,
+     "Mantención eléctrica general de Instalaciones de Conaf de  Villa Mañihuales, Servicio Certificado que incluye Reposición de tapas y enchufes, renovación de  cableado, eliminación de cables en desuso y reparación o soldadura de conexiones defectuosas, entre otros trabajos asociados. Proveedor debe cumplir con Norma SEC."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=4644-129-COT26",
+   "sin_detalle": false,
+   "descripcion": "CONAF requiere contratar el Servicio de mantención  eléctrica certificado de infraestructura de su Área Intervención Mañihuales, ubicada en Pratt S/N ubicada en sector aserradero de CONAF EN Villa Mañihuales, Región de Aysén.",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
    "tipo": "OPORTUNIDAD",
    "motivos": [
     "Gasfitería, calefacción y aire acondicionado"
@@ -984,6 +967,93 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=907-101-COT26",
    "sin_detalle": false,
    "descripcion": "Se solicita la contratación del servicio de mantención correctiva y reparación del sistema de refrigeración del generador diésel MWM D229-6, ubicado en el Laboratorio Regional SAG Coyhaique, conforme a las especificaciones técnicas contenidas en los Términos de Referencia adjuntos.",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Materiales de física de electricidad"
+   ],
+   "nueva": true,
+   "codigo": "1233615-984-COT26",
+   "nombre": "RMG-SOL01535-Liceo Luisa Rabanal, Equipamiento para simulación EMTP 29.05, despacho incluido a Chile Chico.",
+   "organismo": "Servicio Local de Educación Pública Aysén",
+   "unidad": "Servicio Local de Educación Pública Aysén",
+   "monto": 7000000,
+   "cierre_iso": "2026-11-13T12:00:00-03:00",
+   "publicacion": "11-11 17:01",
+   "publicacion_iso": "2026-11-11T17:01:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "60104905",
+     "Placas de demostración de electricidad",
+     1,
+     "Según archivo adjunto, equipamiento para simulación EMTP Electricidad"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1233615-984-COT26",
+   "sin_detalle": false,
+   "descripcion": "Según detalle adjunto, despacho incluido a Chile Chico.",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "electricidad"
+   ],
+   "nueva": true,
+   "codigo": "1233615-982-COT26",
+   "nombre": "RMG-SOL01616-Liceo Luisa Rabanal Palma, Equipamiento EMTP Electricidad cuenta 29.04",
+   "organismo": "Servicio Local de Educación Pública Aysén",
+   "unidad": "Servicio Local de Educación Pública Aysén",
+   "monto": 4670552,
+   "cierre_iso": "2026-11-13T12:00:00-03:00",
+   "publicacion": "11-11 15:59",
+   "publicacion_iso": "2026-11-11T15:59:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "56101519",
+     "Mesas",
+     1,
+     "Según archivo adjunto, mesas y sillas."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1233615-982-COT26",
+   "sin_detalle": false,
+   "descripcion": "Según detalle adjunto, despacho incluido a Chile Chico.",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Suministros y accesorios eléctricos"
+   ],
+   "nueva": true,
+   "codigo": "1746-262-COT26",
+   "nombre": "INSTALACIÓN DE ENCHUFE ELÉCTRICO, CARRERA N° 257, 2° PISO COYHAIQUE (P552)",
+   "organismo": "SUBSECRETARIA DE SALUD PUBLICA",
+   "unidad": "Seremi de Salud XI Región",
+   "monto": 90000,
+   "cierre_iso": "2026-11-13T12:00:00-03:00",
+   "publicacion": "11-11 14:28",
+   "publicacion_iso": "2026-11-11T14:28:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "39121701",
+     "Soportes eléctricos",
+     1,
+     "Servicio de instalación de enchufe eléctrico adicional en dependencias de Carrera N° 257, 2° piso Coyhaique, de acuerdo con especificaciones indicadas en el adjunto"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1746-262-COT26",
+   "sin_detalle": false,
+   "descripcion": "Solicitado mediante Pedido de Materiales N° 552 de la Unidad de Emergencia y Desastre",
    "en_gracia": false,
    "desaparecida_iso": ""
   },
@@ -1585,6 +1655,60 @@
  ],
  "historial": [
   {
+   "codigo": "828-53-COT26",
+   "nombre": "Adquisición de petróleo para calefacción -Edificio MOP Región de Aysén",
+   "organismo": "MINISTERIO DE OBRAS PUBLICAS DIREC CION GRAL DE OO PP DCYF",
+   "monto": 3270000,
+   "cierre_iso": "2026-11-11T17:30:00-03:00",
+   "tipo": "POSIBLE",
+   "motivos": [
+    "certificación sec"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=828-53-COT26",
+   "primera_vista_iso": "2026-11-10T19:26:29-03:00",
+   "removida_iso": "2026-11-11T18:01:41-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
+  {
+   "codigo": "4140-108-COT26",
+   "nombre": "MANO DE OBRA, INSTALACION DE CENTRO ELECTRICO",
+   "organismo": "I MUNICIPALIDAD DE LAGO VERDE",
+   "monto": 150000,
+   "cierre_iso": "2026-11-11T16:21:00-03:00",
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Servicios eléctricos"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=4140-108-COT26",
+   "primera_vista_iso": "2026-11-10T19:26:29-03:00",
+   "removida_iso": "2026-11-11T18:01:41-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
+  {
+   "codigo": "2713-1347-COT26",
+   "nombre": "IMPLEMENTOS. FOLIO 1409 DIDECO CAE- VG",
+   "organismo": "I MUNICIPALIDAD DE AYSEN",
+   "monto": 1700000,
+   "cierre_iso": "2026-11-11T14:30:00-03:00",
+   "tipo": "POSIBLE",
+   "motivos": [
+    "certificación sec"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=2713-1347-COT26",
+   "primera_vista_iso": "2026-11-10T19:26:29-03:00",
+   "removida_iso": "2026-11-11T18:01:41-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
+  {
    "codigo": "1233615-960-COT26",
    "nombre": "DMH [SOL-2026-02150] Recursos para el aprendizaje e innovación (focos, atriles y otros) para Liceo Politécnico A-1 de Puerto Aysén",
    "organismo": "Servicio Local de Educación Pública Aysén",
@@ -1672,7 +1796,7 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=1281188-19-COT26",
    "primera_vista_iso": "2026-10-30T13:05:28-03:00",
    "removida_iso": "2026-11-11T14:18:43-03:00",
-   "estado_api": null,
+   "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,
    "adj_iso": null
@@ -1762,7 +1886,7 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=1233615-920-COT26",
    "primera_vista_iso": "2026-11-03T14:11:19-03:00",
    "removida_iso": "2026-11-10T19:26:29-03:00",
-   "estado_api": null,
+   "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,
    "adj_iso": null
@@ -1780,7 +1904,7 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=1079689-522-COT26",
    "primera_vista_iso": "2026-11-03T14:11:19-03:00",
    "removida_iso": "2026-11-10T19:26:29-03:00",
-   "estado_api": null,
+   "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,
    "adj_iso": null
