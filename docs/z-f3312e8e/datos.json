@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-11-12T09:58:37.987120-03:00",
+ "actualizado": "2026-11-12T13:45:25.309680-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
- "total_region": 361,
+ "total_region": 340,
  "rubros": {
   "25172700": "Aire acondicionado",
   "25173900": "Componentes eléctricos",
@@ -19,553 +19,6 @@
   "39121400": "Conectores, enchufes y terminales"
  },
  "filas": [
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "eléctrico"
-   ],
-   "nueva": false,
-   "codigo": "1180817-3-COT26",
-   "nombre": "Adquisición de Mobiliario y Equipamiento",
-   "organismo": "SERVICIO DE SALUD AYSEN CARLOS IBANEZ DEL CAMPO",
-   "unidad": "Compras Convenio Gore Aysén",
-   "monto": 6814000,
-   "cierre_iso": "2026-11-12T10:00:00-03:00",
-   "publicacion": "09-11 11:55",
-   "publicacion_iso": "2026-11-09T11:55:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "30201605",
-     "Comedores",
-     2,
-     "Juego de comedor 4 sillas 100x100, material madera, mesa 100x100x75cm redonda, según EETT Adjuntas."
-    ],
-    [
-     "52141501",
-     "Refrigeradores domésticos",
-     3,
-     "Refrigerador no frost 220 litros, material acero inoxidable, cantidad de puertas 2, numero de gavetas 4, luz interna, voltaje 220v, según EETT Adjuntas."
-    ],
-    [
-     "52141504",
-     "Cocinas domésticas",
-     2,
-     "Cocina a gas 4 quemadores, material de la cubierta acero inoxidable, horno 67,2 lts. Encendido eléctrico, tipo de energía gas licuado, según EE.TT Adjuntas."
-    ],
-    [
-     "52141601",
-     "Lavadoras domésticas",
-     2,
-     "Lavadora carga superior 9 kilos, acero inoxidable, potencia 330 w, numero programas 6, voltaje 220v/50hz, según EE.TT Adjuntas."
-    ],
-    [
-     "56101515",
-     "Camas",
-     2,
-     "Tipo de cama Box spring 2 pza. dimensiones 90x190, material de la estructura madera, material del relleno espuma, base normal, incluir respaldo y 2 veladores, según EE.TT. Adjuntas."
-    ],
-    [
-     "56101515",
-     "Camas",
-     4,
-     "Tipo de cama Box spring 1 pza. dimensiones 90x190, material de la estructura madera, material del relleno espuma, base normal, incluir respaldo y velador, según EE.TT. Adjuntas."
-    ],
-    [
-     "56101522",
-     "Sillón",
-     2,
-     "Sillón seccional 2 cuerpos, derecho, material de la estructura madera, material de tapiz tela, según EE.TT. Adjuntas."
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1180817-3-COT26",
-   "sin_detalle": false,
-   "descripcion": "La presente contratación tiene por objeto la adquisición, suministro y entrega de mobiliario y\nequipamiento destinados a la habilitación del proyecto \"Reposición PSR Puyuhuapi\", de\nconformidad con las especificaciones técnicas establecidas en el presente documento, a fin\nde asegurar su correcta implementación y operación.",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
-  {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Conectores, enchufes y terminales"
-   ],
-   "nueva": true,
-   "codigo": "3791-1135-COT26",
-   "nombre": "TECHO MERCADO MUNICIPAL LA JUNTA ",
-   "organismo": "I MUNICIPALIDAD DE CISNES",
-   "unidad": "Finanzas",
-   "monto": 1306300,
-   "cierre_iso": "2026-11-12T11:00:00-03:00",
-   "publicacion": "09-11 16:43",
-   "publicacion_iso": "2026-11-09T16:43:00-03:00",
-   "ofertas": 1,
-   "productos": [
-    [
-     "30103605",
-     "Tablas de madera",
-     8,
-     "TERCIADO RANURADO COLONIAL 9MM 1.22X2.44M"
-    ],
-    [
-     "30103605",
-     "Tablas de madera",
-     4,
-     "PINO SECO CEPILLADO 1X8 X 3.2MTS"
-    ],
-    [
-     "30103605",
-     "Tablas de madera",
-     6,
-     "PINO SECO CEPILLADO 2X5 X 3.2 MTS"
-    ],
-    [
-     "30103605",
-     "Tablas de madera",
-     4,
-     "PINO SECO CEPILLADO 2X6 3.2M"
-    ],
-    [
-     "30103605",
-     "Tablas de madera",
-     6,
-     "PINO SECO CEPILLADO 5X5 X 3.2MTS"
-    ],
-    [
-     "30103605",
-     "Tablas de madera",
-     18,
-     "PINO SECO CEPILLADO 2X2 X 3.2 MTS"
-    ],
-    [
-     "30111601",
-     "Cemento",
-     4,
-     "CEMENTO MELON 25K"
-    ],
-    [
-     "30151505",
-     "Membranas para techos",
-     1,
-     "TYVEK MEMBRANA HIDROFUGA SURHOUSE 75M2"
-    ],
-    [
-     "30151506",
-     "Tejas",
-     12,
-     "TEJA CONTINUA NEGRA 3.66"
-    ],
-    [
-     "30161718",
-     "Plataforma de acero antideslizante",
-     3,
-     "CUMBRERA X 3M NEGRO"
-    ],
-    [
-     "31161503",
-     "Clavo-tornillo",
-     3,
-     "CLAVO. 4\" X 8 CTE X KILO"
-    ],
-    [
-     "31161503",
-     "Clavo-tornillo",
-     2,
-     "CLAVO. 3\" X10 CTE X KILO"
-    ],
-    [
-     "31161503",
-     "Clavo-tornillo",
-     100,
-     "TORNILLO DRYWALL 1 1/4\""
-    ],
-    [
-     "31161608",
-     "Tirafondos",
-     30,
-     "TIRAFONDO 3/8 X 2.1/2\""
-    ],
-    [
-     "31162005",
-     "Clavos para tejados",
-     100,
-     "HEXAG. AUTOP. TORN. 2.1/2\""
-    ],
-    [
-     "31211504",
-     "Pinturas de cobertura",
-     1,
-     "CERESTAIN NATURAL"
-    ],
-    [
-     "31211904",
-     "Brochas",
-     2,
-     "BROCHA CERDA NAT. 4\" COBRA"
-    ],
-    [
-     "39121435",
-     "Hilos o cables de conexión",
-     1,
-     "TRUPER HILO ALBAÑIL"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=3791-1135-COT26",
-   "sin_detalle": false,
-   "descripcion": "ADQUISICION DE MATERIALES PARA LA REPARACION EN TECHO DE MERCADO MUNICIPAL DE LA JUNTA. SE ADJUNTAN ANEXOS",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
-  {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Conectores, enchufes y terminales"
-   ],
-   "nueva": true,
-   "codigo": "3791-1132-COT26",
-   "nombre": "BAÑOS GIM PUYUHUAPI",
-   "organismo": "I MUNICIPALIDAD DE CISNES",
-   "unidad": "Finanzas",
-   "monto": 1335530,
-   "cierre_iso": "2026-11-12T11:12:00-03:00",
-   "publicacion": "09-11 16:00",
-   "publicacion_iso": "2026-11-09T16:00:00-03:00",
-   "ofertas": 1,
-   "productos": [
-    [
-     "12352310",
-     "Siliconas",
-     4,
-     "Silicona sanitaria antihongos"
-    ],
-    [
-     "20142201",
-     "Calentadores de línea eléctrica",
-     2,
-     "calefónt de 14 litros"
-    ],
-    [
-     "30171514",
-     "Cierres de puertas",
-     10,
-     "Bisagras 3\" para puertas de baño y ducha"
-    ],
-    [
-     "30181504",
-     "Lavamanos",
-     6,
-     "llaves de lavamanos"
-    ],
-    [
-     "30181505",
-     "Taza de WC",
-     4,
-     "urinarios de pared para hombres"
-    ],
-    [
-     "30181509",
-     "Jabonera",
-     4,
-     "dispensadores de jabon"
-    ],
-    [
-     "30181513",
-     "Tapas de inodoro",
-     5,
-     "tapas para WC"
-    ],
-    [
-     "31201522",
-     "Cinta de transferencia adhesiva",
-     2,
-     "teflón amarillo"
-    ],
-    [
-     "31201522",
-     "Cinta de transferencia adhesiva",
-     2,
-     "teflón blanco"
-    ],
-    [
-     "39121419",
-     "Conexiones flexibles",
-     4,
-     "flexibles 60cm"
-    ],
-    [
-     "39121419",
-     "Conexiones flexibles",
-     2,
-     "Flexible de gas"
-    ],
-    [
-     "40141705",
-     "Caños",
-     2,
-     "Kit ducto de evacuación de gases calefont 4\" (cañón, codo y sombrerete)"
-    ],
-    [
-     "40141716",
-     "Sifones en P",
-     4,
-     "Sifon urinarios"
-    ],
-    [
-     "42292307",
-     "Llaves quirúrgicas",
-     2,
-     "Llave de paso de gas 1/2\""
-    ],
-    [
-     "42292307",
-     "Llaves quirúrgicas",
-     4,
-     "Llave/válvula de urinario"
-    ],
-    [
-     "46171503",
-     "Juegos de cerraduras",
-     1,
-     "cerradura completa normal doble seguro"
-    ],
-    [
-     "46171503",
-     "Juegos de cerraduras",
-     1,
-     "cerradura completa para la puerta blanca lateral"
-    ],
-    [
-     "47131703",
-     "Recipientes para residuos sanitarios",
-     4,
-     "basureros"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=3791-1132-COT26",
-   "sin_detalle": false,
-   "descripcion": "ADQISICION DE MATERIALES DE CONSTRUCCION PARA REPARACION DE BAÑOS GIMNASIO PUYUHUAPI",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "eléctrico"
-   ],
-   "nueva": false,
-   "codigo": "4066-494-COT26",
-   "nombre": "SERVICIO DE IMPRESIÓN DE IMPLEMENTOS PARA TURISMO",
-   "organismo": "I MUNICIPALIDAD RIO IBANEZ",
-   "unidad": "DIDECO",
-   "monto": 2550000,
-   "cierre_iso": "2026-11-12T12:00:00-03:00",
-   "publicacion": "09-11 15:59",
-   "publicacion_iso": "2026-11-09T15:59:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "30151901",
-     "Toldos",
-     2,
-     "Toldos plegables publicitarios, de estructura metálica resistente y desmontable, con cubierta de tela impermeable, resistente a condiciones climáticas exteriores y con protección UV. Dimensiones aproximadas de 3 x 3 metros. Deben incorporar impresión gráfica personalizada a color, incluyendo logo y eslogan municipal, según diseño aprobado por la Municipalidad. Considerar impresión en techo y faldones laterales, según diseño solicitado. Incluir estructura completa, cubierta, elementos de fijación"
-    ],
-    [
-     "30221001",
-     "Carpas",
-     1,
-     "Carpa simple publicitaria plegable tipo araña 6 m , de estructura metálica resistente y sistema de armado desmontable. Cubierta de lona impermeable, resistente a condiciones climáticas exteriores y con protección UV., altura central 4,5 metros aprox, altura lateral 2.10 metros aprox, incluir logo y eslogan municipal.Debe incluir estructura completa, cubierta, elementos de fijación. segun TDR"
-    ],
-    [
-     "82101501",
-     "Letreros publicitarios",
-     1,
-     "Elemento publicitario inflable tipo pera de 3 metros, de uso exterior, confeccionado en material resistente, impermeable y apto para exposición a condiciones climáticas. Debe contemplar impresión gráfica personalizada a color, incorporando logo y eslogan municipal, según diseño aprobado. Incluir sistema de inflado, motor o ventilador eléctrico cuando corresponda, elementos de sujeción y accesorios necesarios para su correcta instalación y funcionamiento."
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=4066-494-COT26",
-   "sin_detalle": false,
-   "descripcion": "La Municipalidad requiere la contratación del servicio de impresión y confección de material promocional consistente en toldos, pera inflable decorativa y carpa tipo araña personalizados con logo y eslogan municipal, destinados a la decoración de ferias productivas y actividades de promoción local organizadas por la entidad. ADJUNTAR LA PATENTE MUNICIPAL VIGENTE.",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
-  {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Cajas y accesorios eléctricos",
-    "Interruptores, controles y relés"
-   ],
-   "nueva": true,
-   "codigo": "5019-66-COT26",
-   "nombre": "Adquisición de elementos de construcción",
-   "organismo": "Ejercito de Chile",
-   "unidad": "Centro Clínico Militar Coyhaique",
-   "monto": 340000,
-   "cierre_iso": "2026-11-12T12:30:00-03:00",
-   "publicacion": "11-11 12:02",
-   "publicacion_iso": "2026-11-11T12:02:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "11121610",
-     "Maderas duras",
-     2,
-     "Moldura ½ caña pino finger natural 15mm x 45mm x 3mts."
-    ],
-    [
-     "27111704",
-     "Enchufes",
-     2,
-     "Enchufe embutido triple 10-16 amperes, color blanco."
-    ],
-    [
-     "27111712",
-     "Extractores",
-     1,
-     "Extracto de aire, techo – pared de 4 pulgadas."
-    ],
-    [
-     "30102212",
-     "Plancha de cinc",
-     1,
-     "Plancha yeso cartón borde rebajado 10mm, 120cm x 240 cm.."
-    ],
-    [
-     "31151703",
-     "Cables elevadores",
-     1,
-     "Cable libre de halógeno, 1x2.5mm rojo, rollo de 25 metros."
-    ],
-    [
-     "31151703",
-     "Cables elevadores",
-     1,
-     "Cable libre de halógeno, 1x2.5mm blanco, rollo de 25 metros."
-    ],
-    [
-     "31151703",
-     "Cables elevadores",
-     1,
-     "Cable libre de halógeno, 1x2.5mm verde, rollo de 25 metros."
-    ],
-    [
-     "31161505",
-     "Tornillos de presión",
-     1,
-     "Tornillo vulcanita zincado CRS 6X2-1/2 pulgadas, punta fina, caja 100 unidades."
-    ],
-    [
-     "31211501",
-     "Pinturas al esmalte",
-     1,
-     "Esmalte al agua galón semibrillo blanco, exterior – interior."
-    ],
-    [
-     "31211904",
-     "Brochas",
-     1,
-     "Brocha multiuso 2 pulgadas."
-    ],
-    [
-     "39101608",
-     "Focos cialiticos",
-     7,
-     "Foco led redondo color blanco, embutido luz cálida, diámetro 22 cms."
-    ],
-    [
-     "39121205",
-     "Canaletas para cables",
-     6,
-     "Canaleta blanca 40x16mm, 2 metros con adhesivo."
-    ],
-    [
-     "39121311",
-     "Accesorios eléctricos",
-     4,
-     "Caja chuqui blanca sobrepuesta universal"
-    ],
-    [
-     "39121511",
-     "Interruptores variables",
-     1,
-     "Interruptor 9/12 embutido, color blanco"
-    ],
-    [
-     "46171503",
-     "Juegos de cerraduras",
-     1,
-     "Cerradura acceso doble manilla 914, material de acero, color bronce sanitado."
-    ],
-    [
-     "51102702",
-     "Agua destilada para irrigación",
-     5,
-     "Agua desmineralizada, bidón 05 litros"
-    ],
-    [
-     "56111601",
-     "Pantallas para los sistemas de panel",
-     1,
-     "Panel led sobrepuesto 60cms x 60 cms, luz fría."
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=5019-66-COT26",
-   "sin_detalle": false,
-   "descripcion": "Adquisición de elementos de construcción para el CCM \"Coyhaique\". Las ofertas serán declaradas inadmisibles cuando: Cotización sobrepase presupuesto disponible, oferten elementos de construcción que no sean los solicitados, oferta considere flete aparte y exceder plazo de entrega. Características técnicas solicitadas en anexo adjunto. Se deberá postular por la totalidad de los insumos. El retiro o entrega debe ser en la ciudad de Coyhaique.",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "eléctrico"
-   ],
-   "nueva": false,
-   "codigo": "1113146-63-COT26",
-   "nombre": "ELEMENTOS DE TERRENO",
-   "organismo": "CORP NACIONAL FORESTAL",
-   "unidad": "XI Región - Provincial General Carrera",
-   "monto": 380000,
-   "cierre_iso": "2026-11-12T13:00:00-03:00",
-   "publicacion": "09-11 09:37",
-   "publicacion_iso": "2026-11-09T09:37:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "12191501",
-     "Solventes aromáticos",
-     8,
-     "Airwick, Aromatizante Eléctrico Repuestos Manzana Canela y Frutos del Bosque."
-    ],
-    [
-     "31211507",
-     "Pinturas en aerosol",
-     25,
-     "Spray de marcación estilo Rust Oleum"
-    ],
-    [
-     "52151806",
-     "Ollas domésticas para cocer al vapor",
-     2,
-     "Set ollas camping aluminio gris para cocina outdoor campamento."
-    ],
-    [
-     "52152010",
-     "Termos domésticos",
-     2,
-     "Termo 1lt acero inoxidable gris."
-    ],
-    [
-     "56121403",
-     "Mesas móviles",
-     2,
-     "Mesa plegable portátil terreno tipo maleta 100x50cm"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1113146-63-COT26",
-   "sin_detalle": false,
-   "descripcion": "Insumos y materiales para salidas a terreno",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
   {
    "tipo": "POSIBLE",
    "motivos": [
@@ -886,6 +339,53 @@
    "desaparecida_iso": ""
   },
   {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "iluminación"
+   ],
+   "nueva": true,
+   "codigo": "3949-296-COT26",
+   "nombre": "Insumos para unidad dependencia Severa, para completar bolso de terreno.",
+   "organismo": "CONSULTORIO GENERAL URBANO DR ALEJANDRO GUTIERREZ",
+   "unidad": "ID 3949 - CESFAM Dr Alejandro Gutiérrez",
+   "monto": 2000000,
+   "cierre_iso": "2026-11-13T12:00:00-03:00",
+   "publicacion": "12-11 10:53",
+   "publicacion_iso": "2026-11-12T10:53:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "42181801",
+     "Unidades de oxímetros de pulso",
+     5,
+     "Oxímetro de Pulso Digital, pantalla OLED de doble color ofrece una lectura clara y de fácil visualización, alta exactitud en la medición de SpO2 y frecuencia de Pulso, testado con simulador BIO-TEK.  Con límites de alarma. Aprobado por la FDA y CE. Adjuntar imágenes y especificaciones técnicas."
+    ],
+    [
+     "42182005",
+     "Oftalmoscopios o otoscopios o juegos de scopios",
+     2,
+     "Oftalmoscopio con mango metálico, iluminación halógena y transmisión de luz por fibra óptica. Selector de apertura Rango de dioptrías: -20 a +20, lentes condensadores de vidrio para enfoque, Incluir filtro libre de rojo y azul cobalto, Posiciones de apertura: 5 5. Adjuntar imágenes y especificaciones técnicas."
+    ],
+    [
+     "42182005",
+     "Oftalmoscopios o otoscopios o juegos de scopios",
+     8,
+     "Otoscopio con lámpara LED SureColor, transmisión de luz por fibra óptica mango metálico, gancho tipo lapicera, tecla de encendido/apagado, lupa deslizable, luz distal fría sin reflejos, canal libre para realizar procedimientos. Conector para otoscopías neumáticas. Que  incluye 4 espéculos. Adjuntar imágenes y especificaciones técnicas."
+    ],
+    [
+     "42182103",
+     "Estetoscopio mecánico o accesorios",
+     6,
+     "Fonendoscopio  de material del diafragma  de  Epoxi/Fibra de vidrio, longitud total de 69 cm, peso de 150 g. rendimiento acustico 8/10. Doble cara (adulto-pediátrico). peso de la campana: 82 g.  y que incluya olivas en tamaños grandes y pequeños. Anillo antifrío de repuesto y adaptadores especiales. Con garantía de  5 años. Adjuntar imágenes y especificaciones técnicas."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=3949-296-COT26",
+   "sin_detalle": false,
+   "descripcion": "Insumos para unidad dependencia Severa, para completar bolso de terreno.",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
    "tipo": "OPORTUNIDAD",
    "motivos": [
     "Materiales de física de electricidad"
@@ -1062,6 +562,467 @@
   {
    "tipo": "OPORTUNIDAD",
    "motivos": [
+    "Cajas y accesorios eléctricos",
+    "Interruptores, controles y relés"
+   ],
+   "nueva": true,
+   "codigo": "5019-66-COT26",
+   "nombre": "Adquisición de elementos de construcción",
+   "organismo": "Ejercito de Chile",
+   "unidad": "Centro Clínico Militar Coyhaique",
+   "monto": 340000,
+   "cierre_iso": "2026-11-13T12:57:00-03:00",
+   "publicacion": "11-11 12:02",
+   "publicacion_iso": "2026-11-11T12:02:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "11121610",
+     "Maderas duras",
+     2,
+     "Moldura ½ caña pino finger natural 15mm x 45mm x 3mts."
+    ],
+    [
+     "27111704",
+     "Enchufes",
+     2,
+     "Enchufe embutido triple 10-16 amperes, color blanco."
+    ],
+    [
+     "27111712",
+     "Extractores",
+     1,
+     "Extracto de aire, techo – pared de 4 pulgadas."
+    ],
+    [
+     "30102212",
+     "Plancha de cinc",
+     1,
+     "Plancha yeso cartón borde rebajado 10mm, 120cm x 240 cm.."
+    ],
+    [
+     "31151703",
+     "Cables elevadores",
+     1,
+     "Cable libre de halógeno, 1x2.5mm rojo, rollo de 25 metros."
+    ],
+    [
+     "31151703",
+     "Cables elevadores",
+     1,
+     "Cable libre de halógeno, 1x2.5mm blanco, rollo de 25 metros."
+    ],
+    [
+     "31151703",
+     "Cables elevadores",
+     1,
+     "Cable libre de halógeno, 1x2.5mm verde, rollo de 25 metros."
+    ],
+    [
+     "31161505",
+     "Tornillos de presión",
+     1,
+     "Tornillo vulcanita zincado CRS 6X2-1/2 pulgadas, punta fina, caja 100 unidades."
+    ],
+    [
+     "31211501",
+     "Pinturas al esmalte",
+     1,
+     "Esmalte al agua galón semibrillo blanco, exterior – interior."
+    ],
+    [
+     "31211904",
+     "Brochas",
+     1,
+     "Brocha multiuso 2 pulgadas."
+    ],
+    [
+     "39101608",
+     "Focos cialiticos",
+     7,
+     "Foco led redondo color blanco, embutido luz cálida, diámetro 22 cms."
+    ],
+    [
+     "39121205",
+     "Canaletas para cables",
+     6,
+     "Canaleta blanca 40x16mm, 2 metros con adhesivo."
+    ],
+    [
+     "39121311",
+     "Accesorios eléctricos",
+     4,
+     "Caja chuqui blanca sobrepuesta universal"
+    ],
+    [
+     "39121511",
+     "Interruptores variables",
+     1,
+     "Interruptor 9/12 embutido, color blanco"
+    ],
+    [
+     "46171503",
+     "Juegos de cerraduras",
+     1,
+     "Cerradura acceso doble manilla 914, material de acero, color bronce sanitado."
+    ],
+    [
+     "51102702",
+     "Agua destilada para irrigación",
+     5,
+     "Agua desmineralizada, bidón 05 litros"
+    ],
+    [
+     "56111601",
+     "Pantallas para los sistemas de panel",
+     1,
+     "Panel led sobrepuesto 60cms x 60 cms, luz fría."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=5019-66-COT26",
+   "sin_detalle": false,
+   "descripcion": "Adquisición de elementos de construcción para el CCM \"Coyhaique\". Las ofertas serán declaradas inadmisibles cuando: Cotización sobrepase presupuesto disponible, oferten elementos de construcción que no sean los solicitados, oferta considere flete aparte y exceder plazo de entrega. Características técnicas solicitadas en anexo adjunto. Se deberá postular por la totalidad de los insumos. El retiro o entrega debe ser en la ciudad de Coyhaique.",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "iluminación"
+   ],
+   "nueva": true,
+   "codigo": "1092-88-COT26",
+   "nombre": "SIC N°453 SIRE N°437 Materiales de oficina",
+   "organismo": "CORP NACIONAL FORESTAL",
+   "unidad": "XI Región - Oficina Regional de Aysén",
+   "monto": 2476801,
+   "cierre_iso": "2026-11-13T14:00:00-03:00",
+   "publicacion": "12-11 12:17",
+   "publicacion_iso": "2026-11-12T12:17:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "14111507",
+     "Papel para fotocopiadora o impresora",
+     50,
+     "Papel fotocopia oficio (blanco) 75g/m2 500 hojas"
+    ],
+    [
+     "14111507",
+     "Papel para fotocopiadora o impresora",
+     50,
+     "Papel fotocopia carta (blanco) 75g/m2 500 hojas"
+    ],
+    [
+     "14111530",
+     "Notas de papel autoadhesivo",
+     20,
+     "Notas adhesivas autoadhesivas, formato taco, de 7,6 x 7,6cm, color fucsia neón, con un contenido de 100 hojas por unidad. Deben contar con adhesivo que permita su fijación y posterior retiro de superficies, sin dejar residuos en condiciones normales de uso. Igual o similar Torre."
+    ],
+    [
+     "14111531",
+     "Libros o cuadernos de registro",
+     20,
+     "Libro de actas de composición, de 100 hojas (200 páginas), tamaño aproximado 22 x 33 cm, papel bond blanco, hojas interiores con líneas para escritura, foliado correlativamente, encuadernación empastada y tapas rígidas de cartón forrado con papel plastificado, igual o equivalente al modelo AUCA Libro de Actas Composición 100 Hojas."
+    ],
+    [
+     "14111531",
+     "Libros o cuadernos de registro",
+     15,
+     "Cuaderno univ. 7mm 100hjs. de uso administrativo, formato universitario, con hojas de papel para escritura y cuadriculado de 7 mm. Debe contar con 100 hojas, adecuadas para escritura con lápiz pasta, lápiz gel o grafito, y encuadernación resistente que permita su uso frecuente, espiral doble, tapa dura."
+    ],
+    [
+     "24141607",
+     "Separadores de cartón",
+     20,
+     "Juego de separadores para archivador, tamaño carta, compuesto por 6 posiciones o divisiones, fabricado en cartulina de colores, con pestañas laterales identificadoras y perforaciones para su instalación en archivadores de anillos, igual o equivalente al modelo Isofit Carta 6 Posiciones."
+    ],
+    [
+     "24141607",
+     "Separadores de cartón",
+     20,
+     "Separador para archivador tamaño oficio, fabricado en cartulina, compuesto por 6 posiciones o divisiones, con pestañas laterales de colores para identificación y clasificación de documentos, perforaciones compatibles con archivadores de 2 y 3 anillos, igual o equivalente al modelo Torre Oficio 6 Posiciones."
+    ],
+    [
+     "31201512",
+     "Cinta Transparente",
+     30,
+     "Cinta adhesiva transparente tipo cristal, de 18 mm de ancho por 25 metros de largo, fabricada en polipropileno, con acabado brillante, adhesión permanente y transparente, resistente a la humedad y al paso del tiempo, de fácil desenrollado y corte, apta para uso en oficina, hogar y trabajos escolares, igual o equivalente al modelo 3M Scotch Cristal 18 mm x 25 m."
+    ],
+    [
+     "31201515",
+     "Cintas de papel",
+     30,
+     "Cinta adhesiva de enmascarar tipo Masking Tape, de 48 mm de ancho por 40 metros de largo, fabricada en papel crepé flexible, color crema o beige, con adhesivo de caucho de adherencia instantánea, removible y que no deje residuos en condiciones normales de uso. De fácil rasgado manual, apta para trabajos de pintura, protección de superficies, sellado, rotulación y uso general, igual o equivalente al modelo UsaTape Masking 48 mm x 40 m."
+    ],
+    [
+     "31201517",
+     "Cinta para empaquetar",
+     25,
+     "Huincha embalaje 48 x 40m cafe"
+    ],
+    [
+     "31201517",
+     "Cinta para empaquetar",
+     25,
+     "Huincha embalaje 48 x 40m transparente"
+    ],
+    [
+     "43211706",
+     "Teclados",
+     5,
+     "Kit de teclado y mouse gamer alámbrico, conexión USB, compuesto por teclado de membrana con retroiluminación LED RGB, distribución de teclas en español, resistente a pequeños derrames de líquidos y estructura reforzada. Incluye mouse óptico ergonómico con 6 botones, resolución ajustable de DPI, iluminación LED y cable de conexión USB, igual o equivalente al modelo HP Gaming KM300F"
+    ],
+    [
+     "44102001",
+     "Lámina para plastificar",
+     6,
+     "Fundas para termolaminado, láminas plásticas para termolaminado, transparentes, destinadas a la protección y conservación de documentos, fotografías, credenciales y otros materiales impresos. Deben ser compatibles con máquinas termolaminadoras y permitir una adecuada adhesión y sellado mediante calor. 83MM x 115MM Caja de 100u de 175mic"
+    ],
+    [
+     "44102404",
+     "Aplicadoras de etiquetas",
+     10,
+     "Tiritas Colores 250u para visores transparentes de carpetas colgantes, fabricados en papel o cartulina, destinados a la rotulación y clasificación de documentos y archivos. Deben ser compatibles con visores porta etiquetas transparentes y permitir la identificación mediante escritura manual o impresión."
+    ],
+    [
+     "44103105",
+     "Cartuchos de tinta",
+     3,
+     "Botella de tinta para impresora de sistema continuo, color cyan, formulación a base de agua, contenido de 70 ml, compatible con impresoras Epson EcoTank que utilicen la serie de tinta T664220-AL (cyan)."
+    ],
+    [
+     "44103105",
+     "Cartuchos de tinta",
+     3,
+     "Botella de tinta para impresora de sistema continuo, color black, formulación a base de agua, contenido de 70 ml, compatible con impresoras Epson EcoTank que utilicen la serie de tinta t664120-AL black"
+    ],
+    [
+     "44103105",
+     "Cartuchos de tinta",
+     3,
+     "Botella de tinta para impresora de sistema continuo, color yellow, formulación a base de agua, contenido de 70 ml, compatible con impresoras Epson EcoTank que utilicen la serie de tinta t664420 yellow"
+    ],
+    [
+     "44103105",
+     "Cartuchos de tinta",
+     3,
+     "Botella de tinta para impresora de sistema continuo, color magenta, formulación a base de agua, contenido de 70 ml, compatible con impresoras Epson EcoTank que utilicen la serie de tinta t664320 magenta"
+    ],
+    [
+     "44111905",
+     "Pizarras para plumón y accesorios",
+     30,
+     "Pack de 4 plumones para pizarra blanca, colores celeste, morado, naranjo y rosado, con punta redonda, tinta de secado rápido y borrado en seco, aptos para escritura y dibujo sobre superficies de pizarra blanca, de fácil borrado y sin dejar residuos, igual o equivalente al modelo Proarte Blíster Marcadores de Pizarra 4 Unidades"
+    ],
+    [
+     "44121618",
+     "Tijeras",
+     10,
+     "Tijera de oficina y hogar de 19 cm (8 pulgadas), con hojas de acero inoxidable, filo de corte recto, mango ergonómico de plástico con recubrimiento antideslizante, apta para cortar papel, cartulina y otros materiales de uso cotidiano, igual o equivalente al modelo Isofit Oficina-Hogar 19 cm"
+    ],
+    [
+     "44121704",
+     "Lápiz pasta",
+     30,
+     "Lápiz de escritura con tinta tipo gel, color azul, con punta fina de 0,5 mm de diámetro, que permita una escritura fluida, uniforme y de secado adecuado. Debe contar con cuerpo ergonómico que facilite su manipulación y uso prolongado, con sistema de protección de punta mediante tapa igual o equivalente a Lápiz pilot super gel 0.5 azul"
+    ],
+    [
+     "44121704",
+     "Lápiz pasta",
+     30,
+     "Lápiz de escritura con tinta tipo gel, color rojo, con punta fina de 0,5 mm de diámetro, que permita una escritura fluida, uniforme y de secado adecuado. Debe contar con cuerpo ergonómico que facilite su manipulación y uso prolongado, con sistema de protección de punta mediante tapa igual o equivalente Lápiz pilot super gel 0.5 rojo"
+    ],
+    [
+     "44121704",
+     "Lápiz pasta",
+     30,
+     "Lápiz de escritura con tinta tipo gel, color negro, con punta fina de 0,5 mm de diámetro, que permita una escritura fluida, uniforme y de secado adecuado. Debe contar con cuerpo ergonómico que facilite su manipulación y uso prolongado, con sistema de protección de punta mediante tapa igual o equivalente a Lápiz pilot super gel 0.5 negro"
+    ],
+    [
+     "44121704",
+     "Lápiz pasta",
+     30,
+     "Lápiz tinta de gel, retráctil, 0,7mm, color azul con grip antideslizante o ergonómico, de escritura fluida y uniforme, igual o equivalente a pilot G-2"
+    ],
+    [
+     "44121704",
+     "Lápiz pasta",
+     10,
+     "Lápiz tinta de gel, retráctil, 0,7mm, color violeta con grip antideslizante o ergonómico, de escritura fluida y uniforme, igual o equivalente a pilot G-2"
+    ],
+    [
+     "44121704",
+     "Lápiz pasta",
+     100,
+     "Lápiz pasta, tinta color azul, punta media de 1,0 mm, cuerpo plástico transparente de forma hexagonal, con tapa ventilada y escritura fluida y uniforme, igual o equivalente al modelo BIC Cristal Original."
+    ],
+    [
+     "44121704",
+     "Lápiz pasta",
+     40,
+     "Lápiz pasta, tinta color azul, punta metálica media de 1,0 mm, cuerpo plástico transparente de diseño triangular ergonómico, con tapa y tinta de escritura fluida, igual o equivalente a Faber-Castell Trilux 032-M."
+    ],
+    [
+     "44121707",
+     "Lápices de colores",
+     20,
+     "Set de destacadores con tinta fluorescente, aptos para resaltar textos y documentos. Deben contar con punta biselada que permita realizar trazos de distinto grosor, tinta de buena intensidad y aplicación uniforme, sin dañar el papel en condiciones normales de uso. Blister destacador tratto emphasis 3 unid."
+    ],
+    [
+     "44121801",
+     "Cinta correctora",
+     30,
+     "Corrector de escritura en cinta, color blanco, de 5 mm de ancho y mínimo 6 metros de longitud, de aplicación seca, rápida y precisa, que permita escribir inmediatamente sobre la superficie corregida, sin necesidad de tiempo de secado, con cuerpo plástico ergonómico y punta aplicadora de precisión"
+    ],
+    [
+     "44121802",
+     "Líquido corrector",
+     10,
+     "Lápiz corrector líquido de 7 ml, cuerpo triangular ergonómico y blando, con punta metálica de precisión, tapa transparente con clip, de secado rápido y bajo olor, igual o equivalente al modelo Faber-Castell Corrector Triangular 7 ml."
+    ],
+    [
+     "44122001",
+     "Archivadores de fichas",
+     15,
+     "Archivador tamaño carta lomo ancho burdeo, equivalente a Rhein."
+    ],
+    [
+     "44122001",
+     "Archivadores de fichas",
+     15,
+     "Archivador tamaño oficio lomo ancho burdeo, equivalente a Torre."
+    ],
+    [
+     "44122003",
+     "Tablas para sujetar",
+     30,
+     "Tabla de apoyo tipo portapapeles, tamaño oficio, fabricada en madera rígida, con sujetador metálico superior de presión para mantener documentos firmemente sujetos, superficie lisa y resistente, apta para escritura y toma de apuntes sin necesidad de utilizar escritorio, igual o equivalente al modelo Tabla con Apretador JM Import Oficio Madera"
+    ],
+    [
+     "44122003",
+     "Tablas para sujetar",
+     30,
+     "Tabla de apoyo para escritura tipo portapapeles, tamaño oficio, con cubierta exterior de material vinílico color azul, base interior rígida que proporciona firmeza y estabilidad, equipada con un apretador metálico simple en la parte superior para sujetar documentos y hojas de papel, igual o equivalente al modelo Kores"
+    ],
+    [
+     "44122003",
+     "Tablas para sujetar",
+     6,
+     "Tabla de apoyo para escritura tipo portapapeles, tamaño oficio (aproximadamente 23 x 34 cm), fabricada en PVC rígido y resistente, con doble mecanismo de sujeción metálico en la parte superior, que permite mantener firmemente sujetos documentos y hojas de papel, con capacidad aproximada de hasta 100 hojas, igual o equivalente al modelo Torre Tabla con Apretador Doble Oficio PVC"
+    ],
+    [
+     "44122008",
+     "Divisores con uñetas",
+     50,
+     "Visores transparentes porta etiquetas para carpetas colgantes, fabricados en material plástico transparente, diseñados para identificar y clasificar documentos mediante etiquetas intercambiables. Deben permitir una adecuada visibilidad de la información y contar con sistema de fijación compatible con carpetas colgantes."
+    ],
+    [
+     "44122011",
+     "Carpetas para archivos",
+     10,
+     "Carpeta plastificada c/acco clip color lila"
+    ],
+    [
+     "44122011",
+     "Carpetas para archivos",
+     10,
+     "Carpeta plastificada c/acco clip color amarillo"
+    ],
+    [
+     "44122017",
+     "Carpetas colgantes o accesorios",
+     20,
+     "Carpeta colgante metal Carpeta colgante para archivo y organización de documentos, fabricada en material resistente, con sistema de suspensión mediante varillas o soportes metálicos reforzados en sus extremos, que permitan su desplazamiento y ajuste en archivadores o muebles para carpetas colgantes. Debe contar con estructura firme, adecuada para almacenar y consultar documentos de manera ordenada y frecuente."
+    ],
+    [
+     "44122103",
+     "Corchetes",
+     20,
+     "Corchetes metálicos para engrapadora, tamaño 23/10, fabricados en alambre metálico resistente, con terminación uniforme y puntas diseñadas para una adecuada perforación y sujeción de documentos. Deben ser compatibles con engrapadoras que utilicen corchetes de medida 23/10. Corchete isofit 23/10 1000und"
+    ],
+    [
+     "44122104",
+     "Clips para papel",
+     30,
+     "Clip metálico 28mm"
+    ],
+    [
+     "44122118",
+     "Fasteners o sujetadores no autoadhesivos",
+     6,
+     "Fastener metálico para carpetas 50 unid.\nSujetador metálico para carpetas y archivadores, color plateado, compuesto por un mecanismo metálico de fijación con dos patas flexibles que permitan sujetar y mantener ordenados documentos y hojas perforadas. Debe ser resistente, de fácil instalación y permitir la apertura y cierre para incorporar o retirar documentos."
+    ],
+    [
+     "44122119",
+     "Fasteners o sujetadores autoadhesivos",
+     50,
+     "Doble clip15mm Clip sujetador metálico tipo doble clip (binder clip), de 15mm de ancho, con cuerpo de acero y asas metálicas abatibles, diseñado para sujetar y mantener unidos documentos y hojas de papel. Debe permitir una sujeción firme, ser reutilizable y contar con terminaciones que permitan su manipulación segura."
+    ],
+    [
+     "45101903",
+     "Perforadoras de papel",
+     5,
+     "Perforadora metálica de color negro, con capacidad de perforación de hasta 20 hojas de papel, equipada con guía metálica ajustable para alineación de documentos, sistema de bloqueo de palanca y depósito recolector de residuos, con perforaciones circulares de 5,5 mm y distancia entre perforaciones de 8 cm, igual o equivalente al modelo Isofit PM-20.es par"
+    ],
+    [
+     "55121505",
+     "Fundas de distintivos o accesorios",
+     200,
+     "Funda oficio plástica tamaño oficio protectora transparente, fabricada en material plástico flexible y resistente, destinada al almacenamiento, protección y organización de documentos tamaño oficio. Debe permitir visualizar el contenido y facilitar la inserción y extracción de hojas, protegiéndolas del polvo, la humedad y el deterioro por manipulación."
+    ],
+    [
+     "55121505",
+     "Fundas de distintivos o accesorios",
+     100,
+     "Funda carta plástica tamaño carta protectora transparente, fabricada en material plástico flexible y resistente, destinada al almacenamiento, protección y organización de documentos tamaño oficio. Debe permitir visualizar el contenido y facilitar la inserción y extracción de hojas, protegiéndolas del polvo, la humedad y el deterioro por manipulación."
+    ],
+    [
+     "55121616",
+     "Banderitas autoadhesivas",
+     30,
+     "Blíster de banderitas adhesivas angostas, con 160 unidades en total, distribuidas en 4 colores mínimo, de material semitransparente, con adhesivo removible que permita señalar, marcar y destacar información en documentos y libros sin dañarlos ni dejar residuos, igual o equivalente al modelo Torre Banderitas Angostas 160 unidades, código 28090."
+    ],
+    [
+     "60101722",
+     "Libretas de notas",
+     10,
+     "Block de apuntes tamaño carta, con encuadernación mediante espiral metálico, compuesto por 80 hojas de papel, cuadriculado con líneas de matemática de 7 mm, con tapa y contratapa de cartón para mayor resistencia y soporte al escribir, igual o equivalente al modelo Colón Carta Espiral 7 mm."
+    ],
+    [
+     "60105704",
+     "Barras de pegamento libres de ácido",
+     30,
+     "Pegamento adhesivo en barra de 40 gramos, libre de disolventes, de aplicación directa, con adhesión rápida, fuerte y duradera, lavable con agua fría, apto para pegar papel, cartón, cartulina, fotografías y otros materiales similares. Con envase plástico y tapa de rosca para evitar el secado del producto, igual o equivalente al modelo UHU Stic 40 g."
+    ],
+    [
+     "60121107",
+     "Hojas de papel de acuarelas",
+     1,
+     "Opalina lisa color blanco tamaño carta caja de 100u de 200grs"
+    ],
+    [
+     "60121518",
+     "Lápices de grafito",
+     25,
+     "Lápiz grafito de cuerpo triangular delgado, diseño ergonómico, con hendiduras antideslizantes para una correcta sujeción de los dedos, mina de grafito resistente, graduación HB, apto para usuarios diestros y zurdos, con espacio para identificación del nombre, igual o equivalente al modelo Lyra Groove Slim."
+    ],
+    [
+     "60121535",
+     "Goma de borrar",
+     20,
+     "Goma de borrar blanca, rectangular, de caucho sintético suave (tipo miga de pan), de textura flexible, para borrar trazos de lápiz grafito sin dañar el papel, con envoltorio individual y faja de cartón, igual o equivalente al modelo Factis S20 Softer."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1092-88-COT26",
+   "sin_detalle": false,
+   "descripcion": "La Corporación Nacional Forestal por medio del Departamento de Protección Contra Incendios Forestales Región de Aysén, requiere la adquisición de materiales de oficina la unidad incendios forestales de la región de Aysén. No se cancela costos asociados al flete. (Ver especificaciones técnicas adjuntas)",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
     "Suministros y accesorios eléctricos"
    ],
    "nueva": false,
@@ -1085,6 +1046,35 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=1691-2061-COT26",
    "sin_detalle": false,
    "descripcion": "ASAS DE RECECTOSCOPIO COD.: 27050 G K.STORZ UD PARA REPOSICIÓN DE INSUMOS CLÍNICOS DEL HRC.\nLOS PRECIOS OFERTADOS DEBEN INCLUIR TODOS LOS COSTOS ASOCIADOS, INCLUDIOS FLETES HASTA LA \nDIRECCIÓN DE DESPACHO ESTABLECIDA.LAS PROPUESTAS DEBEN AJUSTARSE ESTRÍCTAMENTE A LAS \nCARACTERÍSTICAS TÉCNICAS INDICADAS EN CADA REQUERIMIENTO. SE SOLICITA ADJUNTAR FICHA TÉCNICA\nCORRESPONDIENTE A LOS PRODUCTOS OFRECIDOS. SE SOLICITA COTIZACIÓN POR 30 DÍAS. \nSE SOLICITA 1 GUÍA DE DESPACHO DENTRO DE LA CAJA.",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "aire acondicionado"
+   ],
+   "nueva": true,
+   "codigo": "1078779-25-COT26",
+   "nombre": "Aire acondicionado",
+   "organismo": "SERVICIO DE SALUD AYSEN CARLOS IBANEZ DEL CAMPO",
+   "unidad": "Fondos Extrapresupuestarios",
+   "monto": 303990,
+   "cierre_iso": "2026-11-13T18:00:00-03:00",
+   "publicacion": "12-11 10:41",
+   "publicacion_iso": "2026-11-12T10:41:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "73161517",
+     "Servicios de fabricación de equipo de aire acondicionado, ventilación o refrigeración",
+     1,
+     "Adquisición de 1 equipo de aire acondicionado tipo Split muro, tecnología Inverter, frío/calor, con\ncapacidad mínima de 9.000 BTU\nnota: Revisar especificaciones técnicas adjuntas, Solo serán evaluadas las ofertas que cumplan con las especificaciones técnicas mínimas solicitadas y ajustarse al PRESUPUESTO DISPONIBLE"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1078779-25-COT26",
+   "sin_detalle": false,
+   "descripcion": "Adquisición de 1 equipo de aire acondicionado tipo Split muro, tecnología Inverter, frío/calor, con capacidad mínima de 9.000 BTU, destinado a dependencias del Proyecto Mujeres Koyun.\nREVISAR ESPECIFICACIONES TECNICAS Y AJUSTARSE AL PRESUPUESTO",
    "en_gracia": false,
    "desaparecida_iso": ""
   },
@@ -1628,6 +1618,53 @@
   {
    "tipo": "POSIBLE",
    "motivos": [
+    "eléctricos"
+   ],
+   "nueva": true,
+   "codigo": "3540-316-COT26",
+   "nombre": "Mandril, estación de soldadura, detector cortocircuito y kit manómetro (P.2529)",
+   "organismo": "Ejercito de Chile",
+   "unidad": "Cuerpo Militar del Trabajo Subjefatura Zonal Coyhaique",
+   "monto": 285000,
+   "cierre_iso": "2026-11-16T08:30:00-03:00",
+   "publicacion": "12-11 10:32",
+   "publicacion_iso": "2026-11-12T10:32:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "23171511",
+     "Herramientas de soldadura",
+     1,
+     "Estación de soldadura para circuitos eléctricos automotriz (ADJUNTAR IMAGEN Y/O ESPECIFICACIONES)"
+    ],
+    [
+     "23171620",
+     "Mandriles",
+     1,
+     "Mandril de 16 mm (ADJUNTAR IMAGEN Y/O ESPECIFICACIONES)"
+    ],
+    [
+     "41103311",
+     "Manómetros",
+     1,
+     "Kit manómetro  medidor de presión de aceite automotriz universal de 12 piezas (ADJUNTAR IMAGEN Y/O ESPECIFICACIONES)"
+    ],
+    [
+     "41113637",
+     "Medidores de voltaje o corriente",
+     1,
+     "Detector de cortocircuito automotriz 12-24v (ADJUNTAR IMAGEN Y/O ESPECIFICACIONES)"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=3540-316-COT26",
+   "sin_detalle": false,
+   "descripcion": "Se deben ofertar todas las líneas, indicando plazo de entrega y datos de contacto. Se privilegiará proveedor de la región o que cuente con sucursal en Coyhaique y luego precio. Este proceso no considera ítem flete ni cargos adicionales, los costos deben estar incluidos en los valores unitarios.(AJUNTAR ESPECIFICACIONES Y/O IMAGEN),(LEER TÉRMINOS DE REFERENCIA ADJUNTO).",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
     "generador"
    ],
    "nueva": true,
@@ -1668,6 +1705,96 @@
   }
  ],
  "historial": [
+  {
+   "codigo": "1113146-63-COT26",
+   "nombre": "ELEMENTOS DE TERRENO",
+   "organismo": "CORP NACIONAL FORESTAL",
+   "monto": 380000,
+   "cierre_iso": "2026-11-12T13:00:00-03:00",
+   "tipo": "POSIBLE",
+   "motivos": [
+    "eléctrico"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1113146-63-COT26",
+   "primera_vista_iso": "2026-11-10T19:26:29-03:00",
+   "removida_iso": "2026-11-12T13:45:25-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
+  {
+   "codigo": "4066-494-COT26",
+   "nombre": "SERVICIO DE IMPRESIÓN DE IMPLEMENTOS PARA TURISMO",
+   "organismo": "I MUNICIPALIDAD RIO IBANEZ",
+   "monto": 2550000,
+   "cierre_iso": "2026-11-12T12:00:00-03:00",
+   "tipo": "POSIBLE",
+   "motivos": [
+    "eléctrico"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=4066-494-COT26",
+   "primera_vista_iso": "2026-11-10T19:26:29-03:00",
+   "removida_iso": "2026-11-12T13:45:25-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
+  {
+   "codigo": "3791-1132-COT26",
+   "nombre": "BAÑOS GIM PUYUHUAPI",
+   "organismo": "I MUNICIPALIDAD DE CISNES",
+   "monto": 1335530,
+   "cierre_iso": "2026-11-12T11:12:00-03:00",
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Conectores, enchufes y terminales"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=3791-1132-COT26",
+   "primera_vista_iso": "2026-11-11T14:18:43-03:00",
+   "removida_iso": "2026-11-12T13:45:25-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
+  {
+   "codigo": "3791-1135-COT26",
+   "nombre": "TECHO MERCADO MUNICIPAL LA JUNTA ",
+   "organismo": "I MUNICIPALIDAD DE CISNES",
+   "monto": 1306300,
+   "cierre_iso": "2026-11-12T11:00:00-03:00",
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Conectores, enchufes y terminales"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=3791-1135-COT26",
+   "primera_vista_iso": "2026-11-11T14:18:43-03:00",
+   "removida_iso": "2026-11-12T13:45:25-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
+  {
+   "codigo": "1180817-3-COT26",
+   "nombre": "Adquisición de Mobiliario y Equipamiento",
+   "organismo": "SERVICIO DE SALUD AYSEN CARLOS IBANEZ DEL CAMPO",
+   "monto": 6814000,
+   "cierre_iso": "2026-11-12T10:00:00-03:00",
+   "tipo": "POSIBLE",
+   "motivos": [
+    "eléctrico"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1180817-3-COT26",
+   "primera_vista_iso": "2026-11-10T19:26:29-03:00",
+   "removida_iso": "2026-11-12T13:45:25-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
   {
    "codigo": "1173433-21-COT26",
    "nombre": "ADQUISICIÓN DE MAQUINARIA Y EQUIPAMIENTO AGRÍCOLA",
@@ -2287,44 +2414,6 @@
    "primera_vista_iso": "2026-10-29T13:17:18-03:00",
    "removida_iso": "2026-11-05T19:47:37-03:00",
    "estado_api": "",
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "3950-716-COT26",
-   "nombre": "Repuestos para Aires Acondicionado CLJ",
-   "organismo": "DIRECCION SALUD RURAL",
-   "monto": 300000,
-   "cierre_iso": "2026-11-05T11:10:00-03:00",
-   "tipo": "POSIBLE",
-   "motivos": [
-    "aire acondicionado",
-    "enchufe",
-    "enchufes"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=3950-716-COT26",
-   "primera_vista_iso": "2026-11-04T14:23:11-03:00",
-   "removida_iso": "2026-11-05T14:29:51-03:00",
-   "estado_api": null,
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "5194-599-COT26",
-   "nombre": "PROYECTO BIENESTAR SOCIAL - CDP PUERTO AYSEN",
-   "organismo": "Servicio de Bienestar Social",
-   "monto": 2600000,
-   "cierre_iso": "2026-11-05T10:00:00-03:00",
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Interruptores, controles y relés"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=5194-599-COT26",
-   "primera_vista_iso": "2026-11-03T19:24:45-03:00",
-   "removida_iso": "2026-11-05T14:29:51-03:00",
-   "estado_api": null,
    "adj_nombre": null,
    "adj_monto": null,
    "adj_iso": null

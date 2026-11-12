@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-11-12T09:58:37.987120-03:00",
+ "actualizado": "2026-11-12T13:45:25.309680-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
- "total_region": 361,
+ "total_region": 340,
  "rubros": {
   "80141600": "Ventas y marketing",
   "82101600": "Publicidad en medios no impresos",
@@ -14,78 +14,6 @@
   "83121700": "Comunicación social y de masas"
  },
  "filas": [
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "publicitaria",
-    "publicitario",
-    "publicitarios"
-   ],
-   "nueva": false,
-   "codigo": "4066-494-COT26",
-   "nombre": "SERVICIO DE IMPRESIÓN DE IMPLEMENTOS PARA TURISMO",
-   "organismo": "I MUNICIPALIDAD RIO IBANEZ",
-   "unidad": "DIDECO",
-   "monto": 2550000,
-   "cierre_iso": "2026-11-12T12:00:00-03:00",
-   "publicacion": "09-11 15:59",
-   "publicacion_iso": "2026-11-09T15:59:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "30151901",
-     "Toldos",
-     2,
-     "Toldos plegables publicitarios, de estructura metálica resistente y desmontable, con cubierta de tela impermeable, resistente a condiciones climáticas exteriores y con protección UV. Dimensiones aproximadas de 3 x 3 metros. Deben incorporar impresión gráfica personalizada a color, incluyendo logo y eslogan municipal, según diseño aprobado por la Municipalidad. Considerar impresión en techo y faldones laterales, según diseño solicitado. Incluir estructura completa, cubierta, elementos de fijación"
-    ],
-    [
-     "30221001",
-     "Carpas",
-     1,
-     "Carpa simple publicitaria plegable tipo araña 6 m , de estructura metálica resistente y sistema de armado desmontable. Cubierta de lona impermeable, resistente a condiciones climáticas exteriores y con protección UV., altura central 4,5 metros aprox, altura lateral 2.10 metros aprox, incluir logo y eslogan municipal.Debe incluir estructura completa, cubierta, elementos de fijación. segun TDR"
-    ],
-    [
-     "82101501",
-     "Letreros publicitarios",
-     1,
-     "Elemento publicitario inflable tipo pera de 3 metros, de uso exterior, confeccionado en material resistente, impermeable y apto para exposición a condiciones climáticas. Debe contemplar impresión gráfica personalizada a color, incorporando logo y eslogan municipal, según diseño aprobado. Incluir sistema de inflado, motor o ventilador eléctrico cuando corresponda, elementos de sujeción y accesorios necesarios para su correcta instalación y funcionamiento."
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=4066-494-COT26",
-   "sin_detalle": false,
-   "descripcion": "La Municipalidad requiere la contratación del servicio de impresión y confección de material promocional consistente en toldos, pera inflable decorativa y carpa tipo araña personalizados con logo y eslogan municipal, destinados a la decoración de ferias productivas y actividades de promoción local organizadas por la entidad. ADJUNTAR LA PATENTE MUNICIPAL VIGENTE.",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "audiovisual"
-   ],
-   "nueva": true,
-   "codigo": "1280-78-COT26",
-   "nombre": "TELEVISOR SMART TV 75”",
-   "organismo": "MINISTERIO DE OBRAS PUBLICAS DIREC CION GRAL DE OO PP DCYF",
-   "unidad": "Direccion de Vialidad - XI Región - Provincia de Cochrane",
-   "monto": 850000,
-   "cierre_iso": "2026-11-12T13:15:00-03:00",
-   "publicacion": "11-11 13:00",
-   "publicacion_iso": "2026-11-11T13:00:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "52161505",
-     "Televisores convencionales, de plasma y LCD",
-     1,
-     "Televisor Smart TV LED de 75 pulgadas, con resolución 4K Ultra HD,, segun ETE indicadas en terminos de referencia.\nSe debe completar formulario, sino oferta no sera evaluada (se declarar inadmisible). Proveedor debe entregar TV en la Ciudad de Cochrane, debe cancelar flete de traslado."
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1280-78-COT26",
-   "sin_detalle": false,
-   "descripcion": "Televisor Smart TV LED de 75 pulgadas, con resolución 4K Ultra HD, destinado a satisfacer las necesidades de visualización de contenido audiovisual, presentaciones institucionales y demás actividades propias del Servicio.\nTelevisor debe ser entregado en la ciudad de Cochrane, proveedor debe  cancelar flete.",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
   {
    "tipo": "OPORTUNIDAD",
    "motivos": [
@@ -296,6 +224,155 @@
     "radio"
    ],
    "nueva": true,
+   "codigo": "1057062-527-COT26",
+   "nombre": "Adquisición materiales e insumos para taller _ Según FISABS 2465_URY23991.",
+   "organismo": "UNIVERSIDAD DE AYSEN",
+   "unidad": "Proyectos",
+   "monto": 1592000,
+   "cierre_iso": "2026-11-13T12:00:00-03:00",
+   "publicacion": "12-11 11:58",
+   "publicacion_iso": "2026-11-12T11:58:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "12142104",
+     "Gas dióxido de carbono CO2",
+     5,
+     "Se requiere comprar Gas Mixto para Cocinillas 230 g. Según especificaciones técnicas adjuntas."
+    ],
+    [
+     "27111503",
+     "Cuchillos de diversas aplicaciones",
+     1,
+     "Se solicita la compra de una Navaja, según especificaciones técnicas adjuntas."
+    ],
+    [
+     "30201606",
+     "Cocinas domésticas",
+     1,
+     "Se requiere la compra de Set De Cocina Alu Cook 2 Personas, según especificaciones técnicas adjuntas."
+    ],
+    [
+     "39111609",
+     "Linternas de queroseno, propano o butano",
+     3,
+     "Se requiere la compra de Linternas Frontal, según especificaciones técnicas adjuntas."
+    ],
+    [
+     "41111717",
+     "Binoculares",
+     2,
+     "Se solicita la compra de 2 Binoculares, según especificaciones técnicas."
+    ],
+    [
+     "42171913",
+     "Bolsas o cajas de respuesta de servicios médicos de urgencia",
+     3,
+     "Se requiere la compra de Bolsa seca de primeros auxilio, según especificaciones técnicas adjuntas."
+    ],
+    [
+     "42171917",
+     "Estuches o bolsas de primeros auxilios para los servicios médicos de urgencias o accesorios",
+     3,
+     "Se requiere la compra de Botiquín de primeros auxilio, según especificaciones técnicas adjuntas."
+    ],
+    [
+     "44111507",
+     "Sujeta libros",
+     5,
+     "Se requiere comprar 5 Pantoneras Huilo-Huilo Herbáceas. Según especificaciones técnicas adjuntas."
+    ],
+    [
+     "44111507",
+     "Sujeta libros",
+     5,
+     "Se requiere la compra de Pantoneras Funga de Chile. Según especificaciones técnicas adjuntas."
+    ],
+    [
+     "48101919",
+     "Tapas o jarras o tazas o vasos de servicios de alimentación",
+     3,
+     "Se requiere la compra de Set Jarro + 4 Tazas, según especificaciones técnicas."
+    ],
+    [
+     "49121509",
+     "Cocinilla de camping",
+     1,
+     "Se requiere la compra de una Cocinilla Compacta, según especificaciones técnicas adjuntas."
+    ],
+    [
+     "49151503",
+     "Bastones de esquí",
+     15,
+     "Se solicita la compra de 15 pares de Bastones de trekking, según especificaciones técnicas adjuntas."
+    ],
+    [
+     "49211805",
+     "Cuerdas",
+     30,
+     "Se requiere la compra de 30 cuerdas de 1 metro cada una, según especificaciones técnicas adjuntas."
+    ],
+    [
+     "52141539",
+     "Teteras de uso doméstico",
+     1,
+     "Se requiere la compra de Tetera Aluminio 800 ml. Según especificaciones técnicas adjuntas."
+    ],
+    [
+     "52152010",
+     "Termos domésticos",
+     1,
+     "Se requiere la compra de Termo. Según especificaciones técnicas adjuntas."
+    ],
+    [
+     "52152010",
+     "Termos domésticos",
+     2,
+     "Se requiere la compra de Mug Hierba Mate Cucao 360 ml, Según especificaciones técnicas adjuntas."
+    ],
+    [
+     "52161511",
+     "Radios",
+     1,
+     "Se requiere la compra de Pack X2 radio, Comunicadores Portátiles, según especificaciones técnicas adjuntas."
+    ],
+    [
+     "53131609",
+     "Protector solar",
+     30,
+     "Se requiere la compra de 30 CREMAS PROTECCIÓN SOLAR, según especificaciones técnicas adjuntas."
+    ],
+    [
+     "60101707",
+     "Guías del plan de estudios",
+     5,
+     "Se solicita la compra de Guías de Bolsillo Aves del sur de chile y Patagonia, según especificaciones técnicas adjuntas."
+    ],
+    [
+     "60101707",
+     "Guías del plan de estudios",
+     5,
+     "Se solicita la compra de Guías de Bolsillo Árboles Nativos zona sur y Patagonia, según especificaciones técnicas adjuntas."
+    ],
+    [
+     "60101707",
+     "Guías del plan de estudios",
+     5,
+     "Se requiere la compra de Guías de bolsillo Plantas medicinales de uso tradicional. Según especificaciones técnicas adjuntas."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1057062-527-COT26",
+   "sin_detalle": false,
+   "descripcion": "Se requiere cotizar materiales e insumos para taller. Cotización debe indicar especificaciones técnicas de lo ofertado. Debe indicar plazo de entrega ofertado, considerando entrega en dependencias de U. Aysén. Valor cotizado debe incluir flete e impuestos. Se podrá privilegiar el menor plazo de entrega ofertado, siempre que cumpla con todas las especificaciones requeridas.",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "radio"
+   ],
+   "nueva": true,
    "codigo": "973172-4-COT26",
    "nombre": "ALMUERZO CAMPESTRE OFICINA DE BIENESTAR Y CALIDAD DE VIDA 2026",
    "organismo": "SII Oficina de Bienestar",
@@ -316,6 +393,83 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=973172-4-COT26",
    "sin_detalle": false,
    "descripcion": "Se requiere contratar el servicio de almuerzo campestre para 100 personas, funcionarios/as del SII, esta actividad se realizará en lugar por definir en la comuna de Coyhaique y alrededores en un radio de 9 km. aproximadamente. La fecha de realización del evento será el día 14 o 16 diciembre 2026 desde las 13:00 horas.",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "fotografía"
+   ],
+   "nueva": true,
+   "codigo": "3949-300-COT26",
+   "nombre": "Insumos para uso en atenciones unidad dental",
+   "organismo": "CONSULTORIO GENERAL URBANO DR ALEJANDRO GUTIERREZ",
+   "unidad": "ID 3949 - CESFAM Dr Alejandro Gutiérrez",
+   "monto": 7200000,
+   "cierre_iso": "2026-11-13T13:00:00-03:00",
+   "publicacion": "12-11 12:42",
+   "publicacion_iso": "2026-11-12T12:42:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "42151625",
+     "Instrumentos de higiene dental",
+     6,
+     "Formocresol. Solución. Desinfectante, antiséptico y momificante pulpar. Presentación: frasco mínimo 10 ml y máximo 20 ml. Fecha de vencimiento posterior a marzo 2028."
+    ],
+    [
+     "42151675",
+     "Kits de restauración dental",
+     10,
+     "Material restaurador a base de ionómero de vidrio de alta resistencia a la flexión; combinación de vidrio de silicato de aluminio y ácido poliacrílico; presentación en frasco con Polvo 12,5 g y frasco con Líquido 8,5 ml; con cuchara dosificadora y block de mezcla. Tipo Ketac Molar. De preferencia incluir fotografía del producto. Fecha de vencimiento posterior a marzo 2028."
+    ],
+    [
+     "42151681",
+     "Sets de anestesia odontológica o accesorios",
+     100,
+     "Anestesia local 3%. Cada tubo de 1,8 ml debe contener 54 mg de Mepivacaína sin vasoconstrictor al 3%. De preferencia incluir fotografía del producto. Fecha de vencimiento posterior a marzo 2028"
+    ],
+    [
+     "42152012",
+     "Piezas o kits de aparatos para radiografías odontológicas o accesorios",
+     2,
+     "Placa de fósforo para radiografía dental digital, para radiografía bitewing o aleta mordida, tamaño N°3, debe tener impreso en forma indeleble el tamaño de la placa, la marca de la placa y el lado opuesto al tubo. Debe incluir fotografía del producto."
+    ],
+    [
+     "42152223",
+     "Unidades de procesado de resinas odontológicas o accesorios",
+     60,
+     "Jeringa. Resina compuesta de fotocurado para restauración universal de anteriores y posteriores; fabricada con resinas bis-GMA, UDMA y bis-EMA; relleno inorgánico 60% volúmen de zirconio/sílice, rango de tamaño de partícula de 0.01 a 3.5 µm, radiopaco. Presentación: jeringa 4 gramos. Tipo Filtek Z250. Disponibilidad de elección colores y al menos colores A1, A3, A3.5, A2, A4. De preferencia incluir fotografía del producto. Vencimiento posterior a marzo 2028."
+    ],
+    [
+     "42152223",
+     "Unidades de procesado de resinas odontológicas o accesorios",
+     40,
+     "Jeringa. Resina compuesta fluida (flowable) de fotocurado, mínima contracción, sellado marginal y fácil adaptación; nanorrelleno inorgánico zirconio/sílice 65% peso (46% volumen), partícula 4-20 nm; alta radiopacidad, retención de brillo y resistencia al desgaste. Jeringa 2 g con puntas dispensadoras 45° ergonómicas; tonos al menos A1, A2, A3 y A3.5; tipo Filtek Z350 XT Flow (3M) o equivalente superior. Vencimiento = 24 meses desde recepción conforme de orden de compra."
+    ],
+    [
+     "42152419",
+     "Materiales de pasta de cinc óxido eugenol para impresión dental",
+     10,
+     "Eugenol. Solución. Presentación: frasco de vidrio color ámbar, de 30 ml. Vencimiento posterior a marzo 2028."
+    ],
+    [
+     "42152453",
+     "Compuestos de restauración dental",
+     1,
+     "Cemento de ionómero de vidrio convencional autopolimerizable (Tipo I) para cementación definitiva, radiopaco, biocompatible, con liberación de flúor, adhesión química y película =15 µm. Mezcla: 30s, trabajo: 3:30m, fraguado: 7:00m. Kit polvo/líquido 30g/12ml (o 15g/6ml), tipo Ketac Cem Easymix o equivalente. Incluir foto. Vencimiento = marzo 2028."
+    ],
+    [
+     "42152714",
+     "Fundas de retenedores ortodónticos",
+     500,
+     "Funda para placas fosfóricas de adulto; desechables; con cierre hermético autoadhesivo; compatible con placa tamaño N°3. De preferencia incluir fotografía del producto. Fecha de vencimiento posterior a marzo 2028"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=3949-300-COT26",
+   "sin_detalle": false,
+   "descripcion": "Insumos para uso en atenciones unidad dental",
    "en_gracia": false,
    "desaparecida_iso": ""
   },
@@ -350,6 +504,42 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=2495-652-COT26",
    "sin_detalle": false,
    "descripcion": "La Municipalidad de Coyhaique requiere contratar un servicio especializado de producción y cobertura audiovisual, difusión comunicacional y transmisión en vivo para la Expo Ganadera Coyhaique 2026, actividad que se realizará los días 27, 28 y 29 de noviembre de 2026, orientada a promover el desarrollo agropecuario comunal, los emprendimientos rurales, la identidad cultural campesina y el desarrollo económico local.",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "publicidad",
+    "publicitarios"
+   ],
+   "nueva": true,
+   "codigo": "734-216-COT26",
+   "nombre": "Material gráfico ",
+   "organismo": "SERVICIO DE SALUD AYSEN CARLOS IBANEZ DEL CAMPO",
+   "unidad": "DIRECCION",
+   "monto": 850000,
+   "cierre_iso": "2026-11-13T17:00:00-03:00",
+   "publicacion": "12-11 12:39",
+   "publicacion_iso": "2026-11-12T12:39:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "82101507",
+     "Folletos y catálogos publicitarios, servicios de publicidad y distribución",
+     250,
+     "DIPTICO CANCER DE MAMA,SEGÚN ESPECIFICACIONES TÉCNICAS Y FOLLETOS ADJUNTOS."
+    ],
+    [
+     "82101507",
+     "Folletos y catálogos publicitarios, servicios de publicidad y distribución",
+     250,
+     "DIPTICO CANCER CERVICOUTERINO, SEGÚN ESPECIFICACIONES TÉCNICAS Y FOLLETOS ADJUNTOS."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=734-216-COT26",
+   "sin_detalle": false,
+   "descripcion": "Se requiere adquirir Material gráfico (dípticos) para la entrega de información a usuarias en contexto de promoción del control ginecológico preventivo y prevención de cáncer cervicouterino y de mama del Servicio de Salud Aysén. Según se detalla en Especificaciones Técnicas y Formatos adjuntos.\nLugar de entrega de los Bienes: Dirección de Atención Primaria: General Parra 65, 2do piso, oficina 1. Coyhaique",
    "en_gracia": false,
    "desaparecida_iso": ""
   },
@@ -474,6 +664,44 @@
   {
    "tipo": "POSIBLE",
    "motivos": [
+    "difusión",
+    "marketing",
+    "publicidad",
+    "publicitarios"
+   ],
+   "nueva": true,
+   "codigo": "2495-655-COT26",
+   "nombre": "set de herramientas ludicas Centro de las Mujeres",
+   "organismo": "I MUNICIPALIDAD DE COYHAIQUE",
+   "unidad": "DIRECCION DESARROLLO COMUNITARIO",
+   "monto": 200000,
+   "cierre_iso": "2026-11-16T08:00:00-03:00",
+   "publicacion": "12-11 12:21",
+   "publicacion_iso": "2026-11-12T12:21:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "60105409",
+     "Materiales educativos de publicidad y marketing de marca",
+     1,
+     "tela PVC, 60*90 cm. que contara con el diseño del efecto iceberg de violencia y contar con hilo para poder colgarse y estuche para transportar."
+    ],
+    [
+     "82101507",
+     "Folletos y catálogos publicitarios, servicios de publicidad y distribución",
+     20,
+     "20 tarjertas con expresiones de violencia de genero, cada tarjeta debe medir 13x7 cm. estar impresa en opalina y contar con un velcro en la parte posterior (adjunto anexo)"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=2495-655-COT26",
+   "sin_detalle": false,
+   "descripcion": "Se requiere la adquisición de set de herramientas ludicas para apoyar las actividades de difusión, promoción del Centro de las Mujeres. 1 pendon Tela PVC diseño grafico adjunto anexo, agragar estuche para transportarlo. Y, 20 tarjetas con expresiones de violencia, se adjunta anexo. Se solicita que los materiales sean nuevos, de buena calidad y que cumplan íntegramente con las especificaciones técnicas requeridas (anexo)",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
     "fotografía"
    ],
    "nueva": true,
@@ -547,6 +775,44 @@
   }
  ],
  "historial": [
+  {
+   "codigo": "1280-78-COT26",
+   "nombre": "TELEVISOR SMART TV 75”",
+   "organismo": "MINISTERIO DE OBRAS PUBLICAS DIREC CION GRAL DE OO PP DCYF",
+   "monto": 850000,
+   "cierre_iso": "2026-11-12T13:15:00-03:00",
+   "tipo": "POSIBLE",
+   "motivos": [
+    "audiovisual"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1280-78-COT26",
+   "primera_vista_iso": "2026-11-11T14:18:43-03:00",
+   "removida_iso": "2026-11-12T13:45:25-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
+  {
+   "codigo": "4066-494-COT26",
+   "nombre": "SERVICIO DE IMPRESIÓN DE IMPLEMENTOS PARA TURISMO",
+   "organismo": "I MUNICIPALIDAD RIO IBANEZ",
+   "monto": 2550000,
+   "cierre_iso": "2026-11-12T12:00:00-03:00",
+   "tipo": "POSIBLE",
+   "motivos": [
+    "publicitaria",
+    "publicitario",
+    "publicitarios"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=4066-494-COT26",
+   "primera_vista_iso": "2026-11-10T19:26:29-03:00",
+   "removida_iso": "2026-11-12T13:45:25-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
   {
    "codigo": "4733-487-COT26",
    "nombre": " SERVICIO DE PLATAFORMA STREAMING Y TRANSMISION MULTICANAL POR 12 MESES",
@@ -690,7 +956,7 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=918434-328-COT26",
    "primera_vista_iso": "2026-11-03T19:24:45-03:00",
    "removida_iso": "2026-11-10T19:26:29-03:00",
-   "estado_api": null,
+   "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,
    "adj_iso": null
@@ -798,7 +1064,7 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=1233615-931-COT26",
    "primera_vista_iso": "2026-11-04T14:23:11-03:00",
    "removida_iso": "2026-11-10T19:26:29-03:00",
-   "estado_api": null,
+   "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,
    "adj_iso": null
@@ -817,7 +1083,7 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=1233615-929-COT26",
    "primera_vista_iso": "2026-11-04T14:23:11-03:00",
    "removida_iso": "2026-11-10T19:26:29-03:00",
-   "estado_api": null,
+   "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,
    "adj_iso": null
@@ -963,7 +1229,7 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=2495-620-COT26",
    "primera_vista_iso": "2026-11-03T19:24:45-03:00",
    "removida_iso": "2026-11-10T19:26:29-03:00",
-   "estado_api": null,
+   "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,
    "adj_iso": null
@@ -1093,81 +1359,6 @@
    "primera_vista_iso": "2026-11-03T19:24:45-03:00",
    "removida_iso": "2026-11-05T19:47:37-03:00",
    "estado_api": "",
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "3765-323-COT26",
-   "nombre": "INSUMOS PARA PRESENTACIÓN DE STANDS EDUCATIVOS",
-   "organismo": "SERVICIO NACIONAL DE SALUD HOSPITAL DE C",
-   "monto": 100000,
-   "cierre_iso": "2026-11-05T13:04:00-03:00",
-   "tipo": "POSIBLE",
-   "motivos": [
-    "publicitarios"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=3765-323-COT26",
-   "primera_vista_iso": "2026-10-30T17:56:18-03:00",
-   "removida_iso": "2026-11-05T14:29:51-03:00",
-   "estado_api": "",
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "1426103-29-COT26",
-   "nombre": "Adquisición de folletería, afiches y carteles de publicidad de la  Dirección Regional de Aysén",
-   "organismo": "SERVICIO NACIONAL DE REINSERCION SOCIAL JUVENIL",
-   "monto": 360000,
-   "cierre_iso": "2026-11-05T12:00:00-03:00",
-   "tipo": "POSIBLE",
-   "motivos": [
-    "difusión",
-    "publicidad",
-    "publicitarios"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1426103-29-COT26",
-   "primera_vista_iso": "2026-10-29T18:15:57-03:00",
-   "removida_iso": "2026-11-05T14:29:51-03:00",
-   "estado_api": "",
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "1426103-27-COT26",
-   "nombre": "Adquisición de pendones y panel araña publicitarios para la Dirección Regional de Aysén ",
-   "organismo": "SERVICIO NACIONAL DE REINSERCION SOCIAL JUVENIL",
-   "monto": 380000,
-   "cierre_iso": "2026-11-05T12:00:00-03:00",
-   "tipo": "POSIBLE",
-   "motivos": [
-    "difusión",
-    "publicitarios"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1426103-27-COT26",
-   "primera_vista_iso": "2026-10-29T18:15:57-03:00",
-   "removida_iso": "2026-11-05T14:29:51-03:00",
-   "estado_api": "",
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "1233615-928-COT26",
-   "nombre": "DMH [SOL-2026-02150] Recursos para el aprendizaje e innovación para Liceo Politécnico A-1 de Puerto Aysén",
-   "organismo": "Servicio Local de Educación Pública Aysén",
-   "monto": 552590,
-   "cierre_iso": "2026-11-05T11:00:00-03:00",
-   "tipo": "POSIBLE",
-   "motivos": [
-    "difusión"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1233615-928-COT26",
-   "primera_vista_iso": "2026-11-04T14:23:11-03:00",
-   "removida_iso": "2026-11-05T14:29:51-03:00",
-   "estado_api": null,
    "adj_nombre": null,
    "adj_monto": null,
    "adj_iso": null
