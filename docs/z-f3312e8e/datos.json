@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-11-12T18:12:42.595522-03:00",
+ "actualizado": "2026-11-12T19:00:24.629688-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
- "total_region": 327,
+ "total_region": 329,
  "rubros": {
   "25172700": "Aire acondicionado",
   "25173900": "Componentes eléctricos",
@@ -1757,6 +1757,35 @@
   {
    "tipo": "POSIBLE",
    "motivos": [
+    "iluminación"
+   ],
+   "nueva": true,
+   "codigo": "4066-508-COT26",
+   "nombre": "Compra de productos de ornamentación para actividades comunitarias de Navidad, programadas por Oficina Local de la Niñez.",
+   "organismo": "I MUNICIPALIDAD RIO IBANEZ",
+   "unidad": "DIDECO",
+   "monto": 1000000,
+   "cierre_iso": "2026-11-15T14:00:00-03:00",
+   "publicacion": "12-11 18:28",
+   "publicacion_iso": "2026-11-12T18:28:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "39111605",
+     "Iluminación paisajística y de zona",
+     1,
+     "Compra de productos de ornamentación para actividades comunitarias de Navidad, Mangueras de luces y estacas solares para recintos públicos, donde se desarrollarán actividades al aire libre, programadas por Oficina Local de la Niñez, junto a organizaciones sociales y familias de la Comuna. Se adjunta Términos de Referencia."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=4066-508-COT26",
+   "sin_detalle": false,
+   "descripcion": "Compra de productos de ornamentación para actividades comunitarias de Navidad, a desarrollar junto a Organizaciones comunitarias y familias de las localidades de la Comuna de Río Ibáñez.",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
     "eléctricos"
    ],
    "nueva": true,
@@ -2480,7 +2509,7 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=3791-1108-COT26",
    "primera_vista_iso": "2026-11-04T14:23:11-03:00",
    "removida_iso": "2026-11-10T19:26:29-03:00",
-   "estado_api": null,
+   "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,
    "adj_iso": null
@@ -2607,24 +2636,6 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=1113144-82-COT26",
    "primera_vista_iso": "2026-10-29T13:17:18-03:00",
    "removida_iso": "2026-11-06T00:29:52-03:00",
-   "estado_api": "",
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "3325-31-COT26",
-   "nombre": "MANTENCIÓN DE GENERADORES ELÉCTRICOS DE CUARTELES PDI COYHAIQUE Y PTO. AYSÉN, 3325-31-COT26",
-   "organismo": "POLICIA DE INVESTIGACIONES DE CHILE",
-   "monto": 1100000,
-   "cierre_iso": "2026-11-05T18:30:00-03:00",
-   "tipo": "POSIBLE",
-   "motivos": [
-    "eléctricos"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=3325-31-COT26",
-   "primera_vista_iso": "2026-10-29T13:17:18-03:00",
-   "removida_iso": "2026-11-05T19:47:37-03:00",
    "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,

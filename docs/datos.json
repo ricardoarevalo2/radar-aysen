@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-11-12T18:12:42.595522-03:00",
+ "actualizado": "2026-11-12T19:00:24.629688-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
- "total_region": 327,
+ "total_region": 329,
  "rubros": {
   "80141600": "Ventas y marketing",
   "82101600": "Publicidad en medios no impresos",
@@ -747,6 +747,36 @@
    "desaparecida_iso": ""
   },
   {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "avisos",
+    "publicidad"
+   ],
+   "nueva": true,
+   "codigo": "1428-21-COT26",
+   "nombre": "PUBLICACIÓN DE DOS AVISOS EN DIARIO DE CIRCULACIÓN REGIONAL PARA SERNAPESCA, DIRECCIÓN REGIONAL DE AYSÉN, RELATIVOS AL PROCESO DE ASIGNACIÓN DE LA CALETA ESTER ÁLVAREZ, COMUNA DE GUAITECAS.",
+   "organismo": "Servicio Nacional de Pesca y Acuicultura",
+   "unidad": "XI - Servicio Nacional de Pesca y Acuicultura",
+   "monto": 220000,
+   "cierre_iso": "2026-11-17T11:00:00-03:00",
+   "publicacion": "12-11 18:10",
+   "publicacion_iso": "2026-11-12T18:10:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "82101504",
+     "Publicidad en periódicos",
+     2,
+     "Publicación de dos avisos de convocatoria en un diario de circulación regional o local, en días distintos de una misma semana, relativos al proceso de asignación de la Caleta Ester Álvarez, comuna de Guaitecas, Región de Aysén. Incluye elaboración, diagramación y publicación de los avisos, conforme al requerimiento técnico adjunto."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1428-21-COT26",
+   "sin_detalle": false,
+   "descripcion": "Servicio de publicación de dos avisos de convocatoria en un diario de circulación regional o local, para el proceso de asignación de la Caleta Ester Álvarez, ubicada en la comuna de Guaitecas, Región de Aysén, solicitado por el Servicio Nacional de Pesca y Acuicultura, Dirección Regional de Aysén. Más detalle en requerimiento técnico adjunto.",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
    "tipo": "OPORTUNIDAD",
    "motivos": [
     "Ventas y marketing"
@@ -1086,7 +1116,7 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=4066-475-COT26",
    "primera_vista_iso": "2026-11-04T19:43:04-03:00",
    "removida_iso": "2026-11-10T19:26:29-03:00",
-   "estado_api": null,
+   "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,
    "adj_iso": null
@@ -1122,7 +1152,7 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=2494-286-COT26",
    "primera_vista_iso": "2026-11-04T19:43:04-03:00",
    "removida_iso": "2026-11-10T19:26:29-03:00",
-   "estado_api": null,
+   "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,
    "adj_iso": null
@@ -1267,7 +1297,7 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=791766-36-COT26",
    "primera_vista_iso": "2026-11-04T19:43:04-03:00",
    "removida_iso": "2026-11-10T19:26:29-03:00",
-   "estado_api": null,
+   "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,
    "adj_iso": null
@@ -1305,7 +1335,7 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=1428275-48-COT26",
    "primera_vista_iso": "2026-11-05T14:29:51-03:00",
    "removida_iso": "2026-11-10T19:26:29-03:00",
-   "estado_api": null,
+   "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,
    "adj_iso": null
