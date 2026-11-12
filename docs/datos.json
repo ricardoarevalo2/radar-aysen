@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-11-12T04:28:19.640278-03:00",
+ "actualizado": "2026-11-12T09:58:37.987120-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
- "total_region": 353,
+ "total_region": 361,
  "rubros": {
   "80141600": "Ventas y marketing",
   "82101600": "Publicidad en medios no impresos",
@@ -14,59 +14,6 @@
   "83121700": "Comunicación social y de masas"
  },
  "filas": [
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "difusión"
-   ],
-   "nueva": false,
-   "codigo": "1057062-525-COT26",
-   "nombre": "Adquisiciones de material de difusión u aysen para el 27 de nov_segun fisabs 2449 ury 2493",
-   "organismo": "UNIVERSIDAD DE AYSEN",
-   "unidad": "Proyectos",
-   "monto": 1333000,
-   "cierre_iso": "2026-11-12T08:00:00-03:00",
-   "publicacion": "10-11 16:37",
-   "publicacion_iso": "2026-11-10T16:37:00-03:00",
-   "ofertas": 0,
-   "productos": [],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1057062-525-COT26",
-   "sin_detalle": false,
-   "descripcion": "Se requiere cotizar el insumo descrito en el presente formulario. Cotización debe indicar la especificación técnica de lo ofertado y el plazo de entrega, considerando la entrega de los productos en dependencias de la Uaysen a mas tardar el 26-11 y no en la empresa de transportes. El valor ofertado debe incluir impuestos y flete. Se privilegiará el menor plazo ofertado que cumpla con lo especificado. Producto que no cumpla con el diseño aprobado no podrá ser facturado.",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "audiovisuales",
-    "radio",
-    "streaming"
-   ],
-   "nueva": false,
-   "codigo": "4733-487-COT26",
-   "nombre": " SERVICIO DE PLATAFORMA STREAMING Y TRANSMISION MULTICANAL POR 12 MESES",
-   "organismo": "I MUNICIPALIDAD DE LAS GUAITECAS",
-   "unidad": "I MUNICIPALIDAD DE LAS GUAITECAS",
-   "monto": 600000,
-   "cierre_iso": "2026-11-12T08:00:00-03:00",
-   "publicacion": "05-11 11:54",
-   "publicacion_iso": "2026-11-05T11:54:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "43232915",
-     "Software de interconectividad de plataformas",
-     1,
-     "USCRIPCIÓN ANUAL PLATAFORMA DE STREAMING MULTICANAL"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=4733-487-COT26",
-   "sin_detalle": false,
-   "descripcion": "Se requiere contratar por un periodo de 12 meses una plataforma de streaming profesional para realización y transmisión simultanea de actividades de la radio la voz del ciprés y otros contenidos audiovisuales institucionales a través de Facebook, YouTube e Instagram permitiendo el uso de múltiples cámaras, invitados, gráficos y otras fuentes de videos, adjuntar cotización",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
   {
    "tipo": "POSIBLE",
    "motivos": [
@@ -285,6 +232,41 @@
     "Ventas y marketing"
    ],
    "nueva": true,
+   "codigo": "2713-1368-COT26",
+   "nombre": " sellos de género- Folio 1394 - DIDECO",
+   "organismo": "I MUNICIPALIDAD DE AYSEN",
+   "unidad": "I.MUNICIPALIDAD AYSEN-ADQUISICIONES",
+   "monto": 50000,
+   "cierre_iso": "2026-11-13T09:30:00-03:00",
+   "publicacion": "12-11 09:13",
+   "publicacion_iso": "2026-11-12T09:13:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "80141611",
+     "Personalización de regalos o productos promocionales",
+     6,
+     "Impresión de 6 sellos de género en\nPapel Couché 300 de gramaje en\ntamaño 33x48 cm, destinado a las\norganizaciones y grupos\nparticipantes señalados en la\ndescripción de la adquisición"
+    ],
+    [
+     "80141611",
+     "Personalización de regalos o productos promocionales",
+     43,
+     "Certificados Impresión de 43 certificados en\nopalina, tamaño oficio, destinados a\nreconocer la participación y el\ncompromiso de las personas\nintegrantes de los Consejos Asesores\nPreventivos en Violencia de Género,\nconforme a los nombres\nproporcionados por el Programa"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=2713-1368-COT26",
+   "sin_detalle": false,
+   "descripcion": "Adquisición de sello de genero según anexo adjunto, las ofertas deberán: incluir la totalidad de las características solicitadas, ajustarse al presupuesto disponible, el oferente asumirá COSTO DE TRANSPORTE (no desglosarlo como ítem aparte), debe indicar plazo de entrega (no se aceptara plazo de despacho y el plazo de entrega iniciará el día hábil subsiguiente al envío de la OC). Ofertas que no cumplan con lo anterior serán rechazadas.",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Ventas y marketing"
+   ],
+   "nueva": true,
    "codigo": "2495-650-COT26",
    "nombre": "Producción de 2 sesiones de baños de bosque para 20 personas.",
    "organismo": "I MUNICIPALIDAD DE COYHAIQUE",
@@ -492,6 +474,35 @@
   {
    "tipo": "POSIBLE",
    "motivos": [
+    "fotografía"
+   ],
+   "nueva": true,
+   "codigo": "2495-654-COT26",
+   "nombre": "ADQUISICIÓN DE PREMIOS PARA ACTIVIDAD DIRIGIDA A PERSONAS MAYORES",
+   "organismo": "I MUNICIPALIDAD DE COYHAIQUE",
+   "unidad": "DIRECCION DESARROLLO COMUNITARIO",
+   "monto": 2400000,
+   "cierre_iso": "2026-11-16T10:00:00-03:00",
+   "publicacion": "12-11 09:19",
+   "publicacion_iso": "2026-11-12T09:19:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "49101706",
+     "Premios de fotografía",
+     1,
+     "Adquisición de premios para realización de una actividad recreativa de bingo dirigida a personas mayores. Su adquisición busca incentivar la asistencia, participación, promover la convivencia, la integración y el bienestar de las personas mayores para contribuir a prevenir situaciones de aislamiento social. La actividad se enmarca en las acciones municipales de promoción de un envejecimiento activo de espacios de encuentro y recreación, según términos de referencia y cotización adjunta."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=2495-654-COT26",
+   "sin_detalle": false,
+   "descripcion": "Se requiere adquirir premios para la realización de una actividad recreativa de bingo dirigida a personas mayores. Su adquisición busca incentivar la asistencia, participación, promover la convivencia, la integración y el bienestar de las personas mayores para contribuir a prevenir situaciones de aislamiento social. La actividad se enmarca en las acciones municipales de promoción de un envejecimiento activo de espacios de encuentro y recreación,  térmi de referencia y cotizaci adjunta.",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
     "avisos",
     "publicidad"
    ],
@@ -537,6 +548,44 @@
  ],
  "historial": [
   {
+   "codigo": "4733-487-COT26",
+   "nombre": " SERVICIO DE PLATAFORMA STREAMING Y TRANSMISION MULTICANAL POR 12 MESES",
+   "organismo": "I MUNICIPALIDAD DE LAS GUAITECAS",
+   "monto": 600000,
+   "cierre_iso": "2026-11-12T08:00:00-03:00",
+   "tipo": "POSIBLE",
+   "motivos": [
+    "audiovisuales",
+    "radio",
+    "streaming"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=4733-487-COT26",
+   "primera_vista_iso": "2026-11-05T14:29:51-03:00",
+   "removida_iso": "2026-11-12T09:58:37-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
+  {
+   "codigo": "1057062-525-COT26",
+   "nombre": "Adquisiciones de material de difusión u aysen para el 27 de nov_segun fisabs 2449 ury 2493",
+   "organismo": "UNIVERSIDAD DE AYSEN",
+   "monto": 1333000,
+   "cierre_iso": "2026-11-12T08:00:00-03:00",
+   "tipo": "POSIBLE",
+   "motivos": [
+    "difusión"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1057062-525-COT26",
+   "primera_vista_iso": "2026-11-10T19:26:29-03:00",
+   "removida_iso": "2026-11-12T09:58:37-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
+  {
    "codigo": "2713-1341-COT26",
    "nombre": "Producción de actividades - DIDECO - PROMOS - 1398",
    "organismo": "I MUNICIPALIDAD DE AYSEN",
@@ -548,7 +597,7 @@
    ],
    "link": "https://buscador.mercadopublico.cl/ficha?code=2713-1341-COT26",
    "primera_vista_iso": "2026-11-10T19:26:29-03:00",
-   "removida_iso": "2026-11-11T18:12:56-03:00",
+   "removida_iso": "2026-11-12T09:58:37-03:00",
    "estado_api": null,
    "adj_nombre": null,
    "adj_monto": null,
@@ -641,7 +690,7 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=918434-328-COT26",
    "primera_vista_iso": "2026-11-03T19:24:45-03:00",
    "removida_iso": "2026-11-10T19:26:29-03:00",
-   "estado_api": "",
+   "estado_api": null,
    "adj_nombre": null,
    "adj_monto": null,
    "adj_iso": null
@@ -768,7 +817,7 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=1233615-929-COT26",
    "primera_vista_iso": "2026-11-04T14:23:11-03:00",
    "removida_iso": "2026-11-10T19:26:29-03:00",
-   "estado_api": "",
+   "estado_api": null,
    "adj_nombre": null,
    "adj_monto": null,
    "adj_iso": null
@@ -914,7 +963,7 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=2495-620-COT26",
    "primera_vista_iso": "2026-11-03T19:24:45-03:00",
    "removida_iso": "2026-11-10T19:26:29-03:00",
-   "estado_api": "",
+   "estado_api": null,
    "adj_nombre": null,
    "adj_monto": null,
    "adj_iso": null
@@ -1118,27 +1167,7 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=1233615-928-COT26",
    "primera_vista_iso": "2026-11-04T14:23:11-03:00",
    "removida_iso": "2026-11-05T14:29:51-03:00",
-   "estado_api": "",
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "4733-450-COT26",
-   "nombre": "SERVICIO DE PLATAFORMA STREAMING Y TRANSMISION MULTICANAL POR 12 MESES",
-   "organismo": "I MUNICIPALIDAD DE LAS GUAITECAS",
-   "monto": 550000,
-   "cierre_iso": "2026-11-05T08:00:00-03:00",
-   "tipo": "POSIBLE",
-   "motivos": [
-    "audiovisuales",
-    "radio",
-    "streaming"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=4733-450-COT26",
-   "primera_vista_iso": "2026-11-02T16:38:38-03:00",
-   "removida_iso": "2026-11-05T14:29:51-03:00",
-   "estado_api": "",
+   "estado_api": null,
    "adj_nombre": null,
    "adj_monto": null,
    "adj_iso": null
