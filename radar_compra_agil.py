@@ -20,6 +20,7 @@ import json
 import os
 import re
 import sys
+import threading
 import time
 import webbrowser
 from concurrent.futures import ThreadPoolExecutor, as_completed
@@ -57,41 +58,57 @@ REGIONES = {
 BASE_URL = "https://api2.mercadopublico.cl"
 CACHE = os.path.join(CARPETA, "cache_compras.json")
 SALIDA = os.path.join(CARPETA, "docs" if MODO_WEB else "reportes")
-PAUSA = 0.4             # segundos entre páginas del listado
-HILOS = 4               # detalles consultados en paralelo (la API tarda ~20 s por detalle)
-REINTENTOS_FINALES = 2  # rondas extra para las compras que fallaron
+PAUSA = 0.7             # segundos entre páginas del listado
+HILOS = 2               # detalles consultados en paralelo (evita saturar la API con 429)
+REINTENTOS_FINALES = 1  # ronda extra para las compras que fallaron
 HORAS_NUEVA = 24        # una compra se marca NUEVA durante sus primeras 24 h en el radar
-DIAS_HISTORIAL = 7     # días que se conserva el historial de compras cerradas
+DIAS_HISTORIAL = 7      # días que se conserva el historial de compras cerradas
 HORAS_REVISION_ADJ = 6  # horas mínimas entre revisiones de adjudicación por compra
 MAX_ADJ_POR_CORRIDA = 5 # máximo de consultas de adjudicación por corrida
+MAX_2DO_LLAMADO_POR_CORRIDA = 10 # máximo de consultas de 2º llamado por corrida
 HORAS_GRACIA = 48       # horas que se mantiene visible una compra que desaparece del API (ej: 2º llamado)
 # ─────────────────────────────────────────
 
 SESION = requests.Session()
 SESION.headers.update({"ticket": TICKET})
+_EVENTO_PAUSA_429 = threading.Event()
 
 
-def llamar(ruta, params=None, intentos=5):
+class ApiSaturadaError(Exception):
+    """Se lanza en tareas secundarias cuando la API responde 429 para no trancar el reporte."""
+
+
+def llamar(ruta, params=None, intentos=5, abortar_en_429=False):
     """GET a la API con reintentos ante lentitud (500/504) o saturación (429)."""
     for intento in range(1, intentos + 1):
+        if _EVENTO_PAUSA_429.is_set() and not abortar_en_429:
+            time.sleep(5)
         try:
-            r = SESION.get(BASE_URL + ruta, params=params, timeout=90)
+            r = SESION.get(BASE_URL + ruta, params=params, timeout=60)
         except requests.RequestException as e:
             print(f"   ⚠️  Error de conexión ({e.__class__.__name__}), reintento {intento}/{intentos}...")
-            time.sleep(5 * intento)
+            time.sleep(4 * intento)
             continue
         if r.status_code == 200:
             return r.json().get("payload")
         if r.status_code == 401:
             sys.exit("❌ La API rechazó el ticket (401).")
         if r.status_code == 429:
-            espera = int(r.headers.get("Retry-After", 60))
+            if abortar_en_429:
+                raise ApiSaturadaError("429")
+            try:
+                espera_raw = int(r.headers.get("Retry-After", 20))
+            except (ValueError, TypeError):
+                espera_raw = 20
+            espera = min(max(espera_raw, 10), 30)
             print(f"   ⏳ API saturada (429). Esperando {espera} s...")
+            _EVENTO_PAUSA_429.set()
             time.sleep(espera)
+            _EVENTO_PAUSA_429.clear()
             continue
         if r.status_code in (500, 502, 503, 504):
             print(f"   ⏳ API lenta ({r.status_code}), reintento {intento}/{intentos}...")
-            time.sleep(5 * intento)
+            time.sleep(4 * intento)
             continue
         print(f"   ❌ HTTP {r.status_code}: {r.text[:200]}")
         return None
@@ -178,6 +195,18 @@ def clasificar(detalle, perfil):
     if hits:
         return "POSIBLE", hits
     return None, []
+
+
+def es_relevante_algun_perfil(detalle, perfiles):
+    """Indica si una compra en caché interesa a al menos una empresa activa."""
+    region = detalle.get("_region")
+    for perfil in perfiles:
+        if region is not None and region not in perfil["regiones"]:
+            continue
+        tipo, _ = clasificar(detalle, perfil)
+        if tipo:
+            return True
+    return False
 
 
 def a_local(iso):
@@ -327,7 +356,11 @@ def verificar_adjudicaciones(historial, ahora):
     print(f"   🔍 Verificando adjudicación de {len(lote)} compra(s) cerrada(s)...")
 
     for cod in lote:
-        det = llamar(f"/v2/compra-agil/{cod}", intentos=1)
+        try:
+            det = llamar(f"/v2/compra-agil/{cod}", intentos=1, abortar_en_429=True)
+        except ApiSaturadaError:
+            print("   ⏳ API saturada al verificar adjudicaciones; se retoma en la próxima corrida.")
+            break
         historial[cod]["adj_revisado_iso"] = ahora.isoformat(timespec="seconds")
         if det:
             estado_raw = det.get("estado") or det.get("status") or ""
@@ -455,6 +488,7 @@ def main():
     dificiles = {c["codigo"] for c in nuevas if fallos.get(c["codigo"], 0) >= 3}
 
     def pedir_detalle(c):
+        time.sleep(0.35)
         return c, llamar(f"/v2/compra-agil/{c['codigo']}", intentos=1 if c["codigo"] in dificiles else 3)
 
     def pasada(lista, hilos, etiqueta):
@@ -490,46 +524,57 @@ def main():
         fallidas = [c for c in fallidas if c["codigo"] not in dificiles]
         if not fallidas:
             break
-        print(f"   🔁 Reintentando {len(fallidas)} que fallaron (ronda {ronda}/{REINTENTOS_FINALES}) en 60 s...")
-        time.sleep(60)
-        fallidas = pasada(fallidas, 2, f"reintento {ronda} ")
+        print(f"   🔁 Reintentando {len(fallidas)} que fallaron (ronda {ronda}/{REINTENTOS_FINALES}) en 20 s...")
+        time.sleep(20)
+        fallidas = pasada(fallidas, 1, f"reintento {ronda} ")
     if fallidas:
         print(f"   ⚠️  {len(fallidas)} compras siguen sin detalle; se intentan en la próxima corrida.")
 
     # Limpiar del caché las compras que ya no están abiertas (solo si el listado llegó completo).
-    # Las compras que desaparecen se marcan con _desaparecida_iso y se conservan HORAS_GRACIA horas
-    # antes de borrarlas, para cubrir el caso de 2º llamado o reactivaciones.
+    # Solo se consulta la API para compras relevantes a los perfiles activos, con tope por corrida
+    # y abortando sin bloqueo si la API responde 429.
     if completo:
         abiertas = {c["codigo"] for c in compras}
-        # Actualizar _cierre_iso en cache con el dato fresco del listado
         cierre_lista = {c["codigo"]: ((c.get("fechas") or {}).get("fecha_cierre") or "") for c in compras}
         for cod, det in cache.items():
             if cod in cierre_lista and cierre_lista[cod]:
                 det["_cierre_iso"] = cierre_lista[cod]
+
+        consultas_2do = 0
+        api_saturada_limpieza = False
+
         for cod in list(cache.keys()):
             if cod in abiertas:
-                # Está activa en el listado: limpiar cualquier marca previa
                 cache[cod].pop("_desaparecida_iso", None)
                 cache[cod].pop("_cierre_2do_iso", None)
             elif not cache[cod].get("_desaparecida_iso"):
-                # Acaba de desaparecer: consultar la API para ver si hay un 2º llamado
-                det_actual = llamar(f"/v2/compra-agil/{cod}", intentos=1)
+                if not es_relevante_algun_perfil(cache[cod], perfiles):
+                    del cache[cod]
+                    continue
+                if api_saturada_limpieza or consultas_2do >= MAX_2DO_LLAMADO_POR_CORRIDA:
+                    continue  # se evaluará en la próxima corrida sin bloquear esta
+                try:
+                    consultas_2do += 1
+                    det_actual = llamar(f"/v2/compra-agil/{cod}", intentos=1, abortar_en_429=True)
+                    time.sleep(0.5)
+                except ApiSaturadaError:
+                    api_saturada_limpieza = True
+                    print("   ⏳ API saturada al verificar 2º llamados; se continúa con la publicación.")
+                    continue
                 cierre_nuevo = None
                 if det_actual:
                     cierre_nuevo = (det_actual.get("fechas") or {}).get("fecha_cierre")
                 if cierre_nuevo:
                     cierre_dt = a_local(cierre_nuevo)
                     if cierre_dt and cierre_dt > ahora:
-                        # 2º llamado activo: guardar nueva fecha y marcar
                         cache[cod]["_desaparecida_iso"] = ahora.isoformat(timespec="seconds")
                         cache[cod]["_cierre_2do_iso"] = cierre_dt.isoformat()
                         print(f"   🔄 {cod}: no está en lista pero cierra {cierre_dt:%d-%m %H:%M} → zona de gracia")
                     else:
-                        del cache[cod]  # cerrada de verdad
+                        del cache[cod]
                 else:
-                    del cache[cod]  # API no la devuelve o sin fecha
+                    del cache[cod]
             else:
-                # Ya estaba en zona de gracia: revisar si el 2º llamado sigue vigente
                 cierre_2do = cache[cod].get("_cierre_2do_iso")
                 if cierre_2do:
                     try:
@@ -537,7 +582,7 @@ def main():
                         if cierre_dt.tzinfo is None:
                             cierre_dt = cierre_dt.replace(tzinfo=ZONA)
                         if ahora >= cierre_dt:
-                            del cache[cod]  # 2º llamado cerrado
+                            del cache[cod]
                     except (ValueError, KeyError):
                         del cache[cod]
                 else:
@@ -560,7 +605,6 @@ def generar_perfil(perfil, compras, cache, ahora):
         det = cache.get(c["codigo"])
         sin_detalle = not det
         if sin_detalle:
-            # La API no entrega el detalle: se evalúa solo por el título del listado.
             det = {"nombre": c.get("nombre"), "productos_solicitados": []}
         tipo, motivos = clasificar(det, perfil)
         if not tipo:
