@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-11-12T13:45:25.309680-03:00",
+ "actualizado": "2026-11-12T14:39:51.815936-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
- "total_region": 340,
+ "total_region": 335,
  "rubros": {
   "25172700": "Aire acondicionado",
   "25173900": "Componentes eléctricos",
@@ -565,7 +565,7 @@
     "Cajas y accesorios eléctricos",
     "Interruptores, controles y relés"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "5019-66-COT26",
    "nombre": "Adquisición de elementos de construcción",
    "organismo": "Ejercito de Chile",
@@ -1940,7 +1940,7 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=1281188-19-COT26",
    "primera_vista_iso": "2026-10-30T13:05:28-03:00",
    "removida_iso": "2026-11-11T14:18:43-03:00",
-   "estado_api": null,
+   "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,
    "adj_iso": null
@@ -1994,7 +1994,7 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=761-211-COT26",
    "primera_vista_iso": "2026-11-03T19:24:45-03:00",
    "removida_iso": "2026-11-10T19:26:29-03:00",
-   "estado_api": null,
+   "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,
    "adj_iso": null
@@ -2030,7 +2030,7 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=1233615-920-COT26",
    "primera_vista_iso": "2026-11-03T14:11:19-03:00",
    "removida_iso": "2026-11-10T19:26:29-03:00",
-   "estado_api": null,
+   "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,
    "adj_iso": null
@@ -2048,7 +2048,7 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=1079689-522-COT26",
    "primera_vista_iso": "2026-11-03T14:11:19-03:00",
    "removida_iso": "2026-11-10T19:26:29-03:00",
-   "estado_api": null,
+   "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,
    "adj_iso": null
@@ -2341,7 +2341,7 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=1057062-502-COT26",
    "primera_vista_iso": "2026-11-03T19:24:45-03:00",
    "removida_iso": "2026-11-10T19:26:29-03:00",
-   "estado_api": null,
+   "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,
    "adj_iso": null
