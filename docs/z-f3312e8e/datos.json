@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-11-12T14:39:51.815936-03:00",
+ "actualizado": "2026-11-12T18:12:42.595522-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
- "total_region": 335,
+ "total_region": 327,
  "rubros": {
   "25172700": "Aire acondicionado",
   "25173900": "Componentes eléctricos",
@@ -19,224 +19,6 @@
   "39121400": "Conectores, enchufes y terminales"
  },
  "filas": [
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "ampolleta",
-    "ampolletas"
-   ],
-   "nueva": false,
-   "codigo": "1113146-61-COT26",
-   "nombre": "Materiales de Faena y otros",
-   "organismo": "CORP NACIONAL FORESTAL",
-   "unidad": "XI Región - Provincial General Carrera",
-   "monto": 850000,
-   "cierre_iso": "2026-11-12T15:00:00-03:00",
-   "publicacion": "09-11 08:23",
-   "publicacion_iso": "2026-11-09T08:23:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "10161511",
-     "Pinos",
-     30,
-     "Pino seco 2*3*3,20"
-    ],
-    [
-     "30171609",
-     "Ventanas fijas",
-     1,
-     "Ventana PVC corredera 100*100 cm blanca"
-    ],
-    [
-     "31162003",
-     "Clavos de acabado",
-     1,
-     "Clavo corriente 3” 1 kg"
-    ],
-    [
-     "31162003",
-     "Clavos de acabado",
-     2,
-     "Clavo corriente 4” 1kg"
-    ],
-    [
-     "31162003",
-     "Clavos de acabado",
-     2,
-     "Clavo corriente 2 ½” 1kg"
-    ],
-    [
-     "31162003",
-     "Clavos de acabado",
-     2,
-     "Clavo techo 2 ½”  100 unid"
-    ],
-    [
-     "32101527",
-     "Terminaciones",
-     5,
-     "Terciado estructural de 15 mm 1,22*2,44 mt"
-    ],
-    [
-     "32101527",
-     "Terminaciones",
-     6,
-     "Terciado ranurado 9 mm 1,22*2,44 mt"
-    ],
-    [
-     "32101527",
-     "Terminaciones",
-     5,
-     "Planchas de OSB 9 mm"
-    ],
-    [
-     "39101605",
-     "ampolletas fluorescentes",
-     4,
-     "Ampolleta led 100 W luz fría"
-    ],
-    [
-     "46171505",
-     "Llaves",
-     3,
-     "Llave lavamanos monomando"
-    ],
-    [
-     "48101511",
-     "Planchas de uso comercial",
-     8,
-     "Plancha Zinc acanalado negro  0,35*85,1*366 cm"
-    ],
-    [
-     "60121247",
-     "Caballetes de madera",
-     3,
-     "Caballete recto negro 0,4*3"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1113146-61-COT26",
-   "sin_detalle": false,
-   "descripcion": "Materiales.",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
-  {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Gasfitería, calefacción y aire acondicionado"
-   ],
-   "nueva": false,
-   "codigo": "1905-82-COT26",
-   "nombre": "Servicio de mejoramiento de calefacción en oficina de Puerto Aysén y Coyhaique",
-   "organismo": "SERVICIO DE REGISTRO CIVIL E IDENTIFICAC",
-   "unidad": "Dirección Regional XI Región",
-   "monto": 3600000,
-   "cierre_iso": "2026-11-12T15:00:00-03:00",
-   "publicacion": "05-11 15:27",
-   "publicacion_iso": "2026-11-05T15:27:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "72102305",
-     "Servicios de reparación, mantenimiento o reparación de aire acondicionado",
-     1,
-     "Servicio de mejoramiento de calefacción en oficina de Puerto Aysén y Coyhaique"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1905-82-COT26",
-   "sin_detalle": false,
-   "descripcion": "Servicio de mejoramiento de calefacción en oficina de Puerto Aysén y Coyhaique",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "eléctrico"
-   ],
-   "nueva": true,
-   "codigo": "4644-128-COT26",
-   "nombre": "CABLE PARA HUINCHE,GORE MAÑIHUALES  479: SIRE: 443 ",
-   "organismo": "CORP NACIONAL FORESTAL",
-   "unidad": "XI Región - Oficina Provincial Aysen",
-   "monto": 965000,
-   "cierre_iso": "2026-11-12T16:00:00-03:00",
-   "publicacion": "11-11 15:23",
-   "publicacion_iso": "2026-11-11T15:23:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "31151705",
-     "Cable de acero no eléctrico",
-     1,
-     "Cable de acero de alta resistencia compactado para huinche forestal, Diámetro nominal 9/16” (14.3mm), Longitud total de 80 metros lineal continuo. Gastos de envió incluido."
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=4644-128-COT26",
-   "sin_detalle": false,
-   "descripcion": "CONAF requiere adquirir Repuesto Cable para Huinche de Tractor, Área Intervención Mañihuales. Despacho en Oficina CONAF en Puerto Aysén ubicada en ruta 240 KM 2 Camino Aysén -Coyhaique  Región de Aysén.",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
-  {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Servicios eléctricos"
-   ],
-   "nueva": true,
-   "codigo": "1274667-444-COT26",
-   "nombre": "RVB - SERVICIO DE HABILITACIÓN DE EMPALME E INSTALACIÓN ELÉCTRICA PARA 4 EQUIPOS SPLIT – DEPENDENCIA DE REHABILITACION DE NNA EX HOGAR DEL ANGEL",
-   "organismo": "CENTRO DE SALUD FAMILIAR PUERTO AYSÉN",
-   "unidad": "CENTRO DE SALUD FAMILIAR PUERTO AYSÉN",
-   "monto": 4000000,
-   "cierre_iso": "2026-11-12T16:45:00-03:00",
-   "publicacion": "11-11 16:43",
-   "publicacion_iso": "2026-11-11T16:43:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "72102201",
-     "Instalación o servicio de sistemas de energía eléctrica",
-     1,
-     "Se solicita contratar servicio de habilitación de empalme eléctrico independiente para 4 equipos split en ex hogar angel, Puerto Aysén. Incluye suministro de materiales, mano de obra, tablero eléctrico, canalizaciones, protecciones, 4 circuitos independientes, conexiones, pruebas y certificaciones SEC que correspondan. Detalles del servicio en documento adjunto."
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1274667-444-COT26",
-   "sin_detalle": false,
-   "descripcion": "SE REQUIERE COTIZACION FORMAL Y FICHA TECNICA - DATOS BANCARIOS - VCONTACTO PARA RESOLVER DUDAS Y GESTIONAR PAGO. TODAS LAS DETALLES EN ARCHIVO ADJUNTO. CERTIFICACIONES SEC QUE CORRESPONDAN.",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
-  {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Servicios eléctricos"
-   ],
-   "nueva": true,
-   "codigo": "4644-129-COT26",
-   "nombre": " Mantención infraestructura GORE MAÑIHAULES  SIC: 488 SIRE: 442",
-   "organismo": "CORP NACIONAL FORESTAL",
-   "unidad": "XI Región - Oficina Provincial Aysen",
-   "monto": 740000,
-   "cierre_iso": "2026-11-12T17:00:00-03:00",
-   "publicacion": "11-11 16:26",
-   "publicacion_iso": "2026-11-11T16:26:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "72102201",
-     "Instalación o servicio de sistemas de energía eléctrica",
-     1,
-     "Mantención eléctrica general de Instalaciones de Conaf de  Villa Mañihuales, Servicio Certificado que incluye Reposición de tapas y enchufes, renovación de  cableado, eliminación de cables en desuso y reparación o soldadura de conexiones defectuosas, entre otros trabajos asociados. Proveedor debe cumplir con Norma SEC."
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=4644-129-COT26",
-   "sin_detalle": false,
-   "descripcion": "CONAF requiere contratar el Servicio de mantención  eléctrica certificado de infraestructura de su Área Intervención Mañihuales, ubicada en Pratt S/N ubicada en sector aserradero de CONAF EN Villa Mañihuales, Región de Aysén.",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
   {
    "tipo": "OPORTUNIDAD",
    "motivos": [
@@ -1052,6 +834,35 @@
   {
    "tipo": "POSIBLE",
    "motivos": [
+    "enchufes"
+   ],
+   "nueva": true,
+   "codigo": "3950-736-COT26",
+   "nombre": "PRODUCCION DE EVENTO \"PRIMER CONSEJO TECNICO DE GESTORES DE CASO\"",
+   "organismo": "DIRECCION SALUD RURAL",
+   "unidad": "Dirección de Salud Rural",
+   "monto": 250000,
+   "cierre_iso": "2026-11-13T16:00:00-03:00",
+   "publicacion": "12-11 15:59",
+   "publicacion_iso": "2026-11-12T15:59:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "90101603",
+     "Servicios de catering",
+     1,
+     "COFFE BREAK PARA 20 PERSONAS EL 25 DE NOVIEMBRE DEL 2026, UBICACION TERCER PISO CAJA LOS ANDES COYHAIQUE, CALLE EUSEBIO LILLO N°20, adjunta propuesta detallada.\nconsiderar mesas plegables y termos ya que no se dispone de enchufes cercanos en el sector donde se montara."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=3950-736-COT26",
+   "sin_detalle": false,
+   "descripcion": "INCLUIR GASTOS OPERACIONALES EN COTIZACION",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
     "aire acondicionado"
    ],
    "nueva": true,
@@ -1133,6 +944,334 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=1233615-960-COT26",
    "sin_detalle": false,
    "descripcion": "Estos implementos permitirán desarrollar competencias tecnológicas, comunicativas, técnicas y laborales, fomentar la creatividad, el trabajo colaborativo y la participación estudiantil, además de apoyar la difusión de las actividades institucionales y el mejoramiento de los espacios educativos.",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Materiales de física de electricidad"
+   ],
+   "nueva": true,
+   "codigo": "4649-102-COT26",
+   "nombre": "Adquisición de Generador y Betonera A.I.Coyhaique",
+   "organismo": "CORP NACIONAL FORESTAL",
+   "unidad": "XI Región - Prov. Coyhaique",
+   "monto": 1100000,
+   "cierre_iso": "2026-11-14T15:20:00-03:00",
+   "publicacion": "12-11 16:16",
+   "publicacion_iso": "2026-11-12T16:16:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "22101609",
+     "Mezcladoras de material de pavimentación",
+     1,
+     "Betonera (trompo) 200 Litros 800 W TVL200 acorde a las especificaciones técnicas adjuntas No debe sobrepasar monto disponible por producto y línea. Adjuntar fichas técnicas o fotos referenciales, además patente municipal que acredite proveedor local."
+    ],
+    [
+     "60104907",
+     "Generadores portátiles",
+     1,
+     "Generador Eléctrico a Gasolina Partida Manual 2200 W 15 l acorde a las especificaciones técnicas adjuntas No debe sobrepasar monto disponible por producto y línea. Adjuntar fichas técnicas o fotos referenciales, además patente municipal que acredite proveedor local."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=4649-102-COT26",
+   "sin_detalle": false,
+   "descripcion": "Según SIC N°563  y SIC REF N° 395  Se requiere compra de generador y betonera de las características señaladas, todo en el marco del Programa GORE Ecosistemas Forestales con Enfoque en Silvicultura Preventiva en la región de Aysén. No se cancelaran costos asociados con el envió. Se priorizará proveedor local, adjuntar patente Municipal para acreditación (excluyente)",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "alargador"
+   ],
+   "nueva": true,
+   "codigo": "1057062-533-COT26",
+   "nombre": "Adquisición de insumos de laboratorio para el Centro de Simulación, FISABS N°1872 – URY 2457",
+   "organismo": "UNIVERSIDAD DE AYSEN",
+   "unidad": "Proyectos",
+   "monto": 7244000,
+   "cierre_iso": "2026-11-14T18:00:00-03:00",
+   "publicacion": "12-11 17:08",
+   "publicacion_iso": "2026-11-12T17:08:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "31201616",
+     "Adhesivos líquidos",
+     2,
+     "2 bidones de Látex natural líquido, 5 litros c/bidón, Meister o equivalente"
+    ],
+    [
+     "41104115",
+     "Contenedores de recogida con filtro de suero",
+     1000,
+     "Cloruro De Sodio 0,9% 20ml formato Ampolla, Biosano o equivalente"
+    ],
+    [
+     "41114501",
+     "Dinamómetros",
+     2,
+     "Dinamómetro digital de mano, 5 posiciones de manilla para distintos tamaños de\nmano. Medición en Kg y libras"
+    ],
+    [
+     "41115830",
+     "Analizadores de glucosa",
+     200,
+     "Tiras reactivas para examen de glucosa, Prodigy o equivalente"
+    ],
+    [
+     "41115830",
+     "Analizadores de glucosa",
+     200,
+     "Lancetas individuales para punción capilar, marca Prodigy 28G o equivalente,\ncompatibles con dispositivos de punción correspondientes. Presentación en cajas de\n100 unidades o formato equivalente"
+    ],
+    [
+     "42131601",
+     "Delantales o pecheras para el personal sanitario",
+     700,
+     "Pechera plástica con mangas y ojal para pulgar, impermeable apto para riesgos\nfísicos y/o químicos, color celeste."
+    ],
+    [
+     "42131701",
+     "Cobertores para cirugía",
+     3,
+     "Cobertor para cama clínica 1,5 plaza blanco"
+    ],
+    [
+     "42131702",
+     "Batas quirúrgicas",
+     8,
+     "Camisa/bata para pacientes, blanca, de tela con amarras atrás."
+    ],
+    [
+     "42132105",
+     "Sábanas de hospital",
+     3,
+     "3 SET/Juego de cama clínica 1,5 plaza, color blanco"
+    ],
+    [
+     "42132205",
+     "Guantes quirúrgicos",
+     4,
+     "Cajas de guantes quirúrgico estéril libre de látex talla 6,5 caja x 50 pares c/u"
+    ],
+    [
+     "42132205",
+     "Guantes quirúrgicos",
+     4,
+     "Cajas de guante quirúrgico estéril libre de látex talla 7,5 caja x 50 unidades c/u"
+    ],
+    [
+     "42143102",
+     "Dispositivos uterinos o accesorios",
+     2,
+     "Histerómetro recto 32 cm x unidad"
+    ],
+    [
+     "42181608",
+     "Accesorios de instrumental de medición de la tensión arterial",
+     25,
+     "Alargador arterial LUER macho–macho 150 cm. o equivalente"
+    ],
+    [
+     "42181608",
+     "Accesorios de instrumental de medición de la tensión arterial",
+     25,
+     "Alargador venoso simple macho-hembra 25 cm. o equivalente"
+    ],
+    [
+     "42181709",
+     "Papel de registro de electrocardiografía (ECG)",
+     20,
+     "Papel para electrocardiógrafo 210 mm × 20 mt , se requiere por unidad, 20 rollos"
+    ],
+    [
+     "42181709",
+     "Papel de registro de electrocardiografía (ECG)",
+     20,
+     "Papel para electrocardiógrafo 6,0 cm x 30 mt , se requiere por unidad, 20 rollos"
+    ],
+    [
+     "42182702",
+     "Cintas métricas médicas",
+     10,
+     "Cinta métrica (huincha 1-2 m) cefálica SECA 212 o equivalente"
+    ],
+    [
+     "42183026",
+     "Oftalmodinamómetros",
+     2,
+     "Tabla de Snellen para evaluación de agudeza visual, desde distancias de 3 a 6 metros\no equivalente"
+    ],
+    [
+     "42192211",
+     "Tablas para el movimiento de pacientes o accesorios",
+     2,
+     "Tabla corta para RCP"
+    ],
+    [
+     "42221609",
+     "Juegos de administración de tubos arteriales o intravenosos",
+     50,
+     "Set administración de soluciones con bureta, graduada de 100 cc y 150 cc."
+    ],
+    [
+     "42251617",
+     "Cojines de asiento terapéuticos o accesorios",
+     4,
+     "Cojín separador de piernas forrado x unidad"
+    ],
+    [
+     "42271915",
+     "Accesorios de traqueotomía",
+     10,
+     "Filtro para cánula de TQT, libre de látex y DEHP, conector universal 15 mm, puerto de\noxígeno y aspiración, esterilizado en óxido de etileno, ISO 9360-2 o equivalente"
+    ],
+    [
+     "42281808",
+     "Papeles u hojas de esterilización",
+     2,
+     "Rollos de papel grado médico tubular termosellante para esterilización, sin fuelle. Se\nrequiere un ancho de 25 cm, con largo de rollo de 100 o 200 metros, o formato\nequivalente disponible que cumpla con las EETT."
+    ],
+    [
+     "42291609",
+     "Pinzas quirúrgicas",
+     4,
+     "Pinza Bozzeman curva 26 cm. o equivalente"
+    ],
+    [
+     "42291609",
+     "Pinzas quirúrgicas",
+     10,
+     "Pinza quirúrgica 14 cm con dientes (1×2)"
+    ],
+    [
+     "42291614",
+     "Tijeras quirúrgicas",
+     10,
+     "Tijera Mayo quirúrgica curva 14 cm (Roma/Roma) o equivalente"
+    ],
+    [
+     "42292603",
+     "Sondas o directores quirúrgicos",
+     2,
+     "Sonda Sengstaken N°21 Fr. o equivalente"
+    ],
+    [
+     "42311506",
+     "Vendas o apósitos compresores",
+     10,
+     "Venda triangular en diferentes partes del cuerpo, doblada, extendida, utilizada como\ncabestrillo; medidas referenciales: 96 x 96 x 136 cm o equivalente"
+    ],
+    [
+     "42311532",
+     "Apósitos secos",
+     100,
+     "Apósito de Gasa no tejida + Algodon Esteril 10x10 Cm."
+    ],
+    [
+     "42311708",
+     "Cintas adhesivas médicas y quirúrgicas para el uso general",
+     200,
+     "Apósitos adhesivos estériles o Parche Curita Estéril para cubrir y proteger heridas\nmenores, marca Curaplast o equivalente. Presentación referencial en cajas de 100\nunidades o según formato comercial disponible. El proveedor deberá indicar la\npresentación y cantidad de unidades por envase ofertado."
+    ],
+    [
+     "42311903",
+     "Drenaje médico de incisión",
+     4,
+     "Drenaje S sotecno medical o equivalente de aspiración continua 400 ml. c/u"
+    ],
+    [
+     "42311903",
+     "Drenaje médico de incisión",
+     4,
+     "Drenaje tipo redón drenofast o equivalente. Equipo base de 200 CC. c/u"
+    ],
+    [
+     "42312201",
+     "Sutura",
+     144,
+     "Sutura de ácido poliglicólico calibre 2/0, con aguja. Presentación en cajas de 36\nunidades o formato equivalente. Se requiere un total de 144 unidades individuales"
+    ],
+    [
+     "42312201",
+     "Sutura",
+     144,
+     "Sutura de Nylon Monofilamento 2/0 con aguja. Presentación en cajas de 36 unidades\no formato equivalente. Se requiere un total de 144 unidades individuales"
+    ],
+    [
+     "42312201",
+     "Sutura",
+     144,
+     "Sutura de Nylon Monofilamento 3/0 con aguja. Presentación en cajas de 36 unidades\no formato equivalente. Se requiere un total de 144 unidades individuales"
+    ],
+    [
+     "42312201",
+     "Sutura",
+     20,
+     "20 unidades de Monofilamento"
+    ],
+    [
+     "49221506",
+     "Colchonetas",
+     6,
+     "Colchoneta deportiva densidad 80 (100 × 50 × 5 cm) x unidad"
+    ],
+    [
+     "51102702",
+     "Agua destilada para irrigación",
+     20,
+     "Agua Bidestilada en Matraz 1000 ml. c/ unidad"
+    ],
+    [
+     "53102306",
+     "Pañales para adultos",
+     1,
+     "Pañal adulto talla XG,1 paquete x 8 unidades"
+    ],
+    [
+     "53102707",
+     "Delantal de doctor",
+     2,
+     "2 Delantales clínico de tela largo unisex blanco, talla M"
+    ],
+    [
+     "53102707",
+     "Delantal de doctor",
+     2,
+     "2 Delantales clínico de tela largo unisex blanco, talla L"
+    ],
+    [
+     "53102707",
+     "Delantal de doctor",
+     2,
+     "2 Delantales clínico de tela largo unisex blanco, talla XL"
+    ],
+    [
+     "53121501",
+     "Bolsos",
+     2,
+     "Bolso de rescate mediano azul, medidas 33cm ancho, 21cm alto, 24cm profundidad; o\nequivalente"
+    ],
+    [
+     "53131614",
+     "Productos para el cuidado de los pies",
+     2,
+     "Talco 200 gr. hipoalergénico x unidad"
+    ],
+    [
+     "73101702",
+     "Servicios de producción de vacunas, sueros o antibióticos",
+     1000,
+     "Suero fisiológico 0,9% 10 ml Biosano o equivalente"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1057062-533-COT26",
+   "sin_detalle": false,
+   "descripcion": "Se requiere adquirir insumos, materiales y equipamiento para el Centro de Simulación, según EETT. Oferentes\ndeberán presentar y adjuntar una cotización detallada que incluya ficha técnica o mayor descripción de producto/s\npara acreditar cumplimiento del requerimiento. Indicar plazo de entrega en días hábiles, valores con IVA y flete\nincluido hasta Eusebio Lillo N°667, Coyhaique. Se podría privilegiar el menor plazo de entrega entre ofertas siempre\nque cumpla con todo lo requerido.",
    "en_gracia": false,
    "desaparecida_iso": ""
   },
@@ -1705,6 +1844,97 @@
   }
  ],
  "historial": [
+  {
+   "codigo": "4644-129-COT26",
+   "nombre": " Mantención infraestructura GORE MAÑIHAULES  SIC: 488 SIRE: 442",
+   "organismo": "CORP NACIONAL FORESTAL",
+   "monto": 740000,
+   "cierre_iso": "2026-11-12T17:00:00-03:00",
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Servicios eléctricos"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=4644-129-COT26",
+   "primera_vista_iso": "2026-11-12T09:58:37-03:00",
+   "removida_iso": "2026-11-12T18:12:42-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
+  {
+   "codigo": "1274667-444-COT26",
+   "nombre": "RVB - SERVICIO DE HABILITACIÓN DE EMPALME E INSTALACIÓN ELÉCTRICA PARA 4 EQUIPOS SPLIT – DEPENDENCIA DE REHABILITACION DE NNA EX HOGAR DEL ANGEL",
+   "organismo": "CENTRO DE SALUD FAMILIAR PUERTO AYSÉN",
+   "monto": 4000000,
+   "cierre_iso": "2026-11-12T16:45:00-03:00",
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Servicios eléctricos"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1274667-444-COT26",
+   "primera_vista_iso": "2026-11-12T09:58:37-03:00",
+   "removida_iso": "2026-11-12T18:12:42-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
+  {
+   "codigo": "4644-128-COT26",
+   "nombre": "CABLE PARA HUINCHE,GORE MAÑIHUALES  479: SIRE: 443 ",
+   "organismo": "CORP NACIONAL FORESTAL",
+   "monto": 965000,
+   "cierre_iso": "2026-11-12T16:00:00-03:00",
+   "tipo": "POSIBLE",
+   "motivos": [
+    "eléctrico"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=4644-128-COT26",
+   "primera_vista_iso": "2026-11-12T09:58:37-03:00",
+   "removida_iso": "2026-11-12T18:12:42-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
+  {
+   "codigo": "1905-82-COT26",
+   "nombre": "Servicio de mejoramiento de calefacción en oficina de Puerto Aysén y Coyhaique",
+   "organismo": "SERVICIO DE REGISTRO CIVIL E IDENTIFICAC",
+   "monto": 3600000,
+   "cierre_iso": "2026-11-12T15:00:00-03:00",
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Gasfitería, calefacción y aire acondicionado"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1905-82-COT26",
+   "primera_vista_iso": "2026-11-05T19:47:37-03:00",
+   "removida_iso": "2026-11-12T18:12:42-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
+  {
+   "codigo": "1113146-61-COT26",
+   "nombre": "Materiales de Faena y otros",
+   "organismo": "CORP NACIONAL FORESTAL",
+   "monto": 850000,
+   "cierre_iso": "2026-11-12T15:00:00-03:00",
+   "tipo": "POSIBLE",
+   "motivos": [
+    "ampolleta",
+    "ampolletas"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1113146-61-COT26",
+   "primera_vista_iso": "2026-11-10T19:26:29-03:00",
+   "removida_iso": "2026-11-12T18:12:42-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
   {
    "codigo": "1113146-63-COT26",
    "nombre": "ELEMENTOS DE TERRENO",
@@ -2393,24 +2623,6 @@
     "eléctricos"
    ],
    "link": "https://buscador.mercadopublico.cl/ficha?code=3325-31-COT26",
-   "primera_vista_iso": "2026-10-29T13:17:18-03:00",
-   "removida_iso": "2026-11-05T19:47:37-03:00",
-   "estado_api": "",
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "1403-464-COT26",
-   "nombre": "MANTENCION PREVENTIVA DE GRUPO ELECTROGENO DEL CDP DE PUERTO AYSEN",
-   "organismo": "Dirección Regional de Gendarmeria - Coyhaique",
-   "monto": 2368100,
-   "cierre_iso": "2026-11-05T15:00:00-03:00",
-   "tipo": "POSIBLE",
-   "motivos": [
-    "grupo electrógeno"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1403-464-COT26",
    "primera_vista_iso": "2026-10-29T13:17:18-03:00",
    "removida_iso": "2026-11-05T19:47:37-03:00",
    "estado_api": "",

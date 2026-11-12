@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-11-12T14:39:51.815936-03:00",
+ "actualizado": "2026-11-12T18:12:42.595522-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
- "total_region": 335,
+ "total_region": 327,
  "rubros": {
   "80141600": "Ventas y marketing",
   "82101600": "Publicidad en medios no impresos",
@@ -14,35 +14,6 @@
   "83121700": "Comunicación social y de masas"
  },
  "filas": [
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "publicitaria"
-   ],
-   "nueva": false,
-   "codigo": "1538639-14-COT26",
-   "nombre": "Adquisición de material gráfico institucional personalizado",
-   "organismo": "CORPORACIÓN DE DESARROLLO DEL GOBIERNO REGIONAL DE AYSÉN",
-   "unidad": "CORPORACIÓN DE DESARROLLO DEL GOBIERNO REGIONAL DE AYSÉN",
-   "monto": 1500000,
-   "cierre_iso": "2026-11-12T15:00:00-03:00",
-   "publicacion": "11-11 12:30",
-   "publicacion_iso": "2026-11-11T12:30:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "82121505",
-     "Impresión promocional o publicitaria",
-     1,
-     "Servicio integral de diseño, impresión y suministro de 100 carpetas corporativas impresas por ambas caras, 100 lápices personalizados, 100 fichas institucionales y 400 tarjetas de presentación (4 diseños). Incluye diagramación, preparación de archivos, terminaciones y despacho a Coyhaique. Se cotiza el conjunto completo como una sola unidad, sin ofertas parciales. Cumplimiento obligatorio de las especificaciones técnicas y condiciones de la minuta adjunta."
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1538639-14-COT26",
-   "sin_detalle": false,
-   "descripcion": "La Corporación de Desarrollo del Gobierno Regional de Aysén requiere adquirir 100 carpetas corporativas, 100 lápices personalizados, 100 fichas institucionales y 400 tarjetas de presentación, incluyendo diseño, impresión por ambas caras cuando corresponda y despacho a Coyhaique.\nPlazo de entrega: 5 días corridos, conforme a la minuta adjunta. Presupuesto máximo: $1.500.000 IVA incluido. No se aceptan ofertas parciales.",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
   {
    "tipo": "POSIBLE",
    "motivos": [
@@ -481,6 +452,53 @@
   {
    "tipo": "POSIBLE",
    "motivos": [
+    "registro fotográfico"
+   ],
+   "nueva": true,
+   "codigo": "1057062-531-COT26",
+   "nombre": "Adquisición de equipamiento para laboratorio de química, biología y genética según fisabs 2455_URY 21991",
+   "organismo": "UNIVERSIDAD DE AYSEN",
+   "unidad": "Proyectos",
+   "monto": 6999996,
+   "cierre_iso": "2026-11-13T16:00:00-03:00",
+   "publicacion": "12-11 15:55",
+   "publicacion_iso": "2026-11-12T15:55:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "41105304",
+     "Transiluminadores",
+     4,
+     "Sistema compacto de electroforesis horizontal para geles de agarosa, con fuente de alimentación integrada y transiluminador de luz azul incorporado. Debe permitir la separación de fragmentos de ADN, visualización directa de bandas en el gel y registro fotográfico mediante teléfono celular. Suministro de cuatro unidades de electroforesis con fuente y transiluminación integradas, destinadas al análisis de productos de PCR en actividades prácticas y de investigación."
+    ],
+    [
+     "41115403",
+     "Espectrómetros",
+     4,
+     "Kit de espectrómetro de fibra óptica para medición y separación de longitudes de onda en el espectro visible e infrarrojo, según especificaciones técnicas adjuntas."
+    ],
+    [
+     "60103905",
+     "Kits o materiales de cultivo",
+     7,
+     "PCR Pocket - DIY Kit: termociclador portátil en formato kit para ensamblaje (DIY), destinado a amplificación de ADN por PCR convencional.Capacidad de cinco tubos estándar de 0,2 mL; control PID de temperatura desde ambiente hasta 99 °C; programación desde pantalla integrada, sin requerir computador; alimentación mediante USB con adaptador de 2 A; dimensiones referenciales 33 × 105 × 50 mm; peso aproximado de 50 g. Diseño de hardware y firmware abiertos; compatible con reactivos y tubos estándar."
+    ],
+    [
+     "60103905",
+     "Kits o materiales de cultivo",
+     1,
+     "qPocketPCR – Real-Time PCR Thermocycler: Termociclador portátil para amplificación y detección de ADN mediante PCR en tiempo real (qPCR), con sistema de detección fluorescente compatible con SYBR Green y tapa calefaccionada. Formato compacto para actividades de investigación y monitoreo en terreno, debe incluir daptador de\nalimentación de 20 W y cable USB-C"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1057062-531-COT26",
+   "sin_detalle": false,
+   "descripcion": "Se requiere la adquirir equipamiento para laboratorio de química, biología y genética según el detalle indicado. Cotización debe indicar especificaciones técnicas de lo ofertado. Debe indicar plazo de entrega ofertado, considerando entrega en Eusebio Lillo 667, Coyhaique. Valor cotizado debe incluir flete e impuestos. Se podrá privilegiar el menor plazo de entrega, siempre que cumpla con todas las especificaciones requeridas. Compra sujeta a posibles multas o sanciones por incumplimiento.",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
     "publicidad",
     "publicitarios"
    ],
@@ -633,6 +651,35 @@
    "desaparecida_iso": ""
   },
   {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Ventas y marketing"
+   ],
+   "nueva": true,
+   "codigo": "1201-203-COT26",
+   "nombre": "SERVICIO DE PRODUCCIÓN EVENTOS JUEGOS DEPORTIVOS ESCOLARES SUB 10, SUB 12 Y JUVENIL, COYHAIQUE Y AYSÉN",
+   "organismo": "INSTITUTO NACIONAL DE DEPORTES DE CHILE",
+   "unidad": "I.N.D. REGION XI",
+   "monto": 4000000,
+   "cierre_iso": "2026-11-16T08:00:00-03:00",
+   "publicacion": "12-11 15:01",
+   "publicacion_iso": "2026-11-12T15:01:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "80141607",
+     "Producción de eventos",
+     1,
+     "Programación de los eventos, SEGUN BASES ADJUNTAS"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1201-203-COT26",
+   "sin_detalle": false,
+   "descripcion": "Contratar el servicio de producción para la ejecución de los Encuentros Deportivos, en el\nmarco de los Juegos Deportivos Escolares (JDE), en las disciplinas de mini voleibol,\nbásquetbol 3x3, balonmano adaptado y futsal, a realizarse en las comunas de Coyhaique y\nAysén.",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
    "tipo": "POSIBLE",
    "motivos": [
     "difusión",
@@ -731,6 +778,35 @@
   {
    "tipo": "POSIBLE",
    "motivos": [
+    "registro fotográfico"
+   ],
+   "nueva": true,
+   "codigo": "885-925-COT26",
+   "nombre": "La Contraloria requiere contratar el mantenimiento correctivo del vehículo Nissan X-Trail, patente DTDG-37, de la Contraloría Regional de Aysé",
+   "organismo": "CONTRALORIA GENERAL DE LA REPUBLICA",
+   "unidad": "Contraloría General de la República",
+   "monto": 1400000,
+   "cierre_iso": "2026-11-19T10:00:00-03:00",
+   "publicacion": "12-11 15:37",
+   "publicacion_iso": "2026-11-12T15:37:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "25191513",
+     "Kit de mantenimiento de vehículo de soporte en tierra",
+     1,
+     "Contratación de mantenimiento vehicular en taller de la Región de Aysén. Incluye reemplazo de bujes traseros, amortiguadores, bieletas, bujes de cuna, intervención de cremallera y alineación con repuestos nuevos. Exige garantía mínima de 6 meses, informe técnico con registro fotográfico y entrega de piezas cambiadas. Cotizar detallando repuestos, plazos y ubicación sin cobros duplicados. Por favor apegarse a los términos de referencia."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=885-925-COT26",
+   "sin_detalle": false,
+   "descripcion": "Se requiere contratar el mantenimiento correctivo del vehículo Nissan X-Trail, patente DTDG-37, de la Contraloría Regional de Aysé",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
     "avisos",
     "publicidad"
    ],
@@ -775,6 +851,24 @@
   }
  ],
  "historial": [
+  {
+   "codigo": "1538639-14-COT26",
+   "nombre": "Adquisición de material gráfico institucional personalizado",
+   "organismo": "CORPORACIÓN DE DESARROLLO DEL GOBIERNO REGIONAL DE AYSÉN",
+   "monto": 1500000,
+   "cierre_iso": "2026-11-12T15:00:00-03:00",
+   "tipo": "POSIBLE",
+   "motivos": [
+    "publicitaria"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1538639-14-COT26",
+   "primera_vista_iso": "2026-11-11T14:18:43-03:00",
+   "removida_iso": "2026-11-12T18:12:42-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
   {
    "codigo": "1280-78-COT26",
    "nombre": "TELEVISOR SMART TV 75”",
@@ -1285,79 +1379,6 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=1057062-506-COT26",
    "primera_vista_iso": "2026-11-04T14:23:11-03:00",
    "removida_iso": "2026-11-10T19:26:29-03:00",
-   "estado_api": "",
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "2713-1331-COT26",
-   "nombre": "Adquisición impresiones - Folio 1394 - DIDECO ",
-   "organismo": "I MUNICIPALIDAD DE AYSEN",
-   "monto": 200000,
-   "cierre_iso": "2026-11-05T17:15:00-03:00",
-   "tipo": "POSIBLE",
-   "motivos": [
-    "publicitarios"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=2713-1331-COT26",
-   "primera_vista_iso": "2026-11-04T19:43:04-03:00",
-   "removida_iso": "2026-11-05T19:47:37-03:00",
-   "estado_api": null,
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "1233615-930-COT26",
-   "nombre": "DMH [SOL-2026-02150] Recursos para el aprendizaje e innovación (parlantes) para Liceo Politécnico A-1 de Puerto Aysén",
-   "organismo": "Servicio Local de Educación Pública Aysén",
-   "monto": 400000,
-   "cierre_iso": "2026-11-05T16:00:00-03:00",
-   "tipo": "POSIBLE",
-   "motivos": [
-    "difusión"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1233615-930-COT26",
-   "primera_vista_iso": "2026-11-04T14:23:11-03:00",
-   "removida_iso": "2026-11-05T19:47:37-03:00",
-   "estado_api": "",
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "1057062-508-COT26",
-   "nombre": "Servicio de publicidad digital para la difusión de magíster según Fisabs 2371_URY 21991",
-   "organismo": "UNIVERSIDAD DE AYSEN",
-   "monto": 4000000,
-   "cierre_iso": "2026-11-05T15:45:00-03:00",
-   "tipo": "POSIBLE",
-   "motivos": [
-    "difusión",
-    "publicidad"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1057062-508-COT26",
-   "primera_vista_iso": "2026-11-04T19:43:04-03:00",
-   "removida_iso": "2026-11-05T19:47:37-03:00",
-   "estado_api": "",
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "1332-40-COT26",
-   "nombre": "PLAN DE MEDIOS Y CONTINUIDAD DE PLATAFORMA WEB PARA LA CAMPAÑA REGIONAL DE CONCIENCIA TURÍSTICA AYSÉN PATAGONIA",
-   "organismo": "Servicio Nacional de Turismo",
-   "monto": 6800000,
-   "cierre_iso": "2026-11-05T15:30:00-03:00",
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Ventas y marketing"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1332-40-COT26",
-   "primera_vista_iso": "2026-11-03T19:24:45-03:00",
-   "removida_iso": "2026-11-05T19:47:37-03:00",
    "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,
