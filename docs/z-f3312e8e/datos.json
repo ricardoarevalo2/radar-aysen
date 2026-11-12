@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-12T19:00:24.629688-03:00",
+ "actualizado": "2026-11-12T20:00:27.642708-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
  "total_region": 329,
@@ -1831,6 +1831,35 @@
    "desaparecida_iso": ""
   },
   {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Gasfitería, calefacción y aire acondicionado"
+   ],
+   "nueva": true,
+   "codigo": "1428275-57-COT26",
+   "nombre": "SERVICIO DE DIAGNOSTICO Y MANTENCION SISTEMA DE CALEFACION DINAMICO ESTATICO",
+   "organismo": "SERVICIO NACIONAL DEL PATRIMONIO CULTURAL",
+   "unidad": "DIRECCIÓN REGIONAL DE AYSEN",
+   "monto": 200000,
+   "cierre_iso": "2026-11-16T10:00:00-03:00",
+   "publicacion": "12-11 19:16",
+   "publicacion_iso": "2026-11-12T19:16:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "72102302",
+     "Instalación, reparación o mantenimiento de sistemas de calefacción",
+     1,
+     "SERVICIO DE DIAGNOSTICO Y MANTENCION SISTEMA DE CALEFACION DINAMICO ESTATICO” 12 EQUIPOS, DE ACUERDO A ESPECIFICACIONES TECNICAS ADJUNTAS."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1428275-57-COT26",
+   "sin_detalle": false,
+   "descripcion": "La Dirección Regional del Servicio Nacional del Patrimonio Cultural de Aysén, requiere contratar “SERVICIO DE DIAGNOSTICO Y MANTENCION SISTEMA DE CALEFACION DINAMICO ESTATICO”, según detalles en archivo adjunto.",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
    "tipo": "POSIBLE",
    "motivos": [
     "generador"
@@ -2217,7 +2246,7 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=1079689-526-COT26",
    "primera_vista_iso": "2026-11-04T19:43:04-03:00",
    "removida_iso": "2026-11-10T19:26:29-03:00",
-   "estado_api": null,
+   "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,
    "adj_iso": null
@@ -2344,7 +2373,7 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=1233615-932-COT26",
    "primera_vista_iso": "2026-11-04T14:23:11-03:00",
    "removida_iso": "2026-11-10T19:26:29-03:00",
-   "estado_api": null,
+   "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,
    "adj_iso": null
@@ -2454,7 +2483,7 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=791766-36-COT26",
    "primera_vista_iso": "2026-11-04T19:43:04-03:00",
    "removida_iso": "2026-11-10T19:26:29-03:00",
-   "estado_api": null,
+   "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,
    "adj_iso": null
@@ -2582,7 +2611,7 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=951405-262-COT26",
    "primera_vista_iso": "2026-11-04T14:23:11-03:00",
    "removida_iso": "2026-11-10T19:26:29-03:00",
-   "estado_api": null,
+   "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,
    "adj_iso": null
@@ -2618,24 +2647,6 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=1078779-24-COT26",
    "primera_vista_iso": "2026-10-27T12:27:37-03:00",
    "removida_iso": "2026-11-10T19:26:29-03:00",
-   "estado_api": "",
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "1113144-82-COT26",
-   "nombre": "GORE 2026- REQ. 38 SERVICIO DE CONEXION AGUA POTABLE VIVERO",
-   "organismo": "CORP NACIONAL FORESTAL",
-   "monto": 6500000,
-   "cierre_iso": "2026-11-05T20:00:00-03:00",
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Gasfitería, calefacción y aire acondicionado"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1113144-82-COT26",
-   "primera_vista_iso": "2026-10-29T13:17:18-03:00",
-   "removida_iso": "2026-11-06T00:29:52-03:00",
    "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,
