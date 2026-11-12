@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-11-12T20:00:27.642708-03:00",
+ "actualizado": "2026-11-12T20:43:27.840650-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
- "total_region": 329,
+ "total_region": 328,
  "rubros": {
   "80141600": "Ventas y marketing",
   "82101600": "Publicidad en medios no impresos",
@@ -952,7 +952,7 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=4733-487-COT26",
    "primera_vista_iso": "2026-11-05T14:29:51-03:00",
    "removida_iso": "2026-11-12T09:58:37-03:00",
-   "estado_api": null,
+   "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,
    "adj_iso": null
@@ -1279,7 +1279,7 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=1080289-30-COT26",
    "primera_vista_iso": "2026-11-05T14:29:51-03:00",
    "removida_iso": "2026-11-10T19:26:29-03:00",
-   "estado_api": null,
+   "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,
    "adj_iso": null
