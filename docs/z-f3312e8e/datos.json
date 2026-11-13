@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-11-13T10:00:25.222096-03:00",
+ "actualizado": "2026-11-13T11:00:25.107198-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
- "total_region": 320,
+ "total_region": 321,
  "rubros": {
   "25172700": "Aire acondicionado",
   "25173900": "Componentes eléctricos",
@@ -19,30 +19,6 @@
   "39121400": "Conectores, enchufes y terminales"
  },
  "filas": [
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "eléctrico",
-    "generador",
-    "generador eléctrico"
-   ],
-   "nueva": false,
-   "codigo": "907-101-COT26",
-   "nombre": "AAH Mantención correctiva generador eléctrico diésel laboratorio",
-   "organismo": "SERVICIO AGRICOLA Y GANADERO",
-   "unidad": "SAG - Aysen",
-   "monto": 1387540,
-   "cierre_iso": "2026-11-13T10:00:00-03:00",
-   "publicacion": "10-11 11:37",
-   "publicacion_iso": "2026-11-10T11:37:00-03:00",
-   "ofertas": 0,
-   "productos": [],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=907-101-COT26",
-   "sin_detalle": false,
-   "descripcion": "Se solicita la contratación del servicio de mantención correctiva y reparación del sistema de refrigeración del generador diésel MWM D229-6, ubicado en el Laboratorio Regional SAG Coyhaique, conforme a las especificaciones técnicas contenidas en los Términos de Referencia adjuntos.",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
   {
    "tipo": "POSIBLE",
    "motivos": [
@@ -1822,9 +1798,58 @@
    "descripcion": "Indicar plazo de entrega y datos de contacto. Se privilegiará proveedor de la región o que cuente con sucursal en Coyhaique y luego precio. Este proceso no considera ítem flete ni cargos adicionales, los costos deben estar incluidos en los valores unitarios. (LEER TÉRMINOS DE REFERENCIA ADJUNTO). Plazo desde emisión orden de compra, presupuesto disponible por ítems, ajustar presupuesto.",
    "en_gracia": false,
    "desaparecida_iso": ""
+  },
+  {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Gasfitería, calefacción y aire acondicionado"
+   ],
+   "nueva": true,
+   "codigo": "930039-37-COT26",
+   "nombre": "REPARACIÓN DE RED HÚMEDA",
+   "organismo": "SERVICIO NACIONAL DEL PATRIMONIO CULTURAL",
+   "unidad": "MUSEO REGIONAL DE AYSEN",
+   "monto": 3500000,
+   "cierre_iso": "2026-11-16T15:00:00-03:00",
+   "publicacion": "13-11 10:49",
+   "publicacion_iso": "2026-11-13T10:49:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "72102304",
+     "Mantenimiento o reparación de sistemas de fontanería, gasfitería",
+     1,
+     "REPARACIÓN DE RED HÚMEDA"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=930039-37-COT26",
+   "sin_detalle": false,
+   "descripcion": "Contratar el servicio de reparación, mantención y mejoramiento de cuatro gabinetes de red húmeda del Museo Regional de Aysén, bajo la modalidad de suma alzada (llave en mano), incluyendo la provisión de todos los materiales, insumos y la mano de obra calificada.",
+   "en_gracia": false,
+   "desaparecida_iso": ""
   }
  ],
  "historial": [
+  {
+   "codigo": "907-101-COT26",
+   "nombre": "AAH Mantención correctiva generador eléctrico diésel laboratorio",
+   "organismo": "SERVICIO AGRICOLA Y GANADERO",
+   "monto": 1387540,
+   "cierre_iso": "2026-11-13T10:00:00-03:00",
+   "tipo": "POSIBLE",
+   "motivos": [
+    "eléctrico",
+    "generador",
+    "generador eléctrico"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=907-101-COT26",
+   "primera_vista_iso": "2026-11-10T19:26:29-03:00",
+   "removida_iso": "2026-11-13T11:00:25-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
   {
    "codigo": "886182-252-COT26",
    "nombre": "Servicio de instalación y mantención preventiva de aires acondicionados x 6 meses [Fisabs 2395]",
@@ -2478,24 +2503,6 @@
    ],
    "link": "https://buscador.mercadopublico.cl/ficha?code=3791-1108-COT26",
    "primera_vista_iso": "2026-11-04T14:23:11-03:00",
-   "removida_iso": "2026-11-10T19:26:29-03:00",
-   "estado_api": "",
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "2713-1338-COT26",
-   "nombre": " mobiliario y equipamiento - Folio 1368 - DIDECO",
-   "organismo": "I MUNICIPALIDAD DE AYSEN",
-   "monto": 4100000,
-   "cierre_iso": "2026-11-06T10:30:00-03:00",
-   "tipo": "POSIBLE",
-   "motivos": [
-    "iluminación"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=2713-1338-COT26",
-   "primera_vista_iso": "2026-11-05T14:29:51-03:00",
    "removida_iso": "2026-11-10T19:26:29-03:00",
    "estado_api": "",
    "adj_nombre": null,
