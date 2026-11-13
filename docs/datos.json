@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-11-13T15:00:24.679865-03:00",
+ "actualizado": "2026-11-13T16:00:24.116878-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
- "total_region": 334,
+ "total_region": 346,
  "rubros": {
   "80141600": "Ventas y marketing",
   "82101600": "Publicidad en medios no impresos",
@@ -1455,24 +1455,6 @@
    ],
    "link": "https://buscador.mercadopublico.cl/ficha?code=4066-486-COT26",
    "primera_vista_iso": "2026-11-05T19:47:37-03:00",
-   "removida_iso": "2026-11-10T19:26:29-03:00",
-   "estado_api": "",
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "1080289-30-COT26",
-   "nombre": "SERVICIO DE EDICIÓN DE MATERIAL AUDIOVISUAL",
-   "organismo": "SUBSECRETARIA DE SALUD PUBLICA",
-   "monto": 1000000,
-   "cierre_iso": "2026-11-06T16:00:00-03:00",
-   "tipo": "POSIBLE",
-   "motivos": [
-    "audiovisual"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1080289-30-COT26",
-   "primera_vista_iso": "2026-11-05T14:29:51-03:00",
    "removida_iso": "2026-11-10T19:26:29-03:00",
    "estado_api": "",
    "adj_nombre": null,

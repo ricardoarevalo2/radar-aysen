@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-11-13T15:00:24.679865-03:00",
+ "actualizado": "2026-11-13T16:00:24.116878-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
- "total_region": 334,
+ "total_region": 346,
  "rubros": {
   "25172700": "Aire acondicionado",
   "25173900": "Componentes eléctricos",
@@ -994,6 +994,35 @@
    "desaparecida_iso": ""
   },
   {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "electricidad"
+   ],
+   "nueva": true,
+   "codigo": "1057062-535-COT26",
+   "nombre": "Adquisición de Kit didáctico de auto de exploración de energía_ Según FISABS 2466",
+   "organismo": "UNIVERSIDAD DE AYSEN",
+   "unidad": "Proyectos",
+   "monto": 856562,
+   "cierre_iso": "2026-11-16T08:30:00-03:00",
+   "publicacion": "13-11 15:48",
+   "publicacion_iso": "2026-11-13T15:48:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "60106205",
+     "Materiales de enseñanza de energía o electricidad",
+     2,
+     "Se requiere la adquisición de 2 unidades de Kit didáctico de auto de exploración de energía, según especificaciones técnicas adjuntas."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1057062-535-COT26",
+   "sin_detalle": false,
+   "descripcion": "Se requiere cotizar adquisición de Kit didáctico de auto de exploración de energía. Cotización debe indicar especificaciones técnicas de lo ofertado. Debe indicar plazo de entrega ofertado, considerando entrega en dependencias de U. Aysén. Valor cotizado debe incluir flete e impuestos. Se podrá privilegiar el menor plazo de entrega ofertado, siempre que cumpla con todas las especificaciones requeridas.",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
    "tipo": "OPORTUNIDAD",
    "motivos": [
     "Cajas y accesorios eléctricos",
@@ -1266,6 +1295,35 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=3540-316-COT26",
    "sin_detalle": false,
    "descripcion": "Se deben ofertar todas las líneas, indicando plazo de entrega y datos de contacto. Se privilegiará proveedor de la región o que cuente con sucursal en Coyhaique y luego precio. Este proceso no considera ítem flete ni cargos adicionales, los costos deben estar incluidos en los valores unitarios.(AJUNTAR ESPECIFICACIONES Y/O IMAGEN),(LEER TÉRMINOS DE REFERENCIA ADJUNTO).",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "certificación sec"
+   ],
+   "nueva": true,
+   "codigo": "3950-740-COT26",
+   "nombre": "MAQUINA SELLADORA PARA MANGAS",
+   "organismo": "DIRECCION SALUD RURAL",
+   "unidad": "Dirección de Salud Rural",
+   "monto": 4000000,
+   "cierre_iso": "2026-11-16T09:00:00-03:00",
+   "publicacion": "13-11 15:27",
+   "publicacion_iso": "2026-11-13T15:27:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "41122410",
+     "Película selladora de laboratorio",
+     2,
+     "maquina selladora para mangas \nancho de banda 12mm\nlongitud de sellado 250mm y 329mm (25 a 32 cm)\ncontrol de temperatura debe ser termostática 180°c\ncarcasa de acero inoxidable superficie lavable y resistente\nsistema de corte integrado \nalimentación eléctrica 220v / 50Hz \nc0n certificación SEC\n\nADJUNTAR FICHA TECNICA"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=3950-740-COT26",
+   "sin_detalle": false,
+   "descripcion": "INCLUIR DESPACHO EN COTIZACION",
    "en_gracia": false,
    "desaparecida_iso": ""
   },
@@ -1601,6 +1659,35 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=1092-93-COT26",
    "sin_detalle": false,
    "descripcion": "La Corporación Nacional Forestal por medio del Departamento de Protección Contra Incendios Forestales Región de Aysén, requiere la adquisición de materiales de oficina la unidad incendios forestales de la región de Aysén. No se cancela costos asociados al flete. (Ver especificaciones técnicas adjuntas)",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "electricidad"
+   ],
+   "nueva": true,
+   "codigo": "1182705-207-COT26",
+   "nombre": "SERVICIO DE MOVILIZACION SOLICITUD N°0222 VCM CRY26851 PROYECTO TNS EN ELECTRICIDAD SEDE COYHAIQUE",
+   "organismo": "CENTRO DE FORMACIÓN TÉCNICA DE LA REGIÓN DE AYSÉN DEL GENERAL CARLOS I",
+   "unidad": "FINANZAS",
+   "monto": 1400000,
+   "cierre_iso": "2026-11-16T10:00:00-03:00",
+   "publicacion": "13-11 15:42",
+   "publicacion_iso": "2026-11-13T15:42:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "25101502",
+     "Autobuses",
+     1,
+     "Servicio de traslado terrestre , tramo Coyhaique–Puerto Cisnes–Coyhaique. \nTramo 1: Coyhaique-Puerto Cisnes (Ida para el día 27-11-2026) salida desde CFT Estatal de Aysén ubicado en José Miguel Carrera #133 a las 05:00 am hrs (para salir a las 9:00 am en la barcaza),  y de regreso TRAMO 2: desde llegada de la Barcaza en Puerto Cisnes hacia Coyhaique (para el día 29-11-2026 a las 13:00 pm hrs), para delegación de estudiantes y docentes. Se solicita conductor con licencia profesional."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1182705-207-COT26",
+   "sin_detalle": false,
+   "descripcion": "SE REQUIERE SERVICIO DE MOVILIZACION PARA 25 PASAJEROS DE ACUERDO CON SOLICITUD N°0222 VCM CRY26851 PROYECTO TNS EN ELECTRICIDAD SEDE COYHAIQUE PARA EL DIA 27/11/2026 COYHAIQUE - PUERTO CISNES - COYHAIQUE SE SOLICITA ADJUNTAR COTIZACION CON EL DETALLE DE LO QUE SE ESTA OFERTANDO.",
    "en_gracia": false,
    "desaparecida_iso": ""
   },
@@ -2790,44 +2877,6 @@
     "ampolletas"
    ],
    "link": "https://buscador.mercadopublico.cl/ficha?code=3765-340-COT26",
-   "primera_vista_iso": "2026-11-05T19:47:37-03:00",
-   "removida_iso": "2026-11-10T19:26:29-03:00",
-   "estado_api": "",
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "3765-338-COT26",
-   "nombre": "SE SOLICITA CONTRATACION DE UN INSTALADOR ELECTRICO - FACTIBILIDAD TE1 CASA SENDA",
-   "organismo": "SERVICIO NACIONAL DE SALUD HOSPITAL DE C",
-   "monto": 3000000,
-   "cierre_iso": "2026-11-06T16:00:00-03:00",
-   "tipo": "POSIBLE",
-   "motivos": [
-    "eléctricos",
-    "te1"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=3765-338-COT26",
-   "primera_vista_iso": "2026-11-05T19:47:37-03:00",
-   "removida_iso": "2026-11-10T19:26:29-03:00",
-   "estado_api": "",
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "5038-67-COT26",
-   "nombre": "ADQUISICIÓN DE MATERIALES PARA MONOLITO DE IDENTIFICACIÓN DEL HUMEDAL URBANO DE PTO. IBÁÑEZ",
-   "organismo": "I MUNICIPALIDAD RIO IBANEZ",
-   "monto": 350000,
-   "cierre_iso": "2026-11-06T15:20:00-03:00",
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Cajas y accesorios eléctricos",
-    "Conectores, enchufes y terminales"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=5038-67-COT26",
    "primera_vista_iso": "2026-11-05T19:47:37-03:00",
    "removida_iso": "2026-11-10T19:26:29-03:00",
    "estado_api": "",
