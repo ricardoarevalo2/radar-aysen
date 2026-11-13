@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-11-13T16:00:24.116878-03:00",
+ "actualizado": "2026-11-13T17:00:27.866766-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
- "total_region": 346,
+ "total_region": 348,
  "rubros": {
   "80141600": "Ventas y marketing",
   "82101600": "Publicidad en medios no impresos",
@@ -14,53 +14,6 @@
   "83121700": "Comunicación social y de masas"
  },
  "filas": [
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "registro fotográfico"
-   ],
-   "nueva": true,
-   "codigo": "1057062-531-COT26",
-   "nombre": "Adquisición de equipamiento para laboratorio de química, biología y genética según fisabs 2455_URY 21991",
-   "organismo": "UNIVERSIDAD DE AYSEN",
-   "unidad": "Proyectos",
-   "monto": 6999996,
-   "cierre_iso": "2026-11-13T16:00:00-03:00",
-   "publicacion": "12-11 15:55",
-   "publicacion_iso": "2026-11-12T15:55:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "41105304",
-     "Transiluminadores",
-     4,
-     "Sistema compacto de electroforesis horizontal para geles de agarosa, con fuente de alimentación integrada y transiluminador de luz azul incorporado. Debe permitir la separación de fragmentos de ADN, visualización directa de bandas en el gel y registro fotográfico mediante teléfono celular. Suministro de cuatro unidades de electroforesis con fuente y transiluminación integradas, destinadas al análisis de productos de PCR en actividades prácticas y de investigación."
-    ],
-    [
-     "41115403",
-     "Espectrómetros",
-     4,
-     "Kit de espectrómetro de fibra óptica para medición y separación de longitudes de onda en el espectro visible e infrarrojo, según especificaciones técnicas adjuntas."
-    ],
-    [
-     "60103905",
-     "Kits o materiales de cultivo",
-     7,
-     "PCR Pocket - DIY Kit: termociclador portátil en formato kit para ensamblaje (DIY), destinado a amplificación de ADN por PCR convencional.Capacidad de cinco tubos estándar de 0,2 mL; control PID de temperatura desde ambiente hasta 99 °C; programación desde pantalla integrada, sin requerir computador; alimentación mediante USB con adaptador de 2 A; dimensiones referenciales 33 × 105 × 50 mm; peso aproximado de 50 g. Diseño de hardware y firmware abiertos; compatible con reactivos y tubos estándar."
-    ],
-    [
-     "60103905",
-     "Kits o materiales de cultivo",
-     1,
-     "qPocketPCR – Real-Time PCR Thermocycler: Termociclador portátil para amplificación y detección de ADN mediante PCR en tiempo real (qPCR), con sistema de detección fluorescente compatible con SYBR Green y tapa calefaccionada. Formato compacto para actividades de investigación y monitoreo en terreno, debe incluir daptador de\nalimentación de 20 W y cable USB-C"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1057062-531-COT26",
-   "sin_detalle": false,
-   "descripcion": "Se requiere la adquirir equipamiento para laboratorio de química, biología y genética según el detalle indicado. Cotización debe indicar especificaciones técnicas de lo ofertado. Debe indicar plazo de entrega ofertado, considerando entrega en Eusebio Lillo 667, Coyhaique. Valor cotizado debe incluir flete e impuestos. Se podrá privilegiar el menor plazo de entrega, siempre que cumpla con todas las especificaciones requeridas. Compra sujeta a posibles multas o sanciones por incumplimiento.",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
   {
    "tipo": "POSIBLE",
    "motivos": [
@@ -680,6 +633,95 @@
    "desaparecida_iso": ""
   },
   {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Publicidad en medios no impresos"
+   ],
+   "nueva": true,
+   "codigo": "1057062-536-COT26",
+   "nombre": "Servicio de Pauta Publicitaria en Redes Sociales (Meta, Google y YouTube Ads)",
+   "organismo": "UNIVERSIDAD DE AYSEN",
+   "unidad": "Proyectos",
+   "monto": 7000000,
+   "cierre_iso": "2026-11-16T09:00:00-03:00",
+   "publicacion": "13-11 16:47",
+   "publicacion_iso": "2026-11-13T16:47:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "82101603",
+     "Publicidad en Internet",
+     1,
+     "Servicio de Publicidad digital según se detalla en el adjunto, hasta el 31 de enero de 2027, para el proceso de Admisión de la Universidad de Aysén. oferta debe detllar el monto de la inversión considerando en el presupuesto total, IVA incluido"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1057062-536-COT26",
+   "sin_detalle": false,
+   "descripcion": "Serv de publicación promocional y pauta digital en Instagram, Facebook, Google Ads y YouTube Ads con vigencia hasta el 30 de enero 2027. El servicio exige una inversión neta directa en pauta de al menos el 70% del presupuesto total (se seleccionará al oferente que comprometa el mayor monto de inversión efectiva, IVA incluido). Segmentación dirigida a estudiantes y apoderados (17 a 55 años aprox.) en las regiones de Aysén y Los Lagos, según el detalle adjunto, Proveedor debe detallar lo ofertado",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Publicidad en medios no impresos"
+   ],
+   "nueva": true,
+   "codigo": "1057062-534-COT26",
+   "nombre": "Servicio de elaboración y producción integral de spot radial. FISABS N°1872 – URY 2457",
+   "organismo": "UNIVERSIDAD DE AYSEN",
+   "unidad": "Proyectos",
+   "monto": 1000000,
+   "cierre_iso": "2026-11-16T09:00:00-03:00",
+   "publicacion": "13-11 16:09",
+   "publicacion_iso": "2026-11-13T16:09:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "82101601",
+     "Publicidad en radio",
+     1,
+     "Servicio de elaboración y producción integral de un spot radial, incluye desarrollo de propuesta creativa y guion, presentación de al menos 3 propuestas de voces para selección, y grabación en estudio profesional, el proveedor debe adjuntar las especificacione técnicas que debe cumplir con a lo menos detallado en el adjunto, e indicar el plazo de entrega, el cual podría ser privilegiado para la selección de ofertas, se adjunta el detalle de lo mpinimo requerido"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1057062-534-COT26",
+   "sin_detalle": false,
+   "descripcion": "Servicio de elaboración y producción integral de un spot radial. Incluye desarrollo de propuesta creativa y guion (sujeto a validación de la contraparte técnica), presentación de al menos 3 propuestas de voces (alternativas masculinas y femeninas) para selección, y grabación en estudio profesional el proveedor debe adjuntar las especificacione técnicas que debe cumplir con a lo menos detallado en el adjunto, e indicar el plazo de entrega, el cual podría ser privilegiado para la selección de ofer",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "audiovisual",
+    "cápsula audiovisual",
+    "spot"
+   ],
+   "nueva": true,
+   "codigo": "1057062-529-COT26",
+   "nombre": "Servicio de producción y grabación de spot audiovisual (30 segundos). Proyecto URY 2557 _ FISABS 2271",
+   "organismo": "UNIVERSIDAD DE AYSEN",
+   "unidad": "Proyectos",
+   "monto": 3000000,
+   "cierre_iso": "2026-11-16T09:00:00-03:00",
+   "publicacion": "13-11 16:08",
+   "publicacion_iso": "2026-11-13T16:08:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "80161507",
+     "Servicios Audio Visuales",
+     1,
+     "Se requiere el servicio integral de dirección, producción, elaboración de guion, grabación y postproducción de una cápsula audiovisual de 30 segundos para la campaña de admisión de la Universidad de Aysén, según lineamientos institucionales. El proveedor debe contar con equipamiento profesional y recursos humanos adecuados, se adjunta el detalle de lo mínimo requerido."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1057062-529-COT26",
+   "sin_detalle": false,
+   "descripcion": "Se requiere el servicio integral de dirección, producción, elaboración de guion, grabación y postproducción de una cápsula audiovisual de 30 segundos para la campaña de admisión de la Universidad de Aysén, según lineamientos institucionales, el proveedor debe adjuntar las especificacione técnicas que debe cumplir con a lo menos detallado en el adjunto, e indicar el plazo de entrega, el cual podría ser privilegiado para la selección de oferta",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
    "tipo": "POSIBLE",
    "motivos": [
     "fotografía"
@@ -875,6 +917,53 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=1233615-995-COT26",
    "sin_detalle": false,
    "descripcion": "Según archivo adjunto, cámara y parlante",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "registro fotográfico"
+   ],
+   "nueva": true,
+   "codigo": "1057062-531-COT26",
+   "nombre": "Adquisición de equipamiento para laboratorio de química, biología y genética según fisabs 2455_URY 21991",
+   "organismo": "UNIVERSIDAD DE AYSEN",
+   "unidad": "Proyectos",
+   "monto": 6999996,
+   "cierre_iso": "2026-11-17T13:00:00-03:00",
+   "publicacion": "12-11 15:55",
+   "publicacion_iso": "2026-11-12T15:55:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "41105304",
+     "Transiluminadores",
+     4,
+     "Sistema compacto de electroforesis horizontal para geles de agarosa, con fuente de alimentación integrada y transiluminador de luz azul incorporado. Debe permitir la separación de fragmentos de ADN, visualización directa de bandas en el gel y registro fotográfico mediante teléfono celular. Suministro de cuatro unidades de electroforesis con fuente y transiluminación integradas, destinadas al análisis de productos de PCR en actividades prácticas y de investigación."
+    ],
+    [
+     "41115403",
+     "Espectrómetros",
+     4,
+     "Kit de espectrómetro de fibra óptica para medición y separación de longitudes de onda en el espectro visible e infrarrojo, según especificaciones técnicas adjuntas."
+    ],
+    [
+     "60103905",
+     "Kits o materiales de cultivo",
+     7,
+     "PCR Pocket - DIY Kit: termociclador portátil en formato kit para ensamblaje (DIY), destinado a amplificación de ADN por PCR convencional.Capacidad de cinco tubos estándar de 0,2 mL; control PID de temperatura desde ambiente hasta 99 °C; programación desde pantalla integrada, sin requerir computador; alimentación mediante USB con adaptador de 2 A; dimensiones referenciales 33 × 105 × 50 mm; peso aproximado de 50 g. Diseño de hardware y firmware abiertos; compatible con reactivos y tubos estándar."
+    ],
+    [
+     "60103905",
+     "Kits o materiales de cultivo",
+     1,
+     "qPocketPCR – Real-Time PCR Thermocycler: Termociclador portátil para amplificación y detección de ADN mediante PCR en tiempo real (qPCR), con sistema de detección fluorescente compatible con SYBR Green y tapa calefaccionada. Formato compacto para actividades de investigación y monitoreo en terreno, debe incluir daptador de\nalimentación de 20 W y cable USB-C"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1057062-531-COT26",
+   "sin_detalle": false,
+   "descripcion": "Se requiere la adquirir equipamiento para laboratorio de química, biología y genética según el detalle indicado. Cotización debe indicar especificaciones técnicas de lo ofertado. Debe indicar plazo de entrega ofertado, considerando entrega en Eusebio Lillo 667, Coyhaique. Valor cotizado debe incluir flete e impuestos. Se podrá privilegiar el menor plazo de entrega, siempre que cumpla con todas las especificaciones requeridas. Compra sujeta a posibles multas o sanciones por incumplimiento.",
    "en_gracia": false,
    "desaparecida_iso": ""
   },
@@ -1474,7 +1563,7 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=1332-43-COT26",
    "primera_vista_iso": "2026-11-10T19:26:29-03:00",
    "removida_iso": "2026-11-13T12:00:25-03:00",
-   "estado_api": null,
+   "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,
    "adj_iso": null

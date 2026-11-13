@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-11-13T16:00:24.116878-03:00",
+ "actualizado": "2026-11-13T17:00:27.866766-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
- "total_region": 346,
+ "total_region": 348,
  "rubros": {
   "25172700": "Aire acondicionado",
   "25173900": "Componentes eléctricos",
@@ -19,35 +19,6 @@
   "39121400": "Conectores, enchufes y terminales"
  },
  "filas": [
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "enchufes"
-   ],
-   "nueva": true,
-   "codigo": "3950-736-COT26",
-   "nombre": "PRODUCCION DE EVENTO \"PRIMER CONSEJO TECNICO DE GESTORES DE CASO\"",
-   "organismo": "DIRECCION SALUD RURAL",
-   "unidad": "Dirección de Salud Rural",
-   "monto": 250000,
-   "cierre_iso": "2026-11-13T16:00:00-03:00",
-   "publicacion": "12-11 15:59",
-   "publicacion_iso": "2026-11-12T15:59:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "90101603",
-     "Servicios de catering",
-     1,
-     "COFFE BREAK PARA 20 PERSONAS EL 25 DE NOVIEMBRE DEL 2026, UBICACION TERCER PISO CAJA LOS ANDES COYHAIQUE, CALLE EUSEBIO LILLO N°20, adjunta propuesta detallada.\nconsiderar mesas plegables y termos ya que no se dispone de enchufes cercanos en el sector donde se montara."
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=3950-736-COT26",
-   "sin_detalle": false,
-   "descripcion": "INCLUIR GASTOS OPERACIONALES EN COTIZACION",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
   {
    "tipo": "POSIBLE",
    "motivos": [
@@ -167,6 +138,35 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=4649-102-COT26",
    "sin_detalle": false,
    "descripcion": "Según SIC N°563  y SIC REF N° 395  Se requiere compra de generador y betonera de las características señaladas, todo en el marco del Programa GORE Ecosistemas Forestales con Enfoque en Silvicultura Preventiva en la región de Aysén. No se cancelaran costos asociados con el envió. Se priorizará proveedor local, adjuntar patente Municipal para acreditación (excluyente)",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "enchufes"
+   ],
+   "nueva": true,
+   "codigo": "3950-736-COT26",
+   "nombre": "PRODUCCION DE EVENTO \"PRIMER CONSEJO TECNICO DE GESTORES DE CASO\"",
+   "organismo": "DIRECCION SALUD RURAL",
+   "unidad": "Dirección de Salud Rural",
+   "monto": 250000,
+   "cierre_iso": "2026-11-14T16:00:00-03:00",
+   "publicacion": "12-11 15:59",
+   "publicacion_iso": "2026-11-12T15:59:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "90101603",
+     "Servicios de catering",
+     1,
+     "COFFE BREAK PARA 20 PERSONAS EL 25 DE NOVIEMBRE DEL 2026, UBICACION TERCER PISO CAJA LOS ANDES COYHAIQUE, CALLE EUSEBIO LILLO N°20, adjunta propuesta detallada.\nconsiderar mesas plegables y termos ya que no se dispone de enchufes cercanos en el sector donde se montara."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=3950-736-COT26",
+   "sin_detalle": false,
+   "descripcion": "INCLUIR GASTOS OPERACIONALES EN COTIZACION",
    "en_gracia": false,
    "desaparecida_iso": ""
   },
@@ -1996,6 +1996,125 @@
   {
    "tipo": "OPORTUNIDAD",
    "motivos": [
+    "Suministros y accesorios eléctricos"
+   ],
+   "nueva": true,
+   "codigo": "1485465-45-COT26",
+   "nombre": "Equipo técnico de sonido Municipalidad O’Higgins",
+   "organismo": "I. Municipalidad de O'Higgins ",
+   "unidad": "Administración Municipal",
+   "monto": 7200000,
+   "cierre_iso": "2026-11-16T15:00:00-03:00",
+   "publicacion": "13-11 16:40",
+   "publicacion_iso": "2026-11-13T16:40:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "39121703",
+     "Enlaces de cables",
+     8,
+     "Cables balanceados para micrófono con conectores metálicos XLR Macho a XLR Hembra, longitud de 10 metros.\nSe adjunta ficha tecnica con terminos de referencia de los insumos y lo que debe cumplir el proveedor al momento de cotizar."
+    ],
+    [
+     "39121703",
+     "Enlaces de cables",
+     8,
+     "Cables balanceados para micrófono con conectores metálicos XLR Macho a XLR Hembra, longitud de 5 metros. Se adjunta ficha tecnica con terminos de referencia de los insumos y lo que debe cumplir el proveedor al momento de cotizar."
+    ],
+    [
+     "39121703",
+     "Enlaces de cables",
+     8,
+     "Cables de línea monofónicos con conectores metálicos Jack 1/4\" a Jack 1/4\" (Plug-Plug 6.3mm), longitud de 10 metros. Se adjunta ficha tecnica con terminos de referencia de los insumos y lo que debe cumplir el proveedor al momento de cotizar."
+    ],
+    [
+     "39121703",
+     "Enlaces de cables",
+     8,
+     "Cables de línea monofónicos con conectores metálicos Jack 1/4\" a Jack 1/4\" (Plug-Plug 6.3mm), longitud de 5 metros. Se adjunta ficha tecnica con terminos de referencia de los insumos y lo que debe cumplir el proveedor al momento de cotizar."
+    ],
+    [
+     "39121703",
+     "Enlaces de cables",
+     1,
+     "Cable de datos USB tipo A a tipo B de alta velocidad con doble núcleo de ferrita para aislamiento de ruido, longitud de 3 metros (Conexión principal Consola a PC). Se adjunta ficha tecnica con terminos de referencia de los insumos y lo que debe cumplir el proveedor al momento de cotizar."
+    ],
+    [
+     "39121703",
+     "Enlaces de cables",
+     1,
+     "Cable adaptador de audio análogo en \"Y\" con conectores duales Jack 1/4\" (o XLR) hacia conector Mini-jack de 3.5mm TRS estéreo, longitud de 2 metros (Cable de respaldo para PC).Se adjunta ficha tecnica con terminos de referencia de los insumos y lo que debe cumplir el proveedor al momento de cotizar."
+    ],
+    [
+     "45111702",
+     "Cajas de conexión de sonido",
+     4,
+     "Cajas acústicas activas (parlantes autoamplificados) de 12 pulgadas, potencia mínima de 300W RMS, con DSP integrado y sistema automático de supresión de acoples (Anti-feedback). Se adjunta ficha tecnica con terminos de referencia de los insumos y lo que debe cumplir el proveedor al momento de cotizar."
+    ],
+    [
+     "45111702",
+     "Cajas de conexión de sonido",
+     1,
+     "Flight Case de madera contrachapada (Plywood) e interior de espuma EVA a medida para la consola cotizada en el Ítem 1.1.\nSe adjunta ficha tecnica con terminos de referencia de los insumos y lo que debe cumplir el proveedor al momento de cotizar."
+    ],
+    [
+     "45111702",
+     "Cajas de conexión de sonido",
+     1,
+     "Flight Case/Maleta de transporte rígida con espuma interior pre-cortada de alta densidad para albergar de forma ordenada los 8 micrófonos correspondiente a los ítem 2.1, 2.2 y 2.3 y sus accesorios. Pueden ser más de 1 case.Se adjunta ficha tecnica con terminos de referencia de los insumos y lo que debe cumplir el proveedor al momento de cotizar."
+    ],
+    [
+     "45111702",
+     "Cajas de conexión de sonido",
+     1,
+     "Flight Case tipo baúl o tipo pelican case (Utility Trunk) con 4 ruedas de alta resistencia para almacenamiento de la totalidad de los cables.Se adjunta ficha tecnica con terminos de referencia de los insumos y lo que debe cumplir el proveedor al momento de cotizar."
+    ],
+    [
+     "45111702",
+     "Cajas de conexión de sonido",
+     2,
+     "Flight Cases dobles (Dual Cases) o 4 Flight cases simples, con ruedas, donde cada caja permite almacenar y transportar 2 parlantes de 12\" (dual cases) o 1 (case simple) parlante de 12” (case simple) de forma segura y separada. La cantidad y dimensión de las flight cases de este ítem, debe adecuarse a las cajas acústicas del ítem 1.2. Ya sean cases dobles o simples. Se adjunta ficha tecnica con terminos de referencia de los insumos y lo que debe cumplir el proveedor al momento de cotizar."
+    ],
+    [
+     "45111704",
+     "Consolas de mezcla de sonidos",
+     1,
+     "Consola analógica profesional de 16 canales totales, con un mínimo de 10 preamplificadores de micrófono (XLR) y puerto de audio USB nativo integrado.\nSe adjunta ficha tecnica con terminos de referencia de los insumos y lo que debe cumplir el proveedor al momento de cotizar."
+    ],
+    [
+     "52161520",
+     "Micrófonos",
+     9,
+     "Micrófonos de condensador tipo cuello de ganso (mínimo 40 cm), incluye base de escritorio pesada con interruptor físico de encendido/silencio (Mute) y anillo LED indicador de estado. Se adjunta ficha tecnica con terminos de referencia de los insumos y lo que debe cumplir el proveedor al momento de cotizar."
+    ],
+    [
+     "52161520",
+     "Micrófonos",
+     2,
+     "Sistemas inalámbricos profesionales de diadema/cintillo en banda UHF con escaneo de frecuencia automático. Se adjunta ficha tecnica con terminos de referencia de los insumos y lo que debe cumplir el proveedor al momento de cotizar."
+    ],
+    [
+     "52161520",
+     "Micrófonos",
+     2,
+     "2 Sistemas inalámbricos profesionales con transmisor de mano dinámico cardioide en banda UHF. \nSe adjunta ficha tecnica con terminos de referencia de los insumos y lo que debe cumplir el proveedor al momento de cotizar."
+    ],
+    [
+     "52161520",
+     "Micrófonos",
+     4,
+     "Micrófonos alámbricos dinámicos de mano para voces, con patrón polar cardioide e interruptor físico de encendido/apagado integrado. Se adjunta ficha tecnica con terminos de referencia de los insumos y lo que debe cumplir el proveedor al momento de cotizar."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1485465-45-COT26",
+   "sin_detalle": false,
+   "descripcion": "Adquisición de equipamiento técnico de sonido como: consola profesional, cajas activas, diversos micrófonos, cables y flight cases para almacenar dicho equipamiento, con el fin de utilizarlo en actividades municipales.",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
     "Gasfitería, calefacción y aire acondicionado"
    ],
    "nueva": true,
@@ -2048,6 +2167,53 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=4626-37-COT26",
    "sin_detalle": false,
    "descripcion": "Servicio mantención y reparación de 5 (cinco) Calefactores Murales a Gas de la Dirección Regional del Trabajo de Aysén",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "eléctrico"
+   ],
+   "nueva": true,
+   "codigo": "1173433-23-COT26",
+   "nombre": "MAQUINARIA Y EQUIPAMIENTO PARA ACTIVIDADES PRODUCTIVAS C.E.T. VALLE VERDE",
+   "organismo": "Centro de Educación y Trabajo Valle Verde",
+   "unidad": "CET Valle Verde",
+   "monto": 5638655,
+   "cierre_iso": "2026-11-17T11:00:00-03:00",
+   "publicacion": "13-11 16:12",
+   "publicacion_iso": "2026-11-13T16:12:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "23151901",
+     "Cortadores",
+     2,
+     "MOTOSIERRA STIHL MS 250 O SIMILAR (dos unidades). Cilindrada 45,4 cm3, Cadena Rapid Micro/Super 0,325” 1,6 mm., Espada 18\", Motor, 2 Tiempos, Potencia (Hp) 3,1 HP."
+    ],
+    [
+     "23151901",
+     "Cortadores",
+     2,
+     "DESMALEZADORA STIHL FS 120 O SIMILAR. (dos unidades) Cilindrada: 30,8 cc., Potencia: 1,3 kW (1,8 HP), Peso: 6,3 kg., Capacidad del estanque: 0,64 litros., Motor: 2 tiempos."
+    ],
+    [
+     "25101901",
+     "Tractores agrícolas",
+     1,
+     "TRACTOCULTIVADOR KRAFTER R001 11 HP O SIMILAR. (una unidad)  Motor: Diésel HSD188FAE (11 HP), Encendido: Eléctrico (y con piola de arranque manual de emergencia), Transmisión Por engranajes, Marchas: 3 hacia adelante y 1 hacia atrás, Neumáticos Frontales 4.0-8 / Traseros 5.0-12., Ancho de trabajo 1.050 mm (1,05 m), Diámetro máximo de fresas 360 mm, Peso: 240 kg."
+    ],
+    [
+     "52141601",
+     "Lavadoras domésticas",
+     1,
+     "HIDROLAVADORA LUSTER GASOLINA AGW. HE-3100 O SIMILAR. (una unidad) Partida manual,  temperatura del agua 5° mín - 50 ° máx., dimensiones (lah) 70 x 45 x 66, peso 35 Kg, estanque de combustible 3,6 Lts., tipo de motor gasolina 7hp., velocidad 3600 rpm, máxima presión 213 bar, presión de trabajo 193 bar, caudal o flujo permisible 570 lts./hr."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1173433-23-COT26",
+   "sin_detalle": false,
+   "descripcion": "ADQUISICIÓN DE MAQUINARIA Y EQUIPAMIENTO PARA EL FORTALECIMIENTO DE LAS ACTIVIDADES AGRÍCOLAS C.E.T. VALLE VERDE.",
    "en_gracia": false,
    "desaparecida_iso": ""
   },
@@ -2859,24 +3025,6 @@
     "Conectores, enchufes y terminales"
    ],
    "link": "https://buscador.mercadopublico.cl/ficha?code=3765-344-COT26",
-   "primera_vista_iso": "2026-11-05T19:47:37-03:00",
-   "removida_iso": "2026-11-10T19:26:29-03:00",
-   "estado_api": "",
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "3765-340-COT26",
-   "nombre": "FOCOS LED PARA CASA SENDA ",
-   "organismo": "SERVICIO NACIONAL DE SALUD HOSPITAL DE C",
-   "monto": 400000,
-   "cierre_iso": "2026-11-06T17:00:00-03:00",
-   "tipo": "POSIBLE",
-   "motivos": [
-    "ampolletas"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=3765-340-COT26",
    "primera_vista_iso": "2026-11-05T19:47:37-03:00",
    "removida_iso": "2026-11-10T19:26:29-03:00",
    "estado_api": "",
