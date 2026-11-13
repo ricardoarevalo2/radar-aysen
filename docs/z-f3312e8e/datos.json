@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-11-13T12:00:25.851532-03:00",
+ "actualizado": "2026-11-13T13:00:24.936374-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
- "total_region": 334,
+ "total_region": 329,
  "rubros": {
   "25172700": "Aire acondicionado",
   "25173900": "Componentes eléctricos",
@@ -19,227 +19,6 @@
   "39121400": "Conectores, enchufes y terminales"
  },
  "filas": [
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "iluminación"
-   ],
-   "nueva": true,
-   "codigo": "3949-296-COT26",
-   "nombre": "Insumos para unidad dependencia Severa, para completar bolso de terreno.",
-   "organismo": "CONSULTORIO GENERAL URBANO DR ALEJANDRO GUTIERREZ",
-   "unidad": "ID 3949 - CESFAM Dr Alejandro Gutiérrez",
-   "monto": 2000000,
-   "cierre_iso": "2026-11-13T12:00:00-03:00",
-   "publicacion": "12-11 10:53",
-   "publicacion_iso": "2026-11-12T10:53:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "42181801",
-     "Unidades de oxímetros de pulso",
-     5,
-     "Oxímetro de Pulso Digital, pantalla OLED de doble color ofrece una lectura clara y de fácil visualización, alta exactitud en la medición de SpO2 y frecuencia de Pulso, testado con simulador BIO-TEK.  Con límites de alarma. Aprobado por la FDA y CE. Adjuntar imágenes y especificaciones técnicas."
-    ],
-    [
-     "42182005",
-     "Oftalmoscopios o otoscopios o juegos de scopios",
-     2,
-     "Oftalmoscopio con mango metálico, iluminación halógena y transmisión de luz por fibra óptica. Selector de apertura Rango de dioptrías: -20 a +20, lentes condensadores de vidrio para enfoque, Incluir filtro libre de rojo y azul cobalto, Posiciones de apertura: 5 5. Adjuntar imágenes y especificaciones técnicas."
-    ],
-    [
-     "42182005",
-     "Oftalmoscopios o otoscopios o juegos de scopios",
-     8,
-     "Otoscopio con lámpara LED SureColor, transmisión de luz por fibra óptica mango metálico, gancho tipo lapicera, tecla de encendido/apagado, lupa deslizable, luz distal fría sin reflejos, canal libre para realizar procedimientos. Conector para otoscopías neumáticas. Que  incluye 4 espéculos. Adjuntar imágenes y especificaciones técnicas."
-    ],
-    [
-     "42182103",
-     "Estetoscopio mecánico o accesorios",
-     6,
-     "Fonendoscopio  de material del diafragma  de  Epoxi/Fibra de vidrio, longitud total de 69 cm, peso de 150 g. rendimiento acustico 8/10. Doble cara (adulto-pediátrico). peso de la campana: 82 g.  y que incluya olivas en tamaños grandes y pequeños. Anillo antifrío de repuesto y adaptadores especiales. Con garantía de  5 años. Adjuntar imágenes y especificaciones técnicas."
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=3949-296-COT26",
-   "sin_detalle": false,
-   "descripcion": "Insumos para unidad dependencia Severa, para completar bolso de terreno.",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
-  {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Materiales de física de electricidad"
-   ],
-   "nueva": false,
-   "codigo": "1233615-984-COT26",
-   "nombre": "RMG-SOL01535-Liceo Luisa Rabanal, Equipamiento para simulación EMTP 29.05, despacho incluido a Chile Chico.",
-   "organismo": "Servicio Local de Educación Pública Aysén",
-   "unidad": "Servicio Local de Educación Pública Aysén",
-   "monto": 7000000,
-   "cierre_iso": "2026-11-13T12:00:00-03:00",
-   "publicacion": "11-11 17:01",
-   "publicacion_iso": "2026-11-11T17:01:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "60104905",
-     "Placas de demostración de electricidad",
-     1,
-     "Según archivo adjunto, equipamiento para simulación EMTP Electricidad"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1233615-984-COT26",
-   "sin_detalle": false,
-   "descripcion": "Según detalle adjunto, despacho incluido a Chile Chico.",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "electricidad"
-   ],
-   "nueva": false,
-   "codigo": "1233615-982-COT26",
-   "nombre": "RMG-SOL01616-Liceo Luisa Rabanal Palma, Equipamiento EMTP Electricidad cuenta 29.04",
-   "organismo": "Servicio Local de Educación Pública Aysén",
-   "unidad": "Servicio Local de Educación Pública Aysén",
-   "monto": 4670552,
-   "cierre_iso": "2026-11-13T12:00:00-03:00",
-   "publicacion": "11-11 15:59",
-   "publicacion_iso": "2026-11-11T15:59:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "56101519",
-     "Mesas",
-     1,
-     "Según archivo adjunto, mesas y sillas."
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1233615-982-COT26",
-   "sin_detalle": false,
-   "descripcion": "Según detalle adjunto, despacho incluido a Chile Chico.",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
-  {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Suministros y accesorios eléctricos"
-   ],
-   "nueva": false,
-   "codigo": "1746-262-COT26",
-   "nombre": "INSTALACIÓN DE ENCHUFE ELÉCTRICO, CARRERA N° 257, 2° PISO COYHAIQUE (P552)",
-   "organismo": "SUBSECRETARIA DE SALUD PUBLICA",
-   "unidad": "Seremi de Salud XI Región",
-   "monto": 90000,
-   "cierre_iso": "2026-11-13T12:00:00-03:00",
-   "publicacion": "11-11 14:28",
-   "publicacion_iso": "2026-11-11T14:28:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "39121701",
-     "Soportes eléctricos",
-     1,
-     "Servicio de instalación de enchufe eléctrico adicional en dependencias de Carrera N° 257, 2° piso Coyhaique, de acuerdo con especificaciones indicadas en el adjunto"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1746-262-COT26",
-   "sin_detalle": false,
-   "descripcion": "Solicitado mediante Pedido de Materiales N° 552 de la Unidad de Emergencia y Desastre",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "eléctrico"
-   ],
-   "nueva": false,
-   "codigo": "907-103-COT26",
-   "nombre": "\tMAO ADQUISICIÓN ENSERES OFICINA COYHAIQUE",
-   "organismo": "SERVICIO AGRICOLA Y GANADERO",
-   "unidad": "SAG - Aysen",
-   "monto": 338980,
-   "cierre_iso": "2026-11-13T12:00:00-03:00",
-   "publicacion": "10-11 17:12",
-   "publicacion_iso": "2026-11-10T17:12:00-03:00",
-   "ofertas": 0,
-   "productos": [],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=907-103-COT26",
-   "sin_detalle": false,
-   "descripcion": "Se necesita adquirir: a) 1 Termo eléctrico:  Capacidad: 100 Litros, Potencia: Mínimo 1.500W (idealmente 2.000W para recuperación rápida), Resistencia: Blindada. \nb) 1 Colchón 1 ½ plaza: debe tener firmeza, Resortes ensacados (o pocket) o Espuma viscoelástica (Memory Foam) o Látex. Características: ? Aislamiento del movimiento ? Regulación de temperatura ? Transpirabilidad:  ? Soporte perimetral reforzado",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "interruptor"
-   ],
-   "nueva": false,
-   "codigo": "2713-1337-COT26",
-   "nombre": "DAOMA SOL.1386. Adquisición de repuestos.",
-   "organismo": "I MUNICIPALIDAD DE AYSEN",
-   "unidad": "I.MUNICIPALIDAD AYSEN-ADQUISICIONES",
-   "monto": 1235000,
-   "cierre_iso": "2026-11-13T12:14:00-03:00",
-   "publicacion": "05-11 10:19",
-   "publicacion_iso": "2026-11-05T10:19:00-03:00",
-   "ofertas": 1,
-   "productos": [
-    [
-     "25191703",
-     "Máquinas para cambiar neumáticos",
-     10,
-     "Tapa de arranque completa"
-    ],
-    [
-     "25191703",
-     "Máquinas para cambiar neumáticos",
-     4,
-     "Estanque de Motor ."
-    ],
-    [
-     "25191703",
-     "Máquinas para cambiar neumáticos",
-     40,
-     "Swich encendido interruptor de encendido y apagado"
-    ],
-    [
-     "25191703",
-     "Máquinas para cambiar neumáticos",
-     10,
-     "Correa AX 36"
-    ],
-    [
-     "25191703",
-     "Máquinas para cambiar neumáticos",
-     4,
-     "Carburador completo para motor"
-    ],
-    [
-     "25191703",
-     "Máquinas para cambiar neumáticos",
-     20,
-     "Bujia BKB745"
-    ],
-    [
-     "25191703",
-     "Máquinas para cambiar neumáticos",
-     20,
-     "Bujia BP5ES"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=2713-1337-COT26",
-   "sin_detalle": false,
-   "descripcion": "COTIZACIÓN DE :REPUESTOS MAQUINARIAS . LOS COSTOS DE TRASLADOS A PUERTO AYSÉN SERÁN DEL OFERENTE. EL PLAZO DE ENTREGA SERÁN DE 10 DÍA HÁBIL, DE LO CONTRARIO SE DESCARTARAN.EL PROVEEDOR QUE NO INDIQUE EL PLAZO DE ENTREGA SE DESCARTARA SU COTIZACIÓN. OFERENTE DEBE INCLUIR FLETES EN EL PRECIO DEL PRODUCTO.SE SOLICITA ANEXAR FICHA TECNICA, DE LO CONTRARIO SE DESCARTARA. PLAZO DE ENTREGA COMIENZA A CONTAR DEL DIA HABIL SUBSIGUIENTE DEL ENVÍO DE ORDEN DE COMPRA.",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
   {
    "tipo": "POSIBLE",
    "motivos": [
@@ -1559,6 +1338,28 @@
   {
    "tipo": "POSIBLE",
    "motivos": [
+    "eléctrico"
+   ],
+   "nueva": false,
+   "codigo": "907-103-COT26",
+   "nombre": "\tMAO ADQUISICIÓN ENSERES OFICINA COYHAIQUE",
+   "organismo": "SERVICIO AGRICOLA Y GANADERO",
+   "unidad": "SAG - Aysen",
+   "monto": 338980,
+   "cierre_iso": "2026-11-16T06:47:00-03:00",
+   "publicacion": "10-11 17:12",
+   "publicacion_iso": "2026-11-10T17:12:00-03:00",
+   "ofertas": 0,
+   "productos": [],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=907-103-COT26",
+   "sin_detalle": false,
+   "descripcion": "Se necesita adquirir: a) 1 Termo eléctrico:  Capacidad: 100 Litros, Potencia: Mínimo 1.500W (idealmente 2.000W para recuperación rápida), Resistencia: Blindada. \nb) 1 Colchón 1 ½ plaza: debe tener firmeza, Resortes ensacados (o pocket) o Espuma viscoelástica (Memory Foam) o Látex. Características: ? Aislamiento del movimiento ? Regulación de temperatura ? Transpirabilidad:  ? Soporte perimetral reforzado",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
     "eléctricos"
    ],
    "nueva": true,
@@ -1674,6 +1475,35 @@
    "desaparecida_iso": ""
   },
   {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "alargador"
+   ],
+   "nueva": true,
+   "codigo": "1691-2103-COT26",
+   "nombre": "TAPP - ALARGADOR ARTERIAL 100 CM  M/H PARA REPOSICIÓN INSUMOS DEL HOSPITAL REGIONAL COYHAIQUE.",
+   "organismo": "SERVICIO NACIONAL DE SALUD HOSPITAL DE C",
+   "unidad": "Compras de Insumos Clínicos",
+   "monto": 480000,
+   "cierre_iso": "2026-11-16T12:30:00-03:00",
+   "publicacion": "13-11 12:18",
+   "publicacion_iso": "2026-11-13T12:18:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "42221616",
+     "Sets de extensión para catéteres intravenosos o arteriales",
+     1000,
+     "CÓD. 42221621-3-601 ALARGADOR ARTERIAL 100 CM M/H"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1691-2103-COT26",
+   "sin_detalle": false,
+   "descripcion": "TAPP - ALARGADOR ARTERIAL 100 CM  M/H.\nLOS PRECIOS OFERTADOS DEBEN INCLUIR TODOS LOS COSTOS ASOCIADOS, INCLUDIOS FLETES HASTA LA \nDIRECCIÓN DE DESPACHO ESTABLECIDA.LAS PROPUESTAS DEBEN AJUSTARSE ESTRÍCTAMENTE A LAS \nCARACTERÍSTICAS TÉCNICAS INDICADAS EN CADA REQUERIMIENTO. SE SOLICITA ADJUNTAR FICHA TÉCNICA\nCORRESPONDIENTE A LOS PRODUCTOS O SERVICIOS OFRECIDOS. SE SOLICITA COTIZACIÓN POR 30 DÍAS. \nSE SOLICITA 1 GUÍA DE DESPACHO DENTRO DE LA CAJA.",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
    "tipo": "OPORTUNIDAD",
    "motivos": [
     "Gasfitería, calefacción y aire acondicionado"
@@ -1699,6 +1529,35 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=930039-37-COT26",
    "sin_detalle": false,
    "descripcion": "Contratar el servicio de reparación, mantención y mejoramiento de cuatro gabinetes de red húmeda del Museo Regional de Aysén, bajo la modalidad de suma alzada (llave en mano), incluyendo la provisión de todos los materiales, insumos y la mano de obra calificada.",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Gasfitería, calefacción y aire acondicionado"
+   ],
+   "nueva": true,
+   "codigo": "4626-37-COT26",
+   "nombre": "Servicio mantención y reparación de Calefactores Murales a Gas",
+   "organismo": "DIRECCION DEL TRABAJO",
+   "unidad": "Dirección del Trabajo XI Región Aysén",
+   "monto": 250000,
+   "cierre_iso": "2026-11-16T16:00:00-03:00",
+   "publicacion": "13-11 12:09",
+   "publicacion_iso": "2026-11-13T12:09:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "72102304",
+     "Mantenimiento o reparación de sistemas de fontanería, gasfitería",
+     5,
+     "Servicio mantención y reparación de Calefactores Murales a Gas de la Dirección Regional del Trabajo de Aysén, de acuerdo con lo establecido en los Requerimientos Técnicos que se adjuntan (se solicita leer detenidamente documento adjunto, para dar cumplimiento a los requerimientos allí establecidos al presentar su oferta)"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=4626-37-COT26",
+   "sin_detalle": false,
+   "descripcion": "Servicio mantención y reparación de 5 (cinco) Calefactores Murales a Gas de la Dirección Regional del Trabajo de Aysén",
    "en_gracia": false,
    "desaparecida_iso": ""
   },
@@ -1827,9 +1686,157 @@
    "descripcion": "Adquisición de elementos de construcción para el CCM \"Coyhaique\". Las ofertas serán declaradas inadmisibles cuando: Cotización sobrepase presupuesto disponible, oferten elementos de construcción que no sean los solicitados, oferta considere flete aparte y exceder plazo de entrega. Características técnicas solicitadas en anexo adjunto. Se deberá postular por la totalidad de los insumos. El retiro o entrega debe ser en la ciudad de Coyhaique.",
    "en_gracia": false,
    "desaparecida_iso": ""
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "eléctrico"
+   ],
+   "nueva": true,
+   "codigo": "911089-110-COT26",
+   "nombre": "ADQUISICION DEL SERVICIO PARA CONSTRUCCION DE PORTON ELECTRICO VEHICULAR Y CIERRE PERIMETRAL EN LA POBLACION DE SUBOFICIALES EN LA LOCALIDAD DE COCHRANE",
+   "organismo": "Zona de Bienestar \"Coyhaique\"",
+   "unidad": "Zona de Bienestar Coyhaique",
+   "monto": 7000000,
+   "cierre_iso": "2026-11-24T10:00:00-03:00",
+   "publicacion": "13-11 12:33",
+   "publicacion_iso": "2026-11-13T12:33:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "72102504",
+     "Construcción de muros de contención",
+     1,
+     "Adquisicion del servicio de construccion de:\n\nUn portón corredero de fierro de 5.00mt. de largo x 2.00mt. de alto.\nPerfil (postes) de 100x100x3mm.\nUn portón peatonal de 1.00 mt de ancho x 2.00 mt de alto c/ 40 copias de llaves\nReja de fierro, 04 mt de largo x 2.00 mt de alto.\nMotor eléctrico para portón corredero vehicular 2.000 kg. c/40 controles remotos\nConexión eléctrica para portón desde la primera cámara. (50 mtl)\nCierre perimetral 45 mtl de malla acmafor verde\n\nConforme a Bases Tecnicas"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=911089-110-COT26",
+   "sin_detalle": false,
+   "descripcion": "SE SOLICITA LA ADQUISICION DEL SERVICIO PARA CONSTRUCCION DE PORTON ELECTRICO VEHICULAR Y CIERRE PERIMETRAL EN LA POBLACION DE SUBOFICIALES EN LA LOCALIDAD DE COCHRANE, CONFORME A LAS BASES TECNICAS QUE SE ADJUNTAN\n\nVISITA TERRENO EXCLUYENTE JUEVES 19NOV2026 ENTRADA POBLACION MILITAR SUBOFICIALES EN LA LOCALIDAD DE COCHRANE A LAS 10:00HRS\n\nSE SOLICITA LOS ANEXOS QUE SE ADJUNTA (ECONOMICO,DURACION,DECL.JURADA)  PARA LOS OFERENTE POSTULANTES, QUIEN NO LO PRESENTE FIRMADO QUEDA FUERA DE POSTULACIO",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "eléctrico"
+   ],
+   "nueva": true,
+   "codigo": "911089-110-COT26",
+   "nombre": "ADQUISICION DEL SERVICIO PARA CONSTRUCCION DE PORTON ELECTRICO VEHICULAR Y CIERRE PERIMETRAL EN LA POBLACION DE SUBOFICIALES EN LA LOCALIDAD DE COCHRANE",
+   "organismo": "Zona de Bienestar \"Coyhaique\"",
+   "unidad": "Zona de Bienestar Coyhaique",
+   "monto": 7000000,
+   "cierre_iso": "2026-11-24T10:00:00-03:00",
+   "publicacion": "13-11 12:33",
+   "publicacion_iso": "2026-11-13T12:33:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "72102504",
+     "Construcción de muros de contención",
+     1,
+     "Adquisicion del servicio de construccion de:\n\nUn portón corredero de fierro de 5.00mt. de largo x 2.00mt. de alto.\nPerfil (postes) de 100x100x3mm.\nUn portón peatonal de 1.00 mt de ancho x 2.00 mt de alto c/ 40 copias de llaves\nReja de fierro, 04 mt de largo x 2.00 mt de alto.\nMotor eléctrico para portón corredero vehicular 2.000 kg. c/40 controles remotos\nConexión eléctrica para portón desde la primera cámara. (50 mtl)\nCierre perimetral 45 mtl de malla acmafor verde\n\nConforme a Bases Tecnicas"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=911089-110-COT26",
+   "sin_detalle": false,
+   "descripcion": "SE SOLICITA LA ADQUISICION DEL SERVICIO PARA CONSTRUCCION DE PORTON ELECTRICO VEHICULAR Y CIERRE PERIMETRAL EN LA POBLACION DE SUBOFICIALES EN LA LOCALIDAD DE COCHRANE, CONFORME A LAS BASES TECNICAS QUE SE ADJUNTAN\n\nVISITA TERRENO EXCLUYENTE JUEVES 19NOV2026 ENTRADA POBLACION MILITAR SUBOFICIALES EN LA LOCALIDAD DE COCHRANE A LAS 10:00HRS\n\nSE SOLICITA LOS ANEXOS QUE SE ADJUNTA (ECONOMICO,DURACION,DECL.JURADA)  PARA LOS OFERENTE POSTULANTES, QUIEN NO LO PRESENTE FIRMADO QUEDA FUERA DE POSTULACIO",
+   "en_gracia": false,
+   "desaparecida_iso": ""
   }
  ],
  "historial": [
+  {
+   "codigo": "2713-1337-COT26",
+   "nombre": "DAOMA SOL.1386. Adquisición de repuestos.",
+   "organismo": "I MUNICIPALIDAD DE AYSEN",
+   "monto": 1235000,
+   "cierre_iso": "2026-11-13T12:14:00-03:00",
+   "tipo": "POSIBLE",
+   "motivos": [
+    "interruptor"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=2713-1337-COT26",
+   "primera_vista_iso": "2026-11-05T14:29:51-03:00",
+   "removida_iso": "2026-11-13T13:00:24-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
+  {
+   "codigo": "1233615-984-COT26",
+   "nombre": "RMG-SOL01535-Liceo Luisa Rabanal, Equipamiento para simulación EMTP 29.05, despacho incluido a Chile Chico.",
+   "organismo": "Servicio Local de Educación Pública Aysén",
+   "monto": 7000000,
+   "cierre_iso": "2026-11-13T12:00:00-03:00",
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Materiales de física de electricidad"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1233615-984-COT26",
+   "primera_vista_iso": "2026-11-12T09:58:37-03:00",
+   "removida_iso": "2026-11-13T13:00:24-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
+  {
+   "codigo": "1233615-982-COT26",
+   "nombre": "RMG-SOL01616-Liceo Luisa Rabanal Palma, Equipamiento EMTP Electricidad cuenta 29.04",
+   "organismo": "Servicio Local de Educación Pública Aysén",
+   "monto": 4670552,
+   "cierre_iso": "2026-11-13T12:00:00-03:00",
+   "tipo": "POSIBLE",
+   "motivos": [
+    "electricidad"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1233615-982-COT26",
+   "primera_vista_iso": "2026-11-12T09:58:37-03:00",
+   "removida_iso": "2026-11-13T13:00:24-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
+  {
+   "codigo": "1746-262-COT26",
+   "nombre": "INSTALACIÓN DE ENCHUFE ELÉCTRICO, CARRERA N° 257, 2° PISO COYHAIQUE (P552)",
+   "organismo": "SUBSECRETARIA DE SALUD PUBLICA",
+   "monto": 90000,
+   "cierre_iso": "2026-11-13T12:00:00-03:00",
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Suministros y accesorios eléctricos"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1746-262-COT26",
+   "primera_vista_iso": "2026-11-12T09:58:37-03:00",
+   "removida_iso": "2026-11-13T13:00:24-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
+  {
+   "codigo": "3949-296-COT26",
+   "nombre": "Insumos para unidad dependencia Severa, para completar bolso de terreno.",
+   "organismo": "CONSULTORIO GENERAL URBANO DR ALEJANDRO GUTIERREZ",
+   "monto": 2000000,
+   "cierre_iso": "2026-11-13T12:00:00-03:00",
+   "tipo": "POSIBLE",
+   "motivos": [
+    "iluminación"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=3949-296-COT26",
+   "primera_vista_iso": "2026-11-12T13:45:25-03:00",
+   "removida_iso": "2026-11-13T13:00:24-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
   {
    "codigo": "907-101-COT26",
    "nombre": "AAH Mantención correctiva generador eléctrico diésel laboratorio",

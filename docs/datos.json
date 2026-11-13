@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-11-13T12:00:25.851532-03:00",
+ "actualizado": "2026-11-13T13:00:24.936374-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
- "total_region": 334,
+ "total_region": 329,
  "rubros": {
   "80141600": "Ventas y marketing",
   "82101600": "Publicidad en medios no impresos",
@@ -14,184 +14,6 @@
   "83121700": "Comunicación social y de masas"
  },
  "filas": [
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "radio"
-   ],
-   "nueva": true,
-   "codigo": "1057062-527-COT26",
-   "nombre": "Adquisición materiales e insumos para taller _ Según FISABS 2465_URY23991.",
-   "organismo": "UNIVERSIDAD DE AYSEN",
-   "unidad": "Proyectos",
-   "monto": 1592000,
-   "cierre_iso": "2026-11-13T12:00:00-03:00",
-   "publicacion": "12-11 11:58",
-   "publicacion_iso": "2026-11-12T11:58:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "12142104",
-     "Gas dióxido de carbono CO2",
-     5,
-     "Se requiere comprar Gas Mixto para Cocinillas 230 g. Según especificaciones técnicas adjuntas."
-    ],
-    [
-     "27111503",
-     "Cuchillos de diversas aplicaciones",
-     1,
-     "Se solicita la compra de una Navaja, según especificaciones técnicas adjuntas."
-    ],
-    [
-     "30201606",
-     "Cocinas domésticas",
-     1,
-     "Se requiere la compra de Set De Cocina Alu Cook 2 Personas, según especificaciones técnicas adjuntas."
-    ],
-    [
-     "39111609",
-     "Linternas de queroseno, propano o butano",
-     3,
-     "Se requiere la compra de Linternas Frontal, según especificaciones técnicas adjuntas."
-    ],
-    [
-     "41111717",
-     "Binoculares",
-     2,
-     "Se solicita la compra de 2 Binoculares, según especificaciones técnicas."
-    ],
-    [
-     "42171913",
-     "Bolsas o cajas de respuesta de servicios médicos de urgencia",
-     3,
-     "Se requiere la compra de Bolsa seca de primeros auxilio, según especificaciones técnicas adjuntas."
-    ],
-    [
-     "42171917",
-     "Estuches o bolsas de primeros auxilios para los servicios médicos de urgencias o accesorios",
-     3,
-     "Se requiere la compra de Botiquín de primeros auxilio, según especificaciones técnicas adjuntas."
-    ],
-    [
-     "44111507",
-     "Sujeta libros",
-     5,
-     "Se requiere comprar 5 Pantoneras Huilo-Huilo Herbáceas. Según especificaciones técnicas adjuntas."
-    ],
-    [
-     "44111507",
-     "Sujeta libros",
-     5,
-     "Se requiere la compra de Pantoneras Funga de Chile. Según especificaciones técnicas adjuntas."
-    ],
-    [
-     "48101919",
-     "Tapas o jarras o tazas o vasos de servicios de alimentación",
-     3,
-     "Se requiere la compra de Set Jarro + 4 Tazas, según especificaciones técnicas."
-    ],
-    [
-     "49121509",
-     "Cocinilla de camping",
-     1,
-     "Se requiere la compra de una Cocinilla Compacta, según especificaciones técnicas adjuntas."
-    ],
-    [
-     "49151503",
-     "Bastones de esquí",
-     15,
-     "Se solicita la compra de 15 pares de Bastones de trekking, según especificaciones técnicas adjuntas."
-    ],
-    [
-     "49211805",
-     "Cuerdas",
-     30,
-     "Se requiere la compra de 30 cuerdas de 1 metro cada una, según especificaciones técnicas adjuntas."
-    ],
-    [
-     "52141539",
-     "Teteras de uso doméstico",
-     1,
-     "Se requiere la compra de Tetera Aluminio 800 ml. Según especificaciones técnicas adjuntas."
-    ],
-    [
-     "52152010",
-     "Termos domésticos",
-     1,
-     "Se requiere la compra de Termo. Según especificaciones técnicas adjuntas."
-    ],
-    [
-     "52152010",
-     "Termos domésticos",
-     2,
-     "Se requiere la compra de Mug Hierba Mate Cucao 360 ml, Según especificaciones técnicas adjuntas."
-    ],
-    [
-     "52161511",
-     "Radios",
-     1,
-     "Se requiere la compra de Pack X2 radio, Comunicadores Portátiles, según especificaciones técnicas adjuntas."
-    ],
-    [
-     "53131609",
-     "Protector solar",
-     30,
-     "Se requiere la compra de 30 CREMAS PROTECCIÓN SOLAR, según especificaciones técnicas adjuntas."
-    ],
-    [
-     "60101707",
-     "Guías del plan de estudios",
-     5,
-     "Se solicita la compra de Guías de Bolsillo Aves del sur de chile y Patagonia, según especificaciones técnicas adjuntas."
-    ],
-    [
-     "60101707",
-     "Guías del plan de estudios",
-     5,
-     "Se solicita la compra de Guías de Bolsillo Árboles Nativos zona sur y Patagonia, según especificaciones técnicas adjuntas."
-    ],
-    [
-     "60101707",
-     "Guías del plan de estudios",
-     5,
-     "Se requiere la compra de Guías de bolsillo Plantas medicinales de uso tradicional. Según especificaciones técnicas adjuntas."
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1057062-527-COT26",
-   "sin_detalle": false,
-   "descripcion": "Se requiere cotizar materiales e insumos para taller. Cotización debe indicar especificaciones técnicas de lo ofertado. Debe indicar plazo de entrega ofertado, considerando entrega en dependencias de U. Aysén. Valor cotizado debe incluir flete e impuestos. Se podrá privilegiar el menor plazo de entrega ofertado, siempre que cumpla con todas las especificaciones requeridas.",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "radio"
-   ],
-   "nueva": false,
-   "codigo": "973172-4-COT26",
-   "nombre": "ALMUERZO CAMPESTRE OFICINA DE BIENESTAR Y CALIDAD DE VIDA 2026",
-   "organismo": "SII Oficina de Bienestar",
-   "unidad": "BIENESTAR SII - DR COYHAIQUE",
-   "monto": 1500000,
-   "cierre_iso": "2026-11-13T12:00:00-03:00",
-   "publicacion": "11-11 16:24",
-   "publicacion_iso": "2026-11-11T16:24:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "90101601",
-     "Banquetes",
-     1,
-     "VER EN ADJUNTO LOS TERMINOS DE REFERENCIA PARA CONTRATACIÓN Y ESPECIFICACIONES DEL REQUERIMIENTO."
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=973172-4-COT26",
-   "sin_detalle": false,
-   "descripcion": "Se requiere contratar el servicio de almuerzo campestre para 100 personas, funcionarios/as del SII, esta actividad se realizará en lugar por definir en la comuna de Coyhaique y alrededores en un radio de 9 km. aproximadamente. La fecha de realización del evento será el día 14 o 16 diciembre 2026 desde las 13:00 horas.",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
   {
    "tipo": "POSIBLE",
    "motivos": [
@@ -502,6 +324,226 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=3797-538-COT26",
    "sin_detalle": false,
    "descripcion": "Adquisición de tazones personalizadas con identidad gráfica institucional, destinados al Área de Comunicaciones para apoyar las acciones de promoción y difusión turística de la comuna, bajo el concepto \"Cochrane, Destino Todo el Año\".",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "radio"
+   ],
+   "nueva": true,
+   "codigo": "1057062-527-COT26",
+   "nombre": "Adquisición materiales e insumos para taller _ Según FISABS 2465_URY23991.",
+   "organismo": "UNIVERSIDAD DE AYSEN",
+   "unidad": "Proyectos",
+   "monto": 1592000,
+   "cierre_iso": "2026-11-14T12:01:00-03:00",
+   "publicacion": "12-11 11:58",
+   "publicacion_iso": "2026-11-12T11:58:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "12142104",
+     "Gas dióxido de carbono CO2",
+     5,
+     "Se requiere comprar Gas Mixto para Cocinillas 230 g. Según especificaciones técnicas adjuntas."
+    ],
+    [
+     "27111503",
+     "Cuchillos de diversas aplicaciones",
+     1,
+     "Se solicita la compra de una Navaja, según especificaciones técnicas adjuntas."
+    ],
+    [
+     "30201606",
+     "Cocinas domésticas",
+     1,
+     "Se requiere la compra de Set De Cocina Alu Cook 2 Personas, según especificaciones técnicas adjuntas."
+    ],
+    [
+     "39111609",
+     "Linternas de queroseno, propano o butano",
+     3,
+     "Se requiere la compra de Linternas Frontal, según especificaciones técnicas adjuntas."
+    ],
+    [
+     "41111717",
+     "Binoculares",
+     2,
+     "Se solicita la compra de 2 Binoculares, según especificaciones técnicas."
+    ],
+    [
+     "42171913",
+     "Bolsas o cajas de respuesta de servicios médicos de urgencia",
+     3,
+     "Se requiere la compra de Bolsa seca de primeros auxilio, según especificaciones técnicas adjuntas."
+    ],
+    [
+     "42171917",
+     "Estuches o bolsas de primeros auxilios para los servicios médicos de urgencias o accesorios",
+     3,
+     "Se requiere la compra de Botiquín de primeros auxilio, según especificaciones técnicas adjuntas."
+    ],
+    [
+     "44111507",
+     "Sujeta libros",
+     5,
+     "Se requiere comprar 5 Pantoneras Huilo-Huilo Herbáceas. Según especificaciones técnicas adjuntas."
+    ],
+    [
+     "44111507",
+     "Sujeta libros",
+     5,
+     "Se requiere la compra de Pantoneras Funga de Chile. Según especificaciones técnicas adjuntas."
+    ],
+    [
+     "48101919",
+     "Tapas o jarras o tazas o vasos de servicios de alimentación",
+     3,
+     "Se requiere la compra de Set Jarro + 4 Tazas, según especificaciones técnicas."
+    ],
+    [
+     "49121509",
+     "Cocinilla de camping",
+     1,
+     "Se requiere la compra de una Cocinilla Compacta, según especificaciones técnicas adjuntas."
+    ],
+    [
+     "49151503",
+     "Bastones de esquí",
+     15,
+     "Se solicita la compra de 15 pares de Bastones de trekking, según especificaciones técnicas adjuntas."
+    ],
+    [
+     "49211805",
+     "Cuerdas",
+     30,
+     "Se requiere la compra de 30 cuerdas de 1 metro cada una, según especificaciones técnicas adjuntas."
+    ],
+    [
+     "52141539",
+     "Teteras de uso doméstico",
+     1,
+     "Se requiere la compra de Tetera Aluminio 800 ml. Según especificaciones técnicas adjuntas."
+    ],
+    [
+     "52152010",
+     "Termos domésticos",
+     1,
+     "Se requiere la compra de Termo. Según especificaciones técnicas adjuntas."
+    ],
+    [
+     "52152010",
+     "Termos domésticos",
+     2,
+     "Se requiere la compra de Mug Hierba Mate Cucao 360 ml, Según especificaciones técnicas adjuntas."
+    ],
+    [
+     "52161511",
+     "Radios",
+     1,
+     "Se requiere la compra de Pack X2 radio, Comunicadores Portátiles, según especificaciones técnicas adjuntas."
+    ],
+    [
+     "53131609",
+     "Protector solar",
+     30,
+     "Se requiere la compra de 30 CREMAS PROTECCIÓN SOLAR, según especificaciones técnicas adjuntas."
+    ],
+    [
+     "60101707",
+     "Guías del plan de estudios",
+     5,
+     "Se solicita la compra de Guías de Bolsillo Aves del sur de chile y Patagonia, según especificaciones técnicas adjuntas."
+    ],
+    [
+     "60101707",
+     "Guías del plan de estudios",
+     5,
+     "Se solicita la compra de Guías de Bolsillo Árboles Nativos zona sur y Patagonia, según especificaciones técnicas adjuntas."
+    ],
+    [
+     "60101707",
+     "Guías del plan de estudios",
+     5,
+     "Se requiere la compra de Guías de bolsillo Plantas medicinales de uso tradicional. Según especificaciones técnicas adjuntas."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1057062-527-COT26",
+   "sin_detalle": false,
+   "descripcion": "Se requiere cotizar materiales e insumos para taller. Cotización debe indicar especificaciones técnicas de lo ofertado. Debe indicar plazo de entrega ofertado, considerando entrega en dependencias de U. Aysén. Valor cotizado debe incluir flete e impuestos. Se podrá privilegiar el menor plazo de entrega ofertado, siempre que cumpla con todas las especificaciones requeridas.",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "publicitaria"
+   ],
+   "nueva": true,
+   "codigo": "1182705-206-COT26",
+   "nombre": "ADQUISICION DE SERVICIO DE IMPRENSION Y PLOTEO, FOLIO N°223 VCM",
+   "organismo": "CENTRO DE FORMACIÓN TÉCNICA DE LA REGIÓN DE AYSÉN DEL GENERAL CARLOS I",
+   "unidad": "FINANZAS",
+   "monto": 699000,
+   "cierre_iso": "2026-11-14T12:30:00-03:00",
+   "publicacion": "13-11 12:16",
+   "publicacion_iso": "2026-11-13T12:16:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "82121505",
+     "Impresión promocional o publicitaria",
+     502,
+     "Impresión láser color foto formato carta/oficio, una cara, tramo de 501 impresiones o más. Servicio destinado a impresión por ambas caras de trípticos educativos del proyecto VcM sobre prevención, primeros auxilios, signos de alarma y cuidados veterinarios.(adjuntar cotización)."
+    ],
+    [
+     "82121505",
+     "Impresión promocional o publicitaria",
+     251,
+     "Papel couché glossy tamaño oficio 216 × 330 mm, gramaje 170 g, destinado como soporte de 251 trípticos educativos impresos a color por ambas caras. (adjuntar cotización)."
+    ],
+    [
+     "82121505",
+     "Impresión promocional o publicitaria",
+     100,
+     "Impresión láser color foto formato carta/oficio, una cara, tramo 51–100 impresiones. Servicio destinado a impresión por ambas caras de tarjetas educativas y material de consulta rápida sobre actuación inicial ante urgencias veterinarias. (adjuntar cotización)."
+    ],
+    [
+     "82121505",
+     "Impresión promocional o publicitaria",
+     50,
+     "Papel couché glossy tamaño oficio, gramaje 170 g, utilizado como soporte para 50 unidades de material educativo impreso por ambas caras. (adjuntar cotización)."
+    ],
+    [
+     "82121505",
+     "Impresión promocional o publicitaria",
+     100,
+     "Impresión láser color foto formato carta/oficio, una cara, tramo 51–100 impresiones. Destinada a fichas educativas, checklist de botiquín, fichas de signos de alarma, instrumentos pre/post y material complementario para actividades comunitarias. (adjuntar cotización)."
+    ],
+    [
+     "82121505",
+     "Impresión promocional o publicitaria",
+     4,
+     "Servicio de corte y terminación de material gráfico impreso, destinado principalmente a fichas, tarjetas educativas y otros recursos que requieran dimensionamiento posterior a la impresión. (adjuntar cotización)."
+    ],
+    [
+     "82121505",
+     "Impresión promocional o publicitaria",
+     1,
+     "Servicio de ploteo a color en papel bond (2,1 metro lineal), imagen y texto, destinado a afiches, infografías de apoyo y señalética pedagógica utilizada durante las estaciones educativas y actividades comunitarias del proyecto. (adjuntar cotización)."
+    ],
+    [
+     "82121505",
+     "Impresión promocional o publicitaria",
+     1000,
+     "Papel couché glossy tamaño oficio, gramaje 170 g, destinado como soporte para 100 unidades de material pedagógico impreso a color por una cara. (adjuntar cotización)."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1182705-206-COT26",
+   "sin_detalle": false,
+   "descripcion": "Se solicita el servicio de impresión de trípticos, tarjetas y afiches, para actividad pedagógica   del proyecto  Vinculación con el Medio: “Aysén Cuida a sus Mascotas, Educación Comunitaria para la Prevención y Respuesta Inicial ante Urgencias Veterinarias”, de la carrera TNS en Veterinaria y Producción Agrícola del CFT de la Región de Aysén. Los productos deben ser entregado en oficina ubicada en José miguel Carrera 133, Coyhaique",
    "en_gracia": false,
    "desaparecida_iso": ""
   },
@@ -942,6 +984,24 @@
   }
  ],
  "historial": [
+  {
+   "codigo": "973172-4-COT26",
+   "nombre": "ALMUERZO CAMPESTRE OFICINA DE BIENESTAR Y CALIDAD DE VIDA 2026",
+   "organismo": "SII Oficina de Bienestar",
+   "monto": 1500000,
+   "cierre_iso": "2026-11-13T12:00:00-03:00",
+   "tipo": "POSIBLE",
+   "motivos": [
+    "radio"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=973172-4-COT26",
+   "primera_vista_iso": "2026-11-12T09:58:37-03:00",
+   "removida_iso": "2026-11-13T13:00:24-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
   {
    "codigo": "2713-1368-COT26",
    "nombre": " sellos de género- Folio 1394 - DIDECO",
@@ -1430,26 +1490,6 @@
     "publicitaria"
    ],
    "link": "https://buscador.mercadopublico.cl/ficha?code=1521-86-COT26",
-   "primera_vista_iso": "2026-11-05T14:29:51-03:00",
-   "removida_iso": "2026-11-10T19:26:29-03:00",
-   "estado_api": "",
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "1428275-48-COT26",
-   "nombre": "IMPRESIÓN DE PENDONES",
-   "organismo": "SERVICIO NACIONAL DEL PATRIMONIO CULTURAL",
-   "monto": 160000,
-   "cierre_iso": "2026-11-06T12:50:00-03:00",
-   "tipo": "POSIBLE",
-   "motivos": [
-    "difusión",
-    "publicitario",
-    "publicitarios"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1428275-48-COT26",
    "primera_vista_iso": "2026-11-05T14:29:51-03:00",
    "removida_iso": "2026-11-10T19:26:29-03:00",
    "estado_api": "",
