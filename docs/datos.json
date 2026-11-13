@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-11-13T18:00:26.334102-03:00",
+ "actualizado": "2026-11-13T19:00:27.702777-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
- "total_region": 348,
+ "total_region": 339,
  "rubros": {
   "80141600": "Ventas y marketing",
   "82101600": "Publicidad en medios no impresos",
@@ -385,7 +385,7 @@
    "motivos": [
     "Ventas y marketing"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "1201-203-COT26",
    "nombre": "SERVICIO DE PRODUCCIÓN EVENTOS JUEGOS DEPORTIVOS ESCOLARES SUB 10, SUB 12 Y JUVENIL, COYHAIQUE Y AYSÉN",
    "organismo": "INSTITUTO NACIONAL DE DEPORTES DE CHILE",
@@ -987,7 +987,7 @@
     "avisos",
     "publicidad"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "1428-21-COT26",
    "nombre": "PUBLICACIÓN DE DOS AVISOS EN DIARIO DE CIRCULACIÓN REGIONAL PARA SERNAPESCA, DIRECCIÓN REGIONAL DE AYSÉN, RELATIVOS AL PROCESO DE ASIGNACIÓN DE LA CALETA ESTER ÁLVAREZ, COMUNA DE GUAITECAS.",
    "organismo": "Servicio Nacional de Pesca y Acuicultura",
@@ -1045,7 +1045,7 @@
    "motivos": [
     "registro fotográfico"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "1057062-531-COT26",
    "nombre": "Adquisición de equipamiento para laboratorio de química, biología y genética según fisabs 2455_URY 21991",
    "organismo": "UNIVERSIDAD DE AYSEN",
@@ -1121,7 +1121,7 @@
    "motivos": [
     "registro fotográfico"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "885-925-COT26",
    "nombre": "La Contraloria requiere contratar el mantenimiento correctivo del vehículo Nissan X-Trail, patente DTDG-37, de la Contraloría Regional de Aysé",
    "organismo": "CONTRALORIA GENERAL DE LA REPUBLICA",

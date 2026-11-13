@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-11-13T18:00:26.334102-03:00",
+ "actualizado": "2026-11-13T19:00:27.702777-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
- "total_region": 348,
+ "total_region": 339,
  "rubros": {
   "25172700": "Aire acondicionado",
   "25173900": "Componentes eléctricos",
@@ -19,35 +19,6 @@
   "39121400": "Conectores, enchufes y terminales"
  },
  "filas": [
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "aire acondicionado"
-   ],
-   "nueva": false,
-   "codigo": "1078779-25-COT26",
-   "nombre": "Aire acondicionado",
-   "organismo": "SERVICIO DE SALUD AYSEN CARLOS IBANEZ DEL CAMPO",
-   "unidad": "Fondos Extrapresupuestarios",
-   "monto": 303990,
-   "cierre_iso": "2026-11-13T18:00:00-03:00",
-   "publicacion": "12-11 10:41",
-   "publicacion_iso": "2026-11-12T10:41:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "73161517",
-     "Servicios de fabricación de equipo de aire acondicionado, ventilación o refrigeración",
-     1,
-     "Adquisición de 1 equipo de aire acondicionado tipo Split muro, tecnología Inverter, frío/calor, con\ncapacidad mínima de 9.000 BTU\nnota: Revisar especificaciones técnicas adjuntas, Solo serán evaluadas las ofertas que cumplan con las especificaciones técnicas mínimas solicitadas y ajustarse al PRESUPUESTO DISPONIBLE"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1078779-25-COT26",
-   "sin_detalle": false,
-   "descripcion": "Adquisición de 1 equipo de aire acondicionado tipo Split muro, tecnología Inverter, frío/calor, con capacidad mínima de 9.000 BTU, destinado a dependencias del Proyecto Mujeres Koyun.\nREVISAR ESPECIFICACIONES TECNICAS Y AJUSTARSE AL PRESUPUESTO",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
   {
    "tipo": "OPORTUNIDAD",
    "motivos": [
@@ -111,7 +82,7 @@
    "motivos": [
     "Materiales de física de electricidad"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "4649-102-COT26",
    "nombre": "Adquisición de Generador y Betonera A.I.Coyhaique",
    "organismo": "CORP NACIONAL FORESTAL",
@@ -146,7 +117,7 @@
    "motivos": [
     "enchufes"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "3950-736-COT26",
    "nombre": "PRODUCCION DE EVENTO \"PRIMER CONSEJO TECNICO DE GESTORES DE CASO\"",
    "organismo": "DIRECCION SALUD RURAL",
@@ -175,7 +146,7 @@
    "motivos": [
     "alargador"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "1057062-533-COT26",
    "nombre": "Adquisición de insumos de laboratorio para el Centro de Simulación, FISABS N°1872 – URY 2457",
    "organismo": "UNIVERSIDAD DE AYSEN",
@@ -947,7 +918,7 @@
    "motivos": [
     "iluminación"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "4066-508-COT26",
    "nombre": "Compra de productos de ornamentación para actividades comunitarias de Navidad, programadas por Oficina Local de la Niñez.",
    "organismo": "I MUNICIPALIDAD RIO IBANEZ",
@@ -2374,6 +2345,24 @@
   }
  ],
  "historial": [
+  {
+   "codigo": "1078779-25-COT26",
+   "nombre": "Aire acondicionado",
+   "organismo": "SERVICIO DE SALUD AYSEN CARLOS IBANEZ DEL CAMPO",
+   "monto": 303990,
+   "cierre_iso": "2026-11-13T18:00:00-03:00",
+   "tipo": "POSIBLE",
+   "motivos": [
+    "aire acondicionado"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1078779-25-COT26",
+   "primera_vista_iso": "2026-11-12T13:45:25-03:00",
+   "removida_iso": "2026-11-13T19:00:27-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
   {
    "codigo": "1691-2061-COT26",
    "nombre": "EFCC- ASAS DE RECECTOSCOPIO COD.: 27050 G K.STORZ UD PARA REPOSICIÓN DE INS. CLINICOS HRC ",
