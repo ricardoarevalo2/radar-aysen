@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-13T13:00:24.936374-03:00",
+ "actualizado": "2026-11-13T14:00:24.012943-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
  "total_region": 329,
@@ -14,117 +14,6 @@
   "83121700": "Comunicación social y de masas"
  },
  "filas": [
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "fotografía"
-   ],
-   "nueva": true,
-   "codigo": "3949-300-COT26",
-   "nombre": "Insumos para uso en atenciones unidad dental",
-   "organismo": "CONSULTORIO GENERAL URBANO DR ALEJANDRO GUTIERREZ",
-   "unidad": "ID 3949 - CESFAM Dr Alejandro Gutiérrez",
-   "monto": 7200000,
-   "cierre_iso": "2026-11-13T13:00:00-03:00",
-   "publicacion": "12-11 12:42",
-   "publicacion_iso": "2026-11-12T12:42:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "42151625",
-     "Instrumentos de higiene dental",
-     6,
-     "Formocresol. Solución. Desinfectante, antiséptico y momificante pulpar. Presentación: frasco mínimo 10 ml y máximo 20 ml. Fecha de vencimiento posterior a marzo 2028."
-    ],
-    [
-     "42151675",
-     "Kits de restauración dental",
-     10,
-     "Material restaurador a base de ionómero de vidrio de alta resistencia a la flexión; combinación de vidrio de silicato de aluminio y ácido poliacrílico; presentación en frasco con Polvo 12,5 g y frasco con Líquido 8,5 ml; con cuchara dosificadora y block de mezcla. Tipo Ketac Molar. De preferencia incluir fotografía del producto. Fecha de vencimiento posterior a marzo 2028."
-    ],
-    [
-     "42151681",
-     "Sets de anestesia odontológica o accesorios",
-     100,
-     "Anestesia local 3%. Cada tubo de 1,8 ml debe contener 54 mg de Mepivacaína sin vasoconstrictor al 3%. De preferencia incluir fotografía del producto. Fecha de vencimiento posterior a marzo 2028"
-    ],
-    [
-     "42152012",
-     "Piezas o kits de aparatos para radiografías odontológicas o accesorios",
-     2,
-     "Placa de fósforo para radiografía dental digital, para radiografía bitewing o aleta mordida, tamaño N°3, debe tener impreso en forma indeleble el tamaño de la placa, la marca de la placa y el lado opuesto al tubo. Debe incluir fotografía del producto."
-    ],
-    [
-     "42152223",
-     "Unidades de procesado de resinas odontológicas o accesorios",
-     60,
-     "Jeringa. Resina compuesta de fotocurado para restauración universal de anteriores y posteriores; fabricada con resinas bis-GMA, UDMA y bis-EMA; relleno inorgánico 60% volúmen de zirconio/sílice, rango de tamaño de partícula de 0.01 a 3.5 µm, radiopaco. Presentación: jeringa 4 gramos. Tipo Filtek Z250. Disponibilidad de elección colores y al menos colores A1, A3, A3.5, A2, A4. De preferencia incluir fotografía del producto. Vencimiento posterior a marzo 2028."
-    ],
-    [
-     "42152223",
-     "Unidades de procesado de resinas odontológicas o accesorios",
-     40,
-     "Jeringa. Resina compuesta fluida (flowable) de fotocurado, mínima contracción, sellado marginal y fácil adaptación; nanorrelleno inorgánico zirconio/sílice 65% peso (46% volumen), partícula 4-20 nm; alta radiopacidad, retención de brillo y resistencia al desgaste. Jeringa 2 g con puntas dispensadoras 45° ergonómicas; tonos al menos A1, A2, A3 y A3.5; tipo Filtek Z350 XT Flow (3M) o equivalente superior. Vencimiento = 24 meses desde recepción conforme de orden de compra."
-    ],
-    [
-     "42152419",
-     "Materiales de pasta de cinc óxido eugenol para impresión dental",
-     10,
-     "Eugenol. Solución. Presentación: frasco de vidrio color ámbar, de 30 ml. Vencimiento posterior a marzo 2028."
-    ],
-    [
-     "42152453",
-     "Compuestos de restauración dental",
-     1,
-     "Cemento de ionómero de vidrio convencional autopolimerizable (Tipo I) para cementación definitiva, radiopaco, biocompatible, con liberación de flúor, adhesión química y película =15 µm. Mezcla: 30s, trabajo: 3:30m, fraguado: 7:00m. Kit polvo/líquido 30g/12ml (o 15g/6ml), tipo Ketac Cem Easymix o equivalente. Incluir foto. Vencimiento = marzo 2028."
-    ],
-    [
-     "42152714",
-     "Fundas de retenedores ortodónticos",
-     500,
-     "Funda para placas fosfóricas de adulto; desechables; con cierre hermético autoadhesivo; compatible con placa tamaño N°3. De preferencia incluir fotografía del producto. Fecha de vencimiento posterior a marzo 2028"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=3949-300-COT26",
-   "sin_detalle": false,
-   "descripcion": "Insumos para uso en atenciones unidad dental",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "audiovisual",
-    "comunicacional",
-    "difusión",
-    "radiales",
-    "redes sociales",
-    "transmisión en vivo"
-   ],
-   "nueva": false,
-   "codigo": "2495-652-COT26",
-   "nombre": "SERVICIO DE COBERTURA AUDIOVISUAL, TRANSMISIÓN Y DIFUSIÓN DE LA EXPO GANADERA COYHAIQUE 2026",
-   "organismo": "I MUNICIPALIDAD DE COYHAIQUE",
-   "unidad": "DIRECCION DESARROLLO COMUNITARIO",
-   "monto": 5500000,
-   "cierre_iso": "2026-11-13T13:00:00-03:00",
-   "publicacion": "11-11 17:38",
-   "publicacion_iso": "2026-11-11T17:38:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "43223207",
-     "Sistema de transmisión por secuencias de video",
-     1,
-     "Servicio integral que contempla difusión previa del evento, gestión de dos entrevistas radiales, cobertura audiovisual y fotográfica presencial durante los días 27, 28 y 29 de noviembre de 2026, generación de contenidos para redes sociales institucionales, entrevistas a 40 expositores, realización de al menos cuatro transmisiones en vivo, entrega de mínimo 150 fotografías editadas, videos de actividades relevantes, banco audiovisual organizado y video resumen institucional de 3 a 5 minutos."
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=2495-652-COT26",
-   "sin_detalle": false,
-   "descripcion": "La Municipalidad de Coyhaique requiere contratar un servicio especializado de producción y cobertura audiovisual, difusión comunicacional y transmisión en vivo para la Expo Ganadera Coyhaique 2026, actividad que se realizará los días 27, 28 y 29 de noviembre de 2026, orientada a promover el desarrollo agropecuario comunal, los emprendimientos rurales, la identidad cultural campesina y el desarrollo económico local.",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
   {
    "tipo": "POSIBLE",
    "motivos": [
@@ -178,7 +67,7 @@
     "publicidad",
     "publicitarios"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "734-216-COT26",
    "nombre": "Material gráfico ",
    "organismo": "SERVICIO DE SALUD AYSEN CARLOS IBANEZ DEL CAMPO",
@@ -332,7 +221,7 @@
    "motivos": [
     "radio"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "1057062-527-COT26",
    "nombre": "Adquisición materiales e insumos para taller _ Según FISABS 2465_URY23991.",
    "organismo": "UNIVERSIDAD DE AYSEN",
@@ -550,6 +439,36 @@
   {
    "tipo": "POSIBLE",
    "motivos": [
+    "publicidad",
+    "publicitarios"
+   ],
+   "nueva": true,
+   "codigo": "1182705-209-COT26",
+   "nombre": "ADQUISICION DE CREDENCIALES , FOLIO N°227",
+   "organismo": "CENTRO DE FORMACIÓN TÉCNICA DE LA REGIÓN DE AYSÉN DEL GENERAL CARLOS I",
+   "unidad": "FINANZAS",
+   "monto": 500000,
+   "cierre_iso": "2026-11-14T13:00:00-03:00",
+   "publicacion": "13-11 12:56",
+   "publicacion_iso": "2026-11-13T12:56:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "82101507",
+     "Folletos y catálogos publicitarios, servicios de publicidad y distribución",
+     40,
+     "CREDENCIALES PVC CON LANYARD + PORTA CREDENCIAL (AZUL) (los diseños se compartirán al proveedor que se adjudique la compra)"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1182705-209-COT26",
+   "sin_detalle": false,
+   "descripcion": "Se requiere credenciales para ceremonia TNS en Enfermería a realizar el 25 de noviembre del 2026. Los productos deben ser entregados en oficina ubicado en Sargento Aldea 533, Puerto Aysén",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
     "aviso",
     "avisos"
    ],
@@ -701,7 +620,7 @@
     "publicidad",
     "publicitarios"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "2495-655-COT26",
    "nombre": "set de herramientas ludicas Centro de las Mujeres",
    "organismo": "I MUNICIPALIDAD DE COYHAIQUE",
@@ -984,6 +903,47 @@
   }
  ],
  "historial": [
+  {
+   "codigo": "2495-652-COT26",
+   "nombre": "SERVICIO DE COBERTURA AUDIOVISUAL, TRANSMISIÓN Y DIFUSIÓN DE LA EXPO GANADERA COYHAIQUE 2026",
+   "organismo": "I MUNICIPALIDAD DE COYHAIQUE",
+   "monto": 5500000,
+   "cierre_iso": "2026-11-13T13:00:00-03:00",
+   "tipo": "POSIBLE",
+   "motivos": [
+    "audiovisual",
+    "comunicacional",
+    "difusión",
+    "radiales",
+    "redes sociales",
+    "transmisión en vivo"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=2495-652-COT26",
+   "primera_vista_iso": "2026-11-12T09:58:37-03:00",
+   "removida_iso": "2026-11-13T14:00:24-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
+  {
+   "codigo": "3949-300-COT26",
+   "nombre": "Insumos para uso en atenciones unidad dental",
+   "organismo": "CONSULTORIO GENERAL URBANO DR ALEJANDRO GUTIERREZ",
+   "monto": 7200000,
+   "cierre_iso": "2026-11-13T13:00:00-03:00",
+   "tipo": "POSIBLE",
+   "motivos": [
+    "fotografía"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=3949-300-COT26",
+   "primera_vista_iso": "2026-11-12T13:45:25-03:00",
+   "removida_iso": "2026-11-13T14:00:24-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
   {
    "codigo": "973172-4-COT26",
    "nombre": "ALMUERZO CAMPESTRE OFICINA DE BIENESTAR Y CALIDAD DE VIDA 2026",
@@ -1454,42 +1414,6 @@
     "audiovisual"
    ],
    "link": "https://buscador.mercadopublico.cl/ficha?code=1080289-30-COT26",
-   "primera_vista_iso": "2026-11-05T14:29:51-03:00",
-   "removida_iso": "2026-11-10T19:26:29-03:00",
-   "estado_api": "",
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "791766-36-COT26",
-   "nombre": "Servicio de reparación de cubierta de bodega y mantención de cuatro equipos de aire acondicionado tipo split del CAVD de Coyhaique",
-   "organismo": "SUBSECRETARIA DE PREVENCION DEL DELITO",
-   "monto": 1500000,
-   "cierre_iso": "2026-11-06T14:00:00-03:00",
-   "tipo": "POSIBLE",
-   "motivos": [
-    "registro fotográfico"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=791766-36-COT26",
-   "primera_vista_iso": "2026-11-04T19:43:04-03:00",
-   "removida_iso": "2026-11-10T19:26:29-03:00",
-   "estado_api": "",
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "1521-86-COT26",
-   "nombre": "Material Grafico asociado a la Feria de Buenas Practicas de Desarrollo Profesional Docente",
-   "organismo": "Departamento Provincial de Coyhaique",
-   "monto": 1800000,
-   "cierre_iso": "2026-11-06T14:00:00-03:00",
-   "tipo": "POSIBLE",
-   "motivos": [
-    "publicitaria"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1521-86-COT26",
    "primera_vista_iso": "2026-11-05T14:29:51-03:00",
    "removida_iso": "2026-11-10T19:26:29-03:00",
    "estado_api": "",

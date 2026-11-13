@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-13T13:00:24.936374-03:00",
+ "actualizado": "2026-11-13T14:00:24.012943-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
  "total_region": 329,
@@ -24,7 +24,7 @@
    "motivos": [
     "iluminación"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "1092-88-COT26",
    "nombre": "SIC N°453 SIRE N°437 Materiales de oficina",
    "organismo": "CORP NACIONAL FORESTAL",
@@ -417,7 +417,7 @@
    "motivos": [
     "aire acondicionado"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "1078779-25-COT26",
    "nombre": "Aire acondicionado",
    "organismo": "SERVICIO DE SALUD AYSEN CARLOS IBANEZ DEL CAMPO",
@@ -1358,11 +1358,240 @@
    "desaparecida_iso": ""
   },
   {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Cajas y accesorios eléctricos",
+    "Conectores, enchufes y terminales",
+    "Interruptores, controles y relés"
+   ],
+   "nueva": true,
+   "codigo": "1092-89-COT26",
+   "nombre": " SIC N°464 SIRE N°449 Materiales de construcción DEPRIF",
+   "organismo": "CORP NACIONAL FORESTAL",
+   "unidad": "XI Región - Oficina Regional de Aysén",
+   "monto": 2382419,
+   "cierre_iso": "2026-11-16T08:30:00-03:00",
+   "publicacion": "13-11 12:57",
+   "publicacion_iso": "2026-11-13T12:57:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "12163101",
+     "Aditivos Anti saca-arena",
+     1,
+     "Aditivo impermeabilizante líquido igual o equivalente sika."
+    ],
+    [
+     "13101905",
+     "Melamina (MF)",
+     9,
+     "Terciado ranurado revest pino colonial 9 x 122 x 244cm"
+    ],
+    [
+     "13101905",
+     "Melamina (MF)",
+     1,
+     "OSB 9,5mm 122x244 APA similar o equivalente a Protec"
+    ],
+    [
+     "13102013",
+     "Policarbonato (PC)",
+     1,
+     "Policarbonato Alveolar 4 mm 210 x 580cm Transparente"
+    ],
+    [
+     "13111016",
+     "Polietileno",
+     1,
+     "Polietileno transparente 4x10m (40m2)"
+    ],
+    [
+     "30102903",
+     "Pilares de metal",
+     4,
+     "Pilar de fierro 15x15cm de 3 ms en FE 8 mm"
+    ],
+    [
+     "30103603",
+     "Madera de encuadre",
+     30,
+     "Madera pino cepillada 2x3x3,20"
+    ],
+    [
+     "30103603",
+     "Madera de encuadre",
+     6,
+     "Madera pino verde 2 x 3 x 3,20 bruto"
+    ],
+    [
+     "30111601",
+     "Cemento",
+     10,
+     "Cemento azul PCR 25kg (el saco azul (CPP40) es un cemento Portland Puzolánico resistente a sulfatos y ambientes húmedos o salinos)"
+    ],
+    [
+     "30111601",
+     "Cemento",
+     35,
+     "Cemento rojo alta resistencia PCR 25kg (el saco rojo (CPN40) es un cemento Portland Normal de alta resistencia inicial para uso general)"
+    ],
+    [
+     "30111601",
+     "Cemento",
+     50,
+     "Sacos de hormigón preparado H20 25kg"
+    ],
+    [
+     "31161506",
+     "Tornillos roscalata",
+     1,
+     "Tornillo autoperforante hexagonal punta espada 10 - 12 x1 1/2  caja/bolsa 500u c/u"
+    ],
+    [
+     "31161508",
+     "Tornillos para madera",
+     2,
+     "Tornillos volcanita CRS 6 x 2 caja/bolsa de 500u c/u"
+    ],
+    [
+     "31161508",
+     "Tornillos para madera",
+     2,
+     "Tornillo Volcanita CRS 8 x 3 caja/bolsa 500u c/u"
+    ],
+    [
+     "31201515",
+     "Cintas de papel",
+     3,
+     "Cinta masking tape (Enmascarar) 36mm x 40m"
+    ],
+    [
+     "31211501",
+     "Pinturas al esmalte",
+     3,
+     "Esmalte agua color blanco Acabado Semibrillante\nAntimoho\nInterior y exterior\nCon protección UV\nResistente al agua\nSuperficie de aplicación Madera, Yeso, Concreto, Hormigón\nExtra lavable, alto rendimiento y con antihongos."
+    ],
+    [
+     "31211705",
+     "Barniza de laca",
+     2,
+     "Barniz marino brillante natural igual o equivalente ceresita"
+    ],
+    [
+     "31211904",
+     "Brochas",
+     4,
+     "Brochas 4\""
+    ],
+    [
+     "31211904",
+     "Brochas",
+     4,
+     "Brochas 2\""
+    ],
+    [
+     "31211906",
+     "Rodillos de pintar",
+     4,
+     "Rodillos chiporro 18/7 igual o equivalente a lizcal"
+    ],
+    [
+     "39101608",
+     "Focos cialiticos",
+     7,
+     "Foco Led Sobrepuestos Redondos 18w 6500k LF.\nCon certificación SEC."
+    ],
+    [
+     "39121205",
+     "Canaletas para cables",
+     10,
+     "Canaleta eléctricas 20x10x2mt con adhesivo.\nCon certificación SEC."
+    ],
+    [
+     "39121310",
+     "Cajas de uso general",
+     7,
+     "Caja Chuqui Plástica Libre de Halógenos 125x81x45.\nCon certificación SEC."
+    ],
+    [
+     "39121424",
+     "Tapas de tablero de bornes",
+     1,
+     "Tablero eléctrico embutido con puerta transparente 4 polos Grado de protección IP\tIP 42.\nCon certificación SEC"
+    ],
+    [
+     "39121511",
+     "Interruptores variables",
+     1,
+     "Interruptor Diferencial 2x25A 30ma equivalente a Stanford.\nCon certificación SEC."
+    ],
+    [
+     "39121511",
+     "Interruptores variables",
+     5,
+     "Interruptor doble 9/15 ARN LUZICA PU1200. \nCon certificación SEC."
+    ],
+    [
+     "39121511",
+     "Interruptores variables",
+     2,
+     "Interruptor simple 9/12 ARN LUZICA PU1100.\nCon certificación SEC."
+    ],
+    [
+     "40101825",
+     "Calentadores de agua de uso doméstico",
+     1,
+     "Calefón 11 litros igual o equivalente a ION MASTER SPLENDID\nEncendido automático\n6 sistema de seguridad\nAjuste de temperatura\nEncendido electrónico\nAlimentación Gas Licuado\nCaudal de agua (L/min) 11 l/min\nPotencia 18 kW\nTipo de encendido Ionizado\nIncluye flexibles de 200mm\nTiro Natural"
+    ],
+    [
+     "40142610",
+     "Acoplamientos de tubo",
+     25,
+     "Unión americana PPR 25mm"
+    ],
+    [
+     "40142612",
+     "Adaptadores de tubo",
+     10,
+     "Tubos PPR 25mm x 6m PN20"
+    ],
+    [
+     "40142613",
+     "Conectores de tubo",
+     10,
+     "Llave paso PPR 25mm cromo"
+    ],
+    [
+     "40142613",
+     "Conectores de tubo",
+     30,
+     "Copla 25mm PPR"
+    ],
+    [
+     "40142613",
+     "Conectores de tubo",
+     30,
+     "Terminal 25 x 3/4 HE PPR"
+    ],
+    [
+     "40142613",
+     "Conectores de tubo",
+     30,
+     "Terminal 25 x 3/4 HI PPR"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1092-89-COT26",
+   "sin_detalle": false,
+   "descripcion": "La Corporación Nacional Forestal por medio del Departamento de Protección Contra Incendios Forestales Región de Aysén, requiere la adquisición de Materiales de Construcción para las Brigadas de Coyhaique y Chile Chico Región de Aysén. No se cancela costos asociados al flete. (Ver especificaciones técnicas adjuntas).",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
    "tipo": "POSIBLE",
    "motivos": [
     "eléctricos"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "3540-316-COT26",
    "nombre": "Mandril, estación de soldadura, detector cortocircuito y kit manómetro (P.2529)",
    "organismo": "Ejercito de Chile",
@@ -1500,6 +1729,209 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=1691-2103-COT26",
    "sin_detalle": false,
    "descripcion": "TAPP - ALARGADOR ARTERIAL 100 CM  M/H.\nLOS PRECIOS OFERTADOS DEBEN INCLUIR TODOS LOS COSTOS ASOCIADOS, INCLUDIOS FLETES HASTA LA \nDIRECCIÓN DE DESPACHO ESTABLECIDA.LAS PROPUESTAS DEBEN AJUSTARSE ESTRÍCTAMENTE A LAS \nCARACTERÍSTICAS TÉCNICAS INDICADAS EN CADA REQUERIMIENTO. SE SOLICITA ADJUNTAR FICHA TÉCNICA\nCORRESPONDIENTE A LOS PRODUCTOS O SERVICIOS OFRECIDOS. SE SOLICITA COTIZACIÓN POR 30 DÍAS. \nSE SOLICITA 1 GUÍA DE DESPACHO DENTRO DE LA CAJA.",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "ampolletas"
+   ],
+   "nueva": true,
+   "codigo": "2495-658-COT26",
+   "nombre": "MATERIALES ARREGLOS ",
+   "organismo": "I MUNICIPALIDAD DE COYHAIQUE",
+   "unidad": "DIRECCION DESARROLLO COMUNITARIO",
+   "monto": 1800000,
+   "cierre_iso": "2026-11-16T13:00:00-03:00",
+   "publicacion": "13-11 13:24",
+   "publicacion_iso": "2026-11-13T13:24:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "27112103",
+     "Abrazaderas",
+     5,
+     "ABRAZADERA 20 MM"
+    ],
+    [
+     "30102212",
+     "Plancha de cinc",
+     2,
+     "PLANCHA ZINC 5V 2 MTS"
+    ],
+    [
+     "30103606",
+     "Armazones de madera",
+     8,
+     "PLANCHAS AGLOMERADO O MDF DESNUDO NATURAL DE 3 MM O MAS 152X244 CM"
+    ],
+    [
+     "30103606",
+     "Armazones de madera",
+     18,
+     "MADERA 2X3"
+    ],
+    [
+     "30103606",
+     "Armazones de madera",
+     12,
+     "MADERA SECA CEPILLADA 1X8\""
+    ],
+    [
+     "30103606",
+     "Armazones de madera",
+     12,
+     "MADERA 2X3\""
+    ],
+    [
+     "30171609",
+     "Ventanas fijas",
+     1,
+     "VENTANA 95 X 116 CM"
+    ],
+    [
+     "31161503",
+     "Clavo-tornillo",
+     2,
+     "CLAVO 4\""
+    ],
+    [
+     "31161508",
+     "Tornillos para madera",
+     2,
+     "CAJA TORNILLOS 3X8 (250 UNIDADES)"
+    ],
+    [
+     "31161508",
+     "Tornillos para madera",
+     1,
+     "CAJA DE TORNILLOS 3X8 (100 UNIDADES)"
+    ],
+    [
+     "31161508",
+     "Tornillos para madera",
+     1,
+     "CAJA TORNILLO 1 1/2\""
+    ],
+    [
+     "31211904",
+     "Brochas",
+     4,
+     "BROCHAS 3\""
+    ],
+    [
+     "31211906",
+     "Rodillos de pintar",
+     4,
+     "RODILLO"
+    ],
+    [
+     "39101601",
+     "ampolletas halógenas",
+     5,
+     "AMPOLLETAS"
+    ],
+    [
+     "40141740",
+     "Llaves de combustible",
+     1,
+     "LLAVE DE CORTE EXTERIOR/ LLAVE DE PASO BOLA METALICA A 20 MM"
+    ],
+    [
+     "40141740",
+     "Llaves de combustible",
+     1,
+     "LLAVE DE CORTE INTERIOR 1/2"
+    ],
+    [
+     "40141740",
+     "Llaves de combustible",
+     1,
+     "LLAVE DE LAVAMANOS"
+    ],
+    [
+     "40142320",
+     "Uniones de tubería",
+     1,
+     "UNION COPLA 20 MM"
+    ],
+    [
+     "40142320",
+     "Uniones de tubería",
+     2,
+     "CODOS HI 1/2"
+    ],
+    [
+     "40142320",
+     "Uniones de tubería",
+     4,
+     "T 20 MM 1/2"
+    ],
+    [
+     "40142320",
+     "Uniones de tubería",
+     2,
+     "FLEXIBLES"
+    ],
+    [
+     "40142320",
+     "Uniones de tubería",
+     1,
+     "VALVULA DE CORTE BAÑO 1/2"
+    ],
+    [
+     "40142320",
+     "Uniones de tubería",
+     2,
+     "TERMINAL ADAPTADOR 20 MM X 1/2"
+    ],
+    [
+     "46171501",
+     "Candados",
+     2,
+     "CANDADOS 40 MM"
+    ],
+    [
+     "82121903",
+     "Encuadernación con cola fría o pegamento",
+     1,
+     "COLA FRIA 1 LITRO"
+    ],
+    [
+     "86131502",
+     "Pintura",
+     1,
+     "GALON DE BARNIZ NATURAL"
+    ],
+    [
+     "86131502",
+     "Pintura",
+     1,
+     "TINETA DE COLOR VERDE"
+    ],
+    [
+     "86131502",
+     "Pintura",
+     1,
+     "TINETA COLOR NEGRO"
+    ],
+    [
+     "86131502",
+     "Pintura",
+     1,
+     "GALON COLOR BLANCO"
+    ],
+    [
+     "86131502",
+     "Pintura",
+     3,
+     "GALON BARNIZ COLOR NOGAL"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=2495-658-COT26",
+   "sin_detalle": false,
+   "descripcion": "SE REQUIERE LA COMPAR DE MATERIALES PARA ARREGLOS DE SALAS MUSEOGRAFICAS COMO LLAVES DE CORTE EXTERIOR, COPLAS, CLAVOS, PLANCHAS DE ZINC, ENTRE OTROS, SE PREVILEGIARA PROVEEDOR DE LA COMUNA DE COYHAIQUE CON DISPONIBILIDAD INMEDIATA Y DISPOSICION A CAMBIOS.",
    "en_gracia": false,
    "desaparecida_iso": ""
   },
@@ -1684,35 +2116,6 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=5019-66-COT26",
    "sin_detalle": false,
    "descripcion": "Adquisición de elementos de construcción para el CCM \"Coyhaique\". Las ofertas serán declaradas inadmisibles cuando: Cotización sobrepase presupuesto disponible, oferten elementos de construcción que no sean los solicitados, oferta considere flete aparte y exceder plazo de entrega. Características técnicas solicitadas en anexo adjunto. Se deberá postular por la totalidad de los insumos. El retiro o entrega debe ser en la ciudad de Coyhaique.",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "eléctrico"
-   ],
-   "nueva": true,
-   "codigo": "911089-110-COT26",
-   "nombre": "ADQUISICION DEL SERVICIO PARA CONSTRUCCION DE PORTON ELECTRICO VEHICULAR Y CIERRE PERIMETRAL EN LA POBLACION DE SUBOFICIALES EN LA LOCALIDAD DE COCHRANE",
-   "organismo": "Zona de Bienestar \"Coyhaique\"",
-   "unidad": "Zona de Bienestar Coyhaique",
-   "monto": 7000000,
-   "cierre_iso": "2026-11-24T10:00:00-03:00",
-   "publicacion": "13-11 12:33",
-   "publicacion_iso": "2026-11-13T12:33:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "72102504",
-     "Construcción de muros de contención",
-     1,
-     "Adquisicion del servicio de construccion de:\n\nUn portón corredero de fierro de 5.00mt. de largo x 2.00mt. de alto.\nPerfil (postes) de 100x100x3mm.\nUn portón peatonal de 1.00 mt de ancho x 2.00 mt de alto c/ 40 copias de llaves\nReja de fierro, 04 mt de largo x 2.00 mt de alto.\nMotor eléctrico para portón corredero vehicular 2.000 kg. c/40 controles remotos\nConexión eléctrica para portón desde la primera cámara. (50 mtl)\nCierre perimetral 45 mtl de malla acmafor verde\n\nConforme a Bases Tecnicas"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=911089-110-COT26",
-   "sin_detalle": false,
-   "descripcion": "SE SOLICITA LA ADQUISICION DEL SERVICIO PARA CONSTRUCCION DE PORTON ELECTRICO VEHICULAR Y CIERRE PERIMETRAL EN LA POBLACION DE SUBOFICIALES EN LA LOCALIDAD DE COCHRANE, CONFORME A LAS BASES TECNICAS QUE SE ADJUNTAN\n\nVISITA TERRENO EXCLUYENTE JUEVES 19NOV2026 ENTRADA POBLACION MILITAR SUBOFICIALES EN LA LOCALIDAD DE COCHRANE A LAS 10:00HRS\n\nSE SOLICITA LOS ANEXOS QUE SE ADJUNTA (ECONOMICO,DURACION,DECL.JURADA)  PARA LOS OFERENTE POSTULANTES, QUIEN NO LO PRESENTE FIRMADO QUEDA FUERA DE POSTULACIO",
    "en_gracia": false,
    "desaparecida_iso": ""
   },
@@ -2437,24 +2840,6 @@
    ],
    "link": "https://buscador.mercadopublico.cl/ficha?code=2493-109-COT26",
    "primera_vista_iso": "2026-11-05T14:29:51-03:00",
-   "removida_iso": "2026-11-10T19:26:29-03:00",
-   "estado_api": "",
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "791766-36-COT26",
-   "nombre": "Servicio de reparación de cubierta de bodega y mantención de cuatro equipos de aire acondicionado tipo split del CAVD de Coyhaique",
-   "organismo": "SUBSECRETARIA DE PREVENCION DEL DELITO",
-   "monto": 1500000,
-   "cierre_iso": "2026-11-06T14:00:00-03:00",
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Gasfitería, calefacción y aire acondicionado"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=791766-36-COT26",
-   "primera_vista_iso": "2026-11-04T19:43:04-03:00",
    "removida_iso": "2026-11-10T19:26:29-03:00",
    "estado_api": "",
    "adj_nombre": null,
