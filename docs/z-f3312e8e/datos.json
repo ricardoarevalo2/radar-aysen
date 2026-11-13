@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-11-13T07:00:24.089133-03:00",
+ "actualizado": "2026-11-13T08:00:24.403506-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
- "total_region": 324,
+ "total_region": 323,
  "rubros": {
   "25172700": "Aire acondicionado",
   "25173900": "Componentes eléctricos",
@@ -2610,42 +2610,6 @@
    ],
    "link": "https://buscador.mercadopublico.cl/ficha?code=951405-262-COT26",
    "primera_vista_iso": "2026-11-04T14:23:11-03:00",
-   "removida_iso": "2026-11-10T19:26:29-03:00",
-   "estado_api": "",
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "1057062-502-COT26",
-   "nombre": "Adquisición herramientas de construcción e insumos varios carrera T.O. [FISABS 2375, URY 24991]",
-   "organismo": "UNIVERSIDAD DE AYSEN",
-   "monto": 6820000,
-   "cierre_iso": "2026-11-06T08:00:00-03:00",
-   "tipo": "POSIBLE",
-   "motivos": [
-    "eléctrico"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1057062-502-COT26",
-   "primera_vista_iso": "2026-11-03T19:24:45-03:00",
-   "removida_iso": "2026-11-10T19:26:29-03:00",
-   "estado_api": "",
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "1078779-24-COT26",
-   "nombre": "EQUIPO DE AIRE ACONDICIONADO",
-   "organismo": "SERVICIO DE SALUD AYSEN CARLOS IBANEZ DEL CAMPO",
-   "monto": 303990,
-   "cierre_iso": "2026-11-06T07:28:00-03:00",
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Enfriamiento (aires acondicionados)"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1078779-24-COT26",
-   "primera_vista_iso": "2026-10-27T12:27:37-03:00",
    "removida_iso": "2026-11-10T19:26:29-03:00",
    "estado_api": "",
    "adj_nombre": null,
