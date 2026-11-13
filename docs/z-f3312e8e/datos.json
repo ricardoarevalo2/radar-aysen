@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-11-13T08:00:24.403506-03:00",
+ "actualizado": "2026-11-13T09:00:27.330042-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
- "total_region": 323,
+ "total_region": 316,
  "rubros": {
   "25172700": "Aire acondicionado",
   "25173900": "Componentes eléctricos",
@@ -19,83 +19,6 @@
   "39121400": "Conectores, enchufes y terminales"
  },
  "filas": [
-  {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Gasfitería, calefacción y aire acondicionado"
-   ],
-   "nueva": false,
-   "codigo": "886182-252-COT26",
-   "nombre": "Servicio de instalación y mantención preventiva de aires acondicionados x 6 meses [Fisabs 2395]",
-   "organismo": "UNIVERSIDAD DE AYSEN",
-   "unidad": "Universidad de Aysen",
-   "monto": 4460000,
-   "cierre_iso": "2026-11-13T08:00:00-03:00",
-   "publicacion": "05-11 19:05",
-   "publicacion_iso": "2026-11-05T19:05:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "72102302",
-     "Instalación, reparación o mantenimiento de sistemas de calefacción",
-     1,
-     "Instalación completa de equipo de aire acondicionado (disponible) tipo Split Muro/Cassette, incluyendo traslado, montaje, circuito eléctrico dedicado directamente al tablero, recarga de refrigerante según corresponda y puesta en marcha, para el Campus Errázuriz #532, Coyhaique, Uaysén. *La ubicación específica dentro del campus donde se realizará la instalación será informada al proveedor una vez adjudicado el servicio y emitida la respectiva Orden de Compra."
-    ],
-    [
-     "72102302",
-     "Instalación, reparación o mantenimiento de sistemas de calefacción",
-     2,
-     "Instalación completa de equipo de aire acondicionado (disponible) tipo Split Muro/Cassette, incluyendo traslado, montaje, circuito eléctrico dedicado directamente al tablero, recarga de refrigerante según corresponda y puesta en marcha, para el Campus Eusebio Lillo #667, Coyhaique, Uaysén. *La ubicación específica dentro del campus donde se realizará la instalación será informada al proveedor una vez adjudicado el servicio y emitida la respectiva Orden de Compra."
-    ],
-    [
-     "72102302",
-     "Instalación, reparación o mantenimiento de sistemas de calefacción",
-     2,
-     "Instalación completa de equipo de aire acondicionado (disponible) tipo Split Muro/Cassette, incluyendo traslado, montaje, circuito eléctrico dedicado directamente al tablero, recarga de refrigerante según corresponda y puesta en marcha, para el Campus Obispo Vielmo #82, Coyhaique, Uaysén. *La ubicación específica dentro del campus donde se realizará la instalación será informada al proveedor una vez adjudicado el servicio y emitida la respectiva Orden de Compra."
-    ],
-    [
-     "72102302",
-     "Instalación, reparación o mantenimiento de sistemas de calefacción",
-     78,
-     "Servicio de mantención preventiva mensual de 13 equipos de aire acondicionado tipo Split, x un período de 6 meses, correspondientes al Campus Eusebio Lillo N° 667, Coyhaique. Considerar una mantención mensual x equipo, que incluya limpieza general y estructural, inspección mecánica y eléctrica, revisión del circuito de refrigerante, pruebas de funcionamiento y mediciones, conforme EETT adjuntas. Este servicio está sujeto a multas en caso de incumplimiento de las condiciones y plazos establecidos"
-    ],
-    [
-     "72102302",
-     "Instalación, reparación o mantenimiento de sistemas de calefacción",
-     12,
-     "Servicio de mantención preventiva mensual de 2 equipos de aire acondicionado tipo Split, x un período de 6 meses, correspondientes al Campus Eusebio Lillo N° 697, Coyhaique. Considerar una mantención mensual x equipo, que incluya limpieza general y estructural, inspección mecánica y eléctrica, revisión del circuito de refrigerante, pruebas de funcionamiento y mediciones, conforme EETT adjuntas. Este servicio está sujeto a multas en caso de incumplimiento de las condiciones y plazos establecidos."
-    ],
-    [
-     "72102302",
-     "Instalación, reparación o mantenimiento de sistemas de calefacción",
-     6,
-     "Servicio de mantención preventiva mensual de 1 equipo de aire acondicionado tipo Split, x un período de 6 meses, correspondientes al Campus Errázuriz N°532, Coyhaique. Considerar una mantención mensual x el equipo, que incluya limpieza general y estructural, inspección mecánica y eléctrica, revisión del circuito de refrigerante, pruebas de funcionamiento y mediciones, conforme EETT adjuntas. Este servicio está sujeto a multas en caso de incumplimiento de las condiciones y plazos establecidos."
-    ],
-    [
-     "72102302",
-     "Instalación, reparación o mantenimiento de sistemas de calefacción",
-     42,
-     "Servicio de mantención preventiva mensual de 7 equipos de aire acondicionado tipo Split, x un período de 6 meses, correspondientes al Campus Cochrane N°335, Coyhaique. Considerar una mantención mensual x equipo, que incluya limpieza general y estructural, inspección mecánica y eléctrica, revisión del circuito de refrigerante, pruebas de funcionamiento y mediciones, conforme EETT adjuntas. Este servicio está sujeto a multas en caso de incumplimiento de las condiciones y plazos establecidos."
-    ],
-    [
-     "72102302",
-     "Instalación, reparación o mantenimiento de sistemas de calefacción",
-     24,
-     "Servicio de mantención preventiva mensual de 4 equipos de aire acondicionado tipo Split, x un período de 6 meses, en Balmaceda N° 150 (Casa Orquesta), Coyhaique. Considerar una mantención mensual x equipo, que incluya limpieza general y estructural, inspección mecánica y eléctrica, revisión del circuito de refrigerante, pruebas de funcionamiento y mediciones, conforme EETT adjuntas. Este servicio está sujeto a multas en caso de incumplimiento de las condiciones y plazos establecidos."
-    ],
-    [
-     "72102302",
-     "Instalación, reparación o mantenimiento de sistemas de calefacción",
-     6,
-     "Servicio de mantención preventiva mensual de 1 equipo de aire acondicionado tipo Split, x un período de 6 meses, correspondiente en Obispo Vielmo N° 82, Coyhaique. Considerar una mantención mensual x el equipo, que incluya limpieza general y estructural, inspección mecánica y eléctrica, revisión del circuito de refrigerante, pruebas de funcionamiento y mediciones, conforme EETT adjuntas. Este servicio está sujeto a multas en caso de incumplimiento de las condiciones y plazos establecidos."
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=886182-252-COT26",
-   "sin_detalle": false,
-   "descripcion": "La Universidad de Aysén requiere contratar la instalación de 5 equipos de aire acondicionado y la mantención preventiva de equipos existentes en sus dependencias, por un período de 6 meses. El servicio deberá ejecutarse conforme a las condiciones y plazos establecidos en las EETT adjuntas, las que forman parte integral del requerimiento. Se podrá realizar una visita a terreno opcional, antes del cierre del cotizador, para verificar accesos y estado de los equipos, según horario indicado.",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
   {
    "tipo": "POSIBLE",
    "motivos": [
@@ -1903,6 +1826,24 @@
  ],
  "historial": [
   {
+   "codigo": "886182-252-COT26",
+   "nombre": "Servicio de instalación y mantención preventiva de aires acondicionados x 6 meses [Fisabs 2395]",
+   "organismo": "UNIVERSIDAD DE AYSEN",
+   "monto": 4460000,
+   "cierre_iso": "2026-11-13T08:00:00-03:00",
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Gasfitería, calefacción y aire acondicionado"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=886182-252-COT26",
+   "primera_vista_iso": "2026-11-05T19:47:37-03:00",
+   "removida_iso": "2026-11-13T09:00:27-03:00",
+   "estado_api": "",
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
+  {
    "codigo": "4644-129-COT26",
    "nombre": " Mantención infraestructura GORE MAÑIHAULES  SIC: 488 SIRE: 442",
    "organismo": "CORP NACIONAL FORESTAL",
@@ -2573,43 +2514,6 @@
    ],
    "link": "https://buscador.mercadopublico.cl/ficha?code=1233615-937-COT26",
    "primera_vista_iso": "2026-11-05T14:29:51-03:00",
-   "removida_iso": "2026-11-10T19:26:29-03:00",
-   "estado_api": "",
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "886182-239-COT26",
-   "nombre": "Adquisición de 2 estufas de calefacción eléctrica_FISABS 2225",
-   "organismo": "UNIVERSIDAD DE AYSEN",
-   "monto": 360000,
-   "cierre_iso": "2026-11-06T08:30:00-03:00",
-   "tipo": "POSIBLE",
-   "motivos": [
-    "certificación sec",
-    "eléctrico"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=886182-239-COT26",
-   "primera_vista_iso": "2026-10-26T18:06:24-03:00",
-   "removida_iso": "2026-11-10T19:26:29-03:00",
-   "estado_api": "",
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "951405-262-COT26",
-   "nombre": "(F.INT-CC.MANT.CAS.SUBOFLES) JAL_CAJ_ADQ. DE TERMO ELÉCTRICO PARA LA CAFETERÍA DEL CG IV DE.",
-   "organismo": "JEFATURA ADMINISTRATIVA Y LOGISTICA DE LA GUARNICION COYHAIQUE",
-   "monto": 833000,
-   "cierre_iso": "2026-11-06T08:15:00-03:00",
-   "tipo": "POSIBLE",
-   "motivos": [
-    "eléctrico"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=951405-262-COT26",
-   "primera_vista_iso": "2026-11-04T14:23:11-03:00",
    "removida_iso": "2026-11-10T19:26:29-03:00",
    "estado_api": "",
    "adj_nombre": null,

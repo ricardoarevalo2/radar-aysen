@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-11-13T08:00:24.403506-03:00",
+ "actualizado": "2026-11-13T09:00:27.330042-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
- "total_region": 323,
+ "total_region": 316,
  "rubros": {
   "80141600": "Ventas y marketing",
   "82101600": "Publicidad en medios no impresos",
@@ -14,35 +14,6 @@
   "83121700": "Comunicación social y de masas"
  },
  "filas": [
-  {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Inserciones publicitarias en medios"
-   ],
-   "nueva": false,
-   "codigo": "1274667-438-COT26",
-   "nombre": "RVB - SE SOLICITA SERVICIO DE AVISOS RADIALES PARA EL CESFAM DE PUERTO AYSEN",
-   "organismo": "CENTRO DE SALUD FAMILIAR PUERTO AYSÉN",
-   "unidad": "CENTRO DE SALUD FAMILIAR PUERTO AYSÉN",
-   "monto": 342150,
-   "cierre_iso": "2026-11-13T08:00:00-03:00",
-   "publicacion": "11-11 08:39",
-   "publicacion_iso": "2026-11-11T08:39:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "82101901",
-     "Avisos en radio",
-     1,
-     "Se requiere contratar un servicio de difusión de avisos radiales para informar a la comunidad sobre actividades, apertura de agendas médicas, campañas preventivas, prestaciones de salud y otras comunicaciones institucionales del CESFAM Puerto Aysén."
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1274667-438-COT26",
-   "sin_detalle": false,
-   "descripcion": "ADJUNTAR Cotización formal: indicar valor unitario neto por aviso radial, duración incluida en el precio, IVA, nombre de la emisora y vigencia de la oferta. - Ficha técnica del servicio indicando nombre de la emisora, frecuencia radial, cobertura y horarios disponibles para la transmisión.",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
   {
    "tipo": "OPORTUNIDAD",
    "motivos": [
@@ -78,41 +49,6 @@
     "Ventas y marketing"
    ],
    "nueva": true,
-   "codigo": "2713-1368-COT26",
-   "nombre": " sellos de género- Folio 1394 - DIDECO",
-   "organismo": "I MUNICIPALIDAD DE AYSEN",
-   "unidad": "I.MUNICIPALIDAD AYSEN-ADQUISICIONES",
-   "monto": 50000,
-   "cierre_iso": "2026-11-13T09:30:00-03:00",
-   "publicacion": "12-11 09:13",
-   "publicacion_iso": "2026-11-12T09:13:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "80141611",
-     "Personalización de regalos o productos promocionales",
-     6,
-     "Impresión de 6 sellos de género en\nPapel Couché 300 de gramaje en\ntamaño 33x48 cm, destinado a las\norganizaciones y grupos\nparticipantes señalados en la\ndescripción de la adquisición"
-    ],
-    [
-     "80141611",
-     "Personalización de regalos o productos promocionales",
-     43,
-     "Certificados Impresión de 43 certificados en\nopalina, tamaño oficio, destinados a\nreconocer la participación y el\ncompromiso de las personas\nintegrantes de los Consejos Asesores\nPreventivos en Violencia de Género,\nconforme a los nombres\nproporcionados por el Programa"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=2713-1368-COT26",
-   "sin_detalle": false,
-   "descripcion": "Adquisición de sello de genero según anexo adjunto, las ofertas deberán: incluir la totalidad de las características solicitadas, ajustarse al presupuesto disponible, el oferente asumirá COSTO DE TRANSPORTE (no desglosarlo como ítem aparte), debe indicar plazo de entrega (no se aceptara plazo de despacho y el plazo de entrega iniciará el día hábil subsiguiente al envío de la OC). Ofertas que no cumplan con lo anterior serán rechazadas.",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
-  {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Ventas y marketing"
-   ],
-   "nueva": true,
    "codigo": "2495-650-COT26",
    "nombre": "Producción de 2 sesiones de baños de bosque para 20 personas.",
    "organismo": "I MUNICIPALIDAD DE COYHAIQUE",
@@ -133,6 +69,41 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=2495-650-COT26",
    "sin_detalle": false,
    "descripcion": "Producción de 2 sesiones de baños de bosque para 20 personas: debe incluir monitor en baños de bosque o asociado y colación: Pan mas jugo.",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Ventas y marketing"
+   ],
+   "nueva": true,
+   "codigo": "2713-1368-COT26",
+   "nombre": " sellos de género- Folio 1394 - DIDECO",
+   "organismo": "I MUNICIPALIDAD DE AYSEN",
+   "unidad": "I.MUNICIPALIDAD AYSEN-ADQUISICIONES",
+   "monto": 50000,
+   "cierre_iso": "2026-11-13T11:00:00-03:00",
+   "publicacion": "12-11 09:13",
+   "publicacion_iso": "2026-11-12T09:13:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "80141611",
+     "Personalización de regalos o productos promocionales",
+     6,
+     "Impresión de 6 sellos de género en\nPapel Couché 300 de gramaje en\ntamaño 33x48 cm, destinado a las\norganizaciones y grupos\nparticipantes señalados en la\ndescripción de la adquisición"
+    ],
+    [
+     "80141611",
+     "Personalización de regalos o productos promocionales",
+     43,
+     "Certificados Impresión de 43 certificados en\nopalina, tamaño oficio, destinados a\nreconocer la participación y el\ncompromiso de las personas\nintegrantes de los Consejos Asesores\nPreventivos en Violencia de Género,\nconforme a los nombres\nproporcionados por el Programa"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=2713-1368-COT26",
+   "sin_detalle": false,
+   "descripcion": "Adquisición de sello de genero según anexo adjunto, las ofertas deberán: incluir la totalidad de las características solicitadas, ajustarse al presupuesto disponible, el oferente asumirá COSTO DE TRANSPORTE (no desglosarlo como ítem aparte), debe indicar plazo de entrega (no se aceptara plazo de despacho y el plazo de entrega iniciará el día hábil subsiguiente al envío de la OC). Ofertas que no cumplan con lo anterior serán rechazadas.",
    "en_gracia": false,
    "desaparecida_iso": ""
   },
@@ -623,6 +594,35 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=1092-86-COT26",
    "sin_detalle": false,
    "descripcion": "CONTRATACIÓN DE SERVICIO PROFESIONALES DE UN INGENIERO/A FORESTAL PRESENTACIÓN DE AVISOS EJECUCIÓN DE AVISOS DE POSTERGACIÓN LEY 20283 COMUNA COYHAIQUE – RIO IBAÑEZ La finalidad es contratar los servicios profesionales de un Ingeniero/a Forestal que logre asumir funciones de apoyo en la presentación de 28 aviso ejecución de Avisos de postergación asociados a Planes de manejo forestal ley 20283 (se adjunta Requerimientos y bases técnicas)",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Inserciones publicitarias en medios"
+   ],
+   "nueva": false,
+   "codigo": "1274667-438-COT26",
+   "nombre": "RVB - SE SOLICITA SERVICIO DE AVISOS RADIALES PARA EL CESFAM DE PUERTO AYSEN",
+   "organismo": "CENTRO DE SALUD FAMILIAR PUERTO AYSÉN",
+   "unidad": "CENTRO DE SALUD FAMILIAR PUERTO AYSÉN",
+   "monto": 342150,
+   "cierre_iso": "2026-11-15T07:20:00-03:00",
+   "publicacion": "11-11 08:39",
+   "publicacion_iso": "2026-11-11T08:39:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "82101901",
+     "Avisos en radio",
+     1,
+     "Se requiere contratar un servicio de difusión de avisos radiales para informar a la comunidad sobre actividades, apertura de agendas médicas, campañas preventivas, prestaciones de salud y otras comunicaciones institucionales del CESFAM Puerto Aysén."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1274667-438-COT26",
+   "sin_detalle": false,
+   "descripcion": "ADJUNTAR Cotización formal: indicar valor unitario neto por aviso radial, duración incluida en el precio, IVA, nombre de la emisora y vigencia de la oferta. - Ficha técnica del servicio indicando nombre de la emisora, frecuencia radial, cobertura y horarios disponibles para la transmisión.",
    "en_gracia": false,
    "desaparecida_iso": ""
   },
@@ -1386,24 +1386,6 @@
    ],
    "link": "https://buscador.mercadopublico.cl/ficha?code=1092-74-COT26",
    "primera_vista_iso": "2026-10-27T17:10:04-03:00",
-   "removida_iso": "2026-11-10T19:26:29-03:00",
-   "estado_api": "",
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "1057062-506-COT26",
-   "nombre": "Servicio producción e instalación de carpas_URY 2495_FISABS 2373",
-   "organismo": "UNIVERSIDAD DE AYSEN",
-   "monto": 1759300,
-   "cierre_iso": "2026-11-06T08:30:00-03:00",
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Ventas y marketing"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1057062-506-COT26",
-   "primera_vista_iso": "2026-11-04T14:23:11-03:00",
    "removida_iso": "2026-11-10T19:26:29-03:00",
    "estado_api": "",
    "adj_nombre": null,
