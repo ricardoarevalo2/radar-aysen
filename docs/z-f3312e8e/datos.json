@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-11-13T14:17:48.082944-03:00",
+ "actualizado": "2026-11-13T15:00:24.679865-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
- "total_region": 321,
+ "total_region": 334,
  "rubros": {
   "25172700": "Aire acondicionado",
   "25173900": "Componentes eléctricos",
@@ -1270,6 +1270,341 @@
    "desaparecida_iso": ""
   },
   {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "iluminación"
+   ],
+   "nueva": true,
+   "codigo": "1092-93-COT26",
+   "nombre": "SIC N°453 SIRE N°437 Materiales de oficina",
+   "organismo": "CORP NACIONAL FORESTAL",
+   "unidad": "XI Región - Oficina Regional de Aysén",
+   "monto": 2476801,
+   "cierre_iso": "2026-11-16T09:30:00-03:00",
+   "publicacion": "13-11 14:42",
+   "publicacion_iso": "2026-11-13T14:42:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "14111507",
+     "Papel para fotocopiadora o impresora",
+     50,
+     "Papel fotocopia oficio (blanco) 75g/m2 500 hojas"
+    ],
+    [
+     "14111507",
+     "Papel para fotocopiadora o impresora",
+     50,
+     "Papel fotocopia carta (blanco) 75g/m2 500 hojas"
+    ],
+    [
+     "14111530",
+     "Notas de papel autoadhesivo",
+     20,
+     "Notas adhesivas autoadhesivas, formato taco, de 7,6 x 7,6cm, color fucsia neón, con un contenido de 100 hojas por unidad. Deben contar con adhesivo que permita su fijación y posterior retiro de superficies, sin dejar residuos en condiciones normales de uso. Igual o similar Torre."
+    ],
+    [
+     "14111531",
+     "Libros o cuadernos de registro",
+     20,
+     "Libro de actas de composición, de 100 hojas (200 páginas), tamaño aproximado 22 x 33 cm, papel bond blanco, hojas interiores con líneas para escritura, foliado correlativamente, encuadernación empastada y tapas rígidas de cartón forrado con papel plastificado, igual o equivalente al modelo AUCA Libro de Actas Composición 100 Hojas."
+    ],
+    [
+     "14111531",
+     "Libros o cuadernos de registro",
+     15,
+     "Cuaderno univ. 7mm 100hjs. de uso administrativo, formato universitario, con hojas de papel para escritura y cuadriculado de 7 mm. Debe contar con 100 hojas, adecuadas para escritura con lápiz pasta, lápiz gel o grafito, y encuadernación resistente que permita su uso frecuente, espiral doble, tapa dura."
+    ],
+    [
+     "24141607",
+     "Separadores de cartón",
+     20,
+     "Juego de separadores para archivador, tamaño carta, compuesto por 6 posiciones o divisiones, fabricado en cartulina de colores, con pestañas laterales identificadoras y perforaciones para su instalación en archivadores de anillos, igual o equivalente al modelo Isofit Carta 6 Posiciones."
+    ],
+    [
+     "24141607",
+     "Separadores de cartón",
+     20,
+     "Separador para archivador tamaño oficio, fabricado en cartulina, compuesto por 6 posiciones o divisiones, con pestañas laterales de colores para identificación y clasificación de documentos, perforaciones compatibles con archivadores de 2 y 3 anillos, igual o equivalente al modelo Torre Oficio 6 Posiciones."
+    ],
+    [
+     "31201512",
+     "Cinta Transparente",
+     30,
+     "Cinta adhesiva transparente tipo cristal, de 18 mm de ancho por 25 metros de largo, fabricada en polipropileno, con acabado brillante, adhesión permanente y transparente, resistente a la humedad y al paso del tiempo, de fácil desenrollado y corte, apta para uso en oficina, hogar y trabajos escolares, igual o equivalente al modelo 3M Scotch Cristal 18 mm x 25 m."
+    ],
+    [
+     "31201515",
+     "Cintas de papel",
+     30,
+     "Cinta adhesiva de enmascarar tipo Masking Tape, de 48 mm de ancho por 40 metros de largo, fabricada en papel crepé flexible, color crema o beige, con adhesivo de caucho de adherencia instantánea, removible y que no deje residuos en condiciones normales de uso. De fácil rasgado manual, apta para trabajos de pintura, protección de superficies, sellado, rotulación y uso general, igual o equivalente al modelo UsaTape Masking 48 mm x 40 m."
+    ],
+    [
+     "31201517",
+     "Cinta para empaquetar",
+     25,
+     "Huincha embalaje 48 x 40m cafe"
+    ],
+    [
+     "31201517",
+     "Cinta para empaquetar",
+     25,
+     "Huincha embalaje 48 x 40m transparente"
+    ],
+    [
+     "43211706",
+     "Teclados",
+     5,
+     "Kit de teclado y mouse gamer alámbrico, conexión USB, compuesto por teclado de membrana con retroiluminación LED RGB, distribución de teclas en español, resistente a pequeños derrames de líquidos y estructura reforzada. Incluye mouse óptico ergonómico con 6 botones, resolución ajustable de DPI, iluminación LED y cable de conexión USB, igual o equivalente al modelo HP Gaming KM300F"
+    ],
+    [
+     "44102001",
+     "Lámina para plastificar",
+     6,
+     "Fundas para termolaminado, láminas plásticas para termolaminado, transparentes, destinadas a la protección y conservación de documentos, fotografías, credenciales y otros materiales impresos. Deben ser compatibles con máquinas termolaminadoras y permitir una adecuada adhesión y sellado mediante calor. 83MM x 115MM Caja de 100u de 175mic"
+    ],
+    [
+     "44102404",
+     "Aplicadoras de etiquetas",
+     10,
+     "Tiritas Colores 250u para visores transparentes de carpetas colgantes, fabricados en papel o cartulina, destinados a la rotulación y clasificación de documentos y archivos. Deben ser compatibles con visores porta etiquetas transparentes y permitir la identificación mediante escritura manual o impresión."
+    ],
+    [
+     "44103105",
+     "Cartuchos de tinta",
+     3,
+     "Botella de tinta para impresora de sistema continuo, color cyan, formulación a base de agua, contenido de 70 ml, compatible con impresoras Epson EcoTank que utilicen la serie de tinta T664220-AL (cyan)."
+    ],
+    [
+     "44103105",
+     "Cartuchos de tinta",
+     3,
+     "Botella de tinta para impresora de sistema continuo, color black, formulación a base de agua, contenido de 70 ml, compatible con impresoras Epson EcoTank que utilicen la serie de tinta t664120-AL black"
+    ],
+    [
+     "44103105",
+     "Cartuchos de tinta",
+     3,
+     "Botella de tinta para impresora de sistema continuo, color yellow, formulación a base de agua, contenido de 70 ml, compatible con impresoras Epson EcoTank que utilicen la serie de tinta t664420 yellow"
+    ],
+    [
+     "44103105",
+     "Cartuchos de tinta",
+     3,
+     "Botella de tinta para impresora de sistema continuo, color magenta, formulación a base de agua, contenido de 70 ml, compatible con impresoras Epson EcoTank que utilicen la serie de tinta t664320 magenta"
+    ],
+    [
+     "44111905",
+     "Pizarras para plumón y accesorios",
+     30,
+     "Pack de 4 plumones para pizarra blanca, colores celeste, morado, naranjo y rosado, con punta redonda, tinta de secado rápido y borrado en seco, aptos para escritura y dibujo sobre superficies de pizarra blanca, de fácil borrado y sin dejar residuos, igual o equivalente al modelo Proarte Blíster Marcadores de Pizarra 4 Unidades"
+    ],
+    [
+     "44121618",
+     "Tijeras",
+     10,
+     "Tijera de oficina y hogar de 19 cm (8 pulgadas), con hojas de acero inoxidable, filo de corte recto, mango ergonómico de plástico con recubrimiento antideslizante, apta para cortar papel, cartulina y otros materiales de uso cotidiano, igual o equivalente al modelo Isofit Oficina-Hogar 19 cm"
+    ],
+    [
+     "44121704",
+     "Lápiz pasta",
+     30,
+     "Lápiz tinta de gel, retráctil, 0,7mm, color azul con grip antideslizante o ergonómico, de escritura fluida y uniforme, igual o equivalente a pilot G-2"
+    ],
+    [
+     "44121704",
+     "Lápiz pasta",
+     10,
+     "Lápiz tinta de gel, retráctil, 0,7mm, color violeta con grip antideslizante o ergonómico, de escritura fluida y uniforme, igual o equivalente a pilot G-2"
+    ],
+    [
+     "44121704",
+     "Lápiz pasta",
+     100,
+     "Lápiz pasta, tinta color azul, punta media de 1,0 mm, cuerpo plástico transparente de forma hexagonal, con tapa ventilada y escritura fluida y uniforme, igual o equivalente al modelo BIC Cristal Original."
+    ],
+    [
+     "44121704",
+     "Lápiz pasta",
+     40,
+     "Lápiz pasta, tinta color azul, punta metálica media de 1,0 mm, cuerpo plástico transparente de diseño triangular ergonómico, con tapa y tinta de escritura fluida, igual o equivalente a Faber-Castell Trilux 032-M."
+    ],
+    [
+     "44121704",
+     "Lápiz pasta",
+     30,
+     "Lápiz de escritura con tinta tipo gel, color azul, con punta fina de 0,5 mm de diámetro, que permita una escritura fluida, uniforme y de secado adecuado. Debe contar con cuerpo ergonómico que facilite su manipulación y uso prolongado, con sistema de protección de punta mediante tapa igual o equivalente a Lápiz pilot super gel 0.5 azul"
+    ],
+    [
+     "44121704",
+     "Lápiz pasta",
+     30,
+     "Lápiz de escritura con tinta tipo gel, color rojo, con punta fina de 0,5 mm de diámetro, que permita una escritura fluida, uniforme y de secado adecuado. Debe contar con cuerpo ergonómico que facilite su manipulación y uso prolongado, con sistema de protección de punta mediante tapa igual o equivalente Lápiz pilot super gel 0.5 rojo"
+    ],
+    [
+     "44121704",
+     "Lápiz pasta",
+     30,
+     "Lápiz de escritura con tinta tipo gel, color negro, con punta fina de 0,5 mm de diámetro, que permita una escritura fluida, uniforme y de secado adecuado. Debe contar con cuerpo ergonómico que facilite su manipulación y uso prolongado, con sistema de protección de punta mediante tapa igual o equivalente a Lápiz pilot super gel 0.5 negro"
+    ],
+    [
+     "44121707",
+     "Lápices de colores",
+     20,
+     "Set de destacadores con tinta fluorescente, aptos para resaltar textos y documentos. Deben contar con punta biselada que permita realizar trazos de distinto grosor, tinta de buena intensidad y aplicación uniforme, sin dañar el papel en condiciones normales de uso. Blister destacador tratto emphasis 3 unid."
+    ],
+    [
+     "44121801",
+     "Cinta correctora",
+     30,
+     "Corrector de escritura en cinta, color blanco, de 5 mm de ancho y mínimo 6 metros de longitud, de aplicación seca, rápida y precisa, que permita escribir inmediatamente sobre la superficie corregida, sin necesidad de tiempo de secado, con cuerpo plástico ergonómico y punta aplicadora de precisión"
+    ],
+    [
+     "44121802",
+     "Líquido corrector",
+     10,
+     "Lápiz corrector líquido de 7 ml, cuerpo triangular ergonómico y blando, con punta metálica de precisión, tapa transparente con clip, de secado rápido y bajo olor, igual o equivalente al modelo Faber-Castell Corrector Triangular 7 ml."
+    ],
+    [
+     "44122001",
+     "Archivadores de fichas",
+     15,
+     "Archivador tamaño carta lomo ancho burdeo, equivalente a Rhein."
+    ],
+    [
+     "44122001",
+     "Archivadores de fichas",
+     15,
+     "Archivador tamaño oficio lomo ancho burdeo, equivalente a Torre."
+    ],
+    [
+     "44122003",
+     "Tablas para sujetar",
+     30,
+     "Tabla de apoyo tipo portapapeles, tamaño oficio, fabricada en madera rígida, con sujetador metálico superior de presión para mantener documentos firmemente sujetos, superficie lisa y resistente, apta para escritura y toma de apuntes sin necesidad de utilizar escritorio, igual o equivalente al modelo Tabla con Apretador JM Import Oficio Madera"
+    ],
+    [
+     "44122003",
+     "Tablas para sujetar",
+     30,
+     "Tabla de apoyo para escritura tipo portapapeles, tamaño oficio, con cubierta exterior de material vinílico color azul, base interior rígida que proporciona firmeza y estabilidad, equipada con un apretador metálico simple en la parte superior para sujetar documentos y hojas de papel, igual o equivalente al modelo Kores"
+    ],
+    [
+     "44122003",
+     "Tablas para sujetar",
+     6,
+     "Tabla de apoyo para escritura tipo portapapeles, tamaño oficio (aproximadamente 23 x 34 cm), fabricada en PVC rígido y resistente, con doble mecanismo de sujeción metálico en la parte superior, que permite mantener firmemente sujetos documentos y hojas de papel, con capacidad aproximada de hasta 100 hojas, igual o equivalente al modelo Torre Tabla con Apretador Doble Oficio PVC"
+    ],
+    [
+     "44122008",
+     "Divisores con uñetas",
+     50,
+     "Visores transparentes porta etiquetas para carpetas colgantes, fabricados en material plástico transparente, diseñados para identificar y clasificar documentos mediante etiquetas intercambiables. Deben permitir una adecuada visibilidad de la información y contar con sistema de fijación compatible con carpetas colgantes."
+    ],
+    [
+     "44122011",
+     "Carpetas para archivos",
+     10,
+     "Carpeta plastificada c/acco clip color lila"
+    ],
+    [
+     "44122011",
+     "Carpetas para archivos",
+     10,
+     "Carpeta plastificada c/acco clip color amarillo"
+    ],
+    [
+     "44122017",
+     "Carpetas colgantes o accesorios",
+     20,
+     "Carpeta colgante metal Carpeta colgante para archivo y organización de documentos, fabricada en material resistente, con sistema de suspensión mediante varillas o soportes metálicos reforzados en sus extremos, que permitan su desplazamiento y ajuste en archivadores o muebles para carpetas colgantes. Debe contar con estructura firme, adecuada para almacenar y consultar documentos de manera ordenada y frecuente."
+    ],
+    [
+     "44122103",
+     "Corchetes",
+     20,
+     "Corchetes metálicos para engrapadora, tamaño 23/10, fabricados en alambre metálico resistente, con terminación uniforme y puntas diseñadas para una adecuada perforación y sujeción de documentos. Deben ser compatibles con engrapadoras que utilicen corchetes de medida 23/10. Corchete isofit 23/10 1000und"
+    ],
+    [
+     "44122104",
+     "Clips para papel",
+     30,
+     "Clip metálico 28mm"
+    ],
+    [
+     "44122119",
+     "Fasteners o sujetadores autoadhesivos",
+     50,
+     "Doble clip15mm Clip sujetador metálico tipo doble clip (binder clip), de 15mm de ancho, con cuerpo de acero y asas metálicas abatibles, diseñado para sujetar y mantener unidos documentos y hojas de papel. Debe permitir una sujeción firme, ser reutilizable y contar con terminaciones que permitan su manipulación segura."
+    ],
+    [
+     "44122119",
+     "Fasteners o sujetadores autoadhesivos",
+     6,
+     "Fastener metálico para carpetas 50 unid. Sujetador metálico para carpetas y archivadores, color plateado, compuesto por un mecanismo metálico de fijación con dos patas flexibles que permitan sujetar y mantener ordenados documentos y hojas perforadas. Debe ser resistente, de fácil instalación y permitir la apertura y cierre para incorporar o retirar documentos."
+    ],
+    [
+     "45101903",
+     "Perforadoras de papel",
+     5,
+     "Perforadora metálica de color negro, con capacidad de perforación de hasta 20 hojas de papel, equipada con guía metálica ajustable para alineación de documentos, sistema de bloqueo de palanca y depósito recolector de residuos, con perforaciones circulares de 5,5 mm y distancia entre perforaciones de 8 cm, igual o equivalente al modelo Isofit PM-20.es par"
+    ],
+    [
+     "55121505",
+     "Fundas de distintivos o accesorios",
+     200,
+     "Funda oficio plástica tamaño oficio protectora transparente, fabricada en material plástico flexible y resistente, destinada al almacenamiento, protección y organización de documentos tamaño oficio. Debe permitir visualizar el contenido y facilitar la inserción y extracción de hojas, protegiéndolas del polvo, la humedad y el deterioro por manipulación."
+    ],
+    [
+     "55121505",
+     "Fundas de distintivos o accesorios",
+     100,
+     "Funda carta plástica tamaño carta protectora transparente, fabricada en material plástico flexible y resistente, destinada al almacenamiento, protección y organización de documentos tamaño oficio. Debe permitir visualizar el contenido y facilitar la inserción y extracción de hojas, protegiéndolas del polvo, la humedad y el deterioro por manipulación."
+    ],
+    [
+     "55121616",
+     "Banderitas autoadhesivas",
+     30,
+     "Blíster de banderitas adhesivas angostas, con 160 unidades en total, distribuidas en 4 colores mínimo, de material semitransparente, con adhesivo removible que permita señalar, marcar y destacar información en documentos y libros sin dañarlos ni dejar residuos, igual o equivalente al modelo Torre Banderitas Angostas 160 unidades, código 28090."
+    ],
+    [
+     "60101722",
+     "Libretas de notas",
+     10,
+     "Block de apuntes tamaño carta, con encuadernación mediante espiral metálico, compuesto por 80 hojas de papel, cuadriculado con líneas de matemática de 7 mm, con tapa y contratapa de cartón para mayor resistencia y soporte al escribir, igual o equivalente al modelo Colón Carta Espiral 7 mm."
+    ],
+    [
+     "60105704",
+     "Barras de pegamento libres de ácido",
+     30,
+     "Pegamento adhesivo en barra de 40 gramos, libre de disolventes, de aplicación directa, con adhesión rápida, fuerte y duradera, lavable con agua fría, apto para pegar papel, cartón, cartulina, fotografías y otros materiales similares. Con envase plástico y tapa de rosca para evitar el secado del producto, igual o equivalente al modelo UHU Stic 40 g."
+    ],
+    [
+     "60121107",
+     "Hojas de papel de acuarelas",
+     1,
+     "Opalina lisa color blanco tamaño carta caja de 100u de 200grs"
+    ],
+    [
+     "60121518",
+     "Lápices de grafito",
+     25,
+     "Lápiz grafito de cuerpo triangular delgado, diseño ergonómico, con hendiduras antideslizantes para una correcta sujeción de los dedos, mina de grafito resistente, graduación HB, apto para usuarios diestros y zurdos, con espacio para identificación del nombre, igual o equivalente al modelo Lyra Groove Slim."
+    ],
+    [
+     "60121535",
+     "Goma de borrar",
+     20,
+     "Goma de borrar blanca, rectangular, de caucho sintético suave (tipo miga de pan), de textura flexible, para borrar trazos de lápiz grafito sin dañar el papel, con envoltorio individual y faja de cartón, igual o equivalente al modelo Factis S20 Softer."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1092-93-COT26",
+   "sin_detalle": false,
+   "descripcion": "La Corporación Nacional Forestal por medio del Departamento de Protección Contra Incendios Forestales Región de Aysén, requiere la adquisición de materiales de oficina la unidad incendios forestales de la región de Aysén. No se cancela costos asociados al flete. (Ver especificaciones técnicas adjuntas)",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
    "tipo": "OPORTUNIDAD",
    "motivos": [
     "Gasfitería, calefacción y aire acondicionado"
@@ -2054,7 +2389,7 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=1113146-63-COT26",
    "primera_vista_iso": "2026-11-10T19:26:29-03:00",
    "removida_iso": "2026-11-12T13:45:25-03:00",
-   "estado_api": null,
+   "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,
    "adj_iso": null
@@ -2494,24 +2829,6 @@
    ],
    "link": "https://buscador.mercadopublico.cl/ficha?code=5038-67-COT26",
    "primera_vista_iso": "2026-11-05T19:47:37-03:00",
-   "removida_iso": "2026-11-10T19:26:29-03:00",
-   "estado_api": "",
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "2493-109-COT26",
-   "nombre": "MATERIALES PARA LA UNIDAD DE TRANSITO",
-   "organismo": "I MUNICIPALIDAD DE COYHAIQUE",
-   "monto": 1600000,
-   "cierre_iso": "2026-11-06T15:00:00-03:00",
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Cajas y accesorios eléctricos"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=2493-109-COT26",
-   "primera_vista_iso": "2026-11-05T14:29:51-03:00",
    "removida_iso": "2026-11-10T19:26:29-03:00",
    "estado_api": "",
    "adj_nombre": null,

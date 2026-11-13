@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-11-13T14:17:48.082944-03:00",
+ "actualizado": "2026-11-13T15:00:24.679865-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
- "total_region": 321,
+ "total_region": 334,
  "rubros": {
   "80141600": "Ventas y marketing",
   "82101600": "Publicidad en medios no impresos",
@@ -219,155 +219,6 @@
   {
    "tipo": "POSIBLE",
    "motivos": [
-    "radio"
-   ],
-   "nueva": false,
-   "codigo": "1057062-527-COT26",
-   "nombre": "Adquisición materiales e insumos para taller _ Según FISABS 2465_URY23991.",
-   "organismo": "UNIVERSIDAD DE AYSEN",
-   "unidad": "Proyectos",
-   "monto": 1592000,
-   "cierre_iso": "2026-11-14T12:01:00-03:00",
-   "publicacion": "12-11 11:58",
-   "publicacion_iso": "2026-11-12T11:58:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "12142104",
-     "Gas dióxido de carbono CO2",
-     5,
-     "Se requiere comprar Gas Mixto para Cocinillas 230 g. Según especificaciones técnicas adjuntas."
-    ],
-    [
-     "27111503",
-     "Cuchillos de diversas aplicaciones",
-     1,
-     "Se solicita la compra de una Navaja, según especificaciones técnicas adjuntas."
-    ],
-    [
-     "30201606",
-     "Cocinas domésticas",
-     1,
-     "Se requiere la compra de Set De Cocina Alu Cook 2 Personas, según especificaciones técnicas adjuntas."
-    ],
-    [
-     "39111609",
-     "Linternas de queroseno, propano o butano",
-     3,
-     "Se requiere la compra de Linternas Frontal, según especificaciones técnicas adjuntas."
-    ],
-    [
-     "41111717",
-     "Binoculares",
-     2,
-     "Se solicita la compra de 2 Binoculares, según especificaciones técnicas."
-    ],
-    [
-     "42171913",
-     "Bolsas o cajas de respuesta de servicios médicos de urgencia",
-     3,
-     "Se requiere la compra de Bolsa seca de primeros auxilio, según especificaciones técnicas adjuntas."
-    ],
-    [
-     "42171917",
-     "Estuches o bolsas de primeros auxilios para los servicios médicos de urgencias o accesorios",
-     3,
-     "Se requiere la compra de Botiquín de primeros auxilio, según especificaciones técnicas adjuntas."
-    ],
-    [
-     "44111507",
-     "Sujeta libros",
-     5,
-     "Se requiere comprar 5 Pantoneras Huilo-Huilo Herbáceas. Según especificaciones técnicas adjuntas."
-    ],
-    [
-     "44111507",
-     "Sujeta libros",
-     5,
-     "Se requiere la compra de Pantoneras Funga de Chile. Según especificaciones técnicas adjuntas."
-    ],
-    [
-     "48101919",
-     "Tapas o jarras o tazas o vasos de servicios de alimentación",
-     3,
-     "Se requiere la compra de Set Jarro + 4 Tazas, según especificaciones técnicas."
-    ],
-    [
-     "49121509",
-     "Cocinilla de camping",
-     1,
-     "Se requiere la compra de una Cocinilla Compacta, según especificaciones técnicas adjuntas."
-    ],
-    [
-     "49151503",
-     "Bastones de esquí",
-     15,
-     "Se solicita la compra de 15 pares de Bastones de trekking, según especificaciones técnicas adjuntas."
-    ],
-    [
-     "49211805",
-     "Cuerdas",
-     30,
-     "Se requiere la compra de 30 cuerdas de 1 metro cada una, según especificaciones técnicas adjuntas."
-    ],
-    [
-     "52141539",
-     "Teteras de uso doméstico",
-     1,
-     "Se requiere la compra de Tetera Aluminio 800 ml. Según especificaciones técnicas adjuntas."
-    ],
-    [
-     "52152010",
-     "Termos domésticos",
-     1,
-     "Se requiere la compra de Termo. Según especificaciones técnicas adjuntas."
-    ],
-    [
-     "52152010",
-     "Termos domésticos",
-     2,
-     "Se requiere la compra de Mug Hierba Mate Cucao 360 ml, Según especificaciones técnicas adjuntas."
-    ],
-    [
-     "52161511",
-     "Radios",
-     1,
-     "Se requiere la compra de Pack X2 radio, Comunicadores Portátiles, según especificaciones técnicas adjuntas."
-    ],
-    [
-     "53131609",
-     "Protector solar",
-     30,
-     "Se requiere la compra de 30 CREMAS PROTECCIÓN SOLAR, según especificaciones técnicas adjuntas."
-    ],
-    [
-     "60101707",
-     "Guías del plan de estudios",
-     5,
-     "Se solicita la compra de Guías de Bolsillo Aves del sur de chile y Patagonia, según especificaciones técnicas adjuntas."
-    ],
-    [
-     "60101707",
-     "Guías del plan de estudios",
-     5,
-     "Se solicita la compra de Guías de Bolsillo Árboles Nativos zona sur y Patagonia, según especificaciones técnicas adjuntas."
-    ],
-    [
-     "60101707",
-     "Guías del plan de estudios",
-     5,
-     "Se requiere la compra de Guías de bolsillo Plantas medicinales de uso tradicional. Según especificaciones técnicas adjuntas."
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1057062-527-COT26",
-   "sin_detalle": false,
-   "descripcion": "Se requiere cotizar materiales e insumos para taller. Cotización debe indicar especificaciones técnicas de lo ofertado. Debe indicar plazo de entrega ofertado, considerando entrega en dependencias de U. Aysén. Valor cotizado debe incluir flete e impuestos. Se podrá privilegiar el menor plazo de entrega ofertado, siempre que cumpla con todas las especificaciones requeridas.",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
     "publicitaria"
    ],
    "nueva": true,
@@ -493,6 +344,35 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=1092-86-COT26",
    "sin_detalle": false,
    "descripcion": "CONTRATACIÓN DE SERVICIO PROFESIONALES DE UN INGENIERO/A FORESTAL PRESENTACIÓN DE AVISOS EJECUCIÓN DE AVISOS DE POSTERGACIÓN LEY 20283 COMUNA COYHAIQUE – RIO IBAÑEZ La finalidad es contratar los servicios profesionales de un Ingeniero/a Forestal que logre asumir funciones de apoyo en la presentación de 28 aviso ejecución de Avisos de postergación asociados a Planes de manejo forestal ley 20283 (se adjunta Requerimientos y bases técnicas)",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Ventas y marketing"
+   ],
+   "nueva": true,
+   "codigo": "1182705-210-COT26",
+   "nombre": " PRODUCCION DE EVENTO PARA CEREMONIA DE INVESTIDURA TNS EN ENFERMERIA 2026, folio 2026",
+   "organismo": "CENTRO DE FORMACIÓN TÉCNICA DE LA REGIÓN DE AYSÉN DEL GENERAL CARLOS I",
+   "unidad": "FINANZAS",
+   "monto": 2000000,
+   "cierre_iso": "2026-11-14T14:30:00-03:00",
+   "publicacion": "13-11 14:27",
+   "publicacion_iso": "2026-11-13T14:27:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "80141607",
+     "Producción de eventos",
+     1,
+     "Ornamentación debe incluir escenario (Tamaño: 4 metros de ancho y 10 metros de largo aprox.), ornamentación de escenario y la entrada del polideportivo, flores en el escenario, puesto de fotografía investidura ornamentado. se deben incluir 200 sillas y 50 accesorios para decorar cada silla (estudiantes). Por disponibilidad del recinto, el armado se debe realizar el día 25 de noviembre de las 9:30 horas en adelante. La prestación incluye la instalación y retiro de gomas de protección del piso."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1182705-210-COT26",
+   "sin_detalle": false,
+   "descripcion": "Se requiere servicio de producción de eventos para 200 personas, ceremonia TNS en Enfermería 2026, actividad programada para el día miércoles 25 de noviembre 2026 a las 18:00 hrs, en recinto del Polideportivo de Puerto Aysén.",
    "en_gracia": false,
    "desaparecida_iso": ""
   },
@@ -647,6 +527,155 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=2495-655-COT26",
    "sin_detalle": false,
    "descripcion": "Se requiere la adquisición de set de herramientas ludicas para apoyar las actividades de difusión, promoción del Centro de las Mujeres. 1 pendon Tela PVC diseño grafico adjunto anexo, agragar estuche para transportarlo. Y, 20 tarjetas con expresiones de violencia, se adjunta anexo. Se solicita que los materiales sean nuevos, de buena calidad y que cumplan íntegramente con las especificaciones técnicas requeridas (anexo)",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "radio"
+   ],
+   "nueva": false,
+   "codigo": "1057062-527-COT26",
+   "nombre": "Adquisición materiales e insumos para taller _ Según FISABS 2465_URY23991.",
+   "organismo": "UNIVERSIDAD DE AYSEN",
+   "unidad": "Proyectos",
+   "monto": 1592000,
+   "cierre_iso": "2026-11-16T08:30:00-03:00",
+   "publicacion": "12-11 11:58",
+   "publicacion_iso": "2026-11-12T11:58:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "12142104",
+     "Gas dióxido de carbono CO2",
+     5,
+     "Se requiere comprar Gas Mixto para Cocinillas 230 g. Según especificaciones técnicas adjuntas."
+    ],
+    [
+     "27111503",
+     "Cuchillos de diversas aplicaciones",
+     1,
+     "Se solicita la compra de una Navaja, según especificaciones técnicas adjuntas."
+    ],
+    [
+     "30201606",
+     "Cocinas domésticas",
+     1,
+     "Se requiere la compra de Set De Cocina Alu Cook 2 Personas, según especificaciones técnicas adjuntas."
+    ],
+    [
+     "39111609",
+     "Linternas de queroseno, propano o butano",
+     3,
+     "Se requiere la compra de Linternas Frontal, según especificaciones técnicas adjuntas."
+    ],
+    [
+     "41111717",
+     "Binoculares",
+     2,
+     "Se solicita la compra de 2 Binoculares, según especificaciones técnicas."
+    ],
+    [
+     "42171913",
+     "Bolsas o cajas de respuesta de servicios médicos de urgencia",
+     3,
+     "Se requiere la compra de Bolsa seca de primeros auxilio, según especificaciones técnicas adjuntas."
+    ],
+    [
+     "42171917",
+     "Estuches o bolsas de primeros auxilios para los servicios médicos de urgencias o accesorios",
+     3,
+     "Se requiere la compra de Botiquín de primeros auxilio, según especificaciones técnicas adjuntas."
+    ],
+    [
+     "44111507",
+     "Sujeta libros",
+     5,
+     "Se requiere comprar 5 Pantoneras Huilo-Huilo Herbáceas. Según especificaciones técnicas adjuntas."
+    ],
+    [
+     "44111507",
+     "Sujeta libros",
+     5,
+     "Se requiere la compra de Pantoneras Funga de Chile. Según especificaciones técnicas adjuntas."
+    ],
+    [
+     "48101919",
+     "Tapas o jarras o tazas o vasos de servicios de alimentación",
+     3,
+     "Se requiere la compra de Set Jarro + 4 Tazas, según especificaciones técnicas."
+    ],
+    [
+     "49121509",
+     "Cocinilla de camping",
+     1,
+     "Se requiere la compra de una Cocinilla Compacta, según especificaciones técnicas adjuntas."
+    ],
+    [
+     "49151503",
+     "Bastones de esquí",
+     15,
+     "Se solicita la compra de 15 pares de Bastones de trekking, según especificaciones técnicas adjuntas."
+    ],
+    [
+     "49211805",
+     "Cuerdas",
+     30,
+     "Se requiere la compra de 30 cuerdas de 1 metro cada una, según especificaciones técnicas adjuntas."
+    ],
+    [
+     "52141539",
+     "Teteras de uso doméstico",
+     1,
+     "Se requiere la compra de Tetera Aluminio 800 ml. Según especificaciones técnicas adjuntas."
+    ],
+    [
+     "52152010",
+     "Termos domésticos",
+     1,
+     "Se requiere la compra de Termo. Según especificaciones técnicas adjuntas."
+    ],
+    [
+     "52152010",
+     "Termos domésticos",
+     2,
+     "Se requiere la compra de Mug Hierba Mate Cucao 360 ml, Según especificaciones técnicas adjuntas."
+    ],
+    [
+     "52161511",
+     "Radios",
+     1,
+     "Se requiere la compra de Pack X2 radio, Comunicadores Portátiles, según especificaciones técnicas adjuntas."
+    ],
+    [
+     "53131609",
+     "Protector solar",
+     30,
+     "Se requiere la compra de 30 CREMAS PROTECCIÓN SOLAR, según especificaciones técnicas adjuntas."
+    ],
+    [
+     "60101707",
+     "Guías del plan de estudios",
+     5,
+     "Se solicita la compra de Guías de Bolsillo Aves del sur de chile y Patagonia, según especificaciones técnicas adjuntas."
+    ],
+    [
+     "60101707",
+     "Guías del plan de estudios",
+     5,
+     "Se solicita la compra de Guías de Bolsillo Árboles Nativos zona sur y Patagonia, según especificaciones técnicas adjuntas."
+    ],
+    [
+     "60101707",
+     "Guías del plan de estudios",
+     5,
+     "Se requiere la compra de Guías de bolsillo Plantas medicinales de uso tradicional. Según especificaciones técnicas adjuntas."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1057062-527-COT26",
+   "sin_detalle": false,
+   "descripcion": "Se requiere cotizar materiales e insumos para taller. Cotización debe indicar especificaciones técnicas de lo ofertado. Debe indicar plazo de entrega ofertado, considerando entrega en dependencias de U. Aysén. Valor cotizado debe incluir flete e impuestos. Se podrá privilegiar el menor plazo de entrega ofertado, siempre que cumpla con todas las especificaciones requeridas.",
    "en_gracia": false,
    "desaparecida_iso": ""
   },
@@ -817,6 +846,35 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=1428-21-COT26",
    "sin_detalle": false,
    "descripcion": "Servicio de publicación de dos avisos de convocatoria en un diario de circulación regional o local, para el proceso de asignación de la Caleta Ester Álvarez, ubicada en la comuna de Guaitecas, Región de Aysén, solicitado por el Servicio Nacional de Pesca y Acuicultura, Dirección Regional de Aysén. Más detalle en requerimiento técnico adjunto.",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "audiovisuales"
+   ],
+   "nueva": true,
+   "codigo": "1233615-995-COT26",
+   "nombre": "RMG-SOL01535-Equipos audiovisuales, EMTP liceo Cerro Castillo 29.05",
+   "organismo": "Servicio Local de Educación Pública Aysén",
+   "unidad": "Servicio Local de Educación Pública Aysén",
+   "monto": 1849981,
+   "cierre_iso": "2026-11-17T12:00:00-03:00",
+   "publicacion": "13-11 14:22",
+   "publicacion_iso": "2026-11-13T14:22:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "45121504",
+     "Cámaras digitales",
+     1,
+     "Según archivo adjunto, cámara y parlante"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1233615-995-COT26",
+   "sin_detalle": false,
+   "descripcion": "Según archivo adjunto, cámara y parlante",
    "en_gracia": false,
    "desaparecida_iso": ""
   },
