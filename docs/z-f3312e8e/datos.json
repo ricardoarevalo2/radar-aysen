@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-11-13T11:00:25.107198-03:00",
+ "actualizado": "2026-11-13T12:00:25.851532-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
- "total_region": 321,
+ "total_region": 334,
  "rubros": {
   "25172700": "Aire acondicionado",
   "25173900": "Componentes eléctricos",
@@ -237,132 +237,6 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=2713-1337-COT26",
    "sin_detalle": false,
    "descripcion": "COTIZACIÓN DE :REPUESTOS MAQUINARIAS . LOS COSTOS DE TRASLADOS A PUERTO AYSÉN SERÁN DEL OFERENTE. EL PLAZO DE ENTREGA SERÁN DE 10 DÍA HÁBIL, DE LO CONTRARIO SE DESCARTARAN.EL PROVEEDOR QUE NO INDIQUE EL PLAZO DE ENTREGA SE DESCARTARA SU COTIZACIÓN. OFERENTE DEBE INCLUIR FLETES EN EL PRECIO DEL PRODUCTO.SE SOLICITA ANEXAR FICHA TECNICA, DE LO CONTRARIO SE DESCARTARA. PLAZO DE ENTREGA COMIENZA A CONTAR DEL DIA HABIL SUBSIGUIENTE DEL ENVÍO DE ORDEN DE COMPRA.",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
-  {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Cajas y accesorios eléctricos",
-    "Interruptores, controles y relés"
-   ],
-   "nueva": false,
-   "codigo": "5019-66-COT26",
-   "nombre": "Adquisición de elementos de construcción",
-   "organismo": "Ejercito de Chile",
-   "unidad": "Centro Clínico Militar Coyhaique",
-   "monto": 340000,
-   "cierre_iso": "2026-11-13T12:57:00-03:00",
-   "publicacion": "11-11 12:02",
-   "publicacion_iso": "2026-11-11T12:02:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "11121610",
-     "Maderas duras",
-     2,
-     "Moldura ½ caña pino finger natural 15mm x 45mm x 3mts."
-    ],
-    [
-     "27111704",
-     "Enchufes",
-     2,
-     "Enchufe embutido triple 10-16 amperes, color blanco."
-    ],
-    [
-     "27111712",
-     "Extractores",
-     1,
-     "Extracto de aire, techo – pared de 4 pulgadas."
-    ],
-    [
-     "30102212",
-     "Plancha de cinc",
-     1,
-     "Plancha yeso cartón borde rebajado 10mm, 120cm x 240 cm.."
-    ],
-    [
-     "31151703",
-     "Cables elevadores",
-     1,
-     "Cable libre de halógeno, 1x2.5mm rojo, rollo de 25 metros."
-    ],
-    [
-     "31151703",
-     "Cables elevadores",
-     1,
-     "Cable libre de halógeno, 1x2.5mm blanco, rollo de 25 metros."
-    ],
-    [
-     "31151703",
-     "Cables elevadores",
-     1,
-     "Cable libre de halógeno, 1x2.5mm verde, rollo de 25 metros."
-    ],
-    [
-     "31161505",
-     "Tornillos de presión",
-     1,
-     "Tornillo vulcanita zincado CRS 6X2-1/2 pulgadas, punta fina, caja 100 unidades."
-    ],
-    [
-     "31211501",
-     "Pinturas al esmalte",
-     1,
-     "Esmalte al agua galón semibrillo blanco, exterior – interior."
-    ],
-    [
-     "31211904",
-     "Brochas",
-     1,
-     "Brocha multiuso 2 pulgadas."
-    ],
-    [
-     "39101608",
-     "Focos cialiticos",
-     7,
-     "Foco led redondo color blanco, embutido luz cálida, diámetro 22 cms."
-    ],
-    [
-     "39121205",
-     "Canaletas para cables",
-     6,
-     "Canaleta blanca 40x16mm, 2 metros con adhesivo."
-    ],
-    [
-     "39121311",
-     "Accesorios eléctricos",
-     4,
-     "Caja chuqui blanca sobrepuesta universal"
-    ],
-    [
-     "39121511",
-     "Interruptores variables",
-     1,
-     "Interruptor 9/12 embutido, color blanco"
-    ],
-    [
-     "46171503",
-     "Juegos de cerraduras",
-     1,
-     "Cerradura acceso doble manilla 914, material de acero, color bronce sanitado."
-    ],
-    [
-     "51102702",
-     "Agua destilada para irrigación",
-     5,
-     "Agua desmineralizada, bidón 05 litros"
-    ],
-    [
-     "56111601",
-     "Pantallas para los sistemas de panel",
-     1,
-     "Panel led sobrepuesto 60cms x 60 cms, luz fría."
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=5019-66-COT26",
-   "sin_detalle": false,
-   "descripcion": "Adquisición de elementos de construcción para el CCM \"Coyhaique\". Las ofertas serán declaradas inadmisibles cuando: Cotización sobrepase presupuesto disponible, oferten elementos de construcción que no sean los solicitados, oferta considere flete aparte y exceder plazo de entrega. Características técnicas solicitadas en anexo adjunto. Se deberá postular por la totalidad de los insumos. El retiro o entrega debe ser en la ciudad de Coyhaique.",
    "en_gracia": false,
    "desaparecida_iso": ""
   },
@@ -1827,6 +1701,132 @@
    "descripcion": "Contratar el servicio de reparación, mantención y mejoramiento de cuatro gabinetes de red húmeda del Museo Regional de Aysén, bajo la modalidad de suma alzada (llave en mano), incluyendo la provisión de todos los materiales, insumos y la mano de obra calificada.",
    "en_gracia": false,
    "desaparecida_iso": ""
+  },
+  {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Cajas y accesorios eléctricos",
+    "Interruptores, controles y relés"
+   ],
+   "nueva": false,
+   "codigo": "5019-66-COT26",
+   "nombre": "Adquisición de elementos de construcción",
+   "organismo": "Ejercito de Chile",
+   "unidad": "Centro Clínico Militar Coyhaique",
+   "monto": 340000,
+   "cierre_iso": "2026-11-17T12:00:00-03:00",
+   "publicacion": "11-11 12:02",
+   "publicacion_iso": "2026-11-11T12:02:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "11121610",
+     "Maderas duras",
+     2,
+     "Moldura ½ caña pino finger natural 15mm x 45mm x 3mts."
+    ],
+    [
+     "27111704",
+     "Enchufes",
+     2,
+     "Enchufe embutido triple 10-16 amperes, color blanco."
+    ],
+    [
+     "27111712",
+     "Extractores",
+     1,
+     "Extracto de aire, techo – pared de 4 pulgadas."
+    ],
+    [
+     "30102212",
+     "Plancha de cinc",
+     1,
+     "Plancha yeso cartón borde rebajado 10mm, 120cm x 240 cm.."
+    ],
+    [
+     "31151703",
+     "Cables elevadores",
+     1,
+     "Cable libre de halógeno, 1x2.5mm rojo, rollo de 25 metros."
+    ],
+    [
+     "31151703",
+     "Cables elevadores",
+     1,
+     "Cable libre de halógeno, 1x2.5mm blanco, rollo de 25 metros."
+    ],
+    [
+     "31151703",
+     "Cables elevadores",
+     1,
+     "Cable libre de halógeno, 1x2.5mm verde, rollo de 25 metros."
+    ],
+    [
+     "31161505",
+     "Tornillos de presión",
+     1,
+     "Tornillo vulcanita zincado CRS 6X2-1/2 pulgadas, punta fina, caja 100 unidades."
+    ],
+    [
+     "31211501",
+     "Pinturas al esmalte",
+     1,
+     "Esmalte al agua galón semibrillo blanco, exterior – interior."
+    ],
+    [
+     "31211904",
+     "Brochas",
+     1,
+     "Brocha multiuso 2 pulgadas."
+    ],
+    [
+     "39101608",
+     "Focos cialiticos",
+     7,
+     "Foco led redondo color blanco, embutido luz cálida, diámetro 22 cms."
+    ],
+    [
+     "39121205",
+     "Canaletas para cables",
+     6,
+     "Canaleta blanca 40x16mm, 2 metros con adhesivo."
+    ],
+    [
+     "39121311",
+     "Accesorios eléctricos",
+     4,
+     "Caja chuqui blanca sobrepuesta universal"
+    ],
+    [
+     "39121511",
+     "Interruptores variables",
+     1,
+     "Interruptor 9/12 embutido, color blanco"
+    ],
+    [
+     "46171503",
+     "Juegos de cerraduras",
+     1,
+     "Cerradura acceso doble manilla 914, material de acero, color bronce sanitado."
+    ],
+    [
+     "51102702",
+     "Agua destilada para irrigación",
+     5,
+     "Agua desmineralizada, bidón 05 litros"
+    ],
+    [
+     "56111601",
+     "Pantallas para los sistemas de panel",
+     1,
+     "Panel led sobrepuesto 60cms x 60 cms, luz fría."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=5019-66-COT26",
+   "sin_detalle": false,
+   "descripcion": "Adquisición de elementos de construcción para el CCM \"Coyhaique\". Las ofertas serán declaradas inadmisibles cuando: Cotización sobrepase presupuesto disponible, oferten elementos de construcción que no sean los solicitados, oferta considere flete aparte y exceder plazo de entrega. Características técnicas solicitadas en anexo adjunto. Se deberá postular por la totalidad de los insumos. El retiro o entrega debe ser en la ciudad de Coyhaique.",
+   "en_gracia": false,
+   "desaparecida_iso": ""
   }
  ],
  "historial": [
@@ -2448,61 +2448,6 @@
    ],
    "link": "https://buscador.mercadopublico.cl/ficha?code=791766-36-COT26",
    "primera_vista_iso": "2026-11-04T19:43:04-03:00",
-   "removida_iso": "2026-11-10T19:26:29-03:00",
-   "estado_api": "",
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "3791-1117-COT26",
-   "nombre": "TECHO MERCADO LA JUNTA ",
-   "organismo": "I MUNICIPALIDAD DE CISNES",
-   "monto": 1306300,
-   "cierre_iso": "2026-11-06T11:30:00-03:00",
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Conectores, enchufes y terminales"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=3791-1117-COT26",
-   "primera_vista_iso": "2026-11-05T14:29:51-03:00",
-   "removida_iso": "2026-11-10T19:26:29-03:00",
-   "estado_api": "",
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "886182-248-COT26",
-   "nombre": "Materiales de oficina_segun fisabs 2350_Departamento Ciencias Naturales y Tecnología",
-   "organismo": "UNIVERSIDAD DE AYSEN",
-   "monto": 1421958,
-   "cierre_iso": "2026-11-06T11:19:00-03:00",
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Cables eléctricos y accesorios",
-    "Suministros y accesorios eléctricos"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=886182-248-COT26",
-   "primera_vista_iso": "2026-10-30T13:05:28-03:00",
-   "removida_iso": "2026-11-10T19:26:29-03:00",
-   "estado_api": "",
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "3791-1108-COT26",
-   "nombre": "BAÑOS GIMNASIO PUYUHUAPI",
-   "organismo": "I MUNICIPALIDAD DE CISNES",
-   "monto": 1335530,
-   "cierre_iso": "2026-11-06T11:18:00-03:00",
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Conectores, enchufes y terminales"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=3791-1108-COT26",
-   "primera_vista_iso": "2026-11-04T14:23:11-03:00",
    "removida_iso": "2026-11-10T19:26:29-03:00",
    "estado_api": "",
    "adj_nombre": null,

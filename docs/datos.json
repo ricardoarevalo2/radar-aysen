@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-11-13T11:00:25.107198-03:00",
+ "actualizado": "2026-11-13T12:00:25.851532-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
- "total_region": 321,
+ "total_region": 334,
  "rubros": {
   "80141600": "Ventas y marketing",
   "82101600": "Publicidad en medios no impresos",
@@ -14,41 +14,6 @@
   "83121700": "Comunicación social y de masas"
  },
  "filas": [
-  {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Ventas y marketing"
-   ],
-   "nueva": false,
-   "codigo": "2713-1368-COT26",
-   "nombre": " sellos de género- Folio 1394 - DIDECO",
-   "organismo": "I MUNICIPALIDAD DE AYSEN",
-   "unidad": "I.MUNICIPALIDAD AYSEN-ADQUISICIONES",
-   "monto": 50000,
-   "cierre_iso": "2026-11-13T11:00:00-03:00",
-   "publicacion": "12-11 09:13",
-   "publicacion_iso": "2026-11-12T09:13:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "80141611",
-     "Personalización de regalos o productos promocionales",
-     6,
-     "Impresión de 6 sellos de género en\nPapel Couché 300 de gramaje en\ntamaño 33x48 cm, destinado a las\norganizaciones y grupos\nparticipantes señalados en la\ndescripción de la adquisición"
-    ],
-    [
-     "80141611",
-     "Personalización de regalos o productos promocionales",
-     43,
-     "Certificados Impresión de 43 certificados en\nopalina, tamaño oficio, destinados a\nreconocer la participación y el\ncompromiso de las personas\nintegrantes de los Consejos Asesores\nPreventivos en Violencia de Género,\nconforme a los nombres\nproporcionados por el Programa"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=2713-1368-COT26",
-   "sin_detalle": false,
-   "descripcion": "Adquisición de sello de genero según anexo adjunto, las ofertas deberán: incluir la totalidad de las características solicitadas, ajustarse al presupuesto disponible, el oferente asumirá COSTO DE TRANSPORTE (no desglosarlo como ítem aparte), debe indicar plazo de entrega (no se aceptara plazo de despacho y el plazo de entrega iniciará el día hábil subsiguiente al envío de la OC). Ofertas que no cumplan con lo anterior serán rechazadas.",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
   {
    "tipo": "POSIBLE",
    "motivos": [
@@ -512,6 +477,37 @@
   {
    "tipo": "POSIBLE",
    "motivos": [
+    "difusión",
+    "marketing",
+    "publicidad"
+   ],
+   "nueva": true,
+   "codigo": "3797-538-COT26",
+   "nombre": "TAZONES PERSONALIZADOS",
+   "organismo": "I MUNICIPALIDAD DE COCHRANE",
+   "unidad": "I MUNICIPALIDAD DE COCHRANE",
+   "monto": 120000,
+   "cierre_iso": "2026-11-14T12:00:00-03:00",
+   "publicacion": "13-11 11:33",
+   "publicacion_iso": "2026-11-13T11:33:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "60105409",
+     "Materiales educativos de publicidad y marketing de marca",
+     20,
+     "Tazones personalizados. \nDiseños proporcionados por la municipalidad luego de su adjudicación."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=3797-538-COT26",
+   "sin_detalle": false,
+   "descripcion": "Adquisición de tazones personalizadas con identidad gráfica institucional, destinados al Área de Comunicaciones para apoyar las acciones de promoción y difusión turística de la comuna, bajo el concepto \"Cochrane, Destino Todo el Año\".",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
     "aviso",
     "avisos"
    ],
@@ -594,6 +590,35 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=1274667-438-COT26",
    "sin_detalle": false,
    "descripcion": "ADJUNTAR Cotización formal: indicar valor unitario neto por aviso radial, duración incluida en el precio, IVA, nombre de la emisora y vigencia de la oferta. - Ficha técnica del servicio indicando nombre de la emisora, frecuencia radial, cobertura y horarios disponibles para la transmisión.",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Ventas y marketing"
+   ],
+   "nueva": true,
+   "codigo": "2495-657-COT26",
+   "nombre": "SERVICIO DE COFFEE BREAK AM Y AGENDA MÁS LAPIZ PARA SEMINARIO MESA RAV - 60 PERSONAS ",
+   "organismo": "I MUNICIPALIDAD DE COYHAIQUE",
+   "unidad": "DIRECCION DESARROLLO COMUNITARIO",
+   "monto": 900000,
+   "cierre_iso": "2026-11-15T10:00:00-03:00",
+   "publicacion": "13-11 11:39",
+   "publicacion_iso": "2026-11-13T11:39:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "80141607",
+     "Producción de eventos",
+     1,
+     "Se requiere servicio de coffee break AM y merchandising personalizado para 60 personas, para el día 19 de noviembre de 2026, en el Centro Cultural. El servicio debe incluir alimentación dulce y salada, bebidas, montaje y desmontaje, además de 60 agendas o libretas y 60 lápices pasta personalizados con identidad gráfica de la Mesa RAV y/o Municipalidad de Coyhaique, previa aprobación. Especificaciones adjuntas en TTR."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=2495-657-COT26",
+   "sin_detalle": false,
+   "descripcion": "Se requiere servicio de coffee break AM y merchandising personalizado para 60 personas, para el día 19 de noviembre de 2026, en el Centro Cultural. El servicio debe incluir alimentación dulce y salada, bebidas, montaje y desmontaje, además de 60 agendas o libretas y 60 lápices pasta personalizados con identidad gráfica de la Mesa RAV y/o Municipalidad de Coyhaique, previa aprobación. Especificaciones adjuntas en TTR.",
    "en_gracia": false,
    "desaparecida_iso": ""
   },
@@ -694,6 +719,59 @@
    "desaparecida_iso": ""
   },
   {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Ventas y marketing"
+   ],
+   "nueva": true,
+   "codigo": "1182705-205-COT26",
+   "nombre": "SERVICIO DE PRODUCCION DE EVENTOS SOLICITUD N°0225 VCM CRY26851 PROYECTO TNS EN ADMINISTRACION DE EMPRESA Y NEGOCIOS",
+   "organismo": "CENTRO DE FORMACIÓN TÉCNICA DE LA REGIÓN DE AYSÉN DEL GENERAL CARLOS I",
+   "unidad": "FINANZAS",
+   "monto": 3119990,
+   "cierre_iso": "2026-11-16T12:00:00-03:00",
+   "publicacion": "13-11 11:30",
+   "publicacion_iso": "2026-11-13T11:30:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "80141607",
+     "Producción de eventos",
+     1,
+     "Sistema de proyección y amplificación para el Pitch de cierre: proyector, telón, consola de audio y micrófonos inalámbricos. debe incluir prueba técnica previa y retiro."
+    ],
+    [
+     "80141607",
+     "Producción de eventos",
+     1,
+     "Auditorio o sala para el evento final de Pitch y presentación de resultado. Con capacidad mínima de 40 personas, con mobiliario, conexión eléctrica y acceso a servicios higiénicos."
+    ],
+    [
+     "80141607",
+     "Producción de eventos",
+     30,
+     "Impresión de 30 guías de emprendimiento e innovación con plantillas de modelos canvas, mapas de empatía, rúbricas y cuadernillos de diagnóstico para cada estudiante."
+    ],
+    [
+     "80141607",
+     "Producción de eventos",
+     5,
+     "a)Kit de Branding Tangible (pendón Roller autoenrollable, logos adhesivos, etiquetas autoadhesivas) b) 5 Set de facilitación gráfica por equipo (post-it, plumones, papelógrafos, cartulinas, cinta, tijeras)  c) Pendrive 32 GB con entregables editables para cada emprendedor asesorado."
+    ],
+    [
+     "80141607",
+     "Producción de eventos",
+     40,
+     "Coffee breaks para el evento final de presentación de Pitch de cierre, para 40 personas. Coffee break para 40 personas (Café en grano. Té. Jugo natural. Leche normal, descremada, con y sin lactosa. Azúcar y endulzante. Variedad de galletas – 2 por persona, galletas de pastelería (opciones veganas y sin gluten). 2 mini pastelitos (opciones veganas y sin gluten). Variedad de mini sándwich frio en pan de miga o tapaditos en mini croissant, pan de hoja u otras variedades. Las opciones deben incluir"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1182705-205-COT26",
+   "sin_detalle": false,
+   "descripcion": "SE REQUIERE LA COMPRA DE SERVICIO DE PRODUCCION DE EVENTOS PARA EL DIA 25/11/2026, SE SOLICITA ADJUNTAR COTIZACION CON ITEMIZADO DE SERVICIO Y EL DETALLE DE LO QUE SE ESTA OFERTANDO",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
    "tipo": "POSIBLE",
    "motivos": [
     "comunicacional"
@@ -719,6 +797,35 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=854-34-COT26",
    "sin_detalle": false,
    "descripcion": "Traslado de funcionarios del Jardin infantil comunicacional a distintas localidades, de acuerdo a las fechas indicadas. el oferente debe cumplir ocn los requisitos y adjuntar la documentación indicada en su propuesta. las salidas se desarrollarán durante el mes de novembre y diciembre.",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "difusión"
+   ],
+   "nueva": true,
+   "codigo": "1332-44-COT26",
+   "nombre": "HERRAMIENTAS TECNOLÓGICAS PARA EL SISTEMA DE INFORMACIÓN TURÍSTICA AYSÉN PATAGONIA",
+   "organismo": "Servicio Nacional de Turismo",
+   "unidad": "Direccion Regional de Aysen",
+   "monto": 7000000,
+   "cierre_iso": "2026-11-16T16:00:00-03:00",
+   "publicacion": "13-11 11:52",
+   "publicacion_iso": "2026-11-13T11:52:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "81111807",
+     "Almacenamiento de datos",
+     1,
+     "Servicios tecnológicos destinados a fortalecer las herramientas digitales para la actualización, difusión y acceso a información turística, así como para la medición de su utilización por parte de las personas usuarias. De acuerdo a detalle adjunto"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1332-44-COT26",
+   "sin_detalle": false,
+   "descripcion": "Se requiere contratar servicios tecnológicos destinados a fortalecer las herramientas digitales para la actualización, difusión y acceso a información turística, así como para la medición de su utilización por parte de las personas usuarias.",
    "en_gracia": false,
    "desaparecida_iso": ""
   },
@@ -832,31 +939,27 @@
    "descripcion": "Es necesario cumplir con el Art.11 del D.L. N°2695/79, referido a publicidad del saneamiento de inmueble. Se requiere contratar la publicación digital de 17 avisos correspondientes a 2 veces o publicaciones por beneficiario o expediente, las cuales se harán indistintamente los días 1 y 15 del mes o en la edición inmediatamente siguiente si el diario o periódico no se publicare en los días indicados. Plazo de ejecución 252 días hábiles. Revisar documento adjunto para selección de proveedor.",
    "en_gracia": false,
    "desaparecida_iso": ""
-  },
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "radiales"
-   ],
-   "nueva": false,
-   "codigo": "1332-43-COT26",
-   "nombre": "PLAN DE MEDIOS Y CONTINUIDAD DE PLATAFORMA WEB PARA LA CAMPAÑA REGIONAL DE CONCIENCIA TURÍSTICA AYSÉN PATAGONIA",
-   "organismo": "",
-   "unidad": "",
-   "monto": null,
-   "cierre_iso": "",
-   "publicacion": "",
-   "publicacion_iso": "",
-   "ofertas": 0,
-   "productos": [],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1332-43-COT26",
-   "sin_detalle": false,
-   "descripcion": "Contratar la implementación y gestión de un plan de medios para difundir la Campaña Regional de Conciencia Turística Aysén Patagonia a través de medios radiales, televisivos y digitales, asegurando además la continuidad operativa de la plataforma web “Aysén Eres Tú” mediante la renovación de su suscripción por 24 meses.",
-   "en_gracia": true,
-   "desaparecida_iso": "2026-11-11T14:18:43-03:00"
   }
  ],
  "historial": [
+  {
+   "codigo": "2713-1368-COT26",
+   "nombre": " sellos de género- Folio 1394 - DIDECO",
+   "organismo": "I MUNICIPALIDAD DE AYSEN",
+   "monto": 50000,
+   "cierre_iso": "2026-11-13T11:00:00-03:00",
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Ventas y marketing"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=2713-1368-COT26",
+   "primera_vista_iso": "2026-11-12T09:58:37-03:00",
+   "removida_iso": "2026-11-13T12:00:25-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
   {
    "codigo": "4066-504-COT26",
    "nombre": "SERVICIO DE ANIMACIÓN Y PRESENTACIÓN ARTISTICA EN ACTIVIDAD “ENCUENTRO DE ACORDEON Y GUITARRA 2026”.Segun TDR adjuntos",
@@ -1355,19 +1458,19 @@
    "adj_iso": null
   },
   {
-   "codigo": "2495-620-COT26",
-   "nombre": "ADQUISICIÓN DE MATERIALES E INSUMOS PARA MATERIAL GRÁFICO E IDENTIDAD VISUAL. Código BIP 40071494-0",
-   "organismo": "I MUNICIPALIDAD DE COYHAIQUE",
-   "monto": 7100000,
-   "cierre_iso": "2026-11-06T12:00:00-03:00",
+   "codigo": "1332-43-COT26",
+   "nombre": "PLAN DE MEDIOS Y CONTINUIDAD DE PLATAFORMA WEB PARA LA CAMPAÑA REGIONAL DE CONCIENCIA TURÍSTICA AYSÉN PATAGONIA",
+   "organismo": "",
+   "monto": null,
+   "cierre_iso": "",
    "tipo": "POSIBLE",
    "motivos": [
-    "difusión"
+    "radiales"
    ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=2495-620-COT26",
-   "primera_vista_iso": "2026-11-03T19:24:45-03:00",
-   "removida_iso": "2026-11-10T19:26:29-03:00",
-   "estado_api": "",
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1332-43-COT26",
+   "primera_vista_iso": "2026-11-10T19:26:29-03:00",
+   "removida_iso": "2026-11-13T12:00:25-03:00",
+   "estado_api": null,
    "adj_nombre": null,
    "adj_monto": null,
    "adj_iso": null
