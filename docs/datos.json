@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-12T21:00:36.292423-03:00",
+ "actualizado": "2026-11-12T22:00:25.926510-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
  "total_region": 328,
@@ -14,30 +14,6 @@
   "83121700": "Comunicación social y de masas"
  },
  "filas": [
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "audiovisual",
-    "redes sociales",
-    "registro fotográfico"
-   ],
-   "nueva": false,
-   "codigo": "1195-569-COT26",
-   "nombre": "CONTRATACIÓN DE SERVICIOS DE ASESORÍA AUDIOVISUAL PARA EL EVENTO DEPORTIVO “LOS 4 LAGOS MTB RACE”",
-   "organismo": "I MUNICIPALIDAD DE COYHAIQUE",
-   "unidad": "Ilustre Municipalidad de Coyhaique",
-   "monto": 1200000,
-   "cierre_iso": "2026-11-12T21:00:00-03:00",
-   "publicacion": "10-11 18:08",
-   "publicacion_iso": "2026-11-10T18:08:00-03:00",
-   "ofertas": 0,
-   "productos": [],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1195-569-COT26",
-   "sin_detalle": false,
-   "descripcion": "Se requiere contratar servicio de asesoría audiovisual para la cobertura integral del evento deportivo Los 4 Lagos MTB Race, a realizarse los días 21 y 22 de noviembre de 2026 en Lago Pollux, Coyhaique. El servicio contempla registro fotográfico y audiovisual, grabación aérea con drone, video de seguridad, reel promocional, cobertura de ambas jornadas, edición y postproducción, entrega de fotografías editadas, reels para redes sociales, video resumen oficial y material digital organizado",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
   {
    "tipo": "OPORTUNIDAD",
    "motivos": [
@@ -882,6 +858,26 @@
  ],
  "historial": [
   {
+   "codigo": "1195-569-COT26",
+   "nombre": "CONTRATACIÓN DE SERVICIOS DE ASESORÍA AUDIOVISUAL PARA EL EVENTO DEPORTIVO “LOS 4 LAGOS MTB RACE”",
+   "organismo": "I MUNICIPALIDAD DE COYHAIQUE",
+   "monto": 1200000,
+   "cierre_iso": "2026-11-12T21:00:00-03:00",
+   "tipo": "POSIBLE",
+   "motivos": [
+    "audiovisual",
+    "redes sociales",
+    "registro fotográfico"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1195-569-COT26",
+   "primera_vista_iso": "2026-11-10T19:26:29-03:00",
+   "removida_iso": "2026-11-12T22:00:25-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
+  {
    "codigo": "1538639-14-COT26",
    "nombre": "Adquisición de material gráfico institucional personalizado",
    "organismo": "CORPORACIÓN DE DESARROLLO DEL GOBIERNO REGIONAL DE AYSÉN",
@@ -1006,7 +1002,7 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=4609-308-COT26",
    "primera_vista_iso": "2026-11-10T19:26:29-03:00",
    "removida_iso": "2026-11-11T14:18:43-03:00",
-   "estado_api": null,
+   "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,
    "adj_iso": null
@@ -1026,7 +1022,7 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=3797-527-COT26",
    "primera_vista_iso": "2026-11-10T19:26:29-03:00",
    "removida_iso": "2026-11-11T14:18:43-03:00",
-   "estado_api": null,
+   "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,
    "adj_iso": null
@@ -1044,7 +1040,7 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=2495-635-COT26",
    "primera_vista_iso": "2026-11-10T19:26:29-03:00",
    "removida_iso": "2026-11-11T14:18:43-03:00",
-   "estado_api": null,
+   "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,
    "adj_iso": null
@@ -1062,7 +1058,7 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=4144-313-COT26",
    "primera_vista_iso": "2026-11-10T19:26:29-03:00",
    "removida_iso": "2026-11-11T14:18:43-03:00",
-   "estado_api": null,
+   "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,
    "adj_iso": null
