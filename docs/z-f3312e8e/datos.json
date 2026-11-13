@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-12T23:00:25.250193-03:00",
+ "actualizado": "2026-11-13T00:00:24.797922-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
  "total_region": 328,
@@ -2024,7 +2024,7 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=4066-494-COT26",
    "primera_vista_iso": "2026-11-10T19:26:29-03:00",
    "removida_iso": "2026-11-12T13:45:25-03:00",
-   "estado_api": null,
+   "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,
    "adj_iso": null
@@ -2078,7 +2078,7 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=1180817-3-COT26",
    "primera_vista_iso": "2026-11-10T19:26:29-03:00",
    "removida_iso": "2026-11-12T13:45:25-03:00",
-   "estado_api": null,
+   "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,
    "adj_iso": null
@@ -2097,7 +2097,7 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=1173433-21-COT26",
    "primera_vista_iso": "2026-11-10T19:26:29-03:00",
    "removida_iso": "2026-11-12T09:58:37-03:00",
-   "estado_api": null,
+   "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,
    "adj_iso": null
@@ -2117,7 +2117,7 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=4066-489-COT26",
    "primera_vista_iso": "2026-11-10T19:26:29-03:00",
    "removida_iso": "2026-11-12T09:58:37-03:00",
-   "estado_api": null,
+   "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,
    "adj_iso": null
@@ -2135,7 +2135,7 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=828-53-COT26",
    "primera_vista_iso": "2026-11-10T19:26:29-03:00",
    "removida_iso": "2026-11-12T09:58:37-03:00",
-   "estado_api": null,
+   "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,
    "adj_iso": null
