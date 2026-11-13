@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-11-13T09:00:27.330042-03:00",
+ "actualizado": "2026-11-13T10:00:25.222096-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
- "total_region": 316,
+ "total_region": 320,
  "rubros": {
   "25172700": "Aire acondicionado",
   "25173900": "Componentes eléctricos",
@@ -95,7 +95,7 @@
    "motivos": [
     "Materiales de física de electricidad"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "1233615-984-COT26",
    "nombre": "RMG-SOL01535-Liceo Luisa Rabanal, Equipamiento para simulación EMTP 29.05, despacho incluido a Chile Chico.",
    "organismo": "Servicio Local de Educación Pública Aysén",
@@ -124,7 +124,7 @@
    "motivos": [
     "electricidad"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "1233615-982-COT26",
    "nombre": "RMG-SOL01616-Liceo Luisa Rabanal Palma, Equipamiento EMTP Electricidad cuenta 29.04",
    "organismo": "Servicio Local de Educación Pública Aysén",
@@ -153,7 +153,7 @@
    "motivos": [
     "Suministros y accesorios eléctricos"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "1746-262-COT26",
    "nombre": "INSTALACIÓN DE ENCHUFE ELÉCTRICO, CARRERA N° 257, 2° PISO COYHAIQUE (P552)",
    "organismo": "SUBSECRETARIA DE SALUD PUBLICA",
@@ -817,7 +817,7 @@
    "motivos": [
     "Conectores, enchufes y terminales"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "1233615-963-COT26",
    "nombre": "DMH SOL-2026-01931] Recursos TICS para Escuela \"Litoral Austral\" de Puerto Aysén",
    "organismo": "Servicio Local de Educación Pública Aysén",
@@ -846,7 +846,7 @@
    "motivos": [
     "iluminación"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "1233615-960-COT26",
    "nombre": "DMH [SOL-2026-02150] Recursos para el aprendizaje e innovación (focos, atriles y otros) para Liceo Politécnico A-1 de Puerto Aysén",
    "organismo": "Servicio Local de Educación Pública Aysén",
@@ -1787,7 +1787,7 @@
    "motivos": [
     "generador"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "3540-306-COT26",
    "nombre": "Reptos, bateria e Insumos para Generador Kolvo ",
    "organismo": "Ejercito de Chile",
@@ -2495,24 +2495,6 @@
     "iluminación"
    ],
    "link": "https://buscador.mercadopublico.cl/ficha?code=2713-1338-COT26",
-   "primera_vista_iso": "2026-11-05T14:29:51-03:00",
-   "removida_iso": "2026-11-10T19:26:29-03:00",
-   "estado_api": "",
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "1233615-937-COT26",
-   "nombre": "JGS [SOL-2026-01279] Alargadores eléctricos y otros/ESCUELA BÁSICA HERNÁN MERINO CORREA.",
-   "organismo": "Servicio Local de Educación Pública Aysén",
-   "monto": 165000,
-   "cierre_iso": "2026-11-06T10:00:00-03:00",
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Conectores, enchufes y terminales"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1233615-937-COT26",
    "primera_vista_iso": "2026-11-05T14:29:51-03:00",
    "removida_iso": "2026-11-10T19:26:29-03:00",
    "estado_api": "",

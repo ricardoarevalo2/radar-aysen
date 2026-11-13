@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-11-13T09:00:27.330042-03:00",
+ "actualizado": "2026-11-13T10:00:25.222096-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
- "total_region": 316,
+ "total_region": 320,
  "rubros": {
   "80141600": "Ventas y marketing",
   "82101600": "Publicidad en medios no impresos",
@@ -19,36 +19,7 @@
    "motivos": [
     "Ventas y marketing"
    ],
-   "nueva": true,
-   "codigo": "4066-504-COT26",
-   "nombre": "SERVICIO DE ANIMACIÓN Y PRESENTACIÓN ARTISTICA EN ACTIVIDAD “ENCUENTRO DE ACORDEON Y GUITARRA 2026”.Segun TDR adjuntos",
-   "organismo": "I MUNICIPALIDAD RIO IBANEZ",
-   "unidad": "DIDECO",
-   "monto": 400000,
-   "cierre_iso": "2026-11-13T09:00:00-03:00",
-   "publicacion": "11-11 14:15",
-   "publicacion_iso": "2026-11-11T14:15:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "80141607",
-     "Producción de eventos",
-     1,
-     "SERVICIO DE ANIMACIÓN Y PRESENTACIÓN ARTISTICA EN ACTIVIDAD “ENCUENTRO DE ACORDEON Y GUITARRA 2026”.Segun TDR adjuntos"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=4066-504-COT26",
-   "sin_detalle": false,
-   "descripcion": "La Municipalidad de Río Ibáñez por intermedio de la oficina de cultura requiere contratar un servicio que reúna la animación de la jornada y una presentación musical en vivo, a cargo de la misma persona. El Encuentro de Acordeón y Guitarra reunirá a artistas locales, vecinas y vecinos, y expositores de la feria comunitaria en Puerto Río Tranquilo. Según TDR adjuntos.",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
-  {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Ventas y marketing"
-   ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "2495-650-COT26",
    "nombre": "Producción de 2 sesiones de baños de bosque para 20 personas.",
    "organismo": "I MUNICIPALIDAD DE COYHAIQUE",
@@ -77,7 +48,7 @@
    "motivos": [
     "Ventas y marketing"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "2713-1368-COT26",
    "nombre": " sellos de género- Folio 1394 - DIDECO",
    "organismo": "I MUNICIPALIDAD DE AYSEN",
@@ -261,7 +232,7 @@
    "motivos": [
     "radio"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "973172-4-COT26",
    "nombre": "ALMUERZO CAMPESTRE OFICINA DE BIENESTAR Y CALIDAD DE VIDA 2026",
    "organismo": "SII Oficina de Bienestar",
@@ -372,7 +343,7 @@
     "redes sociales",
     "transmisión en vivo"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "2495-652-COT26",
    "nombre": "SERVICIO DE COBERTURA AUDIOVISUAL, TRANSMISIÓN Y DIFUSIÓN DE LA EXPO GANADERA COYHAIQUE 2026",
    "organismo": "I MUNICIPALIDAD DE COYHAIQUE",
@@ -485,7 +456,7 @@
     "difusión",
     "publicidad"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "1233615-962-COT26",
    "nombre": "DMH [SOL-2026-02150] Recursos para el aprendizaje e innovación (pendones) para Liceo Politécnico A-1 de Puerto Aysén",
    "organismo": "Servicio Local de Educación Pública Aysén",
@@ -514,7 +485,7 @@
    "motivos": [
     "difusión"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "1233615-961-COT26",
    "nombre": "DMH [SOL-2026-02150] Recursos para el aprendizaje e innovación (hidrolavadora y manguera) para Liceo Politécnico A-1 de Puerto Aysén",
    "organismo": "Servicio Local de Educación Pública Aysén",
@@ -543,7 +514,7 @@
    "motivos": [
     "difusión"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "1233615-960-COT26",
    "nombre": "DMH [SOL-2026-02150] Recursos para el aprendizaje e innovación (focos, atriles y otros) para Liceo Politécnico A-1 de Puerto Aysén",
    "organismo": "Servicio Local de Educación Pública Aysén",
@@ -698,7 +669,7 @@
    "motivos": [
     "fotografía"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "2495-654-COT26",
    "nombre": "ADQUISICIÓN DE PREMIOS PARA ACTIVIDAD DIRIGIDA A PERSONAS MAYORES",
    "organismo": "I MUNICIPALIDAD DE COYHAIQUE",
@@ -719,6 +690,35 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=2495-654-COT26",
    "sin_detalle": false,
    "descripcion": "Se requiere adquirir premios para la realización de una actividad recreativa de bingo dirigida a personas mayores. Su adquisición busca incentivar la asistencia, participación, promover la convivencia, la integración y el bienestar de las personas mayores para contribuir a prevenir situaciones de aislamiento social. La actividad se enmarca en las acciones municipales de promoción de un envejecimiento activo de espacios de encuentro y recreación,  térmi de referencia y cotizaci adjunta.",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "comunicacional"
+   ],
+   "nueva": true,
+   "codigo": "854-34-COT26",
+   "nombre": "Traslado de funcionarias JI Comunicacional distintas localidades",
+   "organismo": "JUNTA NACIONAL DE JARDINES         INFANTILES",
+   "unidad": "Junji - XI Región",
+   "monto": 6820000,
+   "cierre_iso": "2026-11-16T12:00:00-03:00",
+   "publicacion": "13-11 09:35",
+   "publicacion_iso": "2026-11-13T09:35:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "78111803",
+     "Servicios de autobuses contratados",
+     1,
+     "Traslado de funcionarios JUNJI a distintas localidades de la region, de acuerdo a calendario propuesto. Revisar especificaciones adjuntas"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=854-34-COT26",
+   "sin_detalle": false,
+   "descripcion": "Traslado de funcionarios del Jardin infantil comunicacional a distintas localidades, de acuerdo a las fechas indicadas. el oferente debe cumplir ocn los requisitos y adjuntar la documentación indicada en su propuesta. las salidas se desarrollarán durante el mes de novembre y diciembre.",
    "en_gracia": false,
    "desaparecida_iso": ""
   },
@@ -857,6 +857,24 @@
   }
  ],
  "historial": [
+  {
+   "codigo": "4066-504-COT26",
+   "nombre": "SERVICIO DE ANIMACIÓN Y PRESENTACIÓN ARTISTICA EN ACTIVIDAD “ENCUENTRO DE ACORDEON Y GUITARRA 2026”.Segun TDR adjuntos",
+   "organismo": "I MUNICIPALIDAD RIO IBANEZ",
+   "monto": 400000,
+   "cierre_iso": "2026-11-13T09:00:00-03:00",
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Ventas y marketing"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=4066-504-COT26",
+   "primera_vista_iso": "2026-11-12T09:58:37-03:00",
+   "removida_iso": "2026-11-13T10:00:25-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
   {
    "codigo": "1195-569-COT26",
    "nombre": "CONTRATACIÓN DE SERVICIOS DE ASESORÍA AUDIOVISUAL PARA EL EVENTO DEPORTIVO “LOS 4 LAGOS MTB RACE”",
@@ -1348,44 +1366,6 @@
    ],
    "link": "https://buscador.mercadopublico.cl/ficha?code=2495-620-COT26",
    "primera_vista_iso": "2026-11-03T19:24:45-03:00",
-   "removida_iso": "2026-11-10T19:26:29-03:00",
-   "estado_api": "",
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "1758-277-COT26",
-   "nombre": "ALOJAMIENTOS Y ALIMENTACION JORNADA DIFUSION NUEVA POLITICA DE EDUCACION EN TERRITORIOS RURALES Y CAPACITACION DE COORD. MICROCENTROS EN COYHAIQUE",
-   "organismo": "SECRETARIA REGIONAL MINISTERIAL DE EDUCACION XI REGION",
-   "monto": 4284000,
-   "cierre_iso": "2026-11-06T10:00:00-03:00",
-   "tipo": "POSIBLE",
-   "motivos": [
-    "difusion",
-    "radio"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1758-277-COT26",
-   "primera_vista_iso": "2026-11-04T19:43:04-03:00",
-   "removida_iso": "2026-11-10T19:26:29-03:00",
-   "estado_api": "",
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "1092-74-COT26",
-   "nombre": "SIC 457 SIRE 439 CONTRATACION PROFESIONAL",
-   "organismo": "CORP NACIONAL FORESTAL",
-   "monto": 6000000,
-   "cierre_iso": "2026-11-06T09:53:00-03:00",
-   "tipo": "POSIBLE",
-   "motivos": [
-    "aviso",
-    "avisos"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1092-74-COT26",
-   "primera_vista_iso": "2026-10-27T17:10:04-03:00",
    "removida_iso": "2026-11-10T19:26:29-03:00",
    "estado_api": "",
    "adj_nombre": null,
