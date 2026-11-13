@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-13T17:00:27.866766-03:00",
+ "actualizado": "2026-11-13T18:00:26.334102-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
  "total_region": 348,
@@ -3008,24 +3008,6 @@
    ],
    "link": "https://buscador.mercadopublico.cl/ficha?code=1233615-932-COT26",
    "primera_vista_iso": "2026-11-04T14:23:11-03:00",
-   "removida_iso": "2026-11-10T19:26:29-03:00",
-   "estado_api": "",
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "3765-344-COT26",
-   "nombre": "MATERIALES DE INFORMATICA",
-   "organismo": "SERVICIO NACIONAL DE SALUD HOSPITAL DE C",
-   "monto": 100000,
-   "cierre_iso": "2026-11-06T17:20:00-03:00",
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Conectores, enchufes y terminales"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=3765-344-COT26",
-   "primera_vista_iso": "2026-11-05T19:47:37-03:00",
    "removida_iso": "2026-11-10T19:26:29-03:00",
    "estado_api": "",
    "adj_nombre": null,

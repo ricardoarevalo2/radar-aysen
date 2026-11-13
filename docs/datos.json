@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-13T17:00:27.866766-03:00",
+ "actualizado": "2026-11-13T18:00:26.334102-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
  "total_region": 348,
@@ -14,42 +14,6 @@
   "83121700": "Comunicación social y de masas"
  },
  "filas": [
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "publicidad",
-    "publicitarios"
-   ],
-   "nueva": false,
-   "codigo": "734-216-COT26",
-   "nombre": "Material gráfico ",
-   "organismo": "SERVICIO DE SALUD AYSEN CARLOS IBANEZ DEL CAMPO",
-   "unidad": "DIRECCION",
-   "monto": 850000,
-   "cierre_iso": "2026-11-13T17:00:00-03:00",
-   "publicacion": "12-11 12:39",
-   "publicacion_iso": "2026-11-12T12:39:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "82101507",
-     "Folletos y catálogos publicitarios, servicios de publicidad y distribución",
-     250,
-     "DIPTICO CANCER DE MAMA,SEGÚN ESPECIFICACIONES TÉCNICAS Y FOLLETOS ADJUNTOS."
-    ],
-    [
-     "82101507",
-     "Folletos y catálogos publicitarios, servicios de publicidad y distribución",
-     250,
-     "DIPTICO CANCER CERVICOUTERINO, SEGÚN ESPECIFICACIONES TÉCNICAS Y FOLLETOS ADJUNTOS."
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=734-216-COT26",
-   "sin_detalle": false,
-   "descripcion": "Se requiere adquirir Material gráfico (dípticos) para la entrega de información a usuarias en contexto de promoción del control ginecológico preventivo y prevención de cáncer cervicouterino y de mama del Servicio de Salud Aysén. Según se detalla en Especificaciones Técnicas y Formatos adjuntos.\nLugar de entrega de los Bienes: Dirección de Atención Primaria: General Parra 65, 2do piso, oficina 1. Coyhaique",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
   {
    "tipo": "POSIBLE",
    "motivos": [
@@ -635,6 +599,133 @@
   {
    "tipo": "OPORTUNIDAD",
    "motivos": [
+    "Ventas y marketing"
+   ],
+   "nueva": true,
+   "codigo": "1057062-541-COT26",
+   "nombre": "Servicio de difusión de contenidos, entrevistas y banner en medio digital.",
+   "organismo": "UNIVERSIDAD DE AYSEN",
+   "unidad": "Proyectos",
+   "monto": 1050000,
+   "cierre_iso": "2026-11-16T09:00:00-03:00",
+   "publicacion": "13-11 17:54",
+   "publicacion_iso": "2026-11-13T17:54:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "80141612",
+     "Campañas publicitarias o de marketing",
+     1,
+     "Servicio de difusión con vigencia hasta el 30 de enero que incluye: 2 publicaciones semanales en sitio web y redes sociales; al menos 1 reel semanal; historias semanales sin límite predeterminado; 1 banner web permanente (formato vertical y/o pop-up); 1 entrevista mensual en estudio o terreno; y apoyo en redacción, adaptación gráfica y difusión. El medio digital debe contar con sitio web y acreditar al menos 160 mil seguidores en Facebook y 50 mil seguidores en Instagram."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1057062-541-COT26",
+   "sin_detalle": false,
+   "descripcion": "Servicio de difusión con vigencia hasta el 30 de enero 2027, según se detalla en el presente cotizador, Proveedor debe adjuntar lo ofertado, e indicar el Medio digital Regional de Aysén, enfocado 100% a información regional, que incluya sitio web, Instagram y Facebook, debe indicar el sitio web, el cual debe contener noticias y espacio publicitario. Una vez finalizado el servicio, el proveedor deberá remitir los medios de verificación correspondientes",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "publicidad",
+    "redes sociales"
+   ],
+   "nueva": true,
+   "codigo": "1057062-540-COT26",
+   "nombre": "Servicio de Publicidad en periódico multiplataforma de Coyhaique",
+   "organismo": "UNIVERSIDAD DE AYSEN",
+   "unidad": "Proyectos",
+   "monto": 2560000,
+   "cierre_iso": "2026-11-16T09:00:00-03:00",
+   "publicacion": "13-11 17:40",
+   "publicacion_iso": "2026-11-13T17:40:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "82101504",
+     "Publicidad en periódicos",
+     1,
+     "Servicio de Publicidad en periódico multiplataforma de Coyhaique, con la Incorporación de banner web en formato 1000 x 90 px (computador) y 600 x 200 px (celulares), además de la publicación de un video de 60 segundos en Instagram y Facebook, con vigencia hasta el 30 de enero. El servicio debe prestarse en un periódico o revista digital local de Coyhaique con amplia cobertura, sitio web activo y redes sociales que acrediten al menos 20 mil seguidores en Instagram y 60 mil en Facebook."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1057062-540-COT26",
+   "sin_detalle": false,
+   "descripcion": "Serv. de publicidad web y redes sociales en medio escrito digital de Coyhaique. El serv debe prestarse en un periódico o revista digital local de Coyhaique con amplia cobertura, sitio web activo y redes sociales que acrediten al menos 20 mil seguidores en Instagram y 60 mil en Facebook.Proveedor debe detallar lo ofertado e indicar el medio de publicidad. Una vez finalizado el servicio, el proveedor deberá remitir los medios de verificación correspondientes y cumplir con el presente cotizador",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Inserciones publicitarias en medios"
+   ],
+   "nueva": true,
+   "codigo": "1057062-538-COT26",
+   "nombre": "Servicio de difusión publicitaria y entrevistas en canal de televisión local de Coyhaique ",
+   "organismo": "UNIVERSIDAD DE AYSEN",
+   "unidad": "Proyectos",
+   "monto": 4400000,
+   "cierre_iso": "2026-11-16T09:00:00-03:00",
+   "publicacion": "13-11 17:23",
+   "publicacion_iso": "2026-11-13T17:23:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "82101902",
+     "Avisos en televisión",
+     1,
+     "Emisión de un spot de difusión de admisión (de 30 a 45 segundos, provisto por la Universidad) con al menos 3 repeticiones diarias, vigente hasta el 30 de enero. El medio debe ser un canal de televisión local de Coyhaique con señal abierta, señal digital en cableoperador local (ej. VTR) y alcance interregional (ej. TelSur - GTD).Una vez finalizado el servicio, el proveedor deberá remitir los medios de verificación correspondientes que acrediten su cumplimiento, los cuales serán requisito indispen"
+    ],
+    [
+     "82101902",
+     "Avisos en televisión",
+     6,
+     "6 entrevistas con entrevistador/a propio del canal. El medio debe ser un canal de televisión local de Coyhaique con señal abierta, señal digital en cableoperador local (ej. VTR) y alcance interregional (ej. TelSur - GTD)Una vez finalizado el servicio, el proveedor deberá remitir los medios de verificación correspondientes que acrediten su cumplimiento, los cuales serán requisito indispensable para gestionar el pago"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1057062-538-COT26",
+   "sin_detalle": false,
+   "descripcion": "Servicio de difusión publicitaria y entrevistas en canal de televisión local de Coyhaique, según se detalla en el presente cotizador, el proveedor deberá detallar lo ofertado, indicando el canal de televisión local de Coyahqiue con señal abierta, señal digital en cableoperador local (ej. VTR) y alcance interregional (ej. TelSur - GTD). La vigencia del contrato será hasta el 30 de enero de 2027.",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "difusión",
+    "publicidad",
+    "publicitaria",
+    "radial",
+    "radio"
+   ],
+   "nueva": true,
+   "codigo": "1057062-537-COT26",
+   "nombre": "Servicio de difusión publicitaria en medio radial multiplataforma de alcance nacional.FISABS N°1872 – URY 2457 ",
+   "organismo": "UNIVERSIDAD DE AYSEN",
+   "unidad": "Proyectos",
+   "monto": 4235000,
+   "cierre_iso": "2026-11-16T09:00:00-03:00",
+   "publicacion": "13-11 17:04",
+   "publicacion_iso": "2026-11-13T17:04:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "52161511",
+     "Radios",
+     1,
+     "Servicio de Publicidad en Radio multiplataforma de cobertura Nacional (plataformas de radio, TV, web y RRSS), hasta el 30 de enro de 2026, segun se detlla en el adjunto"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1057062-537-COT26",
+   "sin_detalle": false,
+   "descripcion": "Publicidad en Radio multiplataforma de cobertura Nacional, con vigencia hasya el 30 de enero 2027, debe realizarse como colaboración pagada y etiquetada con enlace directo a la red social o web institucional. El medio oferente debe tener circulación nacional (plataformas de radio, TV, web y RRSS) y ubicarse dentro de los 3 primeros lugares en audiencia digital del país. Proveedor debe detallar lo ofertado que cumpla con al menos lo indicado en el adjunto (ver)",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
     "Publicidad en medios no impresos"
    ],
    "nueva": true,
@@ -864,6 +955,35 @@
   {
    "tipo": "POSIBLE",
    "motivos": [
+    "fotografía"
+   ],
+   "nueva": true,
+   "codigo": "2151-90-COT26",
+   "nombre": "Adquisición de Estantes Armarios Metálicos para Oficina",
+   "organismo": "SERVICIO NAC DE SALUD HOSPITAL DE PTO CISNES",
+   "unidad": "Hospital Puerto Cisnes",
+   "monto": 456900,
+   "cierre_iso": "2026-11-16T17:20:00-03:00",
+   "publicacion": "13-11 17:11",
+   "publicacion_iso": "2026-11-13T17:11:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "56101530",
+     "Armarios de almacenamiento",
+     2,
+     "Armario metálico para oficina, apto para archivadores tamaño oficio. Dimensiones: 180 cm alto x 90 cm ancho x 40 cm profundidad, o superiores en cada medida. Fabricado en acero, con cerradura con llave y bandejas metálicas ajustables. De fácil armado, nuevo y sin uso. Se adjunta fotografía referencial. Obligatorio adjuntar ficha técnica o catálogo del producto ofertado para verificar cumplimiento; de lo contrario, la oferta será declarada inadmisible."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=2151-90-COT26",
+   "sin_detalle": false,
+   "descripcion": "Adquisición de 2 estantes armarios metálicos para uso en oficina, destinados al almacenamiento de archivadores y documentación administrativa. Deberán contar con dimensiones adecuadas para guardar archivadores tamaño oficio en posición vertical y repisas resistentes. Productos nuevos, sin uso y en óptimas condiciones. La cotización deberá incluir despacho hasta el Hospital de Puerto Cisnes y adjuntar ficha técnica o catálogo. El monto máx. de la oferta no deberá superar el presupuesto disponible",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
     "avisos",
     "publicidad"
    ],
@@ -1051,6 +1171,25 @@
  ],
  "historial": [
   {
+   "codigo": "734-216-COT26",
+   "nombre": "Material gráfico ",
+   "organismo": "SERVICIO DE SALUD AYSEN CARLOS IBANEZ DEL CAMPO",
+   "monto": 850000,
+   "cierre_iso": "2026-11-13T17:00:00-03:00",
+   "tipo": "POSIBLE",
+   "motivos": [
+    "publicidad",
+    "publicitarios"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=734-216-COT26",
+   "primera_vista_iso": "2026-11-12T13:45:25-03:00",
+   "removida_iso": "2026-11-13T18:00:26-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
+  {
    "codigo": "2495-652-COT26",
    "nombre": "SERVICIO DE COBERTURA AUDIOVISUAL, TRANSMISIÓN Y DIFUSIÓN DE LA EXPO GANADERA COYHAIQUE 2026",
    "organismo": "I MUNICIPALIDAD DE COYHAIQUE",
@@ -1140,7 +1279,7 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=4066-504-COT26",
    "primera_vista_iso": "2026-11-12T09:58:37-03:00",
    "removida_iso": "2026-11-13T10:00:25-03:00",
-   "estado_api": null,
+   "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,
    "adj_iso": null
@@ -1490,60 +1629,6 @@
    ],
    "link": "https://buscador.mercadopublico.cl/ficha?code=1233615-929-COT26",
    "primera_vista_iso": "2026-11-04T14:23:11-03:00",
-   "removida_iso": "2026-11-10T19:26:29-03:00",
-   "estado_api": "",
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "3797-519-COT26",
-   "nombre": "CAPACITACIÓN ONLINE: \"PROBIDAD Y ÉTICA EN LA ADMINISTRACIÓN PÚBLICA\"",
-   "organismo": "I MUNICIPALIDAD DE COCHRANE",
-   "monto": 2000000,
-   "cierre_iso": "2026-11-06T18:00:00-03:00",
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Ventas y marketing"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=3797-519-COT26",
-   "primera_vista_iso": "2026-11-05T19:47:37-03:00",
-   "removida_iso": "2026-11-10T19:26:29-03:00",
-   "estado_api": "",
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "1233615-946-COT26",
-   "nombre": "NDF/SOL-2026-02353/Servicio de sala cuna para hijo de funcionaria",
-   "organismo": "Servicio Local de Educación Pública Aysén",
-   "monto": 1300000,
-   "cierre_iso": "2026-11-06T17:45:00-03:00",
-   "tipo": "POSIBLE",
-   "motivos": [
-    "radio"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1233615-946-COT26",
-   "primera_vista_iso": "2026-11-05T19:47:37-03:00",
-   "removida_iso": "2026-11-10T19:26:29-03:00",
-   "estado_api": "",
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "4066-486-COT26",
-   "nombre": "Servicio de producción de eventos para el Hito de Finalización del PLADETUR en Villa Cerro Castillo",
-   "organismo": "I MUNICIPALIDAD RIO IBANEZ",
-   "monto": 3000000,
-   "cierre_iso": "2026-11-06T17:17:00-03:00",
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Ventas y marketing"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=4066-486-COT26",
-   "primera_vista_iso": "2026-11-05T19:47:37-03:00",
    "removida_iso": "2026-11-10T19:26:29-03:00",
    "estado_api": "",
    "adj_nombre": null,
