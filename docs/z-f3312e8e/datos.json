@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-11-14T15:00:27.922708-03:00",
+ "actualizado": "2026-11-14T16:00:24.562869-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
- "total_region": 295,
+ "total_region": 285,
  "rubros": {
   "25172700": "Aire acondicionado",
   "25173900": "Componentes eléctricos",
@@ -19,41 +19,6 @@
   "39121400": "Conectores, enchufes y terminales"
  },
  "filas": [
-  {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Materiales de física de electricidad"
-   ],
-   "nueva": false,
-   "codigo": "4649-102-COT26",
-   "nombre": "Adquisición de Generador y Betonera A.I.Coyhaique",
-   "organismo": "CORP NACIONAL FORESTAL",
-   "unidad": "XI Región - Prov. Coyhaique",
-   "monto": 1100000,
-   "cierre_iso": "2026-11-14T15:20:00-03:00",
-   "publicacion": "12-11 16:16",
-   "publicacion_iso": "2026-11-12T16:16:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "22101609",
-     "Mezcladoras de material de pavimentación",
-     1,
-     "Betonera (trompo) 200 Litros 800 W TVL200 acorde a las especificaciones técnicas adjuntas No debe sobrepasar monto disponible por producto y línea. Adjuntar fichas técnicas o fotos referenciales, además patente municipal que acredite proveedor local."
-    ],
-    [
-     "60104907",
-     "Generadores portátiles",
-     1,
-     "Generador Eléctrico a Gasolina Partida Manual 2200 W 15 l acorde a las especificaciones técnicas adjuntas No debe sobrepasar monto disponible por producto y línea. Adjuntar fichas técnicas o fotos referenciales, además patente municipal que acredite proveedor local."
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=4649-102-COT26",
-   "sin_detalle": false,
-   "descripcion": "Según SIC N°563  y SIC REF N° 395  Se requiere compra de generador y betonera de las características señaladas, todo en el marco del Programa GORE Ecosistemas Forestales con Enfoque en Silvicultura Preventiva en la región de Aysén. No se cancelaran costos asociados con el envió. Se priorizará proveedor local, adjuntar patente Municipal para acreditación (excluyente)",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
   {
    "tipo": "POSIBLE",
    "motivos": [
@@ -911,7 +876,7 @@
    "motivos": [
     "electricidad"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "1057062-535-COT26",
    "nombre": "Adquisición de Kit didáctico de auto de exploración de energía_ Según FISABS 2466",
    "organismo": "UNIVERSIDAD DE AYSEN",
@@ -1216,7 +1181,7 @@
    "motivos": [
     "certificación sec"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "3950-740-COT26",
    "nombre": "MAQUINA SELLADORA PARA MANGAS",
    "organismo": "DIRECCION SALUD RURAL",
@@ -1580,7 +1545,7 @@
    "motivos": [
     "electricidad"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "1182705-207-COT26",
    "nombre": "SERVICIO DE MOVILIZACION SOLICITUD N°0222 VCM CRY26851 PROYECTO TNS EN ELECTRICIDAD SEDE COYHAIQUE",
    "organismo": "CENTRO DE FORMACIÓN TÉCNICA DE LA REGIÓN DE AYSÉN DEL GENERAL CARLOS I",
@@ -2316,6 +2281,24 @@
   }
  ],
  "historial": [
+  {
+   "codigo": "4649-102-COT26",
+   "nombre": "Adquisición de Generador y Betonera A.I.Coyhaique",
+   "organismo": "CORP NACIONAL FORESTAL",
+   "monto": 1100000,
+   "cierre_iso": "2026-11-14T15:20:00-03:00",
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Materiales de física de electricidad"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=4649-102-COT26",
+   "primera_vista_iso": "2026-11-12T18:12:42-03:00",
+   "removida_iso": "2026-11-14T16:00:24-03:00",
+   "estado_api": "",
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
   {
    "codigo": "1233615-960-COT26",
    "nombre": "DMH [SOL-2026-02150] Recursos para el aprendizaje e innovación (focos, atriles y otros) para Liceo Politécnico A-1 de Puerto Aysén",
