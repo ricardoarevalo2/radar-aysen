@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-11-14T13:00:23.467462-03:00",
+ "actualizado": "2026-11-14T14:00:25.264105-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
- "total_region": 306,
+ "total_region": 299,
  "rubros": {
   "25172700": "Aire acondicionado",
   "25173900": "Componentes eléctricos",
@@ -942,7 +942,7 @@
     "Conectores, enchufes y terminales",
     "Interruptores, controles y relés"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "1092-89-COT26",
    "nombre": " SIC N°464 SIRE N°449 Materiales de construcción DEPRIF",
    "organismo": "CORP NACIONAL FORESTAL",
@@ -1679,7 +1679,7 @@
    "motivos": [
     "alargador"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "1691-2103-COT26",
    "nombre": "TAPP - ALARGADOR ARTERIAL 100 CM  M/H PARA REPOSICIÓN INSUMOS DEL HOSPITAL REGIONAL COYHAIQUE.",
    "organismo": "SERVICIO NACIONAL DE SALUD HOSPITAL DE C",
@@ -1708,7 +1708,7 @@
    "motivos": [
     "ampolletas"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "2495-658-COT26",
    "nombre": "MATERIALES ARREGLOS ",
    "organismo": "I MUNICIPALIDAD DE COYHAIQUE",
@@ -2059,7 +2059,7 @@
    "motivos": [
     "Gasfitería, calefacción y aire acondicionado"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "4626-37-COT26",
    "nombre": "Servicio mantención y reparación de Calefactores Murales a Gas",
    "organismo": "DIRECCION DEL TRABAJO",
@@ -2290,7 +2290,7 @@
    "motivos": [
     "eléctrico"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "911089-110-COT26",
    "nombre": "ADQUISICION DEL SERVICIO PARA CONSTRUCCION DE PORTON ELECTRICO VEHICULAR Y CIERRE PERIMETRAL EN LA POBLACION DE SUBOFICIALES EN LA LOCALIDAD DE COCHRANE",
    "organismo": "Zona de Bienestar \"Coyhaique\"",

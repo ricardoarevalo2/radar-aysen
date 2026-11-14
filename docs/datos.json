@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-11-14T13:00:23.467462-03:00",
+ "actualizado": "2026-11-14T14:00:25.264105-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
- "total_region": 306,
+ "total_region": 299,
  "rubros": {
   "80141600": "Ventas y marketing",
   "82101600": "Publicidad en medios no impresos",
@@ -14,66 +14,6 @@
   "83121700": "Comunicación social y de masas"
  },
  "filas": [
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "publicidad",
-    "publicitarios"
-   ],
-   "nueva": true,
-   "codigo": "1182705-209-COT26",
-   "nombre": "ADQUISICION DE CREDENCIALES , FOLIO N°227",
-   "organismo": "CENTRO DE FORMACIÓN TÉCNICA DE LA REGIÓN DE AYSÉN DEL GENERAL CARLOS I",
-   "unidad": "FINANZAS",
-   "monto": 500000,
-   "cierre_iso": "2026-11-14T13:00:00-03:00",
-   "publicacion": "13-11 12:56",
-   "publicacion_iso": "2026-11-13T12:56:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "82101507",
-     "Folletos y catálogos publicitarios, servicios de publicidad y distribución",
-     40,
-     "CREDENCIALES PVC CON LANYARD + PORTA CREDENCIAL (AZUL) (los diseños se compartirán al proveedor que se adjudique la compra)"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1182705-209-COT26",
-   "sin_detalle": false,
-   "descripcion": "Se requiere credenciales para ceremonia TNS en Enfermería a realizar el 25 de noviembre del 2026. Los productos deben ser entregados en oficina ubicado en Sargento Aldea 533, Puerto Aysén",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "aviso",
-    "avisos"
-   ],
-   "nueva": false,
-   "codigo": "1092-86-COT26",
-   "nombre": "SIC 457 SIRE 471 SERVICIOS PROFECIONALES",
-   "organismo": "CORP NACIONAL FORESTAL",
-   "unidad": "XI Región - Oficina Regional de Aysén",
-   "monto": 6000000,
-   "cierre_iso": "2026-11-14T13:00:00-03:00",
-   "publicacion": "11-11 12:50",
-   "publicacion_iso": "2026-11-11T12:50:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "70151508",
-     "Servicios de asistencia forestal",
-     1,
-     "CONTRATACIÓN DE SERVICIO PROFESIONALES DE UN INGENIERO/A FORESTAL PRESENTACIÓN DE AVISOS EJECUCIÓN DE AVISOS DE POSTERGACIÓN LEY 20283 COMUNA COYHAIQUE – RIO IBAÑEZ LA FINALIDAD ES CONTRATAR LOS SERVICIOS PROFESIONALES DE UN INGENIERO/A FORESTAL QUE LOGRE ASUMIR FUNCIONES DE APOYO EN LA PRESENTACIÓN DE 28 AVISO EJECUCIÓN DE AVISOS DE POSTERGACIÓN ASOCIADOS A PLANES DE MANEJO FORESTAL"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1092-86-COT26",
-   "sin_detalle": false,
-   "descripcion": "CONTRATACIÓN DE SERVICIO PROFESIONALES DE UN INGENIERO/A FORESTAL PRESENTACIÓN DE AVISOS EJECUCIÓN DE AVISOS DE POSTERGACIÓN LEY 20283 COMUNA COYHAIQUE – RIO IBAÑEZ La finalidad es contratar los servicios profesionales de un Ingeniero/a Forestal que logre asumir funciones de apoyo en la presentación de 28 aviso ejecución de Avisos de postergación asociados a Planes de manejo forestal ley 20283 (se adjunta Requerimientos y bases técnicas)",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
   {
    "tipo": "OPORTUNIDAD",
    "motivos": [
@@ -195,7 +135,7 @@
    "motivos": [
     "publicitaria"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "1182705-206-COT26",
    "nombre": "ADQUISICION DE SERVICIO DE IMPRENSION Y PLOTEO, FOLIO N°223 VCM",
    "organismo": "CENTRO DE FORMACIÓN TÉCNICA DE LA REGIÓN DE AYSÉN DEL GENERAL CARLOS I",
@@ -1080,6 +1020,44 @@
   }
  ],
  "historial": [
+  {
+   "codigo": "1092-86-COT26",
+   "nombre": "SIC 457 SIRE 471 SERVICIOS PROFECIONALES",
+   "organismo": "CORP NACIONAL FORESTAL",
+   "monto": 6000000,
+   "cierre_iso": "2026-11-14T13:00:00-03:00",
+   "tipo": "POSIBLE",
+   "motivos": [
+    "aviso",
+    "avisos"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1092-86-COT26",
+   "primera_vista_iso": "2026-11-11T14:18:43-03:00",
+   "removida_iso": "2026-11-14T14:00:25-03:00",
+   "estado_api": "",
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
+  {
+   "codigo": "1182705-209-COT26",
+   "nombre": "ADQUISICION DE CREDENCIALES , FOLIO N°227",
+   "organismo": "CENTRO DE FORMACIÓN TÉCNICA DE LA REGIÓN DE AYSÉN DEL GENERAL CARLOS I",
+   "monto": 500000,
+   "cierre_iso": "2026-11-14T13:00:00-03:00",
+   "tipo": "POSIBLE",
+   "motivos": [
+    "publicidad",
+    "publicitarios"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1182705-209-COT26",
+   "primera_vista_iso": "2026-11-13T14:00:24-03:00",
+   "removida_iso": "2026-11-14T14:00:25-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
   {
    "codigo": "3797-538-COT26",
    "nombre": "TAZONES PERSONALIZADOS",
