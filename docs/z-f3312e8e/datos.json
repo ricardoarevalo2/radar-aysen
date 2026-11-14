@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-11-14T16:00:24.562869-03:00",
+ "actualizado": "2026-11-14T17:00:28.091356-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
- "total_region": 285,
+ "total_region": 282,
  "rubros": {
   "25172700": "Aire acondicionado",
   "25173900": "Componentes eléctricos",
@@ -19,35 +19,6 @@
   "39121400": "Conectores, enchufes y terminales"
  },
  "filas": [
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "enchufes"
-   ],
-   "nueva": false,
-   "codigo": "3950-736-COT26",
-   "nombre": "PRODUCCION DE EVENTO \"PRIMER CONSEJO TECNICO DE GESTORES DE CASO\"",
-   "organismo": "DIRECCION SALUD RURAL",
-   "unidad": "Dirección de Salud Rural",
-   "monto": 250000,
-   "cierre_iso": "2026-11-14T16:00:00-03:00",
-   "publicacion": "12-11 15:59",
-   "publicacion_iso": "2026-11-12T15:59:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "90101603",
-     "Servicios de catering",
-     1,
-     "COFFE BREAK PARA 20 PERSONAS EL 25 DE NOVIEMBRE DEL 2026, UBICACION TERCER PISO CAJA LOS ANDES COYHAIQUE, CALLE EUSEBIO LILLO N°20, adjunta propuesta detallada.\nconsiderar mesas plegables y termos ya que no se dispone de enchufes cercanos en el sector donde se montara."
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=3950-736-COT26",
-   "sin_detalle": false,
-   "descripcion": "INCLUIR GASTOS OPERACIONALES EN COTIZACION",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
   {
    "tipo": "POSIBLE",
    "motivos": [
@@ -1876,7 +1847,7 @@
    "motivos": [
     "Suministros y accesorios eléctricos"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "1485465-45-COT26",
    "nombre": "Equipo técnico de sonido Municipalidad O’Higgins",
    "organismo": "I. Municipalidad de O'Higgins ",
@@ -2053,7 +2024,7 @@
    "motivos": [
     "eléctrico"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "1173433-23-COT26",
    "nombre": "MAQUINARIA Y EQUIPAMIENTO PARA ACTIVIDADES PRODUCTIVAS C.E.T. VALLE VERDE",
    "organismo": "Centro de Educación y Trabajo Valle Verde",
@@ -2281,6 +2252,24 @@
   }
  ],
  "historial": [
+  {
+   "codigo": "3950-736-COT26",
+   "nombre": "PRODUCCION DE EVENTO \"PRIMER CONSEJO TECNICO DE GESTORES DE CASO\"",
+   "organismo": "DIRECCION SALUD RURAL",
+   "monto": 250000,
+   "cierre_iso": "2026-11-14T16:00:00-03:00",
+   "tipo": "POSIBLE",
+   "motivos": [
+    "enchufes"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=3950-736-COT26",
+   "primera_vista_iso": "2026-11-12T18:12:42-03:00",
+   "removida_iso": "2026-11-14T17:00:28-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
   {
    "codigo": "4649-102-COT26",
    "nombre": "Adquisición de Generador y Betonera A.I.Coyhaique",

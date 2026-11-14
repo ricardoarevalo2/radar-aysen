@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-11-14T16:00:24.562869-03:00",
+ "actualizado": "2026-11-14T17:00:28.091356-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
- "total_region": 285,
+ "total_region": 282,
  "rubros": {
   "80141600": "Ventas y marketing",
   "82101600": "Publicidad en medios no impresos",
@@ -549,7 +549,7 @@
    "motivos": [
     "Publicidad en medios no impresos"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "1057062-536-COT26",
    "nombre": "Servicio de Pauta Publicitaria en Redes Sociales (Meta, Google y YouTube Ads)",
    "organismo": "UNIVERSIDAD DE AYSEN",
@@ -578,7 +578,7 @@
    "motivos": [
     "Publicidad en medios no impresos"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "1057062-534-COT26",
    "nombre": "Servicio de elaboración y producción integral de spot radial. FISABS N°1872 – URY 2457",
    "organismo": "UNIVERSIDAD DE AYSEN",
@@ -609,7 +609,7 @@
     "cápsula audiovisual",
     "spot"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "1057062-529-COT26",
    "nombre": "Servicio de producción y grabación de spot audiovisual (30 segundos). Proyecto URY 2557 _ FISABS 2271",
    "organismo": "UNIVERSIDAD DE AYSEN",
@@ -963,6 +963,37 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=4889-48-COT26",
    "sin_detalle": false,
    "descripcion": "La Secretaría Regional Ministerial de las Culturas, las Artes y el Patrimonio de la Región de Aysén requiere contratar Servicios integrales de producción para jornada de bienestar y formación CeCrea",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "difusión",
+    "publicidad",
+    "publicitarias"
+   ],
+   "nueva": true,
+   "codigo": "657-100-COT26",
+   "nombre": "publicidad y difucion a traves de banderas pendones y otros en subsidios habitacionales",
+   "organismo": "SERVICIO DE VIVIENDA Y URBANIZACION XI REGION",
+   "unidad": "SERVIU XI REGION",
+   "monto": 900000,
+   "cierre_iso": "2026-11-18T18:00:00-03:00",
+   "publicacion": "14-11 16:23",
+   "publicacion_iso": "2026-11-14T16:23:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "82101502",
+     "Publicidad en carteles",
+     1,
+     "-\t06 Pendón roller 80x200 cm con funda y soporte.\n-\t06 banderas vela publicitarias con mástil y bases 70x220 cm.\n-\t02 toldo plegable de 3x3 metros carpa impermeable con cortina laterales UV (easy)\n-\t03 mini pendón roller de escritorio 21x32 cm.-"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=657-100-COT26",
+   "sin_detalle": false,
+   "descripcion": "El SERVIU Región de Aysén requiere la adquisición de adquisición de pendones roller, banderas velas publicitarias con mástil y base, mini pendones y toldo plegable, los cuales serán utilizados en actividades en terreno desarrolladas por la OIRS Coyhaique, la Delegación Aysén y la Delegación Cochrane.La contratación resulta necesaria para fortalecer la difusión y publicidad de información institucional en los subsidios, apoyar la atención a usuarios en terreno se adjunta especificaciones",
    "en_gracia": false,
    "desaparecida_iso": ""
   },
