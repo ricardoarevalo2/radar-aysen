@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-11-13T20:00:33.523198-03:00",
+ "actualizado": "2026-11-13T21:00:25.229869-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
- "total_region": 338,
+ "total_region": 335,
  "rubros": {
   "25172700": "Aire acondicionado",
   "25173900": "Componentes eléctricos",
@@ -19,35 +19,6 @@
   "39121400": "Conectores, enchufes y terminales"
  },
  "filas": [
-  {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Conectores, enchufes y terminales"
-   ],
-   "nueva": false,
-   "codigo": "1233615-963-COT26",
-   "nombre": "DMH SOL-2026-01931] Recursos TICS para Escuela \"Litoral Austral\" de Puerto Aysén",
-   "organismo": "Servicio Local de Educación Pública Aysén",
-   "unidad": "Servicio Local de Educación Pública Aysén",
-   "monto": 302470,
-   "cierre_iso": "2026-11-13T20:16:00-03:00",
-   "publicacion": "09-11 11:11",
-   "publicacion_iso": "2026-11-09T11:11:00-03:00",
-   "ofertas": 1,
-   "productos": [
-    [
-     "39121409",
-     "Conectores de cables eléctricos",
-     1,
-     "insumos, accesorios y equipamiento informático necesarios para garantizar la continuidad operativa, mantención y adecuado funcionamiento de los recursos tecnológicos de la Escuela Litoral Austral, de acuerdo a requerimiento adjunto a la presente compra (debe llenar el formulario N°1)"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1233615-963-COT26",
-   "sin_detalle": false,
-   "descripcion": "Se solicita la adquisición de insumos, accesorios y equipamiento informático necesarios para garantizar la continuidad operativa, mantención y adecuado funcionamiento de los recursos tecnológicos de la Escuela Litoral Austral.",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
   {
    "tipo": "POSIBLE",
    "motivos": [
@@ -2315,6 +2286,35 @@
    "desaparecida_iso": ""
   },
   {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Gasfitería, calefacción y aire acondicionado"
+   ],
+   "nueva": true,
+   "codigo": "1905-88-COT26",
+   "nombre": "Servicio de mejoramiento de calefacción en equipos de aire acondicionado en oficinas de Puerto Aysén y Coyhaique",
+   "organismo": "SERVICIO DE REGISTRO CIVIL E IDENTIFICAC",
+   "unidad": "Dirección Regional XI Región",
+   "monto": 3600000,
+   "cierre_iso": "2026-11-17T16:00:00-03:00",
+   "publicacion": "13-11 20:53",
+   "publicacion_iso": "2026-11-13T20:53:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "72102302",
+     "Instalación, reparación o mantenimiento de sistemas de calefacción",
+     1,
+     "Servicio de mejoramiento de calefacción en equipos de aire acondicionado en oficinas de Puerto Aysén y Coyhaique"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1905-88-COT26",
+   "sin_detalle": false,
+   "descripcion": "Servicio de mejoramiento de calefacción de aire acondicionado en oficina de Puerto Aysén y Coyhaique. Favor (revisar los TDR en los archivos adjuntos y fechas de visita en terreno)",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
    "tipo": "POSIBLE",
    "motivos": [
     "eléctrico"
@@ -2345,6 +2345,24 @@
   }
  ],
  "historial": [
+  {
+   "codigo": "1233615-963-COT26",
+   "nombre": "DMH SOL-2026-01931] Recursos TICS para Escuela \"Litoral Austral\" de Puerto Aysén",
+   "organismo": "Servicio Local de Educación Pública Aysén",
+   "monto": 302470,
+   "cierre_iso": "2026-11-13T20:16:00-03:00",
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Conectores, enchufes y terminales"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1233615-963-COT26",
+   "primera_vista_iso": "2026-11-10T19:26:29-03:00",
+   "removida_iso": "2026-11-13T21:00:25-03:00",
+   "estado_api": "",
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
   {
    "codigo": "1078779-25-COT26",
    "nombre": "Aire acondicionado",
