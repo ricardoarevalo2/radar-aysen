@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-11-14T12:00:23.736028-03:00",
+ "actualizado": "2026-11-14T12:54:24.928182-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
- "total_region": 314,
+ "total_region": 306,
  "rubros": {
   "80141600": "Ventas y marketing",
   "82101600": "Publicidad en medios no impresos",
@@ -14,108 +14,6 @@
   "83121700": "Comunicación social y de masas"
  },
  "filas": [
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "difusión",
-    "marketing",
-    "publicidad"
-   ],
-   "nueva": true,
-   "codigo": "3797-538-COT26",
-   "nombre": "TAZONES PERSONALIZADOS",
-   "organismo": "I MUNICIPALIDAD DE COCHRANE",
-   "unidad": "I MUNICIPALIDAD DE COCHRANE",
-   "monto": 120000,
-   "cierre_iso": "2026-11-14T12:00:00-03:00",
-   "publicacion": "13-11 11:33",
-   "publicacion_iso": "2026-11-13T11:33:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "60105409",
-     "Materiales educativos de publicidad y marketing de marca",
-     20,
-     "Tazones personalizados. \nDiseños proporcionados por la municipalidad luego de su adjudicación."
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=3797-538-COT26",
-   "sin_detalle": false,
-   "descripcion": "Adquisición de tazones personalizadas con identidad gráfica institucional, destinados al Área de Comunicaciones para apoyar las acciones de promoción y difusión turística de la comuna, bajo el concepto \"Cochrane, Destino Todo el Año\".",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "publicitaria"
-   ],
-   "nueva": true,
-   "codigo": "1182705-206-COT26",
-   "nombre": "ADQUISICION DE SERVICIO DE IMPRENSION Y PLOTEO, FOLIO N°223 VCM",
-   "organismo": "CENTRO DE FORMACIÓN TÉCNICA DE LA REGIÓN DE AYSÉN DEL GENERAL CARLOS I",
-   "unidad": "FINANZAS",
-   "monto": 699000,
-   "cierre_iso": "2026-11-14T12:30:00-03:00",
-   "publicacion": "13-11 12:16",
-   "publicacion_iso": "2026-11-13T12:16:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "82121505",
-     "Impresión promocional o publicitaria",
-     502,
-     "Impresión láser color foto formato carta/oficio, una cara, tramo de 501 impresiones o más. Servicio destinado a impresión por ambas caras de trípticos educativos del proyecto VcM sobre prevención, primeros auxilios, signos de alarma y cuidados veterinarios.(adjuntar cotización)."
-    ],
-    [
-     "82121505",
-     "Impresión promocional o publicitaria",
-     251,
-     "Papel couché glossy tamaño oficio 216 × 330 mm, gramaje 170 g, destinado como soporte de 251 trípticos educativos impresos a color por ambas caras. (adjuntar cotización)."
-    ],
-    [
-     "82121505",
-     "Impresión promocional o publicitaria",
-     100,
-     "Impresión láser color foto formato carta/oficio, una cara, tramo 51–100 impresiones. Servicio destinado a impresión por ambas caras de tarjetas educativas y material de consulta rápida sobre actuación inicial ante urgencias veterinarias. (adjuntar cotización)."
-    ],
-    [
-     "82121505",
-     "Impresión promocional o publicitaria",
-     50,
-     "Papel couché glossy tamaño oficio, gramaje 170 g, utilizado como soporte para 50 unidades de material educativo impreso por ambas caras. (adjuntar cotización)."
-    ],
-    [
-     "82121505",
-     "Impresión promocional o publicitaria",
-     100,
-     "Impresión láser color foto formato carta/oficio, una cara, tramo 51–100 impresiones. Destinada a fichas educativas, checklist de botiquín, fichas de signos de alarma, instrumentos pre/post y material complementario para actividades comunitarias. (adjuntar cotización)."
-    ],
-    [
-     "82121505",
-     "Impresión promocional o publicitaria",
-     4,
-     "Servicio de corte y terminación de material gráfico impreso, destinado principalmente a fichas, tarjetas educativas y otros recursos que requieran dimensionamiento posterior a la impresión. (adjuntar cotización)."
-    ],
-    [
-     "82121505",
-     "Impresión promocional o publicitaria",
-     1,
-     "Servicio de ploteo a color en papel bond (2,1 metro lineal), imagen y texto, destinado a afiches, infografías de apoyo y señalética pedagógica utilizada durante las estaciones educativas y actividades comunitarias del proyecto. (adjuntar cotización)."
-    ],
-    [
-     "82121505",
-     "Impresión promocional o publicitaria",
-     1000,
-     "Papel couché glossy tamaño oficio, gramaje 170 g, destinado como soporte para 100 unidades de material pedagógico impreso a color por una cara. (adjuntar cotización)."
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1182705-206-COT26",
-   "sin_detalle": false,
-   "descripcion": "Se solicita el servicio de impresión de trípticos, tarjetas y afiches, para actividad pedagógica   del proyecto  Vinculación con el Medio: “Aysén Cuida a sus Mascotas, Educación Comunitaria para la Prevención y Respuesta Inicial ante Urgencias Veterinarias”, de la carrera TNS en Veterinaria y Producción Agrícola del CFT de la Región de Aysén. Los productos deben ser entregado en oficina ubicada en José miguel Carrera 133, Coyhaique",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
   {
    "tipo": "POSIBLE",
    "motivos": [
@@ -268,7 +166,7 @@
    "motivos": [
     "Ventas y marketing"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "2495-657-COT26",
    "nombre": "SERVICIO DE COFFEE BREAK AM Y AGENDA MÁS LAPIZ PARA SEMINARIO MESA RAV - 60 PERSONAS ",
    "organismo": "I MUNICIPALIDAD DE COYHAIQUE",
@@ -289,6 +187,77 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=2495-657-COT26",
    "sin_detalle": false,
    "descripcion": "Se requiere servicio de coffee break AM y merchandising personalizado para 60 personas, para el día 19 de noviembre de 2026, en el Centro Cultural. El servicio debe incluir alimentación dulce y salada, bebidas, montaje y desmontaje, además de 60 agendas o libretas y 60 lápices pasta personalizados con identidad gráfica de la Mesa RAV y/o Municipalidad de Coyhaique, previa aprobación. Especificaciones adjuntas en TTR.",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "publicitaria"
+   ],
+   "nueva": true,
+   "codigo": "1182705-206-COT26",
+   "nombre": "ADQUISICION DE SERVICIO DE IMPRENSION Y PLOTEO, FOLIO N°223 VCM",
+   "organismo": "CENTRO DE FORMACIÓN TÉCNICA DE LA REGIÓN DE AYSÉN DEL GENERAL CARLOS I",
+   "unidad": "FINANZAS",
+   "monto": 699000,
+   "cierre_iso": "2026-11-15T12:43:00-03:00",
+   "publicacion": "13-11 12:16",
+   "publicacion_iso": "2026-11-13T12:16:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "82121505",
+     "Impresión promocional o publicitaria",
+     502,
+     "Impresión láser color foto formato carta/oficio, una cara, tramo de 501 impresiones o más. Servicio destinado a impresión por ambas caras de trípticos educativos del proyecto VcM sobre prevención, primeros auxilios, signos de alarma y cuidados veterinarios.(adjuntar cotización)."
+    ],
+    [
+     "82121505",
+     "Impresión promocional o publicitaria",
+     251,
+     "Papel couché glossy tamaño oficio 216 × 330 mm, gramaje 170 g, destinado como soporte de 251 trípticos educativos impresos a color por ambas caras. (adjuntar cotización)."
+    ],
+    [
+     "82121505",
+     "Impresión promocional o publicitaria",
+     100,
+     "Impresión láser color foto formato carta/oficio, una cara, tramo 51–100 impresiones. Servicio destinado a impresión por ambas caras de tarjetas educativas y material de consulta rápida sobre actuación inicial ante urgencias veterinarias. (adjuntar cotización)."
+    ],
+    [
+     "82121505",
+     "Impresión promocional o publicitaria",
+     50,
+     "Papel couché glossy tamaño oficio, gramaje 170 g, utilizado como soporte para 50 unidades de material educativo impreso por ambas caras. (adjuntar cotización)."
+    ],
+    [
+     "82121505",
+     "Impresión promocional o publicitaria",
+     100,
+     "Impresión láser color foto formato carta/oficio, una cara, tramo 51–100 impresiones. Destinada a fichas educativas, checklist de botiquín, fichas de signos de alarma, instrumentos pre/post y material complementario para actividades comunitarias. (adjuntar cotización)."
+    ],
+    [
+     "82121505",
+     "Impresión promocional o publicitaria",
+     4,
+     "Servicio de corte y terminación de material gráfico impreso, destinado principalmente a fichas, tarjetas educativas y otros recursos que requieran dimensionamiento posterior a la impresión. (adjuntar cotización)."
+    ],
+    [
+     "82121505",
+     "Impresión promocional o publicitaria",
+     1,
+     "Servicio de ploteo a color en papel bond (2,1 metro lineal), imagen y texto, destinado a afiches, infografías de apoyo y señalética pedagógica utilizada durante las estaciones educativas y actividades comunitarias del proyecto. (adjuntar cotización)."
+    ],
+    [
+     "82121505",
+     "Impresión promocional o publicitaria",
+     1000,
+     "Papel couché glossy tamaño oficio, gramaje 170 g, destinado como soporte para 100 unidades de material pedagógico impreso a color por una cara. (adjuntar cotización)."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1182705-206-COT26",
+   "sin_detalle": false,
+   "descripcion": "Se solicita el servicio de impresión de trípticos, tarjetas y afiches, para actividad pedagógica   del proyecto  Vinculación con el Medio: “Aysén Cuida a sus Mascotas, Educación Comunitaria para la Prevención y Respuesta Inicial ante Urgencias Veterinarias”, de la carrera TNS en Veterinaria y Producción Agrícola del CFT de la Región de Aysén. Los productos deben ser entregado en oficina ubicada en José miguel Carrera 133, Coyhaique",
    "en_gracia": false,
    "desaparecida_iso": ""
   },
@@ -758,7 +727,7 @@
    "motivos": [
     "Ventas y marketing"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "1182705-205-COT26",
    "nombre": "SERVICIO DE PRODUCCION DE EVENTOS SOLICITUD N°0225 VCM CRY26851 PROYECTO TNS EN ADMINISTRACION DE EMPRESA Y NEGOCIOS",
    "organismo": "CENTRO DE FORMACIÓN TÉCNICA DE LA REGIÓN DE AYSÉN DEL GENERAL CARLOS I",
@@ -840,7 +809,7 @@
    "motivos": [
     "difusión"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "1332-44-COT26",
    "nombre": "HERRAMIENTAS TECNOLÓGICAS PARA EL SISTEMA DE INFORMACIÓN TURÍSTICA AYSÉN PATAGONIA",
    "organismo": "Servicio Nacional de Turismo",
@@ -1029,6 +998,35 @@
    "desaparecida_iso": ""
   },
   {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Ventas y marketing"
+   ],
+   "nueva": false,
+   "codigo": "4889-48-COT26",
+   "nombre": "Servicios integrales de producción para jornada de bienestar y formación CeCrea -  SEREMI de las Culturas, las Artes y el Patrimonio Región de Aysén",
+   "organismo": "Subsecretaria de las Culturas y las Artes Región de Aysen",
+   "unidad": "Consejo Regional de Cultura Región de Aysen",
+   "monto": 2000000,
+   "cierre_iso": "2026-11-18T17:52:00-03:00",
+   "publicacion": "06-11 10:07",
+   "publicacion_iso": "2026-11-06T10:07:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "80141607",
+     "Producción de eventos",
+     1,
+     "Servicios integrales de producción para jornada de bienestar y formación CeCrea. Detalle en PDF adjunto."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=4889-48-COT26",
+   "sin_detalle": false,
+   "descripcion": "La Secretaría Regional Ministerial de las Culturas, las Artes y el Patrimonio de la Región de Aysén requiere contratar Servicios integrales de producción para jornada de bienestar y formación CeCrea",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
    "tipo": "POSIBLE",
    "motivos": [
     "registro fotográfico"
@@ -1082,6 +1080,26 @@
   }
  ],
  "historial": [
+  {
+   "codigo": "3797-538-COT26",
+   "nombre": "TAZONES PERSONALIZADOS",
+   "organismo": "I MUNICIPALIDAD DE COCHRANE",
+   "monto": 120000,
+   "cierre_iso": "2026-11-14T12:00:00-03:00",
+   "tipo": "POSIBLE",
+   "motivos": [
+    "difusión",
+    "marketing",
+    "publicidad"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=3797-538-COT26",
+   "primera_vista_iso": "2026-11-13T12:00:25-03:00",
+   "removida_iso": "2026-11-14T12:54:24-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
   {
    "codigo": "1233615-960-COT26",
    "nombre": "DMH [SOL-2026-02150] Recursos para el aprendizaje e innovación (focos, atriles y otros) para Liceo Politécnico A-1 de Puerto Aysén",
