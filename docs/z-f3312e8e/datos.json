@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-11-14T18:00:22.618396-03:00",
+ "actualizado": "2026-11-14T19:00:23.910197-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
- "total_region": 281,
+ "total_region": 278,
  "rubros": {
   "25172700": "Aire acondicionado",
   "25173900": "Componentes eléctricos",
@@ -19,299 +19,6 @@
   "39121400": "Conectores, enchufes y terminales"
  },
  "filas": [
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "alargador"
-   ],
-   "nueva": false,
-   "codigo": "1057062-533-COT26",
-   "nombre": "Adquisición de insumos de laboratorio para el Centro de Simulación, FISABS N°1872 – URY 2457",
-   "organismo": "UNIVERSIDAD DE AYSEN",
-   "unidad": "Proyectos",
-   "monto": 7244000,
-   "cierre_iso": "2026-11-14T18:00:00-03:00",
-   "publicacion": "12-11 17:08",
-   "publicacion_iso": "2026-11-12T17:08:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "31201616",
-     "Adhesivos líquidos",
-     2,
-     "2 bidones de Látex natural líquido, 5 litros c/bidón, Meister o equivalente"
-    ],
-    [
-     "41104115",
-     "Contenedores de recogida con filtro de suero",
-     1000,
-     "Cloruro De Sodio 0,9% 20ml formato Ampolla, Biosano o equivalente"
-    ],
-    [
-     "41114501",
-     "Dinamómetros",
-     2,
-     "Dinamómetro digital de mano, 5 posiciones de manilla para distintos tamaños de\nmano. Medición en Kg y libras"
-    ],
-    [
-     "41115830",
-     "Analizadores de glucosa",
-     200,
-     "Tiras reactivas para examen de glucosa, Prodigy o equivalente"
-    ],
-    [
-     "41115830",
-     "Analizadores de glucosa",
-     200,
-     "Lancetas individuales para punción capilar, marca Prodigy 28G o equivalente,\ncompatibles con dispositivos de punción correspondientes. Presentación en cajas de\n100 unidades o formato equivalente"
-    ],
-    [
-     "42131601",
-     "Delantales o pecheras para el personal sanitario",
-     700,
-     "Pechera plástica con mangas y ojal para pulgar, impermeable apto para riesgos\nfísicos y/o químicos, color celeste."
-    ],
-    [
-     "42131701",
-     "Cobertores para cirugía",
-     3,
-     "Cobertor para cama clínica 1,5 plaza blanco"
-    ],
-    [
-     "42131702",
-     "Batas quirúrgicas",
-     8,
-     "Camisa/bata para pacientes, blanca, de tela con amarras atrás."
-    ],
-    [
-     "42132105",
-     "Sábanas de hospital",
-     3,
-     "3 SET/Juego de cama clínica 1,5 plaza, color blanco"
-    ],
-    [
-     "42132205",
-     "Guantes quirúrgicos",
-     4,
-     "Cajas de guantes quirúrgico estéril libre de látex talla 6,5 caja x 50 pares c/u"
-    ],
-    [
-     "42132205",
-     "Guantes quirúrgicos",
-     4,
-     "Cajas de guante quirúrgico estéril libre de látex talla 7,5 caja x 50 unidades c/u"
-    ],
-    [
-     "42143102",
-     "Dispositivos uterinos o accesorios",
-     2,
-     "Histerómetro recto 32 cm x unidad"
-    ],
-    [
-     "42181608",
-     "Accesorios de instrumental de medición de la tensión arterial",
-     25,
-     "Alargador arterial LUER macho–macho 150 cm. o equivalente"
-    ],
-    [
-     "42181608",
-     "Accesorios de instrumental de medición de la tensión arterial",
-     25,
-     "Alargador venoso simple macho-hembra 25 cm. o equivalente"
-    ],
-    [
-     "42181709",
-     "Papel de registro de electrocardiografía (ECG)",
-     20,
-     "Papel para electrocardiógrafo 210 mm × 20 mt , se requiere por unidad, 20 rollos"
-    ],
-    [
-     "42181709",
-     "Papel de registro de electrocardiografía (ECG)",
-     20,
-     "Papel para electrocardiógrafo 6,0 cm x 30 mt , se requiere por unidad, 20 rollos"
-    ],
-    [
-     "42182702",
-     "Cintas métricas médicas",
-     10,
-     "Cinta métrica (huincha 1-2 m) cefálica SECA 212 o equivalente"
-    ],
-    [
-     "42183026",
-     "Oftalmodinamómetros",
-     2,
-     "Tabla de Snellen para evaluación de agudeza visual, desde distancias de 3 a 6 metros\no equivalente"
-    ],
-    [
-     "42192211",
-     "Tablas para el movimiento de pacientes o accesorios",
-     2,
-     "Tabla corta para RCP"
-    ],
-    [
-     "42221609",
-     "Juegos de administración de tubos arteriales o intravenosos",
-     50,
-     "Set administración de soluciones con bureta, graduada de 100 cc y 150 cc."
-    ],
-    [
-     "42251617",
-     "Cojines de asiento terapéuticos o accesorios",
-     4,
-     "Cojín separador de piernas forrado x unidad"
-    ],
-    [
-     "42271915",
-     "Accesorios de traqueotomía",
-     10,
-     "Filtro para cánula de TQT, libre de látex y DEHP, conector universal 15 mm, puerto de\noxígeno y aspiración, esterilizado en óxido de etileno, ISO 9360-2 o equivalente"
-    ],
-    [
-     "42281808",
-     "Papeles u hojas de esterilización",
-     2,
-     "Rollos de papel grado médico tubular termosellante para esterilización, sin fuelle. Se\nrequiere un ancho de 25 cm, con largo de rollo de 100 o 200 metros, o formato\nequivalente disponible que cumpla con las EETT."
-    ],
-    [
-     "42291609",
-     "Pinzas quirúrgicas",
-     4,
-     "Pinza Bozzeman curva 26 cm. o equivalente"
-    ],
-    [
-     "42291609",
-     "Pinzas quirúrgicas",
-     10,
-     "Pinza quirúrgica 14 cm con dientes (1×2)"
-    ],
-    [
-     "42291614",
-     "Tijeras quirúrgicas",
-     10,
-     "Tijera Mayo quirúrgica curva 14 cm (Roma/Roma) o equivalente"
-    ],
-    [
-     "42292603",
-     "Sondas o directores quirúrgicos",
-     2,
-     "Sonda Sengstaken N°21 Fr. o equivalente"
-    ],
-    [
-     "42311506",
-     "Vendas o apósitos compresores",
-     10,
-     "Venda triangular en diferentes partes del cuerpo, doblada, extendida, utilizada como\ncabestrillo; medidas referenciales: 96 x 96 x 136 cm o equivalente"
-    ],
-    [
-     "42311532",
-     "Apósitos secos",
-     100,
-     "Apósito de Gasa no tejida + Algodon Esteril 10x10 Cm."
-    ],
-    [
-     "42311708",
-     "Cintas adhesivas médicas y quirúrgicas para el uso general",
-     200,
-     "Apósitos adhesivos estériles o Parche Curita Estéril para cubrir y proteger heridas\nmenores, marca Curaplast o equivalente. Presentación referencial en cajas de 100\nunidades o según formato comercial disponible. El proveedor deberá indicar la\npresentación y cantidad de unidades por envase ofertado."
-    ],
-    [
-     "42311903",
-     "Drenaje médico de incisión",
-     4,
-     "Drenaje S sotecno medical o equivalente de aspiración continua 400 ml. c/u"
-    ],
-    [
-     "42311903",
-     "Drenaje médico de incisión",
-     4,
-     "Drenaje tipo redón drenofast o equivalente. Equipo base de 200 CC. c/u"
-    ],
-    [
-     "42312201",
-     "Sutura",
-     144,
-     "Sutura de ácido poliglicólico calibre 2/0, con aguja. Presentación en cajas de 36\nunidades o formato equivalente. Se requiere un total de 144 unidades individuales"
-    ],
-    [
-     "42312201",
-     "Sutura",
-     144,
-     "Sutura de Nylon Monofilamento 2/0 con aguja. Presentación en cajas de 36 unidades\no formato equivalente. Se requiere un total de 144 unidades individuales"
-    ],
-    [
-     "42312201",
-     "Sutura",
-     144,
-     "Sutura de Nylon Monofilamento 3/0 con aguja. Presentación en cajas de 36 unidades\no formato equivalente. Se requiere un total de 144 unidades individuales"
-    ],
-    [
-     "42312201",
-     "Sutura",
-     20,
-     "20 unidades de Monofilamento"
-    ],
-    [
-     "49221506",
-     "Colchonetas",
-     6,
-     "Colchoneta deportiva densidad 80 (100 × 50 × 5 cm) x unidad"
-    ],
-    [
-     "51102702",
-     "Agua destilada para irrigación",
-     20,
-     "Agua Bidestilada en Matraz 1000 ml. c/ unidad"
-    ],
-    [
-     "53102306",
-     "Pañales para adultos",
-     1,
-     "Pañal adulto talla XG,1 paquete x 8 unidades"
-    ],
-    [
-     "53102707",
-     "Delantal de doctor",
-     2,
-     "2 Delantales clínico de tela largo unisex blanco, talla M"
-    ],
-    [
-     "53102707",
-     "Delantal de doctor",
-     2,
-     "2 Delantales clínico de tela largo unisex blanco, talla L"
-    ],
-    [
-     "53102707",
-     "Delantal de doctor",
-     2,
-     "2 Delantales clínico de tela largo unisex blanco, talla XL"
-    ],
-    [
-     "53121501",
-     "Bolsos",
-     2,
-     "Bolso de rescate mediano azul, medidas 33cm ancho, 21cm alto, 24cm profundidad; o\nequivalente"
-    ],
-    [
-     "53131614",
-     "Productos para el cuidado de los pies",
-     2,
-     "Talco 200 gr. hipoalergénico x unidad"
-    ],
-    [
-     "73101702",
-     "Servicios de producción de vacunas, sueros o antibióticos",
-     1000,
-     "Suero fisiológico 0,9% 10 ml Biosano o equivalente"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1057062-533-COT26",
-   "sin_detalle": false,
-   "descripcion": "Se requiere adquirir insumos, materiales y equipamiento para el Centro de Simulación, según EETT. Oferentes\ndeberán presentar y adjuntar una cotización detallada que incluya ficha técnica o mayor descripción de producto/s\npara acreditar cumplimiento del requerimiento. Indicar plazo de entrega en días hábiles, valores con IVA y flete\nincluido hasta Eusebio Lillo N°667, Coyhaique. Se podría privilegiar el menor plazo de entrega entre ofertas siempre\nque cumpla con todo lo requerido.",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
   {
    "tipo": "OPORTUNIDAD",
    "motivos": [
@@ -2252,6 +1959,24 @@
   }
  ],
  "historial": [
+  {
+   "codigo": "1057062-533-COT26",
+   "nombre": "Adquisición de insumos de laboratorio para el Centro de Simulación, FISABS N°1872 – URY 2457",
+   "organismo": "UNIVERSIDAD DE AYSEN",
+   "monto": 7244000,
+   "cierre_iso": "2026-11-14T18:00:00-03:00",
+   "tipo": "POSIBLE",
+   "motivos": [
+    "alargador"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1057062-533-COT26",
+   "primera_vista_iso": "2026-11-12T18:12:42-03:00",
+   "removida_iso": "2026-11-14T19:00:23-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
   {
    "codigo": "3950-736-COT26",
    "nombre": "PRODUCCION DE EVENTO \"PRIMER CONSEJO TECNICO DE GESTORES DE CASO\"",

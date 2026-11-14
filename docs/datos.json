@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-11-14T18:00:22.618396-03:00",
+ "actualizado": "2026-11-14T19:00:23.910197-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
- "total_region": 281,
+ "total_region": 278,
  "rubros": {
   "80141600": "Ventas y marketing",
   "82101600": "Publicidad en medios no impresos",
@@ -422,7 +422,7 @@
    "motivos": [
     "Ventas y marketing"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "1057062-541-COT26",
    "nombre": "Servicio de difusión de contenidos, entrevistas y banner en medio digital.",
    "organismo": "UNIVERSIDAD DE AYSEN",
@@ -452,7 +452,7 @@
     "publicidad",
     "redes sociales"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "1057062-540-COT26",
    "nombre": "Servicio de Publicidad en periódico multiplataforma de Coyhaique",
    "organismo": "UNIVERSIDAD DE AYSEN",
@@ -481,7 +481,7 @@
    "motivos": [
     "Inserciones publicitarias en medios"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "1057062-538-COT26",
    "nombre": "Servicio de difusión publicitaria y entrevistas en canal de televisión local de Coyhaique ",
    "organismo": "UNIVERSIDAD DE AYSEN",
@@ -520,7 +520,7 @@
     "radial",
     "radio"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "1057062-537-COT26",
    "nombre": "Servicio de difusión publicitaria en medio radial multiplataforma de alcance nacional.FISABS N°1872 – URY 2457 ",
    "organismo": "UNIVERSIDAD DE AYSEN",
@@ -778,7 +778,7 @@
    "motivos": [
     "fotografía"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "2151-90-COT26",
    "nombre": "Adquisición de Estantes Armarios Metálicos para Oficina",
    "organismo": "SERVICIO NAC DE SALUD HOSPITAL DE PTO CISNES",
