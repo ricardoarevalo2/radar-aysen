@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-14T07:00:22.295513-03:00",
+ "actualizado": "2026-11-14T08:00:25.576706-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
  "total_region": 323,
@@ -1558,43 +1558,6 @@
     "difusión"
    ],
    "link": "https://buscador.mercadopublico.cl/ficha?code=1233615-932-COT26",
-   "primera_vista_iso": "2026-11-04T14:23:11-03:00",
-   "removida_iso": "2026-11-10T19:26:29-03:00",
-   "estado_api": "",
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "1233615-931-COT26",
-   "nombre": "DMH [SOL-2026-02150] Recursos para el aprendizaje e innovación (hidrolavadora y manguera) para Liceo Politécnico A-1 de Puerto Aysén",
-   "organismo": "Servicio Local de Educación Pública Aysén",
-   "monto": 200000,
-   "cierre_iso": "2026-11-07T07:20:00-03:00",
-   "tipo": "POSIBLE",
-   "motivos": [
-    "difusión"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1233615-931-COT26",
-   "primera_vista_iso": "2026-11-04T14:23:11-03:00",
-   "removida_iso": "2026-11-10T19:26:29-03:00",
-   "estado_api": "",
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "1233615-929-COT26",
-   "nombre": "DMH [SOL-2026-02150] Recursos para el aprendizaje e innovación para Liceo Politécnico A-1 de Puerto Aysén",
-   "organismo": "Servicio Local de Educación Pública Aysén",
-   "monto": 600000,
-   "cierre_iso": "2026-11-07T07:03:00-03:00",
-   "tipo": "POSIBLE",
-   "motivos": [
-    "difusión",
-    "publicidad"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1233615-929-COT26",
    "primera_vista_iso": "2026-11-04T14:23:11-03:00",
    "removida_iso": "2026-11-10T19:26:29-03:00",
    "estado_api": "",
