@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-11-14T09:00:24.012268-03:00",
+ "actualizado": "2026-11-14T10:00:33.540025-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
- "total_region": 322,
+ "total_region": 321,
  "rubros": {
   "80141600": "Ventas y marketing",
   "82101600": "Publicidad en medios no impresos",
@@ -811,7 +811,7 @@
    "motivos": [
     "comunicacional"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "854-34-COT26",
    "nombre": "Traslado de funcionarias JI Comunicacional distintas localidades",
    "organismo": "JUNTA NACIONAL DE JARDINES         INFANTILES",
