@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-11-14T14:00:25.264105-03:00",
+ "actualizado": "2026-11-14T15:00:27.922708-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
- "total_region": 299,
+ "total_region": 295,
  "rubros": {
   "80141600": "Ventas y marketing",
   "82101600": "Publicidad en medios no impresos",
@@ -14,35 +14,6 @@
   "83121700": "Comunicación social y de masas"
  },
  "filas": [
-  {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Ventas y marketing"
-   ],
-   "nueva": true,
-   "codigo": "1182705-210-COT26",
-   "nombre": " PRODUCCION DE EVENTO PARA CEREMONIA DE INVESTIDURA TNS EN ENFERMERIA 2026, folio 2026",
-   "organismo": "CENTRO DE FORMACIÓN TÉCNICA DE LA REGIÓN DE AYSÉN DEL GENERAL CARLOS I",
-   "unidad": "FINANZAS",
-   "monto": 2000000,
-   "cierre_iso": "2026-11-14T14:30:00-03:00",
-   "publicacion": "13-11 14:27",
-   "publicacion_iso": "2026-11-13T14:27:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "80141607",
-     "Producción de eventos",
-     1,
-     "Ornamentación debe incluir escenario (Tamaño: 4 metros de ancho y 10 metros de largo aprox.), ornamentación de escenario y la entrada del polideportivo, flores en el escenario, puesto de fotografía investidura ornamentado. se deben incluir 200 sillas y 50 accesorios para decorar cada silla (estudiantes). Por disponibilidad del recinto, el armado se debe realizar el día 25 de noviembre de las 9:30 horas en adelante. La prestación incluye la instalación y retiro de gomas de protección del piso."
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1182705-210-COT26",
-   "sin_detalle": false,
-   "descripcion": "Se requiere servicio de producción de eventos para 200 personas, ceremonia TNS en Enfermería 2026, actividad programada para el día miércoles 25 de noviembre 2026 a las 18:00 hrs, en recinto del Polideportivo de Puerto Aysén.",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
   {
    "tipo": "OPORTUNIDAD",
    "motivos": [
@@ -198,6 +169,35 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=1182705-206-COT26",
    "sin_detalle": false,
    "descripcion": "Se solicita el servicio de impresión de trípticos, tarjetas y afiches, para actividad pedagógica   del proyecto  Vinculación con el Medio: “Aysén Cuida a sus Mascotas, Educación Comunitaria para la Prevención y Respuesta Inicial ante Urgencias Veterinarias”, de la carrera TNS en Veterinaria y Producción Agrícola del CFT de la Región de Aysén. Los productos deben ser entregado en oficina ubicada en José miguel Carrera 133, Coyhaique",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Ventas y marketing"
+   ],
+   "nueva": false,
+   "codigo": "1182705-210-COT26",
+   "nombre": " PRODUCCION DE EVENTO PARA CEREMONIA DE INVESTIDURA TNS EN ENFERMERIA 2026, folio 2026",
+   "organismo": "CENTRO DE FORMACIÓN TÉCNICA DE LA REGIÓN DE AYSÉN DEL GENERAL CARLOS I",
+   "unidad": "FINANZAS",
+   "monto": 2000000,
+   "cierre_iso": "2026-11-15T14:32:00-03:00",
+   "publicacion": "13-11 14:27",
+   "publicacion_iso": "2026-11-13T14:27:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "80141607",
+     "Producción de eventos",
+     1,
+     "Ornamentación debe incluir escenario (Tamaño: 4 metros de ancho y 10 metros de largo aprox.), ornamentación de escenario y la entrada del polideportivo, flores en el escenario, puesto de fotografía investidura ornamentado. se deben incluir 200 sillas y 50 accesorios para decorar cada silla (estudiantes). Por disponibilidad del recinto, el armado se debe realizar el día 25 de noviembre de las 9:30 horas en adelante. La prestación incluye la instalación y retiro de gomas de protección del piso."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1182705-210-COT26",
+   "sin_detalle": false,
+   "descripcion": "Se requiere servicio de producción de eventos para 200 personas, ceremonia TNS en Enfermería 2026, actividad programada para el día miércoles 25 de noviembre 2026 a las 18:00 hrs, en recinto del Polideportivo de Puerto Aysén.",
    "en_gracia": false,
    "desaparecida_iso": ""
   },
@@ -866,7 +866,7 @@
    "motivos": [
     "audiovisuales"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "1233615-995-COT26",
    "nombre": "RMG-SOL01535-Equipos audiovisuales, EMTP liceo Cerro Castillo 29.05",
    "organismo": "Servicio Local de Educación Pública Aysén",

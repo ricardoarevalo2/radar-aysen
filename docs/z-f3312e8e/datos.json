@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-11-14T14:00:25.264105-03:00",
+ "actualizado": "2026-11-14T15:00:27.922708-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
- "total_region": 299,
+ "total_region": 295,
  "rubros": {
   "25172700": "Aire acondicionado",
   "25173900": "Componentes eléctricos",
@@ -1245,7 +1245,7 @@
    "motivos": [
     "iluminación"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "1092-93-COT26",
    "nombre": "SIC N°453 SIRE N°437 Materiales de oficina",
    "organismo": "CORP NACIONAL FORESTAL",
