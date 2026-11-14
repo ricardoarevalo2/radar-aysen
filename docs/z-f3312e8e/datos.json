@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-11-14T10:00:33.540025-03:00",
+ "actualizado": "2026-11-14T11:00:25.654492-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
- "total_region": 321,
+ "total_region": 319,
  "rubros": {
   "25172700": "Aire acondicionado",
   "25173900": "Componentes eléctricos",
@@ -2030,7 +2030,7 @@
    "motivos": [
     "Gasfitería, calefacción y aire acondicionado"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "930039-37-COT26",
    "nombre": "REPARACIÓN DE RED HÚMEDA",
    "organismo": "SERVICIO NACIONAL DEL PATRIMONIO CULTURAL",
