@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-14T21:00:24.350652-03:00",
+ "actualizado": "2026-11-14T22:00:27.826541-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
  "total_region": 277,
@@ -1904,7 +1904,7 @@
    "motivos": [
     "Gasfitería, calefacción y aire acondicionado"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "1905-88-COT26",
    "nombre": "Servicio de mejoramiento de calefacción en equipos de aire acondicionado en oficinas de Puerto Aysén y Coyhaique",
    "organismo": "SERVICIO DE REGISTRO CIVIL E IDENTIFICAC",
