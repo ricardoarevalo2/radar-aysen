@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-11-15T07:00:22.510197-03:00",
+ "actualizado": "2026-11-15T08:00:23.531813-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
- "total_region": 273,
+ "total_region": 271,
  "rubros": {
   "80141600": "Ventas y marketing",
   "82101600": "Publicidad en medios no impresos",
@@ -14,35 +14,6 @@
   "83121700": "Comunicación social y de masas"
  },
  "filas": [
-  {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Inserciones publicitarias en medios"
-   ],
-   "nueva": false,
-   "codigo": "1274667-438-COT26",
-   "nombre": "RVB - SE SOLICITA SERVICIO DE AVISOS RADIALES PARA EL CESFAM DE PUERTO AYSEN",
-   "organismo": "CENTRO DE SALUD FAMILIAR PUERTO AYSÉN",
-   "unidad": "CENTRO DE SALUD FAMILIAR PUERTO AYSÉN",
-   "monto": 342150,
-   "cierre_iso": "2026-11-15T07:20:00-03:00",
-   "publicacion": "11-11 08:39",
-   "publicacion_iso": "2026-11-11T08:39:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "82101901",
-     "Avisos en radio",
-     1,
-     "Se requiere contratar un servicio de difusión de avisos radiales para informar a la comunidad sobre actividades, apertura de agendas médicas, campañas preventivas, prestaciones de salud y otras comunicaciones institucionales del CESFAM Puerto Aysén."
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1274667-438-COT26",
-   "sin_detalle": false,
-   "descripcion": "ADJUNTAR Cotización formal: indicar valor unitario neto por aviso radial, duración incluida en el precio, IVA, nombre de la emisora y vigencia de la oferta. - Ficha técnica del servicio indicando nombre de la emisora, frecuencia radial, cobertura y horarios disponibles para la transmisión.",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
   {
    "tipo": "OPORTUNIDAD",
    "motivos": [
@@ -1022,6 +993,24 @@
   }
  ],
  "historial": [
+  {
+   "codigo": "1274667-438-COT26",
+   "nombre": "RVB - SE SOLICITA SERVICIO DE AVISOS RADIALES PARA EL CESFAM DE PUERTO AYSEN",
+   "organismo": "CENTRO DE SALUD FAMILIAR PUERTO AYSÉN",
+   "monto": 342150,
+   "cierre_iso": "2026-11-15T07:20:00-03:00",
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Inserciones publicitarias en medios"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1274667-438-COT26",
+   "primera_vista_iso": "2026-11-11T14:18:43-03:00",
+   "removida_iso": "2026-11-15T08:00:23-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
   {
    "codigo": "2495-650-COT26",
    "nombre": "Producción de 2 sesiones de baños de bosque para 20 personas.",
