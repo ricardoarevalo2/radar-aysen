@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-11-15T10:00:28.831256-03:00",
+ "actualizado": "2026-11-15T11:00:23.760955-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
- "total_region": 268,
+ "total_region": 265,
  "rubros": {
   "80141600": "Ventas y marketing",
   "82101600": "Publicidad en medios no impresos",
@@ -14,35 +14,6 @@
   "83121700": "Comunicación social y de masas"
  },
  "filas": [
-  {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Ventas y marketing"
-   ],
-   "nueva": false,
-   "codigo": "2495-657-COT26",
-   "nombre": "SERVICIO DE COFFEE BREAK AM Y AGENDA MÁS LAPIZ PARA SEMINARIO MESA RAV - 60 PERSONAS ",
-   "organismo": "I MUNICIPALIDAD DE COYHAIQUE",
-   "unidad": "DIRECCION DESARROLLO COMUNITARIO",
-   "monto": 900000,
-   "cierre_iso": "2026-11-15T10:00:00-03:00",
-   "publicacion": "13-11 11:39",
-   "publicacion_iso": "2026-11-13T11:39:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "80141607",
-     "Producción de eventos",
-     1,
-     "Se requiere servicio de coffee break AM y merchandising personalizado para 60 personas, para el día 19 de noviembre de 2026, en el Centro Cultural. El servicio debe incluir alimentación dulce y salada, bebidas, montaje y desmontaje, además de 60 agendas o libretas y 60 lápices pasta personalizados con identidad gráfica de la Mesa RAV y/o Municipalidad de Coyhaique, previa aprobación. Especificaciones adjuntas en TTR."
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=2495-657-COT26",
-   "sin_detalle": false,
-   "descripcion": "Se requiere servicio de coffee break AM y merchandising personalizado para 60 personas, para el día 19 de noviembre de 2026, en el Centro Cultural. El servicio debe incluir alimentación dulce y salada, bebidas, montaje y desmontaje, además de 60 agendas o libretas y 60 lápices pasta personalizados con identidad gráfica de la Mesa RAV y/o Municipalidad de Coyhaique, previa aprobación. Especificaciones adjuntas en TTR.",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
   {
    "tipo": "POSIBLE",
    "motivos": [
@@ -993,6 +964,24 @@
   }
  ],
  "historial": [
+  {
+   "codigo": "2495-657-COT26",
+   "nombre": "SERVICIO DE COFFEE BREAK AM Y AGENDA MÁS LAPIZ PARA SEMINARIO MESA RAV - 60 PERSONAS ",
+   "organismo": "I MUNICIPALIDAD DE COYHAIQUE",
+   "monto": 900000,
+   "cierre_iso": "2026-11-15T10:00:00-03:00",
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Ventas y marketing"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=2495-657-COT26",
+   "primera_vista_iso": "2026-11-13T12:00:25-03:00",
+   "removida_iso": "2026-11-15T11:00:23-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
   {
    "codigo": "1274667-438-COT26",
    "nombre": "RVB - SE SOLICITA SERVICIO DE AVISOS RADIALES PARA EL CESFAM DE PUERTO AYSEN",
