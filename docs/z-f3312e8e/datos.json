@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-11-15T14:00:24.085161-03:00",
+ "actualizado": "2026-11-15T15:00:24.736467-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
- "total_region": 259,
+ "total_region": 256,
  "rubros": {
   "25172700": "Aire acondicionado",
   "25173900": "Componentes eléctricos",
@@ -19,35 +19,6 @@
   "39121400": "Conectores, enchufes y terminales"
  },
  "filas": [
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "iluminación"
-   ],
-   "nueva": false,
-   "codigo": "4066-508-COT26",
-   "nombre": "Compra de productos de ornamentación para actividades comunitarias de Navidad, programadas por Oficina Local de la Niñez.",
-   "organismo": "I MUNICIPALIDAD RIO IBANEZ",
-   "unidad": "DIDECO",
-   "monto": 1000000,
-   "cierre_iso": "2026-11-15T14:00:00-03:00",
-   "publicacion": "12-11 18:28",
-   "publicacion_iso": "2026-11-12T18:28:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "39111605",
-     "Iluminación paisajística y de zona",
-     1,
-     "Compra de productos de ornamentación para actividades comunitarias de Navidad, Mangueras de luces y estacas solares para recintos públicos, donde se desarrollarán actividades al aire libre, programadas por Oficina Local de la Niñez, junto a organizaciones sociales y familias de la Comuna. Se adjunta Términos de Referencia."
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=4066-508-COT26",
-   "sin_detalle": false,
-   "descripcion": "Compra de productos de ornamentación para actividades comunitarias de Navidad, a desarrollar junto a Organizaciones comunitarias y familias de las localidades de la Comuna de Río Ibáñez.",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
   {
    "tipo": "POSIBLE",
    "motivos": [
@@ -1480,6 +1451,24 @@
   }
  ],
  "historial": [
+  {
+   "codigo": "4066-508-COT26",
+   "nombre": "Compra de productos de ornamentación para actividades comunitarias de Navidad, programadas por Oficina Local de la Niñez.",
+   "organismo": "I MUNICIPALIDAD RIO IBANEZ",
+   "monto": 1000000,
+   "cierre_iso": "2026-11-15T14:00:00-03:00",
+   "tipo": "POSIBLE",
+   "motivos": [
+    "iluminación"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=4066-508-COT26",
+   "primera_vista_iso": "2026-11-12T19:00:24-03:00",
+   "removida_iso": "2026-11-15T15:00:24-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
   {
    "codigo": "4778-376-COT26",
    "nombre": " REC- SOLICITUD N° 10135-MEL- MEJORAMIEN ENTORNO LABORAL - DEBE INCLUIR DESPACHO",
