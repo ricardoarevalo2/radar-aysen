@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-11-15T03:00:22.459723-03:00",
+ "actualizado": "2026-11-15T04:00:23.424213-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
- "total_region": 277,
+ "total_region": 276,
  "rubros": {
   "80141600": "Ventas y marketing",
   "82101600": "Publicidad en medios no impresos",
@@ -14,35 +14,6 @@
   "83121700": "Comunicación social y de masas"
  },
  "filas": [
-  {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Ventas y marketing"
-   ],
-   "nueva": false,
-   "codigo": "2495-650-COT26",
-   "nombre": "Producción de 2 sesiones de baños de bosque para 20 personas.",
-   "organismo": "I MUNICIPALIDAD DE COYHAIQUE",
-   "unidad": "DIRECCION DESARROLLO COMUNITARIO",
-   "monto": 300000,
-   "cierre_iso": "2026-11-15T03:10:00-03:00",
-   "publicacion": "11-11 16:49",
-   "publicacion_iso": "2026-11-11T16:49:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "80141607",
-     "Producción de eventos",
-     2,
-     "Producción de 2 sesiones de baños de bosque para 20 personas: debe incluir monitor en baños de bosque o asociado y colación: Pan mas jugo o leche en caja."
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=2495-650-COT26",
-   "sin_detalle": false,
-   "descripcion": "Producción de 2 sesiones de baños de bosque para 20 personas: debe incluir monitor en baños de bosque o asociado y colación: Pan mas jugo.",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
   {
    "tipo": "OPORTUNIDAD",
    "motivos": [
@@ -1051,6 +1022,24 @@
   }
  ],
  "historial": [
+  {
+   "codigo": "2495-650-COT26",
+   "nombre": "Producción de 2 sesiones de baños de bosque para 20 personas.",
+   "organismo": "I MUNICIPALIDAD DE COYHAIQUE",
+   "monto": 300000,
+   "cierre_iso": "2026-11-15T03:10:00-03:00",
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Ventas y marketing"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=2495-650-COT26",
+   "primera_vista_iso": "2026-11-12T09:58:37-03:00",
+   "removida_iso": "2026-11-15T04:00:23-03:00",
+   "estado_api": "",
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
   {
    "codigo": "1092-86-COT26",
    "nombre": "SIC 457 SIRE 471 SERVICIOS PROFECIONALES",
