@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-11-16T09:00:25.870919-03:00",
+ "actualizado": "2026-11-16T10:00:36.465879-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
- "total_region": 238,
+ "total_region": 247,
  "rubros": {
   "80141600": "Ventas y marketing",
   "82101600": "Publicidad en medios no impresos",
@@ -430,6 +430,35 @@
    "desaparecida_iso": ""
   },
   {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "difusión"
+   ],
+   "nueva": true,
+   "codigo": "1153624-55-COT26",
+   "nombre": "SERVICIO DE TRANSPORTE PARA VISITA RAGIONAL",
+   "organismo": "SUBSECRETARIA DE RELACIONES ECONOMICAS INTERNACIONALES",
+   "unidad": "Departamento Adquisiciones MN",
+   "monto": 350000,
+   "cierre_iso": "2026-11-17T12:00:00-03:00",
+   "publicacion": "16-11 09:41",
+   "publicacion_iso": "2026-11-16T09:41:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "78111804",
+     "Servicios de taxi",
+     1,
+     "Servicio de trasporte para el martes 24 de noviembre, en 2 VAN para 10 personas C/U\nSEGÚN DETALLE ADJUNTO"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1153624-55-COT26",
+   "sin_detalle": false,
+   "descripcion": "La Subsecretaría de Relaciones Económicas Internacionales requiere contratar el servicio de trasporte de pasajeros en el marco de la visita regional a Aysén, para participar de la Mesa Comex y las actividades y reuniones de levantamiento de información y difusión de la Política Comercial a jóvenes de enseñanza media técnico-profesional. \nServicio de trasporte para el martes 24 de noviembre, en 2 VAN para 10 personas de acuerdo con el siguiente itinerario:\nSEGÚN DETALLE ADJUNTO",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
    "tipo": "OPORTUNIDAD",
    "motivos": [
     "Inserciones publicitarias en medios"
@@ -539,6 +568,98 @@
    "motivos": [
     "Ventas y marketing"
    ],
+   "nueva": true,
+   "codigo": "1233615-996-COT26",
+   "nombre": "AVT/SOL/2026/00318/Servicio de producción y ejecución encuentro robótica.",
+   "organismo": "Servicio Local de Educación Pública Aysén",
+   "unidad": "Servicio Local de Educación Pública Aysén",
+   "monto": 1600000,
+   "cierre_iso": "2026-11-17T17:00:00-03:00",
+   "publicacion": "16-11 09:49",
+   "publicacion_iso": "2026-11-16T09:49:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "80141607",
+     "Producción de eventos",
+     1,
+     "Servicio de producción y ejecución encuentro robótica, de acuerdo a lo indicado en los TDR y anexos adjuntos."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1233615-996-COT26",
+   "sin_detalle": false,
+   "descripcion": "Servicio de producción y ejecución encuentro robótica. De acuerdo a lo solicitado en archivos adjuntos.",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "audiovisual",
+    "comunicacional",
+    "difusión",
+    "radiales",
+    "redes sociales",
+    "transmisión en vivo"
+   ],
+   "nueva": true,
+   "codigo": "2495-652-COT26",
+   "nombre": "SERVICIO DE COBERTURA AUDIOVISUAL, TRANSMISIÓN Y DIFUSIÓN DE LA EXPO GANADERA COYHAIQUE 2026",
+   "organismo": "I MUNICIPALIDAD DE COYHAIQUE",
+   "unidad": "DIRECCION DESARROLLO COMUNITARIO",
+   "monto": 5500000,
+   "cierre_iso": "2026-11-18T04:33:00-03:00",
+   "publicacion": "11-11 17:38",
+   "publicacion_iso": "2026-11-11T17:38:00-03:00",
+   "ofertas": 1,
+   "productos": [
+    [
+     "43223207",
+     "Sistema de transmisión por secuencias de video",
+     1,
+     "Servicio integral que contempla difusión previa del evento, gestión de dos entrevistas radiales, cobertura audiovisual y fotográfica presencial durante los días 27, 28 y 29 de noviembre de 2026, generación de contenidos para redes sociales institucionales, entrevistas a 40 expositores, realización de al menos cuatro transmisiones en vivo, entrega de mínimo 150 fotografías editadas, videos de actividades relevantes, banco audiovisual organizado y video resumen institucional de 3 a 5 minutos."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=2495-652-COT26",
+   "sin_detalle": false,
+   "descripcion": "La Municipalidad de Coyhaique requiere contratar un servicio especializado de producción y cobertura audiovisual, difusión comunicacional y transmisión en vivo para la Expo Ganadera Coyhaique 2026, actividad que se realizará los días 27, 28 y 29 de noviembre de 2026, orientada a promover el desarrollo agropecuario comunal, los emprendimientos rurales, la identidad cultural campesina y el desarrollo económico local.",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Ventas y marketing"
+   ],
+   "nueva": true,
+   "codigo": "4066-518-COT26",
+   "nombre": "Servicio de producción de eventos feria de turismo rural en Bahía Murta 2026",
+   "organismo": "I MUNICIPALIDAD RIO IBANEZ",
+   "unidad": "DIDECO",
+   "monto": 6560000,
+   "cierre_iso": "2026-11-18T09:00:00-03:00",
+   "publicacion": "16-11 09:22",
+   "publicacion_iso": "2026-11-16T09:22:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "80141607",
+     "Producción de eventos",
+     1,
+     "CONTRATAR Y DISPONER DE UN SERVICIO DE PRODUCCIÓN DE EVENTOS PARA TRANSPORTE, ALIMENTACIÓN, ARTISTAS, AMPLIFICACIÓN, GENERACIÓN ELÉCTRICA, ANIMACIÓN, CLÍNICA DE KAYAK Y PREMIOS. SEGÚN DETALLES, FERIA DE TURISMO RURAL 2026, PARA DÍA 05.12.2026 EN LA LOCALIDAD DE BAHÍA MURTA. SEGÚN DETALLA TDR ADJUNTOS."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=4066-518-COT26",
+   "sin_detalle": false,
+   "descripcion": "LA I. MUNICIPALIDAD DE RÍO IBÁÑEZ, EN EL MARCO DE LA ACTIVIDAD DENOMINADA “FERIA DE TURISMO RURAL 2026”, REQUIERE CONTRATAR UN SERVICIO DE PRODUCCIÓN DE EVENTO PARA DISPONER DE SERVICIOS TRANSPORTE, ALIMENTACIÓN, ARTISTAS, AMPLIFICACIÓN, GENERACIÓN ELÉCTRICA, ANIMACIÓN, CLÍNICA DE KAYAK Y PREMIOS.  PARA LA ACTIVIDAD “FERIA DE TURISMO RURAL 2026”, PARA EL DÍA 05.12.2026, EN LA LOCALIDAD DE BAHÍA MURTA, SECTOR BAHÍA DEL LAGO GENERAL CARRERA. ADJUNTAR PATENTE MUNICIPAL VIGENTE.",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Ventas y marketing"
+   ],
    "nueva": false,
    "codigo": "4889-48-COT26",
    "nombre": "Servicios integrales de producción para jornada de bienestar y formación CeCrea -  SEREMI de las Culturas, las Artes y el Patrimonio Región de Aysén",
@@ -591,42 +712,6 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=657-100-COT26",
    "sin_detalle": false,
    "descripcion": "El SERVIU Región de Aysén requiere la adquisición de adquisición de pendones roller, banderas velas publicitarias con mástil y base, mini pendones y toldo plegable, los cuales serán utilizados en actividades en terreno desarrolladas por la OIRS Coyhaique, la Delegación Aysén y la Delegación Cochrane.La contratación resulta necesaria para fortalecer la difusión y publicidad de información institucional en los subsidios, apoyar la atención a usuarios en terreno se adjunta especificaciones",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "difusion",
-    "publicitarios"
-   ],
-   "nueva": true,
-   "codigo": "4609-315-COT26",
-   "nombre": "MATERIAL DE DIFUSION",
-   "organismo": "I MUNICIPALIDAD DE CHILE CHICO",
-   "unidad": "Finanzas",
-   "monto": 52380,
-   "cierre_iso": "2026-11-19T08:00:00-03:00",
-   "publicacion": "16-11 08:10",
-   "publicacion_iso": "2026-11-16T08:10:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "52121604",
-     "Mantel de mesa",
-     1,
-     "MANTEL CON LOGO INSTITUCIONAL ESTAMPADO"
-    ],
-    [
-     "82101501",
-     "Letreros publicitarios",
-     1,
-     "PENDON DE ESCRITORIO"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=4609-315-COT26",
-   "sin_detalle": false,
-   "descripcion": "COTIZACION MATERIAL DE DIFUSION",
    "en_gracia": false,
    "desaparecida_iso": ""
   },
@@ -994,29 +1079,6 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=734-216-COT26",
    "primera_vista_iso": "2026-11-12T13:45:25-03:00",
    "removida_iso": "2026-11-13T18:00:26-03:00",
-   "estado_api": "",
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "2495-652-COT26",
-   "nombre": "SERVICIO DE COBERTURA AUDIOVISUAL, TRANSMISIÓN Y DIFUSIÓN DE LA EXPO GANADERA COYHAIQUE 2026",
-   "organismo": "I MUNICIPALIDAD DE COYHAIQUE",
-   "monto": 5500000,
-   "cierre_iso": "2026-11-13T13:00:00-03:00",
-   "tipo": "POSIBLE",
-   "motivos": [
-    "audiovisual",
-    "comunicacional",
-    "difusión",
-    "radiales",
-    "redes sociales",
-    "transmisión en vivo"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=2495-652-COT26",
-   "primera_vista_iso": "2026-11-12T09:58:37-03:00",
-   "removida_iso": "2026-11-13T14:00:24-03:00",
    "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,
