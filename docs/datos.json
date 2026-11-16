@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-11-16T12:00:26.211851-03:00",
+ "actualizado": "2026-11-16T13:00:26.245046-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
- "total_region": 296,
+ "total_region": 303,
  "rubros": {
   "80141600": "Ventas y marketing",
   "82101600": "Publicidad en medios no impresos",
@@ -14,88 +14,6 @@
   "83121700": "Comunicación social y de masas"
  },
  "filas": [
-  {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Ventas y marketing"
-   ],
-   "nueva": false,
-   "codigo": "1182705-205-COT26",
-   "nombre": "SERVICIO DE PRODUCCION DE EVENTOS SOLICITUD N°0225 VCM CRY26851 PROYECTO TNS EN ADMINISTRACION DE EMPRESA Y NEGOCIOS",
-   "organismo": "CENTRO DE FORMACIÓN TÉCNICA DE LA REGIÓN DE AYSÉN DEL GENERAL CARLOS I",
-   "unidad": "FINANZAS",
-   "monto": 3119990,
-   "cierre_iso": "2026-11-16T12:00:00-03:00",
-   "publicacion": "13-11 11:30",
-   "publicacion_iso": "2026-11-13T11:30:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "80141607",
-     "Producción de eventos",
-     1,
-     "Sistema de proyección y amplificación para el Pitch de cierre: proyector, telón, consola de audio y micrófonos inalámbricos. debe incluir prueba técnica previa y retiro."
-    ],
-    [
-     "80141607",
-     "Producción de eventos",
-     1,
-     "Auditorio o sala para el evento final de Pitch y presentación de resultado. Con capacidad mínima de 40 personas, con mobiliario, conexión eléctrica y acceso a servicios higiénicos."
-    ],
-    [
-     "80141607",
-     "Producción de eventos",
-     30,
-     "Impresión de 30 guías de emprendimiento e innovación con plantillas de modelos canvas, mapas de empatía, rúbricas y cuadernillos de diagnóstico para cada estudiante."
-    ],
-    [
-     "80141607",
-     "Producción de eventos",
-     5,
-     "a)Kit de Branding Tangible (pendón Roller autoenrollable, logos adhesivos, etiquetas autoadhesivas) b) 5 Set de facilitación gráfica por equipo (post-it, plumones, papelógrafos, cartulinas, cinta, tijeras)  c) Pendrive 32 GB con entregables editables para cada emprendedor asesorado."
-    ],
-    [
-     "80141607",
-     "Producción de eventos",
-     40,
-     "Coffee breaks para el evento final de presentación de Pitch de cierre, para 40 personas. Coffee break para 40 personas (Café en grano. Té. Jugo natural. Leche normal, descremada, con y sin lactosa. Azúcar y endulzante. Variedad de galletas – 2 por persona, galletas de pastelería (opciones veganas y sin gluten). 2 mini pastelitos (opciones veganas y sin gluten). Variedad de mini sándwich frio en pan de miga o tapaditos en mini croissant, pan de hoja u otras variedades. Las opciones deben incluir"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1182705-205-COT26",
-   "sin_detalle": false,
-   "descripcion": "SE REQUIERE LA COMPRA DE SERVICIO DE PRODUCCION DE EVENTOS PARA EL DIA 25/11/2026, SE SOLICITA ADJUNTAR COTIZACION CON ITEMIZADO DE SERVICIO Y EL DETALLE DE LO QUE SE ESTA OFERTANDO",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "comunicacional"
-   ],
-   "nueva": false,
-   "codigo": "854-34-COT26",
-   "nombre": "Traslado de funcionarias JI Comunicacional distintas localidades",
-   "organismo": "JUNTA NACIONAL DE JARDINES         INFANTILES",
-   "unidad": "Junji - XI Región",
-   "monto": 6820000,
-   "cierre_iso": "2026-11-16T12:00:00-03:00",
-   "publicacion": "13-11 09:35",
-   "publicacion_iso": "2026-11-13T09:35:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "78111803",
-     "Servicios de autobuses contratados",
-     1,
-     "Traslado de funcionarios JUNJI a distintas localidades de la region, de acuerdo a calendario propuesto. Revisar especificaciones adjuntas"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=854-34-COT26",
-   "sin_detalle": false,
-   "descripcion": "Traslado de funcionarios del Jardin infantil comunicacional a distintas localidades, de acuerdo a las fechas indicadas. el oferente debe cumplir ocn los requisitos y adjuntar la documentación indicada en su propuesta. las salidas se desarrollarán durante el mes de novembre y diciembre.",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
   {
    "tipo": "OPORTUNIDAD",
    "motivos": [
@@ -869,6 +787,42 @@
   }
  ],
  "historial": [
+  {
+   "codigo": "854-34-COT26",
+   "nombre": "Traslado de funcionarias JI Comunicacional distintas localidades",
+   "organismo": "JUNTA NACIONAL DE JARDINES         INFANTILES",
+   "monto": 6820000,
+   "cierre_iso": "2026-11-16T12:00:00-03:00",
+   "tipo": "POSIBLE",
+   "motivos": [
+    "comunicacional"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=854-34-COT26",
+   "primera_vista_iso": "2026-11-13T10:00:25-03:00",
+   "removida_iso": "2026-11-16T13:00:26-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
+  {
+   "codigo": "1182705-205-COT26",
+   "nombre": "SERVICIO DE PRODUCCION DE EVENTOS SOLICITUD N°0225 VCM CRY26851 PROYECTO TNS EN ADMINISTRACION DE EMPRESA Y NEGOCIOS",
+   "organismo": "CENTRO DE FORMACIÓN TÉCNICA DE LA REGIÓN DE AYSÉN DEL GENERAL CARLOS I",
+   "monto": 3119990,
+   "cierre_iso": "2026-11-16T12:00:00-03:00",
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Ventas y marketing"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1182705-205-COT26",
+   "primera_vista_iso": "2026-11-13T12:00:25-03:00",
+   "removida_iso": "2026-11-16T13:00:26-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
   {
    "codigo": "1057062-527-COT26",
    "nombre": "Adquisición materiales e insumos para taller _ Según FISABS 2465_URY23991.",

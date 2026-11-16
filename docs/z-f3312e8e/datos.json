@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-11-16T12:00:26.211851-03:00",
+ "actualizado": "2026-11-16T13:00:26.245046-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
- "total_region": 296,
+ "total_region": 303,
  "rubros": {
   "25172700": "Aire acondicionado",
   "25173900": "Componentes eléctricos",
@@ -19,35 +19,6 @@
   "39121400": "Conectores, enchufes y terminales"
  },
  "filas": [
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "alargador"
-   ],
-   "nueva": false,
-   "codigo": "1691-2103-COT26",
-   "nombre": "TAPP - ALARGADOR ARTERIAL 100 CM  M/H PARA REPOSICIÓN INSUMOS DEL HOSPITAL REGIONAL COYHAIQUE.",
-   "organismo": "SERVICIO NACIONAL DE SALUD HOSPITAL DE C",
-   "unidad": "Compras de Insumos Clínicos",
-   "monto": 480000,
-   "cierre_iso": "2026-11-16T12:30:00-03:00",
-   "publicacion": "13-11 12:18",
-   "publicacion_iso": "2026-11-13T12:18:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "42221616",
-     "Sets de extensión para catéteres intravenosos o arteriales",
-     1000,
-     "CÓD. 42221621-3-601 ALARGADOR ARTERIAL 100 CM M/H"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1691-2103-COT26",
-   "sin_detalle": false,
-   "descripcion": "TAPP - ALARGADOR ARTERIAL 100 CM  M/H.\nLOS PRECIOS OFERTADOS DEBEN INCLUIR TODOS LOS COSTOS ASOCIADOS, INCLUDIOS FLETES HASTA LA \nDIRECCIÓN DE DESPACHO ESTABLECIDA.LAS PROPUESTAS DEBEN AJUSTARSE ESTRÍCTAMENTE A LAS \nCARACTERÍSTICAS TÉCNICAS INDICADAS EN CADA REQUERIMIENTO. SE SOLICITA ADJUNTAR FICHA TÉCNICA\nCORRESPONDIENTE A LOS PRODUCTOS O SERVICIOS OFRECIDOS. SE SOLICITA COTIZACIÓN POR 30 DÍAS. \nSE SOLICITA 1 GUÍA DE DESPACHO DENTRO DE LA CAJA.",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
   {
    "tipo": "POSIBLE",
    "motivos": [
@@ -697,6 +668,94 @@
   {
    "tipo": "OPORTUNIDAD",
    "motivos": [
+    "Suministros y accesorios eléctricos"
+   ],
+   "nueva": true,
+   "codigo": "1691-2128-COT26",
+   "nombre": " EFCC- ASAS DE RECECTOSCOPIO COD.: 27050 G K.STORZ UD PARA REPOSICIÓN DE INS. CLINICOS HRC",
+   "organismo": "SERVICIO NACIONAL DE SALUD HOSPITAL DE C",
+   "unidad": "Compras de Insumos Clínicos",
+   "monto": 1720000,
+   "cierre_iso": "2026-11-17T12:25:00-03:00",
+   "publicacion": "16-11 12:22",
+   "publicacion_iso": "2026-11-16T12:22:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "39121720",
+     "Asas de transformadores",
+     30,
+     "CÓD - 42340118-96-147 ASAS DE RECECTOSCOPIO COD.: 27050 G K.STORZ UD"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1691-2128-COT26",
+   "sin_detalle": false,
+   "descripcion": "ASAS DE RECECTOSCOPIO COD.: 27050 G K.STORZ UD PARA REPOSICIÓN DE INSUMOS CLÍNICOS DEL HRC. LOS PRECIOS OFERTADOS DEBEN INCLUIR TODOS LOS COSTOS ASOCIADOS, INCLUDIOS FLETES HASTA LA DIRECCIÓN DE DESPACHO ESTABLECIDA.LAS PROPUESTAS DEBEN AJUSTARSE ESTRÍCTAMENTE A LAS CARACTERÍSTICAS TÉCNICAS INDICADAS EN CADA REQUERIMIENTO. SE SOLICITA ADJUNTAR FICHA TÉCNICA CORRESPONDIENTE A LOS PRODUCTOS OFRECIDOS. SE SOLICITA COTIZACIÓN POR 30 DÍAS. SE SOLICITA 1 GUÍA DE DESPACHO DENTRO DE LA CAJA.",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "enchufes"
+   ],
+   "nueva": true,
+   "codigo": "3950-742-COT26",
+   "nombre": "PRODUCCION DE EVENTO \"PRIMER CONSEJO TECNICO DE GESTORES DE CASO\"",
+   "organismo": "DIRECCION SALUD RURAL",
+   "unidad": "Dirección de Salud Rural",
+   "monto": 250000,
+   "cierre_iso": "2026-11-17T13:00:00-03:00",
+   "publicacion": "16-11 12:37",
+   "publicacion_iso": "2026-11-16T12:37:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "90101603",
+     "Servicios de catering",
+     1,
+     "COFFE BREAK PARA 20 PERSONAS EL 25 DE NOVIEMBRE DEL 2026, UBICACION TERCER PISO CAJA LOS ANDES COYHAIQUE, CALLE EUSEBIO LILLO N°20, adjunta propuesta detallada. considerar mesas plegables y termos ya que no se dispone de enchufes cercanos en el sector donde se montará."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=3950-742-COT26",
+   "sin_detalle": false,
+   "descripcion": "INCLUIR MESAS, TERMOS EN COTIZACION",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "eléctrico",
+    "sistema eléctrico"
+   ],
+   "nueva": true,
+   "codigo": "1113146-57-COT26",
+   "nombre": "SERVICIO DE MANTENIMIENTO Y REPARACION DE MAQUINARIA (TRACTOR)",
+   "organismo": "CORP NACIONAL FORESTAL",
+   "unidad": "XI Región - Provincial General Carrera",
+   "monto": 1600000,
+   "cierre_iso": "2026-11-17T15:00:00-03:00",
+   "publicacion": "16-11 12:06",
+   "publicacion_iso": "2026-11-16T12:06:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "78180102",
+     "Reparación de Transmisión",
+     1,
+     "SERVICIO DE MANTENIMIENTO Y REPARACION DE TRACTOR (LOVOL TB504) Según especificaciones técnicas Adjuntas\n- Traslado de Tractor desde Faena a taller mecánico.\n- Mantención completa (cambio de filtros y aceites).\n- Mantenimiento y Reparación Joystick hidráulico.\n- Mantenimiento sistema eléctrico.\n- Mantenimiento balde hidráulico."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1113146-57-COT26",
+   "sin_detalle": false,
+   "descripcion": "La Corporación Nacional Forestal de la Región de Aysén, Provincia General Carrera, requiere Servicio de Mantenimiento y Reparación de Maquinaria (Tractor) a través del portal de compras del Estado www.mercadopublico.cl, en modalidad de Compra ágil para PPROGRAMA MANEJO SUSTENTABLE DE ECOSISTEMAS FORESTALES CON ENFOQUE EN SILVICULTURA PREVENTIVA EN LA REGIÓN DE AYSEN CODIGO BIP 40077633-0, Área de Intervención Jeinimeni año 2026.",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
     "Gasfitería, calefacción y aire acondicionado"
    ],
    "nueva": false,
@@ -1089,6 +1148,24 @@
   }
  ],
  "historial": [
+  {
+   "codigo": "1691-2103-COT26",
+   "nombre": "TAPP - ALARGADOR ARTERIAL 100 CM  M/H PARA REPOSICIÓN INSUMOS DEL HOSPITAL REGIONAL COYHAIQUE.",
+   "organismo": "SERVICIO NACIONAL DE SALUD HOSPITAL DE C",
+   "monto": 480000,
+   "cierre_iso": "2026-11-16T12:30:00-03:00",
+   "tipo": "POSIBLE",
+   "motivos": [
+    "alargador"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1691-2103-COT26",
+   "primera_vista_iso": "2026-11-13T13:00:24-03:00",
+   "removida_iso": "2026-11-16T13:00:26-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
   {
    "codigo": "3540-306-COT26",
    "nombre": "Reptos, bateria e Insumos para Generador Kolvo ",
