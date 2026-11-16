@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-16T07:00:23.103745-03:00",
+ "actualizado": "2026-11-16T08:00:24.241418-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
  "total_region": 243,
@@ -1453,24 +1453,6 @@
    ],
    "link": "https://buscador.mercadopublico.cl/ficha?code=1758-280-COT26",
    "primera_vista_iso": "2026-11-05T19:47:37-03:00",
-   "removida_iso": "2026-11-10T19:26:29-03:00",
-   "estado_api": "",
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "2494-286-COT26",
-   "nombre": "“SERVICIO DE DESARROLLO DE JORNADAS DE CAPACITACIÓN PARA FUNCIONARIOS Y FUNCIONARIAS DE LA ILUSTRE MUNICIPALIDAD DE COYHAIQUE”",
-   "organismo": "I MUNICIPALIDAD DE COYHAIQUE",
-   "monto": 6000000,
-   "cierre_iso": "2026-11-09T08:00:00-03:00",
-   "tipo": "POSIBLE",
-   "motivos": [
-    "registro fotográfico"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=2494-286-COT26",
-   "primera_vista_iso": "2026-11-04T19:43:04-03:00",
    "removida_iso": "2026-11-10T19:26:29-03:00",
    "estado_api": "",
    "adj_nombre": null,
