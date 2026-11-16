@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-11-16T16:44:10.887947-03:00",
+ "actualizado": "2026-11-16T17:00:25.599430-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
- "total_region": 345,
+ "total_region": 348,
  "rubros": {
   "80141600": "Ventas y marketing",
   "82101600": "Publicidad en medios no impresos",
@@ -221,53 +221,6 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=1233615-995-COT26",
    "sin_detalle": false,
    "descripcion": "Según archivo adjunto, cámara y parlante",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "registro fotográfico"
-   ],
-   "nueva": false,
-   "codigo": "1057062-531-COT26",
-   "nombre": "Adquisición de equipamiento para laboratorio de química, biología y genética según fisabs 2455_URY 21991",
-   "organismo": "UNIVERSIDAD DE AYSEN",
-   "unidad": "Proyectos",
-   "monto": 6999996,
-   "cierre_iso": "2026-11-17T13:00:00-03:00",
-   "publicacion": "12-11 15:55",
-   "publicacion_iso": "2026-11-12T15:55:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "41105304",
-     "Transiluminadores",
-     4,
-     "Sistema compacto de electroforesis horizontal para geles de agarosa, con fuente de alimentación integrada y transiluminador de luz azul incorporado. Debe permitir la separación de fragmentos de ADN, visualización directa de bandas en el gel y registro fotográfico mediante teléfono celular. Suministro de cuatro unidades de electroforesis con fuente y transiluminación integradas, destinadas al análisis de productos de PCR en actividades prácticas y de investigación."
-    ],
-    [
-     "41115403",
-     "Espectrómetros",
-     4,
-     "Kit de espectrómetro de fibra óptica para medición y separación de longitudes de onda en el espectro visible e infrarrojo, según especificaciones técnicas adjuntas."
-    ],
-    [
-     "60103905",
-     "Kits o materiales de cultivo",
-     7,
-     "PCR Pocket - DIY Kit: termociclador portátil en formato kit para ensamblaje (DIY), destinado a amplificación de ADN por PCR convencional.Capacidad de cinco tubos estándar de 0,2 mL; control PID de temperatura desde ambiente hasta 99 °C; programación desde pantalla integrada, sin requerir computador; alimentación mediante USB con adaptador de 2 A; dimensiones referenciales 33 × 105 × 50 mm; peso aproximado de 50 g. Diseño de hardware y firmware abiertos; compatible con reactivos y tubos estándar."
-    ],
-    [
-     "60103905",
-     "Kits o materiales de cultivo",
-     1,
-     "qPocketPCR – Real-Time PCR Thermocycler: Termociclador portátil para amplificación y detección de ADN mediante PCR en tiempo real (qPCR), con sistema de detección fluorescente compatible con SYBR Green y tapa calefaccionada. Formato compacto para actividades de investigación y monitoreo en terreno, debe incluir daptador de\nalimentación de 20 W y cable USB-C"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1057062-531-COT26",
-   "sin_detalle": false,
-   "descripcion": "Se requiere la adquirir equipamiento para laboratorio de química, biología y genética según el detalle indicado. Cotización debe indicar especificaciones técnicas de lo ofertado. Debe indicar plazo de entrega ofertado, considerando entrega en Eusebio Lillo 667, Coyhaique. Valor cotizado debe incluir flete e impuestos. Se podrá privilegiar el menor plazo de entrega, siempre que cumpla con todas las especificaciones requeridas. Compra sujeta a posibles multas o sanciones por incumplimiento.",
    "en_gracia": false,
    "desaparecida_iso": ""
   },
