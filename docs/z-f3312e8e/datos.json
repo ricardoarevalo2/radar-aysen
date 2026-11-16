@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-11-16T11:00:27.599464-03:00",
+ "actualizado": "2026-11-16T12:00:26.211851-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
- "total_region": 271,
+ "total_region": 296,
  "rubros": {
   "25172700": "Aire acondicionado",
   "25173900": "Componentes eléctricos",
@@ -19,47 +19,6 @@
   "39121400": "Conectores, enchufes y terminales"
  },
  "filas": [
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "generador"
-   ],
-   "nueva": false,
-   "codigo": "3540-306-COT26",
-   "nombre": "Reptos, bateria e Insumos para Generador Kolvo ",
-   "organismo": "Ejercito de Chile",
-   "unidad": "Cuerpo Militar del Trabajo Subjefatura Zonal Coyhaique",
-   "monto": 270000,
-   "cierre_iso": "2026-11-16T11:00:00-03:00",
-   "publicacion": "12-11 08:46",
-   "publicacion_iso": "2026-11-12T08:46:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "26101602",
-     "Motores de corriente alterna (CA)",
-     1,
-     "Motor de Arranque N°QD114A 12V 1.2KW para Generador dee 8KVA KOLVO MODELO G080DE3, AÑO 2025, CODIGO 90700001983, CON UN PRESUPUESTO DE $ 150.000."
-    ],
-    [
-     "26111711",
-     "Baterías de litio",
-     1,
-     "Bateria 12V 32 AMP, bornes tipo tornillo para Generador dee 8KVA KOLVO MODELO G080DE3, AÑO 2025, CODIGO 90700001983, CON UN PRESUPUESTO DE $ 100.000."
-    ],
-    [
-     "44103004",
-     "Fusibles",
-     2,
-     "FUSIBLES 30A 250V para Generador dee 8KVA KOLVO MODELO G080DE3, AÑO 2025, CODIGO 90700001983 CON UN PRESUPUESTO DE $20.000."
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=3540-306-COT26",
-   "sin_detalle": false,
-   "descripcion": "Indicar plazo de entrega y datos de contacto. Se privilegiará proveedor de la región o que cuente con sucursal en Coyhaique y luego precio. Este proceso no considera ítem flete ni cargos adicionales, los costos deben estar incluidos en los valores unitarios. (LEER TÉRMINOS DE REFERENCIA ADJUNTO). Plazo desde emisión orden de compra, presupuesto disponible por ítems, ajustar presupuesto.",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
   {
    "tipo": "POSIBLE",
    "motivos": [
@@ -1131,6 +1090,24 @@
  ],
  "historial": [
   {
+   "codigo": "3540-306-COT26",
+   "nombre": "Reptos, bateria e Insumos para Generador Kolvo ",
+   "organismo": "Ejercito de Chile",
+   "monto": 270000,
+   "cierre_iso": "2026-11-16T11:00:00-03:00",
+   "tipo": "POSIBLE",
+   "motivos": [
+    "generador"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=3540-306-COT26",
+   "primera_vista_iso": "2026-11-12T09:58:37-03:00",
+   "removida_iso": "2026-11-16T12:00:26-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
+  {
    "codigo": "1428275-57-COT26",
    "nombre": "SERVICIO DE DIAGNOSTICO Y MANTENCION SISTEMA DE CALEFACION DINAMICO ESTATICO",
    "organismo": "SERVICIO NACIONAL DEL PATRIMONIO CULTURAL",
@@ -1909,24 +1886,6 @@
    ],
    "link": "https://buscador.mercadopublico.cl/ficha?code=930039-33-COT26",
    "primera_vista_iso": "2026-11-05T19:47:37-03:00",
-   "removida_iso": "2026-11-10T19:26:29-03:00",
-   "estado_api": "",
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "761-211-COT26",
-   "nombre": " Mantencion preventiva equipos de aire acondicinado URS Aysén. E12643/2026",
-   "organismo": "SUBSECRETARIA DE DESARROLLO REGIONAL Y ADMINISTRATIVO",
-   "monto": 500000,
-   "cierre_iso": "2026-11-09T12:00:00-03:00",
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Gasfitería, calefacción y aire acondicionado"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=761-211-COT26",
-   "primera_vista_iso": "2026-11-03T19:24:45-03:00",
    "removida_iso": "2026-11-10T19:26:29-03:00",
    "estado_api": "",
    "adj_nombre": null,
