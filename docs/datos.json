@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-11-16T10:00:36.465879-03:00",
+ "actualizado": "2026-11-16T11:00:27.599464-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
- "total_region": 247,
+ "total_region": 271,
  "rubros": {
   "80141600": "Ventas y marketing",
   "82101600": "Publicidad en medios no impresos",
@@ -14,35 +14,6 @@
   "83121700": "Comunicación social y de masas"
  },
  "filas": [
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "fotografía"
-   ],
-   "nueva": false,
-   "codigo": "2495-654-COT26",
-   "nombre": "ADQUISICIÓN DE PREMIOS PARA ACTIVIDAD DIRIGIDA A PERSONAS MAYORES",
-   "organismo": "I MUNICIPALIDAD DE COYHAIQUE",
-   "unidad": "DIRECCION DESARROLLO COMUNITARIO",
-   "monto": 2400000,
-   "cierre_iso": "2026-11-16T10:00:00-03:00",
-   "publicacion": "12-11 09:19",
-   "publicacion_iso": "2026-11-12T09:19:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "49101706",
-     "Premios de fotografía",
-     1,
-     "Adquisición de premios para realización de una actividad recreativa de bingo dirigida a personas mayores. Su adquisición busca incentivar la asistencia, participación, promover la convivencia, la integración y el bienestar de las personas mayores para contribuir a prevenir situaciones de aislamiento social. La actividad se enmarca en las acciones municipales de promoción de un envejecimiento activo de espacios de encuentro y recreación, según términos de referencia y cotización adjunta."
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=2495-654-COT26",
-   "sin_detalle": false,
-   "descripcion": "Se requiere adquirir premios para la realización de una actividad recreativa de bingo dirigida a personas mayores. Su adquisición busca incentivar la asistencia, participación, promover la convivencia, la integración y el bienestar de las personas mayores para contribuir a prevenir situaciones de aislamiento social. La actividad se enmarca en las acciones municipales de promoción de un envejecimiento activo de espacios de encuentro y recreación,  térmi de referencia y cotizaci adjunta.",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
   {
    "tipo": "OPORTUNIDAD",
    "motivos": [
@@ -396,6 +367,41 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=2151-90-COT26",
    "sin_detalle": false,
    "descripcion": "Adquisición de 2 estantes armarios metálicos para uso en oficina, destinados al almacenamiento de archivadores y documentación administrativa. Deberán contar con dimensiones adecuadas para guardar archivadores tamaño oficio en posición vertical y repisas resistentes. Productos nuevos, sin uso y en óptimas condiciones. La cotización deberá incluir despacho hasta el Hospital de Puerto Cisnes y adjuntar ficha técnica o catálogo. El monto máx. de la oferta no deberá superar el presupuesto disponible",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "fotografía"
+   ],
+   "nueva": true,
+   "codigo": "3949-302-COT26",
+   "nombre": "ADHESIVO DENTARIO Y BARNIZ FLUOR / ENTREGA INMEDIATA",
+   "organismo": "CONSULTORIO GENERAL URBANO DR ALEJANDRO GUTIERREZ",
+   "unidad": "ID 3949 - CESFAM Dr Alejandro Gutiérrez",
+   "monto": 600000,
+   "cierre_iso": "2026-11-17T10:30:00-03:00",
+   "publicacion": "16-11 10:22",
+   "publicacion_iso": "2026-11-16T10:22:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "42151504",
+     "Barniz dental",
+     3,
+     "Barniz flúor, 22.600 ppm fluoruro, monodosis, caja de 100 unidades. De preferencia incluir fotografía del producto. Fecha de vencimiento no menor a 18 meses al momento de la entrega."
+    ],
+    [
+     "42152423",
+     "Selladores de orificios o fisuras dentales",
+     1,
+     "Adhesivo dentinario, de 4a generación o tres pasos; carga de relleno de 48%; espesor de película de 40 micrones; radiopacidad igual o mayor a 267%; presentación en botellas individuales  de primer y adhesivo de 8 ml cada una. Fecha de vencimiento no menor a 18 meses al momento de la entrega."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=3949-302-COT26",
+   "sin_detalle": false,
+   "descripcion": "Se requiere adquirir con entrega inmediata, caja de barniz flúor 22.600 ppm fluoruro, monodosis, caja de 100 unidades. Adhesivo dentario de 4ta generación o tres pasos ( especificaciones en descripción). envío y despacho incluido. Fecha de vencimiento no menor a 18 meses al momento de la entrega. enviar cotización con imagen de lo ofertado y con especificaciones técnicas",
    "en_gracia": false,
    "desaparecida_iso": ""
   },
@@ -777,6 +783,35 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=885-925-COT26",
    "sin_detalle": false,
    "descripcion": "Se requiere contratar el mantenimiento correctivo del vehículo Nissan X-Trail, patente DTDG-37, de la Contraloría Regional de Aysé",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "fotografía"
+   ],
+   "nueva": false,
+   "codigo": "2495-654-COT26",
+   "nombre": "ADQUISICIÓN DE PREMIOS PARA ACTIVIDAD DIRIGIDA A PERSONAS MAYORES",
+   "organismo": "I MUNICIPALIDAD DE COYHAIQUE",
+   "unidad": "DIRECCION DESARROLLO COMUNITARIO",
+   "monto": 2400000,
+   "cierre_iso": "2026-11-20T10:40:00-03:00",
+   "publicacion": "12-11 09:19",
+   "publicacion_iso": "2026-11-12T09:19:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "49101706",
+     "Premios de fotografía",
+     1,
+     "Adquisición de premios para realización de una actividad recreativa de bingo dirigida a personas mayores. Su adquisición busca incentivar la asistencia, participación, promover la convivencia, la integración y el bienestar de las personas mayores para contribuir a prevenir situaciones de aislamiento social. La actividad se enmarca en las acciones municipales de promoción de un envejecimiento activo de espacios de encuentro y recreación, según términos de referencia y cotización adjunta."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=2495-654-COT26",
+   "sin_detalle": false,
+   "descripcion": "Se requiere adquirir premios para la realización de una actividad recreativa de bingo dirigida a personas mayores. Su adquisición busca incentivar la asistencia, participación, promover la convivencia, la integración y el bienestar de las personas mayores para contribuir a prevenir situaciones de aislamiento social. La actividad se enmarca en las acciones municipales de promoción de un envejecimiento activo de espacios de encuentro y recreación,  térmi de referencia y cotizaci adjunta.",
    "en_gracia": false,
    "desaparecida_iso": ""
   },

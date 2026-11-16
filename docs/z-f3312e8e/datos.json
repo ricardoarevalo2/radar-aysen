@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-11-16T10:00:36.465879-03:00",
+ "actualizado": "2026-11-16T11:00:27.599464-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
- "total_region": 247,
+ "total_region": 271,
  "rubros": {
   "25172700": "Aire acondicionado",
   "25173900": "Componentes eléctricos",
@@ -19,64 +19,6 @@
   "39121400": "Conectores, enchufes y terminales"
  },
  "filas": [
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "electricidad"
-   ],
-   "nueva": false,
-   "codigo": "1182705-207-COT26",
-   "nombre": "SERVICIO DE MOVILIZACION SOLICITUD N°0222 VCM CRY26851 PROYECTO TNS EN ELECTRICIDAD SEDE COYHAIQUE",
-   "organismo": "CENTRO DE FORMACIÓN TÉCNICA DE LA REGIÓN DE AYSÉN DEL GENERAL CARLOS I",
-   "unidad": "FINANZAS",
-   "monto": 1400000,
-   "cierre_iso": "2026-11-16T10:00:00-03:00",
-   "publicacion": "13-11 15:42",
-   "publicacion_iso": "2026-11-13T15:42:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "25101502",
-     "Autobuses",
-     1,
-     "Servicio de traslado terrestre , tramo Coyhaique–Puerto Cisnes–Coyhaique. \nTramo 1: Coyhaique-Puerto Cisnes (Ida para el día 27-11-2026) salida desde CFT Estatal de Aysén ubicado en José Miguel Carrera #133 a las 05:00 am hrs (para salir a las 9:00 am en la barcaza),  y de regreso TRAMO 2: desde llegada de la Barcaza en Puerto Cisnes hacia Coyhaique (para el día 29-11-2026 a las 13:00 pm hrs), para delegación de estudiantes y docentes. Se solicita conductor con licencia profesional."
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1182705-207-COT26",
-   "sin_detalle": false,
-   "descripcion": "SE REQUIERE SERVICIO DE MOVILIZACION PARA 25 PASAJEROS DE ACUERDO CON SOLICITUD N°0222 VCM CRY26851 PROYECTO TNS EN ELECTRICIDAD SEDE COYHAIQUE PARA EL DIA 27/11/2026 COYHAIQUE - PUERTO CISNES - COYHAIQUE SE SOLICITA ADJUNTAR COTIZACION CON EL DETALLE DE LO QUE SE ESTA OFERTANDO.",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
-  {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Gasfitería, calefacción y aire acondicionado"
-   ],
-   "nueva": false,
-   "codigo": "1428275-57-COT26",
-   "nombre": "SERVICIO DE DIAGNOSTICO Y MANTENCION SISTEMA DE CALEFACION DINAMICO ESTATICO",
-   "organismo": "SERVICIO NACIONAL DEL PATRIMONIO CULTURAL",
-   "unidad": "DIRECCIÓN REGIONAL DE AYSEN",
-   "monto": 200000,
-   "cierre_iso": "2026-11-16T10:00:00-03:00",
-   "publicacion": "12-11 19:16",
-   "publicacion_iso": "2026-11-12T19:16:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "72102302",
-     "Instalación, reparación o mantenimiento de sistemas de calefacción",
-     1,
-     "SERVICIO DE DIAGNOSTICO Y MANTENCION SISTEMA DE CALEFACION DINAMICO ESTATICO” 12 EQUIPOS, DE ACUERDO A ESPECIFICACIONES TECNICAS ADJUNTAS."
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1428275-57-COT26",
-   "sin_detalle": false,
-   "descripcion": "La Dirección Regional del Servicio Nacional del Patrimonio Cultural de Aysén, requiere contratar “SERVICIO DE DIAGNOSTICO Y MANTENCION SISTEMA DE CALEFACION DINAMICO ESTATICO”, según detalles en archivo adjunto.",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
   {
    "tipo": "POSIBLE",
    "motivos": [
@@ -1188,6 +1130,42 @@
   }
  ],
  "historial": [
+  {
+   "codigo": "1428275-57-COT26",
+   "nombre": "SERVICIO DE DIAGNOSTICO Y MANTENCION SISTEMA DE CALEFACION DINAMICO ESTATICO",
+   "organismo": "SERVICIO NACIONAL DEL PATRIMONIO CULTURAL",
+   "monto": 200000,
+   "cierre_iso": "2026-11-16T10:00:00-03:00",
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Gasfitería, calefacción y aire acondicionado"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1428275-57-COT26",
+   "primera_vista_iso": "2026-11-12T20:00:27-03:00",
+   "removida_iso": "2026-11-16T11:00:27-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
+  {
+   "codigo": "1182705-207-COT26",
+   "nombre": "SERVICIO DE MOVILIZACION SOLICITUD N°0222 VCM CRY26851 PROYECTO TNS EN ELECTRICIDAD SEDE COYHAIQUE",
+   "organismo": "CENTRO DE FORMACIÓN TÉCNICA DE LA REGIÓN DE AYSÉN DEL GENERAL CARLOS I",
+   "monto": 1400000,
+   "cierre_iso": "2026-11-16T10:00:00-03:00",
+   "tipo": "POSIBLE",
+   "motivos": [
+    "electricidad"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1182705-207-COT26",
+   "primera_vista_iso": "2026-11-13T16:00:24-03:00",
+   "removida_iso": "2026-11-16T11:00:27-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
   {
    "codigo": "3950-740-COT26",
    "nombre": "MAQUINA SELLADORA PARA MANGAS",
