@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-11-16T15:00:28.487435-03:00",
+ "actualizado": "2026-11-16T16:00:40.760844-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
- "total_region": 307,
+ "total_region": 318,
  "rubros": {
   "80141600": "Ventas y marketing",
   "82101600": "Publicidad en medios no impresos",
@@ -14,222 +14,6 @@
   "83121700": "Comunicación social y de masas"
  },
  "filas": [
-  {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Ventas y marketing"
-   ],
-   "nueva": false,
-   "codigo": "1057062-541-COT26",
-   "nombre": "Servicio de difusión de contenidos, entrevistas y banner en medio digital.",
-   "organismo": "UNIVERSIDAD DE AYSEN",
-   "unidad": "Proyectos",
-   "monto": 1050000,
-   "cierre_iso": "2026-11-16T15:00:00-03:00",
-   "publicacion": "13-11 17:54",
-   "publicacion_iso": "2026-11-13T17:54:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "80141612",
-     "Campañas publicitarias o de marketing",
-     1,
-     "Servicio de difusión con vigencia hasta el 30 de enero que incluye: 2 publicaciones semanales en sitio web y redes sociales; al menos 1 reel semanal; historias semanales sin límite predeterminado; 1 banner web permanente (formato vertical y/o pop-up); 1 entrevista mensual en estudio o terreno; y apoyo en redacción, adaptación gráfica y difusión. El medio digital debe contar con sitio web y acreditar al menos 160 mil seguidores en Facebook y 50 mil seguidores en Instagram."
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1057062-541-COT26",
-   "sin_detalle": false,
-   "descripcion": "Servicio de difusión con vigencia hasta el 30 de enero 2027, según se detalla en el presente cotizador, Proveedor debe adjuntar lo ofertado, e indicar el Medio digital Regional de Aysén, enfocado 100% a información regional, que incluya sitio web, Instagram y Facebook, debe indicar el sitio web, el cual debe contener noticias y espacio publicitario. Una vez finalizado el servicio, el proveedor deberá remitir los medios de verificación correspondientes",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "publicidad",
-    "redes sociales"
-   ],
-   "nueva": false,
-   "codigo": "1057062-540-COT26",
-   "nombre": "Servicio de Publicidad en periódico multiplataforma de Coyhaique",
-   "organismo": "UNIVERSIDAD DE AYSEN",
-   "unidad": "Proyectos",
-   "monto": 2560000,
-   "cierre_iso": "2026-11-16T15:00:00-03:00",
-   "publicacion": "13-11 17:40",
-   "publicacion_iso": "2026-11-13T17:40:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "82101504",
-     "Publicidad en periódicos",
-     1,
-     "Servicio de Publicidad en periódico multiplataforma de Coyhaique, con la Incorporación de banner web en formato 1000 x 90 px (computador) y 600 x 200 px (celulares), además de la publicación de un video de 60 segundos en Instagram y Facebook, con vigencia hasta el 30 de enero. El servicio debe prestarse en un periódico o revista digital local de Coyhaique con amplia cobertura, sitio web activo y redes sociales que acrediten al menos 20 mil seguidores en Instagram y 60 mil en Facebook."
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1057062-540-COT26",
-   "sin_detalle": false,
-   "descripcion": "Serv. de publicidad web y redes sociales en medio escrito digital de Coyhaique. El serv debe prestarse en un periódico o revista digital local de Coyhaique con amplia cobertura, sitio web activo y redes sociales que acrediten al menos 20 mil seguidores en Instagram y 60 mil en Facebook.Proveedor debe detallar lo ofertado e indicar el medio de publicidad. Una vez finalizado el servicio, el proveedor deberá remitir los medios de verificación correspondientes y cumplir con el presente cotizador",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
-  {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Inserciones publicitarias en medios"
-   ],
-   "nueva": false,
-   "codigo": "1057062-538-COT26",
-   "nombre": "Servicio de difusión publicitaria y entrevistas en canal de televisión local de Coyhaique ",
-   "organismo": "UNIVERSIDAD DE AYSEN",
-   "unidad": "Proyectos",
-   "monto": 4400000,
-   "cierre_iso": "2026-11-16T15:00:00-03:00",
-   "publicacion": "13-11 17:23",
-   "publicacion_iso": "2026-11-13T17:23:00-03:00",
-   "ofertas": 1,
-   "productos": [
-    [
-     "82101902",
-     "Avisos en televisión",
-     1,
-     "Emisión de un spot de difusión de admisión (de 30 a 45 segundos, provisto por la Universidad) con al menos 3 repeticiones diarias, vigente hasta el 30 de enero. El medio debe ser un canal de televisión local de Coyhaique con señal abierta, señal digital en cableoperador local (ej. VTR) y alcance interregional (ej. TelSur - GTD).Una vez finalizado el servicio, el proveedor deberá remitir los medios de verificación correspondientes que acrediten su cumplimiento, los cuales serán requisito indispen"
-    ],
-    [
-     "82101902",
-     "Avisos en televisión",
-     6,
-     "6 entrevistas con entrevistador/a propio del canal. El medio debe ser un canal de televisión local de Coyhaique con señal abierta, señal digital en cableoperador local (ej. VTR) y alcance interregional (ej. TelSur - GTD)Una vez finalizado el servicio, el proveedor deberá remitir los medios de verificación correspondientes que acrediten su cumplimiento, los cuales serán requisito indispensable para gestionar el pago"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1057062-538-COT26",
-   "sin_detalle": false,
-   "descripcion": "Servicio de difusión publicitaria y entrevistas en canal de televisión local de Coyhaique, según se detalla en el presente cotizador, el proveedor deberá detallar lo ofertado, indicando el canal de televisión local de Coyahqiue con señal abierta, señal digital en cableoperador local (ej. VTR) y alcance interregional (ej. TelSur - GTD). La vigencia del contrato será hasta el 30 de enero de 2027.",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "difusión",
-    "publicidad",
-    "publicitaria",
-    "radial",
-    "radio"
-   ],
-   "nueva": false,
-   "codigo": "1057062-537-COT26",
-   "nombre": "Servicio de difusión publicitaria en medio radial multiplataforma de alcance nacional.FISABS N°1872 – URY 2457 ",
-   "organismo": "UNIVERSIDAD DE AYSEN",
-   "unidad": "Proyectos",
-   "monto": 4235000,
-   "cierre_iso": "2026-11-16T15:00:00-03:00",
-   "publicacion": "13-11 17:04",
-   "publicacion_iso": "2026-11-13T17:04:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "52161511",
-     "Radios",
-     1,
-     "Servicio de Publicidad en Radio multiplataforma de cobertura Nacional (plataformas de radio, TV, web y RRSS), hasta el 30 de enro de 2026, segun se detlla en el adjunto"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1057062-537-COT26",
-   "sin_detalle": false,
-   "descripcion": "Publicidad en Radio multiplataforma de cobertura Nacional, con vigencia hasya el 30 de enero 2027, debe realizarse como colaboración pagada y etiquetada con enlace directo a la red social o web institucional. El medio oferente debe tener circulación nacional (plataformas de radio, TV, web y RRSS) y ubicarse dentro de los 3 primeros lugares en audiencia digital del país. Proveedor debe detallar lo ofertado que cumpla con al menos lo indicado en el adjunto (ver)",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
-  {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Publicidad en medios no impresos"
-   ],
-   "nueva": false,
-   "codigo": "1057062-536-COT26",
-   "nombre": "Servicio de Pauta Publicitaria en Redes Sociales (Meta, Google y YouTube Ads)",
-   "organismo": "UNIVERSIDAD DE AYSEN",
-   "unidad": "Proyectos",
-   "monto": 7000000,
-   "cierre_iso": "2026-11-16T15:00:00-03:00",
-   "publicacion": "13-11 16:47",
-   "publicacion_iso": "2026-11-13T16:47:00-03:00",
-   "ofertas": 3,
-   "productos": [
-    [
-     "82101603",
-     "Publicidad en Internet",
-     1,
-     "Servicio de Publicidad digital según se detalla en el adjunto, hasta el 31 de enero de 2027, para el proceso de Admisión de la Universidad de Aysén. oferta debe detllar el monto de la inversión considerando en el presupuesto total, IVA incluido"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1057062-536-COT26",
-   "sin_detalle": false,
-   "descripcion": "Serv de publicación promocional y pauta digital en Instagram, Facebook, Google Ads y YouTube Ads con vigencia hasta el 30 de enero 2027. El servicio exige una inversión neta directa en pauta de al menos el 70% del presupuesto total (se seleccionará al oferente que comprometa el mayor monto de inversión efectiva, IVA incluido). Segmentación dirigida a estudiantes y apoderados (17 a 55 años aprox.) en las regiones de Aysén y Los Lagos, según el detalle adjunto, Proveedor debe detallar lo ofertado",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
-  {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Publicidad en medios no impresos"
-   ],
-   "nueva": false,
-   "codigo": "1057062-534-COT26",
-   "nombre": "Servicio de elaboración y producción integral de spot radial. FISABS N°1872 – URY 2457",
-   "organismo": "UNIVERSIDAD DE AYSEN",
-   "unidad": "Proyectos",
-   "monto": 1000000,
-   "cierre_iso": "2026-11-16T15:00:00-03:00",
-   "publicacion": "13-11 16:09",
-   "publicacion_iso": "2026-11-13T16:09:00-03:00",
-   "ofertas": 3,
-   "productos": [
-    [
-     "82101601",
-     "Publicidad en radio",
-     1,
-     "Servicio de elaboración y producción integral de un spot radial, incluye desarrollo de propuesta creativa y guion, presentación de al menos 3 propuestas de voces para selección, y grabación en estudio profesional, el proveedor debe adjuntar las especificacione técnicas que debe cumplir con a lo menos detallado en el adjunto, e indicar el plazo de entrega, el cual podría ser privilegiado para la selección de ofertas, se adjunta el detalle de lo mpinimo requerido"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1057062-534-COT26",
-   "sin_detalle": false,
-   "descripcion": "Servicio de elaboración y producción integral de un spot radial. Incluye desarrollo de propuesta creativa y guion (sujeto a validación de la contraparte técnica), presentación de al menos 3 propuestas de voces (alternativas masculinas y femeninas) para selección, y grabación en estudio profesional el proveedor debe adjuntar las especificacione técnicas que debe cumplir con a lo menos detallado en el adjunto, e indicar el plazo de entrega, el cual podría ser privilegiado para la selección de ofer",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "audiovisual",
-    "cápsula audiovisual",
-    "spot"
-   ],
-   "nueva": false,
-   "codigo": "1057062-529-COT26",
-   "nombre": "Servicio de producción y grabación de spot audiovisual (30 segundos). Proyecto URY 2557 _ FISABS 2271",
-   "organismo": "UNIVERSIDAD DE AYSEN",
-   "unidad": "Proyectos",
-   "monto": 3000000,
-   "cierre_iso": "2026-11-16T15:00:00-03:00",
-   "publicacion": "13-11 16:08",
-   "publicacion_iso": "2026-11-13T16:08:00-03:00",
-   "ofertas": 8,
-   "productos": [
-    [
-     "80161507",
-     "Servicios Audio Visuales",
-     1,
-     "Se requiere el servicio integral de dirección, producción, elaboración de guion, grabación y postproducción de una cápsula audiovisual de 30 segundos para la campaña de admisión de la Universidad de Aysén, según lineamientos institucionales. El proveedor debe contar con equipamiento profesional y recursos humanos adecuados, se adjunta el detalle de lo mínimo requerido."
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1057062-529-COT26",
-   "sin_detalle": false,
-   "descripcion": "Se requiere el servicio integral de dirección, producción, elaboración de guion, grabación y postproducción de una cápsula audiovisual de 30 segundos para la campaña de admisión de la Universidad de Aysén, según lineamientos institucionales, el proveedor debe adjuntar las especificacione técnicas que debe cumplir con a lo menos detallado en el adjunto, e indicar el plazo de entrega, el cual podría ser privilegiado para la selección de oferta",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
   {
    "tipo": "POSIBLE",
    "motivos": [
@@ -583,6 +367,78 @@
    "desaparecida_iso": ""
   },
   {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "audiovisual",
+    "comunicacional",
+    "difusión",
+    "publicidad",
+    "radial",
+    "radioemisora",
+    "redes sociales",
+    "spot",
+    "spots"
+   ],
+   "nueva": true,
+   "codigo": "1057062-546-COT26",
+   "nombre": "Servicio de emisión de spots y entrevistas en radioemisora local de Coyhaique",
+   "organismo": "UNIVERSIDAD DE AYSEN",
+   "unidad": "Proyectos",
+   "monto": 2500000,
+   "cierre_iso": "2026-11-17T15:30:00-03:00",
+   "publicacion": "16-11 15:24",
+   "publicacion_iso": "2026-11-16T15:24:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "52161511",
+     "Radios",
+     1,
+     "Emisión de 6 spots promocionales diarios de lunes a domingo, más 2 entrevistas mensuales de 25 minutos aproximadamente en horario y fecha coordinada, con retransmisión multiplataforma. El medio debe ser una radioemisora local de Coyhaique con señal abierta y digital, acreditando al menos 15.000 seguidores en RRSS. Proveedor debe indicar el nombre y dirección de la radioemisora, y debe ser distinta al siguiente items del presente cotizador"
+    ],
+    [
+     "52161511",
+     "Radios",
+     1,
+     "Emisión de spot radial de 30 segundos con al menos 6 salidas diarias de lunes a domingo, más 2 entrevistas mensuales de 20 minutos, 1 spot audiovisual para redes sociales y 15 colaboraciones mensuales en Instagram, El medio debe ser una radioemisora local de Coyhaique con amplia cobertura, acreditando al menos 4.500 seguidores en Instagram y 30.000 en Facebook. Proveedor debe indicar el nombre y dirección de la radioemisora, y debe ser distinta al siguiente items del presente cotizador"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1057062-546-COT26",
+   "sin_detalle": false,
+   "descripcion": "Se requiere contratar serv de publicidad radial y difusión digital en dos radioemisoras locales distintas de la comuna de Coyhaique, con vigencia hasta el 30 de enero, para maximizar la cobertura comunicacional en distintos segmentos de audiencia local. Cada línea deberá ser en medios diferentes. Proveedor debe detallar lo ofertado y acreditar el alcance en RRSS y que sean de la comuna de Coyhaique",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Ventas y marketing"
+   ],
+   "nueva": true,
+   "codigo": "1332-46-COT26",
+   "nombre": "SERVICIO DE IMPLEMENTACIÓN DE PLAN DE MEDIOS PARA CAMPAÑA REGIONAL DE CONCIENCIA TURÍSTICA AYSÉN PATAGONIA",
+   "organismo": "Servicio Nacional de Turismo",
+   "unidad": "Direccion Regional de Aysen",
+   "monto": 6800000,
+   "cierre_iso": "2026-11-17T16:00:00-03:00",
+   "publicacion": "16-11 15:26",
+   "publicacion_iso": "2026-11-16T15:26:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "80141612",
+     "Campañas publicitarias o de marketing",
+     1,
+     "Contratar la implementación y gestión de un plan de medios para difundir la Campaña Regional de Conciencia Turística Aysén Patagonia, a través de medios radiales y televisivos, con el objetivo de promover la valoración de la actividad turística, el cuidado del patrimonio natural y cultural, y el fortalecimiento de la identidad turística del destino Aysén Patagonia. De acuerdo a detalle adjunto."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1332-46-COT26",
+   "sin_detalle": false,
+   "descripcion": "Contratar la implementación y gestión de un plan de medios para difundir la Campaña Regional de Conciencia Turística Aysén Patagonia, a través de medios radiales y televisivos, con el objetivo de promover la valoración de la actividad turística, el cuidado del patrimonio natural y cultural, y el fortalecimiento de la identidad turística del destino Aysén Patagonia.",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
    "tipo": "OPORTUNIDAD",
    "motivos": [
     "Ventas y marketing"
@@ -800,6 +656,98 @@
    "desaparecida_iso": ""
   },
   {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Ventas y marketing"
+   ],
+   "nueva": false,
+   "codigo": "1057062-541-COT26",
+   "nombre": "Servicio de difusión de contenidos, entrevistas y banner en medio digital.",
+   "organismo": "UNIVERSIDAD DE AYSEN",
+   "unidad": "Proyectos",
+   "monto": 1050000,
+   "cierre_iso": "2026-11-19T12:05:00-03:00",
+   "publicacion": "13-11 17:54",
+   "publicacion_iso": "2026-11-13T17:54:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "80141612",
+     "Campañas publicitarias o de marketing",
+     1,
+     "Servicio de difusión con vigencia hasta el 30 de enero que incluye: 2 publicaciones semanales en sitio web y redes sociales; al menos 1 reel semanal; historias semanales sin límite predeterminado; 1 banner web permanente (formato vertical y/o pop-up); 1 entrevista mensual en estudio o terreno; y apoyo en redacción, adaptación gráfica y difusión. El medio digital debe contar con sitio web y acreditar al menos 160 mil seguidores en Facebook y 50 mil seguidores en Instagram."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1057062-541-COT26",
+   "sin_detalle": false,
+   "descripcion": "Servicio de difusión con vigencia hasta el 30 de enero 2027, según se detalla en el presente cotizador, Proveedor debe adjuntar lo ofertado, e indicar el Medio digital Regional de Aysén, enfocado 100% a información regional, que incluya sitio web, Instagram y Facebook, debe indicar el sitio web, el cual debe contener noticias y espacio publicitario. Una vez finalizado el servicio, el proveedor deberá remitir los medios de verificación correspondientes",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "publicidad",
+    "redes sociales"
+   ],
+   "nueva": false,
+   "codigo": "1057062-540-COT26",
+   "nombre": "Servicio de Publicidad en periódico multiplataforma de Coyhaique",
+   "organismo": "UNIVERSIDAD DE AYSEN",
+   "unidad": "Proyectos",
+   "monto": 2560000,
+   "cierre_iso": "2026-11-19T12:19:00-03:00",
+   "publicacion": "13-11 17:40",
+   "publicacion_iso": "2026-11-13T17:40:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "82101504",
+     "Publicidad en periódicos",
+     1,
+     "Servicio de Publicidad en periódico multiplataforma de Coyhaique, con la Incorporación de banner web en formato 1000 x 90 px (computador) y 600 x 200 px (celulares), además de la publicación de un video de 60 segundos en Instagram y Facebook, con vigencia hasta el 30 de enero. El servicio debe prestarse en un periódico o revista digital local de Coyhaique con amplia cobertura, sitio web activo y redes sociales que acrediten al menos 20 mil seguidores en Instagram y 60 mil en Facebook."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1057062-540-COT26",
+   "sin_detalle": false,
+   "descripcion": "Serv. de publicidad web y redes sociales en medio escrito digital de Coyhaique. El serv debe prestarse en un periódico o revista digital local de Coyhaique con amplia cobertura, sitio web activo y redes sociales que acrediten al menos 20 mil seguidores en Instagram y 60 mil en Facebook.Proveedor debe detallar lo ofertado e indicar el medio de publicidad. Una vez finalizado el servicio, el proveedor deberá remitir los medios de verificación correspondientes y cumplir con el presente cotizador",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "difusión",
+    "publicidad",
+    "publicitaria",
+    "radial",
+    "radio"
+   ],
+   "nueva": false,
+   "codigo": "1057062-537-COT26",
+   "nombre": "Servicio de difusión publicitaria en medio radial multiplataforma de alcance nacional.FISABS N°1872 – URY 2457 ",
+   "organismo": "UNIVERSIDAD DE AYSEN",
+   "unidad": "Proyectos",
+   "monto": 4235000,
+   "cierre_iso": "2026-11-19T12:55:00-03:00",
+   "publicacion": "13-11 17:04",
+   "publicacion_iso": "2026-11-13T17:04:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "52161511",
+     "Radios",
+     1,
+     "Servicio de Publicidad en Radio multiplataforma de cobertura Nacional (plataformas de radio, TV, web y RRSS), hasta el 30 de enro de 2026, segun se detlla en el adjunto"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1057062-537-COT26",
+   "sin_detalle": false,
+   "descripcion": "Publicidad en Radio multiplataforma de cobertura Nacional, con vigencia hasya el 30 de enero 2027, debe realizarse como colaboración pagada y etiquetada con enlace directo a la red social o web institucional. El medio oferente debe tener circulación nacional (plataformas de radio, TV, web y RRSS) y ubicarse dentro de los 3 primeros lugares en audiencia digital del país. Proveedor debe detallar lo ofertado que cumpla con al menos lo indicado en el adjunto (ver)",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
    "tipo": "POSIBLE",
    "motivos": [
     "fotografía"
@@ -853,6 +801,80 @@
   }
  ],
  "historial": [
+  {
+   "codigo": "1057062-536-COT26",
+   "nombre": "Servicio de Pauta Publicitaria en Redes Sociales (Meta, Google y YouTube Ads)",
+   "organismo": "UNIVERSIDAD DE AYSEN",
+   "monto": 7000000,
+   "cierre_iso": "2026-11-16T15:00:00-03:00",
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Publicidad en medios no impresos"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1057062-536-COT26",
+   "primera_vista_iso": "2026-11-13T17:00:27-03:00",
+   "removida_iso": "2026-11-16T16:00:40-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
+  {
+   "codigo": "1057062-534-COT26",
+   "nombre": "Servicio de elaboración y producción integral de spot radial. FISABS N°1872 – URY 2457",
+   "organismo": "UNIVERSIDAD DE AYSEN",
+   "monto": 1000000,
+   "cierre_iso": "2026-11-16T15:00:00-03:00",
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Publicidad en medios no impresos"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1057062-534-COT26",
+   "primera_vista_iso": "2026-11-13T17:00:27-03:00",
+   "removida_iso": "2026-11-16T16:00:40-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
+  {
+   "codigo": "1057062-529-COT26",
+   "nombre": "Servicio de producción y grabación de spot audiovisual (30 segundos). Proyecto URY 2557 _ FISABS 2271",
+   "organismo": "UNIVERSIDAD DE AYSEN",
+   "monto": 3000000,
+   "cierre_iso": "2026-11-16T15:00:00-03:00",
+   "tipo": "POSIBLE",
+   "motivos": [
+    "audiovisual",
+    "cápsula audiovisual",
+    "spot"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1057062-529-COT26",
+   "primera_vista_iso": "2026-11-13T17:00:27-03:00",
+   "removida_iso": "2026-11-16T16:00:40-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
+  {
+   "codigo": "1057062-538-COT26",
+   "nombre": "Servicio de difusión publicitaria y entrevistas en canal de televisión local de Coyhaique ",
+   "organismo": "UNIVERSIDAD DE AYSEN",
+   "monto": 4400000,
+   "cierre_iso": "2026-11-16T15:00:00-03:00",
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Inserciones publicitarias en medios"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1057062-538-COT26",
+   "primera_vista_iso": "2026-11-13T18:00:26-03:00",
+   "removida_iso": "2026-11-16T16:00:40-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
   {
    "codigo": "854-34-COT26",
    "nombre": "Traslado de funcionarias JI Comunicacional distintas localidades",
