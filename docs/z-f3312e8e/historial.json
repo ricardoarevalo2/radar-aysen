@@ -22,27 +22,6 @@
   "adj_iso": null,
   "adj_revisado_iso": "2026-11-16T13:00:26-03:00"
  },
- "1079689-526-COT26": {
-  "codigo": "1079689-526-COT26",
-  "nombre": "ADQUISICIÓN SERVICIO INSTALACIÓN PISO FLOTANTE, MEJORAMIENTO INSTALACIONES ELÉCTRICAS Y FABRICACIÓN ESTANTERÍAS CON MATERIALES INCLUIDOS PARA LA A.F. 094 DE LA 1RA. CO MISARÍA COYHAIQUE.",
-  "organismo": "SECCIÓN COMPRAS XI ZONA",
-  "unidad": "SEC DE COMP ZONA AYSÉN DEL GRAL CARL IBAÑ DEL CAMP",
-  "monto": 3923100,
-  "cierre_iso": "2026-11-09T15:00:00-03:00",
-  "tipo": "POSIBLE",
-  "motivos": [
-   "instalaciones eléctricas"
-  ],
-  "link": "https://buscador.mercadopublico.cl/ficha?code=1079689-526-COT26",
-  "primera_vista_iso": "2026-11-04T19:43:04-03:00",
-  "ultima_activa_iso": "2026-11-06T00:29:52-03:00",
-  "removida_iso": "2026-11-10T19:26:29-03:00",
-  "estado_api": "",
-  "adj_nombre": null,
-  "adj_monto": null,
-  "adj_iso": null,
-  "adj_revisado_iso": "2026-11-16T08:00:24-03:00"
- },
  "2713-1337-COT26": {
   "codigo": "2713-1337-COT26",
   "nombre": "DAOMA SOL.1386. Adquisición de repuestos.",
@@ -62,7 +41,7 @@
   "adj_nombre": null,
   "adj_monto": null,
   "adj_iso": null,
-  "adj_revisado_iso": "2026-11-16T09:00:25-03:00"
+  "adj_revisado_iso": "2026-11-16T15:00:28-03:00"
  },
  "886182-252-COT26": {
   "codigo": "886182-252-COT26",
@@ -79,27 +58,6 @@
   "primera_vista_iso": "2026-11-05T19:47:37-03:00",
   "ultima_activa_iso": "2026-11-13T08:00:24-03:00",
   "removida_iso": "2026-11-13T09:00:27-03:00",
-  "estado_api": "",
-  "adj_nombre": null,
-  "adj_monto": null,
-  "adj_iso": null,
-  "adj_revisado_iso": "2026-11-16T10:00:36-03:00"
- },
- "930039-33-COT26": {
-  "codigo": "930039-33-COT26",
-  "nombre": "REPARACIONES ELÉCTRICAS PARA DEPENDENCIAS DEL MUSEO REGIONAL DE AYSÉN",
-  "organismo": "SERVICIO NACIONAL DEL PATRIMONIO CULTURAL",
-  "unidad": "MUSEO REGIONAL DE AYSEN",
-  "monto": 7100000,
-  "cierre_iso": "2026-11-09T15:00:00-03:00",
-  "tipo": "OPORTUNIDAD",
-  "motivos": [
-   "Servicios eléctricos"
-  ],
-  "link": "https://buscador.mercadopublico.cl/ficha?code=930039-33-COT26",
-  "primera_vista_iso": "2026-11-05T19:47:37-03:00",
-  "ultima_activa_iso": "2026-11-06T00:29:52-03:00",
-  "removida_iso": "2026-11-10T19:26:29-03:00",
   "estado_api": "",
   "adj_nombre": null,
   "adj_monto": null,
@@ -468,7 +426,7 @@
   "adj_nombre": null,
   "adj_monto": null,
   "adj_iso": null,
-  "adj_revisado_iso": "2026-11-16T08:00:24-03:00"
+  "adj_revisado_iso": "2026-11-16T15:00:28-03:00"
  },
  "1691-2061-COT26": {
   "codigo": "1691-2061-COT26",
@@ -489,7 +447,7 @@
   "adj_nombre": null,
   "adj_monto": null,
   "adj_iso": null,
-  "adj_revisado_iso": "2026-11-16T08:00:24-03:00"
+  "adj_revisado_iso": "2026-11-16T15:00:28-03:00"
  },
  "3791-1135-COT26": {
   "codigo": "3791-1135-COT26",
@@ -510,7 +468,7 @@
   "adj_nombre": null,
   "adj_monto": null,
   "adj_iso": null,
-  "adj_revisado_iso": "2026-11-16T08:00:24-03:00"
+  "adj_revisado_iso": "2026-11-16T15:00:28-03:00"
  },
  "3791-1132-COT26": {
   "codigo": "3791-1132-COT26",
@@ -547,7 +505,7 @@
   ],
   "link": "https://buscador.mercadopublico.cl/ficha?code=5019-66-COT26",
   "primera_vista_iso": "2026-11-11T14:18:43-03:00",
-  "ultima_activa_iso": "2026-11-16T14:00:23-03:00",
+  "ultima_activa_iso": "2026-11-16T15:00:28-03:00",
   "removida_iso": null,
   "estado_api": null,
   "adj_nombre": null,
@@ -658,7 +616,7 @@
   "adj_nombre": null,
   "adj_monto": null,
   "adj_iso": null,
-  "adj_revisado_iso": "2026-11-16T00:00:24-03:00"
+  "adj_revisado_iso": "2026-11-16T15:00:28-03:00"
  },
  "1746-262-COT26": {
   "codigo": "1746-262-COT26",
@@ -904,7 +862,7 @@
   ],
   "link": "https://buscador.mercadopublico.cl/ficha?code=930039-37-COT26",
   "primera_vista_iso": "2026-11-13T11:00:25-03:00",
-  "ultima_activa_iso": "2026-11-16T14:00:23-03:00",
+  "ultima_activa_iso": "2026-11-16T15:00:28-03:00",
   "removida_iso": null,
   "estado_api": null,
   "adj_nombre": null,
@@ -946,7 +904,7 @@
   ],
   "link": "https://buscador.mercadopublico.cl/ficha?code=4626-37-COT26",
   "primera_vista_iso": "2026-11-13T13:00:24-03:00",
-  "ultima_activa_iso": "2026-11-16T14:00:23-03:00",
+  "ultima_activa_iso": "2026-11-16T15:00:28-03:00",
   "removida_iso": null,
   "estado_api": null,
   "adj_nombre": null,
@@ -967,7 +925,7 @@
   ],
   "link": "https://buscador.mercadopublico.cl/ficha?code=911089-110-COT26",
   "primera_vista_iso": "2026-11-13T13:00:24-03:00",
-  "ultima_activa_iso": "2026-11-16T14:00:23-03:00",
+  "ultima_activa_iso": "2026-11-16T15:00:28-03:00",
   "removida_iso": null,
   "estado_api": null,
   "adj_nombre": null,
@@ -1032,7 +990,7 @@
   ],
   "link": "https://buscador.mercadopublico.cl/ficha?code=1092-93-COT26",
   "primera_vista_iso": "2026-11-13T15:00:24-03:00",
-  "ultima_activa_iso": "2026-11-16T14:00:23-03:00",
+  "ultima_activa_iso": "2026-11-16T15:00:28-03:00",
   "removida_iso": null,
   "estado_api": null,
   "adj_nombre": null,
@@ -1053,7 +1011,7 @@
   ],
   "link": "https://buscador.mercadopublico.cl/ficha?code=1057062-535-COT26",
   "primera_vista_iso": "2026-11-13T16:00:24-03:00",
-  "ultima_activa_iso": "2026-11-16T14:00:23-03:00",
+  "ultima_activa_iso": "2026-11-16T15:00:28-03:00",
   "removida_iso": null,
   "estado_api": null,
   "adj_nombre": null,
@@ -1116,7 +1074,7 @@
   ],
   "link": "https://buscador.mercadopublico.cl/ficha?code=1485465-45-COT26",
   "primera_vista_iso": "2026-11-13T17:00:27-03:00",
-  "ultima_activa_iso": "2026-11-16T14:00:23-03:00",
+  "ultima_activa_iso": "2026-11-16T15:00:28-03:00",
   "removida_iso": null,
   "estado_api": null,
   "adj_nombre": null,
@@ -1137,7 +1095,7 @@
   ],
   "link": "https://buscador.mercadopublico.cl/ficha?code=1173433-23-COT26",
   "primera_vista_iso": "2026-11-13T17:00:27-03:00",
-  "ultima_activa_iso": "2026-11-16T14:00:23-03:00",
+  "ultima_activa_iso": "2026-11-16T15:00:28-03:00",
   "removida_iso": null,
   "estado_api": null,
   "adj_nombre": null,
@@ -1158,7 +1116,7 @@
   ],
   "link": "https://buscador.mercadopublico.cl/ficha?code=1905-88-COT26",
   "primera_vista_iso": "2026-11-13T21:00:25-03:00",
-  "ultima_activa_iso": "2026-11-16T14:00:23-03:00",
+  "ultima_activa_iso": "2026-11-16T15:00:28-03:00",
   "removida_iso": null,
   "estado_api": null,
   "adj_nombre": null,
@@ -1179,7 +1137,7 @@
   ],
   "link": "https://buscador.mercadopublico.cl/ficha?code=2494-299-COT26",
   "primera_vista_iso": "2026-11-16T10:00:36-03:00",
-  "ultima_activa_iso": "2026-11-16T14:00:23-03:00",
+  "ultima_activa_iso": "2026-11-16T15:00:28-03:00",
   "removida_iso": null,
   "estado_api": null,
   "adj_nombre": null,
@@ -1200,7 +1158,7 @@
   ],
   "link": "https://buscador.mercadopublico.cl/ficha?code=3949-301-COT26",
   "primera_vista_iso": "2026-11-16T10:00:36-03:00",
-  "ultima_activa_iso": "2026-11-16T14:00:23-03:00",
+  "ultima_activa_iso": "2026-11-16T15:00:28-03:00",
   "removida_iso": null,
   "estado_api": null,
   "adj_nombre": null,
@@ -1221,7 +1179,7 @@
   ],
   "link": "https://buscador.mercadopublico.cl/ficha?code=1691-2128-COT26",
   "primera_vista_iso": "2026-11-16T13:00:26-03:00",
-  "ultima_activa_iso": "2026-11-16T14:00:23-03:00",
+  "ultima_activa_iso": "2026-11-16T15:00:28-03:00",
   "removida_iso": null,
   "estado_api": null,
   "adj_nombre": null,
@@ -1242,7 +1200,7 @@
   ],
   "link": "https://buscador.mercadopublico.cl/ficha?code=3950-742-COT26",
   "primera_vista_iso": "2026-11-16T13:00:26-03:00",
-  "ultima_activa_iso": "2026-11-16T14:00:23-03:00",
+  "ultima_activa_iso": "2026-11-16T15:00:28-03:00",
   "removida_iso": null,
   "estado_api": null,
   "adj_nombre": null,
@@ -1264,7 +1222,7 @@
   ],
   "link": "https://buscador.mercadopublico.cl/ficha?code=1113146-57-COT26",
   "primera_vista_iso": "2026-11-16T13:00:26-03:00",
-  "ultima_activa_iso": "2026-11-16T14:00:23-03:00",
+  "ultima_activa_iso": "2026-11-16T15:00:28-03:00",
   "removida_iso": null,
   "estado_api": null,
   "adj_nombre": null,
@@ -1286,7 +1244,50 @@
   ],
   "link": "https://buscador.mercadopublico.cl/ficha?code=2713-1395-COT26",
   "primera_vista_iso": "2026-11-16T14:00:23-03:00",
-  "ultima_activa_iso": "2026-11-16T14:00:23-03:00",
+  "ultima_activa_iso": "2026-11-16T15:00:28-03:00",
+  "removida_iso": null,
+  "estado_api": null,
+  "adj_nombre": null,
+  "adj_monto": null,
+  "adj_iso": null,
+  "adj_revisado_iso": null
+ },
+ "4644-138-COT26": {
+  "codigo": "4644-138-COT26",
+  "nombre": "SERVICIO DE MANTENCIÓN ELÉCTRICA DE INFRAESTRUCTURA,  CONAF MAÑIHUALES",
+  "organismo": "CORP NACIONAL FORESTAL",
+  "unidad": "XI Región - Oficina Provincial Aysen",
+  "monto": 1000000,
+  "cierre_iso": "2026-11-17T17:00:00-03:00",
+  "tipo": "POSIBLE",
+  "motivos": [
+   "eléctricos",
+   "mantención eléctrica"
+  ],
+  "link": "https://buscador.mercadopublico.cl/ficha?code=4644-138-COT26",
+  "primera_vista_iso": "2026-11-16T15:00:28-03:00",
+  "ultima_activa_iso": "2026-11-16T15:00:28-03:00",
+  "removida_iso": null,
+  "estado_api": null,
+  "adj_nombre": null,
+  "adj_monto": null,
+  "adj_iso": null,
+  "adj_revisado_iso": null
+ },
+ "4644-137-COT26": {
+  "codigo": "4644-137-COT26",
+  "nombre": "Reparación caldera a pelett Of Conaf Aysén",
+  "organismo": "CORP NACIONAL FORESTAL",
+  "unidad": "XI Región - Oficina Provincial Aysen",
+  "monto": 270000,
+  "cierre_iso": "2026-11-17T17:00:00-03:00",
+  "tipo": "OPORTUNIDAD",
+  "motivos": [
+   "Gasfitería, calefacción y aire acondicionado"
+  ],
+  "link": "https://buscador.mercadopublico.cl/ficha?code=4644-137-COT26",
+  "primera_vista_iso": "2026-11-16T15:00:28-03:00",
+  "ultima_activa_iso": "2026-11-16T15:00:28-03:00",
   "removida_iso": null,
   "estado_api": null,
   "adj_nombre": null,

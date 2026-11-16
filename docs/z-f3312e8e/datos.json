@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-11-16T14:00:23.818238-03:00",
+ "actualizado": "2026-11-16T15:00:28.487435-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
- "total_region": 301,
+ "total_region": 307,
  "rubros": {
   "25172700": "Aire acondicionado",
   "25173900": "Componentes eléctricos",
@@ -576,6 +576,65 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=1905-88-COT26",
    "sin_detalle": false,
    "descripcion": "Servicio de mejoramiento de calefacción de aire acondicionado en oficina de Puerto Aysén y Coyhaique. Favor (revisar los TDR en los archivos adjuntos y fechas de visita en terreno)",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "eléctricos",
+    "mantención eléctrica"
+   ],
+   "nueva": true,
+   "codigo": "4644-138-COT26",
+   "nombre": "SERVICIO DE MANTENCIÓN ELÉCTRICA DE INFRAESTRUCTURA,  CONAF MAÑIHUALES",
+   "organismo": "CORP NACIONAL FORESTAL",
+   "unidad": "XI Región - Oficina Provincial Aysen",
+   "monto": 1000000,
+   "cierre_iso": "2026-11-17T17:00:00-03:00",
+   "publicacion": "16-11 14:43",
+   "publicacion_iso": "2026-11-16T14:43:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "73171510",
+     "Servicios de fabricación de accesorios o suministros eléctricos",
+     1,
+     "Mantención eléctrica de poste de Luz: Servicio Certificado que incluye instalación de poste 100x100 en hormigón, tensores, instalación de medidor y tierra de servicio, entre otros trabajos asociados y materiales para ejecución de obras. Proveedor debe cumplir con Norma SEC."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=4644-138-COT26",
+   "sin_detalle": false,
+   "descripcion": "Adjudicar a un oferente a la licitación Servicio de mantención eléctrica de infraestructura de CONAF Mañihuales, ubicada en Pratt S/N ubicada en sector aserradero de CONAF EN Villa Mañihuales, Región de Aysén",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Gasfitería, calefacción y aire acondicionado"
+   ],
+   "nueva": true,
+   "codigo": "4644-137-COT26",
+   "nombre": "Reparación caldera a pelett Of Conaf Aysén",
+   "organismo": "CORP NACIONAL FORESTAL",
+   "unidad": "XI Región - Oficina Provincial Aysen",
+   "monto": 270000,
+   "cierre_iso": "2026-11-17T17:00:00-03:00",
+   "publicacion": "16-11 14:23",
+   "publicacion_iso": "2026-11-16T14:23:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "72102301",
+     "Supervisión de instalación, ajuste o mantenimiento de calderas",
+     1,
+     "Servicio de mantención y reparación caldera a pellet consistente en; suministro e instalación de resistencia de encendido para quemador Natural Fire Y-50."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=4644-137-COT26",
+   "sin_detalle": false,
+   "descripcion": "Conaf requiere el servicio de reparación caldera a Pellet de Oficina Provincial Aysén, consistente en suministro e instalación de resistencia de encendido para quemador Natural Fire Y-50",
    "en_gracia": false,
    "desaparecida_iso": ""
   },
@@ -1833,42 +1892,6 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=1281188-19-COT26",
    "primera_vista_iso": "2026-10-30T13:05:28-03:00",
    "removida_iso": "2026-11-11T14:18:43-03:00",
-   "estado_api": "",
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "1079689-526-COT26",
-   "nombre": "ADQUISICIÓN SERVICIO INSTALACIÓN PISO FLOTANTE, MEJORAMIENTO INSTALACIONES ELÉCTRICAS Y FABRICACIÓN ESTANTERÍAS CON MATERIALES INCLUIDOS PARA LA A.F. 094 DE LA 1RA. CO MISARÍA COYHAIQUE.",
-   "organismo": "SECCIÓN COMPRAS XI ZONA",
-   "monto": 3923100,
-   "cierre_iso": "2026-11-09T15:00:00-03:00",
-   "tipo": "POSIBLE",
-   "motivos": [
-    "instalaciones eléctricas"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1079689-526-COT26",
-   "primera_vista_iso": "2026-11-04T19:43:04-03:00",
-   "removida_iso": "2026-11-10T19:26:29-03:00",
-   "estado_api": "",
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "930039-33-COT26",
-   "nombre": "REPARACIONES ELÉCTRICAS PARA DEPENDENCIAS DEL MUSEO REGIONAL DE AYSÉN",
-   "organismo": "SERVICIO NACIONAL DEL PATRIMONIO CULTURAL",
-   "monto": 7100000,
-   "cierre_iso": "2026-11-09T15:00:00-03:00",
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Servicios eléctricos"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=930039-33-COT26",
-   "primera_vista_iso": "2026-11-05T19:47:37-03:00",
-   "removida_iso": "2026-11-10T19:26:29-03:00",
    "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,

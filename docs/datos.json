@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-11-16T14:00:23.818238-03:00",
+ "actualizado": "2026-11-16T15:00:28.487435-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
- "total_region": 301,
+ "total_region": 307,
  "rubros": {
   "80141600": "Ventas y marketing",
   "82101600": "Publicidad en medios no impresos",
@@ -513,6 +513,43 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=1057062-531-COT26",
    "sin_detalle": false,
    "descripcion": "Se requiere la adquirir equipamiento para laboratorio de química, biología y genética según el detalle indicado. Cotización debe indicar especificaciones técnicas de lo ofertado. Debe indicar plazo de entrega ofertado, considerando entrega en Eusebio Lillo 667, Coyhaique. Valor cotizado debe incluir flete e impuestos. Se podrá privilegiar el menor plazo de entrega, siempre que cumpla con todas las especificaciones requeridas. Compra sujeta a posibles multas o sanciones por incumplimiento.",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "difusión",
+    "publicidad",
+    "publicitarios"
+   ],
+   "nueva": true,
+   "codigo": "2495-669-COT26",
+   "nombre": "set de herramientas ludicas Centro de las Mujeres",
+   "organismo": "I MUNICIPALIDAD DE COYHAIQUE",
+   "unidad": "DIRECCION DESARROLLO COMUNITARIO",
+   "monto": 200000,
+   "cierre_iso": "2026-11-17T15:00:00-03:00",
+   "publicacion": "16-11 14:46",
+   "publicacion_iso": "2026-11-16T14:46:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "60105412",
+     "Materiales educativos de prevención de la violencia o educación de elusión de la violencia",
+     1,
+     "tela PVC, 60*90 cm. que contara con el diseño del efecto iceberg de violencia y contar con hilo para poder colgarse y estuche para transportar."
+    ],
+    [
+     "82101507",
+     "Folletos y catálogos publicitarios, servicios de publicidad y distribución",
+     20,
+     "20 tarjertas con expresiones de violencia de genero, cada tarjeta debe medir 13x7 cm. estar impresa en opalina y contar con un velcro en la parte posterior (adjunto anexo)"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=2495-669-COT26",
+   "sin_detalle": false,
+   "descripcion": "Se requiere la adquisición de set de herramientas ludicas para apoyar las actividades de difusión, promoción del Centro de las Mujeres. 1 pendon Tela PVC diseño grafico adjunto anexo, agregar estuche para transportarlo. Y, 20 tarjetas con expresiones de violencia, se adjunta anexo. Se solicita que los materiales sean nuevos, de buena calidad y que cumplan íntegramente con las especificaciones técnicas requeridas (anexo)",
    "en_gracia": false,
    "desaparecida_iso": ""
   },
