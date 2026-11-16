@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-11-16T16:00:40.760844-03:00",
+ "actualizado": "2026-11-16T16:44:10.887947-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
- "total_region": 318,
+ "total_region": 345,
  "rubros": {
   "80141600": "Ventas y marketing",
   "82101600": "Publicidad en medios no impresos",
@@ -14,35 +14,6 @@
   "83121700": "Comunicación social y de masas"
  },
  "filas": [
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "difusión"
-   ],
-   "nueva": false,
-   "codigo": "1332-44-COT26",
-   "nombre": "HERRAMIENTAS TECNOLÓGICAS PARA EL SISTEMA DE INFORMACIÓN TURÍSTICA AYSÉN PATAGONIA",
-   "organismo": "Servicio Nacional de Turismo",
-   "unidad": "Direccion Regional de Aysen",
-   "monto": 7000000,
-   "cierre_iso": "2026-11-16T16:00:00-03:00",
-   "publicacion": "13-11 11:52",
-   "publicacion_iso": "2026-11-13T11:52:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "81111807",
-     "Almacenamiento de datos",
-     1,
-     "Servicios tecnológicos destinados a fortalecer las herramientas digitales para la actualización, difusión y acceso a información turística, así como para la medición de su utilización por parte de las personas usuarias. De acuerdo a detalle adjunto"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1332-44-COT26",
-   "sin_detalle": false,
-   "descripcion": "Se requiere contratar servicios tecnológicos destinados a fortalecer las herramientas digitales para la actualización, difusión y acceso a información turística, así como para la medición de su utilización por parte de las personas usuarias.",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
   {
    "tipo": "POSIBLE",
    "motivos": [
@@ -303,6 +274,53 @@
   {
    "tipo": "POSIBLE",
    "motivos": [
+    "registro fotográfico"
+   ],
+   "nueva": false,
+   "codigo": "1057062-531-COT26",
+   "nombre": "Adquisición de equipamiento para laboratorio de química, biología y genética según fisabs 2455_URY 21991",
+   "organismo": "UNIVERSIDAD DE AYSEN",
+   "unidad": "Proyectos",
+   "monto": 6999996,
+   "cierre_iso": "2026-11-17T13:00:00-03:00",
+   "publicacion": "12-11 15:55",
+   "publicacion_iso": "2026-11-12T15:55:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "41105304",
+     "Transiluminadores",
+     4,
+     "Sistema compacto de electroforesis horizontal para geles de agarosa, con fuente de alimentación integrada y transiluminador de luz azul incorporado. Debe permitir la separación de fragmentos de ADN, visualización directa de bandas en el gel y registro fotográfico mediante teléfono celular. Suministro de cuatro unidades de electroforesis con fuente y transiluminación integradas, destinadas al análisis de productos de PCR en actividades prácticas y de investigación."
+    ],
+    [
+     "41115403",
+     "Espectrómetros",
+     4,
+     "Kit de espectrómetro de fibra óptica para medición y separación de longitudes de onda en el espectro visible e infrarrojo, según especificaciones técnicas adjuntas."
+    ],
+    [
+     "60103905",
+     "Kits o materiales de cultivo",
+     7,
+     "PCR Pocket - DIY Kit: termociclador portátil en formato kit para ensamblaje (DIY), destinado a amplificación de ADN por PCR convencional.Capacidad de cinco tubos estándar de 0,2 mL; control PID de temperatura desde ambiente hasta 99 °C; programación desde pantalla integrada, sin requerir computador; alimentación mediante USB con adaptador de 2 A; dimensiones referenciales 33 × 105 × 50 mm; peso aproximado de 50 g. Diseño de hardware y firmware abiertos; compatible con reactivos y tubos estándar."
+    ],
+    [
+     "60103905",
+     "Kits o materiales de cultivo",
+     1,
+     "qPocketPCR – Real-Time PCR Thermocycler: Termociclador portátil para amplificación y detección de ADN mediante PCR en tiempo real (qPCR), con sistema de detección fluorescente compatible con SYBR Green y tapa calefaccionada. Formato compacto para actividades de investigación y monitoreo en terreno, debe incluir daptador de\nalimentación de 20 W y cable USB-C"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1057062-531-COT26",
+   "sin_detalle": false,
+   "descripcion": "Se requiere la adquirir equipamiento para laboratorio de química, biología y genética según el detalle indicado. Cotización debe indicar especificaciones técnicas de lo ofertado. Debe indicar plazo de entrega ofertado, considerando entrega en Eusebio Lillo 667, Coyhaique. Valor cotizado debe incluir flete e impuestos. Se podrá privilegiar el menor plazo de entrega, siempre que cumpla con todas las especificaciones requeridas. Compra sujeta a posibles multas o sanciones por incumplimiento.",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
     "difusión",
     "publicidad",
     "publicitarios"
@@ -444,6 +462,113 @@
     "Ventas y marketing"
    ],
    "nueva": true,
+   "codigo": "2713-1399-COT26",
+   "nombre": "Producción \"Temporada de Cruceros 2026-2027\" - DIDECO - Turismo - 1497",
+   "organismo": "I MUNICIPALIDAD DE AYSEN",
+   "unidad": "I.MUNICIPALIDAD AYSEN-ADQUISICIONES",
+   "monto": 2000000,
+   "cierre_iso": "2026-11-17T16:30:00-03:00",
+   "publicacion": "16-11 16:03",
+   "publicacion_iso": "2026-11-16T16:03:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "80141607",
+     "Producción de eventos",
+     1,
+     "Presentación de espectáculo folclórico en vivo, considerando la participación de 8 integrantes, vestuario, traslados y costos asociados, para el día 07 de diciembre de 2026"
+    ],
+    [
+     "80141607",
+     "Producción de eventos",
+     1,
+     "Dos anfitriones personificados, incluyendo vestuario, caracterización, maquillaje, traslado, participación durante la actividad y costos asociados, para el día 07 de diciembre de 2026"
+    ],
+    [
+     "80141607",
+     "Producción de eventos",
+     1,
+     "Dos anfitriones personificados, incluyendo vestuario, caracterización, maquillaje, traslado, participación durante la actividad y costos asociados, para el día 11 de diciembre de 2026"
+    ],
+    [
+     "80141607",
+     "Producción de eventos",
+     1,
+     "Personal de atención (2 garzones), responsables de servir y atender a los asistentes de la actividad, para el día 07 de diciembre de 2026"
+    ],
+    [
+     "80141607",
+     "Producción de eventos",
+     1,
+     "Personal de atención (2 garzones), responsables de servir y atender a los asistentes de la actividad, para el día 11 de diciembre de 2026"
+    ],
+    [
+     "80141607",
+     "Producción de eventos",
+     1,
+     "Preparación y suministro de 250 sopaipillas acompañadas de pebre para el día 07 de diciembre de 2026"
+    ],
+    [
+     "80141607",
+     "Producción de eventos",
+     1,
+     "Preparación y suministro de 250 sopaipillas acompañadas de pebre para el día 11 de diciembre de 2026"
+    ],
+    [
+     "80141607",
+     "Producción de eventos",
+     1,
+     "Suministros de 250 jugos néctar en variedad de sabores, en vasos de 200 ml, para el día 07 de diciembre de 2026"
+    ],
+    [
+     "80141607",
+     "Producción de eventos",
+     1,
+     "Suministros de 250 jugos néctar en variedad de sabores, en vasos de 200 ml, para el día 11 de diciembre de 2026"
+    ],
+    [
+     "80141607",
+     "Producción de eventos",
+     1,
+     "Suministro de 100 aguas saborizadas, en vasos de 200 ml para el día 07 de diciembre de 2026"
+    ],
+    [
+     "80141607",
+     "Producción de eventos",
+     1,
+     "Suministro de 100 aguas saborizadas, en vasos de 200 ml para el día 11 de diciembre de 2026"
+    ],
+    [
+     "80141607",
+     "Producción de eventos",
+     1,
+     "Provisión, Traslado e instalación de equipo de amplificación, incluyendo micrófonos, cableado y pedestal correspondiente, para el día 07 de diciembre de 2026"
+    ],
+    [
+     "80141607",
+     "Producción de eventos",
+     1,
+     "Provisión, Traslado e instalación de equipo de amplificación, incluyendo micrófonos, cableado y pedestal correspondiente, para el día 11 de diciembre de 2026"
+    ],
+    [
+     "80141607",
+     "Producción de eventos",
+     30,
+     "Provisión, traslado, instalación, disposición y retiro de 30 sillas, para el día 07 de diciembre de 2026"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=2713-1399-COT26",
+   "sin_detalle": false,
+   "descripcion": "Servicio de producción de actividad \"Temporada de cruceros 2026-2027\", según detalle del anexo adjunto, las ofertas deberán: incluir la totalidad de los productos y servicios solicitados, ajustarse al presupuesto disponible , el oferente asumirá COSTO DE TRANSPORTE (no desglosarlo como ítem aparte), actividades según EETT, en el lugar y a la hora indicada previa coordinación con el encargado. Ofertas que no cumplan con lo anterior serán rechazada. Servicio sujeto a multas según bases técnicas.",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Ventas y marketing"
+   ],
+   "nueva": true,
    "codigo": "1233615-996-COT26",
    "nombre": "AVT/SOL/2026/00318/Servicio de producción y ejecución encuentro robótica.",
    "organismo": "Servicio Local de Educación Pública Aysén",
@@ -527,6 +652,35 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=4066-518-COT26",
    "sin_detalle": false,
    "descripcion": "LA I. MUNICIPALIDAD DE RÍO IBÁÑEZ, EN EL MARCO DE LA ACTIVIDAD DENOMINADA “FERIA DE TURISMO RURAL 2026”, REQUIERE CONTRATAR UN SERVICIO DE PRODUCCIÓN DE EVENTO PARA DISPONER DE SERVICIOS TRANSPORTE, ALIMENTACIÓN, ARTISTAS, AMPLIFICACIÓN, GENERACIÓN ELÉCTRICA, ANIMACIÓN, CLÍNICA DE KAYAK Y PREMIOS.  PARA LA ACTIVIDAD “FERIA DE TURISMO RURAL 2026”, PARA EL DÍA 05.12.2026, EN LA LOCALIDAD DE BAHÍA MURTA, SECTOR BAHÍA DEL LAGO GENERAL CARRERA. ADJUNTAR PATENTE MUNICIPAL VIGENTE.",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Ventas y marketing"
+   ],
+   "nueva": true,
+   "codigo": "2495-671-COT26",
+   "nombre": "Servicios para jornada de encuentro y camaradería para personas mayores",
+   "organismo": "I MUNICIPALIDAD DE COYHAIQUE",
+   "unidad": "DIRECCION DESARROLLO COMUNITARIO",
+   "monto": 7240000,
+   "cierre_iso": "2026-11-18T10:00:00-03:00",
+   "publicacion": "16-11 16:39",
+   "publicacion_iso": "2026-11-16T16:39:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "80141607",
+     "Producción de eventos",
+     1,
+     "Servicio para realizar una jornada de encuentro y camaradería para 140 personas mayores. Su contratación busca incentivar la asistencia, participación, promover la convivencia, la integración y el bienestar de las personas mayores para contribuir a prevenir situaciones de aislamiento social. La actividad se enmarca en las acciones municipales de promoción de un envejecimiento activo de espacios de encuentro y recreación, según término de referencia adjuntos."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=2495-671-COT26",
+   "sin_detalle": false,
+   "descripcion": "Los servicios solicitados tienen por objeto realizar una jornada de encuentro y camaradería para 140 personas mayores. Su contratación busca incentivar la asistencia, participación, promover la convivencia, la integración y el bienestar de las personas mayores para contribuir a prevenir situaciones de aislamiento social. La actividad se enmarca en las acciones municipales de promoción de un envejecimiento activo de espacios de encuentro y recreación, según término de referencia adjuntos.",
    "en_gracia": false,
    "desaparecida_iso": ""
   },
@@ -801,6 +955,24 @@
   }
  ],
  "historial": [
+  {
+   "codigo": "1332-44-COT26",
+   "nombre": "HERRAMIENTAS TECNOLÓGICAS PARA EL SISTEMA DE INFORMACIÓN TURÍSTICA AYSÉN PATAGONIA",
+   "organismo": "Servicio Nacional de Turismo",
+   "monto": 7000000,
+   "cierre_iso": "2026-11-16T16:00:00-03:00",
+   "tipo": "POSIBLE",
+   "motivos": [
+    "difusión"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1332-44-COT26",
+   "primera_vista_iso": "2026-11-13T12:00:25-03:00",
+   "removida_iso": "2026-11-16T16:44:10-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
   {
    "codigo": "1057062-536-COT26",
    "nombre": "Servicio de Pauta Publicitaria en Redes Sociales (Meta, Google y YouTube Ads)",

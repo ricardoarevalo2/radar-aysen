@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-11-16T16:00:40.760844-03:00",
+ "actualizado": "2026-11-16T16:44:10.887947-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
- "total_region": 318,
+ "total_region": 345,
  "rubros": {
   "25172700": "Aire acondicionado",
   "25173900": "Componentes eléctricos",
@@ -19,35 +19,6 @@
   "39121400": "Conectores, enchufes y terminales"
  },
  "filas": [
-  {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Gasfitería, calefacción y aire acondicionado"
-   ],
-   "nueva": false,
-   "codigo": "4626-37-COT26",
-   "nombre": "Servicio mantención y reparación de Calefactores Murales a Gas",
-   "organismo": "DIRECCION DEL TRABAJO",
-   "unidad": "Dirección del Trabajo XI Región Aysén",
-   "monto": 250000,
-   "cierre_iso": "2026-11-16T16:00:00-03:00",
-   "publicacion": "13-11 12:09",
-   "publicacion_iso": "2026-11-13T12:09:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "72102304",
-     "Mantenimiento o reparación de sistemas de fontanería, gasfitería",
-     5,
-     "Servicio mantención y reparación de Calefactores Murales a Gas de la Dirección Regional del Trabajo de Aysén, de acuerdo con lo establecido en los Requerimientos Técnicos que se adjuntan (se solicita leer detenidamente documento adjunto, para dar cumplimiento a los requerimientos allí establecidos al presentar su oferta)"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=4626-37-COT26",
-   "sin_detalle": false,
-   "descripcion": "Servicio mantención y reparación de 5 (cinco) Calefactores Murales a Gas de la Dirección Regional del Trabajo de Aysén",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
   {
    "tipo": "OPORTUNIDAD",
    "motivos": [
@@ -399,6 +370,41 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=1905-88-COT26",
    "sin_detalle": false,
    "descripcion": "Servicio de mejoramiento de calefacción de aire acondicionado en oficina de Puerto Aysén y Coyhaique. Favor (revisar los TDR en los archivos adjuntos y fechas de visita en terreno)",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Gasfitería, calefacción y aire acondicionado"
+   ],
+   "nueva": true,
+   "codigo": "4609-319-COT26",
+   "nombre": "MANTENIMIENTO EQ. CALDERA Y AUTOCLAVE",
+   "organismo": "I MUNICIPALIDAD DE CHILE CHICO",
+   "unidad": "Finanzas",
+   "monto": 2000000,
+   "cierre_iso": "2026-11-17T16:15:00-03:00",
+   "publicacion": "16-11 16:12",
+   "publicacion_iso": "2026-11-16T16:12:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "72102302",
+     "Instalación, reparación o mantenimiento de sistemas de calefacción",
+     1,
+     "MANTENCION EQUIPO AUTOCLAVE E INSTALACION PLACA REGISTRO"
+    ],
+    [
+     "72102302",
+     "Instalación, reparación o mantenimiento de sistemas de calefacción",
+     3,
+     "REVISION Y NORMALIZACION DE CALDERAS MUNICIPALES E INFORME DE EQUIPOS CALDERAS"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=4609-319-COT26",
+   "sin_detalle": false,
+   "descripcion": "COTIZACION MANTENIMIENTO EQ. CALDERA Y AUTOCLAVE",
    "en_gracia": false,
    "desaparecida_iso": ""
   },
@@ -1276,6 +1282,24 @@
  ],
  "historial": [
   {
+   "codigo": "4626-37-COT26",
+   "nombre": "Servicio mantención y reparación de Calefactores Murales a Gas",
+   "organismo": "DIRECCION DEL TRABAJO",
+   "monto": 250000,
+   "cierre_iso": "2026-11-16T16:00:00-03:00",
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Gasfitería, calefacción y aire acondicionado"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=4626-37-COT26",
+   "primera_vista_iso": "2026-11-13T13:00:24-03:00",
+   "removida_iso": "2026-11-16T16:44:10-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
+  {
    "codigo": "930039-37-COT26",
    "nombre": "REPARACIÓN DE RED HÚMEDA",
    "organismo": "SERVICIO NACIONAL DEL PATRIMONIO CULTURAL",
@@ -1378,7 +1402,7 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=3540-306-COT26",
    "primera_vista_iso": "2026-11-12T09:58:37-03:00",
    "removida_iso": "2026-11-16T12:00:26-03:00",
-   "estado_api": null,
+   "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,
    "adj_iso": null
@@ -1450,7 +1474,7 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=3540-316-COT26",
    "primera_vista_iso": "2026-11-12T13:45:25-03:00",
    "removida_iso": "2026-11-16T09:00:25-03:00",
-   "estado_api": null,
+   "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,
    "adj_iso": null
