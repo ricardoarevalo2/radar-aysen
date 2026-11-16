@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-11-16T18:00:29.280151-03:00",
+ "actualizado": "2026-11-16T19:00:26.249448-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
- "total_region": 358,
+ "total_region": 362,
  "rubros": {
   "25172700": "Aire acondicionado",
   "25173900": "Componentes eléctricos",
@@ -1247,6 +1247,36 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=1092-93-COT26",
    "sin_detalle": false,
    "descripcion": "La Corporación Nacional Forestal por medio del Departamento de Protección Contra Incendios Forestales Región de Aysén, requiere la adquisición de materiales de oficina la unidad incendios forestales de la región de Aysén. No se cancela costos asociados al flete. (Ver especificaciones técnicas adjuntas)",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "generador",
+    "grupo electrógeno"
+   ],
+   "nueva": true,
+   "codigo": "697209-34-COT26",
+   "nombre": "CIERRE PERIMETRAL DE SEGURIDAD PARA GRUPO ELECTRÓGENO",
+   "organismo": "MINISTERIO PUBLICO",
+   "unidad": "FR AYSEN",
+   "monto": 2500000,
+   "cierre_iso": "2026-11-19T20:00:00-03:00",
+   "publicacion": "16-11 18:36",
+   "publicacion_iso": "2026-11-16T18:36:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "101111100",
+     "10.O.M.",
+     1,
+     "cierre perimetral generador electrico 4x3,5x1,5 aprox. según documento adjunto especificaciones técnicas."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=697209-34-COT26",
+   "sin_detalle": false,
+   "descripcion": "La Fiscalía Regional de Aysén del Ministerio Público, requiere el suministro de un cierre perimetral de seguridad para el grupo electrógeno de emergencia de su edificio instruccional ubicado en calle Simón Bolivar 126, Coyhaique. \nEl propósito es resguardar el equipo contra accesos no autorizados, impactos accidentales y manipulación indebida, permitiendo una correcta ventilación y un acceso frontal exclusivo para operación y mantenimiento.",
    "en_gracia": false,
    "desaparecida_iso": ""
   },
