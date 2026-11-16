@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-11-16T06:00:22.726790-03:00",
+ "actualizado": "2026-11-16T07:00:23.103745-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
- "total_region": 245,
+ "total_region": 243,
  "rubros": {
   "25172700": "Aire acondicionado",
   "25173900": "Componentes eléctricos",
@@ -19,28 +19,6 @@
   "39121400": "Conectores, enchufes y terminales"
  },
  "filas": [
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "eléctrico"
-   ],
-   "nueva": false,
-   "codigo": "907-103-COT26",
-   "nombre": "\tMAO ADQUISICIÓN ENSERES OFICINA COYHAIQUE",
-   "organismo": "SERVICIO AGRICOLA Y GANADERO",
-   "unidad": "SAG - Aysen",
-   "monto": 338980,
-   "cierre_iso": "2026-11-16T06:47:00-03:00",
-   "publicacion": "10-11 17:12",
-   "publicacion_iso": "2026-11-10T17:12:00-03:00",
-   "ofertas": 0,
-   "productos": [],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=907-103-COT26",
-   "sin_detalle": false,
-   "descripcion": "Se necesita adquirir: a) 1 Termo eléctrico:  Capacidad: 100 Litros, Potencia: Mínimo 1.500W (idealmente 2.000W para recuperación rápida), Resistencia: Blindada. \nb) 1 Colchón 1 ½ plaza: debe tener firmeza, Resortes ensacados (o pocket) o Espuma viscoelástica (Memory Foam) o Látex. Características: ? Aislamiento del movimiento ? Regulación de temperatura ? Transpirabilidad:  ? Soporte perimetral reforzado",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
   {
    "tipo": "POSIBLE",
    "motivos": [
@@ -1451,6 +1429,24 @@
   }
  ],
  "historial": [
+  {
+   "codigo": "907-103-COT26",
+   "nombre": "\tMAO ADQUISICIÓN ENSERES OFICINA COYHAIQUE",
+   "organismo": "SERVICIO AGRICOLA Y GANADERO",
+   "monto": 338980,
+   "cierre_iso": "2026-11-16T06:47:00-03:00",
+   "tipo": "POSIBLE",
+   "motivos": [
+    "eléctrico"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=907-103-COT26",
+   "primera_vista_iso": "2026-11-10T19:26:29-03:00",
+   "removida_iso": "2026-11-16T07:00:23-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
   {
    "codigo": "4066-508-COT26",
    "nombre": "Compra de productos de ornamentación para actividades comunitarias de Navidad, programadas por Oficina Local de la Niñez.",
