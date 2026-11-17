@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-17T11:00:24.012832-03:00",
+ "actualizado": "2026-11-17T12:00:27.615147-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
  "total_region": 350,
@@ -14,65 +14,6 @@
   "83121700": "Comunicación social y de masas"
  },
  "filas": [
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "avisos",
-    "publicidad"
-   ],
-   "nueva": false,
-   "codigo": "1428-21-COT26",
-   "nombre": "PUBLICACIÓN DE DOS AVISOS EN DIARIO DE CIRCULACIÓN REGIONAL PARA SERNAPESCA, DIRECCIÓN REGIONAL DE AYSÉN, RELATIVOS AL PROCESO DE ASIGNACIÓN DE LA CALETA ESTER ÁLVAREZ, COMUNA DE GUAITECAS.",
-   "organismo": "Servicio Nacional de Pesca y Acuicultura",
-   "unidad": "XI - Servicio Nacional de Pesca y Acuicultura",
-   "monto": 220000,
-   "cierre_iso": "2026-11-17T11:00:00-03:00",
-   "publicacion": "12-11 18:10",
-   "publicacion_iso": "2026-11-12T18:10:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "82101504",
-     "Publicidad en periódicos",
-     2,
-     "Publicación de dos avisos de convocatoria en un diario de circulación regional o local, en días distintos de una misma semana, relativos al proceso de asignación de la Caleta Ester Álvarez, comuna de Guaitecas, Región de Aysén. Incluye elaboración, diagramación y publicación de los avisos, conforme al requerimiento técnico adjunto."
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1428-21-COT26",
-   "sin_detalle": false,
-   "descripcion": "Servicio de publicación de dos avisos de convocatoria en un diario de circulación regional o local, para el proceso de asignación de la Caleta Ester Álvarez, ubicada en la comuna de Guaitecas, Región de Aysén, solicitado por el Servicio Nacional de Pesca y Acuicultura, Dirección Regional de Aysén. Más detalle en requerimiento técnico adjunto.",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
-  {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Ventas y marketing"
-   ],
-   "nueva": true,
-   "codigo": "2495-668-COT26",
-   "nombre": "Producción de 2 sesiones de baños de bosque para 20 personas",
-   "organismo": "I MUNICIPALIDAD DE COYHAIQUE",
-   "unidad": "DIRECCION DESARROLLO COMUNITARIO",
-   "monto": 300000,
-   "cierre_iso": "2026-11-17T11:30:00-03:00",
-   "publicacion": "16-11 11:22",
-   "publicacion_iso": "2026-11-16T11:22:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "80141607",
-     "Producción de eventos",
-     2,
-     "Producción de 2 sesiones de baños de bosque para 20 personas: debe incluir monitor en baños de bosque o asociado y colación: sándwich mas un jugo pequeño en caja."
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=2495-668-COT26",
-   "sin_detalle": false,
-   "descripcion": "Producción de 2 sesiones de baños de bosque para 20 personas: debe incluir monitor en baños de bosque o asociado y colación: sándwich mas un jugo pequeño en caja.",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
   {
    "tipo": "POSIBLE",
    "motivos": [
@@ -813,6 +754,35 @@
    "desaparecida_iso": ""
   },
   {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Ventas y marketing"
+   ],
+   "nueva": true,
+   "codigo": "1201-206-COT26",
+   "nombre": "SERVICIO DE SONIDO – AMPLIFICACIÓN - ANIMACIÓN  EVENTOS SUB10 – SUB12 – JUVENIL JUEGOS DEPORTIVOS ESCOLARES 2026",
+   "organismo": "INSTITUTO NACIONAL DE DEPORTES DE CHILE",
+   "unidad": "I.N.D. REGION XI",
+   "monto": 5300000,
+   "cierre_iso": "2026-11-19T10:00:00-03:00",
+   "publicacion": "17-11 11:41",
+   "publicacion_iso": "2026-11-17T11:41:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "80141607",
+     "Producción de eventos",
+     1,
+     "Servicio de\nsonido,\namplificación y\nanimación"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1201-206-COT26",
+   "sin_detalle": false,
+   "descripcion": "Contratar el servicio de sonido, amplificación y animación para la ejecución de Encuentros\nDeportivos, en el marco de los Juegos Deportivos Escolares (JDE), en las disciplinas de\nmini vóleibol, básquetbol 3x3, balonmano adaptado y futsal, a realizarse en las comunas\nde Coyhaique y Aysén.",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
    "tipo": "POSIBLE",
    "motivos": [
     "registro fotográfico"
@@ -1029,6 +999,43 @@
   }
  ],
  "historial": [
+  {
+   "codigo": "2495-668-COT26",
+   "nombre": "Producción de 2 sesiones de baños de bosque para 20 personas",
+   "organismo": "I MUNICIPALIDAD DE COYHAIQUE",
+   "monto": 300000,
+   "cierre_iso": "2026-11-17T11:30:00-03:00",
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Ventas y marketing"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=2495-668-COT26",
+   "primera_vista_iso": "2026-11-16T12:00:26-03:00",
+   "removida_iso": "2026-11-17T12:00:27-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
+  {
+   "codigo": "1428-21-COT26",
+   "nombre": "PUBLICACIÓN DE DOS AVISOS EN DIARIO DE CIRCULACIÓN REGIONAL PARA SERNAPESCA, DIRECCIÓN REGIONAL DE AYSÉN, RELATIVOS AL PROCESO DE ASIGNACIÓN DE LA CALETA ESTER ÁLVAREZ, COMUNA DE GUAITECAS.",
+   "organismo": "Servicio Nacional de Pesca y Acuicultura",
+   "monto": 220000,
+   "cierre_iso": "2026-11-17T11:00:00-03:00",
+   "tipo": "POSIBLE",
+   "motivos": [
+    "avisos",
+    "publicidad"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1428-21-COT26",
+   "primera_vista_iso": "2026-11-12T19:00:24-03:00",
+   "removida_iso": "2026-11-17T12:00:27-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
   {
    "codigo": "3949-302-COT26",
    "nombre": "ADHESIVO DENTARIO Y BARNIZ FLUOR / ENTREGA INMEDIATA",
@@ -1762,24 +1769,6 @@
    ],
    "link": "https://buscador.mercadopublico.cl/ficha?code=918434-328-COT26",
    "primera_vista_iso": "2026-11-03T19:24:45-03:00",
-   "removida_iso": "2026-11-10T19:26:29-03:00",
-   "estado_api": "",
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "723-28-COT26",
-   "nombre": "PROGRAMA DE  DIFUSION FNDR 460 SERCOTEC AYSEN",
-   "organismo": "SERVICIO DE COOPERACION TECNICA",
-   "monto": 2500000,
-   "cierre_iso": "2026-11-10T12:00:00-03:00",
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Agencias de publicidad"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=723-28-COT26",
-   "primera_vista_iso": "2026-11-05T19:47:37-03:00",
    "removida_iso": "2026-11-10T19:26:29-03:00",
    "estado_api": "",
    "adj_nombre": null,
