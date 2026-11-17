@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-11-17T17:00:24.371171-03:00",
+ "actualizado": "2026-11-17T18:00:22.545598-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
- "total_region": 327,
+ "total_region": 326,
  "rubros": {
   "80141600": "Ventas y marketing",
   "82101600": "Publicidad en medios no impresos",
@@ -14,82 +14,6 @@
   "83121700": "Comunicación social y de masas"
  },
  "filas": [
-  {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Ventas y marketing"
-   ],
-   "nueva": false,
-   "codigo": "1233615-996-COT26",
-   "nombre": "AVT/SOL/2026/00318/Servicio de producción y ejecución encuentro robótica.",
-   "organismo": "Servicio Local de Educación Pública Aysén",
-   "unidad": "Servicio Local de Educación Pública Aysén",
-   "monto": 1600000,
-   "cierre_iso": "2026-11-17T17:00:00-03:00",
-   "publicacion": "16-11 09:49",
-   "publicacion_iso": "2026-11-16T09:49:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "80141607",
-     "Producción de eventos",
-     1,
-     "Servicio de producción y ejecución encuentro robótica, de acuerdo a lo indicado en los TDR y anexos adjuntos."
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1233615-996-COT26",
-   "sin_detalle": false,
-   "descripcion": "Servicio de producción y ejecución encuentro robótica. De acuerdo a lo solicitado en archivos adjuntos.",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
-  {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Ventas y marketing"
-   ],
-   "nueva": true,
-   "codigo": "2713-1404-COT26",
-   "nombre": "Servicio de producción de 3 jornadas de Baño de Naturaleza  - Folio 1492 - DIDECO",
-   "organismo": "I MUNICIPALIDAD DE AYSEN",
-   "unidad": "I.MUNICIPALIDAD AYSEN-ADQUISICIONES",
-   "monto": 1900000,
-   "cierre_iso": "2026-11-17T17:35:00-03:00",
-   "publicacion": "16-11 17:29",
-   "publicacion_iso": "2026-11-16T17:29:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "78111803",
-     "Servicios de autobuses contratados",
-     3,
-     "Minibús de 20 a 25 pasajeros para 3 viajes de ida y regreso (20, 21 y 22 de noviembre), de 09:00 a 13:00 h, entre la Plaza de Armas de Puerto Aysén y la Reserva Nacional Río Simpson. Vehículo de 10 años o menos, con cinturones en todos los asientos y calefacción o aire acondicionado. Conductor con licencia profesional A2 o A3 (no clase B). Vehículo de reemplazo en caso de panne. Adjuntar padrón, revisión técnica, permiso de circulación, SOAP, licencia, foto y autorización según EETT."
-    ],
-    [
-     "80141618",
-     "Agencias de marketing de ventas, incluidas las impresiones",
-     51,
-     "Ticket de entrada a la Reserva Nacional Río Simpson para cada participante, incluido el equipo ejecutor: 17 por jornada, 51 en total, para los días 20, 21 y 22 de noviembre. El municipio entregará la lista de asistentes con los datos para emitir los tickets. Después de cada salida, se debe entregar el ticket o código QR al equipo de PROMOS como medio de verificación."
-    ],
-    [
-     "86111604",
-     "Capacitación a empleados",
-     3,
-     "Monitor/a de baño de naturaleza o bosque para 3 jornadas (20, 21 y 22 de noviembre), de 09:00 a 13:00 h, en la Reserva Nacional Río Simpson, con 17 participantes por jornada. Cada sesión debe durar al menos 2 horas en la reserva e incluir 4 pasos: respiración, activación de los sentidos, contemplación y cierre. Adjuntar CV del monitor/a y certificado o diploma en baños de bosque o naturaleza, o certificado de experiencia en un servicio similar."
-    ],
-    [
-     "93131607",
-     "Servicios de distribución de alimentos",
-     51,
-     "Colación individual en bolsa individual: 17 por jornada, 51 en total, para los días 20, 21 y 22 de noviembre. Cada bolsa debe contener 1 jugo o agua sin gas en formato individual, 1 barra de cereal y 1 fruta entera lavada (plátano, manzana o naranja). Se entrega en cada salida. Adjuntar el detalle de los productos (marca y formato)."
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=2713-1404-COT26",
-   "sin_detalle": false,
-   "descripcion": "Servicio integral para 3 jornadas de Baño de Naturaleza en la Reserva Nacional Río Simpson, los días 20, 21 y 22 de noviembre, de 09:00 a 13:00 h, con salida y regreso desde la Plaza de Armas de Puerto Aysén (17 participantes por jornada). Incluye: monitor/a certificado/a, transporte en minibús de 20 a 25 pasajeros (ida y vuelta), 51 entradas a la reserva y 51 colaciones individuales. Presupuesto máximo $1.900.000 IVA incluido. Revisar EETT y adjuntar la documentación solicitada.",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
   {
    "tipo": "POSIBLE",
    "motivos": [
@@ -459,6 +383,113 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=4889-48-COT26",
    "sin_detalle": false,
    "descripcion": "La Secretaría Regional Ministerial de las Culturas, las Artes y el Patrimonio de la Región de Aysén requiere contratar Servicios integrales de producción para jornada de bienestar y formación CeCrea",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Ventas y marketing"
+   ],
+   "nueva": false,
+   "codigo": "2713-1399-COT26",
+   "nombre": "Producción \"Temporada de Cruceros 2026-2027\" - DIDECO - Turismo - 1497",
+   "organismo": "I MUNICIPALIDAD DE AYSEN",
+   "unidad": "I.MUNICIPALIDAD AYSEN-ADQUISICIONES",
+   "monto": 2000000,
+   "cierre_iso": "2026-11-18T17:54:00-03:00",
+   "publicacion": "16-11 16:03",
+   "publicacion_iso": "2026-11-16T16:03:00-03:00",
+   "ofertas": 2,
+   "productos": [
+    [
+     "80141607",
+     "Producción de eventos",
+     1,
+     "Presentación de espectáculo folclórico en vivo, considerando la participación de 8 integrantes, vestuario, traslados y costos asociados, para el día 07 de diciembre de 2026"
+    ],
+    [
+     "80141607",
+     "Producción de eventos",
+     1,
+     "Dos anfitriones personificados, incluyendo vestuario, caracterización, maquillaje, traslado, participación durante la actividad y costos asociados, para el día 07 de diciembre de 2026"
+    ],
+    [
+     "80141607",
+     "Producción de eventos",
+     1,
+     "Dos anfitriones personificados, incluyendo vestuario, caracterización, maquillaje, traslado, participación durante la actividad y costos asociados, para el día 11 de diciembre de 2026"
+    ],
+    [
+     "80141607",
+     "Producción de eventos",
+     1,
+     "Personal de atención (2 garzones), responsables de servir y atender a los asistentes de la actividad, para el día 07 de diciembre de 2026"
+    ],
+    [
+     "80141607",
+     "Producción de eventos",
+     1,
+     "Personal de atención (2 garzones), responsables de servir y atender a los asistentes de la actividad, para el día 11 de diciembre de 2026"
+    ],
+    [
+     "80141607",
+     "Producción de eventos",
+     1,
+     "Preparación y suministro de 250 sopaipillas acompañadas de pebre para el día 07 de diciembre de 2026"
+    ],
+    [
+     "80141607",
+     "Producción de eventos",
+     1,
+     "Preparación y suministro de 250 sopaipillas acompañadas de pebre para el día 11 de diciembre de 2026"
+    ],
+    [
+     "80141607",
+     "Producción de eventos",
+     1,
+     "Suministros de 250 jugos néctar en variedad de sabores, en vasos de 200 ml, para el día 07 de diciembre de 2026"
+    ],
+    [
+     "80141607",
+     "Producción de eventos",
+     1,
+     "Suministros de 250 jugos néctar en variedad de sabores, en vasos de 200 ml, para el día 11 de diciembre de 2026"
+    ],
+    [
+     "80141607",
+     "Producción de eventos",
+     1,
+     "Suministro de 100 aguas saborizadas, en vasos de 200 ml para el día 07 de diciembre de 2026"
+    ],
+    [
+     "80141607",
+     "Producción de eventos",
+     1,
+     "Suministro de 100 aguas saborizadas, en vasos de 200 ml para el día 11 de diciembre de 2026"
+    ],
+    [
+     "80141607",
+     "Producción de eventos",
+     1,
+     "Provisión, Traslado e instalación de equipo de amplificación, incluyendo micrófonos, cableado y pedestal correspondiente, para el día 07 de diciembre de 2026"
+    ],
+    [
+     "80141607",
+     "Producción de eventos",
+     1,
+     "Provisión, Traslado e instalación de equipo de amplificación, incluyendo micrófonos, cableado y pedestal correspondiente, para el día 11 de diciembre de 2026"
+    ],
+    [
+     "80141607",
+     "Producción de eventos",
+     30,
+     "Provisión, traslado, instalación, disposición y retiro de 30 sillas, para el día 07 de diciembre de 2026"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=2713-1399-COT26",
+   "sin_detalle": false,
+   "descripcion": "Servicio de producción de actividad \"Temporada de cruceros 2026-2027\", según detalle del anexo adjunto, las ofertas deberán: incluir la totalidad de los productos y servicios solicitados, ajustarse al presupuesto disponible , el oferente asumirá COSTO DE TRANSPORTE (no desglosarlo como ítem aparte), actividades según EETT, en el lugar y a la hora indicada previa coordinación con el encargado. Ofertas que no cumplan con lo anterior serán rechazada. Servicio sujeto a multas según bases técnicas.",
    "en_gracia": false,
    "desaparecida_iso": ""
   },
@@ -956,18 +987,36 @@
    "adj_iso": null
   },
   {
-   "codigo": "2713-1399-COT26",
-   "nombre": "Producción \"Temporada de Cruceros 2026-2027\" - DIDECO - Turismo - 1497",
+   "codigo": "2713-1404-COT26",
+   "nombre": "Servicio de producción de 3 jornadas de Baño de Naturaleza  - Folio 1492 - DIDECO",
    "organismo": "I MUNICIPALIDAD DE AYSEN",
-   "monto": 2000000,
-   "cierre_iso": "2026-11-17T16:30:00-03:00",
+   "monto": 1900000,
+   "cierre_iso": "2026-11-17T17:35:00-03:00",
    "tipo": "OPORTUNIDAD",
    "motivos": [
     "Ventas y marketing"
    ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=2713-1399-COT26",
-   "primera_vista_iso": "2026-11-16T16:44:10-03:00",
-   "removida_iso": "2026-11-17T17:00:24-03:00",
+   "link": "https://buscador.mercadopublico.cl/ficha?code=2713-1404-COT26",
+   "primera_vista_iso": "2026-11-16T18:00:29-03:00",
+   "removida_iso": "2026-11-17T18:00:22-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
+  {
+   "codigo": "1233615-996-COT26",
+   "nombre": "AVT/SOL/2026/00318/Servicio de producción y ejecución encuentro robótica.",
+   "organismo": "Servicio Local de Educación Pública Aysén",
+   "monto": 1600000,
+   "cierre_iso": "2026-11-17T17:00:00-03:00",
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Ventas y marketing"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1233615-996-COT26",
+   "primera_vista_iso": "2026-11-16T10:00:36-03:00",
+   "removida_iso": "2026-11-17T18:00:22-03:00",
    "estado_api": null,
    "adj_nombre": null,
    "adj_monto": null,
