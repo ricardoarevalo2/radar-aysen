@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-11-17T09:00:31.942921-03:00",
+ "actualizado": "2026-11-17T10:00:28.332121-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
- "total_region": 362,
+ "total_region": 356,
  "rubros": {
   "80141600": "Ventas y marketing",
   "82101600": "Publicidad en medios no impresos",
@@ -712,6 +712,47 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=657-100-COT26",
    "sin_detalle": false,
    "descripcion": "El SERVIU Región de Aysén requiere la adquisición de adquisición de pendones roller, banderas velas publicitarias con mástil y base, mini pendones y toldo plegable, los cuales serán utilizados en actividades en terreno desarrolladas por la OIRS Coyhaique, la Delegación Aysén y la Delegación Cochrane.La contratación resulta necesaria para fortalecer la difusión y publicidad de información institucional en los subsidios, apoyar la atención a usuarios en terreno se adjunta especificaciones",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "fotografía"
+   ],
+   "nueva": true,
+   "codigo": "2494-301-COT26",
+   "nombre": "Adquisición de Premios para Taller Fotografia - Barrio Arturo Prat",
+   "organismo": "I MUNICIPALIDAD DE COYHAIQUE",
+   "unidad": "SECRETARIA COMUNAL DE PLANIFICACION",
+   "monto": 250000,
+   "cierre_iso": "2026-11-18T20:00:00-03:00",
+   "publicacion": "17-11 09:48",
+   "publicacion_iso": "2026-11-17T09:48:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "45121518",
+     "Kits de cámara",
+     5,
+     "Trípodes Profesional Extendible Ajustable Para Cámara Celular,170.00 x 34.00 x 170.00 cm, imagen referencial 1*\n\nLos detalles se encuentrasn en el documento adjunto."
+    ],
+    [
+     "45121518",
+     "Kits de cámara",
+     5,
+     "Tazas Cafe Mug Tipo Lente Camara Fotografica Aluminio, 350 ml, imagen referencial 2*\n\nLos detalles se encuentrasn en el documento adjunto."
+    ],
+    [
+     "45121518",
+     "Kits de cámara",
+     5,
+     "Monocular Zoom 40x60 Hd Estuche + Porta Celular Outdoor, imagen referencial 3*\n\nLos detalles se encuentrasn en el documento adjunto."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=2494-301-COT26",
+   "sin_detalle": false,
+   "descripcion": "Adquisición premios para concurso de fotografía del Barrio arturo Prat, con el objeto de generar acciones comunitarias y de fortalecimiento de la participación barrial impulsadas por el Programa Quiero Mi Barrio, a través de un taller de fotografía, la cual se contempla los premios que serán adquiridos mendiante Mercado Público. LOS DETALLES DE LOS PRODUCTOS DESEADO SE ENCUENTRAN EN EL DOCUMENTO ADJUNTO.",
    "en_gracia": false,
    "desaparecida_iso": ""
   },

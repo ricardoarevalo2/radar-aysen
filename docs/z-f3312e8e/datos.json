@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-11-17T09:00:31.942921-03:00",
+ "actualizado": "2026-11-17T10:00:28.332121-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
- "total_region": 362,
+ "total_region": 356,
  "rubros": {
   "25172700": "Aire acondicionado",
   "25173900": "Componentes eléctricos",
@@ -19,35 +19,6 @@
   "39121400": "Conectores, enchufes y terminales"
  },
  "filas": [
-  {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Conectores, enchufes y terminales"
-   ],
-   "nueva": true,
-   "codigo": "2494-299-COT26",
-   "nombre": " MATERIALES ELÉCTRICOS PARA PLAZA DE ARMAS COYHAIQUE",
-   "organismo": "I MUNICIPALIDAD DE COYHAIQUE",
-   "unidad": "SECRETARIA COMUNAL DE PLANIFICACION",
-   "monto": 6307438,
-   "cierre_iso": "2026-11-17T09:30:00-03:00",
-   "publicacion": "16-11 09:22",
-   "publicacion_iso": "2026-11-16T09:22:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "39121402",
-     "Enchufes eléctricos",
-     1,
-     "SE REQUIERE ADQUIRIR MATERIALES ELÉCTRICOS PARA PLAZA DE ARMAS DE COYHAIQUE SEGÚN DETALLE ADJUNTO. SE DARÁ PRIORIDAD A PROVEEDORES LOCALES. SE RECHAZA CUALQUIER OFERTA QUE CONTENGA COSTOS ADICIONALES. SE SOLICITA ADJUNTAR IMAGENES DE REFERENCIA Y ESPECIFICACIONES PARA EVALUAR SEGÚN CALIDAD (EXCLUYENTE). SE SOLICITA INDICAR DATOS DE CONTACTO Y BANCARIOS EN COTIZACIÓN."
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=2494-299-COT26",
-   "sin_detalle": false,
-   "descripcion": "SE REQUIERE ADQUIRIR MATERIALES ELÉCTRICOS PARA PLAZA DE ARMAS DE COYHAIQUE SEGÚN DETALLE ADJUNTO. SE DARÁ PRIORIDAD A PROVEEDORES LOCALES. SE RECHAZA CUALQUIER OFERTA QUE CONTENGA COSTOS ADICIONALES. SE SOLICITA ADJUNTAR IMAGENES DE REFERENCIA Y ESPECIFICACIONES PARA EVALUAR SEGÚN CALIDAD (EXCLUYENTE). SE SOLICITA INDICAR DATOS DE CONTACTO Y BANCARIOS EN COTIZACIÓN.",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
   {
    "tipo": "OPORTUNIDAD",
    "motivos": [
@@ -1251,6 +1222,35 @@
    "desaparecida_iso": ""
   },
   {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Enfriamiento (aires acondicionados)"
+   ],
+   "nueva": true,
+   "codigo": "2151-93-COT26",
+   "nombre": "SERVICIO DE MANTENCIÓN PREVENTIVA Y CORRECTIVA DE 7 EQUIPOS DE AIRE ACONDICIONADO SPLIT – HOSPITAL DR. JORGE IBAR BRUCE DE PUERTO CISNES",
+   "organismo": "SERVICIO NAC DE SALUD HOSPITAL DE PTO CISNES",
+   "unidad": "Hospital Puerto Cisnes",
+   "monto": 3000000,
+   "cierre_iso": "2026-11-19T14:00:00-03:00",
+   "publicacion": "17-11 09:53",
+   "publicacion_iso": "2026-11-17T09:53:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "40101701",
+     "Aires acondicionados",
+     1,
+     "Se requiere contratar el servicio integral de mantención preventiva, verificación y ajuste/reemplazo de carga de gas refrigerante para 7 equipos de aire acondicionado tipo Split Muro, además de mantención correctiva específica en 1 unidad. (ver BASES Y ESPECIFICACIONES TÉCNICAS adjuntas"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=2151-93-COT26",
+   "sin_detalle": false,
+   "descripcion": "Se requiere contratar el servicio integral de mantención preventiva para 7 equipos de aire acondicionado tipo Split Muro y mantención correctiva.",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
    "tipo": "POSIBLE",
    "motivos": [
     "generador",
@@ -1311,6 +1311,24 @@
   }
  ],
  "historial": [
+  {
+   "codigo": "2494-299-COT26",
+   "nombre": " MATERIALES ELÉCTRICOS PARA PLAZA DE ARMAS COYHAIQUE",
+   "organismo": "I MUNICIPALIDAD DE COYHAIQUE",
+   "monto": 6307438,
+   "cierre_iso": "2026-11-17T09:30:00-03:00",
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Conectores, enchufes y terminales"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=2494-299-COT26",
+   "primera_vista_iso": "2026-11-16T10:00:36-03:00",
+   "removida_iso": "2026-11-17T10:00:28-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
   {
    "codigo": "4626-37-COT26",
    "nombre": "Servicio mantención y reparación de Calefactores Murales a Gas",
