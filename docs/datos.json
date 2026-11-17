@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-11-17T19:00:32.552748-03:00",
+ "actualizado": "2026-11-17T20:00:25.271269-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
- "total_region": 328,
+ "total_region": 329,
  "rubros": {
   "80141600": "Ventas y marketing",
   "82101600": "Publicidad en medios no impresos",
@@ -1931,24 +1931,6 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=4144-313-COT26",
    "primera_vista_iso": "2026-11-10T19:26:29-03:00",
    "removida_iso": "2026-11-11T14:18:43-03:00",
-   "estado_api": "",
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "1332-43-COT26",
-   "nombre": "PLAN DE MEDIOS Y CONTINUIDAD DE PLATAFORMA WEB PARA LA CAMPAÑA REGIONAL DE CONCIENCIA TURÍSTICA AYSÉN PATAGONIA",
-   "organismo": "",
-   "monto": null,
-   "cierre_iso": "",
-   "tipo": "POSIBLE",
-   "motivos": [
-    "radiales"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1332-43-COT26",
-   "primera_vista_iso": "2026-11-10T19:26:29-03:00",
-   "removida_iso": "2026-11-13T12:00:25-03:00",
    "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,
