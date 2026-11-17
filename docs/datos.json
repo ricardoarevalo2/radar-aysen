@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-11-17T13:00:25.745770-03:00",
+ "actualizado": "2026-11-17T14:00:24.250501-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
- "total_region": 341,
+ "total_region": 339,
  "rubros": {
   "80141600": "Ventas y marketing",
   "82101600": "Publicidad en medios no impresos",
@@ -15,58 +15,11 @@
  },
  "filas": [
   {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "registro fotográfico"
-   ],
-   "nueva": false,
-   "codigo": "1057062-531-COT26",
-   "nombre": "Adquisición de equipamiento para laboratorio de química, biología y genética según fisabs 2455_URY 21991",
-   "organismo": "UNIVERSIDAD DE AYSEN",
-   "unidad": "Proyectos",
-   "monto": 6999996,
-   "cierre_iso": "2026-11-17T13:00:00-03:00",
-   "publicacion": "12-11 15:55",
-   "publicacion_iso": "2026-11-12T15:55:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "41105304",
-     "Transiluminadores",
-     4,
-     "Sistema compacto de electroforesis horizontal para geles de agarosa, con fuente de alimentación integrada y transiluminador de luz azul incorporado. Debe permitir la separación de fragmentos de ADN, visualización directa de bandas en el gel y registro fotográfico mediante teléfono celular. Suministro de cuatro unidades de electroforesis con fuente y transiluminación integradas, destinadas al análisis de productos de PCR en actividades prácticas y de investigación."
-    ],
-    [
-     "41115403",
-     "Espectrómetros",
-     4,
-     "Kit de espectrómetro de fibra óptica para medición y separación de longitudes de onda en el espectro visible e infrarrojo, según especificaciones técnicas adjuntas."
-    ],
-    [
-     "60103905",
-     "Kits o materiales de cultivo",
-     7,
-     "PCR Pocket - DIY Kit: termociclador portátil en formato kit para ensamblaje (DIY), destinado a amplificación de ADN por PCR convencional.Capacidad de cinco tubos estándar de 0,2 mL; control PID de temperatura desde ambiente hasta 99 °C; programación desde pantalla integrada, sin requerir computador; alimentación mediante USB con adaptador de 2 A; dimensiones referenciales 33 × 105 × 50 mm; peso aproximado de 50 g. Diseño de hardware y firmware abiertos; compatible con reactivos y tubos estándar."
-    ],
-    [
-     "60103905",
-     "Kits o materiales de cultivo",
-     1,
-     "qPocketPCR – Real-Time PCR Thermocycler: Termociclador portátil para amplificación y detección de ADN mediante PCR en tiempo real (qPCR), con sistema de detección fluorescente compatible con SYBR Green y tapa calefaccionada. Formato compacto para actividades de investigación y monitoreo en terreno, debe incluir daptador de\nalimentación de 20 W y cable USB-C"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1057062-531-COT26",
-   "sin_detalle": false,
-   "descripcion": "Se requiere la adquirir equipamiento para laboratorio de química, biología y genética según el detalle indicado. Cotización debe indicar especificaciones técnicas de lo ofertado. Debe indicar plazo de entrega ofertado, considerando entrega en Eusebio Lillo 667, Coyhaique. Valor cotizado debe incluir flete e impuestos. Se podrá privilegiar el menor plazo de entrega, siempre que cumpla con todas las especificaciones requeridas. Compra sujeta a posibles multas o sanciones por incumplimiento.",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
-  {
    "tipo": "OPORTUNIDAD",
    "motivos": [
     "Publicidad en medios no impresos"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "1057062-544-COT26",
    "nombre": "Servicio de Publicidad Digital: Campaña Magíster en Gestión del Cambio Climático según Fisabs 2376_URY 21991",
    "organismo": "UNIVERSIDAD DE AYSEN",
@@ -601,6 +554,35 @@
    "motivos": [
     "Ventas y marketing"
    ],
+   "nueva": true,
+   "codigo": "1458-37-COT26",
+   "nombre": "Realización Jornada Regional Programa Noche Digna",
+   "organismo": "SERPLAC XI Región",
+   "unidad": "SERPLAC XI Región",
+   "monto": 1000000,
+   "cierre_iso": "2026-11-18T16:00:00-03:00",
+   "publicacion": "17-11 12:45",
+   "publicacion_iso": "2026-11-17T12:45:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "80141607",
+     "Producción de eventos",
+     1,
+     "Producción y apoyo logístico y de sistematización para una jornada participativa del Programa Noche Digna, destinada a recoger experiencias y aprendizajes de los equipos regionales y ejecutores. Además debe considerar almuerzo para 30 personas: plato principal, bebida sin alcohol o agua y postre o fruta. Considerar alternativas vegetarianas y restricciones alimentarias comunicadas oportunamente."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1458-37-COT26",
+   "sin_detalle": false,
+   "descripcion": "La Secretaría Regional Ministerial de Desarrollo Social y Familia de la región de Aysén, requiere contratar un servicio de producción y apoyo logístico y de sistematización para una jornada participativa del Programa Noche Digna. Debe considerar Almuerzo para 30 personas.",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Ventas y marketing"
+   ],
    "nueva": false,
    "codigo": "4889-48-COT26",
    "nombre": "Servicios integrales de producción para jornada de bienestar y formación CeCrea -  SEREMI de las Culturas, las Artes y el Patrimonio Región de Aysén",
@@ -1070,6 +1052,24 @@
   }
  ],
  "historial": [
+  {
+   "codigo": "1057062-531-COT26",
+   "nombre": "Adquisición de equipamiento para laboratorio de química, biología y genética según fisabs 2455_URY 21991",
+   "organismo": "UNIVERSIDAD DE AYSEN",
+   "monto": 6999996,
+   "cierre_iso": "2026-11-17T13:00:00-03:00",
+   "tipo": "POSIBLE",
+   "motivos": [
+    "registro fotográfico"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1057062-531-COT26",
+   "primera_vista_iso": "2026-11-12T18:12:42-03:00",
+   "removida_iso": "2026-11-17T14:00:24-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
   {
    "codigo": "1233615-995-COT26",
    "nombre": "RMG-SOL01535-Equipos audiovisuales, EMTP liceo Cerro Castillo 29.05",
@@ -1859,24 +1859,6 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=4144-313-COT26",
    "primera_vista_iso": "2026-11-10T19:26:29-03:00",
    "removida_iso": "2026-11-11T14:18:43-03:00",
-   "estado_api": "",
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "918434-328-COT26",
-   "nombre": "D5882 Adquisición de Pendones Roller Institucionales, Seremi de Aysen",
-   "organismo": "MINISTERIO DE LA MUJER Y LA EQUIDAD DE GÉNERO",
-   "monto": 150000,
-   "cierre_iso": "2026-11-10T14:00:00-03:00",
-   "tipo": "POSIBLE",
-   "motivos": [
-    "publicitaria"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=918434-328-COT26",
-   "primera_vista_iso": "2026-11-03T19:24:45-03:00",
-   "removida_iso": "2026-11-10T19:26:29-03:00",
    "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,
