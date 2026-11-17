@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-11-17T08:00:24.639405-03:00",
+ "actualizado": "2026-11-17T09:00:31.942921-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
- "total_region": 363,
+ "total_region": 362,
  "rubros": {
   "80141600": "Ventas y marketing",
   "82101600": "Publicidad en medios no impresos",
@@ -721,7 +721,7 @@
     "difusion",
     "publicitarios"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "4609-315-COT26",
    "nombre": "MATERIAL DE DIFUSION",
    "organismo": "I MUNICIPALIDAD DE CHILE CHICO",
