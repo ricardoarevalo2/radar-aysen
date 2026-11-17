@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-11-17T14:00:24.250501-03:00",
+ "actualizado": "2026-11-17T15:00:50.510562-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
- "total_region": 339,
+ "total_region": 342,
  "rubros": {
   "25172700": "Aire acondicionado",
   "25173900": "Componentes eléctricos",
@@ -184,7 +184,7 @@
     "eléctricos",
     "mantención eléctrica"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "4644-138-COT26",
    "nombre": "SERVICIO DE MANTENCIÓN ELÉCTRICA DE INFRAESTRUCTURA,  CONAF MAÑIHUALES",
    "organismo": "CORP NACIONAL FORESTAL",
@@ -213,7 +213,7 @@
    "motivos": [
     "Gasfitería, calefacción y aire acondicionado"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "4644-137-COT26",
    "nombre": "Reparación caldera a pelett Of Conaf Aysén",
    "organismo": "CORP NACIONAL FORESTAL",
@@ -324,6 +324,35 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=2713-1395-COT26",
    "sin_detalle": false,
    "descripcion": "ADQUISICION DE UTILES DE ASEO E HIGIENE, SEGUN DETALLES Y ESPECIFICACIONES TECNICAS ADJUNTAS,LOS MONTOS DE LAS OFERTAS DEBEN INCLUIR TODOS LOS GASTOS NECESARIOS, PARA LA ENTREGA DE LOS UTILES DE ASEO E HIGIENE, EN PUERTO AYSÉN, LAS OFERTAS QUE SOBREPASEN EL MONTO PRESUPUESTARIO DISPONIBLE, NO CUMPLAN CON LAS ESPECIFICACIONES TÉCNICAS NO CUMPLAN O NO INDIQUEN EL PLAZO DE ENTREGA NO SERÁN EVALUADAS.",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "enchufes"
+   ],
+   "nueva": false,
+   "codigo": "3950-742-COT26",
+   "nombre": "PRODUCCION DE EVENTO \"PRIMER CONSEJO TECNICO DE GESTORES DE CASO\"",
+   "organismo": "DIRECCION SALUD RURAL",
+   "unidad": "Dirección de Salud Rural",
+   "monto": 250000,
+   "cierre_iso": "2026-11-18T15:21:00-03:00",
+   "publicacion": "16-11 12:37",
+   "publicacion_iso": "2026-11-16T12:37:00-03:00",
+   "ofertas": 1,
+   "productos": [
+    [
+     "90101603",
+     "Servicios de catering",
+     1,
+     "COFFE BREAK PARA 20 PERSONAS EL 25 DE NOVIEMBRE DEL 2026, UBICACION TERCER PISO CAJA LOS ANDES COYHAIQUE, CALLE EUSEBIO LILLO N°20, adjunta propuesta detallada. considerar mesas plegables y termos ya que no se dispone de enchufes cercanos en el sector donde se montará."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=3950-742-COT26",
+   "sin_detalle": false,
+   "descripcion": "INCLUIR MESAS, TERMOS EN COTIZACION",
    "en_gracia": false,
    "desaparecida_iso": ""
   },
@@ -1074,24 +1103,6 @@
   }
  ],
  "historial": [
-  {
-   "codigo": "3950-742-COT26",
-   "nombre": "PRODUCCION DE EVENTO \"PRIMER CONSEJO TECNICO DE GESTORES DE CASO\"",
-   "organismo": "DIRECCION SALUD RURAL",
-   "monto": 250000,
-   "cierre_iso": "2026-11-17T13:00:00-03:00",
-   "tipo": "POSIBLE",
-   "motivos": [
-    "enchufes"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=3950-742-COT26",
-   "primera_vista_iso": "2026-11-16T13:00:26-03:00",
-   "removida_iso": "2026-11-17T14:00:24-03:00",
-   "estado_api": null,
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
   {
    "codigo": "1691-2128-COT26",
    "nombre": " EFCC- ASAS DE RECECTOSCOPIO COD.: 27050 G K.STORZ UD PARA REPOSICIÓN DE INS. CLINICOS HRC",

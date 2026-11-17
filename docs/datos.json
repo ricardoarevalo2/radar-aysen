@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-11-17T14:00:24.250501-03:00",
+ "actualizado": "2026-11-17T15:00:50.510562-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
- "total_region": 339,
+ "total_region": 342,
  "rubros": {
   "80141600": "Ventas y marketing",
   "82101600": "Publicidad en medios no impresos",
@@ -339,7 +339,7 @@
     "publicidad",
     "publicitarios"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "2495-669-COT26",
    "nombre": "set de herramientas ludicas Centro de las Mujeres",
    "organismo": "I MUNICIPALIDAD DE COYHAIQUE",
@@ -521,31 +521,94 @@
    "desaparecida_iso": ""
   },
   {
-   "tipo": "OPORTUNIDAD",
+   "tipo": "POSIBLE",
    "motivos": [
-    "Ventas y marketing"
+    "radio"
    ],
    "nueva": true,
-   "codigo": "1458-37-COT26",
-   "nombre": "Realización Jornada Regional Programa Noche Digna",
-   "organismo": "SERPLAC XI Región",
-   "unidad": "SERPLAC XI Región",
-   "monto": 1000000,
-   "cierre_iso": "2026-11-18T16:00:00-03:00",
-   "publicacion": "17-11 12:45",
-   "publicacion_iso": "2026-11-17T12:45:00-03:00",
+   "codigo": "973172-5-COT26",
+   "nombre": "JUEGOS RECREATIVOS PARA ACTIVIDAD DE FIN DE AÑO BIENESTAR ",
+   "organismo": "SII Oficina de Bienestar",
+   "unidad": "BIENESTAR SII - DR COYHAIQUE",
+   "monto": 680000,
+   "cierre_iso": "2026-11-18T14:30:00-03:00",
+   "publicacion": "17-11 14:06",
+   "publicacion_iso": "2026-11-17T14:06:00-03:00",
    "ofertas": 0,
    "productos": [
     [
-     "80141607",
-     "Producción de eventos",
+     "60141111",
+     "Accesorios de juegos",
      1,
-     "Producción y apoyo logístico y de sistematización para una jornada participativa del Programa Noche Digna, destinada a recoger experiencias y aprendizajes de los equipos regionales y ejecutores. Además debe considerar almuerzo para 30 personas: plato principal, bebida sin alcohol o agua y postre o fruta. Considerar alternativas vegetarianas y restricciones alimentarias comunicadas oportunamente."
+     "VER DETALLE DEL REQUERIMIENTO EN ADJUNTO. \nCOTIZAR:\n1.- UN TORO MECÁNICO\n2.- UN JUEGO INFLABLE DE OBSTÁCULOS TEMÁTICA SELVA. \n3.- UN RELOJ DERRIBARDOR INFLABLE. \n\nLa ofertas deben incluir traslado, instalación y retiro de los equipos en un radio de hasta 10 kilómetros desde Coyhaique.\nTodos los juegos deben cumplir con las condiciones de seguridad necesarias para su operación y supervisión permanente de monitor por cada uno. \nEl oferente DEBE presentar imágenes reales de los juegos ofertados."
     ]
    ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1458-37-COT26",
+   "link": "https://buscador.mercadopublico.cl/ficha?code=973172-5-COT26",
    "sin_detalle": false,
-   "descripcion": "La Secretaría Regional Ministerial de Desarrollo Social y Familia de la región de Aysén, requiere contratar un servicio de producción y apoyo logístico y de sistematización para una jornada participativa del Programa Noche Digna. Debe considerar Almuerzo para 30 personas.",
+   "descripcion": "Se requiere la contratación del servicio de arriendo de juegos recreativos para actividad de fin dirigida a funcionarios de la DR Coyhaique del SII y sus hijos, el servicio debe incluir el traslado al lugar del evento, instalación, operación, supervisión y retiro de los equipos.",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "radiales",
+    "radio",
+    "radioemisora",
+    "spots"
+   ],
+   "nueva": true,
+   "codigo": "1057062-549-COT26",
+   "nombre": "Servicio de emisión de spots en radioemisora local de Puerto Aysén",
+   "organismo": "UNIVERSIDAD DE AYSEN",
+   "unidad": "Proyectos",
+   "monto": 1100000,
+   "cierre_iso": "2026-11-18T14:30:00-03:00",
+   "publicacion": "17-11 14:06",
+   "publicacion_iso": "2026-11-17T14:06:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "52161511",
+     "Radios",
+     1,
+     "Emisión de al menos 3 spots radiales diarios con vigencia hasta el 30 de enero en una radioemisora local de la comuna de Puerto Aysén con señal abierta y digital. El medio debe acreditar liderazgo de audiencia digital en la comuna, contando con al menos 2.000 seguidores en Instagram y 25 mil seguidores en Facebook."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1057062-549-COT26",
+   "sin_detalle": false,
+   "descripcion": "Emisión de al menos 3 spots radiales diarios con vigencia hasta el 30 de enero en una radioemisora local de la comuna de Puerto Aysén con señal abierta y digital. El medio debe acreditar liderazgo de audiencia digital en la comuna, contando con al menos 2.000 seguidores en Instagram y 25 mil seguidores en Facebook. Proveedor debe detallar lo ofertado e indicar la radio, y acreditar ser de la comuna",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "radiales",
+    "radioemisora",
+    "spots"
+   ],
+   "nueva": true,
+   "codigo": "1057062-548-COT26",
+   "nombre": "Servicio de emisión de spots en radioemisora con cobertura regional en Aysén.",
+   "organismo": "UNIVERSIDAD DE AYSEN",
+   "unidad": "Proyectos",
+   "monto": 322000,
+   "cierre_iso": "2026-11-18T14:30:00-03:00",
+   "publicacion": "17-11 13:59",
+   "publicacion_iso": "2026-11-17T13:59:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "52161511",
+     "Radios",
+     1,
+     "Se requiere la emisión de al menos 4 spots radiales diarios, vigentes hasta el 30 de enero, en una radioemisora de Coyhaique con frecuencias AM y FM. El proveedor deberá detallar en su oferta las características del servicio, indicar el nombre del medio y acreditar documentalmente su cobertura. Para la recepción conforme del servicio (la cual podrá ser mensual), será obligatorio adjuntar los medios de verificación correspondientes que respalden las emisiones realizadas."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1057062-548-COT26",
+   "sin_detalle": false,
+   "descripcion": "Emisión de al menos 4 spots radiales diarios con vigencia hasta el 30 de enero en una radioemisora de Coyhaique con frecuencia AM y FM. El medio debe acreditar cobertura efectiva en al menos 10 localidades de la región (La Junta, Puerto Cisnes, Mañihuales, Coyhaique, Puerto Aysén, Chile Chico, Caleta Tortel, Guadal, Puerto Aguirre y Cochrane) además de señal digital, contando con al menos 22 mil seguidores en Instagram y 100 mil en Facebook.",
    "en_gracia": false,
    "desaparecida_iso": ""
   },
