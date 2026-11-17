@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-11-17T15:00:50.510562-03:00",
+ "actualizado": "2026-11-17T15:41:06.685111-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
- "total_region": 342,
+ "total_region": 344,
  "rubros": {
   "80141600": "Ventas y marketing",
   "82101600": "Publicidad en medios no impresos",
@@ -14,78 +14,6 @@
   "83121700": "Comunicación social y de masas"
  },
  "filas": [
-  {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Publicidad en medios no impresos"
-   ],
-   "nueva": false,
-   "codigo": "1057062-544-COT26",
-   "nombre": "Servicio de Publicidad Digital: Campaña Magíster en Gestión del Cambio Climático según Fisabs 2376_URY 21991",
-   "organismo": "UNIVERSIDAD DE AYSEN",
-   "unidad": "Proyectos",
-   "monto": 7000000,
-   "cierre_iso": "2026-11-17T15:00:00-03:00",
-   "publicacion": "16-11 13:00",
-   "publicacion_iso": "2026-11-16T13:00:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "82101603",
-     "Publicidad en Internet",
-     1,
-     "Servicio de publicidad digital para la difusión del Magíster en Gestión del Cambio Climático 2027. Cotizaciones deberán entregar todo lo indicado en las términos de referencia adjuntos."
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1057062-544-COT26",
-   "sin_detalle": false,
-   "descripcion": "Se requiere el servicio de Publicidad Digital según especificaciones técnicas (TDR) adjuntas . Cotizaciones deben indicar el detalle de lo ofertado. Valor entregado debe considerar impuestos y todo lo necesario para cumplir con lo solicitado en las EETT. Se podrán privilegiar ofertas que consideren la mayor inversión efectiva en los medios solicitados. Compra sujeta a multas por incumplimientos.",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "audiovisual",
-    "comunicacional",
-    "difusión",
-    "publicidad",
-    "radial",
-    "radioemisora",
-    "redes sociales",
-    "spot",
-    "spots"
-   ],
-   "nueva": true,
-   "codigo": "1057062-546-COT26",
-   "nombre": "Servicio de emisión de spots y entrevistas en radioemisora local de Coyhaique",
-   "organismo": "UNIVERSIDAD DE AYSEN",
-   "unidad": "Proyectos",
-   "monto": 2500000,
-   "cierre_iso": "2026-11-17T15:30:00-03:00",
-   "publicacion": "16-11 15:24",
-   "publicacion_iso": "2026-11-16T15:24:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "52161511",
-     "Radios",
-     1,
-     "Emisión de 6 spots promocionales diarios de lunes a domingo, más 2 entrevistas mensuales de 25 minutos aproximadamente en horario y fecha coordinada, con retransmisión multiplataforma. El medio debe ser una radioemisora local de Coyhaique con señal abierta y digital, acreditando al menos 15.000 seguidores en RRSS. Proveedor debe indicar el nombre y dirección de la radioemisora, y debe ser distinta al siguiente items del presente cotizador"
-    ],
-    [
-     "52161511",
-     "Radios",
-     1,
-     "Emisión de spot radial de 30 segundos con al menos 6 salidas diarias de lunes a domingo, más 2 entrevistas mensuales de 20 minutos, 1 spot audiovisual para redes sociales y 15 colaboraciones mensuales en Instagram, El medio debe ser una radioemisora local de Coyhaique con amplia cobertura, acreditando al menos 4.500 seguidores en Instagram y 30.000 en Facebook. Proveedor debe indicar el nombre y dirección de la radioemisora, y debe ser distinta al siguiente items del presente cotizador"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1057062-546-COT26",
-   "sin_detalle": false,
-   "descripcion": "Se requiere contratar serv de publicidad radial y difusión digital en dos radioemisoras locales distintas de la comuna de Coyhaique, con vigencia hasta el 30 de enero, para maximizar la cobertura comunicacional en distintos segmentos de audiencia local. Cada línea deberá ser en medios diferentes. Proveedor debe detallar lo ofertado y acreditar el alcance en RRSS y que sean de la comuna de Coyhaique",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
   {
    "tipo": "OPORTUNIDAD",
    "motivos": [
@@ -1116,6 +1044,50 @@
  ],
  "historial": [
   {
+   "codigo": "1057062-546-COT26",
+   "nombre": "Servicio de emisión de spots y entrevistas en radioemisora local de Coyhaique",
+   "organismo": "UNIVERSIDAD DE AYSEN",
+   "monto": 2500000,
+   "cierre_iso": "2026-11-17T15:30:00-03:00",
+   "tipo": "POSIBLE",
+   "motivos": [
+    "audiovisual",
+    "comunicacional",
+    "difusión",
+    "publicidad",
+    "radial",
+    "radioemisora",
+    "redes sociales",
+    "spot",
+    "spots"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1057062-546-COT26",
+   "primera_vista_iso": "2026-11-16T16:00:40-03:00",
+   "removida_iso": "2026-11-17T15:41:06-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
+  {
+   "codigo": "1057062-544-COT26",
+   "nombre": "Servicio de Publicidad Digital: Campaña Magíster en Gestión del Cambio Climático según Fisabs 2376_URY 21991",
+   "organismo": "UNIVERSIDAD DE AYSEN",
+   "monto": 7000000,
+   "cierre_iso": "2026-11-17T15:00:00-03:00",
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Publicidad en medios no impresos"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1057062-544-COT26",
+   "primera_vista_iso": "2026-11-16T14:00:23-03:00",
+   "removida_iso": "2026-11-17T15:41:06-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
+  {
    "codigo": "1057062-531-COT26",
    "nombre": "Adquisición de equipamiento para laboratorio de química, biología y genética según fisabs 2455_URY 21991",
    "organismo": "UNIVERSIDAD DE AYSEN",
@@ -1128,7 +1100,7 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=1057062-531-COT26",
    "primera_vista_iso": "2026-11-12T18:12:42-03:00",
    "removida_iso": "2026-11-17T14:00:24-03:00",
-   "estado_api": null,
+   "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,
    "adj_iso": null
@@ -1201,7 +1173,7 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=1428-21-COT26",
    "primera_vista_iso": "2026-11-12T19:00:24-03:00",
    "removida_iso": "2026-11-17T12:00:27-03:00",
-   "estado_api": null,
+   "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,
    "adj_iso": null
