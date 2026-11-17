@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-11-17T18:00:22.545598-03:00",
+ "actualizado": "2026-11-17T19:00:32.552748-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
- "total_region": 326,
+ "total_region": 328,
  "rubros": {
   "25172700": "Aire acondicionado",
   "25173900": "Componentes eléctricos",
@@ -932,10 +932,39 @@
   {
    "tipo": "POSIBLE",
    "motivos": [
+    "iluminación"
+   ],
+   "nueva": true,
+   "codigo": "4066-527-COT26",
+   "nombre": "Servicio de producción de eventos: Desarrollo de Ferias Productivas, Lanzamiento de Temporada Turística 2026-2027 en Puerto Sánchez - COD BIP 40066883-0",
+   "organismo": "I MUNICIPALIDAD RIO IBANEZ",
+   "unidad": "DIDECO",
+   "monto": 7150000,
+   "cierre_iso": "2026-11-19T19:00:00-03:00",
+   "publicacion": "17-11 18:57",
+   "publicacion_iso": "2026-11-17T18:57:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "80141607",
+     "Producción de eventos",
+     1,
+     "Servicio integral a suma alzada, sin cobros adicionales, el sábado 5 de diciembre de 2026 en Puerto Sánchez y Puerto Cristal. Incluye alimentación para 300 personas, amplificación e iluminación, dos presentaciones musicales en vivo (una de tarde-noche), coffee break, colaciones y animador local. Ofertas con los Formatos N°1 a N°3 y habilitación municipal (sección 11 del TDR). Presupuesto máximo $7.150.000, impuesto incluido."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=4066-527-COT26",
+   "sin_detalle": false,
+   "descripcion": "Servicio de producción de eventos llave en mano para el Lanzamiento de Temporada Turística 2026-2027 en Puerto Sánchez, el 5 de diciembre de 2026: vaquilla al palo para 300 personas, amplificación e iluminación, música regional y bailable en vivo, coffee break para 60 personas, 25 colaciones saludables y animador local. Presupuesto $7.150.000, impuesto incluido. Programa GORE Aysén, COD BIP 40066883-0. Requisitos y formatos en el TDR adjunto, revisar anexos.",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
     "generador",
     "grupo electrógeno"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "697209-34-COT26",
    "nombre": "CIERRE PERIMETRAL DE SEGURIDAD PARA GRUPO ELECTRÓGENO",
    "organismo": "MINISTERIO PUBLICO",
