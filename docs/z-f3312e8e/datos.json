@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-11-17T16:00:23.735709-03:00",
+ "actualizado": "2026-11-17T17:00:24.371171-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
- "total_region": 345,
+ "total_region": 327,
  "rubros": {
   "25172700": "Aire acondicionado",
   "25173900": "Componentes eléctricos",
@@ -19,135 +19,6 @@
   "39121400": "Conectores, enchufes y terminales"
  },
  "filas": [
-  {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Gasfitería, calefacción y aire acondicionado"
-   ],
-   "nueva": false,
-   "codigo": "1905-88-COT26",
-   "nombre": "Servicio de mejoramiento de calefacción en equipos de aire acondicionado en oficinas de Puerto Aysén y Coyhaique",
-   "organismo": "SERVICIO DE REGISTRO CIVIL E IDENTIFICAC",
-   "unidad": "Dirección Regional XI Región",
-   "monto": 3600000,
-   "cierre_iso": "2026-11-17T16:00:00-03:00",
-   "publicacion": "13-11 20:53",
-   "publicacion_iso": "2026-11-13T20:53:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "72102302",
-     "Instalación, reparación o mantenimiento de sistemas de calefacción",
-     1,
-     "Servicio de mejoramiento de calefacción en equipos de aire acondicionado en oficinas de Puerto Aysén y Coyhaique"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1905-88-COT26",
-   "sin_detalle": false,
-   "descripcion": "Servicio de mejoramiento de calefacción de aire acondicionado en oficina de Puerto Aysén y Coyhaique. Favor (revisar los TDR en los archivos adjuntos y fechas de visita en terreno)",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
-  {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Gasfitería, calefacción y aire acondicionado"
-   ],
-   "nueva": true,
-   "codigo": "4609-319-COT26",
-   "nombre": "MANTENIMIENTO EQ. CALDERA Y AUTOCLAVE",
-   "organismo": "I MUNICIPALIDAD DE CHILE CHICO",
-   "unidad": "Finanzas",
-   "monto": 2000000,
-   "cierre_iso": "2026-11-17T16:15:00-03:00",
-   "publicacion": "16-11 16:12",
-   "publicacion_iso": "2026-11-16T16:12:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "72102302",
-     "Instalación, reparación o mantenimiento de sistemas de calefacción",
-     1,
-     "MANTENCION EQUIPO AUTOCLAVE E INSTALACION PLACA REGISTRO"
-    ],
-    [
-     "72102302",
-     "Instalación, reparación o mantenimiento de sistemas de calefacción",
-     3,
-     "REVISION Y NORMALIZACION DE CALDERAS MUNICIPALES E INFORME DE EQUIPOS CALDERAS"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=4609-319-COT26",
-   "sin_detalle": false,
-   "descripcion": "COTIZACION MANTENIMIENTO EQ. CALDERA Y AUTOCLAVE",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "enchufe"
-   ],
-   "nueva": true,
-   "codigo": "4649-112-COT26",
-   "nombre": "Reparación y cambio de Repuestos de Combustión a Pellet A.I",
-   "organismo": "CORP NACIONAL FORESTAL",
-   "unidad": "XI Región - Prov. Coyhaique",
-   "monto": 1596000,
-   "cierre_iso": "2026-11-17T16:20:00-03:00",
-   "publicacion": "16-11 15:16",
-   "publicacion_iso": "2026-11-16T15:16:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "40101808",
-     "Estufas de la calefacción",
-     1,
-     "Estufa no enciende motor extractor de humo malo,instalacion motor"
-    ],
-    [
-     "40101808",
-     "Estufas de la calefacción",
-     1,
-     "Cambio Pila placa electrónica"
-    ],
-    [
-     "40101808",
-     "Estufas de la calefacción",
-     1,
-     "Cambio de Kit caños y cable de enchufe"
-    ],
-    [
-     "40101808",
-     "Estufas de la calefacción",
-     1,
-     "Cambio de T de registro y caños deteriorados, tapa oxidada y no cumple su función e instalación."
-    ],
-    [
-     "40101808",
-     "Estufas de la calefacción",
-     1,
-     "Estufa Bosca, brasero fundido, cambio de T de registro cambio tapa Instalación Kit de caños"
-    ],
-    [
-     "40101808",
-     "Estufas de la calefacción",
-     1,
-     "Cambio Pila Placa electrónica, cambiar T de registro cambio tapa e instalacion"
-    ],
-    [
-     "40101808",
-     "Estufas de la calefacción",
-     1,
-     "Ladrillo lateral roto cambio kit de caños en salida exterior instalación de Cantillon nuevo"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=4649-112-COT26",
-   "sin_detalle": false,
-   "descripcion": "Según Sic N° 578 y Sic refundido N°399  se requiere contratar el Servicio de Reparación técnica, cambio de caños, braseros  para 7 estufas a pellet, actualmente instaladas en las dependencias del Programa GORE \"Ecosistemas Forestales con Enfoque en Silvicultura Preventiva en la Región de Aysén\", Código BIP 40077633-0, Área de Intervención Coyhaique.",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
   {
    "tipo": "POSIBLE",
    "motivos": [
@@ -401,7 +272,7 @@
    "motivos": [
     "alargador"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "1057062-533-COT26",
    "nombre": "Adquisición de insumos de laboratorio para el Centro de Simulación, FISABS N°1872 – URY 2457",
    "organismo": "UNIVERSIDAD DE AYSEN",
@@ -1056,6 +927,41 @@
   {
    "tipo": "POSIBLE",
    "motivos": [
+    "eléctrico"
+   ],
+   "nueva": true,
+   "codigo": "907-105-COT26",
+   "nombre": "MAO Adquisición enseres Oficina Coyhaique ",
+   "organismo": "SERVICIO AGRICOLA Y GANADERO",
+   "unidad": "SAG - Aysen",
+   "monto": 338980,
+   "cierre_iso": "2026-11-19T16:00:00-03:00",
+   "publicacion": "17-11 16:50",
+   "publicacion_iso": "2026-11-17T16:50:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "49121502",
+     "Colchones de espuma",
+     1,
+     "Colchón 1 ½ plaza: debe tener firmeza, Resortes ensacados (o pocket) o Espuma viscoelástica (Memory Foam) o Látex.\nCaracterísticas:\n•\tAislamiento del movimiento\n•\tRegulación de temperatura\n•\tTranspirabilidad\n•\tSoporte perimetral reforzado"
+    ],
+    [
+     "52152010",
+     "Termos domésticos",
+     1,
+     "Termo eléctrico Capacidad 100 Litros, Potencia: Mínimo 1.500W (idealmente 2.000W para recuperación rápida), Resistencia Blindada."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=907-105-COT26",
+   "sin_detalle": false,
+   "descripcion": "Se necesita adquirir: a) 1 Termo eléctrico: Capacidad: 100 Litros, Potencia: Mínimo 1.500W (idealmente 2.000W para recuperación rápida), Resistencia: Blindada. b) 1 Colchón 1 ½ plaza: debe tener firmeza, Resortes ensacados (o pocket) o Espuma viscoelástica (Memory Foam) o Látex. Características: Aislamiento del movimiento, Regulación de temperatura, Transpirabilidad, Soporte perimetral reforzado.",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
     "generador",
     "grupo electrógeno"
    ],
@@ -1115,6 +1021,64 @@
   {
    "tipo": "POSIBLE",
    "motivos": [
+    "electricidad"
+   ],
+   "nueva": true,
+   "codigo": "1057062-535-COT26",
+   "nombre": "Adquisición de Kit didáctico de auto de exploración de energía_ Según FISABS 2466",
+   "organismo": "UNIVERSIDAD DE AYSEN",
+   "unidad": "Proyectos",
+   "monto": 856562,
+   "cierre_iso": "2026-11-20T15:25:00-03:00",
+   "publicacion": "13-11 15:48",
+   "publicacion_iso": "2026-11-13T15:48:00-03:00",
+   "ofertas": 2,
+   "productos": [
+    [
+     "60106205",
+     "Materiales de enseñanza de energía o electricidad",
+     2,
+     "Se requiere la adquisición de 2 unidades de Kit didáctico de auto de exploración de energía, según especificaciones técnicas adjuntas."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1057062-535-COT26",
+   "sin_detalle": false,
+   "descripcion": "Se requiere cotizar adquisición de Kit didáctico de auto de exploración de energía. Cotización debe indicar especificaciones técnicas de lo ofertado. Debe indicar plazo de entrega ofertado, considerando entrega en dependencias de U. Aysén. Valor cotizado debe incluir flete e impuestos. Se podrá privilegiar el menor plazo de entrega ofertado, siempre que cumpla con todas las especificaciones requeridas.",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Gasfitería, calefacción y aire acondicionado"
+   ],
+   "nueva": false,
+   "codigo": "1905-88-COT26",
+   "nombre": "Servicio de mejoramiento de calefacción en equipos de aire acondicionado en oficinas de Puerto Aysén y Coyhaique",
+   "organismo": "SERVICIO DE REGISTRO CIVIL E IDENTIFICAC",
+   "unidad": "Dirección Regional XI Región",
+   "monto": 3600000,
+   "cierre_iso": "2026-11-21T11:06:00-03:00",
+   "publicacion": "13-11 20:53",
+   "publicacion_iso": "2026-11-13T20:53:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "72102302",
+     "Instalación, reparación o mantenimiento de sistemas de calefacción",
+     1,
+     "Servicio de mejoramiento de calefacción en equipos de aire acondicionado en oficinas de Puerto Aysén y Coyhaique"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1905-88-COT26",
+   "sin_detalle": false,
+   "descripcion": "Servicio de mejoramiento de calefacción de aire acondicionado en oficina de Puerto Aysén y Coyhaique. Favor (revisar los TDR en los archivos adjuntos y fechas de visita en terreno)",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
     "eléctrico"
    ],
    "nueva": false,
@@ -1143,6 +1107,42 @@
   }
  ],
  "historial": [
+  {
+   "codigo": "4649-112-COT26",
+   "nombre": "Reparación y cambio de Repuestos de Combustión a Pellet A.I",
+   "organismo": "CORP NACIONAL FORESTAL",
+   "monto": 1596000,
+   "cierre_iso": "2026-11-17T16:20:00-03:00",
+   "tipo": "POSIBLE",
+   "motivos": [
+    "enchufe"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=4649-112-COT26",
+   "primera_vista_iso": "2026-11-16T16:00:40-03:00",
+   "removida_iso": "2026-11-17T17:00:24-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
+  {
+   "codigo": "4609-319-COT26",
+   "nombre": "MANTENIMIENTO EQ. CALDERA Y AUTOCLAVE",
+   "organismo": "I MUNICIPALIDAD DE CHILE CHICO",
+   "monto": 2000000,
+   "cierre_iso": "2026-11-17T16:15:00-03:00",
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Gasfitería, calefacción y aire acondicionado"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=4609-319-COT26",
+   "primera_vista_iso": "2026-11-16T16:44:10-03:00",
+   "removida_iso": "2026-11-17T17:00:24-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
   {
    "codigo": "1113146-57-COT26",
    "nombre": "SERVICIO DE MANTENIMIENTO Y REPARACION DE MAQUINARIA (TRACTOR)",
@@ -1283,24 +1283,6 @@
    ],
    "link": "https://buscador.mercadopublico.cl/ficha?code=930039-37-COT26",
    "primera_vista_iso": "2026-11-13T11:00:25-03:00",
-   "removida_iso": "2026-11-16T16:00:40-03:00",
-   "estado_api": null,
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "1057062-535-COT26",
-   "nombre": "Adquisición de Kit didáctico de auto de exploración de energía_ Según FISABS 2466",
-   "organismo": "UNIVERSIDAD DE AYSEN",
-   "monto": 856562,
-   "cierre_iso": "2026-11-16T15:00:00-03:00",
-   "tipo": "POSIBLE",
-   "motivos": [
-    "electricidad"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1057062-535-COT26",
-   "primera_vista_iso": "2026-11-13T16:00:24-03:00",
    "removida_iso": "2026-11-16T16:00:40-03:00",
    "estado_api": null,
    "adj_nombre": null,

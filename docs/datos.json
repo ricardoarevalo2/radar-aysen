@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-11-17T16:00:23.735709-03:00",
+ "actualizado": "2026-11-17T17:00:24.371171-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
- "total_region": 345,
+ "total_region": 327,
  "rubros": {
   "80141600": "Ventas y marketing",
   "82101600": "Publicidad en medios no impresos",
@@ -14,142 +14,6 @@
   "83121700": "Comunicación social y de masas"
  },
  "filas": [
-  {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Ventas y marketing"
-   ],
-   "nueva": true,
-   "codigo": "1332-46-COT26",
-   "nombre": "SERVICIO DE IMPLEMENTACIÓN DE PLAN DE MEDIOS PARA CAMPAÑA REGIONAL DE CONCIENCIA TURÍSTICA AYSÉN PATAGONIA",
-   "organismo": "Servicio Nacional de Turismo",
-   "unidad": "Direccion Regional de Aysen",
-   "monto": 6800000,
-   "cierre_iso": "2026-11-17T16:00:00-03:00",
-   "publicacion": "16-11 15:26",
-   "publicacion_iso": "2026-11-16T15:26:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "80141612",
-     "Campañas publicitarias o de marketing",
-     1,
-     "Contratar la implementación y gestión de un plan de medios para difundir la Campaña Regional de Conciencia Turística Aysén Patagonia, a través de medios radiales y televisivos, con el objetivo de promover la valoración de la actividad turística, el cuidado del patrimonio natural y cultural, y el fortalecimiento de la identidad turística del destino Aysén Patagonia. De acuerdo a detalle adjunto."
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1332-46-COT26",
-   "sin_detalle": false,
-   "descripcion": "Contratar la implementación y gestión de un plan de medios para difundir la Campaña Regional de Conciencia Turística Aysén Patagonia, a través de medios radiales y televisivos, con el objetivo de promover la valoración de la actividad turística, el cuidado del patrimonio natural y cultural, y el fortalecimiento de la identidad turística del destino Aysén Patagonia.",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
-  {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Ventas y marketing"
-   ],
-   "nueva": true,
-   "codigo": "2713-1399-COT26",
-   "nombre": "Producción \"Temporada de Cruceros 2026-2027\" - DIDECO - Turismo - 1497",
-   "organismo": "I MUNICIPALIDAD DE AYSEN",
-   "unidad": "I.MUNICIPALIDAD AYSEN-ADQUISICIONES",
-   "monto": 2000000,
-   "cierre_iso": "2026-11-17T16:30:00-03:00",
-   "publicacion": "16-11 16:03",
-   "publicacion_iso": "2026-11-16T16:03:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "80141607",
-     "Producción de eventos",
-     1,
-     "Presentación de espectáculo folclórico en vivo, considerando la participación de 8 integrantes, vestuario, traslados y costos asociados, para el día 07 de diciembre de 2026"
-    ],
-    [
-     "80141607",
-     "Producción de eventos",
-     1,
-     "Dos anfitriones personificados, incluyendo vestuario, caracterización, maquillaje, traslado, participación durante la actividad y costos asociados, para el día 07 de diciembre de 2026"
-    ],
-    [
-     "80141607",
-     "Producción de eventos",
-     1,
-     "Dos anfitriones personificados, incluyendo vestuario, caracterización, maquillaje, traslado, participación durante la actividad y costos asociados, para el día 11 de diciembre de 2026"
-    ],
-    [
-     "80141607",
-     "Producción de eventos",
-     1,
-     "Personal de atención (2 garzones), responsables de servir y atender a los asistentes de la actividad, para el día 07 de diciembre de 2026"
-    ],
-    [
-     "80141607",
-     "Producción de eventos",
-     1,
-     "Personal de atención (2 garzones), responsables de servir y atender a los asistentes de la actividad, para el día 11 de diciembre de 2026"
-    ],
-    [
-     "80141607",
-     "Producción de eventos",
-     1,
-     "Preparación y suministro de 250 sopaipillas acompañadas de pebre para el día 07 de diciembre de 2026"
-    ],
-    [
-     "80141607",
-     "Producción de eventos",
-     1,
-     "Preparación y suministro de 250 sopaipillas acompañadas de pebre para el día 11 de diciembre de 2026"
-    ],
-    [
-     "80141607",
-     "Producción de eventos",
-     1,
-     "Suministros de 250 jugos néctar en variedad de sabores, en vasos de 200 ml, para el día 07 de diciembre de 2026"
-    ],
-    [
-     "80141607",
-     "Producción de eventos",
-     1,
-     "Suministros de 250 jugos néctar en variedad de sabores, en vasos de 200 ml, para el día 11 de diciembre de 2026"
-    ],
-    [
-     "80141607",
-     "Producción de eventos",
-     1,
-     "Suministro de 100 aguas saborizadas, en vasos de 200 ml para el día 07 de diciembre de 2026"
-    ],
-    [
-     "80141607",
-     "Producción de eventos",
-     1,
-     "Suministro de 100 aguas saborizadas, en vasos de 200 ml para el día 11 de diciembre de 2026"
-    ],
-    [
-     "80141607",
-     "Producción de eventos",
-     1,
-     "Provisión, Traslado e instalación de equipo de amplificación, incluyendo micrófonos, cableado y pedestal correspondiente, para el día 07 de diciembre de 2026"
-    ],
-    [
-     "80141607",
-     "Producción de eventos",
-     1,
-     "Provisión, Traslado e instalación de equipo de amplificación, incluyendo micrófonos, cableado y pedestal correspondiente, para el día 11 de diciembre de 2026"
-    ],
-    [
-     "80141607",
-     "Producción de eventos",
-     30,
-     "Provisión, traslado, instalación, disposición y retiro de 30 sillas, para el día 07 de diciembre de 2026"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=2713-1399-COT26",
-   "sin_detalle": false,
-   "descripcion": "Servicio de producción de actividad \"Temporada de cruceros 2026-2027\", según detalle del anexo adjunto, las ofertas deberán: incluir la totalidad de los productos y servicios solicitados, ajustarse al presupuesto disponible , el oferente asumirá COSTO DE TRANSPORTE (no desglosarlo como ítem aparte), actividades según EETT, en el lugar y a la hora indicada previa coordinación con el encargado. Ofertas que no cumplan con lo anterior serán rechazada. Servicio sujeto a multas según bases técnicas.",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
   {
    "tipo": "OPORTUNIDAD",
    "motivos": [
@@ -323,35 +187,6 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=4066-518-COT26",
    "sin_detalle": false,
    "descripcion": "LA I. MUNICIPALIDAD DE RÍO IBÁÑEZ, EN EL MARCO DE LA ACTIVIDAD DENOMINADA “FERIA DE TURISMO RURAL 2026”, REQUIERE CONTRATAR UN SERVICIO DE PRODUCCIÓN DE EVENTO PARA DISPONER DE SERVICIOS TRANSPORTE, ALIMENTACIÓN, ARTISTAS, AMPLIFICACIÓN, GENERACIÓN ELÉCTRICA, ANIMACIÓN, CLÍNICA DE KAYAK Y PREMIOS.  PARA LA ACTIVIDAD “FERIA DE TURISMO RURAL 2026”, PARA EL DÍA 05.12.2026, EN LA LOCALIDAD DE BAHÍA MURTA, SECTOR BAHÍA DEL LAGO GENERAL CARRERA. ADJUNTAR PATENTE MUNICIPAL VIGENTE.",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
-  {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Ventas y marketing"
-   ],
-   "nueva": true,
-   "codigo": "2495-671-COT26",
-   "nombre": "Servicios para jornada de encuentro y camaradería para personas mayores",
-   "organismo": "I MUNICIPALIDAD DE COYHAIQUE",
-   "unidad": "DIRECCION DESARROLLO COMUNITARIO",
-   "monto": 7240000,
-   "cierre_iso": "2026-11-18T10:00:00-03:00",
-   "publicacion": "16-11 16:39",
-   "publicacion_iso": "2026-11-16T16:39:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "80141607",
-     "Producción de eventos",
-     1,
-     "Servicio para realizar una jornada de encuentro y camaradería para 140 personas mayores. Su contratación busca incentivar la asistencia, participación, promover la convivencia, la integración y el bienestar de las personas mayores para contribuir a prevenir situaciones de aislamiento social. La actividad se enmarca en las acciones municipales de promoción de un envejecimiento activo de espacios de encuentro y recreación, según término de referencia adjuntos."
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=2495-671-COT26",
-   "sin_detalle": false,
-   "descripcion": "Los servicios solicitados tienen por objeto realizar una jornada de encuentro y camaradería para 140 personas mayores. Su contratación busca incentivar la asistencia, participación, promover la convivencia, la integración y el bienestar de las personas mayores para contribuir a prevenir situaciones de aislamiento social. La actividad se enmarca en las acciones municipales de promoción de un envejecimiento activo de espacios de encuentro y recreación, según término de referencia adjuntos.",
    "en_gracia": false,
    "desaparecida_iso": ""
   },
@@ -566,6 +401,35 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=1458-37-COT26",
    "sin_detalle": false,
    "descripcion": "La Secretaría Regional Ministerial de Desarrollo Social y Familia de la región de Aysén, requiere contratar un servicio de producción y apoyo logístico y de sistematización para una jornada participativa del Programa Noche Digna. Debe considerar Almuerzo para 30 personas.",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Ventas y marketing"
+   ],
+   "nueva": true,
+   "codigo": "2495-678-COT26",
+   "nombre": "Servicios para jornada de encuentro y camaradería para personas mayores",
+   "organismo": "I MUNICIPALIDAD DE COYHAIQUE",
+   "unidad": "DIRECCION DESARROLLO COMUNITARIO",
+   "monto": 7240000,
+   "cierre_iso": "2026-11-18T16:45:00-03:00",
+   "publicacion": "17-11 16:38",
+   "publicacion_iso": "2026-11-17T16:38:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "80141607",
+     "Producción de eventos",
+     1,
+     "Los servicios solicitados tienen por objeto realizar una jornada de encuentro y camaradería para 140 personas mayores, el día 02 de diciembre en el parque urbano. Su contratación busca incentivar la asistencia, participación, promover la convivencia, la integración y el bienestar de las personas mayores para contribuir a prevenir situaciones de aislamiento social, según término de referencia adjuntos."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=2495-678-COT26",
+   "sin_detalle": false,
+   "descripcion": "Los servicios solicitados tienen por objeto realizar una jornada de encuentro y camaradería el día 02 de diciembre en el parque urbano, para 140 personas mayores. Su contratación busca incentivar la asistencia, participación, promover la convivencia, la integración y el bienestar de las personas mayores para contribuir a prevenir situaciones de aislamiento social, según términos de referencia adjunto.",
    "en_gracia": false,
    "desaparecida_iso": ""
   },
@@ -1024,25 +888,109 @@
     "avisos",
     "publicidad"
    ],
+   "nueva": true,
+   "codigo": "1260270-1-COT26",
+   "nombre": " CONTRATACIÓN DE SERVICIOS DE PUBLICACIÓN, SANEAMIENTOS D.L. N° 2695/79",
+   "organismo": "Seremi Bienes Nacionales Región Aysén",
+   "unidad": "Seremi Aysén Aporte de Usuarios-Títulos de Dominio",
+   "monto": 471410,
+   "cierre_iso": "2026-11-25T15:00:00-03:00",
+   "publicacion": "17-11 16:48",
+   "publicacion_iso": "2026-11-17T16:48:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "55101505",
+     "Publicaciones",
+     1,
+     "Es necesario cumplir con el Art.11 del D.L. N°2695/79, referido a publicidad del saneamiento de inmueble. Se requiere contratar la publicación digital de 17 avisos correspondientes a 2 veces o publicaciones por beneficiario o expediente, las cuales se harán indistintamente los días 1 y 15 del mes o en la edición inmediatamente siguiente si el diario o periódico no se publicare en los días indicados. Plazo de ejecución 252 días hábiles. Revisar documento adjunto para selección de proveedor."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1260270-1-COT26",
+   "sin_detalle": false,
+   "descripcion": "Es necesario cumplir con el Art.11 del D.L. N°2695/79, referido a publicidad del saneamiento de inmueble. Se requiere contratar la publicación digital de 17 avisos correspondientes a 2 veces o publicaciones por beneficiario o expediente, las cuales se harán indistintamente los días 1 y 15 del mes o en la edición inmediatamente siguiente si el diario o periódico no se publicare en los días indicados. Plazo de ejecución 252 días hábiles. Revisar documento adjunto para selección de proveedor.",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "avisos",
+    "publicidad"
+   ],
    "nueva": false,
    "codigo": "682-21-COT26",
    "nombre": "CONTRATACIÓN DE SERVICIOS DE PUBLICACIÓN, SANEAMIENTOS D.L. N° 2695/79",
-   "organismo": "SECRETARIA REGIONAL MINISTERIAL DE BIENES NACIONALES XI REGION",
-   "unidad": "SEREMI Aysén del General Carlos Ibáñez del Campo",
-   "monto": 471410,
-   "cierre_iso": "2026-11-23T15:00:00-03:00",
-   "publicacion": "10-11 12:14",
-   "publicacion_iso": "2026-11-10T12:14:00-03:00",
+   "organismo": "",
+   "unidad": "",
+   "monto": null,
+   "cierre_iso": "",
+   "publicacion": "",
+   "publicacion_iso": "",
    "ofertas": 0,
    "productos": [],
    "link": "https://buscador.mercadopublico.cl/ficha?code=682-21-COT26",
    "sin_detalle": false,
    "descripcion": "Es necesario cumplir con el Art.11 del D.L. N°2695/79, referido a publicidad del saneamiento de inmueble. Se requiere contratar la publicación digital de 17 avisos correspondientes a 2 veces o publicaciones por beneficiario o expediente, las cuales se harán indistintamente los días 1 y 15 del mes o en la edición inmediatamente siguiente si el diario o periódico no se publicare en los días indicados. Plazo de ejecución 252 días hábiles. Revisar documento adjunto para selección de proveedor.",
-   "en_gracia": false,
-   "desaparecida_iso": ""
+   "en_gracia": true,
+   "desaparecida_iso": "2026-11-17T17:00:24-03:00"
   }
  ],
  "historial": [
+  {
+   "codigo": "2495-671-COT26",
+   "nombre": "Servicios para jornada de encuentro y camaradería para personas mayores",
+   "organismo": "I MUNICIPALIDAD DE COYHAIQUE",
+   "monto": 7240000,
+   "cierre_iso": "2026-11-18T10:00:00-03:00",
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Ventas y marketing"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=2495-671-COT26",
+   "primera_vista_iso": "2026-11-16T16:44:10-03:00",
+   "removida_iso": "2026-11-17T17:00:24-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
+  {
+   "codigo": "2713-1399-COT26",
+   "nombre": "Producción \"Temporada de Cruceros 2026-2027\" - DIDECO - Turismo - 1497",
+   "organismo": "I MUNICIPALIDAD DE AYSEN",
+   "monto": 2000000,
+   "cierre_iso": "2026-11-17T16:30:00-03:00",
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Ventas y marketing"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=2713-1399-COT26",
+   "primera_vista_iso": "2026-11-16T16:44:10-03:00",
+   "removida_iso": "2026-11-17T17:00:24-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
+  {
+   "codigo": "1332-46-COT26",
+   "nombre": "SERVICIO DE IMPLEMENTACIÓN DE PLAN DE MEDIOS PARA CAMPAÑA REGIONAL DE CONCIENCIA TURÍSTICA AYSÉN PATAGONIA",
+   "organismo": "Servicio Nacional de Turismo",
+   "monto": 6800000,
+   "cierre_iso": "2026-11-17T16:00:00-03:00",
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Ventas y marketing"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1332-46-COT26",
+   "primera_vista_iso": "2026-11-16T16:00:40-03:00",
+   "removida_iso": "2026-11-17T17:00:24-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
   {
    "codigo": "1057062-546-COT26",
    "nombre": "Servicio de emisión de spots y entrevistas en radioemisora local de Coyhaique",
