@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-11-17T12:00:27.615147-03:00",
+ "actualizado": "2026-11-17T13:00:25.745770-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
- "total_region": 350,
+ "total_region": 341,
  "rubros": {
   "80141600": "Ventas y marketing",
   "82101600": "Publicidad en medios no impresos",
@@ -14,93 +14,6 @@
   "83121700": "Comunicación social y de masas"
  },
  "filas": [
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "difusión"
-   ],
-   "nueva": false,
-   "codigo": "1153624-55-COT26",
-   "nombre": "SERVICIO DE TRANSPORTE PARA VISITA RAGIONAL",
-   "organismo": "SUBSECRETARIA DE RELACIONES ECONOMICAS INTERNACIONALES",
-   "unidad": "Departamento Adquisiciones MN",
-   "monto": 350000,
-   "cierre_iso": "2026-11-17T12:00:00-03:00",
-   "publicacion": "16-11 09:41",
-   "publicacion_iso": "2026-11-16T09:41:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "78111804",
-     "Servicios de taxi",
-     1,
-     "Servicio de trasporte para el martes 24 de noviembre, en 2 VAN para 10 personas C/U\nSEGÚN DETALLE ADJUNTO"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1153624-55-COT26",
-   "sin_detalle": false,
-   "descripcion": "La Subsecretaría de Relaciones Económicas Internacionales requiere contratar el servicio de trasporte de pasajeros en el marco de la visita regional a Aysén, para participar de la Mesa Comex y las actividades y reuniones de levantamiento de información y difusión de la Política Comercial a jóvenes de enseñanza media técnico-profesional. \nServicio de trasporte para el martes 24 de noviembre, en 2 VAN para 10 personas de acuerdo con el siguiente itinerario:\nSEGÚN DETALLE ADJUNTO",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
-  {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Inserciones publicitarias en medios"
-   ],
-   "nueva": false,
-   "codigo": "4733-533-COT26",
-   "nombre": "DIFUSIÓN",
-   "organismo": "I MUNICIPALIDAD DE LAS GUAITECAS",
-   "unidad": "I MUNICIPALIDAD DE LAS GUAITECAS",
-   "monto": 600000,
-   "cierre_iso": "2026-11-17T12:00:00-03:00",
-   "publicacion": "14-11 12:51",
-   "publicacion_iso": "2026-11-14T12:51:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "82101901",
-     "Avisos en radio",
-     1,
-     "servicios de difusión olimpiadas comunales"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=4733-533-COT26",
-   "sin_detalle": false,
-   "descripcion": "Se requiere contratar el servicio de difusión para el proyecto Olimpiadas comunales Guaitecas 2027, según detalle adjunto, adjuntar cotización.-",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "audiovisuales"
-   ],
-   "nueva": false,
-   "codigo": "1233615-995-COT26",
-   "nombre": "RMG-SOL01535-Equipos audiovisuales, EMTP liceo Cerro Castillo 29.05",
-   "organismo": "Servicio Local de Educación Pública Aysén",
-   "unidad": "Servicio Local de Educación Pública Aysén",
-   "monto": 1849981,
-   "cierre_iso": "2026-11-17T12:00:00-03:00",
-   "publicacion": "13-11 14:22",
-   "publicacion_iso": "2026-11-13T14:22:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "45121504",
-     "Cámaras digitales",
-     1,
-     "Según archivo adjunto, cámara y parlante"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1233615-995-COT26",
-   "sin_detalle": false,
-   "descripcion": "Según archivo adjunto, cámara y parlante",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
   {
    "tipo": "POSIBLE",
    "motivos": [
@@ -562,6 +475,128 @@
    "desaparecida_iso": ""
   },
   {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "publicitaria"
+   ],
+   "nueva": true,
+   "codigo": "1182705-216-COT26",
+   "nombre": "ADQUISICION DE PIN REDONDO CON LOGO INSTITUCIONAL, FOLIO 233",
+   "organismo": "CENTRO DE FORMACIÓN TÉCNICA DE LA REGIÓN DE AYSÉN DEL GENERAL CARLOS I",
+   "unidad": "FINANZAS",
+   "monto": 558000,
+   "cierre_iso": "2026-11-18T13:00:00-03:00",
+   "publicacion": "17-11 12:31",
+   "publicacion_iso": "2026-11-17T12:31:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "82121505",
+     "Impresión promocional o publicitaria",
+     200,
+     "Pin redondo de 2,5 cm de base metálica dorada con impresión de logo institucional y resina dome con imán posterior. Debe incluir entrega en Puerto Aysén. (adjuntar cotización, ficha técnica y experiencia)"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1182705-216-COT26",
+   "sin_detalle": false,
+   "descripcion": "Se requiere la compra de pin redondo con logo institucional para el CFT de la Región de Aysén, Los productos deben ser entregados en oficina ubicado en Sargento Alea 533, Puerto Aysén.",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Publicidad en medios no impresos"
+   ],
+   "nueva": true,
+   "codigo": "2713-1410-COT26",
+   "nombre": "Servicio radial y cobertura radial - DIDECO - Promos - 1470",
+   "organismo": "I MUNICIPALIDAD DE AYSEN",
+   "unidad": "I.MUNICIPALIDAD AYSEN-ADQUISICIONES",
+   "monto": 600000,
+   "cierre_iso": "2026-11-18T13:00:00-03:00",
+   "publicacion": "17-11 12:08",
+   "publicacion_iso": "2026-11-17T12:08:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "82101601",
+     "Publicidad en radio",
+     3,
+     "PROGRAMA RADIAL MULTIPLATAFORMA DE 30 MINUTOS"
+    ],
+    [
+     "82101601",
+     "Publicidad en radio",
+     3,
+     "COBERTURA DE ACTIVIDADES EN VIVO CON NOTAS BREVES"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=2713-1410-COT26",
+   "sin_detalle": false,
+   "descripcion": "Servicio radial y cobertura en vivo de actividades, según detalle del anexo adjunto, las ofertas deberán: incluir la totalidad de los productos y servicios solicitados, ajustarse al presupuesto disponible , el oferente asumirá COSTO DE TRANSPORTE (no desglosarlo como ítem aparte), actividades según EETT, en el lugar y a la hora indicada previa coordinación con el encargado. Ofertas que no cumplan con lo anterior serán rechazada. Servicio sujeto a multas según bases técnicas.",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "difusión"
+   ],
+   "nueva": false,
+   "codigo": "1153624-55-COT26",
+   "nombre": "SERVICIO DE TRANSPORTE PARA VISITA RAGIONAL",
+   "organismo": "SUBSECRETARIA DE RELACIONES ECONOMICAS INTERNACIONALES",
+   "unidad": "Departamento Adquisiciones MN",
+   "monto": 350000,
+   "cierre_iso": "2026-11-18T14:18:00-03:00",
+   "publicacion": "16-11 09:41",
+   "publicacion_iso": "2026-11-16T09:41:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "78111804",
+     "Servicios de taxi",
+     1,
+     "Servicio de trasporte para el martes 24 de noviembre, en 2 VAN para 10 personas C/U\nSEGÚN DETALLE ADJUNTO"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1153624-55-COT26",
+   "sin_detalle": false,
+   "descripcion": "La Subsecretaría de Relaciones Económicas Internacionales requiere contratar el servicio de trasporte de pasajeros en el marco de la visita regional a Aysén, para participar de la Mesa Comex y las actividades y reuniones de levantamiento de información y difusión de la Política Comercial a jóvenes de enseñanza media técnico-profesional. \nServicio de trasporte para el martes 24 de noviembre, en 2 VAN para 10 personas de acuerdo con el siguiente itinerario:\nSEGÚN DETALLE ADJUNTO",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Ventas y marketing"
+   ],
+   "nueva": true,
+   "codigo": "1458-37-COT26",
+   "nombre": "Realización Jornada Regional Programa Noche Digna",
+   "organismo": "SERPLAC XI Región",
+   "unidad": "SERPLAC XI Región",
+   "monto": 1000000,
+   "cierre_iso": "2026-11-18T16:00:00-03:00",
+   "publicacion": "17-11 12:45",
+   "publicacion_iso": "2026-11-17T12:45:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "80141607",
+     "Producción de eventos",
+     1,
+     "Producción y apoyo logístico y de sistematización para una jornada participativa del Programa Noche Digna, destinada a recoger experiencias y aprendizajes de los equipos regionales y ejecutores. Además debe considerar almuerzo para 30 personas: plato principal, bebida sin alcohol o agua y postre o fruta. Considerar alternativas vegetarianas y restricciones alimentarias comunicadas oportunamente."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1458-37-COT26",
+   "sin_detalle": false,
+   "descripcion": "La Secretaría Regional Ministerial de Desarrollo Social y Familia de la región de Aysén, requiere contratar un servicio de producción y apoyo logístico y de sistematización para una jornada participativa del Programa Noche Digna. Debe considerar Almuerzo para 30 personas.",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
    "tipo": "OPORTUNIDAD",
    "motivos": [
     "Ventas y marketing"
@@ -948,6 +983,42 @@
   {
    "tipo": "POSIBLE",
    "motivos": [
+    "television",
+    "televisión"
+   ],
+   "nueva": true,
+   "codigo": "2713-1412-COT26",
+   "nombre": "DIDECO SOL. 1478 ADQUISICION DE SMART -TV",
+   "organismo": "I MUNICIPALIDAD DE AYSEN",
+   "unidad": "I.MUNICIPALIDAD AYSEN-ADQUISICIONES",
+   "monto": 1500000,
+   "cierre_iso": "2026-11-20T10:00:00-03:00",
+   "publicacion": "17-11 12:47",
+   "publicacion_iso": "2026-11-17T12:47:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "43221702",
+     "Equipo de acceso de televisión",
+     1,
+     "TELEVISION SMART TV SEGU ESPECIFICACIONES TECNICAS DESCRITAS EN ANEXO ADJUNTO."
+    ],
+    [
+     "45111802",
+     "Soportes de televisión",
+     1,
+     "SOPORTE PARA TV EGUN ESPÉCIFIACIONES ADJUNTAS."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=2713-1412-COT26",
+   "sin_detalle": false,
+   "descripcion": "SMART -TV-, SEGUN BASES TECNICAS ADJUNTAS.COSTOS DE TRASLADOS A PUERTO AYSÉN SERÁN DEL OFERENTE. EL PLAZO DE ENTREGA SERÁN DE 10 DÍA HÁBIL, DE LO CONTRARIO SE DESCARTARAN.EL PROVEEDOR QUE NO INDIQUE EL PLAZO DE ENTREGA SE DESCARTARA SU COTIZACIÓN. OFERENTE DEBE INCLUIR FLETES EN EL PRECIO DEL PRODUCTO.SE SOLICITA ANEXAR FICHA TECNICA DEL  PRODUCTO, DE LO CONTRARIO SE DESCARTARA. PLAZO DE ENTREGA COMIENZA A CONTAR DEL DIA HABIL SUBSIGUIENTE DEL ENVÍO DE ORDEN DE COMPRA.",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
     "fotografía"
    ],
    "nueva": false,
@@ -999,6 +1070,42 @@
   }
  ],
  "historial": [
+  {
+   "codigo": "1233615-995-COT26",
+   "nombre": "RMG-SOL01535-Equipos audiovisuales, EMTP liceo Cerro Castillo 29.05",
+   "organismo": "Servicio Local de Educación Pública Aysén",
+   "monto": 1849981,
+   "cierre_iso": "2026-11-17T12:00:00-03:00",
+   "tipo": "POSIBLE",
+   "motivos": [
+    "audiovisuales"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1233615-995-COT26",
+   "primera_vista_iso": "2026-11-13T15:00:24-03:00",
+   "removida_iso": "2026-11-17T13:00:25-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
+  {
+   "codigo": "4733-533-COT26",
+   "nombre": "DIFUSIÓN",
+   "organismo": "I MUNICIPALIDAD DE LAS GUAITECAS",
+   "monto": 600000,
+   "cierre_iso": "2026-11-17T12:00:00-03:00",
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Inserciones publicitarias en medios"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=4733-533-COT26",
+   "primera_vista_iso": "2026-11-14T13:00:23-03:00",
+   "removida_iso": "2026-11-17T13:00:25-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
   {
    "codigo": "2495-668-COT26",
    "nombre": "Producción de 2 sesiones de baños de bosque para 20 personas",
