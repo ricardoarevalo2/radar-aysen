@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-11-17T10:00:28.332121-03:00",
+ "actualizado": "2026-11-17T11:00:24.012832-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
- "total_region": 356,
+ "total_region": 350,
  "rubros": {
   "25172700": "Aire acondicionado",
   "25173900": "Componentes eléctricos",
@@ -19,41 +19,6 @@
   "39121400": "Conectores, enchufes y terminales"
  },
  "filas": [
-  {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Servicios eléctricos"
-   ],
-   "nueva": true,
-   "codigo": "3949-301-COT26",
-   "nombre": "Mantenimiento preventivo anual de equipos grupo electrógeno",
-   "organismo": "CONSULTORIO GENERAL URBANO DR ALEJANDRO GUTIERREZ",
-   "unidad": "ID 3949 - CESFAM Dr Alejandro Gutiérrez",
-   "monto": 1000000,
-   "cierre_iso": "2026-11-17T10:00:00-03:00",
-   "publicacion": "16-11 09:57",
-   "publicacion_iso": "2026-11-16T09:57:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "72102201",
-     "Instalación o servicio de sistemas de energía eléctrica",
-     1,
-     "Mantenimiento preventivo de Grupo electrógeno Diesel marca Kaufmann G45, ubicado en Bilbao Esquina Mackenna S/N (CAG). La mantención debe incluir: Cambio de aceite y filtro de aceite; Cambio de Filtros de Combustible; Inspección del Filtro de Aire; Nivel y Calidad del Refrigerante; Radiador, Mangueras y Correas; Mantenimiento de Baterías; Pruebas de arranque y cargador; Panel de control y alarmas; Inspección del alternador; Sistema de escape; Prueba de funcionamiento con carga. Incluir informe"
-    ],
-    [
-     "72102201",
-     "Instalación o servicio de sistemas de energía eléctrica",
-     1,
-     "Mantenimiento preventivo de Grupo electrógeno Diesel marca Inmesol IK-022, ubicado en Lautaro N° 63 (CECOSF). La mantención debe incluir: Cambio de aceite y filtro de aceite; Cambio de Filtros de Combustible; Inspección del Filtro de Aire; Nivel y Calidad del Refrigerante; Radiador, Mangueras y Correas; Mantenimiento de Baterías; Pruebas de arranque y cargador; Panel de control y alarmas; Inspección del alternador; Sistema de escape; Prueba de funcionamiento con carga. Incluir informe técnico"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=3949-301-COT26",
-   "sin_detalle": false,
-   "descripcion": "Se requiere adquirir mantenimiento preventivo anual de grupos electrógenos (ver detalle adjunto): Adjuntar cotización formal con datos de contacto (e-mail - teléfonos). Incluir valor de mano de obra, implementos, etc. (valor total del servicio). La mantención se coordinara para el mes de diciembre 2026 y debe incluir informe técnico con el servicio detallado. El servicio se realizara en Bilbao esquina Mackenna s/n y en Lautaro N°63",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
   {
    "tipo": "POSIBLE",
    "motivos": [
@@ -1311,6 +1276,24 @@
   }
  ],
  "historial": [
+  {
+   "codigo": "3949-301-COT26",
+   "nombre": "Mantenimiento preventivo anual de equipos grupo electrógeno",
+   "organismo": "CONSULTORIO GENERAL URBANO DR ALEJANDRO GUTIERREZ",
+   "monto": 1000000,
+   "cierre_iso": "2026-11-17T10:00:00-03:00",
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Servicios eléctricos"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=3949-301-COT26",
+   "primera_vista_iso": "2026-11-16T10:00:36-03:00",
+   "removida_iso": "2026-11-17T11:00:24-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
   {
    "codigo": "2494-299-COT26",
    "nombre": " MATERIALES ELÉCTRICOS PARA PLAZA DE ARMAS COYHAIQUE",
