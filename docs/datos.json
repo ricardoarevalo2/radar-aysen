@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-11-18T15:00:24.884062-03:00",
+ "actualizado": "2026-11-18T15:16:05.106961-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
- "total_region": 327,
+ "total_region": 322,
  "rubros": {
   "80141600": "Ventas y marketing",
   "82101600": "Publicidad en medios no impresos",
@@ -740,42 +740,13 @@
    "desaparecida_iso": ""
   },
   {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Publicidad en medios no impresos"
-   ],
-   "nueva": true,
-   "codigo": "1195-593-COT26",
-   "nombre": "SERVICIO DE DIFUSION PARA PROYECTO DE RECICLAJE",
-   "organismo": "I MUNICIPALIDAD DE COYHAIQUE",
-   "unidad": "Ilustre Municipalidad de Coyhaique",
-   "monto": 400000,
-   "cierre_iso": "2026-11-19T13:45:00-03:00",
-   "publicacion": "18-11 13:25",
-   "publicacion_iso": "2026-11-18T13:25:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "82101603",
-     "Publicidad en Internet",
-     1,
-     "SE REQUIERE CONTRATAR UN MEDIO DE COMUNICACION REGIONAL PARA LA GABACION, EDICION Y DIFUSION DE CAPSULAS AUDIOVISUALES CONSIDERANDO 4 HRS MENSUALES(NOVIEMBRE DICIEMBRE),PUBLICACIONES SEMANALS DE 20 A 29 MINUTOS,BANNER PUBLICITARIO Y DIFUSION EN RRSS,SITIO WEB,TELEVISION DIGITAL Y STREAMING.SE PRIORIZARA PROVEEDOR LOCAL CON COBERTURA EN LA REGION DE AYSEN."
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1195-593-COT26",
-   "sin_detalle": false,
-   "descripcion": "SE REQUIERE CONTRATAR UN MEDIO DE COMUNICACION REGIONAL PARA LA GABACION, EDICION Y DIFUSION DE CAPSULAS AUDIOVISUALES CONSIDERANDO 4 HRS MENSUALES(NOVIEMBRE DICIEMBRE),PUBLICACIONES SEMANALS DE 20 A 29 MINUTOS,BANNER PUBLICITARIO Y DIFUSION EN RRSS,SITIO WEB,TELEVISION DIGITAL Y STREAMING.SE PRIORIZARA PROVEEDOR LOCAL CON COBERTURA EN LA REGION DE AYSEN.",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
-  {
    "tipo": "POSIBLE",
    "motivos": [
     "radiales",
     "radioemisora",
     "spots"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "1057062-548-COT26",
    "nombre": "Servicio de emisión de spots en radioemisora con cobertura regional en Aysén.",
    "organismo": "UNIVERSIDAD DE AYSEN",
