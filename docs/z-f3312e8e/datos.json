@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-11-18T09:00:28.397580-03:00",
+ "actualizado": "2026-11-18T10:00:24.616579-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
- "total_region": 322,
+ "total_region": 320,
  "rubros": {
   "25172700": "Aire acondicionado",
   "25173900": "Componentes eléctricos",
@@ -862,6 +862,118 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=1092-93-COT26",
    "sin_detalle": false,
    "descripcion": "La Corporación Nacional Forestal por medio del Departamento de Protección Contra Incendios Forestales Región de Aysén, requiere la adquisición de materiales de oficina la unidad incendios forestales de la región de Aysén. No se cancela costos asociados al flete. (Ver especificaciones técnicas adjuntas)",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "enchufe"
+   ],
+   "nueva": true,
+   "codigo": "4649-116-COT26",
+   "nombre": "Reparación y cambio de Repuestos de Combustión a Pellet A.I",
+   "organismo": "CORP NACIONAL FORESTAL",
+   "unidad": "XI Región - Prov. Coyhaique",
+   "monto": 1596000,
+   "cierre_iso": "2026-11-19T10:00:00-03:00",
+   "publicacion": "18-11 09:21",
+   "publicacion_iso": "2026-11-18T09:21:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "40101808",
+     "Estufas de la calefacción",
+     1,
+     "Cambio Pila placa electrónica"
+    ],
+    [
+     "40101808",
+     "Estufas de la calefacción",
+     1,
+     "Cambio de Kit caños y cable de enchufe"
+    ],
+    [
+     "40101808",
+     "Estufas de la calefacción",
+     1,
+     "Cambio de T de registro y caños deteriorados, tapa oxidada y no cumple su función e instalación."
+    ],
+    [
+     "40101808",
+     "Estufas de la calefacción",
+     1,
+     "Estufa Bosca, brasero fundido, cambio de T de registro cambio tapa Instalación Kit de caños"
+    ],
+    [
+     "40101808",
+     "Estufas de la calefacción",
+     1,
+     "Cambio Pila Placa electrónica, cambiar T de registro cambio tapa e instalación"
+    ],
+    [
+     "40101808",
+     "Estufas de la calefacción",
+     1,
+     "Ladrillo lateral roto cambio kit de caños en salida exterior instalación de Cantillon nuevo"
+    ],
+    [
+     "40101808",
+     "Estufas de la calefacción",
+     1,
+     "Cambiar T de registro, 1/2 caño para salida al exterior, KIT DE CAÑOS COMPLETO"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=4649-116-COT26",
+   "sin_detalle": false,
+   "descripcion": "Según Sic N° 578 y Sic refundido N°399 se requiere contratar el Servicio de Reparación técnica, cambio de caños, braseros para 7 estufas a pellet, actualmente instaladas en las dependencias del Programa GORE \"Ecosistemas Forestales con Enfoque en Silvicultura Preventiva en la Región de Aysén\", Código BIP 40077633-0, Área de Intervención Coyhaique.",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Conectores, enchufes y terminales"
+   ],
+   "nueva": true,
+   "codigo": "2713-1419-COT26",
+   "nombre": "EQUIPOS Y ACCESORIOS. FOLIO 1479 SEGURIDAD PUBLICA.",
+   "organismo": "I MUNICIPALIDAD DE AYSEN",
+   "unidad": "I.MUNICIPALIDAD AYSEN-ADQUISICIONES",
+   "monto": 299990,
+   "cierre_iso": "2026-11-19T10:45:00-03:00",
+   "publicacion": "18-11 09:45",
+   "publicacion_iso": "2026-11-18T09:45:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "39121006",
+     "Adaptadores o inversores de potencia",
+     2,
+     "- Adaptador de antena: Mini UHF A SO239."
+    ],
+    [
+     "39121409",
+     "Conectores de cables eléctricos",
+     2,
+     "Conector: PL259 macho corriente\n- Cuerpo: Niquel.\n- Contacto Central: Plateado.\n- Aislante Dieléctrico: Delrin, color \nblanco,\n- para cable delgado: RG58, \nLMR195, 3110, Soldado."
+    ],
+    [
+     "39121435",
+     "Hilos o cables de conexión",
+     100,
+     "Cable Coaxial: LMR 195, Negro, / RG 58"
+    ],
+    [
+     "52161526",
+     "Antenas",
+     1,
+     "Antena Base omnidireccional VHF\n- Tipo: Ringo Ranger \n(Configuración doble 5/8 de onda \npara VHF)\n- Rango de frecuencia: 136 a 174 \nMHz (ajustable según la frecuencia \nde trabajo)\n- Ganancia: ~5,5 dB\n- Potencia máxima: 300 Watts\n- ROE típica: ~1.2:1 (con ajuste \nadecuado)\n- Conector en base: SO-239 (PL-\n259 hembra)"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=2713-1419-COT26",
+   "sin_detalle": false,
+   "descripcion": "EQUIPOS Y ACCESORIOS . LOS COSTOS DE TRASLADOS A PUERTO AYSÉN SERÁN DEL OFERENTE. EL PLAZO DE ENTREGA SERÁN DE 10 DÍA HÁBIL, DE LO CONTRARIO SE DESCARTARAN.EL PROVEEDOR QUE NO INDIQUE EL PLAZO DE ENTREGA SE DESCARTARA SU COTIZACIÓN. OFERENTE DEBE INCLUIR FLETES EN EL PRECIO DEL PRODUCTO.SE SOLICITA ANEXAR FICHA TECNICA DE CADA PRODUCTO, DE LO CONTRARIO SE DESCARTARA. PLAZO DE ENTREGA COMIENZA A CONTAR DEL DIA HABIL SUBSIGUIENTE DEL ENVÍO DE ORDEN DE COMPRA.",
    "en_gracia": false,
    "desaparecida_iso": ""
   },
@@ -2048,24 +2160,6 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=2713-1347-COT26",
    "primera_vista_iso": "2026-11-10T19:26:29-03:00",
    "removida_iso": "2026-11-12T09:58:37-03:00",
-   "estado_api": "",
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "4733-496-COT26",
-   "nombre": "REPARACION SALA DE PROCESO",
-   "organismo": "I MUNICIPALIDAD DE LAS GUAITECAS",
-   "monto": 95000,
-   "cierre_iso": "2026-11-11T10:00:00-03:00",
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Gasfitería, calefacción y aire acondicionado"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=4733-496-COT26",
-   "primera_vista_iso": "2026-11-10T19:26:29-03:00",
-   "removida_iso": "2026-11-11T14:18:43-03:00",
    "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,

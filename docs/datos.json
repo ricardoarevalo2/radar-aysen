@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-11-18T09:00:28.397580-03:00",
+ "actualizado": "2026-11-18T10:00:24.616579-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
- "total_region": 322,
+ "total_region": 320,
  "rubros": {
   "80141600": "Ventas y marketing",
   "82101600": "Publicidad en medios no impresos",
@@ -14,35 +14,6 @@
   "83121700": "Comunicación social y de masas"
  },
  "filas": [
-  {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Ventas y marketing"
-   ],
-   "nueva": false,
-   "codigo": "4066-518-COT26",
-   "nombre": "Servicio de producción de eventos feria de turismo rural en Bahía Murta 2026",
-   "organismo": "I MUNICIPALIDAD RIO IBANEZ",
-   "unidad": "DIDECO",
-   "monto": 6560000,
-   "cierre_iso": "2026-11-18T09:00:00-03:00",
-   "publicacion": "16-11 09:22",
-   "publicacion_iso": "2026-11-16T09:22:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "80141607",
-     "Producción de eventos",
-     1,
-     "CONTRATAR Y DISPONER DE UN SERVICIO DE PRODUCCIÓN DE EVENTOS PARA TRANSPORTE, ALIMENTACIÓN, ARTISTAS, AMPLIFICACIÓN, GENERACIÓN ELÉCTRICA, ANIMACIÓN, CLÍNICA DE KAYAK Y PREMIOS. SEGÚN DETALLES, FERIA DE TURISMO RURAL 2026, PARA DÍA 05.12.2026 EN LA LOCALIDAD DE BAHÍA MURTA. SEGÚN DETALLA TDR ADJUNTOS."
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=4066-518-COT26",
-   "sin_detalle": false,
-   "descripcion": "LA I. MUNICIPALIDAD DE RÍO IBÁÑEZ, EN EL MARCO DE LA ACTIVIDAD DENOMINADA “FERIA DE TURISMO RURAL 2026”, REQUIERE CONTRATAR UN SERVICIO DE PRODUCCIÓN DE EVENTO PARA DISPONER DE SERVICIOS TRANSPORTE, ALIMENTACIÓN, ARTISTAS, AMPLIFICACIÓN, GENERACIÓN ELÉCTRICA, ANIMACIÓN, CLÍNICA DE KAYAK Y PREMIOS.  PARA LA ACTIVIDAD “FERIA DE TURISMO RURAL 2026”, PARA EL DÍA 05.12.2026, EN LA LOCALIDAD DE BAHÍA MURTA, SECTOR BAHÍA DEL LAGO GENERAL CARRERA. ADJUNTAR PATENTE MUNICIPAL VIGENTE.",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
   {
    "tipo": "POSIBLE",
    "motivos": [
@@ -960,38 +931,27 @@
    "descripcion": "Es necesario cumplir con el Art.11 del D.L. N°2695/79, referido a publicidad del saneamiento de inmueble. Se requiere contratar la publicación digital de 17 avisos correspondientes a 2 veces o publicaciones por beneficiario o expediente, las cuales se harán indistintamente los días 1 y 15 del mes o en la edición inmediatamente siguiente si el diario o periódico no se publicare en los días indicados. Plazo de ejecución 252 días hábiles. Revisar documento adjunto para selección de proveedor.",
    "en_gracia": true,
    "desaparecida_iso": "2026-11-17T17:00:24-03:00"
-  },
+  }
+ ],
+ "historial": [
   {
+   "codigo": "4066-518-COT26",
+   "nombre": "Servicio de producción de eventos feria de turismo rural en Bahía Murta 2026",
+   "organismo": "I MUNICIPALIDAD RIO IBANEZ",
+   "monto": 6560000,
+   "cierre_iso": "2026-11-18T09:00:00-03:00",
    "tipo": "OPORTUNIDAD",
    "motivos": [
     "Ventas y marketing"
    ],
-   "nueva": false,
-   "codigo": "2495-671-COT26",
-   "nombre": "Servicios para jornada de encuentro y camaradería para personas mayores",
-   "organismo": "",
-   "unidad": "",
-   "monto": null,
-   "cierre_iso": "",
-   "publicacion": "",
-   "publicacion_iso": "",
-   "ofertas": 0,
-   "productos": [
-    [
-     "80141607",
-     "Producción de eventos",
-     1,
-     "Servicio para realizar una jornada de encuentro y camaradería para 140 personas mayores. Su contratación busca incentivar la asistencia, participación, promover la convivencia, la integración y el bienestar de las personas mayores para contribuir a prevenir situaciones de aislamiento social. La actividad se enmarca en las acciones municipales de promoción de un envejecimiento activo de espacios de encuentro y recreación, según término de referencia adjuntos."
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=2495-671-COT26",
-   "sin_detalle": false,
-   "descripcion": "Los servicios solicitados tienen por objeto realizar una jornada de encuentro y camaradería para 140 personas mayores. Su contratación busca incentivar la asistencia, participación, promover la convivencia, la integración y el bienestar de las personas mayores para contribuir a prevenir situaciones de aislamiento social. La actividad se enmarca en las acciones municipales de promoción de un envejecimiento activo de espacios de encuentro y recreación, según término de referencia adjuntos.",
-   "en_gracia": true,
-   "desaparecida_iso": "2026-11-17T19:00:32-03:00"
-  }
- ],
- "historial": [
+   "link": "https://buscador.mercadopublico.cl/ficha?code=4066-518-COT26",
+   "primera_vista_iso": "2026-11-16T10:00:36-03:00",
+   "removida_iso": "2026-11-18T10:00:24-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
   {
    "codigo": "2495-652-COT26",
    "nombre": "SERVICIO DE COBERTURA AUDIOVISUAL, TRANSMISIÓN Y DIFUSIÓN DE LA EXPO GANADERA COYHAIQUE 2026",
@@ -1903,6 +1863,24 @@
    "primera_vista_iso": "2026-11-10T19:26:29-03:00",
    "removida_iso": "2026-11-11T14:18:43-03:00",
    "estado_api": "",
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
+  {
+   "codigo": "2495-671-COT26",
+   "nombre": "Servicios para jornada de encuentro y camaradería para personas mayores",
+   "organismo": "",
+   "monto": null,
+   "cierre_iso": "",
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Ventas y marketing"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=2495-671-COT26",
+   "primera_vista_iso": "2026-11-16T16:44:10-03:00",
+   "removida_iso": "2026-11-18T10:00:24-03:00",
+   "estado_api": null,
    "adj_nombre": null,
    "adj_monto": null,
    "adj_iso": null
