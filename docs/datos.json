@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-18T14:00:25.336566-03:00",
+ "actualizado": "2026-11-18T15:00:24.884062-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
  "total_region": 327,
@@ -14,127 +14,6 @@
   "83121700": "Comunicación social y de masas"
  },
  "filas": [
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "difusión"
-   ],
-   "nueva": false,
-   "codigo": "1153624-55-COT26",
-   "nombre": "SERVICIO DE TRANSPORTE PARA VISITA RAGIONAL",
-   "organismo": "SUBSECRETARIA DE RELACIONES ECONOMICAS INTERNACIONALES",
-   "unidad": "Departamento Adquisiciones MN",
-   "monto": 350000,
-   "cierre_iso": "2026-11-18T14:18:00-03:00",
-   "publicacion": "16-11 09:41",
-   "publicacion_iso": "2026-11-16T09:41:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "78111804",
-     "Servicios de taxi",
-     1,
-     "Servicio de trasporte para el martes 24 de noviembre, en 2 VAN para 10 personas C/U\nSEGÚN DETALLE ADJUNTO"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1153624-55-COT26",
-   "sin_detalle": false,
-   "descripcion": "La Subsecretaría de Relaciones Económicas Internacionales requiere contratar el servicio de trasporte de pasajeros en el marco de la visita regional a Aysén, para participar de la Mesa Comex y las actividades y reuniones de levantamiento de información y difusión de la Política Comercial a jóvenes de enseñanza media técnico-profesional. \nServicio de trasporte para el martes 24 de noviembre, en 2 VAN para 10 personas de acuerdo con el siguiente itinerario:\nSEGÚN DETALLE ADJUNTO",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "radio"
-   ],
-   "nueva": true,
-   "codigo": "973172-5-COT26",
-   "nombre": "JUEGOS RECREATIVOS PARA ACTIVIDAD DE FIN DE AÑO BIENESTAR ",
-   "organismo": "SII Oficina de Bienestar",
-   "unidad": "BIENESTAR SII - DR COYHAIQUE",
-   "monto": 680000,
-   "cierre_iso": "2026-11-18T14:30:00-03:00",
-   "publicacion": "17-11 14:06",
-   "publicacion_iso": "2026-11-17T14:06:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "60141111",
-     "Accesorios de juegos",
-     1,
-     "VER DETALLE DEL REQUERIMIENTO EN ADJUNTO. \nCOTIZAR:\n1.- UN TORO MECÁNICO\n2.- UN JUEGO INFLABLE DE OBSTÁCULOS TEMÁTICA SELVA. \n3.- UN RELOJ DERRIBARDOR INFLABLE. \n\nLa ofertas deben incluir traslado, instalación y retiro de los equipos en un radio de hasta 10 kilómetros desde Coyhaique.\nTodos los juegos deben cumplir con las condiciones de seguridad necesarias para su operación y supervisión permanente de monitor por cada uno. \nEl oferente DEBE presentar imágenes reales de los juegos ofertados."
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=973172-5-COT26",
-   "sin_detalle": false,
-   "descripcion": "Se requiere la contratación del servicio de arriendo de juegos recreativos para actividad de fin dirigida a funcionarios de la DR Coyhaique del SII y sus hijos, el servicio debe incluir el traslado al lugar del evento, instalación, operación, supervisión y retiro de los equipos.",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "radiales",
-    "radio",
-    "radioemisora",
-    "spots"
-   ],
-   "nueva": true,
-   "codigo": "1057062-549-COT26",
-   "nombre": "Servicio de emisión de spots en radioemisora local de Puerto Aysén",
-   "organismo": "UNIVERSIDAD DE AYSEN",
-   "unidad": "Proyectos",
-   "monto": 1100000,
-   "cierre_iso": "2026-11-18T14:30:00-03:00",
-   "publicacion": "17-11 14:06",
-   "publicacion_iso": "2026-11-17T14:06:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "52161511",
-     "Radios",
-     1,
-     "Emisión de al menos 3 spots radiales diarios con vigencia hasta el 30 de enero en una radioemisora local de la comuna de Puerto Aysén con señal abierta y digital. El medio debe acreditar liderazgo de audiencia digital en la comuna, contando con al menos 2.000 seguidores en Instagram y 25 mil seguidores en Facebook."
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1057062-549-COT26",
-   "sin_detalle": false,
-   "descripcion": "Emisión de al menos 3 spots radiales diarios con vigencia hasta el 30 de enero en una radioemisora local de la comuna de Puerto Aysén con señal abierta y digital. El medio debe acreditar liderazgo de audiencia digital en la comuna, contando con al menos 2.000 seguidores en Instagram y 25 mil seguidores en Facebook. Proveedor debe detallar lo ofertado e indicar la radio, y acreditar ser de la comuna",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "radiales",
-    "radioemisora",
-    "spots"
-   ],
-   "nueva": true,
-   "codigo": "1057062-548-COT26",
-   "nombre": "Servicio de emisión de spots en radioemisora con cobertura regional en Aysén.",
-   "organismo": "UNIVERSIDAD DE AYSEN",
-   "unidad": "Proyectos",
-   "monto": 322000,
-   "cierre_iso": "2026-11-18T14:30:00-03:00",
-   "publicacion": "17-11 13:59",
-   "publicacion_iso": "2026-11-17T13:59:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "52161511",
-     "Radios",
-     1,
-     "Se requiere la emisión de al menos 4 spots radiales diarios, vigentes hasta el 30 de enero, en una radioemisora de Coyhaique con frecuencias AM y FM. El proveedor deberá detallar en su oferta las características del servicio, indicar el nombre del medio y acreditar documentalmente su cobertura. Para la recepción conforme del servicio (la cual podrá ser mensual), será obligatorio adjuntar los medios de verificación correspondientes que respalden las emisiones realizadas."
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1057062-548-COT26",
-   "sin_detalle": false,
-   "descripcion": "Emisión de al menos 4 spots radiales diarios con vigencia hasta el 30 de enero en una radioemisora de Coyhaique con frecuencia AM y FM. El medio debe acreditar cobertura efectiva en al menos 10 localidades de la región (La Junta, Puerto Cisnes, Mañihuales, Coyhaique, Puerto Aysén, Chile Chico, Caleta Tortel, Guadal, Puerto Aguirre y Cochrane) además de señal digital, contando con al menos 22 mil seguidores en Instagram y 100 mil en Facebook.",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
   {
    "tipo": "OPORTUNIDAD",
    "motivos": [
@@ -863,6 +742,66 @@
   {
    "tipo": "OPORTUNIDAD",
    "motivos": [
+    "Publicidad en medios no impresos"
+   ],
+   "nueva": true,
+   "codigo": "1195-593-COT26",
+   "nombre": "SERVICIO DE DIFUSION PARA PROYECTO DE RECICLAJE",
+   "organismo": "I MUNICIPALIDAD DE COYHAIQUE",
+   "unidad": "Ilustre Municipalidad de Coyhaique",
+   "monto": 400000,
+   "cierre_iso": "2026-11-19T13:45:00-03:00",
+   "publicacion": "18-11 13:25",
+   "publicacion_iso": "2026-11-18T13:25:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "82101603",
+     "Publicidad en Internet",
+     1,
+     "SE REQUIERE CONTRATAR UN MEDIO DE COMUNICACION REGIONAL PARA LA GABACION, EDICION Y DIFUSION DE CAPSULAS AUDIOVISUALES CONSIDERANDO 4 HRS MENSUALES(NOVIEMBRE DICIEMBRE),PUBLICACIONES SEMANALS DE 20 A 29 MINUTOS,BANNER PUBLICITARIO Y DIFUSION EN RRSS,SITIO WEB,TELEVISION DIGITAL Y STREAMING.SE PRIORIZARA PROVEEDOR LOCAL CON COBERTURA EN LA REGION DE AYSEN."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1195-593-COT26",
+   "sin_detalle": false,
+   "descripcion": "SE REQUIERE CONTRATAR UN MEDIO DE COMUNICACION REGIONAL PARA LA GABACION, EDICION Y DIFUSION DE CAPSULAS AUDIOVISUALES CONSIDERANDO 4 HRS MENSUALES(NOVIEMBRE DICIEMBRE),PUBLICACIONES SEMANALS DE 20 A 29 MINUTOS,BANNER PUBLICITARIO Y DIFUSION EN RRSS,SITIO WEB,TELEVISION DIGITAL Y STREAMING.SE PRIORIZARA PROVEEDOR LOCAL CON COBERTURA EN LA REGION DE AYSEN.",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "radiales",
+    "radioemisora",
+    "spots"
+   ],
+   "nueva": true,
+   "codigo": "1057062-548-COT26",
+   "nombre": "Servicio de emisión de spots en radioemisora con cobertura regional en Aysén.",
+   "organismo": "UNIVERSIDAD DE AYSEN",
+   "unidad": "Proyectos",
+   "monto": 322000,
+   "cierre_iso": "2026-11-19T15:00:00-03:00",
+   "publicacion": "17-11 13:59",
+   "publicacion_iso": "2026-11-17T13:59:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "52161511",
+     "Radios",
+     1,
+     "Se requiere la emisión de al menos 4 spots radiales diarios, vigentes hasta el 30 de enero, en una radioemisora de Coyhaique con frecuencias AM y FM. El proveedor deberá detallar en su oferta las características del servicio, indicar el nombre del medio y acreditar documentalmente su cobertura. Para la recepción conforme del servicio (la cual podrá ser mensual), será obligatorio adjuntar los medios de verificación correspondientes que respalden las emisiones realizadas."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1057062-548-COT26",
+   "sin_detalle": false,
+   "descripcion": "Emisión de al menos 4 spots radiales diarios con vigencia hasta el 30 de enero en una radioemisora de Coyhaique con frecuencia AM y FM. El medio debe acreditar cobertura efectiva en al menos 10 localidades de la región (La Junta, Puerto Cisnes, Mañihuales, Coyhaique, Puerto Aysén, Chile Chico, Caleta Tortel, Guadal, Puerto Aguirre y Cochrane) además de señal digital, contando con al menos 22 mil seguidores en Instagram y 100 mil en Facebook.",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
     "Ventas y marketing"
    ],
    "nueva": true,
@@ -1179,6 +1118,35 @@
    "desaparecida_iso": ""
   },
   {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Inserciones publicitarias en medios"
+   ],
+   "nueva": true,
+   "codigo": "4733-533-COT26",
+   "nombre": "DIFUSIÓN",
+   "organismo": "I MUNICIPALIDAD DE LAS GUAITECAS",
+   "unidad": "I MUNICIPALIDAD DE LAS GUAITECAS",
+   "monto": 600000,
+   "cierre_iso": "2026-11-21T13:52:00-03:00",
+   "publicacion": "14-11 12:51",
+   "publicacion_iso": "2026-11-14T12:51:00-03:00",
+   "ofertas": 2,
+   "productos": [
+    [
+     "82101901",
+     "Avisos en radio",
+     1,
+     "servicios de difusión olimpiadas comunales"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=4733-533-COT26",
+   "sin_detalle": false,
+   "descripcion": "Se requiere contratar el servicio de difusión para el proyecto Olimpiadas comunales Guaitecas 2027, según detalle adjunto, adjuntar cotización.-",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
    "tipo": "POSIBLE",
    "motivos": [
     "avisos",
@@ -1262,6 +1230,63 @@
   }
  ],
  "historial": [
+  {
+   "codigo": "973172-5-COT26",
+   "nombre": "JUEGOS RECREATIVOS PARA ACTIVIDAD DE FIN DE AÑO BIENESTAR ",
+   "organismo": "SII Oficina de Bienestar",
+   "monto": 680000,
+   "cierre_iso": "2026-11-18T14:30:00-03:00",
+   "tipo": "POSIBLE",
+   "motivos": [
+    "radio"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=973172-5-COT26",
+   "primera_vista_iso": "2026-11-17T15:00:50-03:00",
+   "removida_iso": "2026-11-18T15:00:24-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
+  {
+   "codigo": "1057062-549-COT26",
+   "nombre": "Servicio de emisión de spots en radioemisora local de Puerto Aysén",
+   "organismo": "UNIVERSIDAD DE AYSEN",
+   "monto": 1100000,
+   "cierre_iso": "2026-11-18T14:30:00-03:00",
+   "tipo": "POSIBLE",
+   "motivos": [
+    "radiales",
+    "radio",
+    "radioemisora",
+    "spots"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1057062-549-COT26",
+   "primera_vista_iso": "2026-11-17T15:00:50-03:00",
+   "removida_iso": "2026-11-18T15:00:24-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
+  {
+   "codigo": "1153624-55-COT26",
+   "nombre": "SERVICIO DE TRANSPORTE PARA VISITA RAGIONAL",
+   "organismo": "SUBSECRETARIA DE RELACIONES ECONOMICAS INTERNACIONALES",
+   "monto": 350000,
+   "cierre_iso": "2026-11-18T14:18:00-03:00",
+   "tipo": "POSIBLE",
+   "motivos": [
+    "difusión"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1153624-55-COT26",
+   "primera_vista_iso": "2026-11-16T10:00:36-03:00",
+   "removida_iso": "2026-11-18T15:00:24-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
   {
    "codigo": "1182705-216-COT26",
    "nombre": "ADQUISICION DE PIN REDONDO CON LOGO INSTITUCIONAL, FOLIO 233",
@@ -1451,24 +1476,6 @@
    "primera_vista_iso": "2026-11-13T15:00:24-03:00",
    "removida_iso": "2026-11-17T13:00:25-03:00",
    "estado_api": "",
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "4733-533-COT26",
-   "nombre": "DIFUSIÓN",
-   "organismo": "I MUNICIPALIDAD DE LAS GUAITECAS",
-   "monto": 600000,
-   "cierre_iso": "2026-11-17T12:00:00-03:00",
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Inserciones publicitarias en medios"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=4733-533-COT26",
-   "primera_vista_iso": "2026-11-14T13:00:23-03:00",
-   "removida_iso": "2026-11-17T13:00:25-03:00",
-   "estado_api": null,
    "adj_nombre": null,
    "adj_monto": null,
    "adj_iso": null

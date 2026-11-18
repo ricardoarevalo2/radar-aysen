@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-18T14:00:25.336566-03:00",
+ "actualizado": "2026-11-18T15:00:24.884062-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
  "total_region": 327,
@@ -2300,24 +2300,6 @@
     "Servicios eléctricos"
    ],
    "link": "https://buscador.mercadopublico.cl/ficha?code=4140-108-COT26",
-   "primera_vista_iso": "2026-11-10T19:26:29-03:00",
-   "removida_iso": "2026-11-12T09:58:37-03:00",
-   "estado_api": "",
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "2713-1347-COT26",
-   "nombre": "IMPLEMENTOS. FOLIO 1409 DIDECO CAE- VG",
-   "organismo": "I MUNICIPALIDAD DE AYSEN",
-   "monto": 1700000,
-   "cierre_iso": "2026-11-11T14:30:00-03:00",
-   "tipo": "POSIBLE",
-   "motivos": [
-    "certificación sec"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=2713-1347-COT26",
    "primera_vista_iso": "2026-11-10T19:26:29-03:00",
    "removida_iso": "2026-11-12T09:58:37-03:00",
    "estado_api": "",
