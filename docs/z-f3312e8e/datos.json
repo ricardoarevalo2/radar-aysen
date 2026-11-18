@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-11-18T10:00:24.616579-03:00",
+ "actualizado": "2026-11-18T11:00:25.706053-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
- "total_region": 320,
+ "total_region": 306,
  "rubros": {
   "25172700": "Aire acondicionado",
   "25173900": "Componentes eléctricos",
@@ -19,96 +19,6 @@
   "39121400": "Conectores, enchufes y terminales"
  },
  "filas": [
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "eléctricos",
-    "enchufe"
-   ],
-   "nueva": false,
-   "codigo": "2713-1395-COT26",
-   "nombre": "DIDECO/CAE-VG, Adquisicion de utiles de aseo e higiene, solicitud folio 1446",
-   "organismo": "I MUNICIPALIDAD DE AYSEN",
-   "unidad": "I.MUNICIPALIDAD AYSEN-ADQUISICIONES",
-   "monto": 500000,
-   "cierre_iso": "2026-11-18T10:30:00-03:00",
-   "publicacion": "16-11 13:08",
-   "publicacion_iso": "2026-11-16T13:08:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "14111703",
-     "Toallas de papel",
-     30,
-     "Unidades de Toalla de papel una hoja absorbente, formato megarollo individual de alta duración o equivalente."
-    ],
-    [
-     "42281912",
-     "Toallas de esterilización",
-     20,
-     "Paquetes de Toallas húmedas desinfectantes para limpieza e higienización de superficies. Cantidad aproximada de 80 unidades por paquete)"
-    ],
-    [
-     "47131502",
-     "Paños de limpieza",
-     10,
-     "Unidades de Paño multiuso de microfibra o tela suave para sacudir polvo y limpiar superficies. (medidas aproximadas de 38-40 x 38-40)"
-    ],
-    [
-     "47131603",
-     "Esponjas",
-     10,
-     "Unidades Paño húmedo absorbente tipo esponja, formato tripack o equivalente."
-    ],
-    [
-     "47131609",
-     "Magos para escobas o traperos",
-     20,
-     "Paquetes de Traperos húmedos desechables para limpieza de pisos. Presentación de 10 o 12 por paquete."
-    ],
-    [
-     "47131801",
-     "Limpiadores de suelos",
-     15,
-     "Unidades Limpiador líquido multiuso aromatizado para pisos y superficies, formato de 900 ml o equivalente."
-    ],
-    [
-     "47131801",
-     "Limpiadores de suelos",
-     2,
-     "Unidades de Limpiavidrios con mango extensible para limpieza de ventanales y superficies de vidrio."
-    ],
-    [
-     "47131803",
-     "Desinfectantes domésticos",
-     15,
-     "Pack Pastillas desinfectantes y aromatizantes para estanque de inodoro, pack de 2 unidades o equivalente."
-    ],
-    [
-     "47131816",
-     "Desodorantes",
-     5,
-     "Unidades de Aromatizador difusor tipo enchufe para ambientación de espacios interiores. (formato aproximado de 250ml)"
-    ],
-    [
-     "47131816",
-     "Desodorantes",
-     15,
-     "Unidades de repuestos aromatizantes difusor  (liquido) compatibles con difusores eléctricos, para uso en espacios interiores de 21ml o aproximado."
-    ],
-    [
-     "53102512",
-     "pañuelos",
-     20,
-     "caja de Pañuelos desechables en caja, formato tripack, con un mínimo 90 unidades por caja."
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=2713-1395-COT26",
-   "sin_detalle": false,
-   "descripcion": "ADQUISICION DE UTILES DE ASEO E HIGIENE, SEGUN DETALLES Y ESPECIFICACIONES TECNICAS ADJUNTAS,LOS MONTOS DE LAS OFERTAS DEBEN INCLUIR TODOS LOS GASTOS NECESARIOS, PARA LA ENTREGA DE LOS UTILES DE ASEO E HIGIENE, EN PUERTO AYSÉN, LAS OFERTAS QUE SOBREPASEN EL MONTO PRESUPUESTARIO DISPONIBLE, NO CUMPLAN CON LAS ESPECIFICACIONES TÉCNICAS NO CUMPLAN O NO INDIQUEN EL PLAZO DE ENTREGA NO SERÁN EVALUADAS.",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
   {
    "tipo": "POSIBLE",
    "motivos": [
@@ -982,7 +892,7 @@
    "motivos": [
     "Enfriamiento (aires acondicionados)"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "2151-93-COT26",
    "nombre": "SERVICIO DE MANTENCIÓN PREVENTIVA Y CORRECTIVA DE 7 EQUIPOS DE AIRE ACONDICIONADO SPLIT – HOSPITAL DR. JORGE IBAR BRUCE DE PUERTO CISNES",
    "organismo": "SERVICIO NAC DE SALUD HOSPITAL DE PTO CISNES",
@@ -1101,6 +1011,41 @@
    "desaparecida_iso": ""
   },
   {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "generador"
+   ],
+   "nueva": true,
+   "codigo": "3765-363-COT26",
+   "nombre": "MANTENIMIENTO PREVENTIVO GRUPO GENERADOR DE HLOR CHILE CHICO Y PSR MALLÍN GRANDE ",
+   "organismo": "SERVICIO NACIONAL DE SALUD HOSPITAL DE C",
+   "unidad": "Hospital Doctor  Leopoldo Ortega Rodríguez",
+   "monto": 3000000,
+   "cierre_iso": "2026-11-20T09:00:00-03:00",
+   "publicacion": "18-11 10:47",
+   "publicacion_iso": "2026-11-18T10:47:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "26111601",
+     "Generadores diesel",
+     1,
+     "MANTENIMIENTO PREVENTIVO DE GRUPO GENERADOR SDMO LUREYE DE 60 KVA CON MOTOR JOHN DEERE Y SU RESPECTIVO TTA HOSPITAL DR. LEOPOLDO ORTEGA RODRIGUEZ; DETALLES EN ADJUNTO, DEBE PRESENTAR COTIZACIÓN."
+    ],
+    [
+     "26111601",
+     "Generadores diesel",
+     1,
+     "MANTENIMIENTO PREVENTIVO DE GENERADOR KIPOR KDE 6700 T CON SU RESPECTIVO TABLERO; PSR MALLÍN GRANDE; DETALLES EN ADJUNTO, DEBE PRESENTAR COTIZACIÓN."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=3765-363-COT26",
+   "sin_detalle": false,
+   "descripcion": "MANTENIMIENTO PREVENTIVO GRUPO GENERADOR DE HLOR CHILE CHICO Y PSR MALLÍN GRANDE",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
    "tipo": "OPORTUNIDAD",
    "motivos": [
     "Enfriamiento (aires acondicionados)"
@@ -1188,6 +1133,64 @@
    "desaparecida_iso": ""
   },
   {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Cajas y accesorios eléctricos"
+   ],
+   "nueva": true,
+   "codigo": "2042-424-COT26",
+   "nombre": "Adquisición de insumos eléctricos para mejoramiento de infraestructura municipal.",
+   "organismo": "I MUNICIPALIDAD DE TORTEL",
+   "unidad": "Ilustre Municipalidad de Tortel",
+   "monto": 350000,
+   "cierre_iso": "2026-11-23T13:00:00-03:00",
+   "publicacion": "18-11 10:39",
+   "publicacion_iso": "2026-11-18T10:39:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "39121311",
+     "Accesorios eléctricos",
+     1,
+     "Se requiere la compra de elementos de electricidad para mejoramiento en conexiones eclécticas, instalación y retiro de luminaria en plazas en sector rotonda y reemplazo de iluminación el letrero de bienvenida Tortel, Según solicitud adjunta"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=2042-424-COT26",
+   "sin_detalle": false,
+   "descripcion": "Se requiere la compra de elementos de electricidad para mejoramiento en conexiones eclécticas, instalación y retiro de luminaria en plazas en sector rotonda y reemplazo de iluminación el letrero de bienvenida Tortel.",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Cajas y accesorios eléctricos"
+   ],
+   "nueva": true,
+   "codigo": "2042-424-COT26",
+   "nombre": "Adquisición de insumos eléctricos para mejoramiento de infraestructura municipal.",
+   "organismo": "I MUNICIPALIDAD DE TORTEL",
+   "unidad": "Ilustre Municipalidad de Tortel",
+   "monto": 350000,
+   "cierre_iso": "2026-11-23T13:00:00-03:00",
+   "publicacion": "18-11 10:39",
+   "publicacion_iso": "2026-11-18T10:39:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "39121311",
+     "Accesorios eléctricos",
+     1,
+     "Se requiere la compra de elementos de electricidad para mejoramiento en conexiones eclécticas, instalación y retiro de luminaria en plazas en sector rotonda y reemplazo de iluminación el letrero de bienvenida Tortel, Según solicitud adjunta"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=2042-424-COT26",
+   "sin_detalle": false,
+   "descripcion": "Se requiere la compra de elementos de electricidad para mejoramiento en conexiones eclécticas, instalación y retiro de luminaria en plazas en sector rotonda y reemplazo de iluminación el letrero de bienvenida Tortel.",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
    "tipo": "POSIBLE",
    "motivos": [
     "eléctrico"
@@ -1218,6 +1221,25 @@
   }
  ],
  "historial": [
+  {
+   "codigo": "2713-1395-COT26",
+   "nombre": "DIDECO/CAE-VG, Adquisicion de utiles de aseo e higiene, solicitud folio 1446",
+   "organismo": "I MUNICIPALIDAD DE AYSEN",
+   "monto": 500000,
+   "cierre_iso": "2026-11-18T10:30:00-03:00",
+   "tipo": "POSIBLE",
+   "motivos": [
+    "eléctricos",
+    "enchufe"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=2713-1395-COT26",
+   "primera_vista_iso": "2026-11-16T14:00:23-03:00",
+   "removida_iso": "2026-11-18T11:00:25-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
   {
    "codigo": "4644-138-COT26",
    "nombre": "SERVICIO DE MANTENCIÓN ELÉCTRICA DE INFRAESTRUCTURA,  CONAF MAÑIHUALES",

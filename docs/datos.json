@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-11-18T10:00:24.616579-03:00",
+ "actualizado": "2026-11-18T11:00:25.706053-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
- "total_region": 320,
+ "total_region": 306,
  "rubros": {
   "80141600": "Ventas y marketing",
   "82101600": "Publicidad en medios no impresos",
@@ -429,7 +429,7 @@
    "motivos": [
     "fotografía"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "2494-301-COT26",
    "nombre": "Adquisición de Premios para Taller Fotografia - Barrio Arturo Prat",
    "organismo": "I MUNICIPALIDAD DE COYHAIQUE",
@@ -508,7 +508,7 @@
     "publicitario",
     "publicitarios"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "2713-1405-COT26",
    "nombre": "Seguridad Publica, solicitud adquisicion material publicitario, solicitud folio 1461",
    "organismo": "I MUNICIPALIDAD DE AYSEN",
@@ -620,7 +620,7 @@
     "audiovisual",
     "difusión"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "2494-303-COT26",
    "nombre": "Adqusición de Licencias de Software de Edición Audiovisual Gráfica y Fotográfica - PROGRAMA RECUPERACIÓN DE BARRIOS",
    "organismo": "I MUNICIPALIDAD DE COYHAIQUE",
@@ -876,6 +876,35 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=2495-654-COT26",
    "sin_detalle": false,
    "descripcion": "Se requiere adquirir premios para la realización de una actividad recreativa de bingo dirigida a personas mayores. Su adquisición busca incentivar la asistencia, participación, promover la convivencia, la integración y el bienestar de las personas mayores para contribuir a prevenir situaciones de aislamiento social. La actividad se enmarca en las acciones municipales de promoción de un envejecimiento activo de espacios de encuentro y recreación,  térmi de referencia y cotizaci adjunta.",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "difusion"
+   ],
+   "nueva": true,
+   "codigo": "1758-299-COT26",
+   "nombre": "SERVICIO DE MEDIACION LECTORA Y NARRACION ORAL CUENTACUENTOS ",
+   "organismo": "SECRETARIA REGIONAL MINISTERIAL DE EDUCACION XI REGION",
+   "unidad": "Mineduc Administración XI Región",
+   "monto": 200000,
+   "cierre_iso": "2026-11-20T11:00:00-03:00",
+   "publicacion": "18-11 10:42",
+   "publicacion_iso": "2026-11-18T10:42:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "94121701",
+     "Clubes de aficionados o talleres de teatro",
+     1,
+     "SERVICIO DE MEDIACION LECTORA Y NARRATIVA \"CUENTA CUENTOS\" EL DIA 28 DE NOVIEMBRE EN BYPASS de LA CIUDAD DE COYHAIQUE."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1758-299-COT26",
+   "sin_detalle": false,
+   "descripcion": "SE REQUIERE CONTRATAR SERVICIO DE MEDIACION LECTORA Y NARRACION ORAL (CUENTACUENTOS) EN EL MARCO DE LA DIFUSION DEL PLAN CHILE APRENDE Y AVANZA DEL MINISTERIO DE EDUCACION  A RELIZARSE EN EL MIRADOR  BYPASS EL 28 DE NOVIEMBRE EN LA CIUDAD DE COYHAIQUE",
    "en_gracia": false,
    "desaparecida_iso": ""
   },
@@ -1842,24 +1871,6 @@
     "registro audiovisual"
    ],
    "link": "https://buscador.mercadopublico.cl/ficha?code=3797-527-COT26",
-   "primera_vista_iso": "2026-11-10T19:26:29-03:00",
-   "removida_iso": "2026-11-11T14:18:43-03:00",
-   "estado_api": "",
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "2495-635-COT26",
-   "nombre": "PENDON CENTRO DE LAS MUJERES",
-   "organismo": "I MUNICIPALIDAD DE COYHAIQUE",
-   "monto": 200000,
-   "cierre_iso": "2026-11-11T11:00:00-03:00",
-   "tipo": "POSIBLE",
-   "motivos": [
-    "difusión"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=2495-635-COT26",
    "primera_vista_iso": "2026-11-10T19:26:29-03:00",
    "removida_iso": "2026-11-11T14:18:43-03:00",
    "estado_api": "",
