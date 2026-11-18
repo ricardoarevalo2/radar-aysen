@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-11-18T19:00:26.341810-03:00",
+ "actualizado": "2026-11-18T20:00:26.211743-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
- "total_region": 324,
+ "total_region": 323,
  "rubros": {
   "80141600": "Ventas y marketing",
   "82101600": "Publicidad en medios no impresos",
@@ -579,7 +579,7 @@
    "motivos": [
     "Ventas y marketing"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "4066-527-COT26",
    "nombre": "Servicio de producción de eventos: Desarrollo de Ferias Productivas, Lanzamiento de Temporada Turística 2026-2027 en Puerto Sánchez - COD BIP 40066883-0",
    "organismo": "I MUNICIPALIDAD RIO IBANEZ",

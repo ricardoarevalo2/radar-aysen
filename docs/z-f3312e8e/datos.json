@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-11-18T19:00:26.341810-03:00",
+ "actualizado": "2026-11-18T20:00:26.211743-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
- "total_region": 324,
+ "total_region": 323,
  "rubros": {
   "25172700": "Aire acondicionado",
   "25173900": "Componentes eléctricos",
@@ -925,7 +925,7 @@
    "motivos": [
     "iluminación"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "4066-527-COT26",
    "nombre": "Servicio de producción de eventos: Desarrollo de Ferias Productivas, Lanzamiento de Temporada Turística 2026-2027 en Puerto Sánchez - COD BIP 40066883-0",
    "organismo": "I MUNICIPALIDAD RIO IBANEZ",
@@ -1258,27 +1258,38 @@
    "descripcion": "SE SOLICITA LA ADQUISICION DEL SERVICIO PARA CONSTRUCCION DE PORTON ELECTRICO VEHICULAR Y CIERRE PERIMETRAL EN LA POBLACION DE SUBOFICIALES EN LA LOCALIDAD DE COCHRANE, CONFORME A LAS BASES TECNICAS QUE SE ADJUNTAN\n\nVISITA TERRENO EXCLUYENTE JUEVES 19NOV2026 ENTRADA POBLACION MILITAR SUBOFICIALES EN LA LOCALIDAD DE COCHRANE A LAS 10:00HRS\n\nSE SOLICITA LOS ANEXOS QUE SE ADJUNTA (ECONOMICO,DURACION,DECL.JURADA)  PARA LOS OFERENTE POSTULANTES, QUIEN NO LO PRESENTE FIRMADO QUEDA FUERA DE POSTULACIO",
    "en_gracia": false,
    "desaparecida_iso": ""
-  }
- ],
- "historial": [
+  },
   {
-   "codigo": "1905-88-COT26",
-   "nombre": "Servicio de mejoramiento de calefacción en equipos de aire acondicionado en oficinas de Puerto Aysén y Coyhaique",
-   "organismo": "SERVICIO DE REGISTRO CIVIL E IDENTIFICAC",
-   "monto": 3600000,
-   "cierre_iso": "2026-11-23T08:00:00-03:00",
    "tipo": "OPORTUNIDAD",
    "motivos": [
     "Gasfitería, calefacción y aire acondicionado"
    ],
+   "nueva": false,
+   "codigo": "1905-88-COT26",
+   "nombre": "Servicio de mejoramiento de calefacción en equipos de aire acondicionado en oficinas de Puerto Aysén y Coyhaique",
+   "organismo": "",
+   "unidad": "",
+   "monto": null,
+   "cierre_iso": "",
+   "publicacion": "",
+   "publicacion_iso": "",
+   "ofertas": 0,
+   "productos": [
+    [
+     "72102302",
+     "Instalación, reparación o mantenimiento de sistemas de calefacción",
+     1,
+     "Servicio de mejoramiento de calefacción en equipos de aire acondicionado en oficinas de Puerto Aysén y Coyhaique"
+    ]
+   ],
    "link": "https://buscador.mercadopublico.cl/ficha?code=1905-88-COT26",
-   "primera_vista_iso": "2026-11-13T21:00:25-03:00",
-   "removida_iso": "2026-11-18T19:00:26-03:00",
-   "estado_api": null,
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
+   "sin_detalle": false,
+   "descripcion": "Servicio de mejoramiento de calefacción de aire acondicionado en oficina de Puerto Aysén y Coyhaique. Favor (revisar los TDR en los archivos adjuntos y fechas de visita en terreno)",
+   "en_gracia": true,
+   "desaparecida_iso": "2026-11-18T20:00:26-03:00"
+  }
+ ],
+ "historial": [
   {
    "codigo": "1057062-533-COT26",
    "nombre": "Adquisición de insumos de laboratorio para el Centro de Simulación, FISABS N°1872 – URY 2457",
