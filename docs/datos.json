@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-11-18T15:16:05.106961-03:00",
+ "actualizado": "2026-11-18T16:00:26.229586-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
- "total_region": 322,
+ "total_region": 332,
  "rubros": {
   "80141600": "Ventas y marketing",
   "82101600": "Publicidad en medios no impresos",
@@ -368,35 +368,6 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=2713-1405-COT26",
    "sin_detalle": false,
    "descripcion": "adquisicion de material publicitario segun detalles y especificacines tecnicas adjuntas,Los montos de las ofertas deben incluir todos los gastos necesarios, para la entrega de los productos publicitarios, en Puerto Aysén, las ofertas que sobrepasen el monto presupuestario disponible, no cumplan con las especificaciones técnicas no cumplan o no indiquen el plazo de entrega no serán evaluadas. el plazo de entrega comienza a correr al dia habil subsiguiente del envio de la orden de compra.",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
-  {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Ventas y marketing"
-   ],
-   "nueva": false,
-   "codigo": "1201-206-COT26",
-   "nombre": "SERVICIO DE SONIDO – AMPLIFICACIÓN - ANIMACIÓN  EVENTOS SUB10 – SUB12 – JUVENIL JUEGOS DEPORTIVOS ESCOLARES 2026",
-   "organismo": "INSTITUTO NACIONAL DE DEPORTES DE CHILE",
-   "unidad": "I.N.D. REGION XI",
-   "monto": 5300000,
-   "cierre_iso": "2026-11-19T10:00:00-03:00",
-   "publicacion": "17-11 11:41",
-   "publicacion_iso": "2026-11-17T11:41:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "80141607",
-     "Producción de eventos",
-     1,
-     "Servicio de\nsonido,\namplificación y\nanimación"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1201-206-COT26",
-   "sin_detalle": false,
-   "descripcion": "Contratar el servicio de sonido, amplificación y animación para la ejecución de Encuentros\nDeportivos, en el marco de los Juegos Deportivos Escolares (JDE), en las disciplinas de\nmini vóleibol, básquetbol 3x3, balonmano adaptado y futsal, a realizarse en las comunas\nde Coyhaique y Aysén.",
    "en_gracia": false,
    "desaparecida_iso": ""
   },
@@ -767,6 +738,35 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=1057062-548-COT26",
    "sin_detalle": false,
    "descripcion": "Emisión de al menos 4 spots radiales diarios con vigencia hasta el 30 de enero en una radioemisora de Coyhaique con frecuencia AM y FM. El medio debe acreditar cobertura efectiva en al menos 10 localidades de la región (La Junta, Puerto Cisnes, Mañihuales, Coyhaique, Puerto Aysén, Chile Chico, Caleta Tortel, Guadal, Puerto Aguirre y Cochrane) además de señal digital, contando con al menos 22 mil seguidores en Instagram y 100 mil en Facebook.",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Ventas y marketing"
+   ],
+   "nueva": true,
+   "codigo": "1201-208-COT26",
+   "nombre": "SERVICIO DE SONIDO – AMPLIFICACIÓN - ANIMACIÓN  EVENTOS SUB10 – SUB12 – JUVENIL JUEGOS DEPORTIVOS ESCOLARES 2026",
+   "organismo": "INSTITUTO NACIONAL DE DEPORTES DE CHILE",
+   "unidad": "I.N.D. REGION XI",
+   "monto": 5300000,
+   "cierre_iso": "2026-11-19T16:00:00-03:00",
+   "publicacion": "18-11 15:52",
+   "publicacion_iso": "2026-11-18T15:52:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "80141607",
+     "Producción de eventos",
+     1,
+     "Servicio de\nsonido,\namplificación y\nanimación, según detalle en TDR adjunta"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1201-208-COT26",
+   "sin_detalle": false,
+   "descripcion": "Contratar el servicio de sonido, amplificación y animación para la ejecución de Encuentros\nDeportivos, en el marco de los Juegos Deportivos Escolares (JDE), en las disciplinas de\nmini vóleibol, básquetbol 3x3, balonmano adaptado y futsal, a realizarse en las comunas\nde Coyhaique y Aysén.",
    "en_gracia": false,
    "desaparecida_iso": ""
   },
@@ -1169,6 +1169,35 @@
    "descripcion": "Es necesario cumplir con el Art.11 del D.L. N°2695/79, referido a publicidad del saneamiento de inmueble. Se requiere contratar la publicación digital de 17 avisos correspondientes a 2 veces o publicaciones por beneficiario o expediente, las cuales se harán indistintamente los días 1 y 15 del mes o en la edición inmediatamente siguiente si el diario o periódico no se publicare en los días indicados. Plazo de ejecución 252 días hábiles. Revisar documento adjunto para selección de proveedor.",
    "en_gracia": true,
    "desaparecida_iso": "2026-11-17T17:00:24-03:00"
+  },
+  {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Ventas y marketing"
+   ],
+   "nueva": false,
+   "codigo": "1201-206-COT26",
+   "nombre": "SERVICIO DE SONIDO – AMPLIFICACIÓN - ANIMACIÓN  EVENTOS SUB10 – SUB12 – JUVENIL JUEGOS DEPORTIVOS ESCOLARES 2026",
+   "organismo": "",
+   "unidad": "",
+   "monto": null,
+   "cierre_iso": "",
+   "publicacion": "",
+   "publicacion_iso": "",
+   "ofertas": 0,
+   "productos": [
+    [
+     "80141607",
+     "Producción de eventos",
+     1,
+     "Servicio de\nsonido,\namplificación y\nanimación"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1201-206-COT26",
+   "sin_detalle": false,
+   "descripcion": "Contratar el servicio de sonido, amplificación y animación para la ejecución de Encuentros\nDeportivos, en el marco de los Juegos Deportivos Escolares (JDE), en las disciplinas de\nmini vóleibol, básquetbol 3x3, balonmano adaptado y futsal, a realizarse en las comunas\nde Coyhaique y Aysén.",
+   "en_gracia": true,
+   "desaparecida_iso": "2026-11-18T16:00:26-03:00"
   },
   {
    "tipo": "OPORTUNIDAD",
@@ -2110,24 +2139,6 @@
     "difusión"
    ],
    "link": "https://buscador.mercadopublico.cl/ficha?code=1057062-525-COT26",
-   "primera_vista_iso": "2026-11-10T19:26:29-03:00",
-   "removida_iso": "2026-11-12T09:58:37-03:00",
-   "estado_api": "",
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "2713-1341-COT26",
-   "nombre": "Producción de actividades - DIDECO - PROMOS - 1398",
-   "organismo": "I MUNICIPALIDAD DE AYSEN",
-   "monto": 2195063,
-   "cierre_iso": "2026-11-11T15:21:00-03:00",
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Ventas y marketing"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=2713-1341-COT26",
    "primera_vista_iso": "2026-11-10T19:26:29-03:00",
    "removida_iso": "2026-11-12T09:58:37-03:00",
    "estado_api": "",

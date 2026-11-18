@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-11-18T15:16:05.106961-03:00",
+ "actualizado": "2026-11-18T16:00:26.229586-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
- "total_region": 322,
+ "total_region": 332,
  "rubros": {
   "25172700": "Aire acondicionado",
   "25173900": "Componentes eléctricos",
@@ -22,38 +22,9 @@
   {
    "tipo": "POSIBLE",
    "motivos": [
-    "enchufes"
-   ],
-   "nueva": false,
-   "codigo": "3950-742-COT26",
-   "nombre": "PRODUCCION DE EVENTO \"PRIMER CONSEJO TECNICO DE GESTORES DE CASO\"",
-   "organismo": "DIRECCION SALUD RURAL",
-   "unidad": "Dirección de Salud Rural",
-   "monto": 250000,
-   "cierre_iso": "2026-11-18T15:21:00-03:00",
-   "publicacion": "16-11 12:37",
-   "publicacion_iso": "2026-11-16T12:37:00-03:00",
-   "ofertas": 1,
-   "productos": [
-    [
-     "90101603",
-     "Servicios de catering",
-     1,
-     "COFFE BREAK PARA 20 PERSONAS EL 25 DE NOVIEMBRE DEL 2026, UBICACION TERCER PISO CAJA LOS ANDES COYHAIQUE, CALLE EUSEBIO LILLO N°20, adjunta propuesta detallada. considerar mesas plegables y termos ya que no se dispone de enchufes cercanos en el sector donde se montará."
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=3950-742-COT26",
-   "sin_detalle": false,
-   "descripcion": "INCLUIR MESAS, TERMOS EN COTIZACION",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
     "electricidad"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "1182705-213-COT26",
    "nombre": "Colación de jornada a la llegada de la delegación a Melinka solicitud N°0228",
    "organismo": "CENTRO DE FORMACIÓN TÉCNICA DE LA REGIÓN DE AYSÉN DEL GENERAL CARLOS I",
@@ -1004,6 +975,82 @@
   {
    "tipo": "POSIBLE",
    "motivos": [
+    "iluminación"
+   ],
+   "nueva": true,
+   "codigo": "3797-542-COT26",
+   "nombre": "EQUIPAMIENTO, IMPLEMENTOS Y DISPOSITIVOS ELECTRÓNICOS",
+   "organismo": "I MUNICIPALIDAD DE COCHRANE",
+   "unidad": "I MUNICIPALIDAD DE COCHRANE",
+   "monto": 1500000,
+   "cierre_iso": "2026-11-19T15:30:00-03:00",
+   "publicacion": "18-11 15:23",
+   "publicacion_iso": "2026-11-18T15:23:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "56111605",
+     "Iluminación o energía o componentes de datos para sistemas de panel",
+     2,
+     "SISTEMA DE ILUMINACION LED DE TABLEROS SEGÚN ESPECIFICACIONES TECNICA:\nLED DE AL INTENSIDAD \nDISEÑO PERIMETRAL DEL TABLERO COMPLETO, COBERTURA UNIFORME DE TODO EL CONTORNO, \nCONSTRUCCION ROBUSTA PERFILERIA DE ALUMINIO Y P´ROTECCION IP65, \nALIMENTACION SEGURA DE 220 VAC/ 50-60 HZ, \nVIDA UTIL PROLONGADA, NOMATIVA FIBA NIVEL 1 Y 2."
+    ],
+    [
+     "56111605",
+     "Iluminación o energía o componentes de datos para sistemas de panel",
+     1,
+     "INDICADOR ELECTRONICO DE POSESION ALTERNA IZQUIERDA, DERECHA, AMBAS Y APAGADO SEGÚN ESPECIFICACIONES TECNICAS:\nDIMENSIONES: 70X22 CM \nESPESOR: 6-8 CM APROXIMADO \nALIMENTACION: 220VAC/50 HZ\nCOMUNICACIÓN: INALAMBRICA\nDISTANCIA CONTROL: APROX. 50 MTS (CAMPO ABIERTO)\nANGULO VISION: SUPERIOR A 160 GRADOS\nGABINETE: ACERO \nPANEL FRONTAL: POLICABORNATO DE ALTA RESISNTENCIA \nINTSALACION: SOBRE MESA DE OFICIALES O SOPORTE\nTRANSPORTE MANILLA RECTRACTIL \nCOMPATIBLE CON FIBA NIVEL 1 Y 2."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=3797-542-COT26",
+   "sin_detalle": false,
+   "descripcion": "Adquisición de equipamiento, implementos y dispositivos electrónicos para el tablero marcador del Gimnasio Municipal de Cochrane, con la finalidad de asegurar su correcto funcionamiento, mejorar el control y registro de los encuentros deportivos y fortalecer las condiciones técnicas para el desarrollo de actividades y competencias deportivas en la comuna.",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Cajas y accesorios eléctricos"
+   ],
+   "nueva": true,
+   "codigo": "1182705-220-COT26",
+   "nombre": "ADQUISICION DE FUNGIBLES PARA INSTALACION ELECTRICA, FOLIO N°238",
+   "organismo": "CENTRO DE FORMACIÓN TÉCNICA DE LA REGIÓN DE AYSÉN DEL GENERAL CARLOS I",
+   "unidad": "FINANZAS",
+   "monto": 117000,
+   "cierre_iso": "2026-11-19T16:00:00-03:00",
+   "publicacion": "18-11 15:40",
+   "publicacion_iso": "2026-11-18T15:40:00-03:00",
+   "ofertas": 1,
+   "productos": [
+    [
+     "39121311",
+     "Accesorios eléctricos",
+     150,
+     "Caja Derivación Embutida"
+    ],
+    [
+     "39121311",
+     "Accesorios eléctricos",
+     300,
+     "Salidas de caja 20 mm"
+    ],
+    [
+     "39121311",
+     "Accesorios eléctricos",
+     150,
+     "Salidas de caja 16 mm"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1182705-220-COT26",
+   "sin_detalle": false,
+   "descripcion": "Se requiere la compra de fungibles de instalaciones eléctrica para la carrera TNS en electricidad, del CFT de la Región de Aysén. Los productos deben ser entregados en oficinas ubicada en Sargento Aldea 533, Puerto Aysén",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
     "eléctrico"
    ],
    "nueva": true,
@@ -1135,7 +1182,7 @@
    "motivos": [
     "Enfriamiento (aires acondicionados)"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "1256-7-COT26",
    "nombre": "“Compra de 1  equipo (s) de Climatización para la Tesorería Regional de Aysén”",
    "organismo": "Tesorería Regional de Aysén",
@@ -1377,6 +1424,24 @@
   }
  ],
  "historial": [
+  {
+   "codigo": "3950-742-COT26",
+   "nombre": "PRODUCCION DE EVENTO \"PRIMER CONSEJO TECNICO DE GESTORES DE CASO\"",
+   "organismo": "DIRECCION SALUD RURAL",
+   "monto": 250000,
+   "cierre_iso": "2026-11-18T15:21:00-03:00",
+   "tipo": "POSIBLE",
+   "motivos": [
+    "enchufes"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=3950-742-COT26",
+   "primera_vista_iso": "2026-11-16T13:00:26-03:00",
+   "removida_iso": "2026-11-18T16:00:26-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
   {
    "codigo": "2713-1395-COT26",
    "nombre": "DIDECO/CAE-VG, Adquisicion de utiles de aseo e higiene, solicitud folio 1446",
