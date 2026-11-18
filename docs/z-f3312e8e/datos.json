@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-11-18T11:00:25.706053-03:00",
+ "actualizado": "2026-11-18T12:00:27.349811-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
- "total_region": 306,
+ "total_region": 327,
  "rubros": {
   "25172700": "Aire acondicionado",
   "25173900": "Componentes eléctricos",
@@ -94,7 +94,7 @@
    "motivos": [
     "eléctrico"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "4778-396-COT26",
    "nombre": "RELE-SOLICITUD N° 3309-2026-MANTENCION PREVENTIVA, CALIBRACION SISTEMA PHILIPS AFFINITI, SE REQUIERE CARTA DE REPRESENTACION,COTIZACION",
    "organismo": "SERVICIO NACIONAL DE SALUD HOSPITAL DE C",
@@ -888,6 +888,91 @@
    "desaparecida_iso": ""
   },
   {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "aire acondicionado",
+    "eléctrico",
+    "instalaciones eléctricas",
+    "luminarias"
+   ],
+   "nueva": true,
+   "codigo": "4066-529-COT26",
+   "nombre": "SERVICIO DE MANTENCIÓN Y ADECUACIÓN DE INSTALACIONES ELÉCTRICAS EN EL GIMNASIO IND DE PUERTO INGENIERO IBÁÑEZ",
+   "organismo": "I MUNICIPALIDAD RIO IBANEZ",
+   "unidad": "DIDECO",
+   "monto": 728700,
+   "cierre_iso": "2026-11-19T12:00:00-03:00",
+   "publicacion": "18-11 11:59",
+   "publicacion_iso": "2026-11-18T11:59:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "42191701",
+     "Servicio eléctrico o de gas médico",
+     1,
+     "SERVICIO INTEGRAL DE MANTENCIÓN Y ADECUACIÓN ELÉCTRICA EXCLUSIVAMENTE EN EL GIMNASIO IND DE PUERTO INGENIERO IBÁÑEZ. EL SERVICIO BUSCA CORREGIR LA INTERCONEXIÓN NO DESEADA ENTRE EL ALUMBRADO Y EL EQUIPO DE AIRE ACONDICIONADO, RENOVAR OCHO LUMINARIAS INTERIORES Y REALIZAR DOS ADECUACIONES ELÉCTRICAS ADICIONALES, TODAS UBICADAS DENTRO DE ESTE MISMO RECINTO, SEGUN TERMINOS DE REFERENCIA ADJUNTO."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=4066-529-COT26",
+   "sin_detalle": false,
+   "descripcion": "LA ILUSTRE MUNICIPALIDAD DE RÍO IBÁÑEZ, A TRAVÉS DE LA UNIDAD REQUIRENTE, REQUIERE CONTRATAR LA EJECUCIÓN DE TRABAJOS DE MANTENCIÓN Y ADECUACIÓN ELÉCTRICA EXCLUSIVAMENTE EN EL GIMNASIO IND DE PUERTO INGENIERO IBÁÑEZ. EL SERVICIO BUSCA CORREGIR LA INTERCONEXIÓN NO DESEADA ENTRE EL ALUMBRADO Y EL EQUIPO DE AIRE ACONDICIONADO, RENOVAR OCHO LUMINARIAS INTERIORES Y REALIZAR DOS ADECUACIONES ELÉCTRICAS ADICIONALES, TODAS UBICADAS DENTRO DE ESTE MISMO RECINTO.",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "certificación sec"
+   ],
+   "nueva": true,
+   "codigo": "2713-1424-COT26",
+   "nombre": "Luces LED para Navidad 2026 - DAOMA - 1526",
+   "organismo": "I MUNICIPALIDAD DE AYSEN",
+   "unidad": "I.MUNICIPALIDAD AYSEN-ADQUISICIONES",
+   "monto": 5755000,
+   "cierre_iso": "2026-11-19T13:00:00-03:00",
+   "publicacion": "18-11 11:46",
+   "publicacion_iso": "2026-11-18T11:46:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "39111514",
+     "Luces de árboles",
+     4,
+     "Cinta LED 220 V simple blanco frio 5050 14,4 W, m 60 LED/m IP68 100 metros. Certificación SEC. No se requiere ficha técnica."
+    ],
+    [
+     "39111514",
+     "Luces de árboles",
+     4,
+     "Cinta LED 220 V simple azul 5050 14,4 W, m 60 LED/m IP68 100 metros. Certificación SEC. No se requiere ficha técnica"
+    ],
+    [
+     "39111514",
+     "Luces de árboles",
+     100,
+     "Unión de silicona para manguera LED pines 10 mm. Revestimineto plastico"
+    ],
+    [
+     "39111514",
+     "Luces de árboles",
+     20,
+     "Tiras de 100 luces LED de 10 mts cable de goma interconectables IP 44, luz Cálida. Certificación SEC."
+    ],
+    [
+     "39111514",
+     "Luces de árboles",
+     30,
+     "Tira de 100 luces LED De 10 mts cable de goma interconectables IP 44, Luz fria. Certificación SEC"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=2713-1424-COT26",
+   "sin_detalle": false,
+   "descripcion": "Adquisición de luces LED para Navidad, según detalle del ítem, las ofertas deberán: incluir la totalidad de los productos solicitados, ajustarse al presupuesto disponible, el oferente asumirá COSTO DE TRANSPORTE (no desglosarlo como ítem aparte), debe indicar plazo de entrega (no se aceptara plazo de despacho y el plazo de entrega iniciará el día hábil subsiguiente al envío de la OC), presentar certificaciones SEC solicitadas. Ofertas que no cumplan con lo anterior serán rechazadas.",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
    "tipo": "OPORTUNIDAD",
    "motivos": [
     "Enfriamiento (aires acondicionados)"
@@ -1129,35 +1214,6 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=1905-88-COT26",
    "sin_detalle": false,
    "descripcion": "Servicio de mejoramiento de calefacción de aire acondicionado en oficina de Puerto Aysén y Coyhaique. Favor (revisar los TDR en los archivos adjuntos y fechas de visita en terreno)",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
-  {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Cajas y accesorios eléctricos"
-   ],
-   "nueva": true,
-   "codigo": "2042-424-COT26",
-   "nombre": "Adquisición de insumos eléctricos para mejoramiento de infraestructura municipal.",
-   "organismo": "I MUNICIPALIDAD DE TORTEL",
-   "unidad": "Ilustre Municipalidad de Tortel",
-   "monto": 350000,
-   "cierre_iso": "2026-11-23T13:00:00-03:00",
-   "publicacion": "18-11 10:39",
-   "publicacion_iso": "2026-11-18T10:39:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "39121311",
-     "Accesorios eléctricos",
-     1,
-     "Se requiere la compra de elementos de electricidad para mejoramiento en conexiones eclécticas, instalación y retiro de luminaria en plazas en sector rotonda y reemplazo de iluminación el letrero de bienvenida Tortel, Según solicitud adjunta"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=2042-424-COT26",
-   "sin_detalle": false,
-   "descripcion": "Se requiere la compra de elementos de electricidad para mejoramiento en conexiones eclécticas, instalación y retiro de luminaria en plazas en sector rotonda y reemplazo de iluminación el letrero de bienvenida Tortel.",
    "en_gracia": false,
    "desaparecida_iso": ""
   },

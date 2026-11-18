@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-11-18T11:00:25.706053-03:00",
+ "actualizado": "2026-11-18T12:00:27.349811-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
- "total_region": 306,
+ "total_region": 327,
  "rubros": {
   "80141600": "Ventas y marketing",
   "82101600": "Publicidad en medios no impresos",
@@ -561,7 +561,7 @@
    "motivos": [
     "Ventas y marketing"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "1201-206-COT26",
    "nombre": "SERVICIO DE SONIDO – AMPLIFICACIÓN - ANIMACIÓN  EVENTOS SUB10 – SUB12 – JUVENIL JUEGOS DEPORTIVOS ESCOLARES 2026",
    "organismo": "INSTITUTO NACIONAL DE DEPORTES DE CHILE",
@@ -611,6 +611,82 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=885-925-COT26",
    "sin_detalle": false,
    "descripcion": "Se requiere contratar el mantenimiento correctivo del vehículo Nissan X-Trail, patente DTDG-37, de la Contraloría Regional de Aysé",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Ventas y marketing"
+   ],
+   "nueva": true,
+   "codigo": "2713-1404-COT26",
+   "nombre": "Servicio de producción de 3 jornadas de Baño de Naturaleza  - Folio 1492 - DIDECO",
+   "organismo": "I MUNICIPALIDAD DE AYSEN",
+   "unidad": "I.MUNICIPALIDAD AYSEN-ADQUISICIONES",
+   "monto": 1900000,
+   "cierre_iso": "2026-11-19T11:52:00-03:00",
+   "publicacion": "16-11 17:29",
+   "publicacion_iso": "2026-11-16T17:29:00-03:00",
+   "ofertas": 2,
+   "productos": [
+    [
+     "78111803",
+     "Servicios de autobuses contratados",
+     3,
+     "Minibús de 20 a 25 pasajeros para 3 viajes de ida y regreso (20, 21 y 22 de noviembre), de 09:00 a 13:00 h, entre la Plaza de Armas de Puerto Aysén y la Reserva Nacional Río Simpson. Vehículo de 10 años o menos, con cinturones en todos los asientos y calefacción o aire acondicionado. Conductor con licencia profesional A2 o A3 (no clase B). Vehículo de reemplazo en caso de panne. Adjuntar padrón, revisión técnica, permiso de circulación, SOAP, licencia, foto y autorización según EETT."
+    ],
+    [
+     "80141618",
+     "Agencias de marketing de ventas, incluidas las impresiones",
+     51,
+     "Ticket de entrada a la Reserva Nacional Río Simpson para cada participante, incluido el equipo ejecutor: 17 por jornada, 51 en total, para los días 20, 21 y 22 de noviembre. El municipio entregará la lista de asistentes con los datos para emitir los tickets. Después de cada salida, se debe entregar el ticket o código QR al equipo de PROMOS como medio de verificación."
+    ],
+    [
+     "86111604",
+     "Capacitación a empleados",
+     3,
+     "Monitor/a de baño de naturaleza o bosque para 3 jornadas (20, 21 y 22 de noviembre), de 09:00 a 13:00 h, en la Reserva Nacional Río Simpson, con 17 participantes por jornada. Cada sesión debe durar al menos 2 horas en la reserva e incluir 4 pasos: respiración, activación de los sentidos, contemplación y cierre. Adjuntar CV del monitor/a y certificado o diploma en baños de bosque o naturaleza, o certificado de experiencia en un servicio similar."
+    ],
+    [
+     "93131607",
+     "Servicios de distribución de alimentos",
+     51,
+     "Colación individual en bolsa individual: 17 por jornada, 51 en total, para los días 20, 21 y 22 de noviembre. Cada bolsa debe contener 1 jugo o agua sin gas en formato individual, 1 barra de cereal y 1 fruta entera lavada (plátano, manzana o naranja). Se entrega en cada salida. Adjuntar el detalle de los productos (marca y formato)."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=2713-1404-COT26",
+   "sin_detalle": false,
+   "descripcion": "Servicio integral para 3 jornadas de Baño de Naturaleza en la Reserva Nacional Río Simpson, los días 20, 21 y 22 de noviembre, de 09:00 a 13:00 h, con salida y regreso desde la Plaza de Armas de Puerto Aysén (17 participantes por jornada). Incluye: monitor/a certificado/a, transporte en minibús de 20 a 25 pasajeros (ida y vuelta), 51 entradas a la reserva y 51 colaciones individuales. Presupuesto máximo $1.900.000 IVA incluido. Revisar EETT y adjuntar la documentación solicitada.",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Ventas y marketing"
+   ],
+   "nueva": true,
+   "codigo": "4609-322-COT26",
+   "nombre": "SERVICIO DE PRODUCCION TECNICA",
+   "organismo": "I MUNICIPALIDAD DE CHILE CHICO",
+   "unidad": "Finanzas",
+   "monto": 2610000,
+   "cierre_iso": "2026-11-19T12:00:00-03:00",
+   "publicacion": "18-11 11:58",
+   "publicacion_iso": "2026-11-18T11:58:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "80141607",
+     "Producción de eventos",
+     1,
+     "SERVICIO DE PRODUCCION TECNICA PARA ENCUENTRO FOLCLORICO CHILE CHICO 2026. (Detalle archivos adjunto)."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=4609-322-COT26",
+   "sin_detalle": false,
+   "descripcion": "COTIZACION SERVICIO DE PRODUCCION TECNICA - ENCUENTRO FOLCLORICO CHILE CHICO",
    "en_gracia": false,
    "desaparecida_iso": ""
   },
@@ -815,6 +891,35 @@
    "desaparecida_iso": ""
   },
   {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Publicidad en medios no impresos"
+   ],
+   "nueva": true,
+   "codigo": "1195-591-COT26",
+   "nombre": "SERVICIO DE DIFUSION PARA PROYECTO DE RECICLAJE",
+   "organismo": "I MUNICIPALIDAD DE COYHAIQUE",
+   "unidad": "Ilustre Municipalidad de Coyhaique",
+   "monto": 324000,
+   "cierre_iso": "2026-11-20T08:00:00-03:00",
+   "publicacion": "18-11 11:54",
+   "publicacion_iso": "2026-11-18T11:54:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "82101602",
+     "Publicidad en televisión",
+     1,
+     "SERVICIO DE GRABACION EDICION Y TRANSMISION DE CAPSULAS 4 HORAS MENSUALES (NOVIEMBRE-DICIEMBRE).DEBE INCLUIR BANNER PUBLICITARIO DE 20 A 29 MINUTOS,1 VEZ POR SEMANA.TRANSMISION POR TV EN RRSS(FACEBOOK YOUTUBE),SITIO WEB,STREAMIGN EN TV  24 HORAS ROTATIVO.SE PRIORIZARA PROVEEDOR LOCAL."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1195-591-COT26",
+   "sin_detalle": false,
+   "descripcion": "SERVICIO DE GRABACION EDICION Y TRANSMISION DE CAPSULAS 4 HORAS MENSUALES (NOVIEMBRE-DICIEMBRE).DEBE INCLUIR BANNER PUBLICITARIO DE 20 A 29 MINUTOS,1 VEZ POR SEMANA.TRANSMISION POR TV EN RRSS(FACEBOOK YOUTUBE),SITIO WEB,STREAMIGN EN TV  24 HORAS ROTATIVO.SE PRIORIZARA PROVEEDOR LOCAL.",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
    "tipo": "POSIBLE",
    "motivos": [
     "television",
@@ -876,6 +981,64 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=2495-654-COT26",
    "sin_detalle": false,
    "descripcion": "Se requiere adquirir premios para la realización de una actividad recreativa de bingo dirigida a personas mayores. Su adquisición busca incentivar la asistencia, participación, promover la convivencia, la integración y el bienestar de las personas mayores para contribuir a prevenir situaciones de aislamiento social. La actividad se enmarca en las acciones municipales de promoción de un envejecimiento activo de espacios de encuentro y recreación,  térmi de referencia y cotizaci adjunta.",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "difusion"
+   ],
+   "nueva": true,
+   "codigo": "1758-301-COT26",
+   "nombre": "ADQUISICION DE RECARGAS DE AGUA DE 20 LITROS EN EL MARCO DE LA DIFUSION DEL PLAN CHILE APRENDE Y AVANZA MINEDUC",
+   "organismo": "SECRETARIA REGIONAL MINISTERIAL DE EDUCACION XI REGION",
+   "unidad": "Mineduc Administración XI Región",
+   "monto": 50000,
+   "cierre_iso": "2026-11-20T11:00:00-03:00",
+   "publicacion": "18-11 11:42",
+   "publicacion_iso": "2026-11-18T11:42:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "50202301",
+     "Agua",
+     6,
+     "06 RECARGAS DE AGUA DE 20 LITROS."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1758-301-COT26",
+   "sin_detalle": false,
+   "descripcion": "SE REQUIERE ADQUIRIR 06 RECARGAS DE AGUA DE 20 LTS. EN EL MARCO DIFUSION DEL PLAN CHILE APRENDE Y AVANZA DEL MINISTERIO DE EDUCACION A REALIZARSE EL 28 DE NOVIEMBRE EN BYPASS DE LA CIUDAD DE COYHAIQUE.\nENTREGA EN FCO. BILBAO 540 GABINETE, SECREDUC.",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "difusion"
+   ],
+   "nueva": true,
+   "codigo": "1758-300-COT26",
+   "nombre": "SERVICIO DE MAQILLAJE ARTISTICO \"PINTACARITAS\" EN EL MARCO DIFUSION DEL PLAN CHILE APRENDE Y AVANZA DEL MINISTERIO DE EDUCACION",
+   "organismo": "SECRETARIA REGIONAL MINISTERIAL DE EDUCACION XI REGION",
+   "unidad": "Mineduc Administración XI Región",
+   "monto": 300000,
+   "cierre_iso": "2026-11-20T11:00:00-03:00",
+   "publicacion": "18-11 11:05",
+   "publicacion_iso": "2026-11-18T11:05:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "60121206",
+     "Pintura de maquillaje",
+     1,
+     "SERVICIO DE MAQUILLAJE ARTISTICO \"PINTACARITAS\" DIFUSION DEL PLAN CHILE APRENDE Y AVANZA EL 28 DE NOVIEMBRE EN LA CIUDAD DE COYHAIQUE.\nSE ADJUNTA DETALLE."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1758-300-COT26",
+   "sin_detalle": false,
+   "descripcion": "SE REQUIERE CONTRATAR SERVICIO DE  MAQILLAJE ARTISTICO \"PINTACARITAS\" EN EL MARCO DIFUSION DEL PLAN CHILE APRENDE Y AVANZA DEL MINISTERIO DE EDUCACION A REALIZARSE EL 28 DE NOVIEMBRE EN BYPASS DE LA CIUDAD DE COYHAIQUE.",
    "en_gracia": false,
    "desaparecida_iso": ""
   },
@@ -1000,24 +1163,6 @@
    "primera_vista_iso": "2026-11-12T09:58:37-03:00",
    "removida_iso": "2026-11-18T05:00:28-03:00",
    "estado_api": "",
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "2713-1404-COT26",
-   "nombre": "Servicio de producción de 3 jornadas de Baño de Naturaleza  - Folio 1492 - DIDECO",
-   "organismo": "I MUNICIPALIDAD DE AYSEN",
-   "monto": 1900000,
-   "cierre_iso": "2026-11-17T17:35:00-03:00",
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Ventas y marketing"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=2713-1404-COT26",
-   "primera_vista_iso": "2026-11-16T18:00:29-03:00",
-   "removida_iso": "2026-11-17T18:00:22-03:00",
-   "estado_api": null,
    "adj_nombre": null,
    "adj_monto": null,
    "adj_iso": null
