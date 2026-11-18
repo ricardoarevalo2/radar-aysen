@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-11-18T13:00:27.518956-03:00",
+ "actualizado": "2026-11-18T14:00:25.336566-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
- "total_region": 326,
+ "total_region": 327,
  "rubros": {
   "80141600": "Ventas y marketing",
   "82101600": "Publicidad en medios no impresos",
@@ -14,70 +14,6 @@
   "83121700": "Comunicación social y de masas"
  },
  "filas": [
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "publicitaria"
-   ],
-   "nueva": false,
-   "codigo": "1182705-216-COT26",
-   "nombre": "ADQUISICION DE PIN REDONDO CON LOGO INSTITUCIONAL, FOLIO 233",
-   "organismo": "CENTRO DE FORMACIÓN TÉCNICA DE LA REGIÓN DE AYSÉN DEL GENERAL CARLOS I",
-   "unidad": "FINANZAS",
-   "monto": 558000,
-   "cierre_iso": "2026-11-18T13:00:00-03:00",
-   "publicacion": "17-11 12:31",
-   "publicacion_iso": "2026-11-17T12:31:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "82121505",
-     "Impresión promocional o publicitaria",
-     200,
-     "Pin redondo de 2,5 cm de base metálica dorada con impresión de logo institucional y resina dome con imán posterior. Debe incluir entrega en Puerto Aysén. (adjuntar cotización, ficha técnica y experiencia)"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1182705-216-COT26",
-   "sin_detalle": false,
-   "descripcion": "Se requiere la compra de pin redondo con logo institucional para el CFT de la Región de Aysén, Los productos deben ser entregados en oficina ubicado en Sargento Alea 533, Puerto Aysén.",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
-  {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Publicidad en medios no impresos"
-   ],
-   "nueva": false,
-   "codigo": "2713-1410-COT26",
-   "nombre": "Servicio radial y cobertura radial - DIDECO - Promos - 1470",
-   "organismo": "I MUNICIPALIDAD DE AYSEN",
-   "unidad": "I.MUNICIPALIDAD AYSEN-ADQUISICIONES",
-   "monto": 600000,
-   "cierre_iso": "2026-11-18T13:00:00-03:00",
-   "publicacion": "17-11 12:08",
-   "publicacion_iso": "2026-11-17T12:08:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "82101601",
-     "Publicidad en radio",
-     3,
-     "PROGRAMA RADIAL MULTIPLATAFORMA DE 30 MINUTOS"
-    ],
-    [
-     "82101601",
-     "Publicidad en radio",
-     3,
-     "COBERTURA DE ACTIVIDADES EN VIVO CON NOTAS BREVES"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=2713-1410-COT26",
-   "sin_detalle": false,
-   "descripcion": "Servicio radial y cobertura en vivo de actividades, según detalle del anexo adjunto, las ofertas deberán: incluir la totalidad de los productos y servicios solicitados, ajustarse al presupuesto disponible , el oferente asumirá COSTO DE TRANSPORTE (no desglosarlo como ítem aparte), actividades según EETT, en el lugar y a la hora indicada previa coordinación con el encargado. Ofertas que no cumplan con lo anterior serán rechazada. Servicio sujeto a multas según bases técnicas.",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
   {
    "tipo": "POSIBLE",
    "motivos": [
@@ -898,6 +834,35 @@
   {
    "tipo": "OPORTUNIDAD",
    "motivos": [
+    "Publicidad en medios no impresos"
+   ],
+   "nueva": true,
+   "codigo": "1195-593-COT26",
+   "nombre": "SERVICIO DE DIFUSION PARA PROYECTO DE RECICLAJE",
+   "organismo": "I MUNICIPALIDAD DE COYHAIQUE",
+   "unidad": "Ilustre Municipalidad de Coyhaique",
+   "monto": 400000,
+   "cierre_iso": "2026-11-19T13:45:00-03:00",
+   "publicacion": "18-11 13:25",
+   "publicacion_iso": "2026-11-18T13:25:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "82101603",
+     "Publicidad en Internet",
+     1,
+     "SE REQUIERE CONTRATAR UN MEDIO DE COMUNICACION REGIONAL PARA LA GABACION, EDICION Y DIFUSION DE CAPSULAS AUDIOVISUALES CONSIDERANDO 4 HRS MENSUALES(NOVIEMBRE DICIEMBRE),PUBLICACIONES SEMANALS DE 20 A 29 MINUTOS,BANNER PUBLICITARIO Y DIFUSION EN RRSS,SITIO WEB,TELEVISION DIGITAL Y STREAMING.SE PRIORIZARA PROVEEDOR LOCAL CON COBERTURA EN LA REGION DE AYSEN."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1195-593-COT26",
+   "sin_detalle": false,
+   "descripcion": "SE REQUIERE CONTRATAR UN MEDIO DE COMUNICACION REGIONAL PARA LA GABACION, EDICION Y DIFUSION DE CAPSULAS AUDIOVISUALES CONSIDERANDO 4 HRS MENSUALES(NOVIEMBRE DICIEMBRE),PUBLICACIONES SEMANALS DE 20 A 29 MINUTOS,BANNER PUBLICITARIO Y DIFUSION EN RRSS,SITIO WEB,TELEVISION DIGITAL Y STREAMING.SE PRIORIZARA PROVEEDOR LOCAL CON COBERTURA EN LA REGION DE AYSEN.",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
     "Ventas y marketing"
    ],
    "nueva": true,
@@ -1297,6 +1262,42 @@
   }
  ],
  "historial": [
+  {
+   "codigo": "1182705-216-COT26",
+   "nombre": "ADQUISICION DE PIN REDONDO CON LOGO INSTITUCIONAL, FOLIO 233",
+   "organismo": "CENTRO DE FORMACIÓN TÉCNICA DE LA REGIÓN DE AYSÉN DEL GENERAL CARLOS I",
+   "monto": 558000,
+   "cierre_iso": "2026-11-18T13:00:00-03:00",
+   "tipo": "POSIBLE",
+   "motivos": [
+    "publicitaria"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1182705-216-COT26",
+   "primera_vista_iso": "2026-11-17T13:00:25-03:00",
+   "removida_iso": "2026-11-18T14:00:25-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
+  {
+   "codigo": "2713-1410-COT26",
+   "nombre": "Servicio radial y cobertura radial - DIDECO - Promos - 1470",
+   "organismo": "I MUNICIPALIDAD DE AYSEN",
+   "monto": 600000,
+   "cierre_iso": "2026-11-18T13:00:00-03:00",
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Publicidad en medios no impresos"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=2713-1410-COT26",
+   "primera_vista_iso": "2026-11-17T13:00:25-03:00",
+   "removida_iso": "2026-11-18T14:00:25-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
   {
    "codigo": "4066-518-COT26",
    "nombre": "Servicio de producción de eventos feria de turismo rural en Bahía Murta 2026",
