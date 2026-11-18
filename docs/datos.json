@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-11-18T08:00:29.003890-03:00",
+ "actualizado": "2026-11-18T09:00:28.397580-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
- "total_region": 323,
+ "total_region": 322,
  "rubros": {
   "80141600": "Ventas y marketing",
   "82101600": "Publicidad en medios no impresos",
@@ -14,43 +14,6 @@
   "83121700": "Comunicación social y de masas"
  },
  "filas": [
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "difusión",
-    "publicidad",
-    "publicitarios"
-   ],
-   "nueva": false,
-   "codigo": "2495-669-COT26",
-   "nombre": "set de herramientas ludicas Centro de las Mujeres",
-   "organismo": "I MUNICIPALIDAD DE COYHAIQUE",
-   "unidad": "DIRECCION DESARROLLO COMUNITARIO",
-   "monto": 200000,
-   "cierre_iso": "2026-11-18T08:00:00-03:00",
-   "publicacion": "16-11 14:46",
-   "publicacion_iso": "2026-11-16T14:46:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "60105412",
-     "Materiales educativos de prevención de la violencia o educación de elusión de la violencia",
-     1,
-     "tela PVC, 60*90 cm. que contara con el diseño del efecto iceberg de violencia y contar con hilo para poder colgarse y estuche para transportar."
-    ],
-    [
-     "82101507",
-     "Folletos y catálogos publicitarios, servicios de publicidad y distribución",
-     20,
-     "20 tarjertas con expresiones de violencia de genero, cada tarjeta debe medir 13x7 cm. estar impresa en opalina y contar con un velcro en la parte posterior (adjunto anexo)"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=2495-669-COT26",
-   "sin_detalle": false,
-   "descripcion": "Se requiere la adquisición de set de herramientas ludicas para apoyar las actividades de difusión, promoción del Centro de las Mujeres. 1 pendon Tela PVC diseño grafico adjunto anexo, agregar estuche para transportarlo. Y, 20 tarjetas con expresiones de violencia, se adjunta anexo. Se solicita que los materiales sean nuevos, de buena calidad y que cumplan íntegramente con las especificaciones técnicas requeridas (anexo)",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
   {
    "tipo": "OPORTUNIDAD",
    "motivos": [
@@ -840,6 +803,43 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=4066-527-COT26",
    "sin_detalle": false,
    "descripcion": "Servicio de producción de eventos llave en mano para el Lanzamiento de Temporada Turística 2026-2027 en Puerto Sánchez, el 5 de diciembre de 2026: vaquilla al palo para 300 personas, amplificación e iluminación, música regional y bailable en vivo, coffee break para 60 personas, 25 colaciones saludables y animador local. Presupuesto $7.150.000, impuesto incluido. Programa GORE Aysén, COD BIP 40066883-0. Requisitos y formatos en el TDR adjunto, revisar anexos.",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "difusión",
+    "publicidad",
+    "publicitarios"
+   ],
+   "nueva": false,
+   "codigo": "2495-669-COT26",
+   "nombre": "set de herramientas ludicas Centro de las Mujeres",
+   "organismo": "I MUNICIPALIDAD DE COYHAIQUE",
+   "unidad": "DIRECCION DESARROLLO COMUNITARIO",
+   "monto": 200000,
+   "cierre_iso": "2026-11-20T01:13:00-03:00",
+   "publicacion": "16-11 14:46",
+   "publicacion_iso": "2026-11-16T14:46:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "60105412",
+     "Materiales educativos de prevención de la violencia o educación de elusión de la violencia",
+     1,
+     "tela PVC, 60*90 cm. que contara con el diseño del efecto iceberg de violencia y contar con hilo para poder colgarse y estuche para transportar."
+    ],
+    [
+     "82101507",
+     "Folletos y catálogos publicitarios, servicios de publicidad y distribución",
+     20,
+     "20 tarjertas con expresiones de violencia de genero, cada tarjeta debe medir 13x7 cm. estar impresa en opalina y contar con un velcro en la parte posterior (adjunto anexo)"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=2495-669-COT26",
+   "sin_detalle": false,
+   "descripcion": "Se requiere la adquisición de set de herramientas ludicas para apoyar las actividades de difusión, promoción del Centro de las Mujeres. 1 pendon Tela PVC diseño grafico adjunto anexo, agregar estuche para transportarlo. Y, 20 tarjetas con expresiones de violencia, se adjunta anexo. Se solicita que los materiales sean nuevos, de buena calidad y que cumplan íntegramente con las especificaciones técnicas requeridas (anexo)",
    "en_gracia": false,
    "desaparecida_iso": ""
   },
