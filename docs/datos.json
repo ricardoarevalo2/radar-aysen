@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-11-18T17:00:27.303939-03:00",
+ "actualizado": "2026-11-18T18:00:27.025662-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
- "total_region": 331,
+ "total_region": 328,
  "rubros": {
   "80141600": "Ventas y marketing",
   "82101600": "Publicidad en medios no impresos",
@@ -14,142 +14,6 @@
   "83121700": "Comunicación social y de masas"
  },
  "filas": [
-  {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Ventas y marketing"
-   ],
-   "nueva": false,
-   "codigo": "4889-48-COT26",
-   "nombre": "Servicios integrales de producción para jornada de bienestar y formación CeCrea -  SEREMI de las Culturas, las Artes y el Patrimonio Región de Aysén",
-   "organismo": "Subsecretaria de las Culturas y las Artes Región de Aysen",
-   "unidad": "Consejo Regional de Cultura Región de Aysen",
-   "monto": 2000000,
-   "cierre_iso": "2026-11-18T17:52:00-03:00",
-   "publicacion": "06-11 10:07",
-   "publicacion_iso": "2026-11-06T10:07:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "80141607",
-     "Producción de eventos",
-     1,
-     "Servicios integrales de producción para jornada de bienestar y formación CeCrea. Detalle en PDF adjunto."
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=4889-48-COT26",
-   "sin_detalle": false,
-   "descripcion": "La Secretaría Regional Ministerial de las Culturas, las Artes y el Patrimonio de la Región de Aysén requiere contratar Servicios integrales de producción para jornada de bienestar y formación CeCrea",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
-  {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Ventas y marketing"
-   ],
-   "nueva": false,
-   "codigo": "2713-1399-COT26",
-   "nombre": "Producción \"Temporada de Cruceros 2026-2027\" - DIDECO - Turismo - 1497",
-   "organismo": "I MUNICIPALIDAD DE AYSEN",
-   "unidad": "I.MUNICIPALIDAD AYSEN-ADQUISICIONES",
-   "monto": 2000000,
-   "cierre_iso": "2026-11-18T17:54:00-03:00",
-   "publicacion": "16-11 16:03",
-   "publicacion_iso": "2026-11-16T16:03:00-03:00",
-   "ofertas": 2,
-   "productos": [
-    [
-     "80141607",
-     "Producción de eventos",
-     1,
-     "Presentación de espectáculo folclórico en vivo, considerando la participación de 8 integrantes, vestuario, traslados y costos asociados, para el día 07 de diciembre de 2026"
-    ],
-    [
-     "80141607",
-     "Producción de eventos",
-     1,
-     "Dos anfitriones personificados, incluyendo vestuario, caracterización, maquillaje, traslado, participación durante la actividad y costos asociados, para el día 07 de diciembre de 2026"
-    ],
-    [
-     "80141607",
-     "Producción de eventos",
-     1,
-     "Dos anfitriones personificados, incluyendo vestuario, caracterización, maquillaje, traslado, participación durante la actividad y costos asociados, para el día 11 de diciembre de 2026"
-    ],
-    [
-     "80141607",
-     "Producción de eventos",
-     1,
-     "Personal de atención (2 garzones), responsables de servir y atender a los asistentes de la actividad, para el día 07 de diciembre de 2026"
-    ],
-    [
-     "80141607",
-     "Producción de eventos",
-     1,
-     "Personal de atención (2 garzones), responsables de servir y atender a los asistentes de la actividad, para el día 11 de diciembre de 2026"
-    ],
-    [
-     "80141607",
-     "Producción de eventos",
-     1,
-     "Preparación y suministro de 250 sopaipillas acompañadas de pebre para el día 07 de diciembre de 2026"
-    ],
-    [
-     "80141607",
-     "Producción de eventos",
-     1,
-     "Preparación y suministro de 250 sopaipillas acompañadas de pebre para el día 11 de diciembre de 2026"
-    ],
-    [
-     "80141607",
-     "Producción de eventos",
-     1,
-     "Suministros de 250 jugos néctar en variedad de sabores, en vasos de 200 ml, para el día 07 de diciembre de 2026"
-    ],
-    [
-     "80141607",
-     "Producción de eventos",
-     1,
-     "Suministros de 250 jugos néctar en variedad de sabores, en vasos de 200 ml, para el día 11 de diciembre de 2026"
-    ],
-    [
-     "80141607",
-     "Producción de eventos",
-     1,
-     "Suministro de 100 aguas saborizadas, en vasos de 200 ml para el día 07 de diciembre de 2026"
-    ],
-    [
-     "80141607",
-     "Producción de eventos",
-     1,
-     "Suministro de 100 aguas saborizadas, en vasos de 200 ml para el día 11 de diciembre de 2026"
-    ],
-    [
-     "80141607",
-     "Producción de eventos",
-     1,
-     "Provisión, Traslado e instalación de equipo de amplificación, incluyendo micrófonos, cableado y pedestal correspondiente, para el día 07 de diciembre de 2026"
-    ],
-    [
-     "80141607",
-     "Producción de eventos",
-     1,
-     "Provisión, Traslado e instalación de equipo de amplificación, incluyendo micrófonos, cableado y pedestal correspondiente, para el día 11 de diciembre de 2026"
-    ],
-    [
-     "80141607",
-     "Producción de eventos",
-     30,
-     "Provisión, traslado, instalación, disposición y retiro de 30 sillas, para el día 07 de diciembre de 2026"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=2713-1399-COT26",
-   "sin_detalle": false,
-   "descripcion": "Servicio de producción de actividad \"Temporada de cruceros 2026-2027\", según detalle del anexo adjunto, las ofertas deberán: incluir la totalidad de los productos y servicios solicitados, ajustarse al presupuesto disponible , el oferente asumirá COSTO DE TRANSPORTE (no desglosarlo como ítem aparte), actividades según EETT, en el lugar y a la hora indicada previa coordinación con el encargado. Ofertas que no cumplan con lo anterior serán rechazada. Servicio sujeto a multas según bases técnicas.",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
   {
    "tipo": "POSIBLE",
    "motivos": [
@@ -1201,6 +1065,42 @@
   }
  ],
  "historial": [
+  {
+   "codigo": "2713-1399-COT26",
+   "nombre": "Producción \"Temporada de Cruceros 2026-2027\" - DIDECO - Turismo - 1497",
+   "organismo": "I MUNICIPALIDAD DE AYSEN",
+   "monto": 2000000,
+   "cierre_iso": "2026-11-18T17:54:00-03:00",
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Ventas y marketing"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=2713-1399-COT26",
+   "primera_vista_iso": "2026-11-16T16:44:10-03:00",
+   "removida_iso": "2026-11-18T18:00:27-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
+  {
+   "codigo": "4889-48-COT26",
+   "nombre": "Servicios integrales de producción para jornada de bienestar y formación CeCrea -  SEREMI de las Culturas, las Artes y el Patrimonio Región de Aysén",
+   "organismo": "Subsecretaria de las Culturas y las Artes Región de Aysen",
+   "monto": 2000000,
+   "cierre_iso": "2026-11-18T17:52:00-03:00",
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Ventas y marketing"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=4889-48-COT26",
+   "primera_vista_iso": "2026-11-10T19:26:29-03:00",
+   "removida_iso": "2026-11-18T18:00:27-03:00",
+   "estado_api": "",
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
   {
    "codigo": "2495-678-COT26",
    "nombre": "Servicios para jornada de encuentro y camaradería para personas mayores",

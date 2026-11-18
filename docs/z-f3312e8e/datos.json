@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-11-18T17:00:27.303939-03:00",
+ "actualizado": "2026-11-18T18:00:27.025662-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
- "total_region": 331,
+ "total_region": 328,
  "rubros": {
   "25172700": "Aire acondicionado",
   "25173900": "Componentes eléctricos",
@@ -19,64 +19,6 @@
   "39121400": "Conectores, enchufes y terminales"
  },
  "filas": [
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "eléctrico"
-   ],
-   "nueva": false,
-   "codigo": "4778-396-COT26",
-   "nombre": "RELE-SOLICITUD N° 3309-2026-MANTENCION PREVENTIVA, CALIBRACION SISTEMA PHILIPS AFFINITI, SE REQUIERE CARTA DE REPRESENTACION,COTIZACION",
-   "organismo": "SERVICIO NACIONAL DE SALUD HOSPITAL DE C",
-   "unidad": "Compras de Insumos y Servicios Generales",
-   "monto": null,
-   "cierre_iso": "2026-11-18T17:00:00-03:00",
-   "publicacion": "17-11 11:06",
-   "publicacion_iso": "2026-11-17T11:06:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "42201718",
-     "Ecógrafos oftalmológicos",
-     1,
-     "MANTENCION PREVENTIVA AFFINITI 50 (MP - ECOTOMOGRAFO AFFINITI 5O Gl)"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=4778-396-COT26",
-   "sin_detalle": false,
-   "descripcion": "Limpieza profunda de filtros de aire y ventiladores.El sobrecalentamiento es causa principal de fallas en tarjetas de procesamiento de imagen de Affiniti.Integridad de Puertos:Revisión física de los conectores de Transductores(pines doblados o sucios)para evitar pérdida de señal o ruido eléctrico.Monitor y Brazo Articulado:Calibración de color/brillo del monitor médico,ajuste de frenos,articulaciones de brazo para ergonomía del usuario.Periféricos y Conectividad,SE REQUIERE CARTA REPRESENTACION",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
-  {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Suministros y accesorios eléctricos"
-   ],
-   "nueva": true,
-   "codigo": "1691-2128-COT26",
-   "nombre": " EFCC- ASAS DE RECECTOSCOPIO COD.: 27050 G K.STORZ UD PARA REPOSICIÓN DE INS. CLINICOS HRC",
-   "organismo": "SERVICIO NACIONAL DE SALUD HOSPITAL DE C",
-   "unidad": "Compras de Insumos Clínicos",
-   "monto": 1720000,
-   "cierre_iso": "2026-11-18T17:18:00-03:00",
-   "publicacion": "16-11 12:22",
-   "publicacion_iso": "2026-11-16T12:22:00-03:00",
-   "ofertas": 1,
-   "productos": [
-    [
-     "39121720",
-     "Asas de transformadores",
-     30,
-     "CÓD - 42340118-96-147 ASAS DE RECECTOSCOPIO COD.: 27050 G K.STORZ UD"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1691-2128-COT26",
-   "sin_detalle": false,
-   "descripcion": "ASAS DE RECECTOSCOPIO COD.: 27050 G K.STORZ UD PARA REPOSICIÓN DE INSUMOS CLÍNICOS DEL HRC. LOS PRECIOS OFERTADOS DEBEN INCLUIR TODOS LOS COSTOS ASOCIADOS, INCLUDIOS FLETES HASTA LA DIRECCIÓN DE DESPACHO ESTABLECIDA.LAS PROPUESTAS DEBEN AJUSTARSE ESTRÍCTAMENTE A LAS CARACTERÍSTICAS TÉCNICAS INDICADAS EN CADA REQUERIMIENTO. SE SOLICITA ADJUNTAR FICHA TÉCNICA CORRESPONDIENTE A LOS PRODUCTOS OFRECIDOS. SE SOLICITA COTIZACIÓN POR 30 DÍAS. SE SOLICITA 1 GUÍA DE DESPACHO DENTRO DE LA CAJA.",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
   {
    "tipo": "POSIBLE",
    "motivos": [
@@ -932,6 +874,235 @@
    "desaparecida_iso": ""
   },
   {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Cajas y accesorios eléctricos",
+    "Conectores, enchufes y terminales",
+    "Interruptores, controles y relés"
+   ],
+   "nueva": true,
+   "codigo": "1092-89-COT26",
+   "nombre": " SIC N°464 SIRE N°449 Materiales de construcción DEPRIF",
+   "organismo": "CORP NACIONAL FORESTAL",
+   "unidad": "XI Región - Oficina Regional de Aysén",
+   "monto": 2382419,
+   "cierre_iso": "2026-11-19T15:00:00-03:00",
+   "publicacion": "13-11 12:57",
+   "publicacion_iso": "2026-11-13T12:57:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "12163101",
+     "Aditivos Anti saca-arena",
+     1,
+     "Aditivo impermeabilizante líquido igual o equivalente sika."
+    ],
+    [
+     "13101905",
+     "Melamina (MF)",
+     9,
+     "Terciado ranurado revest pino colonial 9 x 122 x 244cm"
+    ],
+    [
+     "13101905",
+     "Melamina (MF)",
+     1,
+     "OSB 9,5mm 122x244 APA similar o equivalente a Protec"
+    ],
+    [
+     "13102013",
+     "Policarbonato (PC)",
+     1,
+     "Policarbonato Alveolar 4 mm 210 x 580cm Transparente"
+    ],
+    [
+     "13111016",
+     "Polietileno",
+     1,
+     "Polietileno transparente 4x10m (40m2)"
+    ],
+    [
+     "30102903",
+     "Pilares de metal",
+     4,
+     "Pilar de fierro 15x15cm de 3 ms en FE 8 mm"
+    ],
+    [
+     "30103603",
+     "Madera de encuadre",
+     30,
+     "Madera pino cepillada 2x3x3,20"
+    ],
+    [
+     "30103603",
+     "Madera de encuadre",
+     6,
+     "Madera pino verde 2 x 3 x 3,20 bruto"
+    ],
+    [
+     "30111601",
+     "Cemento",
+     10,
+     "Cemento azul PCR 25kg (el saco azul (CPP40) es un cemento Portland Puzolánico resistente a sulfatos y ambientes húmedos o salinos)"
+    ],
+    [
+     "30111601",
+     "Cemento",
+     35,
+     "Cemento rojo alta resistencia PCR 25kg (el saco rojo (CPN40) es un cemento Portland Normal de alta resistencia inicial para uso general)"
+    ],
+    [
+     "30111601",
+     "Cemento",
+     50,
+     "Sacos de hormigón preparado H20 25kg"
+    ],
+    [
+     "31161506",
+     "Tornillos roscalata",
+     1,
+     "Tornillo autoperforante hexagonal punta espada 10 - 12 x1 1/2  caja/bolsa 500u c/u"
+    ],
+    [
+     "31161508",
+     "Tornillos para madera",
+     2,
+     "Tornillos volcanita CRS 6 x 2 caja/bolsa de 500u c/u"
+    ],
+    [
+     "31161508",
+     "Tornillos para madera",
+     2,
+     "Tornillo Volcanita CRS 8 x 3 caja/bolsa 500u c/u"
+    ],
+    [
+     "31201515",
+     "Cintas de papel",
+     3,
+     "Cinta masking tape (Enmascarar) 36mm x 40m"
+    ],
+    [
+     "31211501",
+     "Pinturas al esmalte",
+     3,
+     "Esmalte agua color blanco Acabado Semibrillante\nAntimoho\nInterior y exterior\nCon protección UV\nResistente al agua\nSuperficie de aplicación Madera, Yeso, Concreto, Hormigón\nExtra lavable, alto rendimiento y con antihongos."
+    ],
+    [
+     "31211705",
+     "Barniza de laca",
+     2,
+     "Barniz marino brillante natural igual o equivalente ceresita"
+    ],
+    [
+     "31211904",
+     "Brochas",
+     4,
+     "Brochas 4\""
+    ],
+    [
+     "31211904",
+     "Brochas",
+     4,
+     "Brochas 2\""
+    ],
+    [
+     "31211906",
+     "Rodillos de pintar",
+     4,
+     "Rodillos chiporro 18/7 igual o equivalente a lizcal"
+    ],
+    [
+     "39101608",
+     "Focos cialiticos",
+     7,
+     "Foco Led Sobrepuestos Redondos 18w 6500k LF.\nCon certificación SEC."
+    ],
+    [
+     "39121205",
+     "Canaletas para cables",
+     10,
+     "Canaleta eléctricas 20x10x2mt con adhesivo.\nCon certificación SEC."
+    ],
+    [
+     "39121310",
+     "Cajas de uso general",
+     7,
+     "Caja Chuqui Plástica Libre de Halógenos 125x81x45.\nCon certificación SEC."
+    ],
+    [
+     "39121424",
+     "Tapas de tablero de bornes",
+     1,
+     "Tablero eléctrico embutido con puerta transparente 4 polos Grado de protección IP\tIP 42.\nCon certificación SEC"
+    ],
+    [
+     "39121511",
+     "Interruptores variables",
+     1,
+     "Interruptor Diferencial 2x25A 30ma equivalente a Stanford.\nCon certificación SEC."
+    ],
+    [
+     "39121511",
+     "Interruptores variables",
+     5,
+     "Interruptor doble 9/15 ARN LUZICA PU1200. \nCon certificación SEC."
+    ],
+    [
+     "39121511",
+     "Interruptores variables",
+     2,
+     "Interruptor simple 9/12 ARN LUZICA PU1100.\nCon certificación SEC."
+    ],
+    [
+     "40101825",
+     "Calentadores de agua de uso doméstico",
+     1,
+     "Calefón 11 litros igual o equivalente a ION MASTER SPLENDID\nEncendido automático\n6 sistema de seguridad\nAjuste de temperatura\nEncendido electrónico\nAlimentación Gas Licuado\nCaudal de agua (L/min) 11 l/min\nPotencia 18 kW\nTipo de encendido Ionizado\nIncluye flexibles de 200mm\nTiro Natural"
+    ],
+    [
+     "40142610",
+     "Acoplamientos de tubo",
+     25,
+     "Unión americana PPR 25mm"
+    ],
+    [
+     "40142612",
+     "Adaptadores de tubo",
+     10,
+     "Tubos PPR 25mm x 6m PN20"
+    ],
+    [
+     "40142613",
+     "Conectores de tubo",
+     10,
+     "Llave paso PPR 25mm cromo"
+    ],
+    [
+     "40142613",
+     "Conectores de tubo",
+     30,
+     "Copla 25mm PPR"
+    ],
+    [
+     "40142613",
+     "Conectores de tubo",
+     30,
+     "Terminal 25 x 3/4 HE PPR"
+    ],
+    [
+     "40142613",
+     "Conectores de tubo",
+     30,
+     "Terminal 25 x 3/4 HI PPR"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1092-89-COT26",
+   "sin_detalle": false,
+   "descripcion": "La Corporación Nacional Forestal por medio del Departamento de Protección Contra Incendios Forestales Región de Aysén, requiere la adquisición de Materiales de Construcción para las Brigadas de Coyhaique y Chile Chico Región de Aysén. No se cancela costos asociados al flete. (Ver especificaciones técnicas adjuntas).",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
    "tipo": "POSIBLE",
    "motivos": [
     "iluminación"
@@ -1104,6 +1275,35 @@
   {
    "tipo": "POSIBLE",
    "motivos": [
+    "eléctrico"
+   ],
+   "nueva": false,
+   "codigo": "4778-396-COT26",
+   "nombre": "RELE-SOLICITUD N° 3309-2026-MANTENCION PREVENTIVA, CALIBRACION SISTEMA PHILIPS AFFINITI, SE REQUIERE CARTA DE REPRESENTACION,COTIZACION",
+   "organismo": "SERVICIO NACIONAL DE SALUD HOSPITAL DE C",
+   "unidad": "Compras de Insumos y Servicios Generales",
+   "monto": null,
+   "cierre_iso": "2026-11-19T22:53:00-03:00",
+   "publicacion": "17-11 11:06",
+   "publicacion_iso": "2026-11-17T11:06:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "42201718",
+     "Ecógrafos oftalmológicos",
+     1,
+     "MANTENCION PREVENTIVA AFFINITI 50 (MP - ECOTOMOGRAFO AFFINITI 5O Gl)"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=4778-396-COT26",
+   "sin_detalle": false,
+   "descripcion": "Limpieza profunda de filtros de aire y ventiladores.El sobrecalentamiento es causa principal de fallas en tarjetas de procesamiento de imagen de Affiniti.Integridad de Puertos:Revisión física de los conectores de Transductores(pines doblados o sucios)para evitar pérdida de señal o ruido eléctrico.Monitor y Brazo Articulado:Calibración de color/brillo del monitor médico,ajuste de frenos,articulaciones de brazo para ergonomía del usuario.Periféricos y Conectividad,SE REQUIERE CARTA REPRESENTACION",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
     "generador"
    ],
    "nueva": true,
@@ -1205,7 +1405,7 @@
    "organismo": "SERVICIO DE REGISTRO CIVIL E IDENTIFICAC",
    "unidad": "Dirección Regional XI Región",
    "monto": 3600000,
-   "cierre_iso": "2026-11-21T11:06:00-03:00",
+   "cierre_iso": "2026-11-23T08:00:00-03:00",
    "publicacion": "13-11 20:53",
    "publicacion_iso": "2026-11-13T20:53:00-03:00",
    "ofertas": 0,
@@ -1383,6 +1583,24 @@
   }
  ],
  "historial": [
+  {
+   "codigo": "1691-2128-COT26",
+   "nombre": " EFCC- ASAS DE RECECTOSCOPIO COD.: 27050 G K.STORZ UD PARA REPOSICIÓN DE INS. CLINICOS HRC",
+   "organismo": "SERVICIO NACIONAL DE SALUD HOSPITAL DE C",
+   "monto": 1720000,
+   "cierre_iso": "2026-11-18T17:18:00-03:00",
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Suministros y accesorios eléctricos"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1691-2128-COT26",
+   "primera_vista_iso": "2026-11-16T13:00:26-03:00",
+   "removida_iso": "2026-11-18T18:00:27-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
   {
    "codigo": "1182705-213-COT26",
    "nombre": "Colación de jornada a la llegada de la delegación a Melinka solicitud N°0228",
@@ -1779,26 +1997,6 @@
    "primera_vista_iso": "2026-11-12T13:45:25-03:00",
    "removida_iso": "2026-11-16T09:00:25-03:00",
    "estado_api": "",
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "1092-89-COT26",
-   "nombre": " SIC N°464 SIRE N°449 Materiales de construcción DEPRIF",
-   "organismo": "CORP NACIONAL FORESTAL",
-   "monto": 2382419,
-   "cierre_iso": "2026-11-16T08:30:00-03:00",
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Cajas y accesorios eléctricos",
-    "Conectores, enchufes y terminales",
-    "Interruptores, controles y relés"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1092-89-COT26",
-   "primera_vista_iso": "2026-11-13T14:00:24-03:00",
-   "removida_iso": "2026-11-16T09:00:25-03:00",
-   "estado_api": null,
    "adj_nombre": null,
    "adj_monto": null,
    "adj_iso": null
@@ -2306,24 +2504,6 @@
     "instalación eléctrica"
    ],
    "link": "https://buscador.mercadopublico.cl/ficha?code=4066-489-COT26",
-   "primera_vista_iso": "2026-11-10T19:26:29-03:00",
-   "removida_iso": "2026-11-12T09:58:37-03:00",
-   "estado_api": "",
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "828-53-COT26",
-   "nombre": "Adquisición de petróleo para calefacción -Edificio MOP Región de Aysén",
-   "organismo": "MINISTERIO DE OBRAS PUBLICAS DIREC CION GRAL DE OO PP DCYF",
-   "monto": 3270000,
-   "cierre_iso": "2026-11-11T17:30:00-03:00",
-   "tipo": "POSIBLE",
-   "motivos": [
-    "certificación sec"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=828-53-COT26",
    "primera_vista_iso": "2026-11-10T19:26:29-03:00",
    "removida_iso": "2026-11-12T09:58:37-03:00",
    "estado_api": "",
