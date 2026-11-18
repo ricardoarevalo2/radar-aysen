@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-18T07:00:25.153430-03:00",
+ "actualizado": "2026-11-18T08:00:29.003890-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
  "total_region": 323,
@@ -2065,45 +2065,6 @@
    ],
    "link": "https://buscador.mercadopublico.cl/ficha?code=4733-496-COT26",
    "primera_vista_iso": "2026-11-10T19:26:29-03:00",
-   "removida_iso": "2026-11-11T14:18:43-03:00",
-   "estado_api": "",
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "886182-256-COT26",
-   "nombre": " Materiales de oficina_segun fisabs 2350_Departamento Ciencias Naturales y Tecnología",
-   "organismo": "UNIVERSIDAD DE AYSEN",
-   "monto": 1421958,
-   "cierre_iso": "2026-11-11T08:00:00-03:00",
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Cables eléctricos y accesorios",
-    "Suministros y accesorios eléctricos"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=886182-256-COT26",
-   "primera_vista_iso": "2026-11-10T19:26:29-03:00",
-   "removida_iso": "2026-11-11T14:18:43-03:00",
-   "estado_api": "",
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "1281188-19-COT26",
-   "nombre": "Generador Eléctrico Diésel Uso Continuo 17kVa ",
-   "organismo": "DELEGACIÓN PRESIDENCIAL PROVINCIAL DE CAPITÁN PRAT",
-   "monto": 7200000,
-   "cierre_iso": "2026-11-11T07:57:00-03:00",
-   "tipo": "POSIBLE",
-   "motivos": [
-    "eléctrico",
-    "generador",
-    "generador eléctrico"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1281188-19-COT26",
-   "primera_vista_iso": "2026-10-30T13:05:28-03:00",
    "removida_iso": "2026-11-11T14:18:43-03:00",
    "estado_api": "",
    "adj_nombre": null,
