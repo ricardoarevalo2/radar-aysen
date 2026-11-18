@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-11-18T16:00:26.229586-03:00",
+ "actualizado": "2026-11-18T17:00:27.303939-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
- "total_region": 332,
+ "total_region": 331,
  "rubros": {
   "80141600": "Ventas y marketing",
   "82101600": "Publicidad en medios no impresos",
@@ -14,64 +14,6 @@
   "83121700": "Comunicación social y de masas"
  },
  "filas": [
-  {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Ventas y marketing"
-   ],
-   "nueva": false,
-   "codigo": "1458-37-COT26",
-   "nombre": "Realización Jornada Regional Programa Noche Digna",
-   "organismo": "SERPLAC XI Región",
-   "unidad": "SERPLAC XI Región",
-   "monto": 1000000,
-   "cierre_iso": "2026-11-18T16:00:00-03:00",
-   "publicacion": "17-11 12:45",
-   "publicacion_iso": "2026-11-17T12:45:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "80141607",
-     "Producción de eventos",
-     1,
-     "Producción y apoyo logístico y de sistematización para una jornada participativa del Programa Noche Digna, destinada a recoger experiencias y aprendizajes de los equipos regionales y ejecutores. Además debe considerar almuerzo para 30 personas: plato principal, bebida sin alcohol o agua y postre o fruta. Considerar alternativas vegetarianas y restricciones alimentarias comunicadas oportunamente."
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1458-37-COT26",
-   "sin_detalle": false,
-   "descripcion": "La Secretaría Regional Ministerial de Desarrollo Social y Familia de la región de Aysén, requiere contratar un servicio de producción y apoyo logístico y de sistematización para una jornada participativa del Programa Noche Digna. Debe considerar Almuerzo para 30 personas.",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
-  {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Ventas y marketing"
-   ],
-   "nueva": true,
-   "codigo": "2495-678-COT26",
-   "nombre": "Servicios para jornada de encuentro y camaradería para personas mayores",
-   "organismo": "I MUNICIPALIDAD DE COYHAIQUE",
-   "unidad": "DIRECCION DESARROLLO COMUNITARIO",
-   "monto": 7240000,
-   "cierre_iso": "2026-11-18T16:45:00-03:00",
-   "publicacion": "17-11 16:38",
-   "publicacion_iso": "2026-11-17T16:38:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "80141607",
-     "Producción de eventos",
-     1,
-     "Los servicios solicitados tienen por objeto realizar una jornada de encuentro y camaradería para 140 personas mayores, el día 02 de diciembre en el parque urbano. Su contratación busca incentivar la asistencia, participación, promover la convivencia, la integración y el bienestar de las personas mayores para contribuir a prevenir situaciones de aislamiento social, según término de referencia adjuntos."
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=2495-678-COT26",
-   "sin_detalle": false,
-   "descripcion": "Los servicios solicitados tienen por objeto realizar una jornada de encuentro y camaradería el día 02 de diciembre en el parque urbano, para 140 personas mayores. Su contratación busca incentivar la asistencia, participación, promover la convivencia, la integración y el bienestar de las personas mayores para contribuir a prevenir situaciones de aislamiento social, según términos de referencia adjunto.",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
   {
    "tipo": "OPORTUNIDAD",
    "motivos": [
@@ -771,6 +713,35 @@
    "desaparecida_iso": ""
   },
   {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "difusión"
+   ],
+   "nueva": true,
+   "codigo": "1153624-63-COT26",
+   "nombre": "SERVICIO DE TRANSPORTE PARA VISITA REGIONAL",
+   "organismo": "SUBSECRETARIA DE RELACIONES ECONOMICAS INTERNACIONALES",
+   "unidad": "Departamento Adquisiciones MN",
+   "monto": 600000,
+   "cierre_iso": "2026-11-19T16:30:00-03:00",
+   "publicacion": "18-11 16:21",
+   "publicacion_iso": "2026-11-18T16:21:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "78111804",
+     "Servicios de taxi",
+     1,
+     "Servicio de trasporte para el martes 24 de noviembre, en 2 VAN para 10 personas de acuerdo con el siguiente itinerario:\nDETALLE ADJUNTO TDR"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1153624-63-COT26",
+   "sin_detalle": false,
+   "descripcion": "La Subsecretaría de Relaciones Económicas Internacionales requiere contratar el servicio de trasporte de pasajeros en el marco de la visita regional a Aysén, para participar de la Mesa Comex y las actividades y reuniones de levantamiento de información y difusión de la Política Comercial a jóvenes de enseñanza media técnico-profesional. \n1.\tREQUERIMIENTOS\nServicio de trasporte para el martes 24 de noviembre, en 2 VAN para 10 personas de acuerdo con el siguiente itinerario:\nSEGÚN DETALLE ADJUNTO",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
    "tipo": "OPORTUNIDAD",
    "motivos": [
     "Ventas y marketing"
@@ -1123,7 +1094,7 @@
     "avisos",
     "publicidad"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "1260270-1-COT26",
    "nombre": " CONTRATACIÓN DE SERVICIOS DE PUBLICACIÓN, SANEAMIENTOS D.L. N° 2695/79",
    "organismo": "Seremi Bienes Nacionales Región Aysén",
@@ -1230,6 +1201,42 @@
   }
  ],
  "historial": [
+  {
+   "codigo": "2495-678-COT26",
+   "nombre": "Servicios para jornada de encuentro y camaradería para personas mayores",
+   "organismo": "I MUNICIPALIDAD DE COYHAIQUE",
+   "monto": 7240000,
+   "cierre_iso": "2026-11-18T16:45:00-03:00",
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Ventas y marketing"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=2495-678-COT26",
+   "primera_vista_iso": "2026-11-17T17:00:24-03:00",
+   "removida_iso": "2026-11-18T17:00:27-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
+  {
+   "codigo": "1458-37-COT26",
+   "nombre": "Realización Jornada Regional Programa Noche Digna",
+   "organismo": "SERPLAC XI Región",
+   "monto": 1000000,
+   "cierre_iso": "2026-11-18T16:00:00-03:00",
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Ventas y marketing"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1458-37-COT26",
+   "primera_vista_iso": "2026-11-17T13:00:25-03:00",
+   "removida_iso": "2026-11-18T17:00:27-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
   {
    "codigo": "973172-5-COT26",
    "nombre": "JUEGOS RECREATIVOS PARA ACTIVIDAD DE FIN DE AÑO BIENESTAR ",
