@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-11-18T04:00:40.267834-03:00",
+ "actualizado": "2026-11-18T05:00:28.290126-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
- "total_region": 326,
+ "total_region": 324,
  "rubros": {
   "80141600": "Ventas y marketing",
   "82101600": "Publicidad en medios no impresos",
@@ -14,40 +14,6 @@
   "83121700": "Comunicación social y de masas"
  },
  "filas": [
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "audiovisual",
-    "comunicacional",
-    "difusión",
-    "radiales",
-    "redes sociales",
-    "transmisión en vivo"
-   ],
-   "nueva": false,
-   "codigo": "2495-652-COT26",
-   "nombre": "SERVICIO DE COBERTURA AUDIOVISUAL, TRANSMISIÓN Y DIFUSIÓN DE LA EXPO GANADERA COYHAIQUE 2026",
-   "organismo": "I MUNICIPALIDAD DE COYHAIQUE",
-   "unidad": "DIRECCION DESARROLLO COMUNITARIO",
-   "monto": 5500000,
-   "cierre_iso": "2026-11-18T04:33:00-03:00",
-   "publicacion": "11-11 17:38",
-   "publicacion_iso": "2026-11-11T17:38:00-03:00",
-   "ofertas": 1,
-   "productos": [
-    [
-     "43223207",
-     "Sistema de transmisión por secuencias de video",
-     1,
-     "Servicio integral que contempla difusión previa del evento, gestión de dos entrevistas radiales, cobertura audiovisual y fotográfica presencial durante los días 27, 28 y 29 de noviembre de 2026, generación de contenidos para redes sociales institucionales, entrevistas a 40 expositores, realización de al menos cuatro transmisiones en vivo, entrega de mínimo 150 fotografías editadas, videos de actividades relevantes, banco audiovisual organizado y video resumen institucional de 3 a 5 minutos."
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=2495-652-COT26",
-   "sin_detalle": false,
-   "descripcion": "La Municipalidad de Coyhaique requiere contratar un servicio especializado de producción y cobertura audiovisual, difusión comunicacional y transmisión en vivo para la Expo Ganadera Coyhaique 2026, actividad que se realizará los días 27, 28 y 29 de noviembre de 2026, orientada a promover el desarrollo agropecuario comunal, los emprendimientos rurales, la identidad cultural campesina y el desarrollo económico local.",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
   {
    "tipo": "POSIBLE",
    "motivos": [
@@ -1026,6 +992,29 @@
   }
  ],
  "historial": [
+  {
+   "codigo": "2495-652-COT26",
+   "nombre": "SERVICIO DE COBERTURA AUDIOVISUAL, TRANSMISIÓN Y DIFUSIÓN DE LA EXPO GANADERA COYHAIQUE 2026",
+   "organismo": "I MUNICIPALIDAD DE COYHAIQUE",
+   "monto": 5500000,
+   "cierre_iso": "2026-11-18T04:33:00-03:00",
+   "tipo": "POSIBLE",
+   "motivos": [
+    "audiovisual",
+    "comunicacional",
+    "difusión",
+    "radiales",
+    "redes sociales",
+    "transmisión en vivo"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=2495-652-COT26",
+   "primera_vista_iso": "2026-11-12T09:58:37-03:00",
+   "removida_iso": "2026-11-18T05:00:28-03:00",
+   "estado_api": "",
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
   {
    "codigo": "2713-1404-COT26",
    "nombre": "Servicio de producción de 3 jornadas de Baño de Naturaleza  - Folio 1492 - DIDECO",
