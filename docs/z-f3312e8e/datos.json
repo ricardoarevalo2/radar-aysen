@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-11-18T12:00:27.349811-03:00",
+ "actualizado": "2026-11-18T13:00:27.518956-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
- "total_region": 327,
+ "total_region": 326,
  "rubros": {
   "25172700": "Aire acondicionado",
   "25173900": "Componentes eléctricos",
@@ -1220,6 +1220,106 @@
   {
    "tipo": "OPORTUNIDAD",
    "motivos": [
+    "Enfriamiento (aires acondicionados)"
+   ],
+   "nueva": true,
+   "codigo": "3765-368-COT26",
+   "nombre": "INSUMOS Y HERRAMIENTAS PARA MANTEMIENTOS",
+   "organismo": "SERVICIO NACIONAL DE SALUD HOSPITAL DE C",
+   "unidad": "Hospital Doctor  Leopoldo Ortega Rodríguez",
+   "monto": 1500000,
+   "cierre_iso": "2026-11-23T09:00:00-03:00",
+   "publicacion": "18-11 12:22",
+   "publicacion_iso": "2026-11-18T12:22:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "15111509",
+     "Gas metilacetileno propadieno (MAPP)",
+     2,
+     "BOMBONA DE REFRIGERANTE R410A 11,3 KG"
+    ],
+    [
+     "15111509",
+     "Gas metilacetileno propadieno (MAPP)",
+     2,
+     "BOMBONA DE REFRIGERANTE R32 3KG"
+    ],
+    [
+     "27111507",
+     "Cortadores de metal",
+     1,
+     "ABOCINADOR PARA TUBOS DE COBRE HASTA 5/8"
+    ],
+    [
+     "27111507",
+     "Cortadores de metal",
+     1,
+     "CORTATUBOS DE COBRE"
+    ],
+    [
+     "40101701",
+     "Aires acondicionados",
+     1,
+     "COBERTOR MANTENCIÓN AIRES ACONDICONADOS HASTA 24.000 BTU"
+    ],
+    [
+     "40101810",
+     "Calentadores de ducto de serpentín",
+     2,
+     "PEINE PARA ALETAS DE SERPENTÍN"
+    ],
+    [
+     "40151502",
+     "Bombas de vacío",
+     1,
+     "BOMBA DE VACIO 4 CFM 1/3 HP220 VOLT"
+    ],
+    [
+     "41103311",
+     "Manómetros",
+     1,
+     "JUEGO DE MANÓMETROS (MAINFOLD) R410 R32"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=3765-368-COT26",
+   "sin_detalle": false,
+   "descripcion": "INSUMOS Y HERRAMIENTAS PARA MANTENIMIENTO CORRECTIVO Y PREVENTIVO DE LOS EQUIPOS DE AIRE ACONDICIONADO DEL ESTABLECIMIENTO",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Materiales de física de electricidad"
+   ],
+   "nueva": true,
+   "codigo": "1233615-984-COT26",
+   "nombre": "RMG-SOL01535-Liceo Luisa Rabanal, Equipamiento para simulación EMTP 29.05, despacho incluido a Chile Chico.",
+   "organismo": "Servicio Local de Educación Pública Aysén",
+   "unidad": "Servicio Local de Educación Pública Aysén",
+   "monto": 7000000,
+   "cierre_iso": "2026-11-23T12:00:00-03:00",
+   "publicacion": "11-11 17:01",
+   "publicacion_iso": "2026-11-11T17:01:00-03:00",
+   "ofertas": 1,
+   "productos": [
+    [
+     "60104905",
+     "Placas de demostración de electricidad",
+     1,
+     "Según archivo adjunto, equipamiento para simulación EMTP Electricidad"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1233615-984-COT26",
+   "sin_detalle": false,
+   "descripcion": "Según detalle adjunto, despacho incluido a Chile Chico.",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
     "Cajas y accesorios eléctricos"
    ],
    "nueva": true,
@@ -1853,24 +1953,6 @@
    ],
    "link": "https://buscador.mercadopublico.cl/ficha?code=2713-1337-COT26",
    "primera_vista_iso": "2026-11-05T14:29:51-03:00",
-   "removida_iso": "2026-11-13T13:00:24-03:00",
-   "estado_api": "",
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "1233615-984-COT26",
-   "nombre": "RMG-SOL01535-Liceo Luisa Rabanal, Equipamiento para simulación EMTP 29.05, despacho incluido a Chile Chico.",
-   "organismo": "Servicio Local de Educación Pública Aysén",
-   "monto": 7000000,
-   "cierre_iso": "2026-11-13T12:00:00-03:00",
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Materiales de física de electricidad"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1233615-984-COT26",
-   "primera_vista_iso": "2026-11-12T09:58:37-03:00",
    "removida_iso": "2026-11-13T13:00:24-03:00",
    "estado_api": "",
    "adj_nombre": null,

@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-11-18T12:00:27.349811-03:00",
+ "actualizado": "2026-11-18T13:00:27.518956-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
- "total_region": 327,
+ "total_region": 326,
  "rubros": {
   "80141600": "Ventas y marketing",
   "82101600": "Publicidad en medios no impresos",
@@ -19,7 +19,7 @@
    "motivos": [
     "publicitaria"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "1182705-216-COT26",
    "nombre": "ADQUISICION DE PIN REDONDO CON LOGO INSTITUCIONAL, FOLIO 233",
    "organismo": "CENTRO DE FORMACIÓN TÉCNICA DE LA REGIÓN DE AYSÉN DEL GENERAL CARLOS I",
@@ -48,7 +48,7 @@
    "motivos": [
     "Publicidad en medios no impresos"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "2713-1410-COT26",
    "nombre": "Servicio radial y cobertura radial - DIDECO - Promos - 1470",
    "organismo": "I MUNICIPALIDAD DE AYSEN",
@@ -204,7 +204,7 @@
    "motivos": [
     "Ventas y marketing"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "1458-37-COT26",
    "nombre": "Realización Jornada Regional Programa Noche Digna",
    "organismo": "SERPLAC XI Región",
@@ -794,6 +794,77 @@
   {
    "tipo": "POSIBLE",
    "motivos": [
+    "publicitaria"
+   ],
+   "nueva": true,
+   "codigo": "1182705-218-COT26",
+   "nombre": " ADQUISICION DE SERVICIO DE IMPRENSION Y PLOTEO, FOLIO N°223 VCM",
+   "organismo": "CENTRO DE FORMACIÓN TÉCNICA DE LA REGIÓN DE AYSÉN DEL GENERAL CARLOS I",
+   "unidad": "FINANZAS",
+   "monto": 698620,
+   "cierre_iso": "2026-11-19T12:30:00-03:00",
+   "publicacion": "18-11 12:25",
+   "publicacion_iso": "2026-11-18T12:25:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "82121505",
+     "Impresión promocional o publicitaria",
+     502,
+     "Impresión láser color foto formato carta/oficio, una cara, tramo de 501 impresiones o más. Servicio destinado a impresión por ambas caras de trípticos educativos del proyecto VcM sobre prevención, primeros auxilios, signos de alarma y cuidados veterinarios.(adjuntar cotización)."
+    ],
+    [
+     "82121505",
+     "Impresión promocional o publicitaria",
+     251,
+     "Papel couché glossy tamaño oficio 216 × 330 mm, gramaje 170 g, destinado como soporte de 251 trípticos educativos impresos a color por ambas caras. (adjuntar cotización)."
+    ],
+    [
+     "82121505",
+     "Impresión promocional o publicitaria",
+     100,
+     "Impresión láser color foto formato carta/oficio, una cara, tramo 51–100 impresiones. Servicio destinado a impresión por ambas caras de tarjetas educativas y material de consulta rápida sobre actuación inicial ante urgencias veterinarias. (adjuntar cotización)."
+    ],
+    [
+     "82121505",
+     "Impresión promocional o publicitaria",
+     50,
+     "Papel couché glossy tamaño oficio, gramaje 170 g, utilizado como soporte para 50 unidades de material educativo impreso por ambas caras. (adjuntar cotización)."
+    ],
+    [
+     "82121505",
+     "Impresión promocional o publicitaria",
+     100,
+     "Impresión láser color foto formato carta/oficio, una cara, tramo 51–100 impresiones. Destinada a fichas educativas, checklist de botiquín, fichas de signos de alarma, instrumentos pre/post y material complementario para actividades comunitarias. (adjuntar cotización)."
+    ],
+    [
+     "82121505",
+     "Impresión promocional o publicitaria",
+     4,
+     "4 Servicio de corte y terminación de material gráfico impreso, destinado principalmente a fichas, tarjetas educativas y otros recursos que requieran dimensionamiento posterior a la impresión. (adjuntar cotización)."
+    ],
+    [
+     "82121505",
+     "Impresión promocional o publicitaria",
+     100,
+     "Papel couché glossy tamaño oficio, gramaje 170 g, destinado como soporte para 100 unidades de material pedagógico impreso a color por una cara. (adjuntar cotización)."
+    ],
+    [
+     "82121505",
+     "Impresión promocional o publicitaria",
+     1,
+     "Servicio de ploteo a color en papel bond (2,1 metro lineal), imagen y texto, destinado a afiches, infografías de apoyo y señalética pedagógica utilizada durante las estaciones educativas y actividades comunitarias del proyecto. (adjuntar cotización)."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1182705-218-COT26",
+   "sin_detalle": false,
+   "descripcion": "Se solicita el servicio de impresión de trípticos, tarjetas y afiches, para actividad pedagógica del proyecto Vinculación con el Medio: “Aysén Cuida a sus Mascotas, Educación Comunitaria para la Prevención y Respuesta Inicial ante Urgencias Veterinarias”, de la carrera TNS en Veterinaria y Producción Agrícola del CFT de la Región de Aysén. Los productos deben ser entregado en oficina ubicada en José miguel Carrera 133, Coyhaique.",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
     "difusión",
     "publicidad",
     "publicitaria",
@@ -891,41 +962,12 @@
    "desaparecida_iso": ""
   },
   {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Publicidad en medios no impresos"
-   ],
-   "nueva": true,
-   "codigo": "1195-591-COT26",
-   "nombre": "SERVICIO DE DIFUSION PARA PROYECTO DE RECICLAJE",
-   "organismo": "I MUNICIPALIDAD DE COYHAIQUE",
-   "unidad": "Ilustre Municipalidad de Coyhaique",
-   "monto": 324000,
-   "cierre_iso": "2026-11-20T08:00:00-03:00",
-   "publicacion": "18-11 11:54",
-   "publicacion_iso": "2026-11-18T11:54:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "82101602",
-     "Publicidad en televisión",
-     1,
-     "SERVICIO DE GRABACION EDICION Y TRANSMISION DE CAPSULAS 4 HORAS MENSUALES (NOVIEMBRE-DICIEMBRE).DEBE INCLUIR BANNER PUBLICITARIO DE 20 A 29 MINUTOS,1 VEZ POR SEMANA.TRANSMISION POR TV EN RRSS(FACEBOOK YOUTUBE),SITIO WEB,STREAMIGN EN TV  24 HORAS ROTATIVO.SE PRIORIZARA PROVEEDOR LOCAL."
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1195-591-COT26",
-   "sin_detalle": false,
-   "descripcion": "SERVICIO DE GRABACION EDICION Y TRANSMISION DE CAPSULAS 4 HORAS MENSUALES (NOVIEMBRE-DICIEMBRE).DEBE INCLUIR BANNER PUBLICITARIO DE 20 A 29 MINUTOS,1 VEZ POR SEMANA.TRANSMISION POR TV EN RRSS(FACEBOOK YOUTUBE),SITIO WEB,STREAMIGN EN TV  24 HORAS ROTATIVO.SE PRIORIZARA PROVEEDOR LOCAL.",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
-  {
    "tipo": "POSIBLE",
    "motivos": [
     "television",
     "televisión"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "2713-1412-COT26",
    "nombre": "DIDECO SOL. 1478 ADQUISICION DE SMART -TV",
    "organismo": "I MUNICIPALIDAD DE AYSEN",
@@ -981,6 +1023,35 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=2495-654-COT26",
    "sin_detalle": false,
    "descripcion": "Se requiere adquirir premios para la realización de una actividad recreativa de bingo dirigida a personas mayores. Su adquisición busca incentivar la asistencia, participación, promover la convivencia, la integración y el bienestar de las personas mayores para contribuir a prevenir situaciones de aislamiento social. La actividad se enmarca en las acciones municipales de promoción de un envejecimiento activo de espacios de encuentro y recreación,  térmi de referencia y cotizaci adjunta.",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "difusion"
+   ],
+   "nueva": true,
+   "codigo": "1758-302-COT26",
+   "nombre": "ADQUISICION INSUMO PARA EJECUCION EN EL MARCO DE LA DIFUSION DEL PLAN CHILE APRENDE Y AVANZA MINEDUC",
+   "organismo": "SECRETARIA REGIONAL MINISTERIAL DE EDUCACION XI REGION",
+   "unidad": "Mineduc Administración XI Región",
+   "monto": 100000,
+   "cierre_iso": "2026-11-20T11:00:00-03:00",
+   "publicacion": "18-11 12:15",
+   "publicacion_iso": "2026-11-18T12:15:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "52151504",
+     "Tazas o vasos desechables domésticos",
+     200,
+     "200 VASOS POLIPAPEL BLANCO 08 OZ 240 CC. \nECOLOGICO."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1758-302-COT26",
+   "sin_detalle": false,
+   "descripcion": "SE REQUIERE ADQUIRIR 200 VASOS POLIPAPEL BLANCO 08 OZ 240 CC. PARA LA EJECUCION EN EL MARCO DE LA DIFUSION DEL \"PLAN CHILE APRENDE Y AVANZA MINEDUC\"\nENTREGA EN GABINETE, SECREDUC. EN FCO. BILBAO 540 DE LA CIUDAD DE COYHAIQUE.",
    "en_gracia": false,
    "desaparecida_iso": ""
   },
@@ -1074,6 +1145,77 @@
   {
    "tipo": "POSIBLE",
    "motivos": [
+    "publicitaria"
+   ],
+   "nueva": true,
+   "codigo": "2713-1425-COT26",
+   "nombre": "SERVICIO IMPRESION Y MATERIAL GRAFICO. FOLIO 1503 MEDIO AMBIENTE.",
+   "organismo": "I MUNICIPALIDAD DE AYSEN",
+   "unidad": "I.MUNICIPALIDAD AYSEN-ADQUISICIONES",
+   "monto": 410000,
+   "cierre_iso": "2026-11-20T16:30:00-03:00",
+   "publicacion": "18-11 12:09",
+   "publicacion_iso": "2026-11-18T12:09:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "53141619",
+     "Imanes",
+     200,
+     "Imanes personalizados de 6 × 6 cm. según. Anexo N.º 8."
+    ],
+    [
+     "82121505",
+     "Impresión promocional o publicitaria",
+     4,
+     "Impresión de señalética en aluminio compuesto 100 × 40 cm, según Anexo N.º 1."
+    ],
+    [
+     "82121505",
+     "Impresión promocional o publicitaria",
+     16,
+     "Impresión de señalética en aluminio compuesto 40 × 30 cm, según Anexo N.º 2."
+    ],
+    [
+     "82121505",
+     "Impresión promocional o publicitaria",
+     1000,
+     "Impresión de sticker ambiental troquelado 6 × 6 cm, según. Anexo N.º 3."
+    ],
+    [
+     "82121505",
+     "Impresión promocional o publicitaria",
+     1000,
+     "Impresión de sticker ambiental troquelado 6 × 6 cm, según. Anexo N.º 4."
+    ],
+    [
+     "82121505",
+     "Impresión promocional o publicitaria",
+     50,
+     "Impresión en chapitas metálicas personalizadas de 5,6 cm de diámetro – Forjadores Ambientales. según. Anexo N.º 5."
+    ],
+    [
+     "82121505",
+     "Impresión promocional o publicitaria",
+     50,
+     "Impresión en chapitas metálicas personalizadas de 5,6 cm de diámetro – REDEOH, según. Anexo N.º 6."
+    ],
+    [
+     "82121505",
+     "Impresión promocional o publicitaria",
+     50,
+     "Impresión en chapitas metálicas personalizadas de 5,6 cm de diámetro – Acciones Ambientales. según. Anexo 7."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=2713-1425-COT26",
+   "sin_detalle": false,
+   "descripcion": "SERVICIO IMPRESION Y MATERIAL GRAFICO SEGUN ANEXOS ADJUNTOS.COSTOS TRASLADOS A PUERTO AYSÉN SERÁN DEL OFERENTE.PLAZO ENTREGA SERÁN DE 10 DÍA HÁBIL, DE LO CONTRARIO SE DESCARTARAN.PROVEEDOR QUE NO INDIQUE EL PLAZO DE ENTREGA SE DESCARTARA SU COTIZACIÓN. OFERENTE DEBE INCLUIR FLETES EN EL PRECIO DEL PRODUCTO.SE SOLICITA ANEXAR FICHA TECNICA, DE LO CONTRARIO SE DESCARTARA. PLAZO DE ENTREGA COMIENZA A CONTAR DEL DIA HABIL SUBSIGUIENTE DEL ENVÍO DE ORDEN DE COMPRA.SE DEBE COTIZAR TODOS LOS PRODUCTOS",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
     "avisos",
     "publicidad"
    ],
@@ -1123,6 +1265,35 @@
    "descripcion": "Es necesario cumplir con el Art.11 del D.L. N°2695/79, referido a publicidad del saneamiento de inmueble. Se requiere contratar la publicación digital de 17 avisos correspondientes a 2 veces o publicaciones por beneficiario o expediente, las cuales se harán indistintamente los días 1 y 15 del mes o en la edición inmediatamente siguiente si el diario o periódico no se publicare en los días indicados. Plazo de ejecución 252 días hábiles. Revisar documento adjunto para selección de proveedor.",
    "en_gracia": true,
    "desaparecida_iso": "2026-11-17T17:00:24-03:00"
+  },
+  {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Publicidad en medios no impresos"
+   ],
+   "nueva": false,
+   "codigo": "1195-591-COT26",
+   "nombre": "SERVICIO DE DIFUSION PARA PROYECTO DE RECICLAJE",
+   "organismo": "",
+   "unidad": "",
+   "monto": null,
+   "cierre_iso": "",
+   "publicacion": "",
+   "publicacion_iso": "",
+   "ofertas": 0,
+   "productos": [
+    [
+     "82101602",
+     "Publicidad en televisión",
+     1,
+     "SERVICIO DE GRABACION EDICION Y TRANSMISION DE CAPSULAS 4 HORAS MENSUALES (NOVIEMBRE-DICIEMBRE).DEBE INCLUIR BANNER PUBLICITARIO DE 20 A 29 MINUTOS,1 VEZ POR SEMANA.TRANSMISION POR TV EN RRSS(FACEBOOK YOUTUBE),SITIO WEB,STREAMIGN EN TV  24 HORAS ROTATIVO.SE PRIORIZARA PROVEEDOR LOCAL."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1195-591-COT26",
+   "sin_detalle": false,
+   "descripcion": "SERVICIO DE GRABACION EDICION Y TRANSMISION DE CAPSULAS 4 HORAS MENSUALES (NOVIEMBRE-DICIEMBRE).DEBE INCLUIR BANNER PUBLICITARIO DE 20 A 29 MINUTOS,1 VEZ POR SEMANA.TRANSMISION POR TV EN RRSS(FACEBOOK YOUTUBE),SITIO WEB,STREAMIGN EN TV  24 HORAS ROTATIVO.SE PRIORIZARA PROVEEDOR LOCAL.",
+   "en_gracia": true,
+   "desaparecida_iso": "2026-11-18T13:00:27-03:00"
   }
  ],
  "historial": [
@@ -1980,44 +2151,6 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=2713-1341-COT26",
    "primera_vista_iso": "2026-11-10T19:26:29-03:00",
    "removida_iso": "2026-11-12T09:58:37-03:00",
-   "estado_api": "",
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "4609-308-COT26",
-   "nombre": "MATERIALES DE DIFUSION Y/O PROMOCION ",
-   "organismo": "I MUNICIPALIDAD DE CHILE CHICO",
-   "monto": 1600000,
-   "cierre_iso": "2026-11-11T12:45:00-03:00",
-   "tipo": "POSIBLE",
-   "motivos": [
-    "difusion"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=4609-308-COT26",
-   "primera_vista_iso": "2026-11-10T19:26:29-03:00",
-   "removida_iso": "2026-11-11T14:18:43-03:00",
-   "estado_api": "",
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "3797-527-COT26",
-   "nombre": "EQUIPAMIENTO AUDIOVISUAL",
-   "organismo": "I MUNICIPALIDAD DE COCHRANE",
-   "monto": 1000000,
-   "cierre_iso": "2026-11-11T12:40:00-03:00",
-   "tipo": "POSIBLE",
-   "motivos": [
-    "audiovisual",
-    "difusión",
-    "registro audiovisual"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=3797-527-COT26",
-   "primera_vista_iso": "2026-11-10T19:26:29-03:00",
-   "removida_iso": "2026-11-11T14:18:43-03:00",
    "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,
