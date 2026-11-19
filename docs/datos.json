@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-11-19T16:00:25.351169-03:00",
+ "actualizado": "2026-11-19T17:00:24.006422-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
- "total_region": 325,
+ "total_region": 334,
  "rubros": {
   "80141600": "Ventas y marketing",
   "82101600": "Publicidad en medios no impresos",
@@ -14,64 +14,6 @@
   "83121700": "Comunicación social y de masas"
  },
  "filas": [
-  {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Ventas y marketing"
-   ],
-   "nueva": true,
-   "codigo": "1201-208-COT26",
-   "nombre": "SERVICIO DE SONIDO – AMPLIFICACIÓN - ANIMACIÓN  EVENTOS SUB10 – SUB12 – JUVENIL JUEGOS DEPORTIVOS ESCOLARES 2026",
-   "organismo": "INSTITUTO NACIONAL DE DEPORTES DE CHILE",
-   "unidad": "I.N.D. REGION XI",
-   "monto": 5300000,
-   "cierre_iso": "2026-11-19T16:00:00-03:00",
-   "publicacion": "18-11 15:52",
-   "publicacion_iso": "2026-11-18T15:52:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "80141607",
-     "Producción de eventos",
-     1,
-     "Servicio de\nsonido,\namplificación y\nanimación, según detalle en TDR adjunta"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1201-208-COT26",
-   "sin_detalle": false,
-   "descripcion": "Contratar el servicio de sonido, amplificación y animación para la ejecución de Encuentros\nDeportivos, en el marco de los Juegos Deportivos Escolares (JDE), en las disciplinas de\nmini vóleibol, básquetbol 3x3, balonmano adaptado y futsal, a realizarse en las comunas\nde Coyhaique y Aysén.",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "difusión"
-   ],
-   "nueva": true,
-   "codigo": "1153624-63-COT26",
-   "nombre": "SERVICIO DE TRANSPORTE PARA VISITA REGIONAL",
-   "organismo": "SUBSECRETARIA DE RELACIONES ECONOMICAS INTERNACIONALES",
-   "unidad": "Departamento Adquisiciones MN",
-   "monto": 600000,
-   "cierre_iso": "2026-11-19T16:30:00-03:00",
-   "publicacion": "18-11 16:21",
-   "publicacion_iso": "2026-11-18T16:21:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "78111804",
-     "Servicios de taxi",
-     1,
-     "Servicio de trasporte para el martes 24 de noviembre, en 2 VAN para 10 personas de acuerdo con el siguiente itinerario:\nDETALLE ADJUNTO TDR"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1153624-63-COT26",
-   "sin_detalle": false,
-   "descripcion": "La Subsecretaría de Relaciones Económicas Internacionales requiere contratar el servicio de trasporte de pasajeros en el marco de la visita regional a Aysén, para participar de la Mesa Comex y las actividades y reuniones de levantamiento de información y difusión de la Política Comercial a jóvenes de enseñanza media técnico-profesional. \n1.\tREQUERIMIENTOS\nServicio de trasporte para el martes 24 de noviembre, en 2 VAN para 10 personas de acuerdo con el siguiente itinerario:\nSEGÚN DETALLE ADJUNTO",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
   {
    "tipo": "OPORTUNIDAD",
    "motivos": [
@@ -590,6 +532,35 @@
   {
    "tipo": "POSIBLE",
    "motivos": [
+    "radio"
+   ],
+   "nueva": true,
+   "codigo": "4140-112-COT26",
+   "nombre": "ADQUISICION DE AUDIFONOS, FONDOS DE MEDIOS ",
+   "organismo": "I MUNICIPALIDAD DE LAGO VERDE",
+   "unidad": "Adquisiciones",
+   "monto": 110000,
+   "cierre_iso": "2026-11-20T16:10:00-03:00",
+   "publicacion": "19-11 16:08",
+   "publicacion_iso": "2026-11-19T16:08:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "52161514",
+     "Audífonos",
+     2,
+     "AUDIFONOS PROFESIONALES PARA LOCUCION DE RADIO SEGUN ESPECIFICACIONES ADJUNTAS, OFERTAS NO DEBEN SUPERAR EL VALOR PRESUPUESTADO"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=4140-112-COT26",
+   "sin_detalle": false,
+   "descripcion": "ADQUISICION DE 02 AUDIFONOS PROFESIONALES PARA LOCUCION RADIO. SEGUN ESPECIFICACIONES ADJUNTAS. OFERTAS NO PUEDEN SUPERAR LA DISPONIBILIDAD",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
     "publicitaria"
    ],
    "nueva": false,
@@ -655,6 +626,35 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=2713-1425-COT26",
    "sin_detalle": false,
    "descripcion": "SERVICIO IMPRESION Y MATERIAL GRAFICO SEGUN ANEXOS ADJUNTOS.COSTOS TRASLADOS A PUERTO AYSÉN SERÁN DEL OFERENTE.PLAZO ENTREGA SERÁN DE 10 DÍA HÁBIL, DE LO CONTRARIO SE DESCARTARAN.PROVEEDOR QUE NO INDIQUE EL PLAZO DE ENTREGA SE DESCARTARA SU COTIZACIÓN. OFERENTE DEBE INCLUIR FLETES EN EL PRECIO DEL PRODUCTO.SE SOLICITA ANEXAR FICHA TECNICA, DE LO CONTRARIO SE DESCARTARA. PLAZO DE ENTREGA COMIENZA A CONTAR DEL DIA HABIL SUBSIGUIENTE DEL ENVÍO DE ORDEN DE COMPRA.SE DEBE COTIZAR TODOS LOS PRODUCTOS",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Publicidad en medios no impresos"
+   ],
+   "nueva": true,
+   "codigo": "2713-1438-COT26",
+   "nombre": "programa radial Hablemos de Violencia de Género",
+   "organismo": "I MUNICIPALIDAD DE AYSEN",
+   "unidad": "I.MUNICIPALIDAD AYSEN-ADQUISICIONES",
+   "monto": 200000,
+   "cierre_iso": "2026-11-20T16:55:00-03:00",
+   "publicacion": "19-11 16:53",
+   "publicacion_iso": "2026-11-19T16:53:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "82101601",
+     "Publicidad en radio",
+     2,
+     "Servicio de producción y emisión de dos programas radiales de 40 minutos cada uno, “Hablemos de Violencia de Género”. Cada programa debe transmitirse en vivo por señal radial y, de forma simultánea, por YouTube Live y Facebook Live. Además, debe quedar grabado y publicado en formato digital para su visualización posterior. El proveedor debe disponer de estudio y equipamiento para un conductor y tres invitadas. Fechas a coordinar. Ver especificaciones técnicas adjuntas."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=2713-1438-COT26",
+   "sin_detalle": false,
+   "descripcion": "Contratación de dos espacios radiales de 40 minutos del programa “Hablemos de Violencia de Género”, del Programa Atención Inicial de las Violencias de Género (Centro de las Mujeres, DIDECO). Incluye transmisión multiplataforma (señal en vivo y simultánea por YouTube Live y Facebook Live) y grabación disponible en formato digital. Se difundirá la oferta del Centro, las actividades del 25N y el Espacio Violeta. Emisiones: 25/11/2026 y otra fecha a coordinar. Ver especificaciones técnicas.",
    "en_gracia": false,
    "desaparecida_iso": ""
   },
@@ -1011,6 +1011,42 @@
   }
  ],
  "historial": [
+  {
+   "codigo": "1153624-63-COT26",
+   "nombre": "SERVICIO DE TRANSPORTE PARA VISITA REGIONAL",
+   "organismo": "SUBSECRETARIA DE RELACIONES ECONOMICAS INTERNACIONALES",
+   "monto": 600000,
+   "cierre_iso": "2026-11-19T16:30:00-03:00",
+   "tipo": "POSIBLE",
+   "motivos": [
+    "difusión"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1153624-63-COT26",
+   "primera_vista_iso": "2026-11-18T17:00:27-03:00",
+   "removida_iso": "2026-11-19T17:00:24-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
+  {
+   "codigo": "1201-208-COT26",
+   "nombre": "SERVICIO DE SONIDO – AMPLIFICACIÓN - ANIMACIÓN  EVENTOS SUB10 – SUB12 – JUVENIL JUEGOS DEPORTIVOS ESCOLARES 2026",
+   "organismo": "INSTITUTO NACIONAL DE DEPORTES DE CHILE",
+   "monto": 5300000,
+   "cierre_iso": "2026-11-19T16:00:00-03:00",
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Ventas y marketing"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1201-208-COT26",
+   "primera_vista_iso": "2026-11-18T16:00:26-03:00",
+   "removida_iso": "2026-11-19T17:00:24-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
   {
    "codigo": "1057062-548-COT26",
    "nombre": "Servicio de emisión de spots en radioemisora con cobertura regional en Aysén.",

@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-11-19T16:00:25.351169-03:00",
+ "actualizado": "2026-11-19T17:00:24.006422-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
- "total_region": 325,
+ "total_region": 334,
  "rubros": {
   "25172700": "Aire acondicionado",
   "25173900": "Componentes eléctricos",
@@ -19,82 +19,6 @@
   "39121400": "Conectores, enchufes y terminales"
  },
  "filas": [
-  {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Cajas y accesorios eléctricos"
-   ],
-   "nueva": true,
-   "codigo": "1182705-220-COT26",
-   "nombre": "ADQUISICION DE FUNGIBLES PARA INSTALACION ELECTRICA, FOLIO N°238",
-   "organismo": "CENTRO DE FORMACIÓN TÉCNICA DE LA REGIÓN DE AYSÉN DEL GENERAL CARLOS I",
-   "unidad": "FINANZAS",
-   "monto": 117000,
-   "cierre_iso": "2026-11-19T16:00:00-03:00",
-   "publicacion": "18-11 15:40",
-   "publicacion_iso": "2026-11-18T15:40:00-03:00",
-   "ofertas": 1,
-   "productos": [
-    [
-     "39121311",
-     "Accesorios eléctricos",
-     150,
-     "Caja Derivación Embutida"
-    ],
-    [
-     "39121311",
-     "Accesorios eléctricos",
-     300,
-     "Salidas de caja 20 mm"
-    ],
-    [
-     "39121311",
-     "Accesorios eléctricos",
-     150,
-     "Salidas de caja 16 mm"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1182705-220-COT26",
-   "sin_detalle": false,
-   "descripcion": "Se requiere la compra de fungibles de instalaciones eléctrica para la carrera TNS en electricidad, del CFT de la Región de Aysén. Los productos deben ser entregados en oficinas ubicada en Sargento Aldea 533, Puerto Aysén",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "eléctrico"
-   ],
-   "nueva": false,
-   "codigo": "907-105-COT26",
-   "nombre": "MAO Adquisición enseres Oficina Coyhaique ",
-   "organismo": "SERVICIO AGRICOLA Y GANADERO",
-   "unidad": "SAG - Aysen",
-   "monto": 338980,
-   "cierre_iso": "2026-11-19T16:00:00-03:00",
-   "publicacion": "17-11 16:50",
-   "publicacion_iso": "2026-11-17T16:50:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "49121502",
-     "Colchones de espuma",
-     1,
-     "Colchón 1 ½ plaza: debe tener firmeza, Resortes ensacados (o pocket) o Espuma viscoelástica (Memory Foam) o Látex.\nCaracterísticas:\n•\tAislamiento del movimiento\n•\tRegulación de temperatura\n•\tTranspirabilidad\n•\tSoporte perimetral reforzado"
-    ],
-    [
-     "52152010",
-     "Termos domésticos",
-     1,
-     "Termo eléctrico Capacidad 100 Litros, Potencia: Mínimo 1.500W (idealmente 2.000W para recuperación rápida), Resistencia Blindada."
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=907-105-COT26",
-   "sin_detalle": false,
-   "descripcion": "Se necesita adquirir: a) 1 Termo eléctrico: Capacidad: 100 Litros, Potencia: Mínimo 1.500W (idealmente 2.000W para recuperación rápida), Resistencia: Blindada. b) 1 Colchón 1 ½ plaza: debe tener firmeza, Resortes ensacados (o pocket) o Espuma viscoelástica (Memory Foam) o Látex. Características: Aislamiento del movimiento, Regulación de temperatura, Transpirabilidad, Soporte perimetral reforzado.",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
   {
    "tipo": "POSIBLE",
    "motivos": [
@@ -781,6 +705,42 @@
  ],
  "historial": [
   {
+   "codigo": "907-105-COT26",
+   "nombre": "MAO Adquisición enseres Oficina Coyhaique ",
+   "organismo": "SERVICIO AGRICOLA Y GANADERO",
+   "monto": 338980,
+   "cierre_iso": "2026-11-19T16:00:00-03:00",
+   "tipo": "POSIBLE",
+   "motivos": [
+    "eléctrico"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=907-105-COT26",
+   "primera_vista_iso": "2026-11-17T17:00:24-03:00",
+   "removida_iso": "2026-11-19T17:00:24-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
+  {
+   "codigo": "1182705-220-COT26",
+   "nombre": "ADQUISICION DE FUNGIBLES PARA INSTALACION ELECTRICA, FOLIO N°238",
+   "organismo": "CENTRO DE FORMACIÓN TÉCNICA DE LA REGIÓN DE AYSÉN DEL GENERAL CARLOS I",
+   "monto": 117000,
+   "cierre_iso": "2026-11-19T16:00:00-03:00",
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Cajas y accesorios eléctricos"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1182705-220-COT26",
+   "primera_vista_iso": "2026-11-18T16:00:26-03:00",
+   "removida_iso": "2026-11-19T17:00:24-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
+  {
    "codigo": "3797-542-COT26",
    "nombre": "EQUIPAMIENTO, IMPLEMENTOS Y DISPOSITIVOS ELECTRÓNICOS",
    "organismo": "I MUNICIPALIDAD DE COCHRANE",
@@ -813,7 +773,7 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=1092-89-COT26",
    "primera_vista_iso": "2026-11-13T14:00:24-03:00",
    "removida_iso": "2026-11-19T15:25:38-03:00",
-   "estado_api": null,
+   "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,
    "adj_iso": null
@@ -1180,7 +1140,7 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=4626-37-COT26",
    "primera_vista_iso": "2026-11-13T13:00:24-03:00",
    "removida_iso": "2026-11-16T16:44:10-03:00",
-   "estado_api": null,
+   "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,
    "adj_iso": null
@@ -1252,7 +1212,7 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=1691-2103-COT26",
    "primera_vista_iso": "2026-11-13T13:00:24-03:00",
    "removida_iso": "2026-11-16T13:00:26-03:00",
-   "estado_api": null,
+   "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,
    "adj_iso": null
@@ -1614,42 +1574,6 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=886182-252-COT26",
    "primera_vista_iso": "2026-11-05T19:47:37-03:00",
    "removida_iso": "2026-11-13T09:00:27-03:00",
-   "estado_api": "",
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "4644-129-COT26",
-   "nombre": " Mantención infraestructura GORE MAÑIHAULES  SIC: 488 SIRE: 442",
-   "organismo": "CORP NACIONAL FORESTAL",
-   "monto": 740000,
-   "cierre_iso": "2026-11-12T17:00:00-03:00",
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Servicios eléctricos"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=4644-129-COT26",
-   "primera_vista_iso": "2026-11-12T09:58:37-03:00",
-   "removida_iso": "2026-11-12T18:12:42-03:00",
-   "estado_api": "",
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "1274667-444-COT26",
-   "nombre": "RVB - SERVICIO DE HABILITACIÓN DE EMPALME E INSTALACIÓN ELÉCTRICA PARA 4 EQUIPOS SPLIT – DEPENDENCIA DE REHABILITACION DE NNA EX HOGAR DEL ANGEL",
-   "organismo": "CENTRO DE SALUD FAMILIAR PUERTO AYSÉN",
-   "monto": 4000000,
-   "cierre_iso": "2026-11-12T16:45:00-03:00",
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Servicios eléctricos"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1274667-444-COT26",
-   "primera_vista_iso": "2026-11-12T09:58:37-03:00",
-   "removida_iso": "2026-11-12T18:12:42-03:00",
    "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,
