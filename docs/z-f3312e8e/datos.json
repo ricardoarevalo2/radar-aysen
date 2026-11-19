@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-11-19T09:00:33.956836-03:00",
+ "actualizado": "2026-11-19T10:00:24.013620-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
- "total_region": 314,
+ "total_region": 320,
  "rubros": {
   "25172700": "Aire acondicionado",
   "25173900": "Componentes eléctricos",
@@ -24,7 +24,7 @@
    "motivos": [
     "enchufe"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "4649-116-COT26",
    "nombre": "Reparación y cambio de Repuestos de Combustión a Pellet A.I",
    "organismo": "CORP NACIONAL FORESTAL",
@@ -89,7 +89,7 @@
    "motivos": [
     "Conectores, enchufes y terminales"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "2713-1419-COT26",
    "nombre": "EQUIPOS Y ACCESORIOS. FOLIO 1479 SEGURIDAD PUBLICA.",
    "organismo": "I MUNICIPALIDAD DE AYSEN",
@@ -763,6 +763,53 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=1057062-535-COT26",
    "sin_detalle": false,
    "descripcion": "Se requiere cotizar adquisición de Kit didáctico de auto de exploración de energía. Cotización debe indicar especificaciones técnicas de lo ofertado. Debe indicar plazo de entrega ofertado, considerando entrega en dependencias de U. Aysén. Valor cotizado debe incluir flete e impuestos. Se podrá privilegiar el menor plazo de entrega ofertado, siempre que cumpla con todas las especificaciones requeridas.",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "eléctricos"
+   ],
+   "nueva": true,
+   "codigo": "3540-316-COT26",
+   "nombre": "Mandril, estación de soldadura, detector cortocircuito y kit manómetro (P.2529)",
+   "organismo": "Ejercito de Chile",
+   "unidad": "Cuerpo Militar del Trabajo Subjefatura Zonal Coyhaique",
+   "monto": 285000,
+   "cierre_iso": "2026-11-23T07:04:00-03:00",
+   "publicacion": "12-11 10:32",
+   "publicacion_iso": "2026-11-12T10:32:00-03:00",
+   "ofertas": 1,
+   "productos": [
+    [
+     "23171511",
+     "Herramientas de soldadura",
+     1,
+     "Estación de soldadura para circuitos eléctricos automotriz (ADJUNTAR IMAGEN Y/O ESPECIFICACIONES)"
+    ],
+    [
+     "23171620",
+     "Mandriles",
+     1,
+     "Mandril de 16 mm (ADJUNTAR IMAGEN Y/O ESPECIFICACIONES)"
+    ],
+    [
+     "41103311",
+     "Manómetros",
+     1,
+     "Kit manómetro  medidor de presión de aceite automotriz universal de 12 piezas (ADJUNTAR IMAGEN Y/O ESPECIFICACIONES)"
+    ],
+    [
+     "41113637",
+     "Medidores de voltaje o corriente",
+     1,
+     "Detector de cortocircuito automotriz 12-24v (ADJUNTAR IMAGEN Y/O ESPECIFICACIONES)"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=3540-316-COT26",
+   "sin_detalle": false,
+   "descripcion": "Se deben ofertar todas las líneas, indicando plazo de entrega y datos de contacto. Se privilegiará proveedor de la región o que cuente con sucursal en Coyhaique y luego precio. Este proceso no considera ítem flete ni cargos adicionales, los costos deben estar incluidos en los valores unitarios.(AJUNTAR ESPECIFICACIONES Y/O IMAGEN),(LEER TÉRMINOS DE REFERENCIA ADJUNTO).",
    "en_gracia": false,
    "desaparecida_iso": ""
   },
@@ -1450,24 +1497,6 @@
    "adj_iso": null
   },
   {
-   "codigo": "3540-316-COT26",
-   "nombre": "Mandril, estación de soldadura, detector cortocircuito y kit manómetro (P.2529)",
-   "organismo": "Ejercito de Chile",
-   "monto": 285000,
-   "cierre_iso": "2026-11-16T08:30:00-03:00",
-   "tipo": "POSIBLE",
-   "motivos": [
-    "eléctricos"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=3540-316-COT26",
-   "primera_vista_iso": "2026-11-12T13:45:25-03:00",
-   "removida_iso": "2026-11-16T09:00:25-03:00",
-   "estado_api": "",
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
    "codigo": "907-103-COT26",
    "nombre": "\tMAO ADQUISICIÓN ENSERES OFICINA COYHAIQUE",
    "organismo": "SERVICIO AGRICOLA Y GANADERO",
@@ -1914,24 +1943,6 @@
    ],
    "link": "https://buscador.mercadopublico.cl/ficha?code=3791-1135-COT26",
    "primera_vista_iso": "2026-11-11T14:18:43-03:00",
-   "removida_iso": "2026-11-12T13:45:25-03:00",
-   "estado_api": "",
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "1180817-3-COT26",
-   "nombre": "Adquisición de Mobiliario y Equipamiento",
-   "organismo": "SERVICIO DE SALUD AYSEN CARLOS IBANEZ DEL CAMPO",
-   "monto": 6814000,
-   "cierre_iso": "2026-11-12T10:00:00-03:00",
-   "tipo": "POSIBLE",
-   "motivos": [
-    "eléctrico"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1180817-3-COT26",
-   "primera_vista_iso": "2026-11-10T19:26:29-03:00",
    "removida_iso": "2026-11-12T13:45:25-03:00",
    "estado_api": "",
    "adj_nombre": null,

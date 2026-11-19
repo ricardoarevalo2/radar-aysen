@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-11-19T09:00:33.956836-03:00",
+ "actualizado": "2026-11-19T10:00:24.013620-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
- "total_region": 314,
+ "total_region": 320,
  "rubros": {
   "80141600": "Ventas y marketing",
   "82101600": "Publicidad en medios no impresos",
@@ -795,6 +795,65 @@
     "difusión"
    ],
    "nueva": true,
+   "codigo": "1233615-1017-COT26",
+   "nombre": "DMH [SOL-2026-02150] Recursos para el aprendizaje e innovación (hidrolavadora y manguera) para Liceo Politécnico A-1 de Puerto Aysén",
+   "organismo": "Servicio Local de Educación Pública Aysén",
+   "unidad": "Servicio Local de Educación Pública Aysén",
+   "monto": 230000,
+   "cierre_iso": "2026-11-23T09:00:00-03:00",
+   "publicacion": "19-11 09:06",
+   "publicacion_iso": "2026-11-19T09:06:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "40142008",
+     "Mangueras para agua",
+     1,
+     "Recursos para el aprendizaje e innovación (Hidrolavadora y manguera) para Liceo Politécnico A-1 de Puerto Aysén, de acuerdo a requerimiento adjunto a la presente compra (debe llenar formulario 1)"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1233615-1017-COT26",
+   "sin_detalle": false,
+   "descripcion": "Estos implementos permitirán desarrollar competencias tecnológicas, comunicativas, técnicas y laborales, fomentar la creatividad, el trabajo colaborativo y la participación estudiantil, además de apoyar la difusión de las actividades institucionales y el mejoramiento de los espacios educativos.",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "difusión",
+    "publicidad"
+   ],
+   "nueva": true,
+   "codigo": "1233615-1018-COT26",
+   "nombre": "DMH [SOL-2026-02150] Recursos para el aprendizaje e innovación (pendones) para Liceo Politécnico A-1 de Puerto Aysén",
+   "organismo": "Servicio Local de Educación Pública Aysén",
+   "unidad": "Servicio Local de Educación Pública Aysén",
+   "monto": 600000,
+   "cierre_iso": "2026-11-23T10:00:00-03:00",
+   "publicacion": "19-11 09:13",
+   "publicacion_iso": "2026-11-19T09:13:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "82101502",
+     "Publicidad en carteles",
+     1,
+     "Recursos para el aprendizaje e innovación para Liceo Politécnico A-1 de Puerto Aysén (bandera vela y Panel araña), de acuerdo a requerimiento adjunto a la presente compra (debe llenar formulario 1)"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1233615-1018-COT26",
+   "sin_detalle": false,
+   "descripcion": "Estos implementos permitirán desarrollar competencias tecnológicas, comunicativas, técnicas y laborales, fomentar la creatividad, el trabajo colaborativo y la participación estudiantil, además de apoyar la difusión de las actividades institucionales y el mejoramiento de los espacios educativos.",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "difusión"
+   ],
+   "nueva": true,
    "codigo": "1233615-1015-COT26",
    "nombre": "DMH [SOL-2026-02150] Recursos para el aprendizaje e innovación (focos, atriles y otros) para Liceo Politécnico A-1 de Puerto Aysén",
    "organismo": "Servicio Local de Educación Pública Aysén",
@@ -870,35 +929,6 @@
    "descripcion": "Es necesario cumplir con el Art.11 del D.L. N°2695/79, referido a publicidad del saneamiento de inmueble. Se requiere contratar la publicación digital de 17 avisos correspondientes a 2 veces o publicaciones por beneficiario o expediente, las cuales se harán indistintamente los días 1 y 15 del mes o en la edición inmediatamente siguiente si el diario o periódico no se publicare en los días indicados. Plazo de ejecución 252 días hábiles. Revisar documento adjunto para selección de proveedor.",
    "en_gracia": true,
    "desaparecida_iso": "2026-11-17T17:00:24-03:00"
-  },
-  {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Ventas y marketing"
-   ],
-   "nueva": false,
-   "codigo": "1201-206-COT26",
-   "nombre": "SERVICIO DE SONIDO – AMPLIFICACIÓN - ANIMACIÓN  EVENTOS SUB10 – SUB12 – JUVENIL JUEGOS DEPORTIVOS ESCOLARES 2026",
-   "organismo": "",
-   "unidad": "",
-   "monto": null,
-   "cierre_iso": "",
-   "publicacion": "",
-   "publicacion_iso": "",
-   "ofertas": 0,
-   "productos": [
-    [
-     "80141607",
-     "Producción de eventos",
-     1,
-     "Servicio de\nsonido,\namplificación y\nanimación"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1201-206-COT26",
-   "sin_detalle": false,
-   "descripcion": "Contratar el servicio de sonido, amplificación y animación para la ejecución de Encuentros\nDeportivos, en el marco de los Juegos Deportivos Escolares (JDE), en las disciplinas de\nmini vóleibol, básquetbol 3x3, balonmano adaptado y futsal, a realizarse en las comunas\nde Coyhaique y Aysén.",
-   "en_gracia": true,
-   "desaparecida_iso": "2026-11-18T16:00:26-03:00"
   },
   {
    "tipo": "OPORTUNIDAD",
@@ -1971,6 +2001,24 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=2495-671-COT26",
    "primera_vista_iso": "2026-11-16T16:44:10-03:00",
    "removida_iso": "2026-11-18T10:00:24-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
+  {
+   "codigo": "1201-206-COT26",
+   "nombre": "SERVICIO DE SONIDO – AMPLIFICACIÓN - ANIMACIÓN  EVENTOS SUB10 – SUB12 – JUVENIL JUEGOS DEPORTIVOS ESCOLARES 2026",
+   "organismo": "",
+   "monto": null,
+   "cierre_iso": "",
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Ventas y marketing"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1201-206-COT26",
+   "primera_vista_iso": "2026-11-17T12:00:27-03:00",
+   "removida_iso": "2026-11-19T10:00:24-03:00",
    "estado_api": null,
    "adj_nombre": null,
    "adj_monto": null,
