@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-11-19T17:00:24.006422-03:00",
+ "actualizado": "2026-11-19T18:00:24.907720-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
- "total_region": 334,
+ "total_region": 342,
  "rubros": {
   "25172700": "Aire acondicionado",
   "25173900": "Componentes eléctricos",
@@ -670,6 +670,35 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=911089-110-COT26",
    "sin_detalle": false,
    "descripcion": "SE SOLICITA LA ADQUISICION DEL SERVICIO PARA CONSTRUCCION DE PORTON ELECTRICO VEHICULAR Y CIERRE PERIMETRAL EN LA POBLACION DE SUBOFICIALES EN LA LOCALIDAD DE COCHRANE, CONFORME A LAS BASES TECNICAS QUE SE ADJUNTAN\n\nVISITA TERRENO EXCLUYENTE JUEVES 19NOV2026 ENTRADA POBLACION MILITAR SUBOFICIALES EN LA LOCALIDAD DE COCHRANE A LAS 10:00HRS\n\nSE SOLICITA LOS ANEXOS QUE SE ADJUNTA (ECONOMICO,DURACION,DECL.JURADA)  PARA LOS OFERENTE POSTULANTES, QUIEN NO LO PRESENTE FIRMADO QUEDA FUERA DE POSTULACIO",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Gasfitería, calefacción y aire acondicionado"
+   ],
+   "nueva": true,
+   "codigo": "1905-90-COT26",
+   "nombre": "Servicio de mejoramiento de calefacción en oficina de Puerto Aysén y Coyhaique",
+   "organismo": "SERVICIO DE REGISTRO CIVIL E IDENTIFICAC",
+   "unidad": "Dirección Regional XI Región",
+   "monto": 6000000,
+   "cierre_iso": "2026-11-26T10:00:00-03:00",
+   "publicacion": "19-11 17:28",
+   "publicacion_iso": "2026-11-19T17:28:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "72102305",
+     "Servicios de reparación, mantenimiento o reparación de aire acondicionado",
+     1,
+     "Servicio de mejoramiento de calefacción en oficina de Puerto Aysén y Coyhaique"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1905-90-COT26",
+   "sin_detalle": false,
+   "descripcion": "Servicio de mejoramiento de calefacción en oficina de Puerto Aysén y Coyhaique",
    "en_gracia": false,
    "desaparecida_iso": ""
   },
