@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-19T05:00:21.979421-03:00",
+ "actualizado": "2026-11-19T06:00:23.535412-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
  "total_region": 318,
@@ -1875,25 +1875,6 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=1180817-3-COT26",
    "primera_vista_iso": "2026-11-10T19:26:29-03:00",
    "removida_iso": "2026-11-12T13:45:25-03:00",
-   "estado_api": "",
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "1173433-21-COT26",
-   "nombre": "ADQUISICIÓN DE MAQUINARIA Y EQUIPAMIENTO AGRÍCOLA",
-   "organismo": "Centro de Educación y Trabajo Valle Verde",
-   "monto": 5638655,
-   "cierre_iso": "2026-11-12T05:54:00-03:00",
-   "tipo": "POSIBLE",
-   "motivos": [
-    "certificación sec",
-    "eléctrico"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1173433-21-COT26",
-   "primera_vista_iso": "2026-11-10T19:26:29-03:00",
-   "removida_iso": "2026-11-12T09:58:37-03:00",
    "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,
