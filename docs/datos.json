@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-11-19T08:00:23.707639-03:00",
+ "actualizado": "2026-11-19T09:00:33.956836-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
- "total_region": 312,
+ "total_region": 314,
  "rubros": {
   "80141600": "Ventas y marketing",
   "82101600": "Publicidad en medios no impresos",
@@ -14,97 +14,6 @@
   "83121700": "Comunicación social y de masas"
  },
  "filas": [
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "difusion",
-    "publicitarios"
-   ],
-   "nueva": false,
-   "codigo": "4609-315-COT26",
-   "nombre": "MATERIAL DE DIFUSION",
-   "organismo": "I MUNICIPALIDAD DE CHILE CHICO",
-   "unidad": "Finanzas",
-   "monto": 52380,
-   "cierre_iso": "2026-11-19T08:00:00-03:00",
-   "publicacion": "16-11 08:10",
-   "publicacion_iso": "2026-11-16T08:10:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "52121604",
-     "Mantel de mesa",
-     1,
-     "MANTEL CON LOGO INSTITUCIONAL ESTAMPADO"
-    ],
-    [
-     "82101501",
-     "Letreros publicitarios",
-     1,
-     "PENDON DE ESCRITORIO"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=4609-315-COT26",
-   "sin_detalle": false,
-   "descripcion": "COTIZACION MATERIAL DE DIFUSION",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "publicitaria",
-    "publicitario",
-    "publicitarios"
-   ],
-   "nueva": false,
-   "codigo": "2713-1405-COT26",
-   "nombre": "Seguridad Publica, solicitud adquisicion material publicitario, solicitud folio 1461",
-   "organismo": "I MUNICIPALIDAD DE AYSEN",
-   "unidad": "I.MUNICIPALIDAD AYSEN-ADQUISICIONES",
-   "monto": 869825,
-   "cierre_iso": "2026-11-19T08:30:00-03:00",
-   "publicacion": "17-11 10:43",
-   "publicacion_iso": "2026-11-17T10:43:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "53141619",
-     "Imanes",
-     500,
-     "iman con impresion, formato orizontal, medidas 6x10cm, segun detalles y especificaciones tecnicas adjuntas"
-    ],
-    [
-     "82121505",
-     "Impresión promocional o publicitaria",
-     150,
-     "afiche impreso, papel couche de 170 grs. medidas 33x48cm, segun detalles y especificaciones tecnicas adjuntas"
-    ],
-    [
-     "82121505",
-     "Impresión promocional o publicitaria",
-     1000,
-     "Afiche impreso papel couche 170grs medidas 10.5x14cm, segun detalles y especificaciones tecnicas adjuntas"
-    ],
-    [
-     "82121505",
-     "Impresión promocional o publicitaria",
-     35,
-     "Letrero Sintra Impreso, , material sintra de 5mm, segun detalles y especificaciones tecnicas adjuntas."
-    ],
-    [
-     "82121505",
-     "Impresión promocional o publicitaria",
-     1,
-     "Pendon Impreso, Dimension: 100cm ancho x 200cm alto, segun detalles y especificaciones tecnicas adjuntas."
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=2713-1405-COT26",
-   "sin_detalle": false,
-   "descripcion": "adquisicion de material publicitario segun detalles y especificacines tecnicas adjuntas,Los montos de las ofertas deben incluir todos los gastos necesarios, para la entrega de los productos publicitarios, en Puerto Aysén, las ofertas que sobrepasen el monto presupuestario disponible, no cumplan con las especificaciones técnicas no cumplan o no indiquen el plazo de entrega no serán evaluadas. el plazo de entrega comienza a correr al dia habil subsiguiente del envio de la orden de compra.",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
   {
    "tipo": "POSIBLE",
    "motivos": [
@@ -883,6 +792,35 @@
   {
    "tipo": "POSIBLE",
    "motivos": [
+    "difusión"
+   ],
+   "nueva": true,
+   "codigo": "1233615-1015-COT26",
+   "nombre": "DMH [SOL-2026-02150] Recursos para el aprendizaje e innovación (focos, atriles y otros) para Liceo Politécnico A-1 de Puerto Aysén",
+   "organismo": "Servicio Local de Educación Pública Aysén",
+   "unidad": "Servicio Local de Educación Pública Aysén",
+   "monto": 425000,
+   "cierre_iso": "2026-11-23T10:00:00-03:00",
+   "publicacion": "19-11 08:52",
+   "publicacion_iso": "2026-11-19T08:52:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "39111504",
+     "Sistemas de iluminación de escenario o estudio",
+     1,
+     "Recursos para el aprendizaje e innovación (atril, focos y otros) para Liceo Politécnico A-1 de Puerto Aysén, de acuerdo a requerimiento adjunto a la presente compra (llenar formulario 1)"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1233615-1015-COT26",
+   "sin_detalle": false,
+   "descripcion": "Estos implementos permitirán desarrollar competencias tecnológicas, comunicativas, técnicas y laborales, fomentar la creatividad, el trabajo colaborativo y la participación estudiantil, además de apoyar la difusión de las actividades institucionales y el mejoramiento de los espacios educativos.",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
     "avisos",
     "publicidad"
    ],
@@ -993,6 +931,45 @@
   }
  ],
  "historial": [
+  {
+   "codigo": "2713-1405-COT26",
+   "nombre": "Seguridad Publica, solicitud adquisicion material publicitario, solicitud folio 1461",
+   "organismo": "I MUNICIPALIDAD DE AYSEN",
+   "monto": 869825,
+   "cierre_iso": "2026-11-19T08:30:00-03:00",
+   "tipo": "POSIBLE",
+   "motivos": [
+    "publicitaria",
+    "publicitario",
+    "publicitarios"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=2713-1405-COT26",
+   "primera_vista_iso": "2026-11-17T11:00:24-03:00",
+   "removida_iso": "2026-11-19T09:00:33-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
+  {
+   "codigo": "4609-315-COT26",
+   "nombre": "MATERIAL DE DIFUSION",
+   "organismo": "I MUNICIPALIDAD DE CHILE CHICO",
+   "monto": 52380,
+   "cierre_iso": "2026-11-19T08:00:00-03:00",
+   "tipo": "POSIBLE",
+   "motivos": [
+    "difusion",
+    "publicitarios"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=4609-315-COT26",
+   "primera_vista_iso": "2026-11-16T09:00:25-03:00",
+   "removida_iso": "2026-11-19T09:00:33-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
   {
    "codigo": "2494-301-COT26",
    "nombre": "Adquisición de Premios para Taller Fotografia - Barrio Arturo Prat",
