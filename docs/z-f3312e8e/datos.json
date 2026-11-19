@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-11-19T13:00:23.455577-03:00",
+ "actualizado": "2026-11-19T14:00:24.646454-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
- "total_region": 319,
+ "total_region": 311,
  "rubros": {
   "25172700": "Aire acondicionado",
   "25173900": "Componentes eléctricos",
@@ -19,59 +19,6 @@
   "39121400": "Conectores, enchufes y terminales"
  },
  "filas": [
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "certificación sec"
-   ],
-   "nueva": false,
-   "codigo": "2713-1424-COT26",
-   "nombre": "Luces LED para Navidad 2026 - DAOMA - 1526",
-   "organismo": "I MUNICIPALIDAD DE AYSEN",
-   "unidad": "I.MUNICIPALIDAD AYSEN-ADQUISICIONES",
-   "monto": 5755000,
-   "cierre_iso": "2026-11-19T13:00:00-03:00",
-   "publicacion": "18-11 11:46",
-   "publicacion_iso": "2026-11-18T11:46:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "39111514",
-     "Luces de árboles",
-     4,
-     "Cinta LED 220 V simple blanco frio 5050 14,4 W, m 60 LED/m IP68 100 metros. Certificación SEC. No se requiere ficha técnica."
-    ],
-    [
-     "39111514",
-     "Luces de árboles",
-     4,
-     "Cinta LED 220 V simple azul 5050 14,4 W, m 60 LED/m IP68 100 metros. Certificación SEC. No se requiere ficha técnica"
-    ],
-    [
-     "39111514",
-     "Luces de árboles",
-     100,
-     "Unión de silicona para manguera LED pines 10 mm. Revestimineto plastico"
-    ],
-    [
-     "39111514",
-     "Luces de árboles",
-     20,
-     "Tiras de 100 luces LED de 10 mts cable de goma interconectables IP 44, luz Cálida. Certificación SEC."
-    ],
-    [
-     "39111514",
-     "Luces de árboles",
-     30,
-     "Tira de 100 luces LED De 10 mts cable de goma interconectables IP 44, Luz fria. Certificación SEC"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=2713-1424-COT26",
-   "sin_detalle": false,
-   "descripcion": "Adquisición de luces LED para Navidad, según detalle del ítem, las ofertas deberán: incluir la totalidad de los productos solicitados, ajustarse al presupuesto disponible, el oferente asumirá COSTO DE TRANSPORTE (no desglosarlo como ítem aparte), debe indicar plazo de entrega (no se aceptara plazo de despacho y el plazo de entrega iniciará el día hábil subsiguiente al envío de la OC), presentar certificaciones SEC solicitadas. Ofertas que no cumplan con lo anterior serán rechazadas.",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
   {
    "tipo": "OPORTUNIDAD",
    "motivos": [
@@ -767,7 +714,7 @@
    "motivos": [
     "Enfriamiento (aires acondicionados)"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "3765-368-COT26",
    "nombre": "INSUMOS Y HERRAMIENTAS PARA MANTEMIENTOS",
    "organismo": "SERVICIO NACIONAL DE SALUD HOSPITAL DE C",
@@ -896,7 +843,7 @@
    "motivos": [
     "Materiales de física de electricidad"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "1233615-984-COT26",
    "nombre": "RMG-SOL01535-Liceo Luisa Rabanal, Equipamiento para simulación EMTP 29.05, despacho incluido a Chile Chico.",
    "organismo": "Servicio Local de Educación Pública Aysén",
@@ -1056,6 +1003,24 @@
   }
  ],
  "historial": [
+  {
+   "codigo": "2713-1424-COT26",
+   "nombre": "Luces LED para Navidad 2026 - DAOMA - 1526",
+   "organismo": "I MUNICIPALIDAD DE AYSEN",
+   "monto": 5755000,
+   "cierre_iso": "2026-11-19T13:00:00-03:00",
+   "tipo": "POSIBLE",
+   "motivos": [
+    "certificación sec"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=2713-1424-COT26",
+   "primera_vista_iso": "2026-11-18T12:00:27-03:00",
+   "removida_iso": "2026-11-19T14:00:24-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
   {
    "codigo": "4066-529-COT26",
    "nombre": "SERVICIO DE MANTENCIÓN Y ADECUACIÓN DE INSTALACIONES ELÉCTRICAS EN EL GIMNASIO IND DE PUERTO INGENIERO IBÁÑEZ",

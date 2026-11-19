@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-11-19T13:00:23.455577-03:00",
+ "actualizado": "2026-11-19T14:00:24.646454-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
- "total_region": 319,
+ "total_region": 311,
  "rubros": {
   "80141600": "Ventas y marketing",
   "82101600": "Publicidad en medios no impresos",
@@ -14,35 +14,6 @@
   "83121700": "Comunicación social y de masas"
  },
  "filas": [
-  {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Publicidad en medios no impresos"
-   ],
-   "nueva": true,
-   "codigo": "1195-593-COT26",
-   "nombre": "SERVICIO DE DIFUSION PARA PROYECTO DE RECICLAJE",
-   "organismo": "I MUNICIPALIDAD DE COYHAIQUE",
-   "unidad": "Ilustre Municipalidad de Coyhaique",
-   "monto": 400000,
-   "cierre_iso": "2026-11-19T13:45:00-03:00",
-   "publicacion": "18-11 13:25",
-   "publicacion_iso": "2026-11-18T13:25:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "82101603",
-     "Publicidad en Internet",
-     1,
-     "SE REQUIERE CONTRATAR UN MEDIO DE COMUNICACION REGIONAL PARA LA GABACION, EDICION Y DIFUSION DE CAPSULAS AUDIOVISUALES CONSIDERANDO 4 HRS MENSUALES(NOVIEMBRE DICIEMBRE),PUBLICACIONES SEMANALS DE 20 A 29 MINUTOS,BANNER PUBLICITARIO Y DIFUSION EN RRSS,SITIO WEB,TELEVISION DIGITAL Y STREAMING.SE PRIORIZARA PROVEEDOR LOCAL CON COBERTURA EN LA REGION DE AYSEN."
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1195-593-COT26",
-   "sin_detalle": false,
-   "descripcion": "SE REQUIERE CONTRATAR UN MEDIO DE COMUNICACION REGIONAL PARA LA GABACION, EDICION Y DIFUSION DE CAPSULAS AUDIOVISUALES CONSIDERANDO 4 HRS MENSUALES(NOVIEMBRE DICIEMBRE),PUBLICACIONES SEMANALS DE 20 A 29 MINUTOS,BANNER PUBLICITARIO Y DIFUSION EN RRSS,SITIO WEB,TELEVISION DIGITAL Y STREAMING.SE PRIORIZARA PROVEEDOR LOCAL CON COBERTURA EN LA REGION DE AYSEN.",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
   {
    "tipo": "POSIBLE",
    "motivos": [
@@ -309,7 +280,7 @@
    "motivos": [
     "difusion"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "1758-302-COT26",
    "nombre": "ADQUISICION INSUMO PARA EJECUCION EN EL MARCO DE LA DIFUSION DEL PLAN CHILE APRENDE Y AVANZA MINEDUC",
    "organismo": "SECRETARIA REGIONAL MINISTERIAL DE EDUCACION XI REGION",
@@ -623,7 +594,7 @@
    "motivos": [
     "publicitaria"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "2713-1425-COT26",
    "nombre": "SERVICIO IMPRESION Y MATERIAL GRAFICO. FOLIO 1503 MEDIO AMBIENTE.",
    "organismo": "I MUNICIPALIDAD DE AYSEN",
@@ -932,6 +903,24 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=2494-301-COT26",
    "primera_vista_iso": "2026-11-17T10:00:28-03:00",
    "removida_iso": "2026-11-19T12:00:30-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
+  {
+   "codigo": "1195-593-COT26",
+   "nombre": "SERVICIO DE DIFUSION PARA PROYECTO DE RECICLAJE",
+   "organismo": "I MUNICIPALIDAD DE COYHAIQUE",
+   "monto": 400000,
+   "cierre_iso": "2026-11-19T13:45:00-03:00",
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Publicidad en medios no impresos"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1195-593-COT26",
+   "primera_vista_iso": "2026-11-18T14:00:25-03:00",
+   "removida_iso": "2026-11-19T14:00:24-03:00",
    "estado_api": null,
    "adj_nombre": null,
    "adj_monto": null,
@@ -1999,24 +1988,6 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=1538639-14-COT26",
    "primera_vista_iso": "2026-11-11T14:18:43-03:00",
    "removida_iso": "2026-11-12T18:12:42-03:00",
-   "estado_api": "",
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "1280-78-COT26",
-   "nombre": "TELEVISOR SMART TV 75”",
-   "organismo": "MINISTERIO DE OBRAS PUBLICAS DIREC CION GRAL DE OO PP DCYF",
-   "monto": 850000,
-   "cierre_iso": "2026-11-12T13:15:00-03:00",
-   "tipo": "POSIBLE",
-   "motivos": [
-    "audiovisual"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1280-78-COT26",
-   "primera_vista_iso": "2026-11-11T14:18:43-03:00",
-   "removida_iso": "2026-11-12T13:45:25-03:00",
    "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,
