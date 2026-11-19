@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-11-19T10:00:24.013620-03:00",
+ "actualizado": "2026-11-19T11:00:26.527447-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
- "total_region": 320,
+ "total_region": 323,
  "rubros": {
   "80141600": "Ventas y marketing",
   "82101600": "Publicidad en medios no impresos",
@@ -14,35 +14,6 @@
   "83121700": "Comunicación social y de masas"
  },
  "filas": [
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "registro fotográfico"
-   ],
-   "nueva": false,
-   "codigo": "885-925-COT26",
-   "nombre": "La Contraloria requiere contratar el mantenimiento correctivo del vehículo Nissan X-Trail, patente DTDG-37, de la Contraloría Regional de Aysé",
-   "organismo": "CONTRALORIA GENERAL DE LA REPUBLICA",
-   "unidad": "Contraloría General de la República",
-   "monto": 1400000,
-   "cierre_iso": "2026-11-19T10:00:00-03:00",
-   "publicacion": "12-11 15:37",
-   "publicacion_iso": "2026-11-12T15:37:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "25191513",
-     "Kit de mantenimiento de vehículo de soporte en tierra",
-     1,
-     "Contratación de mantenimiento vehicular en taller de la Región de Aysén. Incluye reemplazo de bujes traseros, amortiguadores, bieletas, bujes de cuna, intervención de cremallera y alineación con repuestos nuevos. Exige garantía mínima de 6 meses, informe técnico con registro fotográfico y entrega de piezas cambiadas. Cotizar detallando repuestos, plazos y ubicación sin cobros duplicados. Por favor apegarse a los términos de referencia."
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=885-925-COT26",
-   "sin_detalle": false,
-   "descripcion": "Se requiere contratar el mantenimiento correctivo del vehículo Nissan X-Trail, patente DTDG-37, de la Contraloría Regional de Aysé",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
   {
    "tipo": "OPORTUNIDAD",
    "motivos": [
@@ -547,6 +518,47 @@
   {
    "tipo": "POSIBLE",
    "motivos": [
+    "audiovisual"
+   ],
+   "nueva": true,
+   "codigo": "886182-269-COT26",
+   "nombre": "Adquisición de equipamiento audiovisual _ Según FISABS 2483.",
+   "organismo": "UNIVERSIDAD DE AYSEN",
+   "unidad": "Universidad de Aysen",
+   "monto": 778968,
+   "cierre_iso": "2026-11-20T10:30:00-03:00",
+   "publicacion": "19-11 10:06",
+   "publicacion_iso": "2026-11-19T10:06:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "45121801",
+     "Cámaras para microfilmar",
+     2,
+     "Se requiere cotizar  adquisición de 1 cámara de video digital que incluya una batería adicional, un soporte adhesivo curvo adicional, una tarjeta SD de 64 GB y un estuche de guardado. Según especificaciones técnicas adjuntas."
+    ],
+    [
+     "52161512",
+     "Parlantes",
+     1,
+     "Se requiere cotizar 1 BAFLE ACTIVO 15P + DOBLE MICROFONO INALAMBRICO, según especificaciones técnicas adjuntas."
+    ],
+    [
+     "52161520",
+     "Micrófonos",
+     1,
+     "Se requiere cotizar adquisición de 1 Micrófono Inalámbrico Ultra Compacto Portable 24GHz USB-C. Según especificaciones técnicas adjuntas."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=886182-269-COT26",
+   "sin_detalle": false,
+   "descripcion": "Se requiere cotizar adquisición de equipamiento audiovisual. Cotización debe indicar especificaciones técnicas de lo ofertado. Debe indicar plazo de entrega ofertado, considerando entrega en dependencias de U. Aysén. Valor cotizado debe incluir flete e impuestos. Se podrá privilegiar el menor plazo de entrega ofertado, siempre que cumpla con todas las especificaciones requeridas.",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
     "fotografía"
    ],
    "nueva": false,
@@ -665,7 +677,7 @@
    "motivos": [
     "difusion"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "1758-299-COT26",
    "nombre": "SERVICIO DE MEDIACION LECTORA Y NARRACION ORAL CUENTACUENTOS ",
    "organismo": "SECRETARIA REGIONAL MINISTERIAL DE EDUCACION XI REGION",
@@ -757,6 +769,47 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=2713-1425-COT26",
    "sin_detalle": false,
    "descripcion": "SERVICIO IMPRESION Y MATERIAL GRAFICO SEGUN ANEXOS ADJUNTOS.COSTOS TRASLADOS A PUERTO AYSÉN SERÁN DEL OFERENTE.PLAZO ENTREGA SERÁN DE 10 DÍA HÁBIL, DE LO CONTRARIO SE DESCARTARAN.PROVEEDOR QUE NO INDIQUE EL PLAZO DE ENTREGA SE DESCARTARA SU COTIZACIÓN. OFERENTE DEBE INCLUIR FLETES EN EL PRECIO DEL PRODUCTO.SE SOLICITA ANEXAR FICHA TECNICA, DE LO CONTRARIO SE DESCARTARA. PLAZO DE ENTREGA COMIENZA A CONTAR DEL DIA HABIL SUBSIGUIENTE DEL ENVÍO DE ORDEN DE COMPRA.SE DEBE COTIZAR TODOS LOS PRODUCTOS",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "fotografía"
+   ],
+   "nueva": true,
+   "codigo": "2494-301-COT26",
+   "nombre": "Adquisición de Premios para Taller Fotografia - Barrio Arturo Prat",
+   "organismo": "I MUNICIPALIDAD DE COYHAIQUE",
+   "unidad": "SECRETARIA COMUNAL DE PLANIFICACION",
+   "monto": 250000,
+   "cierre_iso": "2026-11-20T20:45:00-03:00",
+   "publicacion": "17-11 09:48",
+   "publicacion_iso": "2026-11-17T09:48:00-03:00",
+   "ofertas": 2,
+   "productos": [
+    [
+     "45121518",
+     "Kits de cámara",
+     5,
+     "Trípodes Profesional Extendible Ajustable Para Cámara Celular,170.00 x 34.00 x 170.00 cm, imagen referencial 1*\n\nLos detalles se encuentrasn en el documento adjunto."
+    ],
+    [
+     "45121518",
+     "Kits de cámara",
+     5,
+     "Tazas Cafe Mug Tipo Lente Camara Fotografica Aluminio, 350 ml, imagen referencial 2*\n\nLos detalles se encuentrasn en el documento adjunto."
+    ],
+    [
+     "45121518",
+     "Kits de cámara",
+     5,
+     "Monocular Zoom 40x60 Hd Estuche + Porta Celular Outdoor, imagen referencial 3*\n\nLos detalles se encuentrasn en el documento adjunto."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=2494-301-COT26",
+   "sin_detalle": false,
+   "descripcion": "Adquisición premios para concurso de fotografía del Barrio arturo Prat, con el objeto de generar acciones comunitarias y de fortalecimiento de la participación barrial impulsadas por el Programa Quiero Mi Barrio, a través de un taller de fotografía, la cual se contempla los premios que serán adquiridos mendiante Mercado Público. LOS DETALLES DE LOS PRODUCTOS DESEADO SE ENCUENTRAN EN EL DOCUMENTO ADJUNTO.",
    "en_gracia": false,
    "desaparecida_iso": ""
   },
@@ -962,6 +1015,24 @@
  ],
  "historial": [
   {
+   "codigo": "885-925-COT26",
+   "nombre": "La Contraloria requiere contratar el mantenimiento correctivo del vehículo Nissan X-Trail, patente DTDG-37, de la Contraloría Regional de Aysé",
+   "organismo": "CONTRALORIA GENERAL DE LA REPUBLICA",
+   "monto": 1400000,
+   "cierre_iso": "2026-11-19T10:00:00-03:00",
+   "tipo": "POSIBLE",
+   "motivos": [
+    "registro fotográfico"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=885-925-COT26",
+   "primera_vista_iso": "2026-11-12T18:12:42-03:00",
+   "removida_iso": "2026-11-19T11:00:26-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
+  {
    "codigo": "2713-1405-COT26",
    "nombre": "Seguridad Publica, solicitud adquisicion material publicitario, solicitud folio 1461",
    "organismo": "I MUNICIPALIDAD DE AYSEN",
@@ -995,24 +1066,6 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=4609-315-COT26",
    "primera_vista_iso": "2026-11-16T09:00:25-03:00",
    "removida_iso": "2026-11-19T09:00:33-03:00",
-   "estado_api": null,
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "2494-301-COT26",
-   "nombre": "Adquisición de Premios para Taller Fotografia - Barrio Arturo Prat",
-   "organismo": "I MUNICIPALIDAD DE COYHAIQUE",
-   "monto": 250000,
-   "cierre_iso": "2026-11-18T20:00:00-03:00",
-   "tipo": "POSIBLE",
-   "motivos": [
-    "fotografía"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=2494-301-COT26",
-   "primera_vista_iso": "2026-11-17T10:00:28-03:00",
-   "removida_iso": "2026-11-18T21:00:25-03:00",
    "estado_api": null,
    "adj_nombre": null,
    "adj_monto": null,
