@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-11-19T15:00:27.405929-03:00",
+ "actualizado": "2026-11-19T15:25:38.935808-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
- "total_region": 319,
+ "total_region": 318,
  "rubros": {
   "80141600": "Ventas y marketing",
   "82101600": "Publicidad en medios no impresos",
@@ -14,37 +14,6 @@
   "83121700": "Comunicación social y de masas"
  },
  "filas": [
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "radiales",
-    "radioemisora",
-    "spots"
-   ],
-   "nueva": false,
-   "codigo": "1057062-548-COT26",
-   "nombre": "Servicio de emisión de spots en radioemisora con cobertura regional en Aysén.",
-   "organismo": "UNIVERSIDAD DE AYSEN",
-   "unidad": "Proyectos",
-   "monto": 322000,
-   "cierre_iso": "2026-11-19T15:00:00-03:00",
-   "publicacion": "17-11 13:59",
-   "publicacion_iso": "2026-11-17T13:59:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "52161511",
-     "Radios",
-     1,
-     "Se requiere la emisión de al menos 4 spots radiales diarios, vigentes hasta el 30 de enero, en una radioemisora de Coyhaique con frecuencias AM y FM. El proveedor deberá detallar en su oferta las características del servicio, indicar el nombre del medio y acreditar documentalmente su cobertura. Para la recepción conforme del servicio (la cual podrá ser mensual), será obligatorio adjuntar los medios de verificación correspondientes que respalden las emisiones realizadas."
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1057062-548-COT26",
-   "sin_detalle": false,
-   "descripcion": "Emisión de al menos 4 spots radiales diarios con vigencia hasta el 30 de enero en una radioemisora de Coyhaique con frecuencia AM y FM. El medio debe acreditar cobertura efectiva en al menos 10 localidades de la región (La Junta, Puerto Cisnes, Mañihuales, Coyhaique, Puerto Aysén, Chile Chico, Caleta Tortel, Guadal, Puerto Aguirre y Cochrane) además de señal digital, contando con al menos 22 mil seguidores en Instagram y 100 mil en Facebook.",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
   {
    "tipo": "OPORTUNIDAD",
    "motivos": [
@@ -592,6 +561,35 @@
   {
    "tipo": "POSIBLE",
    "motivos": [
+    "difusión"
+   ],
+   "nueva": true,
+   "codigo": "3797-549-COT26",
+   "nombre": "TOLDO INSTITUCIONAL OLN",
+   "organismo": "I MUNICIPALIDAD DE COCHRANE",
+   "unidad": "I MUNICIPALIDAD DE COCHRANE",
+   "monto": 100000,
+   "cierre_iso": "2026-11-20T15:20:00-03:00",
+   "publicacion": "19-11 15:13",
+   "publicacion_iso": "2026-11-19T15:13:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "30151901",
+     "Toldos",
+     1,
+     "Toldo plegable tipo araña (acordeón) de 3,00 x 3,00 metros (9 m² de cobertura) con estructura metálica de acero reforzado y recubrimiento anticorrosivo (pintura electrostática negra), tubos exteriores de sección cuadrada de al menos 30 x 30 mm y patas telescópicas regulables en 4 niveles de altura con despliegue rápido sin herramientas; debe incluir cubierta superior de lona textil impermeable de alta densidad (poliéster/Oxford)\n\nDemas consideraciones indicadas en documento adjunto"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=3797-549-COT26",
+   "sin_detalle": false,
+   "descripcion": "En el marco de las actividades desarrolladas por la Oficina Local de la Niñez, se requiere la adquisición de un toldo institucional que permita contar con un espacio adecuado para la ejecución de actividades territoriales, jornadas de difusión y acciones de promoción y prevención de derechos de niños, niñas y adolescentes",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
     "publicitaria"
    ],
    "nueva": false,
@@ -931,6 +929,26 @@
   }
  ],
  "historial": [
+  {
+   "codigo": "1057062-548-COT26",
+   "nombre": "Servicio de emisión de spots en radioemisora con cobertura regional en Aysén.",
+   "organismo": "UNIVERSIDAD DE AYSEN",
+   "monto": 322000,
+   "cierre_iso": "2026-11-19T15:00:00-03:00",
+   "tipo": "POSIBLE",
+   "motivos": [
+    "radiales",
+    "radioemisora",
+    "spots"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1057062-548-COT26",
+   "primera_vista_iso": "2026-11-17T15:00:50-03:00",
+   "removida_iso": "2026-11-19T15:25:38-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
   {
    "codigo": "1195-593-COT26",
    "nombre": "SERVICIO DE DIFUSION PARA PROYECTO DE RECICLAJE",

@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-11-19T15:00:27.405929-03:00",
+ "actualizado": "2026-11-19T15:25:38.935808-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
- "total_region": 319,
+ "total_region": 318,
  "rubros": {
   "25172700": "Aire acondicionado",
   "25173900": "Componentes eléctricos",
@@ -19,235 +19,6 @@
   "39121400": "Conectores, enchufes y terminales"
  },
  "filas": [
-  {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Cajas y accesorios eléctricos",
-    "Conectores, enchufes y terminales",
-    "Interruptores, controles y relés"
-   ],
-   "nueva": true,
-   "codigo": "1092-89-COT26",
-   "nombre": " SIC N°464 SIRE N°449 Materiales de construcción DEPRIF",
-   "organismo": "CORP NACIONAL FORESTAL",
-   "unidad": "XI Región - Oficina Regional de Aysén",
-   "monto": 2382419,
-   "cierre_iso": "2026-11-19T15:00:00-03:00",
-   "publicacion": "13-11 12:57",
-   "publicacion_iso": "2026-11-13T12:57:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "12163101",
-     "Aditivos Anti saca-arena",
-     1,
-     "Aditivo impermeabilizante líquido igual o equivalente sika."
-    ],
-    [
-     "13101905",
-     "Melamina (MF)",
-     9,
-     "Terciado ranurado revest pino colonial 9 x 122 x 244cm"
-    ],
-    [
-     "13101905",
-     "Melamina (MF)",
-     1,
-     "OSB 9,5mm 122x244 APA similar o equivalente a Protec"
-    ],
-    [
-     "13102013",
-     "Policarbonato (PC)",
-     1,
-     "Policarbonato Alveolar 4 mm 210 x 580cm Transparente"
-    ],
-    [
-     "13111016",
-     "Polietileno",
-     1,
-     "Polietileno transparente 4x10m (40m2)"
-    ],
-    [
-     "30102903",
-     "Pilares de metal",
-     4,
-     "Pilar de fierro 15x15cm de 3 ms en FE 8 mm"
-    ],
-    [
-     "30103603",
-     "Madera de encuadre",
-     30,
-     "Madera pino cepillada 2x3x3,20"
-    ],
-    [
-     "30103603",
-     "Madera de encuadre",
-     6,
-     "Madera pino verde 2 x 3 x 3,20 bruto"
-    ],
-    [
-     "30111601",
-     "Cemento",
-     10,
-     "Cemento azul PCR 25kg (el saco azul (CPP40) es un cemento Portland Puzolánico resistente a sulfatos y ambientes húmedos o salinos)"
-    ],
-    [
-     "30111601",
-     "Cemento",
-     35,
-     "Cemento rojo alta resistencia PCR 25kg (el saco rojo (CPN40) es un cemento Portland Normal de alta resistencia inicial para uso general)"
-    ],
-    [
-     "30111601",
-     "Cemento",
-     50,
-     "Sacos de hormigón preparado H20 25kg"
-    ],
-    [
-     "31161506",
-     "Tornillos roscalata",
-     1,
-     "Tornillo autoperforante hexagonal punta espada 10 - 12 x1 1/2  caja/bolsa 500u c/u"
-    ],
-    [
-     "31161508",
-     "Tornillos para madera",
-     2,
-     "Tornillos volcanita CRS 6 x 2 caja/bolsa de 500u c/u"
-    ],
-    [
-     "31161508",
-     "Tornillos para madera",
-     2,
-     "Tornillo Volcanita CRS 8 x 3 caja/bolsa 500u c/u"
-    ],
-    [
-     "31201515",
-     "Cintas de papel",
-     3,
-     "Cinta masking tape (Enmascarar) 36mm x 40m"
-    ],
-    [
-     "31211501",
-     "Pinturas al esmalte",
-     3,
-     "Esmalte agua color blanco Acabado Semibrillante\nAntimoho\nInterior y exterior\nCon protección UV\nResistente al agua\nSuperficie de aplicación Madera, Yeso, Concreto, Hormigón\nExtra lavable, alto rendimiento y con antihongos."
-    ],
-    [
-     "31211705",
-     "Barniza de laca",
-     2,
-     "Barniz marino brillante natural igual o equivalente ceresita"
-    ],
-    [
-     "31211904",
-     "Brochas",
-     4,
-     "Brochas 4\""
-    ],
-    [
-     "31211904",
-     "Brochas",
-     4,
-     "Brochas 2\""
-    ],
-    [
-     "31211906",
-     "Rodillos de pintar",
-     4,
-     "Rodillos chiporro 18/7 igual o equivalente a lizcal"
-    ],
-    [
-     "39101608",
-     "Focos cialiticos",
-     7,
-     "Foco Led Sobrepuestos Redondos 18w 6500k LF.\nCon certificación SEC."
-    ],
-    [
-     "39121205",
-     "Canaletas para cables",
-     10,
-     "Canaleta eléctricas 20x10x2mt con adhesivo.\nCon certificación SEC."
-    ],
-    [
-     "39121310",
-     "Cajas de uso general",
-     7,
-     "Caja Chuqui Plástica Libre de Halógenos 125x81x45.\nCon certificación SEC."
-    ],
-    [
-     "39121424",
-     "Tapas de tablero de bornes",
-     1,
-     "Tablero eléctrico embutido con puerta transparente 4 polos Grado de protección IP\tIP 42.\nCon certificación SEC"
-    ],
-    [
-     "39121511",
-     "Interruptores variables",
-     1,
-     "Interruptor Diferencial 2x25A 30ma equivalente a Stanford.\nCon certificación SEC."
-    ],
-    [
-     "39121511",
-     "Interruptores variables",
-     5,
-     "Interruptor doble 9/15 ARN LUZICA PU1200. \nCon certificación SEC."
-    ],
-    [
-     "39121511",
-     "Interruptores variables",
-     2,
-     "Interruptor simple 9/12 ARN LUZICA PU1100.\nCon certificación SEC."
-    ],
-    [
-     "40101825",
-     "Calentadores de agua de uso doméstico",
-     1,
-     "Calefón 11 litros igual o equivalente a ION MASTER SPLENDID\nEncendido automático\n6 sistema de seguridad\nAjuste de temperatura\nEncendido electrónico\nAlimentación Gas Licuado\nCaudal de agua (L/min) 11 l/min\nPotencia 18 kW\nTipo de encendido Ionizado\nIncluye flexibles de 200mm\nTiro Natural"
-    ],
-    [
-     "40142610",
-     "Acoplamientos de tubo",
-     25,
-     "Unión americana PPR 25mm"
-    ],
-    [
-     "40142612",
-     "Adaptadores de tubo",
-     10,
-     "Tubos PPR 25mm x 6m PN20"
-    ],
-    [
-     "40142613",
-     "Conectores de tubo",
-     10,
-     "Llave paso PPR 25mm cromo"
-    ],
-    [
-     "40142613",
-     "Conectores de tubo",
-     30,
-     "Copla 25mm PPR"
-    ],
-    [
-     "40142613",
-     "Conectores de tubo",
-     30,
-     "Terminal 25 x 3/4 HE PPR"
-    ],
-    [
-     "40142613",
-     "Conectores de tubo",
-     30,
-     "Terminal 25 x 3/4 HI PPR"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1092-89-COT26",
-   "sin_detalle": false,
-   "descripcion": "La Corporación Nacional Forestal por medio del Departamento de Protección Contra Incendios Forestales Región de Aysén, requiere la adquisición de Materiales de Construcción para las Brigadas de Coyhaique y Chile Chico Región de Aysén. No se cancela costos asociados al flete. (Ver especificaciones técnicas adjuntas).",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
   {
    "tipo": "POSIBLE",
    "motivos": [
@@ -946,6 +717,47 @@
   {
    "tipo": "POSIBLE",
    "motivos": [
+    "generador"
+   ],
+   "nueva": true,
+   "codigo": "3540-325-COT26",
+   "nombre": "Reptos, bateria e Insumos para Generador Kolvo",
+   "organismo": "Ejercito de Chile",
+   "unidad": "Cuerpo Militar del Trabajo Subjefatura Zonal Coyhaique",
+   "monto": 350000,
+   "cierre_iso": "2026-11-24T10:00:00-03:00",
+   "publicacion": "19-11 15:07",
+   "publicacion_iso": "2026-11-19T15:07:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "26111709",
+     "Baterías de níquel-cadmio",
+     1,
+     "Bateria 12V 32 AMP BORNES TIPO TORNILLO, para Generador DEE 8KVA KOLVO MODELO G080DE3 AÑO 2025, CODIGO 90700001973, PRESUPUESTO PARA ESTA LINEA DE 100.000. IVA INCLUIDO"
+    ],
+    [
+     "39121608",
+     "Fusibles de clase",
+     2,
+     "Fusible 30A 250V, para Generador DEE 8KVA KOLVO MODELO G080DE3 AÑO 2025, CODIGO 90700001973, PRESUPUESTO PARA ESTA LINEA DE 20.000. IVA INCLUIDO"
+    ],
+    [
+     "40151605",
+     "Compresores de motor",
+     1,
+     "MOTOR DE ARRANQUE N°QD114A 12V 1.2KW, para Generador DEE 8KVA KOLVO MODELO G080DE3 AÑO 2025, CODIGO 90700001973, PRESUPUESTO PARA ESTA LINEA DE 230.000. IVA INCLUIDO"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=3540-325-COT26",
+   "sin_detalle": false,
+   "descripcion": "Indicar plazo de entrega y datos de contacto. Se privilegiará proveedor de la región o que cuente con sucursal en Coyhaique y luego precio. Este proceso no considera ítem flete ni cargos adicionales, los costos deben estar incluidos en los valores unitarios. (LEER TÉRMINOS DE REFERENCIA ADJUNTO). Plazo desde emisión orden de compra, presupuesto disponible por ítems o línea, ajustar presupuesto*****",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
     "eléctrico"
    ],
    "nueva": false,
@@ -1003,6 +815,26 @@
   }
  ],
  "historial": [
+  {
+   "codigo": "1092-89-COT26",
+   "nombre": " SIC N°464 SIRE N°449 Materiales de construcción DEPRIF",
+   "organismo": "CORP NACIONAL FORESTAL",
+   "monto": 2382419,
+   "cierre_iso": "2026-11-19T15:00:00-03:00",
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Cajas y accesorios eléctricos",
+    "Conectores, enchufes y terminales",
+    "Interruptores, controles y relés"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1092-89-COT26",
+   "primera_vista_iso": "2026-11-13T14:00:24-03:00",
+   "removida_iso": "2026-11-19T15:25:38-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
   {
    "codigo": "2151-93-COT26",
    "nombre": "SERVICIO DE MANTENCIÓN PREVENTIVA Y CORRECTIVA DE 7 EQUIPOS DE AIRE ACONDICIONADO SPLIT – HOSPITAL DR. JORGE IBAR BRUCE DE PUERTO CISNES",
@@ -1383,7 +1215,7 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=930039-37-COT26",
    "primera_vista_iso": "2026-11-13T11:00:25-03:00",
    "removida_iso": "2026-11-16T16:00:40-03:00",
-   "estado_api": null,
+   "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,
    "adj_iso": null
