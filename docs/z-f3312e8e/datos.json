@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-11-19T15:25:38.935808-03:00",
+ "actualizado": "2026-11-19T16:00:25.351169-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
- "total_region": 318,
+ "total_region": 325,
  "rubros": {
   "25172700": "Aire acondicionado",
   "25173900": "Componentes eléctricos",
@@ -19,41 +19,6 @@
   "39121400": "Conectores, enchufes y terminales"
  },
  "filas": [
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "iluminación"
-   ],
-   "nueva": true,
-   "codigo": "3797-542-COT26",
-   "nombre": "EQUIPAMIENTO, IMPLEMENTOS Y DISPOSITIVOS ELECTRÓNICOS",
-   "organismo": "I MUNICIPALIDAD DE COCHRANE",
-   "unidad": "I MUNICIPALIDAD DE COCHRANE",
-   "monto": 1500000,
-   "cierre_iso": "2026-11-19T15:30:00-03:00",
-   "publicacion": "18-11 15:23",
-   "publicacion_iso": "2026-11-18T15:23:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "56111605",
-     "Iluminación o energía o componentes de datos para sistemas de panel",
-     2,
-     "SISTEMA DE ILUMINACION LED DE TABLEROS SEGÚN ESPECIFICACIONES TECNICA:\nLED DE AL INTENSIDAD \nDISEÑO PERIMETRAL DEL TABLERO COMPLETO, COBERTURA UNIFORME DE TODO EL CONTORNO, \nCONSTRUCCION ROBUSTA PERFILERIA DE ALUMINIO Y P´ROTECCION IP65, \nALIMENTACION SEGURA DE 220 VAC/ 50-60 HZ, \nVIDA UTIL PROLONGADA, NOMATIVA FIBA NIVEL 1 Y 2."
-    ],
-    [
-     "56111605",
-     "Iluminación o energía o componentes de datos para sistemas de panel",
-     1,
-     "INDICADOR ELECTRONICO DE POSESION ALTERNA IZQUIERDA, DERECHA, AMBAS Y APAGADO SEGÚN ESPECIFICACIONES TECNICAS:\nDIMENSIONES: 70X22 CM \nESPESOR: 6-8 CM APROXIMADO \nALIMENTACION: 220VAC/50 HZ\nCOMUNICACIÓN: INALAMBRICA\nDISTANCIA CONTROL: APROX. 50 MTS (CAMPO ABIERTO)\nANGULO VISION: SUPERIOR A 160 GRADOS\nGABINETE: ACERO \nPANEL FRONTAL: POLICABORNATO DE ALTA RESISNTENCIA \nINTSALACION: SOBRE MESA DE OFICIALES O SOPORTE\nTRANSPORTE MANILLA RECTRACTIL \nCOMPATIBLE CON FIBA NIVEL 1 Y 2."
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=3797-542-COT26",
-   "sin_detalle": false,
-   "descripcion": "Adquisición de equipamiento, implementos y dispositivos electrónicos para el tablero marcador del Gimnasio Municipal de Cochrane, con la finalidad de asegurar su correcto funcionamiento, mejorar el control y registro de los encuentros deportivos y fortalecer las condiciones técnicas para el desarrollo de actividades y competencias deportivas en la comuna.",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
   {
    "tipo": "OPORTUNIDAD",
    "motivos": [
@@ -815,6 +780,24 @@
   }
  ],
  "historial": [
+  {
+   "codigo": "3797-542-COT26",
+   "nombre": "EQUIPAMIENTO, IMPLEMENTOS Y DISPOSITIVOS ELECTRÓNICOS",
+   "organismo": "I MUNICIPALIDAD DE COCHRANE",
+   "monto": 1500000,
+   "cierre_iso": "2026-11-19T15:30:00-03:00",
+   "tipo": "POSIBLE",
+   "motivos": [
+    "iluminación"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=3797-542-COT26",
+   "primera_vista_iso": "2026-11-18T16:00:26-03:00",
+   "removida_iso": "2026-11-19T16:00:25-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
   {
    "codigo": "1092-89-COT26",
    "nombre": " SIC N°464 SIRE N°449 Materiales de construcción DEPRIF",
@@ -1665,24 +1648,6 @@
     "Servicios eléctricos"
    ],
    "link": "https://buscador.mercadopublico.cl/ficha?code=1274667-444-COT26",
-   "primera_vista_iso": "2026-11-12T09:58:37-03:00",
-   "removida_iso": "2026-11-12T18:12:42-03:00",
-   "estado_api": "",
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "4644-128-COT26",
-   "nombre": "CABLE PARA HUINCHE,GORE MAÑIHUALES  479: SIRE: 443 ",
-   "organismo": "CORP NACIONAL FORESTAL",
-   "monto": 965000,
-   "cierre_iso": "2026-11-12T16:00:00-03:00",
-   "tipo": "POSIBLE",
-   "motivos": [
-    "eléctrico"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=4644-128-COT26",
    "primera_vista_iso": "2026-11-12T09:58:37-03:00",
    "removida_iso": "2026-11-12T18:12:42-03:00",
    "estado_api": "",

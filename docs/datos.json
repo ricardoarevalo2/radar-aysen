@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-11-19T15:25:38.935808-03:00",
+ "actualizado": "2026-11-19T16:00:25.351169-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
- "total_region": 318,
+ "total_region": 325,
  "rubros": {
   "80141600": "Ventas y marketing",
   "82101600": "Publicidad en medios no impresos",
@@ -748,6 +748,59 @@
   {
    "tipo": "POSIBLE",
    "motivos": [
+    "fotografía"
+   ],
+   "nueva": true,
+   "codigo": "1428275-61-COT26",
+   "nombre": "ADQUISICIÓN DE MOBILIARIO",
+   "organismo": "SERVICIO NACIONAL DEL PATRIMONIO CULTURAL",
+   "unidad": "DIRECCIÓN REGIONAL DE AYSEN",
+   "monto": 1492300,
+   "cierre_iso": "2026-11-23T10:00:00-03:00",
+   "publicacion": "19-11 15:25",
+   "publicacion_iso": "2026-11-19T15:25:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "56101504",
+     "Sillas",
+     2,
+     "Apoyo Lumbar acolchado, apoyacabeza regulable en altura e inclinación, ofreciendo el soporte adecuado para la zona cervical regulación de altura y ancho, respaldo de malla respirable, asiento ergonómico con doble acolchado en espuma de alta densidad, mecanismo reclinable sincrónico, con 3 posiciones de reclinación (puedes fijarla o dejar con libre movimiento), pistón neumático de acero, base de aluminio 100% metal, ruedas de alta calidad, que soporte sobre 100 kilos de peso."
+    ],
+    [
+     "56101532",
+     "Mobiliario",
+     2,
+     "Cajonera de 4 ruedas y 3 cajones, de 43 x 45 x 60 h. Cubierta en melamina de 25 mm de espesor, canto de pvc de 2 mm estructura en melamina de 18 mm de espesor, canto de pvc de 0,45mm. 3 cajones y cerradura frontal con llave abisagrada. Color ROJO (MASISA) o a elección."
+    ],
+    [
+     "56101532",
+     "Mobiliario",
+     1,
+     "Podio de acrílico y madera, 120 cm de alto, 55 cm ancho, 55 cm fondo, con paredes laterales, con grabado en vinilo del logo institucional a color y con al menos una repisa interior"
+    ],
+    [
+     "56101535",
+     "Carritos de mobiliario",
+     4,
+     "Carro portalibros metálico sin laterales de madera, estructura de pilares de tubo Revestimientos laterales de acero, con 4 ruedas giratorias de 2 de ellas con freno. Medidas: Alto 110 x largo 65 x fondo 43 cm. Color a elegir. Producto similar a fotografía adjunta."
+    ],
+    [
+     "56101703",
+     "Escritorios",
+     1,
+     "Escritorio cubierta en laminado HPL de 25 mm de espesor, tras cara balance, canto de PVC de 2 mm. Terminaciones y color blanco. Bases metálicas electro pintadas (Blanco MT), lateral perfil de 40x60 mm con patines regulables. Electrificación caja metálica simple-triple. Faldón metálico electro pintado micropoerforado o liso soportado con escuadras a cubierta. Dimensiones: 150x76x76"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1428275-61-COT26",
+   "sin_detalle": false,
+   "descripcion": "El Servicio Nacional del Patrimonio Cultural Región de Aysén requiere la “ADQUISICIÓN DE MOBILIARIO”, para sus oficinas y dependencias institucionales, con el propósito de proporcionar espacios de trabajos adecuados y funcionales que contribuyan al desarrollo de las labores propias del Servicio.",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
     "difusión",
     "publicidad"
    ],
@@ -801,6 +854,35 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=1233615-1015-COT26",
    "sin_detalle": false,
    "descripcion": "Estos implementos permitirán desarrollar competencias tecnológicas, comunicativas, técnicas y laborales, fomentar la creatividad, el trabajo colaborativo y la participación estudiantil, además de apoyar la difusión de las actividades institucionales y el mejoramiento de los espacios educativos.",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Ventas y marketing"
+   ],
+   "nueva": true,
+   "codigo": "4609-324-COT26",
+   "nombre": "TALLERES ELABORACION FERMENTADO Y ENCURTIDO.",
+   "organismo": "I MUNICIPALIDAD DE CHILE CHICO",
+   "unidad": "Finanzas",
+   "monto": 4000000,
+   "cierre_iso": "2026-11-23T11:00:00-03:00",
+   "publicacion": "19-11 15:54",
+   "publicacion_iso": "2026-11-19T15:54:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "80141617",
+     "Capacitaciones directas en el concesionario",
+     1,
+     "DOS TALLERES DE ELABORACION DE FERMENTADOS Y ENCURTIDOS, EN LAS LOCALIDADES DE CHILE CHICO Y PUERTO GUADAL. (Detalles de los servicios en TDR adjunto)."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=4609-324-COT26",
+   "sin_detalle": false,
+   "descripcion": "COTIZACION TALLERES ELABORACION FERMENTADO Y ENCURTIDO.",
    "en_gracia": false,
    "desaparecida_iso": ""
   },
