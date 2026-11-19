@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-11-19T07:00:31.426562-03:00",
+ "actualizado": "2026-11-19T08:00:23.707639-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
- "total_region": 317,
+ "total_region": 312,
  "rubros": {
   "80141600": "Ventas y marketing",
   "82101600": "Publicidad en medios no impresos",
@@ -1976,44 +1976,6 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=4066-494-COT26",
    "primera_vista_iso": "2026-11-10T19:26:29-03:00",
    "removida_iso": "2026-11-12T13:45:25-03:00",
-   "estado_api": "",
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "4733-487-COT26",
-   "nombre": " SERVICIO DE PLATAFORMA STREAMING Y TRANSMISION MULTICANAL POR 12 MESES",
-   "organismo": "I MUNICIPALIDAD DE LAS GUAITECAS",
-   "monto": 600000,
-   "cierre_iso": "2026-11-12T08:00:00-03:00",
-   "tipo": "POSIBLE",
-   "motivos": [
-    "audiovisuales",
-    "radio",
-    "streaming"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=4733-487-COT26",
-   "primera_vista_iso": "2026-11-05T14:29:51-03:00",
-   "removida_iso": "2026-11-12T09:58:37-03:00",
-   "estado_api": "",
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "1057062-525-COT26",
-   "nombre": "Adquisiciones de material de difusión u aysen para el 27 de nov_segun fisabs 2449 ury 2493",
-   "organismo": "UNIVERSIDAD DE AYSEN",
-   "monto": 1333000,
-   "cierre_iso": "2026-11-12T08:00:00-03:00",
-   "tipo": "POSIBLE",
-   "motivos": [
-    "difusión"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1057062-525-COT26",
-   "primera_vista_iso": "2026-11-10T19:26:29-03:00",
-   "removida_iso": "2026-11-12T09:58:37-03:00",
    "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,
