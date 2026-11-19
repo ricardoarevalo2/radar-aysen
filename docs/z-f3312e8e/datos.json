@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-11-19T12:00:30.756988-03:00",
+ "actualizado": "2026-11-19T13:00:23.455577-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
- "total_region": 323,
+ "total_region": 319,
  "rubros": {
   "25172700": "Aire acondicionado",
   "25173900": "Componentes eléctricos",
@@ -19,38 +19,6 @@
   "39121400": "Conectores, enchufes y terminales"
  },
  "filas": [
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "aire acondicionado",
-    "eléctrico",
-    "instalaciones eléctricas",
-    "luminarias"
-   ],
-   "nueva": false,
-   "codigo": "4066-529-COT26",
-   "nombre": "SERVICIO DE MANTENCIÓN Y ADECUACIÓN DE INSTALACIONES ELÉCTRICAS EN EL GIMNASIO IND DE PUERTO INGENIERO IBÁÑEZ",
-   "organismo": "I MUNICIPALIDAD RIO IBANEZ",
-   "unidad": "DIDECO",
-   "monto": 728700,
-   "cierre_iso": "2026-11-19T12:00:00-03:00",
-   "publicacion": "18-11 11:59",
-   "publicacion_iso": "2026-11-18T11:59:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "42191701",
-     "Servicio eléctrico o de gas médico",
-     1,
-     "SERVICIO INTEGRAL DE MANTENCIÓN Y ADECUACIÓN ELÉCTRICA EXCLUSIVAMENTE EN EL GIMNASIO IND DE PUERTO INGENIERO IBÁÑEZ. EL SERVICIO BUSCA CORREGIR LA INTERCONEXIÓN NO DESEADA ENTRE EL ALUMBRADO Y EL EQUIPO DE AIRE ACONDICIONADO, RENOVAR OCHO LUMINARIAS INTERIORES Y REALIZAR DOS ADECUACIONES ELÉCTRICAS ADICIONALES, TODAS UBICADAS DENTRO DE ESTE MISMO RECINTO, SEGUN TERMINOS DE REFERENCIA ADJUNTO."
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=4066-529-COT26",
-   "sin_detalle": false,
-   "descripcion": "LA ILUSTRE MUNICIPALIDAD DE RÍO IBÁÑEZ, A TRAVÉS DE LA UNIDAD REQUIRENTE, REQUIERE CONTRATAR LA EJECUCIÓN DE TRABAJOS DE MANTENCIÓN Y ADECUACIÓN ELÉCTRICA EXCLUSIVAMENTE EN EL GIMNASIO IND DE PUERTO INGENIERO IBÁÑEZ. EL SERVICIO BUSCA CORREGIR LA INTERCONEXIÓN NO DESEADA ENTRE EL ALUMBRADO Y EL EQUIPO DE AIRE ACONDICIONADO, RENOVAR OCHO LUMINARIAS INTERIORES Y REALIZAR DOS ADECUACIONES ELÉCTRICAS ADICIONALES, TODAS UBICADAS DENTRO DE ESTE MISMO RECINTO.",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
   {
    "tipo": "POSIBLE",
    "motivos": [
@@ -661,6 +629,35 @@
    "desaparecida_iso": ""
   },
   {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "generador"
+   ],
+   "nueva": true,
+   "codigo": "1403-491-COT26",
+   "nombre": "COMPRA DE BENCINA PARA GENERADOR ELECTRICO DEL ECA COYHAIQUE",
+   "organismo": "Dirección Regional de Gendarmeria - Coyhaique",
+   "unidad": "Región de Aysén",
+   "monto": 67975,
+   "cierre_iso": "2026-11-20T12:45:00-03:00",
+   "publicacion": "19-11 12:34",
+   "publicacion_iso": "2026-11-19T12:34:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "15101507",
+     "Bencina",
+     40,
+     "GASOLINA 93 PARA GENERADOR ELECTRICO ECA COYHAIQUE"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1403-491-COT26",
+   "sin_detalle": false,
+   "descripcion": "E1O2RT9 - COMPRA DE BENCINA PARA GENERADOR ELECTRICO DEL ECA COYHAIQUE. CRITERIOS DE EVALUACIÓN. PRECIO 88% - PLAZO DE ENTREGA 10% - SUSTENTABILIDAD 2%",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
    "tipo": "OPORTUNIDAD",
    "motivos": [
     "Enfriamiento (aires acondicionados)"
@@ -1059,6 +1056,27 @@
   }
  ],
  "historial": [
+  {
+   "codigo": "4066-529-COT26",
+   "nombre": "SERVICIO DE MANTENCIÓN Y ADECUACIÓN DE INSTALACIONES ELÉCTRICAS EN EL GIMNASIO IND DE PUERTO INGENIERO IBÁÑEZ",
+   "organismo": "I MUNICIPALIDAD RIO IBANEZ",
+   "monto": 728700,
+   "cierre_iso": "2026-11-19T12:00:00-03:00",
+   "tipo": "POSIBLE",
+   "motivos": [
+    "aire acondicionado",
+    "eléctrico",
+    "instalaciones eléctricas",
+    "luminarias"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=4066-529-COT26",
+   "primera_vista_iso": "2026-11-18T12:00:27-03:00",
+   "removida_iso": "2026-11-19T13:00:23-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
   {
    "codigo": "4649-116-COT26",
    "nombre": "Reparación y cambio de Repuestos de Combustión a Pellet A.I",
@@ -1472,7 +1490,7 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=1428275-57-COT26",
    "primera_vista_iso": "2026-11-12T20:00:27-03:00",
    "removida_iso": "2026-11-16T11:00:27-03:00",
-   "estado_api": null,
+   "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,
    "adj_iso": null
@@ -1889,24 +1907,6 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=1113146-61-COT26",
    "primera_vista_iso": "2026-11-10T19:26:29-03:00",
    "removida_iso": "2026-11-12T18:12:42-03:00",
-   "estado_api": "",
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "1113146-63-COT26",
-   "nombre": "ELEMENTOS DE TERRENO",
-   "organismo": "CORP NACIONAL FORESTAL",
-   "monto": 380000,
-   "cierre_iso": "2026-11-12T13:00:00-03:00",
-   "tipo": "POSIBLE",
-   "motivos": [
-    "eléctrico"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1113146-63-COT26",
-   "primera_vista_iso": "2026-11-10T19:26:29-03:00",
-   "removida_iso": "2026-11-12T13:45:25-03:00",
    "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,

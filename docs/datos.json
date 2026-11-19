@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-11-19T12:00:30.756988-03:00",
+ "actualizado": "2026-11-19T13:00:23.455577-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
- "total_region": 323,
+ "total_region": 319,
  "rubros": {
   "80141600": "Ventas y marketing",
   "82101600": "Publicidad en medios no impresos",
@@ -14,211 +14,6 @@
   "83121700": "Comunicación social y de masas"
  },
  "filas": [
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "audiovisual",
-    "difusión"
-   ],
-   "nueva": false,
-   "codigo": "2494-303-COT26",
-   "nombre": "Adqusición de Licencias de Software de Edición Audiovisual Gráfica y Fotográfica - PROGRAMA RECUPERACIÓN DE BARRIOS",
-   "organismo": "I MUNICIPALIDAD DE COYHAIQUE",
-   "unidad": "SECRETARIA COMUNAL DE PLANIFICACION",
-   "monto": 300000,
-   "cierre_iso": "2026-11-19T12:00:00-03:00",
-   "publicacion": "17-11 10:38",
-   "publicacion_iso": "2026-11-17T10:38:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "43231512",
-     "Software de gestión de licencias",
-     1,
-     "Edición audiovisual profesional tipo CapCut Pro. \n1 usuario por 12 meses. \nSuite de edición audiovisual prémium, eliminación de fondo en video, subtitulado automático en español, transiciones y efectos avanzados, exportación hasta 4K sin marcas de agua."
-    ],
-    [
-     "43231512",
-     "Software de gestión de licencias",
-     1,
-     "Diseño y edición gráfica tipo Canva Pro. \n1 usuario por 12 meses. \nAcceso completo a biblioteca multimedia prémium, removedor de fondos, kits de marca institucional, almacenamiento en la nube, plantillas oficiales y herramientas de diseño asistidas por IA."
-    ],
-    [
-     "43231512",
-     "Software de gestión de licencias",
-     1,
-     "Edición fotográfica profesional tipo Adobe Lightroom. 1 usuario por 12 meses. Edición y revelado digital fotográfico avanzado, gestión y catálogo en la nube, perfiles RAW y ajustes preestablecidos, sincronización multidispositivo (PC y móvil) con actualizaciones oficiales."
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=2494-303-COT26",
-   "sin_detalle": false,
-   "descripcion": "Se requiere contratar tres suscripciones de licencias y software por un año para apoyar la comunicación del Programa Recuperación de Barrio de la comuna de Coyhaique. La edición audiovisual permitirá elaborar registros de actividades, entrevistas y videos de difusión; la edición gráfica permitirá diseñar afiches, láminas informativas y piezas para medios digitales e impresión. LOS DETALLES SE ENCUENTRAN EN EL DOCUMENTO ADJUNTO.",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
-  {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Ventas y marketing"
-   ],
-   "nueva": false,
-   "codigo": "1057062-541-COT26",
-   "nombre": "Servicio de difusión de contenidos, entrevistas y banner en medio digital.",
-   "organismo": "UNIVERSIDAD DE AYSEN",
-   "unidad": "Proyectos",
-   "monto": 1050000,
-   "cierre_iso": "2026-11-19T12:05:00-03:00",
-   "publicacion": "13-11 17:54",
-   "publicacion_iso": "2026-11-13T17:54:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "80141612",
-     "Campañas publicitarias o de marketing",
-     1,
-     "Servicio de difusión con vigencia hasta el 30 de enero que incluye: 2 publicaciones semanales en sitio web y redes sociales; al menos 1 reel semanal; historias semanales sin límite predeterminado; 1 banner web permanente (formato vertical y/o pop-up); 1 entrevista mensual en estudio o terreno; y apoyo en redacción, adaptación gráfica y difusión. El medio digital debe contar con sitio web y acreditar al menos 160 mil seguidores en Facebook y 50 mil seguidores en Instagram."
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1057062-541-COT26",
-   "sin_detalle": false,
-   "descripcion": "Servicio de difusión con vigencia hasta el 30 de enero 2027, según se detalla en el presente cotizador, Proveedor debe adjuntar lo ofertado, e indicar el Medio digital Regional de Aysén, enfocado 100% a información regional, que incluya sitio web, Instagram y Facebook, debe indicar el sitio web, el cual debe contener noticias y espacio publicitario. Una vez finalizado el servicio, el proveedor deberá remitir los medios de verificación correspondientes",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "publicidad",
-    "redes sociales"
-   ],
-   "nueva": false,
-   "codigo": "1057062-540-COT26",
-   "nombre": "Servicio de Publicidad en periódico multiplataforma de Coyhaique",
-   "organismo": "UNIVERSIDAD DE AYSEN",
-   "unidad": "Proyectos",
-   "monto": 2560000,
-   "cierre_iso": "2026-11-19T12:19:00-03:00",
-   "publicacion": "13-11 17:40",
-   "publicacion_iso": "2026-11-13T17:40:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "82101504",
-     "Publicidad en periódicos",
-     1,
-     "Servicio de Publicidad en periódico multiplataforma de Coyhaique, con la Incorporación de banner web en formato 1000 x 90 px (computador) y 600 x 200 px (celulares), además de la publicación de un video de 60 segundos en Instagram y Facebook, con vigencia hasta el 30 de enero. El servicio debe prestarse en un periódico o revista digital local de Coyhaique con amplia cobertura, sitio web activo y redes sociales que acrediten al menos 20 mil seguidores en Instagram y 60 mil en Facebook."
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1057062-540-COT26",
-   "sin_detalle": false,
-   "descripcion": "Serv. de publicidad web y redes sociales en medio escrito digital de Coyhaique. El serv debe prestarse en un periódico o revista digital local de Coyhaique con amplia cobertura, sitio web activo y redes sociales que acrediten al menos 20 mil seguidores en Instagram y 60 mil en Facebook.Proveedor debe detallar lo ofertado e indicar el medio de publicidad. Una vez finalizado el servicio, el proveedor deberá remitir los medios de verificación correspondientes y cumplir con el presente cotizador",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "publicitaria"
-   ],
-   "nueva": true,
-   "codigo": "1182705-218-COT26",
-   "nombre": " ADQUISICION DE SERVICIO DE IMPRENSION Y PLOTEO, FOLIO N°223 VCM",
-   "organismo": "CENTRO DE FORMACIÓN TÉCNICA DE LA REGIÓN DE AYSÉN DEL GENERAL CARLOS I",
-   "unidad": "FINANZAS",
-   "monto": 698620,
-   "cierre_iso": "2026-11-19T12:30:00-03:00",
-   "publicacion": "18-11 12:25",
-   "publicacion_iso": "2026-11-18T12:25:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "82121505",
-     "Impresión promocional o publicitaria",
-     502,
-     "Impresión láser color foto formato carta/oficio, una cara, tramo de 501 impresiones o más. Servicio destinado a impresión por ambas caras de trípticos educativos del proyecto VcM sobre prevención, primeros auxilios, signos de alarma y cuidados veterinarios.(adjuntar cotización)."
-    ],
-    [
-     "82121505",
-     "Impresión promocional o publicitaria",
-     251,
-     "Papel couché glossy tamaño oficio 216 × 330 mm, gramaje 170 g, destinado como soporte de 251 trípticos educativos impresos a color por ambas caras. (adjuntar cotización)."
-    ],
-    [
-     "82121505",
-     "Impresión promocional o publicitaria",
-     100,
-     "Impresión láser color foto formato carta/oficio, una cara, tramo 51–100 impresiones. Servicio destinado a impresión por ambas caras de tarjetas educativas y material de consulta rápida sobre actuación inicial ante urgencias veterinarias. (adjuntar cotización)."
-    ],
-    [
-     "82121505",
-     "Impresión promocional o publicitaria",
-     50,
-     "Papel couché glossy tamaño oficio, gramaje 170 g, utilizado como soporte para 50 unidades de material educativo impreso por ambas caras. (adjuntar cotización)."
-    ],
-    [
-     "82121505",
-     "Impresión promocional o publicitaria",
-     100,
-     "Impresión láser color foto formato carta/oficio, una cara, tramo 51–100 impresiones. Destinada a fichas educativas, checklist de botiquín, fichas de signos de alarma, instrumentos pre/post y material complementario para actividades comunitarias. (adjuntar cotización)."
-    ],
-    [
-     "82121505",
-     "Impresión promocional o publicitaria",
-     4,
-     "4 Servicio de corte y terminación de material gráfico impreso, destinado principalmente a fichas, tarjetas educativas y otros recursos que requieran dimensionamiento posterior a la impresión. (adjuntar cotización)."
-    ],
-    [
-     "82121505",
-     "Impresión promocional o publicitaria",
-     100,
-     "Papel couché glossy tamaño oficio, gramaje 170 g, destinado como soporte para 100 unidades de material pedagógico impreso a color por una cara. (adjuntar cotización)."
-    ],
-    [
-     "82121505",
-     "Impresión promocional o publicitaria",
-     1,
-     "Servicio de ploteo a color en papel bond (2,1 metro lineal), imagen y texto, destinado a afiches, infografías de apoyo y señalética pedagógica utilizada durante las estaciones educativas y actividades comunitarias del proyecto. (adjuntar cotización)."
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1182705-218-COT26",
-   "sin_detalle": false,
-   "descripcion": "Se solicita el servicio de impresión de trípticos, tarjetas y afiches, para actividad pedagógica del proyecto Vinculación con el Medio: “Aysén Cuida a sus Mascotas, Educación Comunitaria para la Prevención y Respuesta Inicial ante Urgencias Veterinarias”, de la carrera TNS en Veterinaria y Producción Agrícola del CFT de la Región de Aysén. Los productos deben ser entregado en oficina ubicada en José miguel Carrera 133, Coyhaique.",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "difusión",
-    "publicidad",
-    "publicitaria",
-    "radial",
-    "radio"
-   ],
-   "nueva": false,
-   "codigo": "1057062-537-COT26",
-   "nombre": "Servicio de difusión publicitaria en medio radial multiplataforma de alcance nacional.FISABS N°1872 – URY 2457 ",
-   "organismo": "UNIVERSIDAD DE AYSEN",
-   "unidad": "Proyectos",
-   "monto": 4235000,
-   "cierre_iso": "2026-11-19T12:55:00-03:00",
-   "publicacion": "13-11 17:04",
-   "publicacion_iso": "2026-11-13T17:04:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "52161511",
-     "Radios",
-     1,
-     "Servicio de Publicidad en Radio multiplataforma de cobertura Nacional (plataformas de radio, TV, web y RRSS), hasta el 30 de enro de 2026, segun se detlla en el adjunto"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1057062-537-COT26",
-   "sin_detalle": false,
-   "descripcion": "Publicidad en Radio multiplataforma de cobertura Nacional, con vigencia hasya el 30 de enero 2027, debe realizarse como colaboración pagada y etiquetada con enlace directo a la red social o web institucional. El medio oferente debe tener circulación nacional (plataformas de radio, TV, web y RRSS) y ubicarse dentro de los 3 primeros lugares en audiencia digital del país. Proveedor debe detallar lo ofertado que cumpla con al menos lo indicado en el adjunto (ver)",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
   {
    "tipo": "OPORTUNIDAD",
    "motivos": [
@@ -760,6 +555,70 @@
    "desaparecida_iso": ""
   },
   {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Ventas y marketing"
+   ],
+   "nueva": true,
+   "codigo": "2713-1429-COT26",
+   "nombre": "Servicio de producción Festival Borde Cultural BOC 2026 - Folio 1516- DIDECO",
+   "organismo": "I MUNICIPALIDAD DE AYSEN",
+   "unidad": "I.MUNICIPALIDAD AYSEN-ADQUISICIONES",
+   "monto": 1700000,
+   "cierre_iso": "2026-11-20T12:30:00-03:00",
+   "publicacion": "19-11 12:07",
+   "publicacion_iso": "2026-11-19T12:07:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "80141607",
+     "Producción de eventos",
+     1,
+     "Artista o agrupación regional para presentación musical en vivo de mínimo 60 minutos el domingo 29/11/2026, Festival Borde Cultural BOC 2026, Puerto Aysén (monto máx. $800.000 imp. incl.). Repertorio de creación regional, composiciones propias y/o vinculado a la Patagonia. Incluye instrumentos, traslados y elementos técnicos propios; coordinar prueba de sonido y horario con la Unidad de Cultura. Ver Anexo Técnico."
+    ],
+    [
+     "80161507",
+     "Servicios Audio Visuales",
+     1,
+     "Artista visual local para creación de material audiovisual (monto máx. $900.000 imp. incl.): propuesta creativa, mínimo 3 horas de registro los días 27 y 28/11/2026 en Puerto Aysén, edición y postproducción de 3 reels de 60 a 90 seg., formato 16:9, Full HD (1920x1080), MP4, que visibilicen patrimonio e identidad cultural de la comuna. Entrega en pendrive (reels y material bruto) y exhibición el 29/11/2026. Ver Anexo Técnico."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=2713-1429-COT26",
+   "sin_detalle": false,
+   "descripcion": "Contratación de dos servicios artísticos para el Festival Borde Cultural BOC 2026, en Puerto Aysén, proyecto Estrategia de Sostenibilidad del PMC Aysén. Línea 1: artista visual local para registro audiovisual el 27 y 28 de noviembre, edición y exhibición de pieza audiovisual el 29 (tope $900.000). Línea 2: presentación musical en vivo de artista regional, 60 min, el 29 de noviembre (tope $800.000). Total $1.700.000 imp. incluido. Se deben ofertar ambos servicios. Ver Anexo Técnico.",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Ventas y marketing"
+   ],
+   "nueva": true,
+   "codigo": "1458-37-COT26",
+   "nombre": "Realización Jornada Regional Programa Noche Digna",
+   "organismo": "SERPLAC XI Región",
+   "unidad": "SERPLAC XI Región",
+   "monto": 1000000,
+   "cierre_iso": "2026-11-20T15:18:00-03:00",
+   "publicacion": "17-11 12:45",
+   "publicacion_iso": "2026-11-17T12:45:00-03:00",
+   "ofertas": 1,
+   "productos": [
+    [
+     "80141607",
+     "Producción de eventos",
+     1,
+     "Producción y apoyo logístico y de sistematización para una jornada participativa del Programa Noche Digna, destinada a recoger experiencias y aprendizajes de los equipos regionales y ejecutores. Además debe considerar almuerzo para 30 personas: plato principal, bebida sin alcohol o agua y postre o fruta. Considerar alternativas vegetarianas y restricciones alimentarias comunicadas oportunamente."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1458-37-COT26",
+   "sin_detalle": false,
+   "descripcion": "La Secretaría Regional Ministerial de Desarrollo Social y Familia de la región de Aysén, requiere contratar un servicio de producción y apoyo logístico y de sistematización para una jornada participativa del Programa Noche Digna. Debe considerar Almuerzo para 30 personas.",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
    "tipo": "POSIBLE",
    "motivos": [
     "publicitaria"
@@ -1079,6 +938,102 @@
    "adj_iso": null
   },
   {
+   "codigo": "1057062-537-COT26",
+   "nombre": "Servicio de difusión publicitaria en medio radial multiplataforma de alcance nacional.FISABS N°1872 – URY 2457 ",
+   "organismo": "UNIVERSIDAD DE AYSEN",
+   "monto": 4235000,
+   "cierre_iso": "2026-11-19T12:55:00-03:00",
+   "tipo": "POSIBLE",
+   "motivos": [
+    "difusión",
+    "publicidad",
+    "publicitaria",
+    "radial",
+    "radio"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1057062-537-COT26",
+   "primera_vista_iso": "2026-11-13T18:00:26-03:00",
+   "removida_iso": "2026-11-19T13:00:23-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
+  {
+   "codigo": "1182705-218-COT26",
+   "nombre": " ADQUISICION DE SERVICIO DE IMPRENSION Y PLOTEO, FOLIO N°223 VCM",
+   "organismo": "CENTRO DE FORMACIÓN TÉCNICA DE LA REGIÓN DE AYSÉN DEL GENERAL CARLOS I",
+   "monto": 698620,
+   "cierre_iso": "2026-11-19T12:30:00-03:00",
+   "tipo": "POSIBLE",
+   "motivos": [
+    "publicitaria"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1182705-218-COT26",
+   "primera_vista_iso": "2026-11-18T13:00:27-03:00",
+   "removida_iso": "2026-11-19T13:00:23-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
+  {
+   "codigo": "1057062-540-COT26",
+   "nombre": "Servicio de Publicidad en periódico multiplataforma de Coyhaique",
+   "organismo": "UNIVERSIDAD DE AYSEN",
+   "monto": 2560000,
+   "cierre_iso": "2026-11-19T12:19:00-03:00",
+   "tipo": "POSIBLE",
+   "motivos": [
+    "publicidad",
+    "redes sociales"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1057062-540-COT26",
+   "primera_vista_iso": "2026-11-13T18:00:26-03:00",
+   "removida_iso": "2026-11-19T13:00:23-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
+  {
+   "codigo": "1057062-541-COT26",
+   "nombre": "Servicio de difusión de contenidos, entrevistas y banner en medio digital.",
+   "organismo": "UNIVERSIDAD DE AYSEN",
+   "monto": 1050000,
+   "cierre_iso": "2026-11-19T12:05:00-03:00",
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Ventas y marketing"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1057062-541-COT26",
+   "primera_vista_iso": "2026-11-13T18:00:26-03:00",
+   "removida_iso": "2026-11-19T13:00:23-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
+  {
+   "codigo": "2494-303-COT26",
+   "nombre": "Adqusición de Licencias de Software de Edición Audiovisual Gráfica y Fotográfica - PROGRAMA RECUPERACIÓN DE BARRIOS",
+   "organismo": "I MUNICIPALIDAD DE COYHAIQUE",
+   "monto": 300000,
+   "cierre_iso": "2026-11-19T12:00:00-03:00",
+   "tipo": "POSIBLE",
+   "motivos": [
+    "audiovisual",
+    "difusión"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=2494-303-COT26",
+   "primera_vista_iso": "2026-11-17T11:00:24-03:00",
+   "removida_iso": "2026-11-19T13:00:23-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
+  {
    "codigo": "2713-1404-COT26",
    "nombre": "Servicio de producción de 3 jornadas de Baño de Naturaleza  - Folio 1492 - DIDECO",
    "organismo": "I MUNICIPALIDAD DE AYSEN",
@@ -1221,24 +1176,6 @@
    ],
    "link": "https://buscador.mercadopublico.cl/ficha?code=2495-678-COT26",
    "primera_vista_iso": "2026-11-17T17:00:24-03:00",
-   "removida_iso": "2026-11-18T17:00:27-03:00",
-   "estado_api": null,
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "1458-37-COT26",
-   "nombre": "Realización Jornada Regional Programa Noche Digna",
-   "organismo": "SERPLAC XI Región",
-   "monto": 1000000,
-   "cierre_iso": "2026-11-18T16:00:00-03:00",
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Ventas y marketing"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1458-37-COT26",
-   "primera_vista_iso": "2026-11-17T13:00:25-03:00",
    "removida_iso": "2026-11-18T17:00:27-03:00",
    "estado_api": null,
    "adj_nombre": null,
