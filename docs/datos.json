@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-11-19T14:00:24.646454-03:00",
+ "actualizado": "2026-11-19T15:00:27.405929-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
- "total_region": 311,
+ "total_region": 319,
  "rubros": {
   "80141600": "Ventas y marketing",
   "82101600": "Publicidad en medios no impresos",
@@ -665,7 +665,7 @@
    "motivos": [
     "Inserciones publicitarias en medios"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "4733-533-COT26",
    "nombre": "DIFUSIÓN",
    "organismo": "I MUNICIPALIDAD DE LAS GUAITECAS",
@@ -887,27 +887,50 @@
    "descripcion": "SERVICIO DE GRABACION EDICION Y TRANSMISION DE CAPSULAS 4 HORAS MENSUALES (NOVIEMBRE-DICIEMBRE).DEBE INCLUIR BANNER PUBLICITARIO DE 20 A 29 MINUTOS,1 VEZ POR SEMANA.TRANSMISION POR TV EN RRSS(FACEBOOK YOUTUBE),SITIO WEB,STREAMIGN EN TV  24 HORAS ROTATIVO.SE PRIORIZARA PROVEEDOR LOCAL.",
    "en_gracia": true,
    "desaparecida_iso": "2026-11-18T13:00:27-03:00"
-  }
- ],
- "historial": [
+  },
   {
-   "codigo": "2494-301-COT26",
-   "nombre": "Adquisición de Premios para Taller Fotografia - Barrio Arturo Prat",
-   "organismo": "I MUNICIPALIDAD DE COYHAIQUE",
-   "monto": 250000,
-   "cierre_iso": "2026-11-20T20:45:00-03:00",
    "tipo": "POSIBLE",
    "motivos": [
     "fotografía"
    ],
+   "nueva": false,
+   "codigo": "2494-301-COT26",
+   "nombre": "Adquisición de Premios para Taller Fotografia - Barrio Arturo Prat",
+   "organismo": "",
+   "unidad": "",
+   "monto": null,
+   "cierre_iso": "",
+   "publicacion": "",
+   "publicacion_iso": "",
+   "ofertas": 0,
+   "productos": [
+    [
+     "45121518",
+     "Kits de cámara",
+     5,
+     "Trípodes Profesional Extendible Ajustable Para Cámara Celular,170.00 x 34.00 x 170.00 cm, imagen referencial 1*\n\nLos detalles se encuentrasn en el documento adjunto."
+    ],
+    [
+     "45121518",
+     "Kits de cámara",
+     5,
+     "Tazas Cafe Mug Tipo Lente Camara Fotografica Aluminio, 350 ml, imagen referencial 2*\n\nLos detalles se encuentrasn en el documento adjunto."
+    ],
+    [
+     "45121518",
+     "Kits de cámara",
+     5,
+     "Monocular Zoom 40x60 Hd Estuche + Porta Celular Outdoor, imagen referencial 3*\n\nLos detalles se encuentrasn en el documento adjunto."
+    ]
+   ],
    "link": "https://buscador.mercadopublico.cl/ficha?code=2494-301-COT26",
-   "primera_vista_iso": "2026-11-17T10:00:28-03:00",
-   "removida_iso": "2026-11-19T12:00:30-03:00",
-   "estado_api": null,
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
+   "sin_detalle": false,
+   "descripcion": "Adquisición premios para concurso de fotografía del Barrio arturo Prat, con el objeto de generar acciones comunitarias y de fortalecimiento de la participación barrial impulsadas por el Programa Quiero Mi Barrio, a través de un taller de fotografía, la cual se contempla los premios que serán adquiridos mendiante Mercado Público. LOS DETALLES DE LOS PRODUCTOS DESEADO SE ENCUENTRAN EN EL DOCUMENTO ADJUNTO.",
+   "en_gracia": true,
+   "desaparecida_iso": "2026-11-19T15:00:27-03:00"
+  }
+ ],
+ "historial": [
   {
    "codigo": "1195-593-COT26",
    "nombre": "SERVICIO DE DIFUSION PARA PROYECTO DE RECICLAJE",
@@ -1970,24 +1993,6 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=1195-569-COT26",
    "primera_vista_iso": "2026-11-10T19:26:29-03:00",
    "removida_iso": "2026-11-12T22:00:25-03:00",
-   "estado_api": "",
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "1538639-14-COT26",
-   "nombre": "Adquisición de material gráfico institucional personalizado",
-   "organismo": "CORPORACIÓN DE DESARROLLO DEL GOBIERNO REGIONAL DE AYSÉN",
-   "monto": 1500000,
-   "cierre_iso": "2026-11-12T15:00:00-03:00",
-   "tipo": "POSIBLE",
-   "motivos": [
-    "publicitaria"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1538639-14-COT26",
-   "primera_vista_iso": "2026-11-11T14:18:43-03:00",
-   "removida_iso": "2026-11-12T18:12:42-03:00",
    "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,

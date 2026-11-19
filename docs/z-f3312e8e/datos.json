@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-11-19T14:00:24.646454-03:00",
+ "actualizado": "2026-11-19T15:00:27.405929-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
- "total_region": 311,
+ "total_region": 319,
  "rubros": {
   "25172700": "Aire acondicionado",
   "25173900": "Componentes eléctricos",
@@ -19,35 +19,6 @@
   "39121400": "Conectores, enchufes y terminales"
  },
  "filas": [
-  {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Enfriamiento (aires acondicionados)"
-   ],
-   "nueva": false,
-   "codigo": "2151-93-COT26",
-   "nombre": "SERVICIO DE MANTENCIÓN PREVENTIVA Y CORRECTIVA DE 7 EQUIPOS DE AIRE ACONDICIONADO SPLIT – HOSPITAL DR. JORGE IBAR BRUCE DE PUERTO CISNES",
-   "organismo": "SERVICIO NAC DE SALUD HOSPITAL DE PTO CISNES",
-   "unidad": "Hospital Puerto Cisnes",
-   "monto": 3000000,
-   "cierre_iso": "2026-11-19T14:00:00-03:00",
-   "publicacion": "17-11 09:53",
-   "publicacion_iso": "2026-11-17T09:53:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "40101701",
-     "Aires acondicionados",
-     1,
-     "Se requiere contratar el servicio integral de mantención preventiva, verificación y ajuste/reemplazo de carga de gas refrigerante para 7 equipos de aire acondicionado tipo Split Muro, además de mantención correctiva específica en 1 unidad. (ver BASES Y ESPECIFICACIONES TÉCNICAS adjuntas"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=2151-93-COT26",
-   "sin_detalle": false,
-   "descripcion": "Se requiere contratar el servicio integral de mantención preventiva para 7 equipos de aire acondicionado tipo Split Muro y mantención correctiva.",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
   {
    "tipo": "OPORTUNIDAD",
    "motivos": [
@@ -634,6 +605,35 @@
    "desaparecida_iso": ""
   },
   {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Enfriamiento (aires acondicionados)"
+   ],
+   "nueva": true,
+   "codigo": "3797-546-COT26",
+   "nombre": "EQUIPOS DE AIRE ACONDICIONADO ",
+   "organismo": "I MUNICIPALIDAD DE COCHRANE",
+   "unidad": "I MUNICIPALIDAD DE COCHRANE",
+   "monto": 2400000,
+   "cierre_iso": "2026-11-20T15:00:00-03:00",
+   "publicacion": "19-11 14:49",
+   "publicacion_iso": "2026-11-19T14:49:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "40101701",
+     "Aires acondicionados",
+     4,
+     "Aire acondicionado Split muro invert 9000 BTU.\n\nCapacidad de enfriamiento: 9000 BTU/H\nCapacidad de calefacción:9500 BTU/H\nEficiencia energética: A o B\nConexión WIFI: Si, temporizador y 2 o más velocidades."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=3797-546-COT26",
+   "sin_detalle": false,
+   "descripcion": "Adquisición de equipos de aire acondicionado para implementación en contenedores destinados a oficinas de Proyectos FRIL-PMU",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
    "tipo": "POSIBLE",
    "motivos": [
     "electricidad"
@@ -1003,6 +1003,24 @@
   }
  ],
  "historial": [
+  {
+   "codigo": "2151-93-COT26",
+   "nombre": "SERVICIO DE MANTENCIÓN PREVENTIVA Y CORRECTIVA DE 7 EQUIPOS DE AIRE ACONDICIONADO SPLIT – HOSPITAL DR. JORGE IBAR BRUCE DE PUERTO CISNES",
+   "organismo": "SERVICIO NAC DE SALUD HOSPITAL DE PTO CISNES",
+   "monto": 3000000,
+   "cierre_iso": "2026-11-19T14:00:00-03:00",
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Enfriamiento (aires acondicionados)"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=2151-93-COT26",
+   "primera_vista_iso": "2026-11-17T10:00:28-03:00",
+   "removida_iso": "2026-11-19T15:00:27-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
   {
    "codigo": "2713-1424-COT26",
    "nombre": "Luces LED para Navidad 2026 - DAOMA - 1526",
@@ -1834,43 +1852,6 @@
    ],
    "link": "https://buscador.mercadopublico.cl/ficha?code=4644-128-COT26",
    "primera_vista_iso": "2026-11-12T09:58:37-03:00",
-   "removida_iso": "2026-11-12T18:12:42-03:00",
-   "estado_api": "",
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "1905-82-COT26",
-   "nombre": "Servicio de mejoramiento de calefacción en oficina de Puerto Aysén y Coyhaique",
-   "organismo": "SERVICIO DE REGISTRO CIVIL E IDENTIFICAC",
-   "monto": 3600000,
-   "cierre_iso": "2026-11-12T15:00:00-03:00",
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Gasfitería, calefacción y aire acondicionado"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1905-82-COT26",
-   "primera_vista_iso": "2026-11-05T19:47:37-03:00",
-   "removida_iso": "2026-11-12T18:12:42-03:00",
-   "estado_api": "",
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "1113146-61-COT26",
-   "nombre": "Materiales de Faena y otros",
-   "organismo": "CORP NACIONAL FORESTAL",
-   "monto": 850000,
-   "cierre_iso": "2026-11-12T15:00:00-03:00",
-   "tipo": "POSIBLE",
-   "motivos": [
-    "ampolleta",
-    "ampolletas"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1113146-61-COT26",
-   "primera_vista_iso": "2026-11-10T19:26:29-03:00",
    "removida_iso": "2026-11-12T18:12:42-03:00",
    "estado_api": "",
    "adj_nombre": null,
