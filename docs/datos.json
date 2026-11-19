@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-19T11:00:26.527447-03:00",
+ "actualizado": "2026-11-19T12:00:30.756988-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
  "total_region": 323,
@@ -14,82 +14,6 @@
   "83121700": "Comunicación social y de masas"
  },
  "filas": [
-  {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Ventas y marketing"
-   ],
-   "nueva": true,
-   "codigo": "2713-1404-COT26",
-   "nombre": "Servicio de producción de 3 jornadas de Baño de Naturaleza  - Folio 1492 - DIDECO",
-   "organismo": "I MUNICIPALIDAD DE AYSEN",
-   "unidad": "I.MUNICIPALIDAD AYSEN-ADQUISICIONES",
-   "monto": 1900000,
-   "cierre_iso": "2026-11-19T11:52:00-03:00",
-   "publicacion": "16-11 17:29",
-   "publicacion_iso": "2026-11-16T17:29:00-03:00",
-   "ofertas": 2,
-   "productos": [
-    [
-     "78111803",
-     "Servicios de autobuses contratados",
-     3,
-     "Minibús de 20 a 25 pasajeros para 3 viajes de ida y regreso (20, 21 y 22 de noviembre), de 09:00 a 13:00 h, entre la Plaza de Armas de Puerto Aysén y la Reserva Nacional Río Simpson. Vehículo de 10 años o menos, con cinturones en todos los asientos y calefacción o aire acondicionado. Conductor con licencia profesional A2 o A3 (no clase B). Vehículo de reemplazo en caso de panne. Adjuntar padrón, revisión técnica, permiso de circulación, SOAP, licencia, foto y autorización según EETT."
-    ],
-    [
-     "80141618",
-     "Agencias de marketing de ventas, incluidas las impresiones",
-     51,
-     "Ticket de entrada a la Reserva Nacional Río Simpson para cada participante, incluido el equipo ejecutor: 17 por jornada, 51 en total, para los días 20, 21 y 22 de noviembre. El municipio entregará la lista de asistentes con los datos para emitir los tickets. Después de cada salida, se debe entregar el ticket o código QR al equipo de PROMOS como medio de verificación."
-    ],
-    [
-     "86111604",
-     "Capacitación a empleados",
-     3,
-     "Monitor/a de baño de naturaleza o bosque para 3 jornadas (20, 21 y 22 de noviembre), de 09:00 a 13:00 h, en la Reserva Nacional Río Simpson, con 17 participantes por jornada. Cada sesión debe durar al menos 2 horas en la reserva e incluir 4 pasos: respiración, activación de los sentidos, contemplación y cierre. Adjuntar CV del monitor/a y certificado o diploma en baños de bosque o naturaleza, o certificado de experiencia en un servicio similar."
-    ],
-    [
-     "93131607",
-     "Servicios de distribución de alimentos",
-     51,
-     "Colación individual en bolsa individual: 17 por jornada, 51 en total, para los días 20, 21 y 22 de noviembre. Cada bolsa debe contener 1 jugo o agua sin gas en formato individual, 1 barra de cereal y 1 fruta entera lavada (plátano, manzana o naranja). Se entrega en cada salida. Adjuntar el detalle de los productos (marca y formato)."
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=2713-1404-COT26",
-   "sin_detalle": false,
-   "descripcion": "Servicio integral para 3 jornadas de Baño de Naturaleza en la Reserva Nacional Río Simpson, los días 20, 21 y 22 de noviembre, de 09:00 a 13:00 h, con salida y regreso desde la Plaza de Armas de Puerto Aysén (17 participantes por jornada). Incluye: monitor/a certificado/a, transporte en minibús de 20 a 25 pasajeros (ida y vuelta), 51 entradas a la reserva y 51 colaciones individuales. Presupuesto máximo $1.900.000 IVA incluido. Revisar EETT y adjuntar la documentación solicitada.",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
-  {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Ventas y marketing"
-   ],
-   "nueva": true,
-   "codigo": "4609-322-COT26",
-   "nombre": "SERVICIO DE PRODUCCION TECNICA",
-   "organismo": "I MUNICIPALIDAD DE CHILE CHICO",
-   "unidad": "Finanzas",
-   "monto": 2610000,
-   "cierre_iso": "2026-11-19T12:00:00-03:00",
-   "publicacion": "18-11 11:58",
-   "publicacion_iso": "2026-11-18T11:58:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "80141607",
-     "Producción de eventos",
-     1,
-     "SERVICIO DE PRODUCCION TECNICA PARA ENCUENTRO FOLCLORICO CHILE CHICO 2026. (Detalle archivos adjunto)."
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=4609-322-COT26",
-   "sin_detalle": false,
-   "descripcion": "COTIZACION SERVICIO DE PRODUCCION TECNICA - ENCUENTRO FOLCLORICO CHILE CHICO",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
   {
    "tipo": "POSIBLE",
    "motivos": [
@@ -619,7 +543,7 @@
    "motivos": [
     "difusion"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "1758-301-COT26",
    "nombre": "ADQUISICION DE RECARGAS DE AGUA DE 20 LITROS EN EL MARCO DE LA DIFUSION DEL PLAN CHILE APRENDE Y AVANZA MINEDUC",
    "organismo": "SECRETARIA REGIONAL MINISTERIAL DE EDUCACION XI REGION",
@@ -648,7 +572,7 @@
    "motivos": [
     "difusion"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "1758-300-COT26",
    "nombre": "SERVICIO DE MAQILLAJE ARTISTICO \"PINTACARITAS\" EN EL MARCO DIFUSION DEL PLAN CHILE APRENDE Y AVANZA DEL MINISTERIO DE EDUCACION",
    "organismo": "SECRETARIA REGIONAL MINISTERIAL DE EDUCACION XI REGION",
@@ -698,6 +622,140 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=1758-299-COT26",
    "sin_detalle": false,
    "descripcion": "SE REQUIERE CONTRATAR SERVICIO DE MEDIACION LECTORA Y NARRACION ORAL (CUENTACUENTOS) EN EL MARCO DE LA DIFUSION DEL PLAN CHILE APRENDE Y AVANZA DEL MINISTERIO DE EDUCACION  A RELIZARSE EN EL MIRADOR  BYPASS EL 28 DE NOVIEMBRE EN LA CIUDAD DE COYHAIQUE",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "publicitaria"
+   ],
+   "nueva": true,
+   "codigo": "1182705-216-COT26",
+   "nombre": "ADQUISICION DE PIN REDONDO CON LOGO INSTITUCIONAL, FOLIO 233",
+   "organismo": "CENTRO DE FORMACIÓN TÉCNICA DE LA REGIÓN DE AYSÉN DEL GENERAL CARLOS I",
+   "unidad": "FINANZAS",
+   "monto": 558000,
+   "cierre_iso": "2026-11-20T11:47:00-03:00",
+   "publicacion": "17-11 12:31",
+   "publicacion_iso": "2026-11-17T12:31:00-03:00",
+   "ofertas": 6,
+   "productos": [
+    [
+     "82121505",
+     "Impresión promocional o publicitaria",
+     200,
+     "Pin redondo de 2,5 cm de base metálica dorada con impresión de logo institucional y resina dome con imán posterior. Debe incluir entrega en Puerto Aysén. (adjuntar cotización, ficha técnica y experiencia)"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1182705-216-COT26",
+   "sin_detalle": false,
+   "descripcion": "Se requiere la compra de pin redondo con logo institucional para el CFT de la Región de Aysén, Los productos deben ser entregados en oficina ubicado en Sargento Alea 533, Puerto Aysén.",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Ventas y marketing"
+   ],
+   "nueva": true,
+   "codigo": "1057062-556-COT26",
+   "nombre": "Contratación de servicio de producción evento el día 17 y 18 de diciembre_Fisabs 2505_Programa Orquesta",
+   "organismo": "UNIVERSIDAD DE AYSEN",
+   "unidad": "Proyectos",
+   "monto": 2200000,
+   "cierre_iso": "2026-11-20T12:00:00-03:00",
+   "publicacion": "19-11 11:53",
+   "publicacion_iso": "2026-11-19T11:53:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "80141607",
+     "Producción de eventos",
+     1,
+     "Se requiere servicio de producción para conciertos: el día 17/12 En centro cultural coyhaique. Servicio de: prueba de sonido, instalación de sillas, Traslado e instalación gráficas y atriles, Catering para equipo Orquesta (37personas), sistema de micrófono, Técnico en sonido y dos operadores de cámara según archivo adjunto EETT. Cotización debe indicar la especificación técnica de lo ofertado."
+    ],
+    [
+     "80141607",
+     "Producción de eventos",
+     1,
+     "Se requiere servicio de producción para conciertos: el día 18/12 En Catedral Puerto Aysén. Servicio de: prueba de sonido, instalación de sillas, Traslado e instalación gráficas y atriles, Catering para equipo Orquesta (37personas), sistema de micrófono, Técnico en sonido y dos operadores de cámara según archivo adjunto EETT. Cotización debe indicar la especificación técnica de lo ofertado."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1057062-556-COT26",
+   "sin_detalle": false,
+   "descripcion": "Se requiere servicio de producción para conciertos: el día 17/12 en Coyhaique  y 18/12 en Puerto Aysén. Servicio de: Traslado e instalación de gráficas y atriles, Catering para equipo Orquesta, técnico en sonido para manipular grabadora y microfonía y 2 operadores de cámara. Instalación de tarima en espacio escénico. Instalación de sillas. Instalación iluminación y arriendo de espacios. Archivo adjunto EETT. Cotización debe indicar la especificación técnica de lo ofertado",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "fotografía"
+   ],
+   "nueva": true,
+   "codigo": "2494-312-COT26",
+   "nombre": "Adquisición de Premios para Taller Fotografia - Barrio Arturo Prat",
+   "organismo": "I MUNICIPALIDAD DE COYHAIQUE",
+   "unidad": "SECRETARIA COMUNAL DE PLANIFICACION",
+   "monto": 250000,
+   "cierre_iso": "2026-11-20T12:00:00-03:00",
+   "publicacion": "19-11 11:18",
+   "publicacion_iso": "2026-11-19T11:18:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "45121518",
+     "Kits de cámara",
+     5,
+     "Trípodes Profesional Extendible Ajustable Para Cámara Celular,170.00 x 34.00 x 170.00 cm, imagen referencial 1*.\nLos detalles se encuentran en el documento adjunto."
+    ],
+    [
+     "45121518",
+     "Kits de cámara",
+     5,
+     "Tazas Cafe Mug Tipo Lente Camara Fotografica Aluminio, 350 ml, imagen referencial 2*.\nLos detalles se encuentrasn en el documento adjunto."
+    ],
+    [
+     "45121518",
+     "Kits de cámara",
+     5,
+     "Monocular Zoom 40x60 Hd Estuche + Porta Celular Outdoor, imagen referencial 3*.\nLos detalles se encuentrasn en el documento adjunto."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=2494-312-COT26",
+   "sin_detalle": false,
+   "descripcion": "Adquisición premios para concurso de fotografía del Barrio arturo Prat, con el objeto de generar acciones comunitarias y de fortalecimiento de la participación barrial impulsadas por el Programa Quiero Mi Barrio, a través de un taller de fotografía, la cual se contempla los premios que serán adquiridos mendiante Mercado Público. LOS DETALLES DE LOS PRODUCTOS DESEADO SE ENCUENTRAN EN EL DOCUMENTO ADJUNTO.",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Ventas y marketing"
+   ],
+   "nueva": false,
+   "codigo": "4609-322-COT26",
+   "nombre": "SERVICIO DE PRODUCCION TECNICA",
+   "organismo": "I MUNICIPALIDAD DE CHILE CHICO",
+   "unidad": "Finanzas",
+   "monto": 2610000,
+   "cierre_iso": "2026-11-20T12:00:00-03:00",
+   "publicacion": "18-11 11:58",
+   "publicacion_iso": "2026-11-18T11:58:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "80141607",
+     "Producción de eventos",
+     1,
+     "SERVICIO DE PRODUCCION TECNICA PARA ENCUENTRO FOLCLORICO CHILE CHICO 2026. (Detalle archivos adjunto)."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=4609-322-COT26",
+   "sin_detalle": false,
+   "descripcion": "COTIZACION SERVICIO DE PRODUCCION TECNICA - ENCUENTRO FOLCLORICO CHILE CHICO",
    "en_gracia": false,
    "desaparecida_iso": ""
   },
@@ -773,47 +831,6 @@
    "desaparecida_iso": ""
   },
   {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "fotografía"
-   ],
-   "nueva": true,
-   "codigo": "2494-301-COT26",
-   "nombre": "Adquisición de Premios para Taller Fotografia - Barrio Arturo Prat",
-   "organismo": "I MUNICIPALIDAD DE COYHAIQUE",
-   "unidad": "SECRETARIA COMUNAL DE PLANIFICACION",
-   "monto": 250000,
-   "cierre_iso": "2026-11-20T20:45:00-03:00",
-   "publicacion": "17-11 09:48",
-   "publicacion_iso": "2026-11-17T09:48:00-03:00",
-   "ofertas": 2,
-   "productos": [
-    [
-     "45121518",
-     "Kits de cámara",
-     5,
-     "Trípodes Profesional Extendible Ajustable Para Cámara Celular,170.00 x 34.00 x 170.00 cm, imagen referencial 1*\n\nLos detalles se encuentrasn en el documento adjunto."
-    ],
-    [
-     "45121518",
-     "Kits de cámara",
-     5,
-     "Tazas Cafe Mug Tipo Lente Camara Fotografica Aluminio, 350 ml, imagen referencial 2*\n\nLos detalles se encuentrasn en el documento adjunto."
-    ],
-    [
-     "45121518",
-     "Kits de cámara",
-     5,
-     "Monocular Zoom 40x60 Hd Estuche + Porta Celular Outdoor, imagen referencial 3*\n\nLos detalles se encuentrasn en el documento adjunto."
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=2494-301-COT26",
-   "sin_detalle": false,
-   "descripcion": "Adquisición premios para concurso de fotografía del Barrio arturo Prat, con el objeto de generar acciones comunitarias y de fortalecimiento de la participación barrial impulsadas por el Programa Quiero Mi Barrio, a través de un taller de fotografía, la cual se contempla los premios que serán adquiridos mendiante Mercado Público. LOS DETALLES DE LOS PRODUCTOS DESEADO SE ENCUENTRAN EN EL DOCUMENTO ADJUNTO.",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
-  {
    "tipo": "OPORTUNIDAD",
    "motivos": [
     "Inserciones publicitarias en medios"
@@ -839,6 +856,35 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=4733-533-COT26",
    "sin_detalle": false,
    "descripcion": "Se requiere contratar el servicio de difusión para el proyecto Olimpiadas comunales Guaitecas 2027, según detalle adjunto, adjuntar cotización.-",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Ventas y marketing"
+   ],
+   "nueva": true,
+   "codigo": "2494-311-COT26",
+   "nombre": "Servicio Circense para un espectáculo a los vecinos y vecinas del Barrio Villa General Bernales - Programa Recuperación de Barrios / MINVU",
+   "organismo": "I MUNICIPALIDAD DE COYHAIQUE",
+   "unidad": "SECRETARIA COMUNAL DE PLANIFICACION",
+   "monto": 450000,
+   "cierre_iso": "2026-11-23T09:00:00-03:00",
+   "publicacion": "19-11 11:00",
+   "publicacion_iso": "2026-11-19T11:00:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "80141607",
+     "Producción de eventos",
+     1,
+     "Espectáculo de circo de aproximadamente 40 minutos que contemple malabares, monociclos, hula  hula, equilibrios y actividades participativas con el público. \nEl servicio debe contemplar una instancia artística participativa con el público para que los asistentes  puedan interactuar con los elementos del circo.\nLOS DETALLES Y ESPECIFICACIONES DEL SERVICIO SE ENCUENTRAN EN EL DOCUMENTO ADJUNTO(LAS BASES)"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=2494-311-COT26",
+   "sin_detalle": false,
+   "descripcion": "El servicio debe integrar espectáculo de circo de aproximadamente 40 minutos que contemple malabares, monociclos, hula hula, equilibrios y actividades participativas con el público.  El servicio debe contemplar una instancia artística participativa con el público para que los asistentes puedan interactuar con los elementos del circo. LOS DETALLES SE ENCUENTRAN EN LAS BASES ADJUNTA.",
    "en_gracia": false,
    "desaparecida_iso": ""
   },
@@ -1015,6 +1061,42 @@
  ],
  "historial": [
   {
+   "codigo": "2494-301-COT26",
+   "nombre": "Adquisición de Premios para Taller Fotografia - Barrio Arturo Prat",
+   "organismo": "I MUNICIPALIDAD DE COYHAIQUE",
+   "monto": 250000,
+   "cierre_iso": "2026-11-20T20:45:00-03:00",
+   "tipo": "POSIBLE",
+   "motivos": [
+    "fotografía"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=2494-301-COT26",
+   "primera_vista_iso": "2026-11-17T10:00:28-03:00",
+   "removida_iso": "2026-11-19T12:00:30-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
+  {
+   "codigo": "2713-1404-COT26",
+   "nombre": "Servicio de producción de 3 jornadas de Baño de Naturaleza  - Folio 1492 - DIDECO",
+   "organismo": "I MUNICIPALIDAD DE AYSEN",
+   "monto": 1900000,
+   "cierre_iso": "2026-11-19T11:52:00-03:00",
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Ventas y marketing"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=2713-1404-COT26",
+   "primera_vista_iso": "2026-11-16T18:00:29-03:00",
+   "removida_iso": "2026-11-19T12:00:30-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
+  {
    "codigo": "885-925-COT26",
    "nombre": "La Contraloria requiere contratar el mantenimiento correctivo del vehículo Nissan X-Trail, patente DTDG-37, de la Contraloría Regional de Aysé",
    "organismo": "CONTRALORIA GENERAL DE LA REPUBLICA",
@@ -1027,7 +1109,7 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=885-925-COT26",
    "primera_vista_iso": "2026-11-12T18:12:42-03:00",
    "removida_iso": "2026-11-19T11:00:26-03:00",
-   "estado_api": null,
+   "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,
    "adj_iso": null
@@ -1215,24 +1297,6 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=1153624-55-COT26",
    "primera_vista_iso": "2026-11-16T10:00:36-03:00",
    "removida_iso": "2026-11-18T15:00:24-03:00",
-   "estado_api": null,
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "1182705-216-COT26",
-   "nombre": "ADQUISICION DE PIN REDONDO CON LOGO INSTITUCIONAL, FOLIO 233",
-   "organismo": "CENTRO DE FORMACIÓN TÉCNICA DE LA REGIÓN DE AYSÉN DEL GENERAL CARLOS I",
-   "monto": 558000,
-   "cierre_iso": "2026-11-18T13:00:00-03:00",
-   "tipo": "POSIBLE",
-   "motivos": [
-    "publicitaria"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1182705-216-COT26",
-   "primera_vista_iso": "2026-11-17T13:00:25-03:00",
-   "removida_iso": "2026-11-18T14:00:25-03:00",
    "estado_api": null,
    "adj_nombre": null,
    "adj_monto": null,
@@ -2015,26 +2079,6 @@
    ],
    "link": "https://buscador.mercadopublico.cl/ficha?code=1280-78-COT26",
    "primera_vista_iso": "2026-11-11T14:18:43-03:00",
-   "removida_iso": "2026-11-12T13:45:25-03:00",
-   "estado_api": "",
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "4066-494-COT26",
-   "nombre": "SERVICIO DE IMPRESIÓN DE IMPLEMENTOS PARA TURISMO",
-   "organismo": "I MUNICIPALIDAD RIO IBANEZ",
-   "monto": 2550000,
-   "cierre_iso": "2026-11-12T12:00:00-03:00",
-   "tipo": "POSIBLE",
-   "motivos": [
-    "publicitaria",
-    "publicitario",
-    "publicitarios"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=4066-494-COT26",
-   "primera_vista_iso": "2026-11-10T19:26:29-03:00",
    "removida_iso": "2026-11-12T13:45:25-03:00",
    "estado_api": "",
    "adj_nombre": null,

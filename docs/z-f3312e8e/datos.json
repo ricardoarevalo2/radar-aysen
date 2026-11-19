@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-19T11:00:26.527447-03:00",
+ "actualizado": "2026-11-19T12:00:30.756988-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
  "total_region": 323,
@@ -27,7 +27,7 @@
     "instalaciones eléctricas",
     "luminarias"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "4066-529-COT26",
    "nombre": "SERVICIO DE MANTENCIÓN Y ADECUACIÓN DE INSTALACIONES ELÉCTRICAS EN EL GIMNASIO IND DE PUERTO INGENIERO IBÁÑEZ",
    "organismo": "I MUNICIPALIDAD RIO IBANEZ",
@@ -56,7 +56,7 @@
    "motivos": [
     "certificación sec"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "2713-1424-COT26",
    "nombre": "Luces LED para Navidad 2026 - DAOMA - 1526",
    "organismo": "I MUNICIPALIDAD DE AYSEN",
@@ -593,6 +593,41 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=3765-363-COT26",
    "sin_detalle": false,
    "descripcion": "MANTENIMIENTO PREVENTIVO GRUPO GENERADOR DE HLOR CHILE CHICO Y PSR MALLÍN GRANDE",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "iluminación"
+   ],
+   "nueva": true,
+   "codigo": "1057062-556-COT26",
+   "nombre": "Contratación de servicio de producción evento el día 17 y 18 de diciembre_Fisabs 2505_Programa Orquesta",
+   "organismo": "UNIVERSIDAD DE AYSEN",
+   "unidad": "Proyectos",
+   "monto": 2200000,
+   "cierre_iso": "2026-11-20T12:00:00-03:00",
+   "publicacion": "19-11 11:53",
+   "publicacion_iso": "2026-11-19T11:53:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "80141607",
+     "Producción de eventos",
+     1,
+     "Se requiere servicio de producción para conciertos: el día 17/12 En centro cultural coyhaique. Servicio de: prueba de sonido, instalación de sillas, Traslado e instalación gráficas y atriles, Catering para equipo Orquesta (37personas), sistema de micrófono, Técnico en sonido y dos operadores de cámara según archivo adjunto EETT. Cotización debe indicar la especificación técnica de lo ofertado."
+    ],
+    [
+     "80141607",
+     "Producción de eventos",
+     1,
+     "Se requiere servicio de producción para conciertos: el día 18/12 En Catedral Puerto Aysén. Servicio de: prueba de sonido, instalación de sillas, Traslado e instalación gráficas y atriles, Catering para equipo Orquesta (37personas), sistema de micrófono, Técnico en sonido y dos operadores de cámara según archivo adjunto EETT. Cotización debe indicar la especificación técnica de lo ofertado."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1057062-556-COT26",
+   "sin_detalle": false,
+   "descripcion": "Se requiere servicio de producción para conciertos: el día 17/12 en Coyhaique  y 18/12 en Puerto Aysén. Servicio de: Traslado e instalación de gráficas y atriles, Catering para equipo Orquesta, técnico en sonido para manipular grabadora y microfonía y 2 operadores de cámara. Instalación de tarima en espacio escénico. Instalación de sillas. Instalación iluminación y arriendo de espacios. Archivo adjunto EETT. Cotización debe indicar la especificación técnica de lo ofertado",
    "en_gracia": false,
    "desaparecida_iso": ""
   },
@@ -1871,42 +1906,6 @@
    ],
    "link": "https://buscador.mercadopublico.cl/ficha?code=1113146-63-COT26",
    "primera_vista_iso": "2026-11-10T19:26:29-03:00",
-   "removida_iso": "2026-11-12T13:45:25-03:00",
-   "estado_api": "",
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "4066-494-COT26",
-   "nombre": "SERVICIO DE IMPRESIÓN DE IMPLEMENTOS PARA TURISMO",
-   "organismo": "I MUNICIPALIDAD RIO IBANEZ",
-   "monto": 2550000,
-   "cierre_iso": "2026-11-12T12:00:00-03:00",
-   "tipo": "POSIBLE",
-   "motivos": [
-    "eléctrico"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=4066-494-COT26",
-   "primera_vista_iso": "2026-11-10T19:26:29-03:00",
-   "removida_iso": "2026-11-12T13:45:25-03:00",
-   "estado_api": "",
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "3791-1132-COT26",
-   "nombre": "BAÑOS GIM PUYUHUAPI",
-   "organismo": "I MUNICIPALIDAD DE CISNES",
-   "monto": 1335530,
-   "cierre_iso": "2026-11-12T11:12:00-03:00",
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Conectores, enchufes y terminales"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=3791-1132-COT26",
-   "primera_vista_iso": "2026-11-11T14:18:43-03:00",
    "removida_iso": "2026-11-12T13:45:25-03:00",
    "estado_api": "",
    "adj_nombre": null,
