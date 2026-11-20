@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-11-19T22:00:25.383273-03:00",
+ "actualizado": "2026-11-19T23:00:25.535886-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
- "total_region": 334,
+ "total_region": 333,
  "rubros": {
   "25172700": "Aire acondicionado",
   "25173900": "Componentes eléctricos",
@@ -19,35 +19,6 @@
   "39121400": "Conectores, enchufes y terminales"
  },
  "filas": [
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "eléctrico"
-   ],
-   "nueva": false,
-   "codigo": "4778-396-COT26",
-   "nombre": "RELE-SOLICITUD N° 3309-2026-MANTENCION PREVENTIVA, CALIBRACION SISTEMA PHILIPS AFFINITI, SE REQUIERE CARTA DE REPRESENTACION,COTIZACION",
-   "organismo": "SERVICIO NACIONAL DE SALUD HOSPITAL DE C",
-   "unidad": "Compras de Insumos y Servicios Generales",
-   "monto": null,
-   "cierre_iso": "2026-11-19T22:53:00-03:00",
-   "publicacion": "17-11 11:06",
-   "publicacion_iso": "2026-11-17T11:06:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "42201718",
-     "Ecógrafos oftalmológicos",
-     1,
-     "MANTENCION PREVENTIVA AFFINITI 50 (MP - ECOTOMOGRAFO AFFINITI 5O Gl)"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=4778-396-COT26",
-   "sin_detalle": false,
-   "descripcion": "Limpieza profunda de filtros de aire y ventiladores.El sobrecalentamiento es causa principal de fallas en tarjetas de procesamiento de imagen de Affiniti.Integridad de Puertos:Revisión física de los conectores de Transductores(pines doblados o sucios)para evitar pérdida de señal o ruido eléctrico.Monitor y Brazo Articulado:Calibración de color/brillo del monitor médico,ajuste de frenos,articulaciones de brazo para ergonomía del usuario.Periféricos y Conectividad,SE REQUIERE CARTA REPRESENTACION",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
   {
    "tipo": "POSIBLE",
    "motivos": [
@@ -674,6 +645,24 @@
   }
  ],
  "historial": [
+  {
+   "codigo": "4778-396-COT26",
+   "nombre": "RELE-SOLICITUD N° 3309-2026-MANTENCION PREVENTIVA, CALIBRACION SISTEMA PHILIPS AFFINITI, SE REQUIERE CARTA DE REPRESENTACION,COTIZACION",
+   "organismo": "SERVICIO NACIONAL DE SALUD HOSPITAL DE C",
+   "monto": null,
+   "cierre_iso": "2026-11-19T22:53:00-03:00",
+   "tipo": "POSIBLE",
+   "motivos": [
+    "eléctrico"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=4778-396-COT26",
+   "primera_vista_iso": "2026-11-17T12:00:27-03:00",
+   "removida_iso": "2026-11-19T23:00:25-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
   {
    "codigo": "697209-34-COT26",
    "nombre": "CIERRE PERIMETRAL DE SEGURIDAD PARA GRUPO ELECTRÓGENO",
