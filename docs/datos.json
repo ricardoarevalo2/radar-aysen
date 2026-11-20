@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-11-20T08:00:26.710418-03:00",
+ "actualizado": "2026-11-20T09:00:24.740986-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
- "total_region": 324,
+ "total_region": 323,
  "rubros": {
   "80141600": "Ventas y marketing",
   "82101600": "Publicidad en medios no impresos",
@@ -2127,24 +2127,6 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=2713-1368-COT26",
    "primera_vista_iso": "2026-11-12T09:58:37-03:00",
    "removida_iso": "2026-11-13T12:00:25-03:00",
-   "estado_api": "",
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "4066-504-COT26",
-   "nombre": "SERVICIO DE ANIMACIÓN Y PRESENTACIÓN ARTISTICA EN ACTIVIDAD “ENCUENTRO DE ACORDEON Y GUITARRA 2026”.Segun TDR adjuntos",
-   "organismo": "I MUNICIPALIDAD RIO IBANEZ",
-   "monto": 400000,
-   "cierre_iso": "2026-11-13T09:00:00-03:00",
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Ventas y marketing"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=4066-504-COT26",
-   "primera_vista_iso": "2026-11-12T09:58:37-03:00",
-   "removida_iso": "2026-11-13T10:00:25-03:00",
    "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,

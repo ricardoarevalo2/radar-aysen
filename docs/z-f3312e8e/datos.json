@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-11-20T08:00:26.710418-03:00",
+ "actualizado": "2026-11-20T09:00:24.740986-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
- "total_region": 324,
+ "total_region": 323,
  "rubros": {
   "25172700": "Aire acondicionado",
   "25173900": "Componentes eléctricos",
@@ -231,6 +231,35 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=1057062-535-COT26",
    "sin_detalle": false,
    "descripcion": "Se requiere cotizar adquisición de Kit didáctico de auto de exploración de energía. Cotización debe indicar especificaciones técnicas de lo ofertado. Debe indicar plazo de entrega ofertado, considerando entrega en dependencias de U. Aysén. Valor cotizado debe incluir flete e impuestos. Se podrá privilegiar el menor plazo de entrega ofertado, siempre que cumpla con todas las especificaciones requeridas.",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Gasfitería, calefacción y aire acondicionado"
+   ],
+   "nueva": true,
+   "codigo": "613-42-COT26",
+   "nombre": "Servicio de mantención preventiva de líneas de calefacción y suministro e instalación de termostato programable con caja de protección",
+   "organismo": "Ministerio de Vivienda y Urbanismo",
+   "unidad": "SEREMI MINVU XI REGION",
+   "monto": 1400000,
+   "cierre_iso": "2026-11-21T12:00:00-03:00",
+   "publicacion": "20-11 08:41",
+   "publicacion_iso": "2026-11-20T08:41:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "72102302",
+     "Instalación, reparación o mantenimiento de sistemas de calefacción",
+     1,
+     "Servicio de mantención preventiva de líneas de calefacción y suministro e instalación de termostato programable con caja de protección, SEGUN REQUERIMIENTO ADJUNTO"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=613-42-COT26",
+   "sin_detalle": false,
+   "descripcion": "Servicio de mantención preventiva de líneas de calefacción y suministro e instalación de termostato programable con caja de protección, segun requerimiento adjunto",
    "en_gracia": false,
    "desaparecida_iso": ""
   },
