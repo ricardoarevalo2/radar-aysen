@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-11-20T14:00:24.449360-03:00",
+ "actualizado": "2026-11-20T14:54:44.382453-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
- "total_region": 331,
+ "total_region": 329,
  "rubros": {
   "80141600": "Ventas y marketing",
   "82101600": "Publicidad en medios no impresos",
@@ -14,35 +14,6 @@
   "83121700": "Comunicación social y de masas"
  },
  "filas": [
-  {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Ventas y marketing"
-   ],
-   "nueva": false,
-   "codigo": "4609-322-COT26",
-   "nombre": "SERVICIO DE PRODUCCION TECNICA",
-   "organismo": "I MUNICIPALIDAD DE CHILE CHICO",
-   "unidad": "Finanzas",
-   "monto": 2610000,
-   "cierre_iso": "2026-11-20T14:30:00-03:00",
-   "publicacion": "18-11 11:58",
-   "publicacion_iso": "2026-11-18T11:58:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "80141607",
-     "Producción de eventos",
-     1,
-     "SERVICIO DE PRODUCCION TECNICA PARA ENCUENTRO FOLCLORICO CHILE CHICO 2026. (Detalle archivos adjunto)."
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=4609-322-COT26",
-   "sin_detalle": false,
-   "descripcion": "COTIZACION SERVICIO DE PRODUCCION TECNICA - ENCUENTRO FOLCLORICO CHILE CHICO",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
   {
    "tipo": "OPORTUNIDAD",
    "motivos": [
@@ -843,6 +814,35 @@
    "descripcion": "Es necesario cumplir con el Art.11 del D.L. N°2695/79, referido a publicidad del saneamiento de inmueble. Se requiere contratar la publicación digital de 17 avisos correspondientes a 2 veces o publicaciones por beneficiario o expediente, las cuales se harán indistintamente los días 1 y 15 del mes o en la edición inmediatamente siguiente si el diario o periódico no se publicare en los días indicados. Plazo de ejecución 252 días hábiles. Revisar documento adjunto para selección de proveedor.",
    "en_gracia": true,
    "desaparecida_iso": "2026-11-17T17:00:24-03:00"
+  },
+  {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Ventas y marketing"
+   ],
+   "nueva": false,
+   "codigo": "4609-322-COT26",
+   "nombre": "SERVICIO DE PRODUCCION TECNICA",
+   "organismo": "",
+   "unidad": "",
+   "monto": null,
+   "cierre_iso": "",
+   "publicacion": "",
+   "publicacion_iso": "",
+   "ofertas": 0,
+   "productos": [
+    [
+     "80141607",
+     "Producción de eventos",
+     1,
+     "SERVICIO DE PRODUCCION TECNICA PARA ENCUENTRO FOLCLORICO CHILE CHICO 2026. (Detalle archivos adjunto)."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=4609-322-COT26",
+   "sin_detalle": false,
+   "descripcion": "COTIZACION SERVICIO DE PRODUCCION TECNICA - ENCUENTRO FOLCLORICO CHILE CHICO",
+   "en_gracia": true,
+   "desaparecida_iso": "2026-11-20T14:54:44-03:00"
   },
   {
    "tipo": "POSIBLE",

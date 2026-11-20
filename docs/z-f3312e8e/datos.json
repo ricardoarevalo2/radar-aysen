@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-11-20T14:00:24.449360-03:00",
+ "actualizado": "2026-11-20T14:54:44.382453-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
- "total_region": 331,
+ "total_region": 329,
  "rubros": {
   "25172700": "Aire acondicionado",
   "25173900": "Componentes eléctricos",
@@ -1839,24 +1839,6 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=1078779-25-COT26",
    "primera_vista_iso": "2026-11-12T13:45:25-03:00",
    "removida_iso": "2026-11-13T19:00:27-03:00",
-   "estado_api": "",
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "1691-2061-COT26",
-   "nombre": "EFCC- ASAS DE RECECTOSCOPIO COD.: 27050 G K.STORZ UD PARA REPOSICIÓN DE INS. CLINICOS HRC ",
-   "organismo": "SERVICIO NACIONAL DE SALUD HOSPITAL DE C",
-   "monto": 1720000,
-   "cierre_iso": "2026-11-13T14:08:00-03:00",
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Suministros y accesorios eléctricos"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1691-2061-COT26",
-   "primera_vista_iso": "2026-11-10T19:26:29-03:00",
-   "removida_iso": "2026-11-13T14:17:48-03:00",
    "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,
