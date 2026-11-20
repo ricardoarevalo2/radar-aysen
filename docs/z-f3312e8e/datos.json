@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-11-20T13:00:27.802599-03:00",
+ "actualizado": "2026-11-20T14:00:24.449360-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
- "total_region": 333,
+ "total_region": 331,
  "rubros": {
   "25172700": "Aire acondicionado",
   "25173900": "Componentes eléctricos",
@@ -19,35 +19,6 @@
   "39121400": "Conectores, enchufes y terminales"
  },
  "filas": [
-  {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Enfriamiento (aires acondicionados)"
-   ],
-   "nueva": false,
-   "codigo": "1256-7-COT26",
-   "nombre": "“Compra de 1  equipo (s) de Climatización para la Tesorería Regional de Aysén”",
-   "organismo": "Tesorería Regional de Aysén",
-   "unidad": "Tesorería Regional de Aysén",
-   "monto": 1640000,
-   "cierre_iso": "2026-11-20T13:00:00-03:00",
-   "publicacion": "17-11 15:26",
-   "publicacion_iso": "2026-11-17T15:26:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "40101701",
-     "Aires acondicionados",
-     1,
-     "Tipo Split Cassette 24000 BTU Gas refrigerante R-32 ecológico"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1256-7-COT26",
-   "sin_detalle": false,
-   "descripcion": "? Se requiere la compra de 1 equipo de climatización para la Tesorería Regional de Aysén",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
   {
    "tipo": "OPORTUNIDAD",
    "motivos": [
@@ -1018,6 +989,24 @@
  ],
  "historial": [
   {
+   "codigo": "1256-7-COT26",
+   "nombre": "“Compra de 1  equipo (s) de Climatización para la Tesorería Regional de Aysén”",
+   "organismo": "Tesorería Regional de Aysén",
+   "monto": 1640000,
+   "cierre_iso": "2026-11-20T13:00:00-03:00",
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Enfriamiento (aires acondicionados)"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1256-7-COT26",
+   "primera_vista_iso": "2026-11-17T15:41:06-03:00",
+   "removida_iso": "2026-11-20T14:00:24-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
+  {
    "codigo": "1403-491-COT26",
    "nombre": "COMPRA DE BENCINA PARA GENERADOR ELECTRICO DEL ECA COYHAIQUE",
    "organismo": "Dirección Regional de Gendarmeria - Coyhaique",
@@ -1867,24 +1856,6 @@
    ],
    "link": "https://buscador.mercadopublico.cl/ficha?code=1691-2061-COT26",
    "primera_vista_iso": "2026-11-10T19:26:29-03:00",
-   "removida_iso": "2026-11-13T14:17:48-03:00",
-   "estado_api": "",
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "1092-88-COT26",
-   "nombre": "SIC N°453 SIRE N°437 Materiales de oficina",
-   "organismo": "CORP NACIONAL FORESTAL",
-   "monto": 2476801,
-   "cierre_iso": "2026-11-13T14:00:00-03:00",
-   "tipo": "POSIBLE",
-   "motivos": [
-    "iluminación"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1092-88-COT26",
-   "primera_vista_iso": "2026-11-12T13:45:25-03:00",
    "removida_iso": "2026-11-13T14:17:48-03:00",
    "estado_api": "",
    "adj_nombre": null,

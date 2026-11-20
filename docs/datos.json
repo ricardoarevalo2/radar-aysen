@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-11-20T13:00:27.802599-03:00",
+ "actualizado": "2026-11-20T14:00:24.449360-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
- "total_region": 333,
+ "total_region": 331,
  "rubros": {
   "80141600": "Ventas y marketing",
   "82101600": "Publicidad en medios no impresos",
@@ -472,6 +472,35 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=1233615-1017-COT26",
    "sin_detalle": false,
    "descripcion": "Estos implementos permitirán desarrollar competencias tecnológicas, comunicativas, técnicas y laborales, fomentar la creatividad, el trabajo colaborativo y la participación estudiantil, además de apoyar la difusión de las actividades institucionales y el mejoramiento de los espacios educativos.",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Ventas y marketing"
+   ],
+   "nueva": true,
+   "codigo": "4066-540-COT26",
+   "nombre": "Servicios de Impresión, Merchandising, Información Turística",
+   "organismo": "I MUNICIPALIDAD RIO IBANEZ",
+   "unidad": "DIDECO",
+   "monto": 3000000,
+   "cierre_iso": "2026-11-23T10:00:00-03:00",
+   "publicacion": "20-11 13:28",
+   "publicacion_iso": "2026-11-20T13:28:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "80141611",
+     "Personalización de regalos o productos promocionales",
+     1,
+     "Producto personalizado con logo municipal, entrega todo en un solo lote: 100 bolsas ecológicas; 345 llaveros (5 diseños de 69 unidades); 80 sets de stickers; 65 materos enlozados de 6 cm; 245 stickers brillantes en láminas; 28 libretas A5 con mapas turísticos (6 versiones: 1 comunal y 1 por localidad). Entrega en Bodega Municipal, Puerto Ingeniero Ibáñez, a más tardar el lunes 14 de diciembre de 2026. Ver TDR adjunto y Anexos."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=4066-540-COT26",
+   "sin_detalle": false,
+   "descripcion": "Servicio de diseño, impresión y entrega de merchandising para las Oficinas de Información Turística: 100 bolsas ecológicas, 345 llaveros, 80 sets de stickers, 65 materos enlozados, 245 stickers brillantes y 28 libretas A5 con mapas. Presupuesto: $3.000.000, impuesto incluido. Entrega en Bodega Municipal de Puerto Ingeniero Ibáñez, a más tardar el lunes 14 de diciembre de 2026. Ver Términos de Referencia y Formatos N°1, N°2 y N°3 adjuntos",
    "en_gracia": false,
    "desaparecida_iso": ""
   },
