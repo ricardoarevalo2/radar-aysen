@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-11-20T18:00:24.231884-03:00",
+ "actualizado": "2026-11-20T19:00:27.590902-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
- "total_region": 323,
+ "total_region": 321,
  "rubros": {
   "25172700": "Aire acondicionado",
   "25173900": "Componentes eléctricos",
@@ -244,6 +244,35 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=1538639-19-COT26",
    "sin_detalle": false,
    "descripcion": "Contratación de servicios de alojamiento para tres personas, en habitaciones individuales por dos noches, del 25 al 27 de noviembre de 2026, con desayuno incluido; alimentación y traslados aeropuerto–hotel–aeropuerto en São Paulo para dos personas, en el marco de Aysén Day Brasil 2026, conforme a minuta adjunta. No incluye traslados terrestres en Chile. Presupuesto máximo $1.900.000, impuestos y cargos incluidos.",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "generador"
+   ],
+   "nueva": true,
+   "codigo": "1286962-85-COT26",
+   "nombre": "DMH SERVICIO DE ARRIENDO DE GENERADOR CENTRO RECREACIONAL \"ALCALDE OSCAR CATALAN SANCHEZ\"",
+   "organismo": "Corporación de Deportes y Recreación de la Municipalidad de Aysén",
+   "unidad": "Corporación de Deportes y Recreación de la Municipalidad de Aysén",
+   "monto": 790000,
+   "cierre_iso": "2026-11-21T18:05:00-03:00",
+   "publicacion": "20-11 18:01",
+   "publicacion_iso": "2026-11-20T18:01:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "26111601",
+     "Generadores diesel",
+     1,
+     "ARRIENDO DE GENERADOR 6.5 kva POR 30 DIAS CORRIDOS PARA EL FUNCIONAMIENTO DEL CENTRO RECREACIONAL \"ALCALDE OSCAR CATALAN SANCHEZ\""
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1286962-85-COT26",
+   "sin_detalle": false,
+   "descripcion": "Se requiere el arriendo de generador para el funcionamiento operativo del Centro Recreacional \"Alcalde Oscar Catalán Sánchez\"",
    "en_gracia": false,
    "desaparecida_iso": ""
   },
@@ -1569,7 +1598,7 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=2713-1395-COT26",
    "primera_vista_iso": "2026-11-16T14:00:23-03:00",
    "removida_iso": "2026-11-18T11:00:25-03:00",
-   "estado_api": null,
+   "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,
    "adj_iso": null
@@ -1588,7 +1617,7 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=4644-138-COT26",
    "primera_vista_iso": "2026-11-16T15:00:28-03:00",
    "removida_iso": "2026-11-17T18:00:22-03:00",
-   "estado_api": null,
+   "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,
    "adj_iso": null
@@ -1606,7 +1635,7 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=4644-137-COT26",
    "primera_vista_iso": "2026-11-16T15:00:28-03:00",
    "removida_iso": "2026-11-17T18:00:22-03:00",
-   "estado_api": null,
+   "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,
    "adj_iso": null
@@ -1624,7 +1653,7 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=4649-112-COT26",
    "primera_vista_iso": "2026-11-16T16:00:40-03:00",
    "removida_iso": "2026-11-17T17:00:24-03:00",
-   "estado_api": null,
+   "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,
    "adj_iso": null
@@ -1661,7 +1690,7 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=1113146-57-COT26",
    "primera_vista_iso": "2026-11-16T13:00:26-03:00",
    "removida_iso": "2026-11-17T15:41:06-03:00",
-   "estado_api": null,
+   "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,
    "adj_iso": null

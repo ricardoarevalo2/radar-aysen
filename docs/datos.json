@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-11-20T18:00:24.231884-03:00",
+ "actualizado": "2026-11-20T19:00:27.590902-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
- "total_region": 323,
+ "total_region": 321,
  "rubros": {
   "80141600": "Ventas y marketing",
   "82101600": "Publicidad en medios no impresos",
@@ -251,6 +251,47 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=4066-535-COT26",
    "sin_detalle": false,
    "descripcion": "Servicio integral para el Día del Turismo en Villa Cerro Castillo: viernes 27 de noviembre de 2026, de 17:00 a 21:00 horas, en la Sede Comunitaria. Incluye cocción y servicio de 8 corderos con acompañamientos y bebestibles sin alcohol para hasta 80 personas, servicio de mesa y garzones, decoración, audio, 10 reconocimientos y limpieza de la sede. Presupuesto $7.150.000, impuesto incluido. Ver TDR y Formatos N°1, N°2 y N°3 adjuntos.",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Ventas y marketing"
+   ],
+   "nueva": true,
+   "codigo": "2713-1452-COT26",
+   "nombre": "Servicio de producción y desarrollo de la actividad “One Song \" Folio 1517",
+   "organismo": "I MUNICIPALIDAD DE AYSEN",
+   "unidad": "I.MUNICIPALIDAD AYSEN-ADQUISICIONES",
+   "monto": 400000,
+   "cierre_iso": "2026-11-21T18:10:00-03:00",
+   "publicacion": "20-11 18:01",
+   "publicacion_iso": "2026-11-20T18:01:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "80141607",
+     "Producción de eventos",
+     1,
+     "Planificación y ejecución del taller “One Song – Taller de Canto”, Puerto Aysén, según Anexo Técnico: preparación metodológica y 2 jornadas formativas presenciales de 2 horas cronológicas para niños, niñas y adolescentes. Viernes 27 de noviembre: jornada teórico-formativa (introducción al canto, respiración, técnica vocal básica). Sábado 28 de noviembre: jornada práctica (aprendizaje de una canción, armonización vocal y ensayo)."
+    ],
+    [
+     "80141607",
+     "Producción de eventos",
+     1,
+     "Preparación, coordinación y dirección de la presentación coral colectiva de cierre del taller “One Song – Taller de Canto”, de aproximadamente 20 minutos, con los participantes del taller, el domingo 29 de noviembre en Puerto Aysén, según Anexo Técnico. Incluye la coordinación de la prueba de sonido con la contraparte técnica."
+    ],
+    [
+     "80141607",
+     "Producción de eventos",
+     1,
+     "Registro audiovisual de la presentación final del taller “One Song – Taller de Canto” (29 de noviembre), entregado en formato digital apto para reproducción y difusión, dentro de 5 días hábiles desde la presentación, según Anexo Técnico. Los equipos y medios de registro son de cargo del proveedor."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=2713-1452-COT26",
+   "sin_detalle": false,
+   "descripcion": "Contratación de profesional y/o artista del área musical para planificar y ejecutar el taller presencial “One Song – Taller de Canto”, dirigido a niños, niñas y adolescentes en Puerto Aysén: 2 jornadas formativas de 2 horas (27 y 28 de noviembre), dirección de presentación coral final de 20 min (29 de noviembre) y registro audiovisual. Valorizar cada componente por separado (taller, presentación y registro). Se exige certificado de inhabilidades para trabajar con menores. Ver Anexo Técnico.",
    "en_gracia": false,
    "desaparecida_iso": ""
   },
@@ -555,6 +596,35 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=4609-324-COT26",
    "sin_detalle": false,
    "descripcion": "COTIZACION TALLERES ELABORACION FERMENTADO Y ENCURTIDO.",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Ventas y marketing"
+   ],
+   "nueva": true,
+   "codigo": "1195-598-COT26",
+   "nombre": "EJECUCIÓN DEL FESTIVAL DE LA MORILLA 2026",
+   "organismo": "I MUNICIPALIDAD DE COYHAIQUE",
+   "unidad": "Ilustre Municipalidad de Coyhaique",
+   "monto": 7000000,
+   "cierre_iso": "2026-11-23T13:00:00-03:00",
+   "publicacion": "20-11 18:46",
+   "publicacion_iso": "2026-11-20T18:46:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "80141607",
+     "Producción de eventos",
+     1,
+     "Contratación de servicios para la producción integral del Festival de la Morilla 2026 en Villa Ortega, comuna de Coyhaique. El servicio considera programación artística con al menos 14 artistas, animación, amplificación y sonido, alimentación para aproximadamente 85 personas, difusión, registro audiovisual, habilitación de espacios para emprendedores y artesanos, coordinación general del evento y servicios sanitarios, de acuerdo con las Bases Técnicas"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1195-598-COT26",
+   "sin_detalle": false,
+   "descripcion": "Servicio de producción integral para la ejecución del Festival de la Morilla 2026 en Villa Ortega, comuna de Coyhaique. La contratación considera programación artística con al menos 14 artistas regionales y/o nacionales, animación, amplificación y sonido, alimentación para aproximadamente 85 personas, registro audiovisual, difusión, habilitación de espacios para emprendedores y artesanos, coordinación general del evento y servicios sanitarios, conforme a Bases Técnicas",
    "en_gracia": false,
    "desaparecida_iso": ""
   },
