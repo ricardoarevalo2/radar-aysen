@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-11-20T15:00:24.971168-03:00",
+ "actualizado": "2026-11-20T16:00:41.229888-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
- "total_region": 331,
+ "total_region": 323,
  "rubros": {
   "25172700": "Aire acondicionado",
   "25173900": "Componentes eléctricos",
@@ -19,64 +19,6 @@
   "39121400": "Conectores, enchufes y terminales"
  },
  "filas": [
-  {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Enfriamiento (aires acondicionados)"
-   ],
-   "nueva": true,
-   "codigo": "3797-546-COT26",
-   "nombre": "EQUIPOS DE AIRE ACONDICIONADO ",
-   "organismo": "I MUNICIPALIDAD DE COCHRANE",
-   "unidad": "I MUNICIPALIDAD DE COCHRANE",
-   "monto": 2400000,
-   "cierre_iso": "2026-11-20T15:00:00-03:00",
-   "publicacion": "19-11 14:49",
-   "publicacion_iso": "2026-11-19T14:49:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "40101701",
-     "Aires acondicionados",
-     4,
-     "Aire acondicionado Split muro invert 9000 BTU.\n\nCapacidad de enfriamiento: 9000 BTU/H\nCapacidad de calefacción:9500 BTU/H\nEficiencia energética: A o B\nConexión WIFI: Si, temporizador y 2 o más velocidades."
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=3797-546-COT26",
-   "sin_detalle": false,
-   "descripcion": "Adquisición de equipos de aire acondicionado para implementación en contenedores destinados a oficinas de Proyectos FRIL-PMU",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "electricidad"
-   ],
-   "nueva": false,
-   "codigo": "1057062-535-COT26",
-   "nombre": "Adquisición de Kit didáctico de auto de exploración de energía_ Según FISABS 2466",
-   "organismo": "UNIVERSIDAD DE AYSEN",
-   "unidad": "Proyectos",
-   "monto": 856562,
-   "cierre_iso": "2026-11-20T15:25:00-03:00",
-   "publicacion": "13-11 15:48",
-   "publicacion_iso": "2026-11-13T15:48:00-03:00",
-   "ofertas": 2,
-   "productos": [
-    [
-     "60106205",
-     "Materiales de enseñanza de energía o electricidad",
-     2,
-     "Se requiere la adquisición de 2 unidades de Kit didáctico de auto de exploración de energía, según especificaciones técnicas adjuntas."
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1057062-535-COT26",
-   "sin_detalle": false,
-   "descripcion": "Se requiere cotizar adquisición de Kit didáctico de auto de exploración de energía. Cotización debe indicar especificaciones técnicas de lo ofertado. Debe indicar plazo de entrega ofertado, considerando entrega en dependencias de U. Aysén. Valor cotizado debe incluir flete e impuestos. Se podrá privilegiar el menor plazo de entrega ofertado, siempre que cumpla con todas las especificaciones requeridas.",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
   {
    "tipo": "OPORTUNIDAD",
    "motivos": [
@@ -232,6 +174,47 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=4644-149-COT26",
    "sin_detalle": false,
    "descripcion": "Conaf requiere accesorios computacionales para el programa Área de Intervención Vivero el Mallín. El proveedor debe registrar en el portal de Mercado Público las especificaciones técnicas de los productos y/o adjuntar ficha de las especificaciones técnicas de los productos ofertados.*Este monto considera el despacho de los productos. Las ofertas que superen el presupuesto disponible serán declaradas inadmisibles y no continuarán en el proceso de evaluación.",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "climatización"
+   ],
+   "nueva": true,
+   "codigo": "1538639-19-COT26",
+   "nombre": "Servicio de alojamiento, alimentación y traslados en São Paulo – Aysén Day Brasil 2026",
+   "organismo": "CORPORACIÓN DE DESARROLLO DEL GOBIERNO REGIONAL DE AYSÉN",
+   "unidad": "CORPORACIÓN DE DESARROLLO DEL GOBIERNO REGIONAL DE AYSÉN",
+   "monto": 1900000,
+   "cierre_iso": "2026-11-21T17:00:00-03:00",
+   "publicacion": "20-11 15:16",
+   "publicacion_iso": "2026-11-20T15:16:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "78111804",
+     "Servicios de taxi",
+     1,
+     "Servicio de traslado terrestre en São Paulo, Brasil, para 2 pasajeros: aeropuerto–hotel el 25 de noviembre y hotel–aeropuerto el 27 de noviembre de 2026. Los traslados podrán compartirse cuando los horarios sean compatibles o realizarse separadamente sin costo adicional. Incluye equipaje, peajes, combustible e impuestos. No contempla traslados en Chile."
+    ],
+    [
+     "90101603",
+     "Servicios de catering",
+     1,
+     "Servicio de alimentación en São Paulo para 2 pasajeros: cena del 25 de noviembre, almuerzo del 26 de noviembre y cena del 26 de noviembre de 2026. Total 6 servicios individuales. Cada servicio deberá incluir plato principal y bebida sin alcohol, con impuestos y cargos incluidos, conforme a minuta adjunta."
+    ],
+    [
+     "90111501",
+     "Hoteles",
+     1,
+     "Servicio de alojamiento en São Paulo, Brasil, para 3 pasajeros, en 3 habitaciones individuales durante 2 noches, del 25 al 27 de noviembre de 2026. Hotel mínimo 4 estrellas, ubicado en sector Avenida Paulista o zonas indicadas en minuta. Incluye 6 desayunos, baño privado, climatización, Wi-Fi, impuestos y cargos asociados."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1538639-19-COT26",
+   "sin_detalle": false,
+   "descripcion": "Contratación de servicios de alojamiento para tres personas, en habitaciones individuales por dos noches, del 25 al 27 de noviembre de 2026, con desayuno incluido; alimentación y traslados aeropuerto–hotel–aeropuerto en São Paulo para dos personas, en el marco de Aysén Day Brasil 2026, conforme a minuta adjunta. No incluye traslados terrestres en Chile. Presupuesto máximo $1.900.000, impuestos y cargos incluidos.",
    "en_gracia": false,
    "desaparecida_iso": ""
   },
@@ -863,7 +846,7 @@
    "motivos": [
     "generador"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "3540-325-COT26",
    "nombre": "Reptos, bateria e Insumos para Generador Kolvo",
    "organismo": "Ejercito de Chile",
@@ -929,6 +912,41 @@
    "desaparecida_iso": ""
   },
   {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "grupo electrógeno"
+   ],
+   "nueva": true,
+   "codigo": "3949-312-COT26",
+   "nombre": "Mantenimiento preventivo anual de grupos electrógenos",
+   "organismo": "CONSULTORIO GENERAL URBANO DR ALEJANDRO GUTIERREZ",
+   "unidad": "ID 3949 - CESFAM Dr Alejandro Gutiérrez",
+   "monto": 1000000,
+   "cierre_iso": "2026-11-24T17:00:00-03:00",
+   "publicacion": "20-11 15:50",
+   "publicacion_iso": "2026-11-20T15:50:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "73152101",
+     "Servicio de mantenimiento de equipo de fabricación",
+     1,
+     "1.-grupo electrógeno diésel marca Kaufman g45 ubicado en Bilbao esquina Mackena.\n\nEspecificaciones adjuntas a esta compra."
+    ],
+    [
+     "73152101",
+     "Servicio de mantenimiento de equipo de fabricación",
+     1,
+     "2 grupo electrógeno Diesel marca Inmesol ik-022 ubicado en Lautaro 63 Cecosf\n\nEspecificaciones adjuntas a esta compra."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=3949-312-COT26",
+   "sin_detalle": false,
+   "descripcion": "Se requiere adquirir mantenimiento preventivo anual de grupos electrógenos : Adjuntar cotización formal con datos de contacto (e-mail - teléfonos). Incluir valor de mano de obra, implementos, etc. (valor total del servicio). La mantención se coordinara para el mes de diciembre 2026 y debe incluir informe técnico con el servicio detallado. El servicio se realizara en Bilbao esquina Mackenna s/n y en Lautaro N°63",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
    "tipo": "OPORTUNIDAD",
    "motivos": [
     "Gasfitería, calefacción y aire acondicionado"
@@ -988,6 +1006,42 @@
   }
  ],
  "historial": [
+  {
+   "codigo": "1057062-535-COT26",
+   "nombre": "Adquisición de Kit didáctico de auto de exploración de energía_ Según FISABS 2466",
+   "organismo": "UNIVERSIDAD DE AYSEN",
+   "monto": 856562,
+   "cierre_iso": "2026-11-20T15:25:00-03:00",
+   "tipo": "POSIBLE",
+   "motivos": [
+    "electricidad"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1057062-535-COT26",
+   "primera_vista_iso": "2026-11-13T16:00:24-03:00",
+   "removida_iso": "2026-11-20T16:00:41-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
+  {
+   "codigo": "3797-546-COT26",
+   "nombre": "EQUIPOS DE AIRE ACONDICIONADO ",
+   "organismo": "I MUNICIPALIDAD DE COCHRANE",
+   "monto": 2400000,
+   "cierre_iso": "2026-11-20T15:00:00-03:00",
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Enfriamiento (aires acondicionados)"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=3797-546-COT26",
+   "primera_vista_iso": "2026-11-19T15:00:27-03:00",
+   "removida_iso": "2026-11-20T16:00:41-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
   {
    "codigo": "1256-7-COT26",
    "nombre": "“Compra de 1  equipo (s) de Climatización para la Tesorería Regional de Aysén”",

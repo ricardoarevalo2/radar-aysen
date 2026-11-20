@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-11-20T15:00:24.971168-03:00",
+ "actualizado": "2026-11-20T16:00:41.229888-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
- "total_region": 331,
+ "total_region": 323,
  "rubros": {
   "80141600": "Ventas y marketing",
   "82101600": "Publicidad en medios no impresos",
@@ -14,64 +14,6 @@
   "83121700": "Comunicación social y de masas"
  },
  "filas": [
-  {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Ventas y marketing"
-   ],
-   "nueva": false,
-   "codigo": "1458-37-COT26",
-   "nombre": "Realización Jornada Regional Programa Noche Digna",
-   "organismo": "SERPLAC XI Región",
-   "unidad": "SERPLAC XI Región",
-   "monto": 1000000,
-   "cierre_iso": "2026-11-20T15:18:00-03:00",
-   "publicacion": "17-11 12:45",
-   "publicacion_iso": "2026-11-17T12:45:00-03:00",
-   "ofertas": 1,
-   "productos": [
-    [
-     "80141607",
-     "Producción de eventos",
-     1,
-     "Producción y apoyo logístico y de sistematización para una jornada participativa del Programa Noche Digna, destinada a recoger experiencias y aprendizajes de los equipos regionales y ejecutores. Además debe considerar almuerzo para 30 personas: plato principal, bebida sin alcohol o agua y postre o fruta. Considerar alternativas vegetarianas y restricciones alimentarias comunicadas oportunamente."
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1458-37-COT26",
-   "sin_detalle": false,
-   "descripcion": "La Secretaría Regional Ministerial de Desarrollo Social y Familia de la región de Aysén, requiere contratar un servicio de producción y apoyo logístico y de sistematización para una jornada participativa del Programa Noche Digna. Debe considerar Almuerzo para 30 personas.",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "difusión"
-   ],
-   "nueva": true,
-   "codigo": "3797-549-COT26",
-   "nombre": "TOLDO INSTITUCIONAL OLN",
-   "organismo": "I MUNICIPALIDAD DE COCHRANE",
-   "unidad": "I MUNICIPALIDAD DE COCHRANE",
-   "monto": 100000,
-   "cierre_iso": "2026-11-20T15:20:00-03:00",
-   "publicacion": "19-11 15:13",
-   "publicacion_iso": "2026-11-19T15:13:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "30151901",
-     "Toldos",
-     1,
-     "Toldo plegable tipo araña (acordeón) de 3,00 x 3,00 metros (9 m² de cobertura) con estructura metálica de acero reforzado y recubrimiento anticorrosivo (pintura electrostática negra), tubos exteriores de sección cuadrada de al menos 30 x 30 mm y patas telescópicas regulables en 4 niveles de altura con despliegue rápido sin herramientas; debe incluir cubierta superior de lona textil impermeable de alta densidad (poliéster/Oxford)\n\nDemas consideraciones indicadas en documento adjunto"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=3797-549-COT26",
-   "sin_detalle": false,
-   "descripcion": "En el marco de las actividades desarrolladas por la Oficina Local de la Niñez, se requiere la adquisición de un toldo institucional que permita contar con un espacio adecuado para la ejecución de actividades territoriales, jornadas de difusión y acciones de promoción y prevención de derechos de niños, niñas y adolescentes",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
   {
    "tipo": "POSIBLE",
    "motivos": [
@@ -331,6 +273,35 @@
    "desaparecida_iso": ""
   },
   {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "difusión"
+   ],
+   "nueva": false,
+   "codigo": "3797-549-COT26",
+   "nombre": "TOLDO INSTITUCIONAL OLN",
+   "organismo": "I MUNICIPALIDAD DE COCHRANE",
+   "unidad": "I MUNICIPALIDAD DE COCHRANE",
+   "monto": 100000,
+   "cierre_iso": "2026-11-21T15:26:00-03:00",
+   "publicacion": "19-11 15:13",
+   "publicacion_iso": "2026-11-19T15:13:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "30151901",
+     "Toldos",
+     1,
+     "Toldo plegable tipo araña (acordeón) de 3,00 x 3,00 metros (9 m² de cobertura) con estructura metálica de acero reforzado y recubrimiento anticorrosivo (pintura electrostática negra), tubos exteriores de sección cuadrada de al menos 30 x 30 mm y patas telescópicas regulables en 4 niveles de altura con despliegue rápido sin herramientas; debe incluir cubierta superior de lona textil impermeable de alta densidad (poliéster/Oxford)\n\nDemas consideraciones indicadas en documento adjunto"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=3797-549-COT26",
+   "sin_detalle": false,
+   "descripcion": "En el marco de las actividades desarrolladas por la Oficina Local de la Niñez, se requiere la adquisición de un toldo institucional que permita contar con un espacio adecuado para la ejecución de actividades territoriales, jornadas de difusión y acciones de promoción y prevención de derechos de niños, niñas y adolescentes",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
    "tipo": "OPORTUNIDAD",
    "motivos": [
     "Ventas y marketing"
@@ -385,6 +356,53 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=4066-537-COT26",
    "sin_detalle": false,
    "descripcion": "La Ilustre Municipalidad de Río Ibáñez, a través de la Oficina de Cultura, requiere contratar un servicio de producción de evento que contemple amplificación, iluminación y la contratación de una agrupación de música criolla y de un acordeonista con trayectoria y reconocimientos nacionales e internacionales para el Encuentro de Acordeón y Guitarra 2026, a realizarse el sábado 19 de diciembre de 2026 en Puerto Río Tranquilo.",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "publicitarios"
+   ],
+   "nueva": true,
+   "codigo": "1521-95-COT26",
+   "nombre": "Articulos graficos, jornada comite local DPD",
+   "organismo": "Departamento Provincial de Coyhaique",
+   "unidad": "Departamento Provincial de Coyhaique",
+   "monto": 1371356,
+   "cierre_iso": "2026-11-23T09:00:00-03:00",
+   "publicacion": "20-11 15:47",
+   "publicacion_iso": "2026-11-20T15:47:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "44121701",
+     "Lápiz pasta",
+     270,
+     "Lapices con Logo"
+    ],
+    [
+     "49101704",
+     "Galvanos",
+     6,
+     "galvanos de maddera y gravados a todo color"
+    ],
+    [
+     "53121602",
+     "Bolsas de lona",
+     60,
+     "Bolsas Sublimación Miso Beige de 37x42 cm"
+    ],
+    [
+     "82101501",
+     "Letreros publicitarios",
+     3,
+     "Pendon Roller de 2x1 con diseño y bolso"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1521-95-COT26",
+   "sin_detalle": false,
+   "descripcion": "Articulos graficos, jornada comite local DPD",
    "en_gracia": false,
    "desaparecida_iso": ""
   },
@@ -480,7 +498,7 @@
    "motivos": [
     "fotografía"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "1428275-61-COT26",
    "nombre": "ADQUISICIÓN DE MOBILIARIO",
    "organismo": "SERVICIO NACIONAL DEL PATRIMONIO CULTURAL",
@@ -592,7 +610,7 @@
    "motivos": [
     "Ventas y marketing"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "4609-324-COT26",
    "nombre": "TALLERES ELABORACION FERMENTADO Y ENCURTIDO.",
    "organismo": "I MUNICIPALIDAD DE CHILE CHICO",
@@ -887,6 +905,24 @@
   }
  ],
  "historial": [
+  {
+   "codigo": "1458-37-COT26",
+   "nombre": "Realización Jornada Regional Programa Noche Digna",
+   "organismo": "SERPLAC XI Región",
+   "monto": 1000000,
+   "cierre_iso": "2026-11-20T15:18:00-03:00",
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Ventas y marketing"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1458-37-COT26",
+   "primera_vista_iso": "2026-11-17T13:00:25-03:00",
+   "removida_iso": "2026-11-20T16:00:41-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
   {
    "codigo": "2713-1429-COT26",
    "nombre": "Servicio de producción Festival Borde Cultural BOC 2026 - Folio 1516- DIDECO",
