@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-11-20T12:00:26.050369-03:00",
+ "actualizado": "2026-11-20T13:00:27.802599-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
- "total_region": 338,
+ "total_region": 333,
  "rubros": {
   "25172700": "Aire acondicionado",
   "25173900": "Componentes eléctricos",
@@ -19,99 +19,6 @@
   "39121400": "Conectores, enchufes y terminales"
  },
  "filas": [
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "iluminación"
-   ],
-   "nueva": true,
-   "codigo": "1057062-556-COT26",
-   "nombre": "Contratación de servicio de producción evento el día 17 y 18 de diciembre_Fisabs 2505_Programa Orquesta",
-   "organismo": "UNIVERSIDAD DE AYSEN",
-   "unidad": "Proyectos",
-   "monto": 2200000,
-   "cierre_iso": "2026-11-20T12:00:00-03:00",
-   "publicacion": "19-11 11:53",
-   "publicacion_iso": "2026-11-19T11:53:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "80141607",
-     "Producción de eventos",
-     1,
-     "Se requiere servicio de producción para conciertos: el día 17/12 En centro cultural coyhaique. Servicio de: prueba de sonido, instalación de sillas, Traslado e instalación gráficas y atriles, Catering para equipo Orquesta (37personas), sistema de micrófono, Técnico en sonido y dos operadores de cámara según archivo adjunto EETT. Cotización debe indicar la especificación técnica de lo ofertado."
-    ],
-    [
-     "80141607",
-     "Producción de eventos",
-     1,
-     "Se requiere servicio de producción para conciertos: el día 18/12 En Catedral Puerto Aysén. Servicio de: prueba de sonido, instalación de sillas, Traslado e instalación gráficas y atriles, Catering para equipo Orquesta (37personas), sistema de micrófono, Técnico en sonido y dos operadores de cámara según archivo adjunto EETT. Cotización debe indicar la especificación técnica de lo ofertado."
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1057062-556-COT26",
-   "sin_detalle": false,
-   "descripcion": "Se requiere servicio de producción para conciertos: el día 17/12 en Coyhaique  y 18/12 en Puerto Aysén. Servicio de: Traslado e instalación de gráficas y atriles, Catering para equipo Orquesta, técnico en sonido para manipular grabadora y microfonía y 2 operadores de cámara. Instalación de tarima en espacio escénico. Instalación de sillas. Instalación iluminación y arriendo de espacios. Archivo adjunto EETT. Cotización debe indicar la especificación técnica de lo ofertado",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
-  {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Gasfitería, calefacción y aire acondicionado"
-   ],
-   "nueva": false,
-   "codigo": "1428275-58-COT26",
-   "nombre": "SERVICIO DE DIAGNOSTICO Y MANTENCION SISTEMA DE CALEFACION DINAMICO ESTATICO",
-   "organismo": "SERVICIO NACIONAL DEL PATRIMONIO CULTURAL",
-   "unidad": "DIRECCIÓN REGIONAL DE AYSEN",
-   "monto": 250000,
-   "cierre_iso": "2026-11-20T12:00:00-03:00",
-   "publicacion": "19-11 10:39",
-   "publicacion_iso": "2026-11-19T10:39:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "72102302",
-     "Instalación, reparación o mantenimiento de sistemas de calefacción",
-     1,
-     "SERVICIO DE DIAGNOSTICO Y MANTENCION SISTEMA DE CALEFACION DINAMICO ESTATICO” 12 EQUIPOS, DE ACUERDO A ESPECIFICACIONES TECNICAS ADJUNTAS."
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1428275-58-COT26",
-   "sin_detalle": false,
-   "descripcion": "La Dirección Regional del Servicio Nacional del Patrimonio Cultural de Aysén, requiere contratar “SERVICIO DE DIAGNOSTICO Y MANTENCION SISTEMA DE CALEFACION DINAMICO ESTATICO”, según detalles en archivo adjunto.",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "generador"
-   ],
-   "nueva": true,
-   "codigo": "1403-491-COT26",
-   "nombre": "COMPRA DE BENCINA PARA GENERADOR ELECTRICO DEL ECA COYHAIQUE",
-   "organismo": "Dirección Regional de Gendarmeria - Coyhaique",
-   "unidad": "Región de Aysén",
-   "monto": 67975,
-   "cierre_iso": "2026-11-20T12:45:00-03:00",
-   "publicacion": "19-11 12:34",
-   "publicacion_iso": "2026-11-19T12:34:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "15101507",
-     "Bencina",
-     40,
-     "GASOLINA 93 PARA GENERADOR ELECTRICO ECA COYHAIQUE"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1403-491-COT26",
-   "sin_detalle": false,
-   "descripcion": "E1O2RT9 - COMPRA DE BENCINA PARA GENERADOR ELECTRICO DEL ECA COYHAIQUE. CRITERIOS DE EVALUACIÓN. PRECIO 88% - PLAZO DE ENTREGA 10% - SUSTENTABILIDAD 2%",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
   {
    "tipo": "OPORTUNIDAD",
    "motivos": [
@@ -436,6 +343,35 @@
   {
    "tipo": "OPORTUNIDAD",
    "motivos": [
+    "Servicios eléctricos"
+   ],
+   "nueva": true,
+   "codigo": "4140-113-COT26",
+   "nombre": "MANO DE OBRA, INSTALACION DE CENTRO ELECTRICO",
+   "organismo": "I MUNICIPALIDAD DE LAGO VERDE",
+   "unidad": "Adquisiciones",
+   "monto": 150000,
+   "cierre_iso": "2026-11-23T08:30:00-03:00",
+   "publicacion": "20-11 12:06",
+   "publicacion_iso": "2026-11-20T12:06:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "72102201",
+     "Instalación o servicio de sistemas de energía eléctrica",
+     1,
+     "MANO DE OBRA CON COMPRA DE INSUMOS PARA EL REQUIRIMIENTO"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=4140-113-COT26",
+   "sin_detalle": false,
+   "descripcion": "SE REQUIERE MANO DE OBRA PARA INSTALACION DE CENTRO ELECTRICO CANALIZADO Y MATERIALES COMO ENFUFES DOBLES, CAJA SOBRE PUESTO, GALVANIZADA, CABLES, CANALIZACION TUBO GALVANIZADO, SOLDADURA, HUINCHA ENGOMADA, HUINCHA AISLADORA",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
     "Cajas y accesorios eléctricos"
    ],
    "nueva": true,
@@ -702,6 +638,35 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=1233615-1015-COT26",
    "sin_detalle": false,
    "descripcion": "Estos implementos permitirán desarrollar competencias tecnológicas, comunicativas, técnicas y laborales, fomentar la creatividad, el trabajo colaborativo y la participación estudiantil, además de apoyar la difusión de las actividades institucionales y el mejoramiento de los espacios educativos.",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "generador"
+   ],
+   "nueva": true,
+   "codigo": "4644-154-COT26",
+   "nombre": "Lubricantes San Rafael si 457 sire 451",
+   "organismo": "CORP NACIONAL FORESTAL",
+   "unidad": "XI Región - Oficina Provincial Aysen",
+   "monto": 450000,
+   "cierre_iso": "2026-11-23T12:00:00-03:00",
+   "publicacion": "20-11 12:21",
+   "publicacion_iso": "2026-11-20T12:21:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "15121501",
+     "Aceite de motor",
+     12,
+     "Aceite rimula R4 de 4 litros, Para motor que funciona a Diesel y gasolina. API: CK-4, SN.Recomendado en motores de 4 tiempos.\nProtege al motor por 24000 km."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=4644-154-COT26",
+   "sin_detalle": false,
+   "descripcion": "Conaf requiere adquirir lubricantes para generador del Parque Nacional Laguna San Rafael",
    "en_gracia": false,
    "desaparecida_iso": ""
   },
@@ -1052,6 +1017,60 @@
   }
  ],
  "historial": [
+  {
+   "codigo": "1403-491-COT26",
+   "nombre": "COMPRA DE BENCINA PARA GENERADOR ELECTRICO DEL ECA COYHAIQUE",
+   "organismo": "Dirección Regional de Gendarmeria - Coyhaique",
+   "monto": 67975,
+   "cierre_iso": "2026-11-20T12:45:00-03:00",
+   "tipo": "POSIBLE",
+   "motivos": [
+    "generador"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1403-491-COT26",
+   "primera_vista_iso": "2026-11-19T13:00:23-03:00",
+   "removida_iso": "2026-11-20T13:00:27-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
+  {
+   "codigo": "1428275-58-COT26",
+   "nombre": "SERVICIO DE DIAGNOSTICO Y MANTENCION SISTEMA DE CALEFACION DINAMICO ESTATICO",
+   "organismo": "SERVICIO NACIONAL DEL PATRIMONIO CULTURAL",
+   "monto": 250000,
+   "cierre_iso": "2026-11-20T12:00:00-03:00",
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Gasfitería, calefacción y aire acondicionado"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1428275-58-COT26",
+   "primera_vista_iso": "2026-11-19T11:00:26-03:00",
+   "removida_iso": "2026-11-20T13:00:27-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
+  {
+   "codigo": "1057062-556-COT26",
+   "nombre": "Contratación de servicio de producción evento el día 17 y 18 de diciembre_Fisabs 2505_Programa Orquesta",
+   "organismo": "UNIVERSIDAD DE AYSEN",
+   "monto": 2200000,
+   "cierre_iso": "2026-11-20T12:00:00-03:00",
+   "tipo": "POSIBLE",
+   "motivos": [
+    "iluminación"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1057062-556-COT26",
+   "primera_vista_iso": "2026-11-19T12:00:30-03:00",
+   "removida_iso": "2026-11-20T13:00:27-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
   {
    "codigo": "3765-363-COT26",
    "nombre": "MANTENIMIENTO PREVENTIVO GRUPO GENERADOR DE HLOR CHILE CHICO Y PSR MALLÍN GRANDE ",
@@ -1867,24 +1886,6 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=1092-88-COT26",
    "primera_vista_iso": "2026-11-12T13:45:25-03:00",
    "removida_iso": "2026-11-13T14:17:48-03:00",
-   "estado_api": "",
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "2713-1337-COT26",
-   "nombre": "DAOMA SOL.1386. Adquisición de repuestos.",
-   "organismo": "I MUNICIPALIDAD DE AYSEN",
-   "monto": 1235000,
-   "cierre_iso": "2026-11-13T12:14:00-03:00",
-   "tipo": "POSIBLE",
-   "motivos": [
-    "interruptor"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=2713-1337-COT26",
-   "primera_vista_iso": "2026-11-05T14:29:51-03:00",
-   "removida_iso": "2026-11-13T13:00:24-03:00",
    "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,

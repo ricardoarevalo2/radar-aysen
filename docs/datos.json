@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-11-20T12:00:26.050369-03:00",
+ "actualizado": "2026-11-20T13:00:27.802599-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
- "total_region": 338,
+ "total_region": 333,
  "rubros": {
   "80141600": "Ventas y marketing",
   "82101600": "Publicidad en medios no impresos",
@@ -19,89 +19,13 @@
    "motivos": [
     "Ventas y marketing"
    ],
-   "nueva": true,
-   "codigo": "1057062-556-COT26",
-   "nombre": "Contratación de servicio de producción evento el día 17 y 18 de diciembre_Fisabs 2505_Programa Orquesta",
-   "organismo": "UNIVERSIDAD DE AYSEN",
-   "unidad": "Proyectos",
-   "monto": 2200000,
-   "cierre_iso": "2026-11-20T12:00:00-03:00",
-   "publicacion": "19-11 11:53",
-   "publicacion_iso": "2026-11-19T11:53:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "80141607",
-     "Producción de eventos",
-     1,
-     "Se requiere servicio de producción para conciertos: el día 17/12 En centro cultural coyhaique. Servicio de: prueba de sonido, instalación de sillas, Traslado e instalación gráficas y atriles, Catering para equipo Orquesta (37personas), sistema de micrófono, Técnico en sonido y dos operadores de cámara según archivo adjunto EETT. Cotización debe indicar la especificación técnica de lo ofertado."
-    ],
-    [
-     "80141607",
-     "Producción de eventos",
-     1,
-     "Se requiere servicio de producción para conciertos: el día 18/12 En Catedral Puerto Aysén. Servicio de: prueba de sonido, instalación de sillas, Traslado e instalación gráficas y atriles, Catering para equipo Orquesta (37personas), sistema de micrófono, Técnico en sonido y dos operadores de cámara según archivo adjunto EETT. Cotización debe indicar la especificación técnica de lo ofertado."
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1057062-556-COT26",
-   "sin_detalle": false,
-   "descripcion": "Se requiere servicio de producción para conciertos: el día 17/12 en Coyhaique  y 18/12 en Puerto Aysén. Servicio de: Traslado e instalación de gráficas y atriles, Catering para equipo Orquesta, técnico en sonido para manipular grabadora y microfonía y 2 operadores de cámara. Instalación de tarima en espacio escénico. Instalación de sillas. Instalación iluminación y arriendo de espacios. Archivo adjunto EETT. Cotización debe indicar la especificación técnica de lo ofertado",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "fotografía"
-   ],
-   "nueva": true,
-   "codigo": "2494-312-COT26",
-   "nombre": "Adquisición de Premios para Taller Fotografia - Barrio Arturo Prat",
-   "organismo": "I MUNICIPALIDAD DE COYHAIQUE",
-   "unidad": "SECRETARIA COMUNAL DE PLANIFICACION",
-   "monto": 250000,
-   "cierre_iso": "2026-11-20T12:00:00-03:00",
-   "publicacion": "19-11 11:18",
-   "publicacion_iso": "2026-11-19T11:18:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "45121518",
-     "Kits de cámara",
-     5,
-     "Trípodes Profesional Extendible Ajustable Para Cámara Celular,170.00 x 34.00 x 170.00 cm, imagen referencial 1*.\nLos detalles se encuentran en el documento adjunto."
-    ],
-    [
-     "45121518",
-     "Kits de cámara",
-     5,
-     "Tazas Cafe Mug Tipo Lente Camara Fotografica Aluminio, 350 ml, imagen referencial 2*.\nLos detalles se encuentrasn en el documento adjunto."
-    ],
-    [
-     "45121518",
-     "Kits de cámara",
-     5,
-     "Monocular Zoom 40x60 Hd Estuche + Porta Celular Outdoor, imagen referencial 3*.\nLos detalles se encuentrasn en el documento adjunto."
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=2494-312-COT26",
-   "sin_detalle": false,
-   "descripcion": "Adquisición premios para concurso de fotografía del Barrio arturo Prat, con el objeto de generar acciones comunitarias y de fortalecimiento de la participación barrial impulsadas por el Programa Quiero Mi Barrio, a través de un taller de fotografía, la cual se contempla los premios que serán adquiridos mendiante Mercado Público. LOS DETALLES DE LOS PRODUCTOS DESEADO SE ENCUENTRAN EN EL DOCUMENTO ADJUNTO.",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
-  {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Ventas y marketing"
-   ],
    "nueva": false,
    "codigo": "4609-322-COT26",
    "nombre": "SERVICIO DE PRODUCCION TECNICA",
    "organismo": "I MUNICIPALIDAD DE CHILE CHICO",
    "unidad": "Finanzas",
    "monto": 2610000,
-   "cierre_iso": "2026-11-20T12:00:00-03:00",
+   "cierre_iso": "2026-11-20T14:30:00-03:00",
    "publicacion": "18-11 11:58",
    "publicacion_iso": "2026-11-18T11:58:00-03:00",
    "ofertas": 0,
@@ -124,42 +48,7 @@
    "motivos": [
     "Ventas y marketing"
    ],
-   "nueva": true,
-   "codigo": "2713-1429-COT26",
-   "nombre": "Servicio de producción Festival Borde Cultural BOC 2026 - Folio 1516- DIDECO",
-   "organismo": "I MUNICIPALIDAD DE AYSEN",
-   "unidad": "I.MUNICIPALIDAD AYSEN-ADQUISICIONES",
-   "monto": 1700000,
-   "cierre_iso": "2026-11-20T12:30:00-03:00",
-   "publicacion": "19-11 12:07",
-   "publicacion_iso": "2026-11-19T12:07:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "80141607",
-     "Producción de eventos",
-     1,
-     "Artista o agrupación regional para presentación musical en vivo de mínimo 60 minutos el domingo 29/11/2026, Festival Borde Cultural BOC 2026, Puerto Aysén (monto máx. $800.000 imp. incl.). Repertorio de creación regional, composiciones propias y/o vinculado a la Patagonia. Incluye instrumentos, traslados y elementos técnicos propios; coordinar prueba de sonido y horario con la Unidad de Cultura. Ver Anexo Técnico."
-    ],
-    [
-     "80161507",
-     "Servicios Audio Visuales",
-     1,
-     "Artista visual local para creación de material audiovisual (monto máx. $900.000 imp. incl.): propuesta creativa, mínimo 3 horas de registro los días 27 y 28/11/2026 en Puerto Aysén, edición y postproducción de 3 reels de 60 a 90 seg., formato 16:9, Full HD (1920x1080), MP4, que visibilicen patrimonio e identidad cultural de la comuna. Entrega en pendrive (reels y material bruto) y exhibición el 29/11/2026. Ver Anexo Técnico."
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=2713-1429-COT26",
-   "sin_detalle": false,
-   "descripcion": "Contratación de dos servicios artísticos para el Festival Borde Cultural BOC 2026, en Puerto Aysén, proyecto Estrategia de Sostenibilidad del PMC Aysén. Línea 1: artista visual local para registro audiovisual el 27 y 28 de noviembre, edición y exhibición de pieza audiovisual el 29 (tope $900.000). Línea 2: presentación musical en vivo de artista regional, 60 min, el 29 de noviembre (tope $800.000). Total $1.700.000 imp. incluido. Se deben ofertar ambos servicios. Ver Anexo Técnico.",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
-  {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Ventas y marketing"
-   ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "1458-37-COT26",
    "nombre": "Realización Jornada Regional Programa Noche Digna",
    "organismo": "SERPLAC XI Región",
@@ -533,7 +422,7 @@
    "motivos": [
     "Ventas y marketing"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "2494-311-COT26",
    "nombre": "Servicio Circense para un espectáculo a los vecinos y vecinas del Barrio Villa General Bernales - Programa Recuperación de Barrios / MINVU",
    "organismo": "I MUNICIPALIDAD DE COYHAIQUE",
@@ -969,6 +858,60 @@
   }
  ],
  "historial": [
+  {
+   "codigo": "2713-1429-COT26",
+   "nombre": "Servicio de producción Festival Borde Cultural BOC 2026 - Folio 1516- DIDECO",
+   "organismo": "I MUNICIPALIDAD DE AYSEN",
+   "monto": 1700000,
+   "cierre_iso": "2026-11-20T12:30:00-03:00",
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Ventas y marketing"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=2713-1429-COT26",
+   "primera_vista_iso": "2026-11-19T13:00:23-03:00",
+   "removida_iso": "2026-11-20T13:00:27-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
+  {
+   "codigo": "1057062-556-COT26",
+   "nombre": "Contratación de servicio de producción evento el día 17 y 18 de diciembre_Fisabs 2505_Programa Orquesta",
+   "organismo": "UNIVERSIDAD DE AYSEN",
+   "monto": 2200000,
+   "cierre_iso": "2026-11-20T12:00:00-03:00",
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Ventas y marketing"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1057062-556-COT26",
+   "primera_vista_iso": "2026-11-19T12:00:30-03:00",
+   "removida_iso": "2026-11-20T13:00:27-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
+  {
+   "codigo": "2494-312-COT26",
+   "nombre": "Adquisición de Premios para Taller Fotografia - Barrio Arturo Prat",
+   "organismo": "I MUNICIPALIDAD DE COYHAIQUE",
+   "monto": 250000,
+   "cierre_iso": "2026-11-20T12:00:00-03:00",
+   "tipo": "POSIBLE",
+   "motivos": [
+    "fotografía"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=2494-312-COT26",
+   "primera_vista_iso": "2026-11-19T12:00:30-03:00",
+   "removida_iso": "2026-11-20T13:00:27-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
   {
    "codigo": "1182705-216-COT26",
    "nombre": "ADQUISICION DE PIN REDONDO CON LOGO INSTITUCIONAL, FOLIO 233",
@@ -2142,24 +2085,6 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=734-216-COT26",
    "primera_vista_iso": "2026-11-12T13:45:25-03:00",
    "removida_iso": "2026-11-13T18:00:26-03:00",
-   "estado_api": "",
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "3949-300-COT26",
-   "nombre": "Insumos para uso en atenciones unidad dental",
-   "organismo": "CONSULTORIO GENERAL URBANO DR ALEJANDRO GUTIERREZ",
-   "monto": 7200000,
-   "cierre_iso": "2026-11-13T13:00:00-03:00",
-   "tipo": "POSIBLE",
-   "motivos": [
-    "fotografía"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=3949-300-COT26",
-   "primera_vista_iso": "2026-11-12T13:45:25-03:00",
-   "removida_iso": "2026-11-13T14:00:24-03:00",
    "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,
