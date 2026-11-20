@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-11-19T20:00:27.544744-03:00",
+ "actualizado": "2026-11-19T21:00:24.817559-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
- "total_region": 337,
+ "total_region": 335,
  "rubros": {
   "25172700": "Aire acondicionado",
   "25173900": "Componentes eléctricos",
@@ -19,36 +19,6 @@
   "39121400": "Conectores, enchufes y terminales"
  },
  "filas": [
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "generador",
-    "grupo electrógeno"
-   ],
-   "nueva": false,
-   "codigo": "697209-34-COT26",
-   "nombre": "CIERRE PERIMETRAL DE SEGURIDAD PARA GRUPO ELECTRÓGENO",
-   "organismo": "MINISTERIO PUBLICO",
-   "unidad": "FR AYSEN",
-   "monto": 2500000,
-   "cierre_iso": "2026-11-19T20:00:00-03:00",
-   "publicacion": "16-11 18:36",
-   "publicacion_iso": "2026-11-16T18:36:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "101111100",
-     "10.O.M.",
-     1,
-     "cierre perimetral generador electrico 4x3,5x1,5 aprox. según documento adjunto especificaciones técnicas."
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=697209-34-COT26",
-   "sin_detalle": false,
-   "descripcion": "La Fiscalía Regional de Aysén del Ministerio Público, requiere el suministro de un cierre perimetral de seguridad para el grupo electrógeno de emergencia de su edificio instruccional ubicado en calle Simón Bolivar 126, Coyhaique. \nEl propósito es resguardar el equipo contra accesos no autorizados, impactos accidentales y manipulación indebida, permitiendo una correcta ventilación y un acceso frontal exclusivo para operación y mantenimiento.",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
   {
    "tipo": "POSIBLE",
    "motivos": [
@@ -704,6 +674,25 @@
   }
  ],
  "historial": [
+  {
+   "codigo": "697209-34-COT26",
+   "nombre": "CIERRE PERIMETRAL DE SEGURIDAD PARA GRUPO ELECTRÓGENO",
+   "organismo": "MINISTERIO PUBLICO",
+   "monto": 2500000,
+   "cierre_iso": "2026-11-19T20:00:00-03:00",
+   "tipo": "POSIBLE",
+   "motivos": [
+    "generador",
+    "grupo electrógeno"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=697209-34-COT26",
+   "primera_vista_iso": "2026-11-16T19:00:26-03:00",
+   "removida_iso": "2026-11-19T21:00:24-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
   {
    "codigo": "4066-527-COT26",
    "nombre": "Servicio de producción de eventos: Desarrollo de Ferias Productivas, Lanzamiento de Temporada Turística 2026-2027 en Puerto Sánchez - COD BIP 40066883-0",
