@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-11-20T17:00:37.910934-03:00",
+ "actualizado": "2026-11-20T18:00:24.231884-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
- "total_region": 328,
+ "total_region": 323,
  "rubros": {
   "25172700": "Aire acondicionado",
   "25173900": "Componentes eléctricos",
@@ -1098,7 +1098,7 @@
    "motivos": [
     "Gasfitería, calefacción y aire acondicionado"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "1905-90-COT26",
    "nombre": "Servicio de mejoramiento de calefacción en oficina de Puerto Aysén y Coyhaique",
    "organismo": "SERVICIO DE REGISTRO CIVIL E IDENTIFICAC",
@@ -2022,24 +2022,6 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=1233615-963-COT26",
    "primera_vista_iso": "2026-11-10T19:26:29-03:00",
    "removida_iso": "2026-11-13T21:00:25-03:00",
-   "estado_api": "",
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "1078779-25-COT26",
-   "nombre": "Aire acondicionado",
-   "organismo": "SERVICIO DE SALUD AYSEN CARLOS IBANEZ DEL CAMPO",
-   "monto": 303990,
-   "cierre_iso": "2026-11-13T18:00:00-03:00",
-   "tipo": "POSIBLE",
-   "motivos": [
-    "aire acondicionado"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1078779-25-COT26",
-   "primera_vista_iso": "2026-11-12T13:45:25-03:00",
-   "removida_iso": "2026-11-13T19:00:27-03:00",
    "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,

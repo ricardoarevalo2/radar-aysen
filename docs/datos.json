@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-11-20T17:00:37.910934-03:00",
+ "actualizado": "2026-11-20T18:00:24.231884-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
- "total_region": 328,
+ "total_region": 323,
  "rubros": {
   "80141600": "Ventas y marketing",
   "82101600": "Publicidad en medios no impresos",
@@ -14,35 +14,6 @@
   "83121700": "Comunicación social y de masas"
  },
  "filas": [
-  {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Publicidad en medios no impresos"
-   ],
-   "nueva": true,
-   "codigo": "2713-1440-COT26",
-   "nombre": "Arriendo espacio radial multiplataforma - Folio 1473 -DIDECO",
-   "organismo": "I MUNICIPALIDAD DE AYSEN",
-   "unidad": "I.MUNICIPALIDAD AYSEN-ADQUISICIONES",
-   "monto": 140000,
-   "cierre_iso": "2026-11-20T17:20:00-03:00",
-   "publicacion": "19-11 17:12",
-   "publicacion_iso": "2026-11-19T17:12:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "82101601",
-     "Publicidad en radio",
-     1,
-     "Servicio de arriendo de espacio radial de 60 minutos, “Sacar la voz: No más silencio frente a la violencia”, el lunes 30/11/2026. Transmisión en vivo por señal radial y simultánea en plataformas digitales (YouTube Live y Facebook Live). Incluye sillas, micrófonos y equipos técnicos para 4 participantes, coordinación previa con el Programa y entrega del enlace de la grabación completa y medios de verificación en máximo 1 día hábil. Valor total con impuestos incluidos."
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=2713-1440-COT26",
-   "sin_detalle": false,
-   "descripcion": "Arriendo de espacio radial multiplataforma de 60 minutos, “Sacar la voz: No más silencio frente a la violencia”, transmitido en vivo por señal radial y en simultáneo por YouTube Live y Facebook Live, el lunes 30 de noviembre de 2026. Incluye sillas, micrófonos y equipos técnicos para 4 participantes, y la entrega del enlace de la grabación completa y medios de verificación en máximo 1 día hábil. Monto máximo: $140.000, impuestos incluidos. Ver especificaciones técnicas adjuntas.",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
   {
    "tipo": "POSIBLE",
    "motivos": [
@@ -213,6 +184,53 @@
     "Ventas y marketing"
    ],
    "nueva": true,
+   "codigo": "2713-1451-COT26",
+   "nombre": "Habilitación y optimización de espacios públicos para la vida saludable: baños de naturaleza - Folio 1537 - DIDECO",
+   "organismo": "I MUNICIPALIDAD DE AYSEN",
+   "unidad": "I.MUNICIPALIDAD AYSEN-ADQUISICIONES",
+   "monto": 1900000,
+   "cierre_iso": "2026-11-21T17:30:00-03:00",
+   "publicacion": "20-11 17:10",
+   "publicacion_iso": "2026-11-20T17:10:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "78111803",
+     "Servicios de autobuses contratados",
+     1,
+     "Transporte en minibús con capacidad mínima de 17 pasajeros, 3 viajes ida y regreso desde Plaza de Armas de Puerto Aysén a Reserva Nacional Río Simpson (27, 28 y 29 nov, 09:00 a 13:00 hrs), con disponibilidad exclusiva. Vehículo de máx. 10 años, cinturones en todos los asientos, A/C y/o calefacción operativos. Conductor con licencia profesional vigente. Reemplazo en caso de panne. Reprogramación sin costo por clima o logística, aviso mín. 24 hrs, dentro de diciembre. Documentación según EETT."
+    ],
+    [
+     "80141618",
+     "Agencias de marketing de ventas, incluidas las impresiones",
+     51,
+     "Adquisición de 51 tickets de entrada a la Reserva Nacional Río Simpson, uno por asistente, incluido el equipo ejecutor (17 por salida, 3 salidas: 27, 28 y 29 de noviembre). El municipio entregará la lista de asistentes de cada salida con los datos necesarios para emitir cada ticket. Posterior a cada salida, se debe entregar el ticket o código QR, según corresponda, como medio de verificación para el equipo de PROMOS."
+    ],
+    [
+     "86111604",
+     "Capacitación a empleados",
+     3,
+     "Monitor/a para la ejecución de 3 jornadas de baño de naturaleza o bosque en la Reserva Nacional Río Simpson, los días 27, 28 y 29 de noviembre, de 09:00 a 13:00 hrs, con duración efectiva de a lo menos 2 horas por sesión dentro de la reserva. 17 participantes por salida, incluido el equipo ejecutor, sin restricción de edad. Debe presentar certificado de competencias o experiencia en conexión consciente con la naturaleza o metodología equivalente de bienestar en entornos naturales."
+    ],
+    [
+     "93131607",
+     "Servicios de distribución de alimentos",
+     51,
+     "Adquisición de 51 colaciones individuales parcializadas, con entrega de 17 colaciones en cada salida (27, 28 y 29 de noviembre). Cada bolsa debe contener: 1 jugo o agua sin gas en formato individual, 1 barra de cereal y 1 fruta entera y lavada. Todo dentro de una bolsa individual."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=2713-1451-COT26",
+   "sin_detalle": false,
+   "descripcion": "Servicio de producción de 3 jornadas de baño de naturaleza en la Reserva Nacional Río Simpson (27, 28 y 29 de noviembre, de 09:00 a 13:00 hrs), con salida y regreso desde la Plaza de Armas de Puerto Aysén. Incluye: monitor/a de baño de naturaleza o bosque; transporte en minibús con capacidad mínima de 17 pasajeros (3 viajes); 51 tickets de entrada a la reserva y 51 colaciones individuales (17 por salida). Monto máximo $1.900.000 IVA incluido. Ver especificaciones técnicas adjuntas.",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Ventas y marketing"
+   ],
+   "nueva": false,
    "codigo": "4066-535-COT26",
    "nombre": "SERVICIO INTEGRAL DE PRODUCCIÓN Y ALIMENTACIÓN PARA EL DÍA DEL TURISMO EN VILLA CERRO CASTILLO, COD. BIP 40066883-0",
    "organismo": "I MUNICIPALIDAD RIO IBANEZ",
@@ -574,7 +592,7 @@
    "motivos": [
     "publicitarios"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "2713-1442-COT26",
    "nombre": "DAOMA SOL.1486, Adquisición de PENDON Y PASACALLE .",
    "organismo": "I MUNICIPALIDAD DE AYSEN",
@@ -811,6 +829,24 @@
   }
  ],
  "historial": [
+  {
+   "codigo": "2713-1440-COT26",
+   "nombre": "Arriendo espacio radial multiplataforma - Folio 1473 -DIDECO",
+   "organismo": "I MUNICIPALIDAD DE AYSEN",
+   "monto": 140000,
+   "cierre_iso": "2026-11-20T17:20:00-03:00",
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Publicidad en medios no impresos"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=2713-1440-COT26",
+   "primera_vista_iso": "2026-11-19T18:00:24-03:00",
+   "removida_iso": "2026-11-20T18:00:24-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
   {
    "codigo": "2713-1438-COT26",
    "nombre": "programa radial Hablemos de Violencia de Género",
@@ -1212,7 +1248,7 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=1057062-540-COT26",
    "primera_vista_iso": "2026-11-13T18:00:26-03:00",
    "removida_iso": "2026-11-19T13:00:23-03:00",
-   "estado_api": null,
+   "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,
    "adj_iso": null
