@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-11-20T11:00:28.781094-03:00",
+ "actualizado": "2026-11-20T12:00:26.050369-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
- "total_region": 330,
+ "total_region": 338,
  "rubros": {
   "80141600": "Ventas y marketing",
   "82101600": "Publicidad en medios no impresos",
@@ -14,151 +14,6 @@
   "83121700": "Comunicación social y de masas"
  },
  "filas": [
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "difusion"
-   ],
-   "nueva": false,
-   "codigo": "1758-302-COT26",
-   "nombre": "ADQUISICION INSUMO PARA EJECUCION EN EL MARCO DE LA DIFUSION DEL PLAN CHILE APRENDE Y AVANZA MINEDUC",
-   "organismo": "SECRETARIA REGIONAL MINISTERIAL DE EDUCACION XI REGION",
-   "unidad": "Mineduc Administración XI Región",
-   "monto": 100000,
-   "cierre_iso": "2026-11-20T11:00:00-03:00",
-   "publicacion": "18-11 12:15",
-   "publicacion_iso": "2026-11-18T12:15:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "52151504",
-     "Tazas o vasos desechables domésticos",
-     200,
-     "200 VASOS POLIPAPEL BLANCO 08 OZ 240 CC. \nECOLOGICO."
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1758-302-COT26",
-   "sin_detalle": false,
-   "descripcion": "SE REQUIERE ADQUIRIR 200 VASOS POLIPAPEL BLANCO 08 OZ 240 CC. PARA LA EJECUCION EN EL MARCO DE LA DIFUSION DEL \"PLAN CHILE APRENDE Y AVANZA MINEDUC\"\nENTREGA EN GABINETE, SECREDUC. EN FCO. BILBAO 540 DE LA CIUDAD DE COYHAIQUE.",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "difusion"
-   ],
-   "nueva": false,
-   "codigo": "1758-301-COT26",
-   "nombre": "ADQUISICION DE RECARGAS DE AGUA DE 20 LITROS EN EL MARCO DE LA DIFUSION DEL PLAN CHILE APRENDE Y AVANZA MINEDUC",
-   "organismo": "SECRETARIA REGIONAL MINISTERIAL DE EDUCACION XI REGION",
-   "unidad": "Mineduc Administración XI Región",
-   "monto": 50000,
-   "cierre_iso": "2026-11-20T11:00:00-03:00",
-   "publicacion": "18-11 11:42",
-   "publicacion_iso": "2026-11-18T11:42:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "50202301",
-     "Agua",
-     6,
-     "06 RECARGAS DE AGUA DE 20 LITROS."
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1758-301-COT26",
-   "sin_detalle": false,
-   "descripcion": "SE REQUIERE ADQUIRIR 06 RECARGAS DE AGUA DE 20 LTS. EN EL MARCO DIFUSION DEL PLAN CHILE APRENDE Y AVANZA DEL MINISTERIO DE EDUCACION A REALIZARSE EL 28 DE NOVIEMBRE EN BYPASS DE LA CIUDAD DE COYHAIQUE.\nENTREGA EN FCO. BILBAO 540 GABINETE, SECREDUC.",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "difusion"
-   ],
-   "nueva": false,
-   "codigo": "1758-300-COT26",
-   "nombre": "SERVICIO DE MAQILLAJE ARTISTICO \"PINTACARITAS\" EN EL MARCO DIFUSION DEL PLAN CHILE APRENDE Y AVANZA DEL MINISTERIO DE EDUCACION",
-   "organismo": "SECRETARIA REGIONAL MINISTERIAL DE EDUCACION XI REGION",
-   "unidad": "Mineduc Administración XI Región",
-   "monto": 300000,
-   "cierre_iso": "2026-11-20T11:00:00-03:00",
-   "publicacion": "18-11 11:05",
-   "publicacion_iso": "2026-11-18T11:05:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "60121206",
-     "Pintura de maquillaje",
-     1,
-     "SERVICIO DE MAQUILLAJE ARTISTICO \"PINTACARITAS\" DIFUSION DEL PLAN CHILE APRENDE Y AVANZA EL 28 DE NOVIEMBRE EN LA CIUDAD DE COYHAIQUE.\nSE ADJUNTA DETALLE."
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1758-300-COT26",
-   "sin_detalle": false,
-   "descripcion": "SE REQUIERE CONTRATAR SERVICIO DE  MAQILLAJE ARTISTICO \"PINTACARITAS\" EN EL MARCO DIFUSION DEL PLAN CHILE APRENDE Y AVANZA DEL MINISTERIO DE EDUCACION A REALIZARSE EL 28 DE NOVIEMBRE EN BYPASS DE LA CIUDAD DE COYHAIQUE.",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "difusion"
-   ],
-   "nueva": false,
-   "codigo": "1758-299-COT26",
-   "nombre": "SERVICIO DE MEDIACION LECTORA Y NARRACION ORAL CUENTACUENTOS ",
-   "organismo": "SECRETARIA REGIONAL MINISTERIAL DE EDUCACION XI REGION",
-   "unidad": "Mineduc Administración XI Región",
-   "monto": 200000,
-   "cierre_iso": "2026-11-20T11:00:00-03:00",
-   "publicacion": "18-11 10:42",
-   "publicacion_iso": "2026-11-18T10:42:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "94121701",
-     "Clubes de aficionados o talleres de teatro",
-     1,
-     "SERVICIO DE MEDIACION LECTORA Y NARRATIVA \"CUENTA CUENTOS\" EL DIA 28 DE NOVIEMBRE EN BYPASS de LA CIUDAD DE COYHAIQUE."
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1758-299-COT26",
-   "sin_detalle": false,
-   "descripcion": "SE REQUIERE CONTRATAR SERVICIO DE MEDIACION LECTORA Y NARRACION ORAL (CUENTACUENTOS) EN EL MARCO DE LA DIFUSION DEL PLAN CHILE APRENDE Y AVANZA DEL MINISTERIO DE EDUCACION  A RELIZARSE EN EL MIRADOR  BYPASS EL 28 DE NOVIEMBRE EN LA CIUDAD DE COYHAIQUE",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "publicitaria"
-   ],
-   "nueva": true,
-   "codigo": "1182705-216-COT26",
-   "nombre": "ADQUISICION DE PIN REDONDO CON LOGO INSTITUCIONAL, FOLIO 233",
-   "organismo": "CENTRO DE FORMACIÓN TÉCNICA DE LA REGIÓN DE AYSÉN DEL GENERAL CARLOS I",
-   "unidad": "FINANZAS",
-   "monto": 558000,
-   "cierre_iso": "2026-11-20T11:47:00-03:00",
-   "publicacion": "17-11 12:31",
-   "publicacion_iso": "2026-11-17T12:31:00-03:00",
-   "ofertas": 6,
-   "productos": [
-    [
-     "82121505",
-     "Impresión promocional o publicitaria",
-     200,
-     "Pin redondo de 2,5 cm de base metálica dorada con impresión de logo institucional y resina dome con imán posterior. Debe incluir entrega en Puerto Aysén. (adjuntar cotización, ficha técnica y experiencia)"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1182705-216-COT26",
-   "sin_detalle": false,
-   "descripcion": "Se requiere la compra de pin redondo con logo institucional para el CFT de la Región de Aysén, Los productos deben ser entregados en oficina ubicado en Sargento Alea 533, Puerto Aysén.",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
   {
    "tipo": "OPORTUNIDAD",
    "motivos": [
@@ -650,6 +505,35 @@
     "Ventas y marketing"
    ],
    "nueva": true,
+   "codigo": "4066-537-COT26",
+   "nombre": "SERVICIO DE PRODUCCIÓN DE EVENTO CON AMPLIFICACIÓN Y PRESENTACIÓN MUSICAL ENCUENTRO DE ACORDEÓN Y GUITARRA 2026, según TDR adjuntos.",
+   "organismo": "I MUNICIPALIDAD RIO IBANEZ",
+   "unidad": "DIDECO",
+   "monto": 2000000,
+   "cierre_iso": "2026-11-22T09:00:00-03:00",
+   "publicacion": "20-11 11:45",
+   "publicacion_iso": "2026-11-20T11:45:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "80141607",
+     "Producción de eventos",
+     1,
+     "SERVICIO DE PRODUCCIÓN DE EVENTO CON AMPLIFICACIÓN Y PRESENTACIÓN MUSICAL ENCUENTRO DE ACORDEÓN Y GUITARRA 2026, según TDR adjuntos."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=4066-537-COT26",
+   "sin_detalle": false,
+   "descripcion": "La Ilustre Municipalidad de Río Ibáñez, a través de la Oficina de Cultura, requiere contratar un servicio de producción de evento que contemple amplificación, iluminación y la contratación de una agrupación de música criolla y de un acordeonista con trayectoria y reconocimientos nacionales e internacionales para el Encuentro de Acordeón y Guitarra 2026, a realizarse el sábado 19 de diciembre de 2026 en Puerto Río Tranquilo.",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Ventas y marketing"
+   ],
+   "nueva": true,
    "codigo": "2494-311-COT26",
    "nombre": "Servicio Circense para un espectáculo a los vecinos y vecinas del Barrio Villa General Bernales - Programa Recuperación de Barrios / MINVU",
    "organismo": "I MUNICIPALIDAD DE COYHAIQUE",
@@ -840,6 +724,35 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=4609-324-COT26",
    "sin_detalle": false,
    "descripcion": "COTIZACION TALLERES ELABORACION FERMENTADO Y ENCURTIDO.",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "difusion"
+   ],
+   "nueva": false,
+   "codigo": "1758-300-COT26",
+   "nombre": "SERVICIO DE MAQILLAJE ARTISTICO \"PINTACARITAS\" EN EL MARCO DIFUSION DEL PLAN CHILE APRENDE Y AVANZA DEL MINISTERIO DE EDUCACION",
+   "organismo": "SECRETARIA REGIONAL MINISTERIAL DE EDUCACION XI REGION",
+   "unidad": "Mineduc Administración XI Región",
+   "monto": 300000,
+   "cierre_iso": "2026-11-23T14:00:00-03:00",
+   "publicacion": "18-11 11:05",
+   "publicacion_iso": "2026-11-18T11:05:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "60121206",
+     "Pintura de maquillaje",
+     1,
+     "SERVICIO DE MAQUILLAJE ARTISTICO \"PINTACARITAS\" DIFUSION DEL PLAN CHILE APRENDE Y AVANZA EL 28 DE NOVIEMBRE EN LA CIUDAD DE COYHAIQUE.\nSE ADJUNTA DETALLE."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1758-300-COT26",
+   "sin_detalle": false,
+   "descripcion": "SE REQUIERE CONTRATAR SERVICIO DE  MAQILLAJE ARTISTICO \"PINTACARITAS\" EN EL MARCO DIFUSION DEL PLAN CHILE APRENDE Y AVANZA DEL MINISTERIO DE EDUCACION A REALIZARSE EL 28 DE NOVIEMBRE EN BYPASS DE LA CIUDAD DE COYHAIQUE.",
    "en_gracia": false,
    "desaparecida_iso": ""
   },
@@ -1056,6 +969,78 @@
   }
  ],
  "historial": [
+  {
+   "codigo": "1182705-216-COT26",
+   "nombre": "ADQUISICION DE PIN REDONDO CON LOGO INSTITUCIONAL, FOLIO 233",
+   "organismo": "CENTRO DE FORMACIÓN TÉCNICA DE LA REGIÓN DE AYSÉN DEL GENERAL CARLOS I",
+   "monto": 558000,
+   "cierre_iso": "2026-11-20T11:47:00-03:00",
+   "tipo": "POSIBLE",
+   "motivos": [
+    "publicitaria"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1182705-216-COT26",
+   "primera_vista_iso": "2026-11-17T13:00:25-03:00",
+   "removida_iso": "2026-11-20T12:00:26-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
+  {
+   "codigo": "1758-299-COT26",
+   "nombre": "SERVICIO DE MEDIACION LECTORA Y NARRACION ORAL CUENTACUENTOS ",
+   "organismo": "SECRETARIA REGIONAL MINISTERIAL DE EDUCACION XI REGION",
+   "monto": 200000,
+   "cierre_iso": "2026-11-20T11:00:00-03:00",
+   "tipo": "POSIBLE",
+   "motivos": [
+    "difusion"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1758-299-COT26",
+   "primera_vista_iso": "2026-11-18T11:00:25-03:00",
+   "removida_iso": "2026-11-20T12:00:26-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
+  {
+   "codigo": "1758-301-COT26",
+   "nombre": "ADQUISICION DE RECARGAS DE AGUA DE 20 LITROS EN EL MARCO DE LA DIFUSION DEL PLAN CHILE APRENDE Y AVANZA MINEDUC",
+   "organismo": "SECRETARIA REGIONAL MINISTERIAL DE EDUCACION XI REGION",
+   "monto": 50000,
+   "cierre_iso": "2026-11-20T11:00:00-03:00",
+   "tipo": "POSIBLE",
+   "motivos": [
+    "difusion"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1758-301-COT26",
+   "primera_vista_iso": "2026-11-18T12:00:27-03:00",
+   "removida_iso": "2026-11-20T12:00:26-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
+  {
+   "codigo": "1758-302-COT26",
+   "nombre": "ADQUISICION INSUMO PARA EJECUCION EN EL MARCO DE LA DIFUSION DEL PLAN CHILE APRENDE Y AVANZA MINEDUC",
+   "organismo": "SECRETARIA REGIONAL MINISTERIAL DE EDUCACION XI REGION",
+   "monto": 100000,
+   "cierre_iso": "2026-11-20T11:00:00-03:00",
+   "tipo": "POSIBLE",
+   "motivos": [
+    "difusion"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1758-302-COT26",
+   "primera_vista_iso": "2026-11-18T13:00:27-03:00",
+   "removida_iso": "2026-11-20T12:00:26-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
   {
    "codigo": "2495-654-COT26",
    "nombre": "ADQUISICIÓN DE PREMIOS PARA ACTIVIDAD DIRIGIDA A PERSONAS MAYORES",
@@ -2175,24 +2160,6 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=3949-300-COT26",
    "primera_vista_iso": "2026-11-12T13:45:25-03:00",
    "removida_iso": "2026-11-13T14:00:24-03:00",
-   "estado_api": "",
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "973172-4-COT26",
-   "nombre": "ALMUERZO CAMPESTRE OFICINA DE BIENESTAR Y CALIDAD DE VIDA 2026",
-   "organismo": "SII Oficina de Bienestar",
-   "monto": 1500000,
-   "cierre_iso": "2026-11-13T12:00:00-03:00",
-   "tipo": "POSIBLE",
-   "motivos": [
-    "radio"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=973172-4-COT26",
-   "primera_vista_iso": "2026-11-12T09:58:37-03:00",
-   "removida_iso": "2026-11-13T13:00:24-03:00",
    "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,
