@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-11-20T10:00:35.451684-03:00",
+ "actualizado": "2026-11-20T11:00:28.781094-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
- "total_region": 328,
+ "total_region": 330,
  "rubros": {
   "80141600": "Ventas y marketing",
   "82101600": "Publicidad en medios no impresos",
@@ -14,112 +14,6 @@
   "83121700": "Comunicación social y de masas"
  },
  "filas": [
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "television",
-    "televisión"
-   ],
-   "nueva": false,
-   "codigo": "2713-1412-COT26",
-   "nombre": "DIDECO SOL. 1478 ADQUISICION DE SMART -TV",
-   "organismo": "I MUNICIPALIDAD DE AYSEN",
-   "unidad": "I.MUNICIPALIDAD AYSEN-ADQUISICIONES",
-   "monto": 1500000,
-   "cierre_iso": "2026-11-20T10:00:00-03:00",
-   "publicacion": "17-11 12:47",
-   "publicacion_iso": "2026-11-17T12:47:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "43221702",
-     "Equipo de acceso de televisión",
-     1,
-     "TELEVISION SMART TV SEGU ESPECIFICACIONES TECNICAS DESCRITAS EN ANEXO ADJUNTO."
-    ],
-    [
-     "45111802",
-     "Soportes de televisión",
-     1,
-     "SOPORTE PARA TV EGUN ESPÉCIFIACIONES ADJUNTAS."
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=2713-1412-COT26",
-   "sin_detalle": false,
-   "descripcion": "SMART -TV-, SEGUN BASES TECNICAS ADJUNTAS.COSTOS DE TRASLADOS A PUERTO AYSÉN SERÁN DEL OFERENTE. EL PLAZO DE ENTREGA SERÁN DE 10 DÍA HÁBIL, DE LO CONTRARIO SE DESCARTARAN.EL PROVEEDOR QUE NO INDIQUE EL PLAZO DE ENTREGA SE DESCARTARA SU COTIZACIÓN. OFERENTE DEBE INCLUIR FLETES EN EL PRECIO DEL PRODUCTO.SE SOLICITA ANEXAR FICHA TECNICA DEL  PRODUCTO, DE LO CONTRARIO SE DESCARTARA. PLAZO DE ENTREGA COMIENZA A CONTAR DEL DIA HABIL SUBSIGUIENTE DEL ENVÍO DE ORDEN DE COMPRA.",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "audiovisual"
-   ],
-   "nueva": true,
-   "codigo": "886182-269-COT26",
-   "nombre": "Adquisición de equipamiento audiovisual _ Según FISABS 2483.",
-   "organismo": "UNIVERSIDAD DE AYSEN",
-   "unidad": "Universidad de Aysen",
-   "monto": 778968,
-   "cierre_iso": "2026-11-20T10:30:00-03:00",
-   "publicacion": "19-11 10:06",
-   "publicacion_iso": "2026-11-19T10:06:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "45121801",
-     "Cámaras para microfilmar",
-     2,
-     "Se requiere cotizar  adquisición de 1 cámara de video digital que incluya una batería adicional, un soporte adhesivo curvo adicional, una tarjeta SD de 64 GB y un estuche de guardado. Según especificaciones técnicas adjuntas."
-    ],
-    [
-     "52161512",
-     "Parlantes",
-     1,
-     "Se requiere cotizar 1 BAFLE ACTIVO 15P + DOBLE MICROFONO INALAMBRICO, según especificaciones técnicas adjuntas."
-    ],
-    [
-     "52161520",
-     "Micrófonos",
-     1,
-     "Se requiere cotizar adquisición de 1 Micrófono Inalámbrico Ultra Compacto Portable 24GHz USB-C. Según especificaciones técnicas adjuntas."
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=886182-269-COT26",
-   "sin_detalle": false,
-   "descripcion": "Se requiere cotizar adquisición de equipamiento audiovisual. Cotización debe indicar especificaciones técnicas de lo ofertado. Debe indicar plazo de entrega ofertado, considerando entrega en dependencias de U. Aysén. Valor cotizado debe incluir flete e impuestos. Se podrá privilegiar el menor plazo de entrega ofertado, siempre que cumpla con todas las especificaciones requeridas.",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "fotografía"
-   ],
-   "nueva": false,
-   "codigo": "2495-654-COT26",
-   "nombre": "ADQUISICIÓN DE PREMIOS PARA ACTIVIDAD DIRIGIDA A PERSONAS MAYORES",
-   "organismo": "I MUNICIPALIDAD DE COYHAIQUE",
-   "unidad": "DIRECCION DESARROLLO COMUNITARIO",
-   "monto": 2400000,
-   "cierre_iso": "2026-11-20T10:40:00-03:00",
-   "publicacion": "12-11 09:19",
-   "publicacion_iso": "2026-11-12T09:19:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "49101706",
-     "Premios de fotografía",
-     1,
-     "Adquisición de premios para realización de una actividad recreativa de bingo dirigida a personas mayores. Su adquisición busca incentivar la asistencia, participación, promover la convivencia, la integración y el bienestar de las personas mayores para contribuir a prevenir situaciones de aislamiento social. La actividad se enmarca en las acciones municipales de promoción de un envejecimiento activo de espacios de encuentro y recreación, según términos de referencia y cotización adjunta."
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=2495-654-COT26",
-   "sin_detalle": false,
-   "descripcion": "Se requiere adquirir premios para la realización de una actividad recreativa de bingo dirigida a personas mayores. Su adquisición busca incentivar la asistencia, participación, promover la convivencia, la integración y el bienestar de las personas mayores para contribuir a prevenir situaciones de aislamiento social. La actividad se enmarca en las acciones municipales de promoción de un envejecimiento activo de espacios de encuentro y recreación,  térmi de referencia y cotizaci adjunta.",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
   {
    "tipo": "POSIBLE",
    "motivos": [
@@ -622,6 +516,77 @@
    "desaparecida_iso": ""
   },
   {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "publicitaria"
+   ],
+   "nueva": true,
+   "codigo": "1182705-218-COT26",
+   "nombre": " ADQUISICION DE SERVICIO DE IMPRENSION Y PLOTEO, FOLIO N°223 VCM",
+   "organismo": "CENTRO DE FORMACIÓN TÉCNICA DE LA REGIÓN DE AYSÉN DEL GENERAL CARLOS I",
+   "unidad": "FINANZAS",
+   "monto": 698620,
+   "cierre_iso": "2026-11-21T10:28:00-03:00",
+   "publicacion": "18-11 12:25",
+   "publicacion_iso": "2026-11-18T12:25:00-03:00",
+   "ofertas": 1,
+   "productos": [
+    [
+     "82121505",
+     "Impresión promocional o publicitaria",
+     502,
+     "Impresión láser color foto formato carta/oficio, una cara, tramo de 501 impresiones o más. Servicio destinado a impresión por ambas caras de trípticos educativos del proyecto VcM sobre prevención, primeros auxilios, signos de alarma y cuidados veterinarios.(adjuntar cotización)."
+    ],
+    [
+     "82121505",
+     "Impresión promocional o publicitaria",
+     251,
+     "Papel couché glossy tamaño oficio 216 × 330 mm, gramaje 170 g, destinado como soporte de 251 trípticos educativos impresos a color por ambas caras. (adjuntar cotización)."
+    ],
+    [
+     "82121505",
+     "Impresión promocional o publicitaria",
+     100,
+     "Impresión láser color foto formato carta/oficio, una cara, tramo 51–100 impresiones. Servicio destinado a impresión por ambas caras de tarjetas educativas y material de consulta rápida sobre actuación inicial ante urgencias veterinarias. (adjuntar cotización)."
+    ],
+    [
+     "82121505",
+     "Impresión promocional o publicitaria",
+     50,
+     "Papel couché glossy tamaño oficio, gramaje 170 g, utilizado como soporte para 50 unidades de material educativo impreso por ambas caras. (adjuntar cotización)."
+    ],
+    [
+     "82121505",
+     "Impresión promocional o publicitaria",
+     100,
+     "Impresión láser color foto formato carta/oficio, una cara, tramo 51–100 impresiones. Destinada a fichas educativas, checklist de botiquín, fichas de signos de alarma, instrumentos pre/post y material complementario para actividades comunitarias. (adjuntar cotización)."
+    ],
+    [
+     "82121505",
+     "Impresión promocional o publicitaria",
+     4,
+     "4 Servicio de corte y terminación de material gráfico impreso, destinado principalmente a fichas, tarjetas educativas y otros recursos que requieran dimensionamiento posterior a la impresión. (adjuntar cotización)."
+    ],
+    [
+     "82121505",
+     "Impresión promocional o publicitaria",
+     100,
+     "Papel couché glossy tamaño oficio, gramaje 170 g, destinado como soporte para 100 unidades de material pedagógico impreso a color por una cara. (adjuntar cotización)."
+    ],
+    [
+     "82121505",
+     "Impresión promocional o publicitaria",
+     1,
+     "Servicio de ploteo a color en papel bond (2,1 metro lineal), imagen y texto, destinado a afiches, infografías de apoyo y señalética pedagógica utilizada durante las estaciones educativas y actividades comunitarias del proyecto. (adjuntar cotización)."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1182705-218-COT26",
+   "sin_detalle": false,
+   "descripcion": "Se solicita el servicio de impresión de trípticos, tarjetas y afiches, para actividad pedagógica del proyecto Vinculación con el Medio: “Aysén Cuida a sus Mascotas, Educación Comunitaria para la Prevención y Respuesta Inicial ante Urgencias Veterinarias”, de la carrera TNS en Veterinaria y Producción Agrícola del CFT de la Región de Aysén. Los productos deben ser entregado en oficina ubicada en José miguel Carrera 133, Coyhaique.",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
    "tipo": "OPORTUNIDAD",
    "motivos": [
     "Inserciones publicitarias en medios"
@@ -916,6 +881,88 @@
   {
    "tipo": "POSIBLE",
    "motivos": [
+    "publicitarios"
+   ],
+   "nueva": true,
+   "codigo": "2494-317-COT26",
+   "nombre": "Adquisición Insumos Gráficos - BAP - Programa Recuperación Barrios",
+   "organismo": "I MUNICIPALIDAD DE COYHAIQUE",
+   "unidad": "SECRETARIA COMUNAL DE PLANIFICACION",
+   "monto": 250000,
+   "cierre_iso": "2026-11-24T11:00:00-03:00",
+   "publicacion": "20-11 10:43",
+   "publicacion_iso": "2026-11-20T10:43:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "82101501",
+     "Letreros publicitarios",
+     2,
+     "kit banderas tipo vela medida 70 x 220 cm, para el barrios Arturo Prat. LOS DETALLES SE ENCUENTRAN EN EL DOCMENTO ADJUNTO."
+    ],
+    [
+     "82101501",
+     "Letreros publicitarios",
+     1,
+     "1 pendon roller 80 x 200 cms. Incluye 1 base estaca y 1 base cruz por cada bandera. LOS DETALLES SE ENCUENTRAN EN EL DOCMENTO ADJUNTO."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=2494-317-COT26",
+   "sin_detalle": false,
+   "descripcion": "Adquirir elementos graficos que sirvan de apoyo a las funciones propias de los diferentes barrios del programa enmarcado dentro del desarrollo de Estudio Básico ademas de implementacion según norma grafica ministerial y municipal.",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "comunicacional"
+   ],
+   "nueva": true,
+   "codigo": "2494-316-COT26",
+   "nombre": "Adquisición Herramientas Comunicacionales - Programa Recuperación de Barrios ",
+   "organismo": "I MUNICIPALIDAD DE COYHAIQUE",
+   "unidad": "SECRETARIA COMUNAL DE PLANIFICACION",
+   "monto": 800000,
+   "cierre_iso": "2026-11-24T11:00:00-03:00",
+   "publicacion": "20-11 10:36",
+   "publicacion_iso": "2026-11-20T10:36:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "43201552",
+     "Adaptadores de telefonía o hardware",
+     1,
+     "Adaptador de conexión a puerto Lightning para receptor inalámbrico. LOS DETALLES SE ENCUENTRAN DENTRO DE LOS DOCUMENTOS ADJUNTOS."
+    ],
+    [
+     "43202005",
+     "Dispositivos de almacenamiento de memoria flash",
+     1,
+     "Tarjeta de memoria microSDXC de alta velocidad para video 4K. LOS DETALLES SE ENCUENTRAN EN EL DOCUMENTO ADJUNTO."
+    ],
+    [
+     "45121504",
+     "Cámaras digitales",
+     1,
+     "Cámara de bolsillo estabilizada en 3 ejes. LOS DETALLES SE ENCUENTRAN DENTRO DE LOS DOCUMENTOS ADJUNTOS."
+    ],
+    [
+     "52161520",
+     "Micrófonos",
+     1,
+     "Kit de micrófonos inalámbricos compactos (Configuración 2 TX + 1 RX + Estuche de carga). LOS DETALLES SE ENCUENTRAN DENTRO DE LOS DOCUMENTOS ADJUNTOS."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=2494-316-COT26",
+   "sin_detalle": false,
+   "descripcion": "Adquirir herramientas comunicacionales que sirvan de apoyo a las funciones propias de los diferentes barrios del programa enmarcado dentro del desarrollo de Estudio Básico además de implementación en el ambito comunicacional.",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
     "avisos",
     "publicidad"
    ],
@@ -1009,6 +1056,61 @@
   }
  ],
  "historial": [
+  {
+   "codigo": "2495-654-COT26",
+   "nombre": "ADQUISICIÓN DE PREMIOS PARA ACTIVIDAD DIRIGIDA A PERSONAS MAYORES",
+   "organismo": "I MUNICIPALIDAD DE COYHAIQUE",
+   "monto": 2400000,
+   "cierre_iso": "2026-11-20T10:40:00-03:00",
+   "tipo": "POSIBLE",
+   "motivos": [
+    "fotografía"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=2495-654-COT26",
+   "primera_vista_iso": "2026-11-12T09:58:37-03:00",
+   "removida_iso": "2026-11-20T11:00:28-03:00",
+   "estado_api": "",
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
+  {
+   "codigo": "886182-269-COT26",
+   "nombre": "Adquisición de equipamiento audiovisual _ Según FISABS 2483.",
+   "organismo": "UNIVERSIDAD DE AYSEN",
+   "monto": 778968,
+   "cierre_iso": "2026-11-20T10:30:00-03:00",
+   "tipo": "POSIBLE",
+   "motivos": [
+    "audiovisual"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=886182-269-COT26",
+   "primera_vista_iso": "2026-11-19T11:00:26-03:00",
+   "removida_iso": "2026-11-20T11:00:28-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
+  {
+   "codigo": "2713-1412-COT26",
+   "nombre": "DIDECO SOL. 1478 ADQUISICION DE SMART -TV",
+   "organismo": "I MUNICIPALIDAD DE AYSEN",
+   "monto": 1500000,
+   "cierre_iso": "2026-11-20T10:00:00-03:00",
+   "tipo": "POSIBLE",
+   "motivos": [
+    "television",
+    "televisión"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=2713-1412-COT26",
+   "primera_vista_iso": "2026-11-17T13:00:25-03:00",
+   "removida_iso": "2026-11-20T11:00:28-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
   {
    "codigo": "2495-669-COT26",
    "nombre": "set de herramientas ludicas Centro de las Mujeres",
@@ -1137,24 +1239,6 @@
    ],
    "link": "https://buscador.mercadopublico.cl/ficha?code=1057062-537-COT26",
    "primera_vista_iso": "2026-11-13T18:00:26-03:00",
-   "removida_iso": "2026-11-19T13:00:23-03:00",
-   "estado_api": null,
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "1182705-218-COT26",
-   "nombre": " ADQUISICION DE SERVICIO DE IMPRENSION Y PLOTEO, FOLIO N°223 VCM",
-   "organismo": "CENTRO DE FORMACIÓN TÉCNICA DE LA REGIÓN DE AYSÉN DEL GENERAL CARLOS I",
-   "monto": 698620,
-   "cierre_iso": "2026-11-19T12:30:00-03:00",
-   "tipo": "POSIBLE",
-   "motivos": [
-    "publicitaria"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1182705-218-COT26",
-   "primera_vista_iso": "2026-11-18T13:00:27-03:00",
    "removida_iso": "2026-11-19T13:00:23-03:00",
    "estado_api": null,
    "adj_nombre": null,
@@ -2109,24 +2193,6 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=973172-4-COT26",
    "primera_vista_iso": "2026-11-12T09:58:37-03:00",
    "removida_iso": "2026-11-13T13:00:24-03:00",
-   "estado_api": "",
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "2713-1368-COT26",
-   "nombre": " sellos de género- Folio 1394 - DIDECO",
-   "organismo": "I MUNICIPALIDAD DE AYSEN",
-   "monto": 50000,
-   "cierre_iso": "2026-11-13T11:00:00-03:00",
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Ventas y marketing"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=2713-1368-COT26",
-   "primera_vista_iso": "2026-11-12T09:58:37-03:00",
-   "removida_iso": "2026-11-13T12:00:25-03:00",
    "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,

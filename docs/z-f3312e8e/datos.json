@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-11-20T10:00:35.451684-03:00",
+ "actualizado": "2026-11-20T11:00:28.781094-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
- "total_region": 328,
+ "total_region": 330,
  "rubros": {
   "25172700": "Aire acondicionado",
   "25173900": "Componentes eléctricos",
@@ -59,7 +59,7 @@
    "motivos": [
     "Gasfitería, calefacción y aire acondicionado"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "1428275-58-COT26",
    "nombre": "SERVICIO DE DIAGNOSTICO Y MANTENCION SISTEMA DE CALEFACION DINAMICO ESTATICO",
    "organismo": "SERVICIO NACIONAL DEL PATRIMONIO CULTURAL",
@@ -202,6 +202,47 @@
   {
    "tipo": "OPORTUNIDAD",
    "motivos": [
+    "Cajas y accesorios eléctricos"
+   ],
+   "nueva": true,
+   "codigo": "1182705-220-COT26",
+   "nombre": "ADQUISICION DE FUNGIBLES PARA INSTALACION ELECTRICA, FOLIO N°238",
+   "organismo": "CENTRO DE FORMACIÓN TÉCNICA DE LA REGIÓN DE AYSÉN DEL GENERAL CARLOS I",
+   "unidad": "FINANZAS",
+   "monto": 117000,
+   "cierre_iso": "2026-11-21T11:18:00-03:00",
+   "publicacion": "18-11 15:40",
+   "publicacion_iso": "2026-11-18T15:40:00-03:00",
+   "ofertas": 1,
+   "productos": [
+    [
+     "39121311",
+     "Accesorios eléctricos",
+     150,
+     "Caja Derivación Embutida"
+    ],
+    [
+     "39121311",
+     "Accesorios eléctricos",
+     300,
+     "Salidas de caja 20 mm"
+    ],
+    [
+     "39121311",
+     "Accesorios eléctricos",
+     150,
+     "Salidas de caja 16 mm"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1182705-220-COT26",
+   "sin_detalle": false,
+   "descripcion": "Se requiere la compra de fungibles de instalaciones eléctrica para la carrera TNS en electricidad, del CFT de la Región de Aysén. Los productos deben ser entregados en oficinas ubicada en Sargento Aldea 533, Puerto Aysén",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
     "Gasfitería, calefacción y aire acondicionado"
    ],
    "nueva": true,
@@ -331,6 +372,149 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=3540-316-COT26",
    "sin_detalle": false,
    "descripcion": "Se deben ofertar todas las líneas, indicando plazo de entrega y datos de contacto. Se privilegiará proveedor de la región o que cuente con sucursal en Coyhaique y luego precio. Este proceso no considera ítem flete ni cargos adicionales, los costos deben estar incluidos en los valores unitarios.(AJUNTAR ESPECIFICACIONES Y/O IMAGEN),(LEER TÉRMINOS DE REFERENCIA ADJUNTO).",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Cajas y accesorios eléctricos"
+   ],
+   "nueva": true,
+   "codigo": "911089-115-COT26",
+   "nombre": "ADQUISICION DE MATERIAL ELECTRICO PARA LA VIVIENDA FISCAL UBICADA EN FREIRE 81, COYHAIQUE",
+   "organismo": "Zona de Bienestar \"Coyhaique\"",
+   "unidad": "Zona de Bienestar Coyhaique",
+   "monto": 450000,
+   "cierre_iso": "2026-11-23T09:00:00-03:00",
+   "publicacion": "20-11 10:23",
+   "publicacion_iso": "2026-11-20T10:23:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "13102030",
+     "Cloruro de polivinilo (PVC)",
+     1,
+     "01 ADHESIVO PVC TRADICIONAL 240 CC"
+    ],
+    [
+     "24111802",
+     "Tanques o botellas de aire o gas",
+     4,
+     "04 GAS 227 GR HUMBOLDT"
+    ],
+    [
+     "31191506",
+     "Discos abrasivos",
+     3,
+     "03 DISCO DIAMANT CONT 4 1/2 PLG"
+    ],
+    [
+     "31191506",
+     "Discos abrasivos",
+     10,
+     "10 DISCO CTE METAL-AC INOX 4 1/2 PLG"
+    ],
+    [
+     "31201502",
+     "Cinta autoadhesiva aislante eléctrica",
+     1,
+     "01 CINTA ELEC 20 MTS x 19 MM"
+    ],
+    [
+     "39121311",
+     "Accesorios eléctricos",
+     1,
+     "01 ALAMBRE NYA PR H07V-U 1,5 BC 50 MTS"
+    ],
+    [
+     "39121311",
+     "Accesorios eléctricos",
+     1,
+     "01 ALAMBRE NYA PR H07V-U 2,5 BC 50 MTS"
+    ],
+    [
+     "39121311",
+     "Accesorios eléctricos",
+     1,
+     "01 ALAMBRE NYA PR H07V-U 2,5 RJ 50 MTS"
+    ],
+    [
+     "39121311",
+     "Accesorios eléctricos",
+     1,
+     "01 ALAMBRE NYA PR H07V-U 2,5 VD 50 MTS"
+    ],
+    [
+     "39121311",
+     "Accesorios eléctricos",
+     6,
+     "06 TUBO CONDUIT 16 MM 3 MTS"
+    ],
+    [
+     "39121311",
+     "Accesorios eléctricos",
+     10,
+     "10 TUBO CONDUIT 20 MM 3 MTS"
+    ],
+    [
+     "39121311",
+     "Accesorios eléctricos",
+     4,
+     "04 ENCH DOBLE 10 AMPERE GRAFITO S17 ARM"
+    ],
+    [
+     "39121311",
+     "Accesorios eléctricos",
+     10,
+     "10 CAJA DISTRIBUCION NARANJA 16-20 MM"
+    ],
+    [
+     "39121311",
+     "Accesorios eléctricos",
+     1,
+     "01 CONECTOR CABLE E4 100 UNIDADES"
+    ],
+    [
+     "39121311",
+     "Accesorios eléctricos",
+     5,
+     "05 PLACA CIEGA BLANCO"
+    ],
+    [
+     "39121311",
+     "Accesorios eléctricos",
+     2,
+     "02 INTERRUPTOR DOBL 9/12 GRAF S17"
+    ],
+    [
+     "39121311",
+     "Accesorios eléctricos",
+     20,
+     "20 SALIDA DE CAJA PVC COND 16 MM"
+    ],
+    [
+     "39121311",
+     "Accesorios eléctricos",
+     30,
+     "30 SALIDA DE CAJA PVC COND 20 MM"
+    ],
+    [
+     "39121311",
+     "Accesorios eléctricos",
+     1,
+     "01 FERRUL NARANJO 12 AWG 100 UNIDADES"
+    ],
+    [
+     "39121311",
+     "Accesorios eléctricos",
+     6,
+     "06 PANEL LED SOBRE CIRC 18W LC"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=911089-115-COT26",
+   "sin_detalle": false,
+   "descripcion": "SE SOLICITA LA ADQUISICION DE MATERIAL ELECTRICO PARA LA VIVIENDA FISCAL UBICADA EN FREIRE 81, COYHAIQUE, DEPENDIENTE DE LA ZONA DE BIENESTAR COYHAIQUE.\n\nSE SOLICITA LLENAR EL ANEXO QUE SE ADJUNTA (DECLARACION JURADA SIMPLE) PARA LOS OFERENTES POSTULANTES, QUIEN NO LO PRESENTE FIRMADO QUEDA FUERA DE POSTULACION",
    "en_gracia": false,
    "desaparecida_iso": ""
   },
@@ -866,24 +1050,6 @@
    ],
    "link": "https://buscador.mercadopublico.cl/ficha?code=907-105-COT26",
    "primera_vista_iso": "2026-11-17T17:00:24-03:00",
-   "removida_iso": "2026-11-19T17:00:24-03:00",
-   "estado_api": null,
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "1182705-220-COT26",
-   "nombre": "ADQUISICION DE FUNGIBLES PARA INSTALACION ELECTRICA, FOLIO N°238",
-   "organismo": "CENTRO DE FORMACIÓN TÉCNICA DE LA REGIÓN DE AYSÉN DEL GENERAL CARLOS I",
-   "monto": 117000,
-   "cierre_iso": "2026-11-19T16:00:00-03:00",
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Cajas y accesorios eléctricos"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1182705-220-COT26",
-   "primera_vista_iso": "2026-11-18T16:00:26-03:00",
    "removida_iso": "2026-11-19T17:00:24-03:00",
    "estado_api": null,
    "adj_nombre": null,
