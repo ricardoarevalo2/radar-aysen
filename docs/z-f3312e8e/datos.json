@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-11-20T07:00:24.180767-03:00",
+ "actualizado": "2026-11-20T08:00:26.710418-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
- "total_region": 326,
+ "total_region": 324,
  "rubros": {
   "25172700": "Aire acondicionado",
   "25173900": "Componentes eléctricos",
@@ -1552,24 +1552,6 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=907-101-COT26",
    "primera_vista_iso": "2026-11-10T19:26:29-03:00",
    "removida_iso": "2026-11-13T11:00:25-03:00",
-   "estado_api": "",
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "886182-252-COT26",
-   "nombre": "Servicio de instalación y mantención preventiva de aires acondicionados x 6 meses [Fisabs 2395]",
-   "organismo": "UNIVERSIDAD DE AYSEN",
-   "monto": 4460000,
-   "cierre_iso": "2026-11-13T08:00:00-03:00",
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Gasfitería, calefacción y aire acondicionado"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=886182-252-COT26",
-   "primera_vista_iso": "2026-11-05T19:47:37-03:00",
-   "removida_iso": "2026-11-13T09:00:27-03:00",
    "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,

@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-11-20T07:00:24.180767-03:00",
+ "actualizado": "2026-11-20T08:00:26.710418-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
- "total_region": 326,
+ "total_region": 324,
  "rubros": {
   "80141600": "Ventas y marketing",
   "82101600": "Publicidad en medios no impresos",
@@ -965,35 +965,6 @@
    "descripcion": "Es necesario cumplir con el Art.11 del D.L. N°2695/79, referido a publicidad del saneamiento de inmueble. Se requiere contratar la publicación digital de 17 avisos correspondientes a 2 veces o publicaciones por beneficiario o expediente, las cuales se harán indistintamente los días 1 y 15 del mes o en la edición inmediatamente siguiente si el diario o periódico no se publicare en los días indicados. Plazo de ejecución 252 días hábiles. Revisar documento adjunto para selección de proveedor.",
    "en_gracia": true,
    "desaparecida_iso": "2026-11-17T17:00:24-03:00"
-  },
-  {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Publicidad en medios no impresos"
-   ],
-   "nueva": false,
-   "codigo": "1195-591-COT26",
-   "nombre": "SERVICIO DE DIFUSION PARA PROYECTO DE RECICLAJE",
-   "organismo": "",
-   "unidad": "",
-   "monto": null,
-   "cierre_iso": "",
-   "publicacion": "",
-   "publicacion_iso": "",
-   "ofertas": 0,
-   "productos": [
-    [
-     "82101602",
-     "Publicidad en televisión",
-     1,
-     "SERVICIO DE GRABACION EDICION Y TRANSMISION DE CAPSULAS 4 HORAS MENSUALES (NOVIEMBRE-DICIEMBRE).DEBE INCLUIR BANNER PUBLICITARIO DE 20 A 29 MINUTOS,1 VEZ POR SEMANA.TRANSMISION POR TV EN RRSS(FACEBOOK YOUTUBE),SITIO WEB,STREAMIGN EN TV  24 HORAS ROTATIVO.SE PRIORIZARA PROVEEDOR LOCAL."
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1195-591-COT26",
-   "sin_detalle": false,
-   "descripcion": "SERVICIO DE GRABACION EDICION Y TRANSMISION DE CAPSULAS 4 HORAS MENSUALES (NOVIEMBRE-DICIEMBRE).DEBE INCLUIR BANNER PUBLICITARIO DE 20 A 29 MINUTOS,1 VEZ POR SEMANA.TRANSMISION POR TV EN RRSS(FACEBOOK YOUTUBE),SITIO WEB,STREAMIGN EN TV  24 HORAS ROTATIVO.SE PRIORIZARA PROVEEDOR LOCAL.",
-   "en_gracia": true,
-   "desaparecida_iso": "2026-11-18T13:00:27-03:00"
   },
   {
    "tipo": "POSIBLE",
@@ -2210,6 +2181,24 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=1201-206-COT26",
    "primera_vista_iso": "2026-11-17T12:00:27-03:00",
    "removida_iso": "2026-11-19T10:00:24-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
+  {
+   "codigo": "1195-591-COT26",
+   "nombre": "SERVICIO DE DIFUSION PARA PROYECTO DE RECICLAJE",
+   "organismo": "",
+   "monto": null,
+   "cierre_iso": "",
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Publicidad en medios no impresos"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1195-591-COT26",
+   "primera_vista_iso": "2026-11-18T12:00:27-03:00",
+   "removida_iso": "2026-11-20T08:00:26-03:00",
    "estado_api": null,
    "adj_nombre": null,
    "adj_monto": null,
