@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-11-20T16:00:41.229888-03:00",
+ "actualizado": "2026-11-20T17:00:37.910934-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
- "total_region": 323,
+ "total_region": 328,
  "rubros": {
   "80141600": "Ventas y marketing",
   "82101600": "Publicidad en medios no impresos",
@@ -14,135 +14,6 @@
   "83121700": "Comunicación social y de masas"
  },
  "filas": [
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "radio"
-   ],
-   "nueva": true,
-   "codigo": "4140-112-COT26",
-   "nombre": "ADQUISICION DE AUDIFONOS, FONDOS DE MEDIOS ",
-   "organismo": "I MUNICIPALIDAD DE LAGO VERDE",
-   "unidad": "Adquisiciones",
-   "monto": 110000,
-   "cierre_iso": "2026-11-20T16:10:00-03:00",
-   "publicacion": "19-11 16:08",
-   "publicacion_iso": "2026-11-19T16:08:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "52161514",
-     "Audífonos",
-     2,
-     "AUDIFONOS PROFESIONALES PARA LOCUCION DE RADIO SEGUN ESPECIFICACIONES ADJUNTAS, OFERTAS NO DEBEN SUPERAR EL VALOR PRESUPUESTADO"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=4140-112-COT26",
-   "sin_detalle": false,
-   "descripcion": "ADQUISICION DE 02 AUDIFONOS PROFESIONALES PARA LOCUCION RADIO. SEGUN ESPECIFICACIONES ADJUNTAS. OFERTAS NO PUEDEN SUPERAR LA DISPONIBILIDAD",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "publicitaria"
-   ],
-   "nueva": false,
-   "codigo": "2713-1425-COT26",
-   "nombre": "SERVICIO IMPRESION Y MATERIAL GRAFICO. FOLIO 1503 MEDIO AMBIENTE.",
-   "organismo": "I MUNICIPALIDAD DE AYSEN",
-   "unidad": "I.MUNICIPALIDAD AYSEN-ADQUISICIONES",
-   "monto": 410000,
-   "cierre_iso": "2026-11-20T16:30:00-03:00",
-   "publicacion": "18-11 12:09",
-   "publicacion_iso": "2026-11-18T12:09:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "53141619",
-     "Imanes",
-     200,
-     "Imanes personalizados de 6 × 6 cm. según. Anexo N.º 8."
-    ],
-    [
-     "82121505",
-     "Impresión promocional o publicitaria",
-     4,
-     "Impresión de señalética en aluminio compuesto 100 × 40 cm, según Anexo N.º 1."
-    ],
-    [
-     "82121505",
-     "Impresión promocional o publicitaria",
-     16,
-     "Impresión de señalética en aluminio compuesto 40 × 30 cm, según Anexo N.º 2."
-    ],
-    [
-     "82121505",
-     "Impresión promocional o publicitaria",
-     1000,
-     "Impresión de sticker ambiental troquelado 6 × 6 cm, según. Anexo N.º 3."
-    ],
-    [
-     "82121505",
-     "Impresión promocional o publicitaria",
-     1000,
-     "Impresión de sticker ambiental troquelado 6 × 6 cm, según. Anexo N.º 4."
-    ],
-    [
-     "82121505",
-     "Impresión promocional o publicitaria",
-     50,
-     "Impresión en chapitas metálicas personalizadas de 5,6 cm de diámetro – Forjadores Ambientales. según. Anexo N.º 5."
-    ],
-    [
-     "82121505",
-     "Impresión promocional o publicitaria",
-     50,
-     "Impresión en chapitas metálicas personalizadas de 5,6 cm de diámetro – REDEOH, según. Anexo N.º 6."
-    ],
-    [
-     "82121505",
-     "Impresión promocional o publicitaria",
-     50,
-     "Impresión en chapitas metálicas personalizadas de 5,6 cm de diámetro – Acciones Ambientales. según. Anexo 7."
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=2713-1425-COT26",
-   "sin_detalle": false,
-   "descripcion": "SERVICIO IMPRESION Y MATERIAL GRAFICO SEGUN ANEXOS ADJUNTOS.COSTOS TRASLADOS A PUERTO AYSÉN SERÁN DEL OFERENTE.PLAZO ENTREGA SERÁN DE 10 DÍA HÁBIL, DE LO CONTRARIO SE DESCARTARAN.PROVEEDOR QUE NO INDIQUE EL PLAZO DE ENTREGA SE DESCARTARA SU COTIZACIÓN. OFERENTE DEBE INCLUIR FLETES EN EL PRECIO DEL PRODUCTO.SE SOLICITA ANEXAR FICHA TECNICA, DE LO CONTRARIO SE DESCARTARA. PLAZO DE ENTREGA COMIENZA A CONTAR DEL DIA HABIL SUBSIGUIENTE DEL ENVÍO DE ORDEN DE COMPRA.SE DEBE COTIZAR TODOS LOS PRODUCTOS",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
-  {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Publicidad en medios no impresos"
-   ],
-   "nueva": true,
-   "codigo": "2713-1438-COT26",
-   "nombre": "programa radial Hablemos de Violencia de Género",
-   "organismo": "I MUNICIPALIDAD DE AYSEN",
-   "unidad": "I.MUNICIPALIDAD AYSEN-ADQUISICIONES",
-   "monto": 200000,
-   "cierre_iso": "2026-11-20T16:55:00-03:00",
-   "publicacion": "19-11 16:53",
-   "publicacion_iso": "2026-11-19T16:53:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "82101601",
-     "Publicidad en radio",
-     2,
-     "Servicio de producción y emisión de dos programas radiales de 40 minutos cada uno, “Hablemos de Violencia de Género”. Cada programa debe transmitirse en vivo por señal radial y, de forma simultánea, por YouTube Live y Facebook Live. Además, debe quedar grabado y publicado en formato digital para su visualización posterior. El proveedor debe disponer de estudio y equipamiento para un conductor y tres invitadas. Fechas a coordinar. Ver especificaciones técnicas adjuntas."
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=2713-1438-COT26",
-   "sin_detalle": false,
-   "descripcion": "Contratación de dos espacios radiales de 40 minutos del programa “Hablemos de Violencia de Género”, del Programa Atención Inicial de las Violencias de Género (Centro de las Mujeres, DIDECO). Incluye transmisión multiplataforma (señal en vivo y simultánea por YouTube Live y Facebook Live) y grabación disponible en formato digital. Se difundirá la oferta del Centro, las actividades del 25N y el Espacio Violeta. Emisiones: 25/11/2026 y otra fecha a coordinar. Ver especificaciones técnicas.",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
   {
    "tipo": "OPORTUNIDAD",
    "motivos": [
@@ -298,6 +169,41 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=3797-549-COT26",
    "sin_detalle": false,
    "descripcion": "En el marco de las actividades desarrolladas por la Oficina Local de la Niñez, se requiere la adquisición de un toldo institucional que permita contar con un espacio adecuado para la ejecución de actividades territoriales, jornadas de difusión y acciones de promoción y prevención de derechos de niños, niñas y adolescentes",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Inserciones publicitarias en medios"
+   ],
+   "nueva": true,
+   "codigo": "1057062-561-COT26",
+   "nombre": "Servicio de difusión publicitaria y entrevistas en canal de televisión local de Coyhaique",
+   "organismo": "UNIVERSIDAD DE AYSEN",
+   "unidad": "Proyectos",
+   "monto": 4400000,
+   "cierre_iso": "2026-11-21T17:00:00-03:00",
+   "publicacion": "20-11 16:48",
+   "publicacion_iso": "2026-11-20T16:48:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "82101902",
+     "Avisos en televisión",
+     1,
+     "Emisión de un spot de difusión de admisión (de 30 a 45 segundos, provisto por la Universidad) con al menos 3 repeticiones diarias, vigente hasta el 30 de enero. El medio debe ser un canal de televisión local de Coyhaique con señal abierta, señal digital en cableoperador local (ej. VTR) y alcance interregional (ej. TelSur - GTD).Una vez finalizado el servicio, el proveedor deberá remitir los medios de verificación correspondientes que acrediten su cumplimiento, los cuales serán requisito indispen"
+    ],
+    [
+     "82101902",
+     "Avisos en televisión",
+     6,
+     "6 entrevistas con entrevistador/a propio del canal. El medio debe ser un canal de televisión local de Coyhaique con señal abierta, señal digital en cableoperador local (ej. VTR) y alcance interregional (ej. TelSur - GTD)Una vez finalizado el servicio, el proveedor deberá remitir los medios de verificación correspondientes que acrediten su cumplimiento, los cuales serán requisito indispensable para gestionar el pago"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1057062-561-COT26",
+   "sin_detalle": false,
+   "descripcion": "Serv de difusión publicitaria y entrevistas en canal de tv local de Coyhaique, según se detalla en el presente cotizador, el proveedor deberá detallar lo ofertado, indicando el canal de televisión local de Coyahqiue con señal abierta, señal digital en cableoperador local (ej. VTR) y alcance interregional (ej. TelSur - GTD). La vigencia del contrato será hasta el 30 de enero de 2027.Las entrevistas se deben cargar en el canal de youtube del medio, el que debe contar con al menos 10 mil suscripto",
    "en_gracia": false,
    "desaparecida_iso": ""
   },
@@ -906,6 +812,60 @@
  ],
  "historial": [
   {
+   "codigo": "2713-1438-COT26",
+   "nombre": "programa radial Hablemos de Violencia de Género",
+   "organismo": "I MUNICIPALIDAD DE AYSEN",
+   "monto": 200000,
+   "cierre_iso": "2026-11-20T16:55:00-03:00",
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Publicidad en medios no impresos"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=2713-1438-COT26",
+   "primera_vista_iso": "2026-11-19T17:00:24-03:00",
+   "removida_iso": "2026-11-20T17:00:37-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
+  {
+   "codigo": "2713-1425-COT26",
+   "nombre": "SERVICIO IMPRESION Y MATERIAL GRAFICO. FOLIO 1503 MEDIO AMBIENTE.",
+   "organismo": "I MUNICIPALIDAD DE AYSEN",
+   "monto": 410000,
+   "cierre_iso": "2026-11-20T16:30:00-03:00",
+   "tipo": "POSIBLE",
+   "motivos": [
+    "publicitaria"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=2713-1425-COT26",
+   "primera_vista_iso": "2026-11-18T13:00:27-03:00",
+   "removida_iso": "2026-11-20T17:00:37-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
+  {
+   "codigo": "4140-112-COT26",
+   "nombre": "ADQUISICION DE AUDIFONOS, FONDOS DE MEDIOS ",
+   "organismo": "I MUNICIPALIDAD DE LAGO VERDE",
+   "monto": 110000,
+   "cierre_iso": "2026-11-20T16:10:00-03:00",
+   "tipo": "POSIBLE",
+   "motivos": [
+    "radio"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=4140-112-COT26",
+   "primera_vista_iso": "2026-11-19T17:00:24-03:00",
+   "removida_iso": "2026-11-20T17:00:37-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
+  {
    "codigo": "1458-37-COT26",
    "nombre": "Realización Jornada Regional Programa Noche Digna",
    "organismo": "SERPLAC XI Región",
@@ -1270,7 +1230,7 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=1057062-541-COT26",
    "primera_vista_iso": "2026-11-13T18:00:26-03:00",
    "removida_iso": "2026-11-19T13:00:23-03:00",
-   "estado_api": null,
+   "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,
    "adj_iso": null
@@ -2131,25 +2091,6 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=1233615-962-COT26",
    "primera_vista_iso": "2026-11-10T19:26:29-03:00",
    "removida_iso": "2026-11-13T22:00:27-03:00",
-   "estado_api": "",
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "734-216-COT26",
-   "nombre": "Material gráfico ",
-   "organismo": "SERVICIO DE SALUD AYSEN CARLOS IBANEZ DEL CAMPO",
-   "monto": 850000,
-   "cierre_iso": "2026-11-13T17:00:00-03:00",
-   "tipo": "POSIBLE",
-   "motivos": [
-    "publicidad",
-    "publicitarios"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=734-216-COT26",
-   "primera_vista_iso": "2026-11-12T13:45:25-03:00",
-   "removida_iso": "2026-11-13T18:00:26-03:00",
    "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,

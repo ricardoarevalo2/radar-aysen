@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-11-20T16:00:41.229888-03:00",
+ "actualizado": "2026-11-20T17:00:37.910934-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
- "total_region": 323,
+ "total_region": 328,
  "rubros": {
   "25172700": "Aire acondicionado",
   "25173900": "Componentes eléctricos",
@@ -174,6 +174,35 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=4644-149-COT26",
    "sin_detalle": false,
    "descripcion": "Conaf requiere accesorios computacionales para el programa Área de Intervención Vivero el Mallín. El proveedor debe registrar en el portal de Mercado Público las especificaciones técnicas de los productos y/o adjuntar ficha de las especificaciones técnicas de los productos ofertados.*Este monto considera el despacho de los productos. Las ofertas que superen el presupuesto disponible serán declaradas inadmisibles y no continuarán en el proceso de evaluación.",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "iluminación"
+   ],
+   "nueva": true,
+   "codigo": "2713-1450-COT26",
+   "nombre": "insumos para utilizar en la iluminación de árbol construido en área verde",
+   "organismo": "I MUNICIPALIDAD DE AYSEN",
+   "unidad": "I.MUNICIPALIDAD AYSEN-ADQUISICIONES",
+   "monto": 272000,
+   "cierre_iso": "2026-11-21T17:00:00-03:00",
+   "publicacion": "20-11 16:47",
+   "publicacion_iso": "2026-11-20T16:47:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "39111514",
+     "Luces de árboles",
+     1,
+     "De acuerdo a los terminos de la presente compra agil."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=2713-1450-COT26",
+   "sin_detalle": false,
+   "descripcion": "La Ilustre Municipalidad de Aysén a través de la Secretaría Comunal de Planificación, requiere adquirir insumos para utilizar en la iluminación de árbol construido en área verde, esto en el marco del desarrollo del PLAN DE GESTIÓN SOCIAL, proyecto UNIDOS POR RECUPERAR NUESTROS ESPACIOS del Programa Recuperación de Barrios Barrio BIR Las Villas, Las ofertas que no cumplan el total de la documentacion exigida seran declaradas inadmisibles conforme a los terminos de la presente compra agil.",
    "en_gracia": false,
    "desaparecida_iso": ""
   },
@@ -592,6 +621,124 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=1233615-1015-COT26",
    "sin_detalle": false,
    "descripcion": "Estos implementos permitirán desarrollar competencias tecnológicas, comunicativas, técnicas y laborales, fomentar la creatividad, el trabajo colaborativo y la participación estudiantil, además de apoyar la difusión de las actividades institucionales y el mejoramiento de los espacios educativos.",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Suministros y accesorios eléctricos"
+   ],
+   "nueva": true,
+   "codigo": "3791-1200-COT26",
+   "nombre": "EPP AREAS VERDES",
+   "organismo": "I MUNICIPALIDAD DE CISNES",
+   "unidad": "Finanzas",
+   "monto": 4270780,
+   "cierre_iso": "2026-11-23T10:30:00-03:00",
+   "publicacion": "20-11 16:27",
+   "publicacion_iso": "2026-11-20T16:27:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "31261603",
+     "Cascos y envolturas de acero",
+     11,
+     "Casco forestal con visor de malla"
+    ],
+    [
+     "39121719",
+     "Protectores",
+     11,
+     "Protector auditivo"
+    ],
+    [
+     "46181535",
+     "Medias o calcetines de protección",
+     22,
+     "Polainas / canilleras de protección para desbrozado"
+    ],
+    [
+     "53102102",
+     "Overol y sobretodo para hombre",
+     400,
+     "Buzo protector desechable Tallas: 50 M, 200 L, 100 XL, 50 XXL"
+    ],
+    [
+     "53102102",
+     "Overol y sobretodo para hombre",
+     18,
+     "Overol tipo piloto TALLAS: 6M - 8L - 2XL - 2XXL"
+    ],
+    [
+     "53102307",
+     "Bodies, fajas o corsés",
+     11,
+     "Fajas lumbares Tallas: 2 M, 4 L, 3 XL, 2XXL"
+    ],
+    [
+     "53102504",
+     "Guantes o manoplas",
+     500,
+     "Par de Guantes palma engomada"
+    ],
+    [
+     "53102504",
+     "Guantes o manoplas",
+     500,
+     "Par Guante cabritilla"
+    ],
+    [
+     "53102516",
+     "Gorras",
+     11,
+     "Legionario"
+    ],
+    [
+     "53131609",
+     "Protector solar",
+     22,
+     "Protector solar FPS 50 (1 L)"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=3791-1200-COT26",
+   "sin_detalle": false,
+   "descripcion": "ADQUISICION DE ELEMENTOS DE PROTECCION PERSONAL PARA TRABAJADORES CONTRATADOS EN AREAS VERDES, SE ADJUNTA FICHA TECNICA DE CADA REQUERIMIENTO.",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "eléctrico"
+   ],
+   "nueva": true,
+   "codigo": "907-109-COT26",
+   "nombre": "MAO Adquisición enseres Oficina Coyhaique ",
+   "organismo": "SERVICIO AGRICOLA Y GANADERO",
+   "unidad": "SAG - Aysen",
+   "monto": 438980,
+   "cierre_iso": "2026-11-23T11:00:00-03:00",
+   "publicacion": "20-11 16:26",
+   "publicacion_iso": "2026-11-20T16:26:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "49121502",
+     "Colchones de espuma",
+     1,
+     "Colchón 1 ½ plaza: debe tener firmeza, Resortes ensacados (o pocket) o Espuma viscoelástica (Memory Foam) o Látex."
+    ],
+    [
+     "52152010",
+     "Termos domésticos",
+     1,
+     "Termo eléctrico: Capacidad: 100 Litros, Potencia: Mínimo 1.500W (idealmente 2.000W para recuperación rápida), Resistencia: Blindada."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=907-109-COT26",
+   "sin_detalle": false,
+   "descripcion": "1)Termo eléctrico: Capacidad: 100 Litros, Potencia: Mínimo 1.500W (idealmente 2.000W para recuperación rápida), Resistencia: Blindada. b) Colchón 1 ½ plaza: debe tener firmeza, Resortes ensacados (o pocket) o Espuma viscoelástica (Memory Foam) o Látex.",
    "en_gracia": false,
    "desaparecida_iso": ""
   },
@@ -1019,7 +1166,7 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=1057062-535-COT26",
    "primera_vista_iso": "2026-11-13T16:00:24-03:00",
    "removida_iso": "2026-11-20T16:00:41-03:00",
-   "estado_api": null,
+   "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,
    "adj_iso": null
