@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-11-20T09:00:24.740986-03:00",
+ "actualizado": "2026-11-20T10:00:35.451684-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
- "total_region": 323,
+ "total_region": 328,
  "rubros": {
   "80141600": "Ventas y marketing",
   "82101600": "Publicidad en medios no impresos",
@@ -713,7 +713,7 @@
    "motivos": [
     "difusión"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "1233615-1017-COT26",
    "nombre": "DMH [SOL-2026-02150] Recursos para el aprendizaje e innovación (hidrolavadora y manguera) para Liceo Politécnico A-1 de Puerto Aysén",
    "organismo": "Servicio Local de Educación Pública Aysén",
@@ -796,7 +796,7 @@
     "difusión",
     "publicidad"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "1233615-1018-COT26",
    "nombre": "DMH [SOL-2026-02150] Recursos para el aprendizaje e innovación (pendones) para Liceo Politécnico A-1 de Puerto Aysén",
    "organismo": "Servicio Local de Educación Pública Aysén",
@@ -825,7 +825,7 @@
    "motivos": [
     "difusión"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "1233615-1015-COT26",
    "nombre": "DMH [SOL-2026-02150] Recursos para el aprendizaje e innovación (focos, atriles y otros) para Liceo Politécnico A-1 de Puerto Aysén",
    "organismo": "Servicio Local de Educación Pública Aysén",

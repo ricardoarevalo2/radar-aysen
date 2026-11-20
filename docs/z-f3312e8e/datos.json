@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-11-20T09:00:24.740986-03:00",
+ "actualizado": "2026-11-20T10:00:35.451684-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
- "total_region": 323,
+ "total_region": 328,
  "rubros": {
   "25172700": "Aire acondicionado",
   "25173900": "Componentes eléctricos",
@@ -19,41 +19,6 @@
   "39121400": "Conectores, enchufes y terminales"
  },
  "filas": [
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "generador"
-   ],
-   "nueva": false,
-   "codigo": "3765-363-COT26",
-   "nombre": "MANTENIMIENTO PREVENTIVO GRUPO GENERADOR DE HLOR CHILE CHICO Y PSR MALLÍN GRANDE ",
-   "organismo": "SERVICIO NACIONAL DE SALUD HOSPITAL DE C",
-   "unidad": "Hospital Doctor  Leopoldo Ortega Rodríguez",
-   "monto": 3000000,
-   "cierre_iso": "2026-11-20T09:00:00-03:00",
-   "publicacion": "18-11 10:47",
-   "publicacion_iso": "2026-11-18T10:47:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "26111601",
-     "Generadores diesel",
-     1,
-     "MANTENIMIENTO PREVENTIVO DE GRUPO GENERADOR SDMO LUREYE DE 60 KVA CON MOTOR JOHN DEERE Y SU RESPECTIVO TTA HOSPITAL DR. LEOPOLDO ORTEGA RODRIGUEZ; DETALLES EN ADJUNTO, DEBE PRESENTAR COTIZACIÓN."
-    ],
-    [
-     "26111601",
-     "Generadores diesel",
-     1,
-     "MANTENIMIENTO PREVENTIVO DE GENERADOR KIPOR KDE 6700 T CON SU RESPECTIVO TABLERO; PSR MALLÍN GRANDE; DETALLES EN ADJUNTO, DEBE PRESENTAR COTIZACIÓN."
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=3765-363-COT26",
-   "sin_detalle": false,
-   "descripcion": "MANTENIMIENTO PREVENTIVO GRUPO GENERADOR DE HLOR CHILE CHICO Y PSR MALLÍN GRANDE",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
   {
    "tipo": "POSIBLE",
    "motivos": [
@@ -264,11 +229,70 @@
    "desaparecida_iso": ""
   },
   {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Cables eléctricos y accesorios"
+   ],
+   "nueva": true,
+   "codigo": "4644-149-COT26",
+   "nombre": "Accesorios Computacionales, Área de Intervención Vivero el Mallín SIC 508 SIRE 475",
+   "organismo": "CORP NACIONAL FORESTAL",
+   "unidad": "XI Región - Oficina Provincial Aysen",
+   "monto": 250000,
+   "cierre_iso": "2026-11-21T13:00:00-03:00",
+   "publicacion": "20-11 09:42",
+   "publicacion_iso": "2026-11-20T09:42:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "26121613",
+     "Cable aislado o forrado",
+     2,
+     "Cable HDMI, 2 mt. Blindado 8K"
+    ],
+    [
+     "26121613",
+     "Cable aislado o forrado",
+     5,
+     "Cable de red 100% cobre, con separador de pares y doble forro para exterior, con conectores listos para usar"
+    ],
+    [
+     "43202005",
+     "Dispositivos de almacenamiento de memoria flash",
+     2,
+     "Pendrive USB 3.2, 32 GB"
+    ],
+    [
+     "43211708",
+     "Trackballs y mouse de computador",
+     6,
+     "Mouse inalambrico de 4 botones con cómodo diseño ergonómico. Tecnología de 2,4 GHz. Resolución ajustable de 800, 1200 o 1600 DPI. con 1 pila AA, incluida con el producto."
+    ],
+    [
+     "43211708",
+     "Trackballs y mouse de computador",
+     2,
+     "Mouse Inalámbrico Ergonómico Vertical, 6 botones, Batería recargable de larga duración, Tecnología 2,4GHz, Revestimiento de goma, Cable de carga USB, Bluetooth."
+    ],
+    [
+     "43211802",
+     "Almohadillas de ratón o mousepad",
+     6,
+     "Mousepad rectangular negro Modelo rectangular compacto con bordes cosidos, superficie de tela y base de goma antideslizante"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=4644-149-COT26",
+   "sin_detalle": false,
+   "descripcion": "Conaf requiere accesorios computacionales para el programa Área de Intervención Vivero el Mallín. El proveedor debe registrar en el portal de Mercado Público las especificaciones técnicas de los productos y/o adjuntar ficha de las especificaciones técnicas de los productos ofertados.*Este monto considera el despacho de los productos. Las ofertas que superen el presupuesto disponible serán declaradas inadmisibles y no continuarán en el proceso de evaluación.",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
    "tipo": "POSIBLE",
    "motivos": [
     "eléctricos"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "3540-316-COT26",
    "nombre": "Mandril, estación de soldadura, detector cortocircuito y kit manómetro (P.2529)",
    "organismo": "Ejercito de Chile",
@@ -386,7 +410,7 @@
    "motivos": [
     "Conectores, enchufes y terminales"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "1233615-1016-COT26",
    "nombre": "DMH SOL-2026-01931] Recursos TICS para Escuela \"Litoral Austral\" de Puerto Aysén",
    "organismo": "Servicio Local de Educación Pública Aysén",
@@ -415,7 +439,7 @@
    "motivos": [
     "iluminación"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "1233615-1015-COT26",
    "nombre": "DMH [SOL-2026-02150] Recursos para el aprendizaje e innovación (focos, atriles y otros) para Liceo Politécnico A-1 de Puerto Aysén",
    "organismo": "Servicio Local de Educación Pública Aysén",
@@ -494,6 +518,89 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=2042-424-COT26",
    "sin_detalle": false,
    "descripcion": "Se requiere la compra de elementos de electricidad para mejoramiento en conexiones eclécticas, instalación y retiro de luminaria en plazas en sector rotonda y reemplazo de iluminación el letrero de bienvenida Tortel.",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "electricidad"
+   ],
+   "nueva": true,
+   "codigo": "1079689-564-COT26",
+   "nombre": "ADQUISICIÓN DE IMPLEMENTOS DE SEGURIDAD PARA EL PERSONAL DE MANTENIMIENTO DE CUARTELES, SERVET Y ÁREA TALLER MECÁNICO DE LA SECCIÓN LOGÍSTICA DEL DEAOPERPOL AYSÉN.",
+   "organismo": "SECCIÓN COMPRAS XI ZONA",
+   "unidad": "SEC DE COMP ZONA AYSÉN DEL GRAL CARL IBAÑ DEL CAMP",
+   "monto": 3964057,
+   "cierre_iso": "2026-11-23T16:00:00-03:00",
+   "publicacion": "20-11 09:15",
+   "publicacion_iso": "2026-11-20T09:15:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "53102102",
+     "Overol y sobretodo para hombre",
+     23,
+     "BOTIN DE SEGURIDAD AISLANTE DE ELECTRICIDAD COLOR CAFE, EQUIVALENTE O SUPERIOR EN CALIDAD A MARCA ALBATROS - GATOR - EXPLORER (2 N°40, 10 N°41, 2 N°43, 8 N°44, 1 N°46)."
+    ],
+    [
+     "53102102",
+     "Overol y sobretodo para hombre",
+     10,
+     "BOTA DE AGUA CON PUNTA DE FIERRO COLOR VERDE OSCURO, EQUIVALENTE O SUPERIOR EN CALIDAD A MARCA EVEREST PU AGROLIFE. (1 N°40, 4 N°41, 1 N°43, 4 N°44)."
+    ],
+    [
+     "53102102",
+     "Overol y sobretodo para hombre",
+     20,
+     "PANTALON DE TRABAJO TIPO CARGO COLOR GRIS, EQUIVALENTE O SUPERIOR EN CALIDAD A MARCA EVEREST RANGER SPANX. (4 TALLA M, 4 TALLA L, 8 TALLA XL, 4 TALLA XXL)."
+    ],
+    [
+     "53102102",
+     "Overol y sobretodo para hombre",
+     20,
+     "POLERON DE TRABAJO MICROPOLAR COLOR GRIS, EQUIVALENTE O SUPERIOR EN CALIDAD A MARCA EVEREST - OSLO.  (4 TALLA M, 4 TALLA L, 8 TALLA XL, 4 TALLA XXL)."
+    ],
+    [
+     "53102102",
+     "Overol y sobretodo para hombre",
+     20,
+     "POLERA DE TRABAJO PIQUE MANGA LARGA COLOR AZUL. (4 TALLA M, 4 TALLA L, 8 TALLA XL, 4 TALLA XXL.)"
+    ],
+    [
+     "53102102",
+     "Overol y sobretodo para hombre",
+     20,
+     "OVEROL DE TRABAJO DE SEGURIDAD TELA CANVAS MULTIBOLSILLOS. (4 TALLA M, 4 TALLA L, 8 TALLA XL, 4 TALLA XXL.)"
+    ],
+    [
+     "53102102",
+     "Overol y sobretodo para hombre",
+     20,
+     "BALACLAVA DE TRABAJO COLOR NEGRO, EQUIVALENTE O SUPERIOREN CALIDAD A MARCA EVEREST - PREMIUM - SPANX."
+    ],
+    [
+     "53102102",
+     "Overol y sobretodo para hombre",
+     2,
+     "PECHERA DE CUERO SOLDADOR DE 60X90 DE ALTA CALIDAD."
+    ],
+    [
+     "53102102",
+     "Overol y sobretodo para hombre",
+     2,
+     "CASACA CUERO SOLDADOR DE ALTA CALIDAD. (TALLA 1L, 1XL)."
+    ],
+    [
+     "53102102",
+     "Overol y sobretodo para hombre",
+     2,
+     "PANTALÓN CUERO SOLDADOR DE ALTA CALIDAD (TALLA 1L, 1XL.)"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1079689-564-COT26",
+   "sin_detalle": false,
+   "descripcion": "ADQUISICIÓN DE IMPLEMENTOS DE SEGURIDAD PARA EL PERSONAL DE MANTENIMIENTO DE CUARTELES, SERVET Y TALLER MECÁNICO DE LA SECCIÓN LOGÍSTICA DEL DEAOPERPOL AYSÉN. CON ENTREGA A DOMICILIO Y/O RETIRO EN TIENDA EN LA CIUDAD DE COYHAIQUE, INDICAR PLAZO DE ENTREGA Y ADJUNTAR COTIZACIÓN. DE NO INDICAR PLAZO DE ENTREGA NI ADJUNTAR COTIZACIÓN, NO SERÁ EVALUADO.",
    "en_gracia": false,
    "desaparecida_iso": ""
   },
@@ -674,6 +781,24 @@
   }
  ],
  "historial": [
+  {
+   "codigo": "3765-363-COT26",
+   "nombre": "MANTENIMIENTO PREVENTIVO GRUPO GENERADOR DE HLOR CHILE CHICO Y PSR MALLÍN GRANDE ",
+   "organismo": "SERVICIO NACIONAL DE SALUD HOSPITAL DE C",
+   "monto": 3000000,
+   "cierre_iso": "2026-11-20T09:00:00-03:00",
+   "tipo": "POSIBLE",
+   "motivos": [
+    "generador"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=3765-363-COT26",
+   "primera_vista_iso": "2026-11-18T11:00:25-03:00",
+   "removida_iso": "2026-11-20T10:00:35-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
   {
    "codigo": "4778-396-COT26",
    "nombre": "RELE-SOLICITUD N° 3309-2026-MANTENCION PREVENTIVA, CALIBRACION SISTEMA PHILIPS AFFINITI, SE REQUIERE CARTA DE REPRESENTACION,COTIZACION",
@@ -1561,26 +1686,6 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=3949-296-COT26",
    "primera_vista_iso": "2026-11-12T13:45:25-03:00",
    "removida_iso": "2026-11-13T13:00:24-03:00",
-   "estado_api": "",
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "907-101-COT26",
-   "nombre": "AAH Mantención correctiva generador eléctrico diésel laboratorio",
-   "organismo": "SERVICIO AGRICOLA Y GANADERO",
-   "monto": 1387540,
-   "cierre_iso": "2026-11-13T10:00:00-03:00",
-   "tipo": "POSIBLE",
-   "motivos": [
-    "eléctrico",
-    "generador",
-    "generador eléctrico"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=907-101-COT26",
-   "primera_vista_iso": "2026-11-10T19:26:29-03:00",
-   "removida_iso": "2026-11-13T11:00:25-03:00",
    "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,
