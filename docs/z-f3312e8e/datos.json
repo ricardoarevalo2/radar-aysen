@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-11-21T13:00:24.075896-03:00",
+ "actualizado": "2026-11-21T13:52:04.580068-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
- "total_region": 294,
+ "total_region": 289,
  "rubros": {
   "25172700": "Aire acondicionado",
   "25173900": "Componentes eléctricos",
@@ -19,65 +19,6 @@
   "39121400": "Conectores, enchufes y terminales"
  },
  "filas": [
-  {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Cables eléctricos y accesorios"
-   ],
-   "nueva": false,
-   "codigo": "4644-149-COT26",
-   "nombre": "Accesorios Computacionales, Área de Intervención Vivero el Mallín SIC 508 SIRE 475",
-   "organismo": "CORP NACIONAL FORESTAL",
-   "unidad": "XI Región - Oficina Provincial Aysen",
-   "monto": 250000,
-   "cierre_iso": "2026-11-21T13:00:00-03:00",
-   "publicacion": "20-11 09:42",
-   "publicacion_iso": "2026-11-20T09:42:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "26121613",
-     "Cable aislado o forrado",
-     2,
-     "Cable HDMI, 2 mt. Blindado 8K"
-    ],
-    [
-     "26121613",
-     "Cable aislado o forrado",
-     5,
-     "Cable de red 100% cobre, con separador de pares y doble forro para exterior, con conectores listos para usar"
-    ],
-    [
-     "43202005",
-     "Dispositivos de almacenamiento de memoria flash",
-     2,
-     "Pendrive USB 3.2, 32 GB"
-    ],
-    [
-     "43211708",
-     "Trackballs y mouse de computador",
-     6,
-     "Mouse inalambrico de 4 botones con cómodo diseño ergonómico. Tecnología de 2,4 GHz. Resolución ajustable de 800, 1200 o 1600 DPI. con 1 pila AA, incluida con el producto."
-    ],
-    [
-     "43211708",
-     "Trackballs y mouse de computador",
-     2,
-     "Mouse Inalámbrico Ergonómico Vertical, 6 botones, Batería recargable de larga duración, Tecnología 2,4GHz, Revestimiento de goma, Cable de carga USB, Bluetooth."
-    ],
-    [
-     "43211802",
-     "Almohadillas de ratón o mousepad",
-     6,
-     "Mousepad rectangular negro Modelo rectangular compacto con bordes cosidos, superficie de tela y base de goma antideslizante"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=4644-149-COT26",
-   "sin_detalle": false,
-   "descripcion": "Conaf requiere accesorios computacionales para el programa Área de Intervención Vivero el Mallín. El proveedor debe registrar en el portal de Mercado Público las especificaciones técnicas de los productos y/o adjuntar ficha de las especificaciones técnicas de los productos ofertados.*Este monto considera el despacho de los productos. Las ofertas que superen el presupuesto disponible serán declaradas inadmisibles y no continuarán en el proceso de evaluación.",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
   {
    "tipo": "OPORTUNIDAD",
    "motivos": [
@@ -287,7 +228,7 @@
    "motivos": [
     "Servicios eléctricos"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "4140-113-COT26",
    "nombre": "MANO DE OBRA, INSTALACION DE CENTRO ELECTRICO",
    "organismo": "I MUNICIPALIDAD DE LAGO VERDE",
@@ -706,7 +647,7 @@
    "motivos": [
     "generador"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "4644-154-COT26",
    "nombre": "Lubricantes San Rafael si 457 sire 451",
    "organismo": "CORP NACIONAL FORESTAL",
@@ -1112,6 +1053,24 @@
   }
  ],
  "historial": [
+  {
+   "codigo": "4644-149-COT26",
+   "nombre": "Accesorios Computacionales, Área de Intervención Vivero el Mallín SIC 508 SIRE 475",
+   "organismo": "CORP NACIONAL FORESTAL",
+   "monto": 250000,
+   "cierre_iso": "2026-11-21T13:00:00-03:00",
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Cables eléctricos y accesorios"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=4644-149-COT26",
+   "primera_vista_iso": "2026-11-20T10:00:35-03:00",
+   "removida_iso": "2026-11-21T13:52:04-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
   {
    "codigo": "1182705-220-COT26",
    "nombre": "ADQUISICION DE FUNGIBLES PARA INSTALACION ELECTRICA, FOLIO N°238",
