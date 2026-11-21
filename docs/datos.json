@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-11-21T13:52:04.580068-03:00",
+ "actualizado": "2026-11-21T14:00:23.364808-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
- "total_region": 289,
+ "total_region": 287,
  "rubros": {
   "80141600": "Ventas y marketing",
   "82101600": "Publicidad en medios no impresos",
@@ -14,35 +14,6 @@
   "83121700": "Comunicación social y de masas"
  },
  "filas": [
-  {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Inserciones publicitarias en medios"
-   ],
-   "nueva": false,
-   "codigo": "4733-533-COT26",
-   "nombre": "DIFUSIÓN",
-   "organismo": "I MUNICIPALIDAD DE LAS GUAITECAS",
-   "unidad": "I MUNICIPALIDAD DE LAS GUAITECAS",
-   "monto": 600000,
-   "cierre_iso": "2026-11-21T13:52:00-03:00",
-   "publicacion": "14-11 12:51",
-   "publicacion_iso": "2026-11-14T12:51:00-03:00",
-   "ofertas": 2,
-   "productos": [
-    [
-     "82101901",
-     "Avisos en radio",
-     1,
-     "servicios de difusión olimpiadas comunales"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=4733-533-COT26",
-   "sin_detalle": false,
-   "descripcion": "Se requiere contratar el servicio de difusión para el proyecto Olimpiadas comunales Guaitecas 2027, según detalle adjunto, adjuntar cotización.-",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
   {
    "tipo": "POSIBLE",
    "motivos": [
@@ -816,6 +787,24 @@
   }
  ],
  "historial": [
+  {
+   "codigo": "4733-533-COT26",
+   "nombre": "DIFUSIÓN",
+   "organismo": "I MUNICIPALIDAD DE LAS GUAITECAS",
+   "monto": 600000,
+   "cierre_iso": "2026-11-21T13:52:00-03:00",
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Inserciones publicitarias en medios"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=4733-533-COT26",
+   "primera_vista_iso": "2026-11-14T13:00:23-03:00",
+   "removida_iso": "2026-11-21T14:00:23-03:00",
+   "estado_api": "",
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
   {
    "codigo": "1182705-218-COT26",
    "nombre": " ADQUISICION DE SERVICIO DE IMPRENSION Y PLOTEO, FOLIO N°223 VCM",
