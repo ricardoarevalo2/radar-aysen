@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-20T21:04:02.887739-03:00",
+ "actualizado": "2026-11-20T22:00:26.335613-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
  "total_region": 320,
@@ -1258,7 +1258,7 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=1057062-537-COT26",
    "primera_vista_iso": "2026-11-13T18:00:26-03:00",
    "removida_iso": "2026-11-19T13:00:23-03:00",
-   "estado_api": null,
+   "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,
    "adj_iso": null
@@ -1389,7 +1389,7 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=4609-315-COT26",
    "primera_vista_iso": "2026-11-16T09:00:25-03:00",
    "removida_iso": "2026-11-19T09:00:33-03:00",
-   "estado_api": null,
+   "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,
    "adj_iso": null
@@ -1409,7 +1409,7 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=657-100-COT26",
    "primera_vista_iso": "2026-11-14T17:00:28-03:00",
    "removida_iso": "2026-11-18T19:00:26-03:00",
-   "estado_api": null,
+   "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,
    "adj_iso": null
@@ -1768,7 +1768,7 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=2151-90-COT26",
    "primera_vista_iso": "2026-11-13T18:00:26-03:00",
    "removida_iso": "2026-11-16T18:00:29-03:00",
-   "estado_api": null,
+   "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,
    "adj_iso": null
@@ -1860,7 +1860,7 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=1057062-538-COT26",
    "primera_vista_iso": "2026-11-13T18:00:26-03:00",
    "removida_iso": "2026-11-16T16:00:40-03:00",
-   "estado_api": null,
+   "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,
    "adj_iso": null
@@ -2101,61 +2101,6 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=3797-538-COT26",
    "primera_vista_iso": "2026-11-13T12:00:25-03:00",
    "removida_iso": "2026-11-14T12:54:24-03:00",
-   "estado_api": "",
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "1233615-960-COT26",
-   "nombre": "DMH [SOL-2026-02150] Recursos para el aprendizaje e innovación (focos, atriles y otros) para Liceo Politécnico A-1 de Puerto Aysén",
-   "organismo": "Servicio Local de Educación Pública Aysén",
-   "monto": 425000,
-   "cierre_iso": "2026-11-13T21:40:00-03:00",
-   "tipo": "POSIBLE",
-   "motivos": [
-    "difusión"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1233615-960-COT26",
-   "primera_vista_iso": "2026-11-10T19:26:29-03:00",
-   "removida_iso": "2026-11-13T22:00:27-03:00",
-   "estado_api": "",
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "1233615-961-COT26",
-   "nombre": "DMH [SOL-2026-02150] Recursos para el aprendizaje e innovación (hidrolavadora y manguera) para Liceo Politécnico A-1 de Puerto Aysén",
-   "organismo": "Servicio Local de Educación Pública Aysén",
-   "monto": 230000,
-   "cierre_iso": "2026-11-13T21:36:00-03:00",
-   "tipo": "POSIBLE",
-   "motivos": [
-    "difusión"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1233615-961-COT26",
-   "primera_vista_iso": "2026-11-10T19:26:29-03:00",
-   "removida_iso": "2026-11-13T22:00:27-03:00",
-   "estado_api": "",
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "1233615-962-COT26",
-   "nombre": "DMH [SOL-2026-02150] Recursos para el aprendizaje e innovación (pendones) para Liceo Politécnico A-1 de Puerto Aysén",
-   "organismo": "Servicio Local de Educación Pública Aysén",
-   "monto": 600000,
-   "cierre_iso": "2026-11-13T21:28:00-03:00",
-   "tipo": "POSIBLE",
-   "motivos": [
-    "difusión",
-    "publicidad"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1233615-962-COT26",
-   "primera_vista_iso": "2026-11-10T19:26:29-03:00",
-   "removida_iso": "2026-11-13T22:00:27-03:00",
    "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,
