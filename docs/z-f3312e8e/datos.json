@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-11-21T11:00:29.984418-03:00",
+ "actualizado": "2026-11-21T12:00:23.580516-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
- "total_region": 307,
+ "total_region": 298,
  "rubros": {
   "25172700": "Aire acondicionado",
   "25173900": "Componentes eléctricos",
@@ -19,105 +19,6 @@
   "39121400": "Conectores, enchufes y terminales"
  },
  "filas": [
-  {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Suministros y accesorios eléctricos"
-   ],
-   "nueva": true,
-   "codigo": "1691-2151-COT26",
-   "nombre": " EFCC- ASAS DE RECECTOSCOPIO DESECHABLE UD PARA REPOSICIÓN DE INS. CLINICOS HRC",
-   "organismo": "SERVICIO NACIONAL DE SALUD HOSPITAL DE C",
-   "unidad": "Compras de Insumos Clínicos",
-   "monto": 1720000,
-   "cierre_iso": "2026-11-21T11:15:00-03:00",
-   "publicacion": "20-11 11:05",
-   "publicacion_iso": "2026-11-20T11:05:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "39121720",
-     "Asas de transformadores",
-     30,
-     "COD - 42340118-96-147 ASAS DE RECECTOSCOPIO DESECHABLE"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1691-2151-COT26",
-   "sin_detalle": false,
-   "descripcion": "ASAS DE RECECTOSCOPIO DESECHABLE UD, PARA REPOSICIÓN DE INSUMOS CLÍNICOS DEL HRC.\nLOS PRECIOS OFERTADOS DEBEN INCLUIR TODOS LOS COSTOS ASOCIADOS, INCLUDIOS FLETES HASTA LA \nDIRECCIÓN DE DESPACHO ESTABLECIDA.LAS PROPUESTAS DEBEN AJUSTARSE ESTRÍCTAMENTE A LAS \nCARACTERÍSTICAS TÉCNICAS INDICADAS EN CADA REQUERIMIENTO. SE SOLICITA ADJUNTAR FICHA TÉCNICA\nCORRESPONDIENTE A LOS PRODUCTOS O SERVICIOS OFRECIDOS. SE SOLICITA COTIZACIÓN POR 30 DÍAS. \nSE SOLICITA 1 GUÍA DE DESPACHO DENTRO DE LA CAJA.",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
-  {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Cajas y accesorios eléctricos"
-   ],
-   "nueva": false,
-   "codigo": "1182705-220-COT26",
-   "nombre": "ADQUISICION DE FUNGIBLES PARA INSTALACION ELECTRICA, FOLIO N°238",
-   "organismo": "CENTRO DE FORMACIÓN TÉCNICA DE LA REGIÓN DE AYSÉN DEL GENERAL CARLOS I",
-   "unidad": "FINANZAS",
-   "monto": 117000,
-   "cierre_iso": "2026-11-21T11:18:00-03:00",
-   "publicacion": "18-11 15:40",
-   "publicacion_iso": "2026-11-18T15:40:00-03:00",
-   "ofertas": 1,
-   "productos": [
-    [
-     "39121311",
-     "Accesorios eléctricos",
-     150,
-     "Caja Derivación Embutida"
-    ],
-    [
-     "39121311",
-     "Accesorios eléctricos",
-     300,
-     "Salidas de caja 20 mm"
-    ],
-    [
-     "39121311",
-     "Accesorios eléctricos",
-     150,
-     "Salidas de caja 16 mm"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1182705-220-COT26",
-   "sin_detalle": false,
-   "descripcion": "Se requiere la compra de fungibles de instalaciones eléctrica para la carrera TNS en electricidad, del CFT de la Región de Aysén. Los productos deben ser entregados en oficinas ubicada en Sargento Aldea 533, Puerto Aysén",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
-  {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Gasfitería, calefacción y aire acondicionado"
-   ],
-   "nueva": false,
-   "codigo": "613-42-COT26",
-   "nombre": "Servicio de mantención preventiva de líneas de calefacción y suministro e instalación de termostato programable con caja de protección",
-   "organismo": "Ministerio de Vivienda y Urbanismo",
-   "unidad": "SEREMI MINVU XI REGION",
-   "monto": 1400000,
-   "cierre_iso": "2026-11-21T12:00:00-03:00",
-   "publicacion": "20-11 08:41",
-   "publicacion_iso": "2026-11-20T08:41:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "72102302",
-     "Instalación, reparación o mantenimiento de sistemas de calefacción",
-     1,
-     "Servicio de mantención preventiva de líneas de calefacción y suministro e instalación de termostato programable con caja de protección, SEGUN REQUERIMIENTO ADJUNTO"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=613-42-COT26",
-   "sin_detalle": false,
-   "descripcion": "Servicio de mantención preventiva de líneas de calefacción y suministro e instalación de termostato programable con caja de protección, segun requerimiento adjunto",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
   {
    "tipo": "OPORTUNIDAD",
    "motivos": [
@@ -174,6 +75,35 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=4644-149-COT26",
    "sin_detalle": false,
    "descripcion": "Conaf requiere accesorios computacionales para el programa Área de Intervención Vivero el Mallín. El proveedor debe registrar en el portal de Mercado Público las especificaciones técnicas de los productos y/o adjuntar ficha de las especificaciones técnicas de los productos ofertados.*Este monto considera el despacho de los productos. Las ofertas que superen el presupuesto disponible serán declaradas inadmisibles y no continuarán en el proceso de evaluación.",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Gasfitería, calefacción y aire acondicionado"
+   ],
+   "nueva": false,
+   "codigo": "613-42-COT26",
+   "nombre": "Servicio de mantención preventiva de líneas de calefacción y suministro e instalación de termostato programable con caja de protección",
+   "organismo": "Ministerio de Vivienda y Urbanismo",
+   "unidad": "SEREMI MINVU XI REGION",
+   "monto": 1400000,
+   "cierre_iso": "2026-11-21T16:00:00-03:00",
+   "publicacion": "20-11 08:41",
+   "publicacion_iso": "2026-11-20T08:41:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "72102302",
+     "Instalación, reparación o mantenimiento de sistemas de calefacción",
+     1,
+     "Servicio de mantención preventiva de líneas de calefacción y suministro e instalación de termostato programable con caja de protección, SEGUN REQUERIMIENTO ADJUNTO"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=613-42-COT26",
+   "sin_detalle": false,
+   "descripcion": "Servicio de mantención preventiva de líneas de calefacción y suministro e instalación de termostato programable con caja de protección, segun requerimiento adjunto",
    "en_gracia": false,
    "desaparecida_iso": ""
   },
@@ -1182,6 +1112,42 @@
   }
  ],
  "historial": [
+  {
+   "codigo": "1182705-220-COT26",
+   "nombre": "ADQUISICION DE FUNGIBLES PARA INSTALACION ELECTRICA, FOLIO N°238",
+   "organismo": "CENTRO DE FORMACIÓN TÉCNICA DE LA REGIÓN DE AYSÉN DEL GENERAL CARLOS I",
+   "monto": 117000,
+   "cierre_iso": "2026-11-21T11:18:00-03:00",
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Cajas y accesorios eléctricos"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1182705-220-COT26",
+   "primera_vista_iso": "2026-11-18T16:00:26-03:00",
+   "removida_iso": "2026-11-21T12:00:23-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
+  {
+   "codigo": "1691-2151-COT26",
+   "nombre": " EFCC- ASAS DE RECECTOSCOPIO DESECHABLE UD PARA REPOSICIÓN DE INS. CLINICOS HRC",
+   "organismo": "SERVICIO NACIONAL DE SALUD HOSPITAL DE C",
+   "monto": 1720000,
+   "cierre_iso": "2026-11-21T11:15:00-03:00",
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Suministros y accesorios eléctricos"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1691-2151-COT26",
+   "primera_vista_iso": "2026-11-20T12:00:26-03:00",
+   "removida_iso": "2026-11-21T12:00:23-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
   {
    "codigo": "1057062-535-COT26",
    "nombre": "Adquisición de Kit didáctico de auto de exploración de energía_ Según FISABS 2466",

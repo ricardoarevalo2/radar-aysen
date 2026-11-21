@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-11-21T11:00:29.984418-03:00",
+ "actualizado": "2026-11-21T12:00:23.580516-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
- "total_region": 307,
+ "total_region": 298,
  "rubros": {
   "80141600": "Ventas y marketing",
   "82101600": "Publicidad en medios no impresos",
@@ -355,6 +355,35 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=1233615-1017-COT26",
    "sin_detalle": false,
    "descripcion": "Estos implementos permitirán desarrollar competencias tecnológicas, comunicativas, técnicas y laborales, fomentar la creatividad, el trabajo colaborativo y la participación estudiantil, además de apoyar la difusión de las actividades institucionales y el mejoramiento de los espacios educativos.",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Ventas y marketing"
+   ],
+   "nueva": true,
+   "codigo": "1182705-228-COT26",
+   "nombre": "PRODUCCION DE EVENTO PARA CEREMONIA DE INVESTIDURA TNS EN ENFERMERIA 2026.",
+   "organismo": "CENTRO DE FORMACIÓN TÉCNICA DE LA REGIÓN DE AYSÉN DEL GENERAL CARLOS I",
+   "unidad": "FINANZAS",
+   "monto": 2000000,
+   "cierre_iso": "2026-11-23T10:00:00-03:00",
+   "publicacion": "21-11 11:50",
+   "publicacion_iso": "2026-11-21T11:50:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "80141607",
+     "Producción de eventos",
+     1,
+     "Ornamentación debe incluir escenario (Tamaño: 4 metros de ancho y 10 metros de largo aprox.), ornamentación de escenario y la entrada del Polideportivo, flores en el escenario, puesto de fotografia investidura ornamentado, se deben incluir 200 sillas y 50 accesorios para decorar cada silla (estudiantes). Por disponibilidad del recinto el armado se debe realizar ek día 25 de noviembre a las 9:30 horas en adelante. La prestación incluye la instalación y retiro de gomas de protección del piso."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1182705-228-COT26",
+   "sin_detalle": false,
+   "descripcion": "Se requiere de producción de eventos para 200 personas, ceremonia TNS en Enfermería 2026, actividad programada para el día miércoles 25 de noviembre 2026 a las 18:00 horas, en recinto del Polideportivo de Puerto Aysén.",
    "en_gracia": false,
    "desaparecida_iso": ""
   },
@@ -2028,26 +2057,6 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=1182705-209-COT26",
    "primera_vista_iso": "2026-11-13T14:00:24-03:00",
    "removida_iso": "2026-11-14T14:00:25-03:00",
-   "estado_api": "",
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "3797-538-COT26",
-   "nombre": "TAZONES PERSONALIZADOS",
-   "organismo": "I MUNICIPALIDAD DE COCHRANE",
-   "monto": 120000,
-   "cierre_iso": "2026-11-14T12:00:00-03:00",
-   "tipo": "POSIBLE",
-   "motivos": [
-    "difusión",
-    "marketing",
-    "publicidad"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=3797-538-COT26",
-   "primera_vista_iso": "2026-11-13T12:00:25-03:00",
-   "removida_iso": "2026-11-14T12:54:24-03:00",
    "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,
