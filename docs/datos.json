@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-20T20:00:27.169640-03:00",
+ "actualizado": "2026-11-20T21:00:23.680974-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
  "total_region": 320,
@@ -855,47 +855,6 @@
    "descripcion": "COTIZACION SERVICIO DE PRODUCCION TECNICA - ENCUENTRO FOLCLORICO CHILE CHICO",
    "en_gracia": true,
    "desaparecida_iso": "2026-11-20T14:54:44-03:00"
-  },
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "fotografía"
-   ],
-   "nueva": false,
-   "codigo": "2494-301-COT26",
-   "nombre": "Adquisición de Premios para Taller Fotografia - Barrio Arturo Prat",
-   "organismo": "",
-   "unidad": "",
-   "monto": null,
-   "cierre_iso": "",
-   "publicacion": "",
-   "publicacion_iso": "",
-   "ofertas": 0,
-   "productos": [
-    [
-     "45121518",
-     "Kits de cámara",
-     5,
-     "Trípodes Profesional Extendible Ajustable Para Cámara Celular,170.00 x 34.00 x 170.00 cm, imagen referencial 1*\n\nLos detalles se encuentrasn en el documento adjunto."
-    ],
-    [
-     "45121518",
-     "Kits de cámara",
-     5,
-     "Tazas Cafe Mug Tipo Lente Camara Fotografica Aluminio, 350 ml, imagen referencial 2*\n\nLos detalles se encuentrasn en el documento adjunto."
-    ],
-    [
-     "45121518",
-     "Kits de cámara",
-     5,
-     "Monocular Zoom 40x60 Hd Estuche + Porta Celular Outdoor, imagen referencial 3*\n\nLos detalles se encuentrasn en el documento adjunto."
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=2494-301-COT26",
-   "sin_detalle": false,
-   "descripcion": "Adquisición premios para concurso de fotografía del Barrio arturo Prat, con el objeto de generar acciones comunitarias y de fortalecimiento de la participación barrial impulsadas por el Programa Quiero Mi Barrio, a través de un taller de fotografía, la cual se contempla los premios que serán adquiridos mendiante Mercado Público. LOS DETALLES DE LOS PRODUCTOS DESEADO SE ENCUENTRAN EN EL DOCUMENTO ADJUNTO.",
-   "en_gracia": true,
-   "desaparecida_iso": "2026-11-19T15:00:27-03:00"
   }
  ],
  "historial": [
@@ -2215,6 +2174,24 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=2495-671-COT26",
    "primera_vista_iso": "2026-11-16T16:44:10-03:00",
    "removida_iso": "2026-11-18T10:00:24-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
+  {
+   "codigo": "2494-301-COT26",
+   "nombre": "Adquisición de Premios para Taller Fotografia - Barrio Arturo Prat",
+   "organismo": "",
+   "monto": null,
+   "cierre_iso": "",
+   "tipo": "POSIBLE",
+   "motivos": [
+    "fotografía"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=2494-301-COT26",
+   "primera_vista_iso": "2026-11-17T10:00:28-03:00",
+   "removida_iso": "2026-11-20T21:00:23-03:00",
    "estado_api": null,
    "adj_nombre": null,
    "adj_monto": null,

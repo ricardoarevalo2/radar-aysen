@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-20T20:00:27.169640-03:00",
+ "actualizado": "2026-11-20T21:00:23.680974-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
  "total_region": 320,
@@ -1321,7 +1321,7 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=4778-396-COT26",
    "primera_vista_iso": "2026-11-17T12:00:27-03:00",
    "removida_iso": "2026-11-19T23:00:25-03:00",
-   "estado_api": null,
+   "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,
    "adj_iso": null
@@ -2033,24 +2033,6 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=1233615-960-COT26",
    "primera_vista_iso": "2026-11-10T19:26:29-03:00",
    "removida_iso": "2026-11-13T22:00:27-03:00",
-   "estado_api": "",
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "1233615-963-COT26",
-   "nombre": "DMH SOL-2026-01931] Recursos TICS para Escuela \"Litoral Austral\" de Puerto Aysén",
-   "organismo": "Servicio Local de Educación Pública Aysén",
-   "monto": 302470,
-   "cierre_iso": "2026-11-13T20:16:00-03:00",
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Conectores, enchufes y terminales"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1233615-963-COT26",
-   "primera_vista_iso": "2026-11-10T19:26:29-03:00",
-   "removida_iso": "2026-11-13T21:00:25-03:00",
    "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,
