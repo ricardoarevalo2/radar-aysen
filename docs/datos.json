@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-21T19:00:23.655100-03:00",
+ "actualizado": "2026-11-21T19:14:42.293145-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
  "total_region": 264,
@@ -83,7 +83,7 @@
    "motivos": [
     "Ventas y marketing"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "2713-1452-COT26",
    "nombre": "Servicio de producción y desarrollo de la actividad “One Song \" Folio 1517",
    "organismo": "I MUNICIPALIDAD DE AYSEN",
@@ -428,7 +428,7 @@
    "motivos": [
     "Ventas y marketing"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "1195-598-COT26",
    "nombre": "EJECUCIÓN DEL FESTIVAL DE LA MORILLA 2026",
    "organismo": "I MUNICIPALIDAD DE COYHAIQUE",
