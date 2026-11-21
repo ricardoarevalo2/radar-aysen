@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-11-21T14:00:23.364808-03:00",
+ "actualizado": "2026-11-21T15:00:21.882462-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
- "total_region": 287,
+ "total_region": 288,
  "rubros": {
   "80141600": "Ventas y marketing",
   "82101600": "Publicidad en medios no impresos",
@@ -363,7 +363,7 @@
    "motivos": [
     "Ventas y marketing"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "4066-540-COT26",
    "nombre": "Servicios de Impresión, Merchandising, Información Turística",
    "organismo": "I MUNICIPALIDAD RIO IBANEZ",
