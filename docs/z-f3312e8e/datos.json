@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-11-21T17:00:24.038990-03:00",
+ "actualizado": "2026-11-21T18:00:23.004371-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
- "total_region": 274,
+ "total_region": 268,
  "rubros": {
   "25172700": "Aire acondicionado",
   "25173900": "Componentes eléctricos",
@@ -19,76 +19,6 @@
   "39121400": "Conectores, enchufes y terminales"
  },
  "filas": [
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "iluminación"
-   ],
-   "nueva": true,
-   "codigo": "2713-1450-COT26",
-   "nombre": "insumos para utilizar en la iluminación de árbol construido en área verde",
-   "organismo": "I MUNICIPALIDAD DE AYSEN",
-   "unidad": "I.MUNICIPALIDAD AYSEN-ADQUISICIONES",
-   "monto": 272000,
-   "cierre_iso": "2026-11-21T17:00:00-03:00",
-   "publicacion": "20-11 16:47",
-   "publicacion_iso": "2026-11-20T16:47:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "39111514",
-     "Luces de árboles",
-     1,
-     "De acuerdo a los terminos de la presente compra agil."
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=2713-1450-COT26",
-   "sin_detalle": false,
-   "descripcion": "La Ilustre Municipalidad de Aysén a través de la Secretaría Comunal de Planificación, requiere adquirir insumos para utilizar en la iluminación de árbol construido en área verde, esto en el marco del desarrollo del PLAN DE GESTIÓN SOCIAL, proyecto UNIDOS POR RECUPERAR NUESTROS ESPACIOS del Programa Recuperación de Barrios Barrio BIR Las Villas, Las ofertas que no cumplan el total de la documentacion exigida seran declaradas inadmisibles conforme a los terminos de la presente compra agil.",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "climatización"
-   ],
-   "nueva": false,
-   "codigo": "1538639-19-COT26",
-   "nombre": "Servicio de alojamiento, alimentación y traslados en São Paulo – Aysén Day Brasil 2026",
-   "organismo": "CORPORACIÓN DE DESARROLLO DEL GOBIERNO REGIONAL DE AYSÉN",
-   "unidad": "CORPORACIÓN DE DESARROLLO DEL GOBIERNO REGIONAL DE AYSÉN",
-   "monto": 1900000,
-   "cierre_iso": "2026-11-21T17:00:00-03:00",
-   "publicacion": "20-11 15:16",
-   "publicacion_iso": "2026-11-20T15:16:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "78111804",
-     "Servicios de taxi",
-     1,
-     "Servicio de traslado terrestre en São Paulo, Brasil, para 2 pasajeros: aeropuerto–hotel el 25 de noviembre y hotel–aeropuerto el 27 de noviembre de 2026. Los traslados podrán compartirse cuando los horarios sean compatibles o realizarse separadamente sin costo adicional. Incluye equipaje, peajes, combustible e impuestos. No contempla traslados en Chile."
-    ],
-    [
-     "90101603",
-     "Servicios de catering",
-     1,
-     "Servicio de alimentación en São Paulo para 2 pasajeros: cena del 25 de noviembre, almuerzo del 26 de noviembre y cena del 26 de noviembre de 2026. Total 6 servicios individuales. Cada servicio deberá incluir plato principal y bebida sin alcohol, con impuestos y cargos incluidos, conforme a minuta adjunta."
-    ],
-    [
-     "90111501",
-     "Hoteles",
-     1,
-     "Servicio de alojamiento en São Paulo, Brasil, para 3 pasajeros, en 3 habitaciones individuales durante 2 noches, del 25 al 27 de noviembre de 2026. Hotel mínimo 4 estrellas, ubicado en sector Avenida Paulista o zonas indicadas en minuta. Incluye 6 desayunos, baño privado, climatización, Wi-Fi, impuestos y cargos asociados."
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1538639-19-COT26",
-   "sin_detalle": false,
-   "descripcion": "Contratación de servicios de alojamiento para tres personas, en habitaciones individuales por dos noches, del 25 al 27 de noviembre de 2026, con desayuno incluido; alimentación y traslados aeropuerto–hotel–aeropuerto en São Paulo para dos personas, en el marco de Aysén Day Brasil 2026, conforme a minuta adjunta. No incluye traslados terrestres en Chile. Presupuesto máximo $1.900.000, impuestos y cargos incluidos.",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
   {
    "tipo": "POSIBLE",
    "motivos": [
@@ -500,7 +430,7 @@
    "motivos": [
     "Suministros y accesorios eléctricos"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "3791-1200-COT26",
    "nombre": "EPP AREAS VERDES",
    "organismo": "I MUNICIPALIDAD DE CISNES",
@@ -583,7 +513,7 @@
    "motivos": [
     "eléctrico"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "907-109-COT26",
    "nombre": "MAO Adquisición enseres Oficina Coyhaique ",
    "organismo": "SERVICIO AGRICOLA Y GANADERO",
@@ -1024,6 +954,42 @@
   }
  ],
  "historial": [
+  {
+   "codigo": "1538639-19-COT26",
+   "nombre": "Servicio de alojamiento, alimentación y traslados en São Paulo – Aysén Day Brasil 2026",
+   "organismo": "CORPORACIÓN DE DESARROLLO DEL GOBIERNO REGIONAL DE AYSÉN",
+   "monto": 1900000,
+   "cierre_iso": "2026-11-21T17:00:00-03:00",
+   "tipo": "POSIBLE",
+   "motivos": [
+    "climatización"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1538639-19-COT26",
+   "primera_vista_iso": "2026-11-20T16:00:41-03:00",
+   "removida_iso": "2026-11-21T18:00:23-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
+  {
+   "codigo": "2713-1450-COT26",
+   "nombre": "insumos para utilizar en la iluminación de árbol construido en área verde",
+   "organismo": "I MUNICIPALIDAD DE AYSEN",
+   "monto": 272000,
+   "cierre_iso": "2026-11-21T17:00:00-03:00",
+   "tipo": "POSIBLE",
+   "motivos": [
+    "iluminación"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=2713-1450-COT26",
+   "primera_vista_iso": "2026-11-20T17:00:37-03:00",
+   "removida_iso": "2026-11-21T18:00:23-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
   {
    "codigo": "613-42-COT26",
    "nombre": "Servicio de mantención preventiva de líneas de calefacción y suministro e instalación de termostato programable con caja de protección",

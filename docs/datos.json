@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-11-21T17:00:24.038990-03:00",
+ "actualizado": "2026-11-21T18:00:23.004371-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
- "total_region": 274,
+ "total_region": 268,
  "rubros": {
   "80141600": "Ventas y marketing",
   "82101600": "Publicidad en medios no impresos",
@@ -14,88 +14,6 @@
   "83121700": "Comunicación social y de masas"
  },
  "filas": [
-  {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Inserciones publicitarias en medios"
-   ],
-   "nueva": true,
-   "codigo": "1057062-561-COT26",
-   "nombre": "Servicio de difusión publicitaria y entrevistas en canal de televisión local de Coyhaique",
-   "organismo": "UNIVERSIDAD DE AYSEN",
-   "unidad": "Proyectos",
-   "monto": 4400000,
-   "cierre_iso": "2026-11-21T17:00:00-03:00",
-   "publicacion": "20-11 16:48",
-   "publicacion_iso": "2026-11-20T16:48:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "82101902",
-     "Avisos en televisión",
-     1,
-     "Emisión de un spot de difusión de admisión (de 30 a 45 segundos, provisto por la Universidad) con al menos 3 repeticiones diarias, vigente hasta el 30 de enero. El medio debe ser un canal de televisión local de Coyhaique con señal abierta, señal digital en cableoperador local (ej. VTR) y alcance interregional (ej. TelSur - GTD).Una vez finalizado el servicio, el proveedor deberá remitir los medios de verificación correspondientes que acrediten su cumplimiento, los cuales serán requisito indispen"
-    ],
-    [
-     "82101902",
-     "Avisos en televisión",
-     6,
-     "6 entrevistas con entrevistador/a propio del canal. El medio debe ser un canal de televisión local de Coyhaique con señal abierta, señal digital en cableoperador local (ej. VTR) y alcance interregional (ej. TelSur - GTD)Una vez finalizado el servicio, el proveedor deberá remitir los medios de verificación correspondientes que acrediten su cumplimiento, los cuales serán requisito indispensable para gestionar el pago"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1057062-561-COT26",
-   "sin_detalle": false,
-   "descripcion": "Serv de difusión publicitaria y entrevistas en canal de tv local de Coyhaique, según se detalla en el presente cotizador, el proveedor deberá detallar lo ofertado, indicando el canal de televisión local de Coyahqiue con señal abierta, señal digital en cableoperador local (ej. VTR) y alcance interregional (ej. TelSur - GTD). La vigencia del contrato será hasta el 30 de enero de 2027.Las entrevistas se deben cargar en el canal de youtube del medio, el que debe contar con al menos 10 mil suscripto",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
-  {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Ventas y marketing"
-   ],
-   "nueva": true,
-   "codigo": "2713-1451-COT26",
-   "nombre": "Habilitación y optimización de espacios públicos para la vida saludable: baños de naturaleza - Folio 1537 - DIDECO",
-   "organismo": "I MUNICIPALIDAD DE AYSEN",
-   "unidad": "I.MUNICIPALIDAD AYSEN-ADQUISICIONES",
-   "monto": 1900000,
-   "cierre_iso": "2026-11-21T17:30:00-03:00",
-   "publicacion": "20-11 17:10",
-   "publicacion_iso": "2026-11-20T17:10:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "78111803",
-     "Servicios de autobuses contratados",
-     1,
-     "Transporte en minibús con capacidad mínima de 17 pasajeros, 3 viajes ida y regreso desde Plaza de Armas de Puerto Aysén a Reserva Nacional Río Simpson (27, 28 y 29 nov, 09:00 a 13:00 hrs), con disponibilidad exclusiva. Vehículo de máx. 10 años, cinturones en todos los asientos, A/C y/o calefacción operativos. Conductor con licencia profesional vigente. Reemplazo en caso de panne. Reprogramación sin costo por clima o logística, aviso mín. 24 hrs, dentro de diciembre. Documentación según EETT."
-    ],
-    [
-     "80141618",
-     "Agencias de marketing de ventas, incluidas las impresiones",
-     51,
-     "Adquisición de 51 tickets de entrada a la Reserva Nacional Río Simpson, uno por asistente, incluido el equipo ejecutor (17 por salida, 3 salidas: 27, 28 y 29 de noviembre). El municipio entregará la lista de asistentes de cada salida con los datos necesarios para emitir cada ticket. Posterior a cada salida, se debe entregar el ticket o código QR, según corresponda, como medio de verificación para el equipo de PROMOS."
-    ],
-    [
-     "86111604",
-     "Capacitación a empleados",
-     3,
-     "Monitor/a para la ejecución de 3 jornadas de baño de naturaleza o bosque en la Reserva Nacional Río Simpson, los días 27, 28 y 29 de noviembre, de 09:00 a 13:00 hrs, con duración efectiva de a lo menos 2 horas por sesión dentro de la reserva. 17 participantes por salida, incluido el equipo ejecutor, sin restricción de edad. Debe presentar certificado de competencias o experiencia en conexión consciente con la naturaleza o metodología equivalente de bienestar en entornos naturales."
-    ],
-    [
-     "93131607",
-     "Servicios de distribución de alimentos",
-     51,
-     "Adquisición de 51 colaciones individuales parcializadas, con entrega de 17 colaciones en cada salida (27, 28 y 29 de noviembre). Cada bolsa debe contener: 1 jugo o agua sin gas en formato individual, 1 barra de cereal y 1 fruta entera y lavada. Todo dentro de una bolsa individual."
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=2713-1451-COT26",
-   "sin_detalle": false,
-   "descripcion": "Servicio de producción de 3 jornadas de baño de naturaleza en la Reserva Nacional Río Simpson (27, 28 y 29 de noviembre, de 09:00 a 13:00 hrs), con salida y regreso desde la Plaza de Armas de Puerto Aysén. Incluye: monitor/a de baño de naturaleza o bosque; transporte en minibús con capacidad mínima de 17 pasajeros (3 viajes); 51 tickets de entrada a la reserva y 51 colaciones individuales (17 por salida). Monto máximo $1.900.000 IVA incluido. Ver especificaciones técnicas adjuntas.",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
   {
    "tipo": "OPORTUNIDAD",
    "motivos": [
@@ -192,6 +110,41 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=4066-537-COT26",
    "sin_detalle": false,
    "descripcion": "La Ilustre Municipalidad de Río Ibáñez, a través de la Oficina de Cultura, requiere contratar un servicio de producción de evento que contemple amplificación, iluminación y la contratación de una agrupación de música criolla y de un acordeonista con trayectoria y reconocimientos nacionales e internacionales para el Encuentro de Acordeón y Guitarra 2026, a realizarse el sábado 19 de diciembre de 2026 en Puerto Río Tranquilo.",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Inserciones publicitarias en medios"
+   ],
+   "nueva": false,
+   "codigo": "1057062-561-COT26",
+   "nombre": "Servicio de difusión publicitaria y entrevistas en canal de televisión local de Coyhaique",
+   "organismo": "UNIVERSIDAD DE AYSEN",
+   "unidad": "Proyectos",
+   "monto": 4400000,
+   "cierre_iso": "2026-11-22T17:11:00-03:00",
+   "publicacion": "20-11 16:48",
+   "publicacion_iso": "2026-11-20T16:48:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "82101902",
+     "Avisos en televisión",
+     1,
+     "Emisión de un spot de difusión de admisión (de 30 a 45 segundos, provisto por la Universidad) con al menos 3 repeticiones diarias, vigente hasta el 30 de enero. El medio debe ser un canal de televisión local de Coyhaique con señal abierta, señal digital en cableoperador local (ej. VTR) y alcance interregional (ej. TelSur - GTD).Una vez finalizado el servicio, el proveedor deberá remitir los medios de verificación correspondientes que acrediten su cumplimiento, los cuales serán requisito indispen"
+    ],
+    [
+     "82101902",
+     "Avisos en televisión",
+     6,
+     "6 entrevistas con entrevistador/a propio del canal. El medio debe ser un canal de televisión local de Coyhaique con señal abierta, señal digital en cableoperador local (ej. VTR) y alcance interregional (ej. TelSur - GTD)Una vez finalizado el servicio, el proveedor deberá remitir los medios de verificación correspondientes que acrediten su cumplimiento, los cuales serán requisito indispensable para gestionar el pago"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1057062-561-COT26",
+   "sin_detalle": false,
+   "descripcion": "Serv de difusión publicitaria y entrevistas en canal de tv local de Coyhaique, según se detalla en el presente cotizador, el proveedor deberá detallar lo ofertado, indicando el canal de televisión local de Coyahqiue con señal abierta, señal digital en cableoperador local (ej. VTR) y alcance interregional (ej. TelSur - GTD). La vigencia del contrato será hasta el 30 de enero de 2027.Las entrevistas se deben cargar en el canal de youtube del medio, el que debe contar con al menos 10 mil suscripto",
    "en_gracia": false,
    "desaparecida_iso": ""
   },
@@ -758,6 +711,24 @@
   }
  ],
  "historial": [
+  {
+   "codigo": "2713-1451-COT26",
+   "nombre": "Habilitación y optimización de espacios públicos para la vida saludable: baños de naturaleza - Folio 1537 - DIDECO",
+   "organismo": "I MUNICIPALIDAD DE AYSEN",
+   "monto": 1900000,
+   "cierre_iso": "2026-11-21T17:30:00-03:00",
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Ventas y marketing"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=2713-1451-COT26",
+   "primera_vista_iso": "2026-11-20T18:00:24-03:00",
+   "removida_iso": "2026-11-21T18:00:23-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
   {
    "codigo": "3797-549-COT26",
    "nombre": "TOLDO INSTITUCIONAL OLN",
