@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-11-21T18:00:23.004371-03:00",
+ "actualizado": "2026-11-21T19:00:23.655100-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
- "total_region": 268,
+ "total_region": 264,
  "rubros": {
   "25172700": "Aire acondicionado",
   "25173900": "Componentes eléctricos",
@@ -19,35 +19,6 @@
   "39121400": "Conectores, enchufes y terminales"
  },
  "filas": [
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "generador"
-   ],
-   "nueva": true,
-   "codigo": "1286962-85-COT26",
-   "nombre": "DMH SERVICIO DE ARRIENDO DE GENERADOR CENTRO RECREACIONAL \"ALCALDE OSCAR CATALAN SANCHEZ\"",
-   "organismo": "Corporación de Deportes y Recreación de la Municipalidad de Aysén",
-   "unidad": "Corporación de Deportes y Recreación de la Municipalidad de Aysén",
-   "monto": 790000,
-   "cierre_iso": "2026-11-21T18:05:00-03:00",
-   "publicacion": "20-11 18:01",
-   "publicacion_iso": "2026-11-20T18:01:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "26111601",
-     "Generadores diesel",
-     1,
-     "ARRIENDO DE GENERADOR 6.5 kva POR 30 DIAS CORRIDOS PARA EL FUNCIONAMIENTO DEL CENTRO RECREACIONAL \"ALCALDE OSCAR CATALAN SANCHEZ\""
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1286962-85-COT26",
-   "sin_detalle": false,
-   "descripcion": "Se requiere el arriendo de generador para el funcionamiento operativo del Centro Recreacional \"Alcalde Oscar Catalán Sánchez\"",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
   {
    "tipo": "POSIBLE",
    "motivos": [
@@ -955,6 +926,24 @@
  ],
  "historial": [
   {
+   "codigo": "1286962-85-COT26",
+   "nombre": "DMH SERVICIO DE ARRIENDO DE GENERADOR CENTRO RECREACIONAL \"ALCALDE OSCAR CATALAN SANCHEZ\"",
+   "organismo": "Corporación de Deportes y Recreación de la Municipalidad de Aysén",
+   "monto": 790000,
+   "cierre_iso": "2026-11-21T18:05:00-03:00",
+   "tipo": "POSIBLE",
+   "motivos": [
+    "generador"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1286962-85-COT26",
+   "primera_vista_iso": "2026-11-20T19:00:27-03:00",
+   "removida_iso": "2026-11-21T19:00:23-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
+  {
    "codigo": "1538639-19-COT26",
    "nombre": "Servicio de alojamiento, alimentación y traslados en São Paulo – Aysén Day Brasil 2026",
    "organismo": "CORPORACIÓN DE DESARROLLO DEL GOBIERNO REGIONAL DE AYSÉN",
@@ -1274,7 +1263,7 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=3797-542-COT26",
    "primera_vista_iso": "2026-11-18T16:00:26-03:00",
    "removida_iso": "2026-11-19T16:00:25-03:00",
-   "estado_api": null,
+   "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,
    "adj_iso": null
@@ -1330,7 +1319,7 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=2713-1424-COT26",
    "primera_vista_iso": "2026-11-18T12:00:27-03:00",
    "removida_iso": "2026-11-19T14:00:24-03:00",
-   "estado_api": null,
+   "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,
    "adj_iso": null
@@ -1351,7 +1340,7 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=4066-529-COT26",
    "primera_vista_iso": "2026-11-18T12:00:27-03:00",
    "removida_iso": "2026-11-19T13:00:23-03:00",
-   "estado_api": null,
+   "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,
    "adj_iso": null
