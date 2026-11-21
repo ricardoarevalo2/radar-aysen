@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-11-21T15:00:21.882462-03:00",
+ "actualizado": "2026-11-21T16:00:23.808139-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
- "total_region": 288,
+ "total_region": 280,
  "rubros": {
   "80141600": "Ventas y marketing",
   "82101600": "Publicidad en medios no impresos",
@@ -14,35 +14,6 @@
   "83121700": "Comunicación social y de masas"
  },
  "filas": [
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "difusión"
-   ],
-   "nueva": false,
-   "codigo": "3797-549-COT26",
-   "nombre": "TOLDO INSTITUCIONAL OLN",
-   "organismo": "I MUNICIPALIDAD DE COCHRANE",
-   "unidad": "I MUNICIPALIDAD DE COCHRANE",
-   "monto": 100000,
-   "cierre_iso": "2026-11-21T15:26:00-03:00",
-   "publicacion": "19-11 15:13",
-   "publicacion_iso": "2026-11-19T15:13:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "30151901",
-     "Toldos",
-     1,
-     "Toldo plegable tipo araña (acordeón) de 3,00 x 3,00 metros (9 m² de cobertura) con estructura metálica de acero reforzado y recubrimiento anticorrosivo (pintura electrostática negra), tubos exteriores de sección cuadrada de al menos 30 x 30 mm y patas telescópicas regulables en 4 niveles de altura con despliegue rápido sin herramientas; debe incluir cubierta superior de lona textil impermeable de alta densidad (poliéster/Oxford)\n\nDemas consideraciones indicadas en documento adjunto"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=3797-549-COT26",
-   "sin_detalle": false,
-   "descripcion": "En el marco de las actividades desarrolladas por la Oficina Local de la Niñez, se requiere la adquisición de un toldo institucional que permita contar con un espacio adecuado para la ejecución de actividades territoriales, jornadas de difusión y acciones de promoción y prevención de derechos de niños, niñas y adolescentes",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
   {
    "tipo": "OPORTUNIDAD",
    "motivos": [
@@ -787,6 +758,24 @@
   }
  ],
  "historial": [
+  {
+   "codigo": "3797-549-COT26",
+   "nombre": "TOLDO INSTITUCIONAL OLN",
+   "organismo": "I MUNICIPALIDAD DE COCHRANE",
+   "monto": 100000,
+   "cierre_iso": "2026-11-21T15:26:00-03:00",
+   "tipo": "POSIBLE",
+   "motivos": [
+    "difusión"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=3797-549-COT26",
+   "primera_vista_iso": "2026-11-19T15:25:38-03:00",
+   "removida_iso": "2026-11-21T16:00:23-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
   {
    "codigo": "4733-533-COT26",
    "nombre": "DIFUSIÓN",
