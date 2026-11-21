@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-11-21T10:00:24.051466-03:00",
+ "actualizado": "2026-11-21T11:00:29.984418-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
- "total_region": 313,
+ "total_region": 307,
  "rubros": {
   "25172700": "Aire acondicionado",
   "25173900": "Componentes eléctricos",
@@ -53,7 +53,7 @@
    "motivos": [
     "Cajas y accesorios eléctricos"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "1182705-220-COT26",
    "nombre": "ADQUISICION DE FUNGIBLES PARA INSTALACION ELECTRICA, FOLIO N°238",
    "organismo": "CENTRO DE FORMACIÓN TÉCNICA DE LA REGIÓN DE AYSÉN DEL GENERAL CARLOS I",
@@ -123,7 +123,7 @@
    "motivos": [
     "Cables eléctricos y accesorios"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "4644-149-COT26",
    "nombre": "Accesorios Computacionales, Área de Intervención Vivero el Mallín SIC 508 SIRE 475",
    "organismo": "CORP NACIONAL FORESTAL",
@@ -386,7 +386,7 @@
    "motivos": [
     "Cajas y accesorios eléctricos"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "911089-115-COT26",
    "nombre": "ADQUISICION DE MATERIAL ELECTRICO PARA LA VIVIENDA FISCAL UBICADA EN FREIRE 81, COYHAIQUE",
    "organismo": "Zona de Bienestar \"Coyhaique\"",
@@ -892,7 +892,7 @@
    "motivos": [
     "electricidad"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "1079689-564-COT26",
    "nombre": "ADQUISICIÓN DE IMPLEMENTOS DE SEGURIDAD PARA EL PERSONAL DE MANTENIMIENTO DE CUARTELES, SERVET Y ÁREA TALLER MECÁNICO DE LA SECCIÓN LOGÍSTICA DEL DEAOPERPOL AYSÉN.",
    "organismo": "SECCIÓN COMPRAS XI ZONA",
