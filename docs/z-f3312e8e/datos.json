@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-11-21T12:00:23.580516-03:00",
+ "actualizado": "2026-11-21T13:00:24.075896-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
- "total_region": 298,
+ "total_region": 294,
  "rubros": {
   "25172700": "Aire acondicionado",
   "25173900": "Componentes eléctricos",
@@ -211,7 +211,7 @@
    "motivos": [
     "iluminación"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "4066-537-COT26",
    "nombre": "SERVICIO DE PRODUCCIÓN DE EVENTO CON AMPLIFICACIÓN Y PRESENTACIÓN MUSICAL ENCUENTRO DE ACORDEÓN Y GUITARRA 2026, según TDR adjuntos.",
    "organismo": "I MUNICIPALIDAD RIO IBANEZ",
@@ -793,7 +793,7 @@
    "motivos": [
     "ampolletas"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "2500-89-COT26",
    "nombre": "ADQUISICION AMPOLLETAS LED CLASICA, FLETE INCLUIDO",
    "organismo": "I MUNICIPALIDAD DE COYHAIQUE",
