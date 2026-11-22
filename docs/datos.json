@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-22T16:00:26.188864-03:00",
+ "actualizado": "2026-11-22T17:00:25.927726-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
  "total_region": 244,
@@ -449,6 +449,35 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=1758-300-COT26",
    "sin_detalle": false,
    "descripcion": "SE REQUIERE CONTRATAR SERVICIO DE  MAQILLAJE ARTISTICO \"PINTACARITAS\" EN EL MARCO DIFUSION DEL PLAN CHILE APRENDE Y AVANZA DEL MINISTERIO DE EDUCACION A REALIZARSE EL 28 DE NOVIEMBRE EN BYPASS DE LA CIUDAD DE COYHAIQUE.",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Ventas y marketing"
+   ],
+   "nueva": true,
+   "codigo": "1057062-565-COT26",
+   "nombre": "Servicio de difusión de contenidos, entrevistas y banner en medio digital.",
+   "organismo": "UNIVERSIDAD DE AYSEN",
+   "unidad": "Proyectos",
+   "monto": 1050000,
+   "cierre_iso": "2026-11-23T16:30:00-03:00",
+   "publicacion": "22-11 16:14",
+   "publicacion_iso": "2026-11-22T16:14:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "80141612",
+     "Campañas publicitarias o de marketing",
+     1,
+     "Servicio de difusión con vigencia hasta el 30 de enero que incluye: 2 publicaciones semanales en sitio web y redes sociales; al menos 1 reel semanal; historias semanales sin límite predeterminado; 1 banner web permanente (formato vertical y/o pop-up); 1 entrevista mensual en estudio o terreno; y apoyo en redacción, adaptación gráfica y difusión. El medio digital debe contar con sitio web y acreditar al menos 160 mil seguidores en Facebook y 50 mil seguidores en Instagram."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1057062-565-COT26",
+   "sin_detalle": false,
+   "descripcion": "Servicio de difusión con vigencia hasta el 30 de enero 2027, según se detalla en el presente cotizador, Proveedor debe adjuntar lo ofertado, e indicar el Medio digital Regional de Aysén, enfocado 100% a información regional, que incluya sitio web, Instagram y Facebook, debe indicar el sitio web, el cual debe contener noticias y espacio publicitario. Una vez finalizado el servicio, el proveedor deberá remitir los medios de verificación correspondientes",
    "en_gracia": false,
    "desaparecida_iso": ""
   },
@@ -1228,7 +1257,7 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=2494-303-COT26",
    "primera_vista_iso": "2026-11-17T11:00:24-03:00",
    "removida_iso": "2026-11-19T13:00:23-03:00",
-   "estado_api": null,
+   "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,
    "adj_iso": null
@@ -1246,7 +1275,7 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=2713-1404-COT26",
    "primera_vista_iso": "2026-11-16T18:00:29-03:00",
    "removida_iso": "2026-11-19T12:00:30-03:00",
-   "estado_api": null,
+   "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,
    "adj_iso": null
@@ -1284,7 +1313,7 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=2713-1405-COT26",
    "primera_vista_iso": "2026-11-17T11:00:24-03:00",
    "removida_iso": "2026-11-19T09:00:33-03:00",
-   "estado_api": null,
+   "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,
    "adj_iso": null
@@ -1903,7 +1932,7 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=2494-301-COT26",
    "primera_vista_iso": "2026-11-17T10:00:28-03:00",
    "removida_iso": "2026-11-20T21:00:23-03:00",
-   "estado_api": null,
+   "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,
    "adj_iso": null
@@ -1921,7 +1950,7 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=1201-206-COT26",
    "primera_vista_iso": "2026-11-17T12:00:27-03:00",
    "removida_iso": "2026-11-19T10:00:24-03:00",
-   "estado_api": null,
+   "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,
    "adj_iso": null
