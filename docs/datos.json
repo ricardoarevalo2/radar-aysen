@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-22T09:00:24.718269-03:00",
+ "actualizado": "2026-11-22T10:00:23.711383-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
  "total_region": 256,
@@ -14,35 +14,6 @@
   "83121700": "Comunicación social y de masas"
  },
  "filas": [
-  {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Ventas y marketing"
-   ],
-   "nueva": false,
-   "codigo": "4066-537-COT26",
-   "nombre": "SERVICIO DE PRODUCCIÓN DE EVENTO CON AMPLIFICACIÓN Y PRESENTACIÓN MUSICAL ENCUENTRO DE ACORDEÓN Y GUITARRA 2026, según TDR adjuntos.",
-   "organismo": "I MUNICIPALIDAD RIO IBANEZ",
-   "unidad": "DIDECO",
-   "monto": 2000000,
-   "cierre_iso": "2026-11-22T09:00:00-03:00",
-   "publicacion": "20-11 11:45",
-   "publicacion_iso": "2026-11-20T11:45:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "80141607",
-     "Producción de eventos",
-     1,
-     "SERVICIO DE PRODUCCIÓN DE EVENTO CON AMPLIFICACIÓN Y PRESENTACIÓN MUSICAL ENCUENTRO DE ACORDEÓN Y GUITARRA 2026, según TDR adjuntos."
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=4066-537-COT26",
-   "sin_detalle": false,
-   "descripcion": "La Ilustre Municipalidad de Río Ibáñez, a través de la Oficina de Cultura, requiere contratar un servicio de producción de evento que contemple amplificación, iluminación y la contratación de una agrupación de música criolla y de un acordeonista con trayectoria y reconocimientos nacionales e internacionales para el Encuentro de Acordeón y Guitarra 2026, a realizarse el sábado 19 de diciembre de 2026 en Puerto Río Tranquilo.",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
   {
    "tipo": "OPORTUNIDAD",
    "motivos": [
@@ -478,6 +449,35 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=1758-300-COT26",
    "sin_detalle": false,
    "descripcion": "SE REQUIERE CONTRATAR SERVICIO DE  MAQILLAJE ARTISTICO \"PINTACARITAS\" EN EL MARCO DIFUSION DEL PLAN CHILE APRENDE Y AVANZA DEL MINISTERIO DE EDUCACION A REALIZARSE EL 28 DE NOVIEMBRE EN BYPASS DE LA CIUDAD DE COYHAIQUE.",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Ventas y marketing"
+   ],
+   "nueva": false,
+   "codigo": "4066-537-COT26",
+   "nombre": "SERVICIO DE PRODUCCIÓN DE EVENTO CON AMPLIFICACIÓN Y PRESENTACIÓN MUSICAL ENCUENTRO DE ACORDEÓN Y GUITARRA 2026, según TDR adjuntos.",
+   "organismo": "I MUNICIPALIDAD RIO IBANEZ",
+   "unidad": "DIDECO",
+   "monto": 2000000,
+   "cierre_iso": "2026-11-24T06:14:00-03:00",
+   "publicacion": "20-11 11:45",
+   "publicacion_iso": "2026-11-20T11:45:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "80141607",
+     "Producción de eventos",
+     1,
+     "SERVICIO DE PRODUCCIÓN DE EVENTO CON AMPLIFICACIÓN Y PRESENTACIÓN MUSICAL ENCUENTRO DE ACORDEÓN Y GUITARRA 2026, según TDR adjuntos."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=4066-537-COT26",
+   "sin_detalle": false,
+   "descripcion": "La Ilustre Municipalidad de Río Ibáñez, a través de la Oficina de Cultura, requiere contratar un servicio de producción de evento que contemple amplificación, iluminación y la contratación de una agrupación de música criolla y de un acordeonista con trayectoria y reconocimientos nacionales e internacionales para el Encuentro de Acordeón y Guitarra 2026, a realizarse el sábado 19 de diciembre de 2026 en Puerto Río Tranquilo.",
    "en_gracia": false,
    "desaparecida_iso": ""
   },
@@ -1903,24 +1903,6 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=1182705-206-COT26",
    "primera_vista_iso": "2026-11-13T13:00:24-03:00",
    "removida_iso": "2026-11-15T13:00:29-03:00",
-   "estado_api": "",
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "2495-657-COT26",
-   "nombre": "SERVICIO DE COFFEE BREAK AM Y AGENDA MÁS LAPIZ PARA SEMINARIO MESA RAV - 60 PERSONAS ",
-   "organismo": "I MUNICIPALIDAD DE COYHAIQUE",
-   "monto": 900000,
-   "cierre_iso": "2026-11-15T10:00:00-03:00",
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Ventas y marketing"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=2495-657-COT26",
-   "primera_vista_iso": "2026-11-13T12:00:25-03:00",
-   "removida_iso": "2026-11-15T11:00:23-03:00",
    "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,

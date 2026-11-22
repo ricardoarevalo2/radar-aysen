@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-22T09:00:24.718269-03:00",
+ "actualizado": "2026-11-22T10:00:23.711383-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
  "total_region": 256,
@@ -19,35 +19,6 @@
   "39121400": "Conectores, enchufes y terminales"
  },
  "filas": [
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "iluminación"
-   ],
-   "nueva": false,
-   "codigo": "4066-537-COT26",
-   "nombre": "SERVICIO DE PRODUCCIÓN DE EVENTO CON AMPLIFICACIÓN Y PRESENTACIÓN MUSICAL ENCUENTRO DE ACORDEÓN Y GUITARRA 2026, según TDR adjuntos.",
-   "organismo": "I MUNICIPALIDAD RIO IBANEZ",
-   "unidad": "DIDECO",
-   "monto": 2000000,
-   "cierre_iso": "2026-11-22T09:00:00-03:00",
-   "publicacion": "20-11 11:45",
-   "publicacion_iso": "2026-11-20T11:45:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "80141607",
-     "Producción de eventos",
-     1,
-     "SERVICIO DE PRODUCCIÓN DE EVENTO CON AMPLIFICACIÓN Y PRESENTACIÓN MUSICAL ENCUENTRO DE ACORDEÓN Y GUITARRA 2026, según TDR adjuntos."
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=4066-537-COT26",
-   "sin_detalle": false,
-   "descripcion": "La Ilustre Municipalidad de Río Ibáñez, a través de la Oficina de Cultura, requiere contratar un servicio de producción de evento que contemple amplificación, iluminación y la contratación de una agrupación de música criolla y de un acordeonista con trayectoria y reconocimientos nacionales e internacionales para el Encuentro de Acordeón y Guitarra 2026, a realizarse el sábado 19 de diciembre de 2026 en Puerto Río Tranquilo.",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
   {
    "tipo": "POSIBLE",
    "motivos": [
@@ -710,6 +681,35 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=1079689-564-COT26",
    "sin_detalle": false,
    "descripcion": "ADQUISICIÓN DE IMPLEMENTOS DE SEGURIDAD PARA EL PERSONAL DE MANTENIMIENTO DE CUARTELES, SERVET Y TALLER MECÁNICO DE LA SECCIÓN LOGÍSTICA DEL DEAOPERPOL AYSÉN. CON ENTREGA A DOMICILIO Y/O RETIRO EN TIENDA EN LA CIUDAD DE COYHAIQUE, INDICAR PLAZO DE ENTREGA Y ADJUNTAR COTIZACIÓN. DE NO INDICAR PLAZO DE ENTREGA NI ADJUNTAR COTIZACIÓN, NO SERÁ EVALUADO.",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "iluminación"
+   ],
+   "nueva": false,
+   "codigo": "4066-537-COT26",
+   "nombre": "SERVICIO DE PRODUCCIÓN DE EVENTO CON AMPLIFICACIÓN Y PRESENTACIÓN MUSICAL ENCUENTRO DE ACORDEÓN Y GUITARRA 2026, según TDR adjuntos.",
+   "organismo": "I MUNICIPALIDAD RIO IBANEZ",
+   "unidad": "DIDECO",
+   "monto": 2000000,
+   "cierre_iso": "2026-11-24T06:14:00-03:00",
+   "publicacion": "20-11 11:45",
+   "publicacion_iso": "2026-11-20T11:45:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "80141607",
+     "Producción de eventos",
+     1,
+     "SERVICIO DE PRODUCCIÓN DE EVENTO CON AMPLIFICACIÓN Y PRESENTACIÓN MUSICAL ENCUENTRO DE ACORDEÓN Y GUITARRA 2026, según TDR adjuntos."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=4066-537-COT26",
+   "sin_detalle": false,
+   "descripcion": "La Ilustre Municipalidad de Río Ibáñez, a través de la Oficina de Cultura, requiere contratar un servicio de producción de evento que contemple amplificación, iluminación y la contratación de una agrupación de música criolla y de un acordeonista con trayectoria y reconocimientos nacionales e internacionales para el Encuentro de Acordeón y Guitarra 2026, a realizarse el sábado 19 de diciembre de 2026 en Puerto Río Tranquilo.",
    "en_gracia": false,
    "desaparecida_iso": ""
   },
@@ -1830,24 +1830,6 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=4066-508-COT26",
    "primera_vista_iso": "2026-11-12T19:00:24-03:00",
    "removida_iso": "2026-11-15T15:00:24-03:00",
-   "estado_api": "",
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "4778-376-COT26",
-   "nombre": " REC- SOLICITUD N° 10135-MEL- MEJORAMIEN ENTORNO LABORAL - DEBE INCLUIR DESPACHO",
-   "organismo": "SERVICIO NACIONAL DE SALUD HOSPITAL DE C",
-   "monto": 2979120,
-   "cierre_iso": "2026-11-15T09:24:00-03:00",
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Cajas y accesorios eléctricos"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=4778-376-COT26",
-   "primera_vista_iso": "2026-11-05T19:47:37-03:00",
-   "removida_iso": "2026-11-15T10:00:28-03:00",
    "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,
