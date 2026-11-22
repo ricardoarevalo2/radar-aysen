@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-11-22T18:00:25.250823-03:00",
+ "actualizado": "2026-11-22T19:00:24.187643-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
- "total_region": 240,
+ "total_region": 239,
  "rubros": {
   "80141600": "Ventas y marketing",
   "82101600": "Publicidad en medios no impresos",
@@ -14,47 +14,6 @@
   "83121700": "Comunicación social y de masas"
  },
  "filas": [
-  {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Ventas y marketing"
-   ],
-   "nueva": false,
-   "codigo": "2713-1452-COT26",
-   "nombre": "Servicio de producción y desarrollo de la actividad “One Song \" Folio 1517",
-   "organismo": "I MUNICIPALIDAD DE AYSEN",
-   "unidad": "I.MUNICIPALIDAD AYSEN-ADQUISICIONES",
-   "monto": 400000,
-   "cierre_iso": "2026-11-22T18:18:00-03:00",
-   "publicacion": "20-11 18:01",
-   "publicacion_iso": "2026-11-20T18:01:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "80141607",
-     "Producción de eventos",
-     1,
-     "Planificación y ejecución del taller “One Song – Taller de Canto”, Puerto Aysén, según Anexo Técnico: preparación metodológica y 2 jornadas formativas presenciales de 2 horas cronológicas para niños, niñas y adolescentes. Viernes 27 de noviembre: jornada teórico-formativa (introducción al canto, respiración, técnica vocal básica). Sábado 28 de noviembre: jornada práctica (aprendizaje de una canción, armonización vocal y ensayo)."
-    ],
-    [
-     "80141607",
-     "Producción de eventos",
-     1,
-     "Preparación, coordinación y dirección de la presentación coral colectiva de cierre del taller “One Song – Taller de Canto”, de aproximadamente 20 minutos, con los participantes del taller, el domingo 29 de noviembre en Puerto Aysén, según Anexo Técnico. Incluye la coordinación de la prueba de sonido con la contraparte técnica."
-    ],
-    [
-     "80141607",
-     "Producción de eventos",
-     1,
-     "Registro audiovisual de la presentación final del taller “One Song – Taller de Canto” (29 de noviembre), entregado en formato digital apto para reproducción y difusión, dentro de 5 días hábiles desde la presentación, según Anexo Técnico. Los equipos y medios de registro son de cargo del proveedor."
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=2713-1452-COT26",
-   "sin_detalle": false,
-   "descripcion": "Contratación de profesional y/o artista del área musical para planificar y ejecutar el taller presencial “One Song – Taller de Canto”, dirigido a niños, niñas y adolescentes en Puerto Aysén: 2 jornadas formativas de 2 horas (27 y 28 de noviembre), dirección de presentación coral final de 20 min (29 de noviembre) y registro audiovisual. Valorizar cada componente por separado (taller, presentación y registro). Se exige certificado de inhabilidades para trabajar con menores. Ver Anexo Técnico.",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
   {
    "tipo": "POSIBLE",
    "motivos": [
@@ -593,6 +552,35 @@
    "desaparecida_iso": ""
   },
   {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Ventas y marketing"
+   ],
+   "nueva": true,
+   "codigo": "4066-535-COT26",
+   "nombre": "SERVICIO INTEGRAL DE PRODUCCIÓN Y ALIMENTACIÓN PARA EL DÍA DEL TURISMO EN VILLA CERRO CASTILLO, COD. BIP 40066883-0",
+   "organismo": "I MUNICIPALIDAD RIO IBANEZ",
+   "unidad": "DIDECO",
+   "monto": 7150000,
+   "cierre_iso": "2026-11-24T18:34:00-03:00",
+   "publicacion": "19-11 17:28",
+   "publicacion_iso": "2026-11-19T17:28:00-03:00",
+   "ofertas": 1,
+   "productos": [
+    [
+     "80141607",
+     "Producción de eventos",
+     1,
+     "Servicio integral para hasta 80 personas, viernes 27 de noviembre de 2026, de 17:00 a 21:00 horas, en la Sede Comunitaria de Villa Cerro Castillo: 8 corderos cocidos en el lugar (leña y asadores) con acompañamientos y bebestibles sin alcohol; vajilla, mesas, sillas, manteles y garzones; decoración y ambientación; audio y música ambiental; 10 reconocimientos; limpieza y orden de la sede. Detalle completo en el TDR adjunto y anexos."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=4066-535-COT26",
+   "sin_detalle": false,
+   "descripcion": "Servicio integral para el Día del Turismo en Villa Cerro Castillo: viernes 27 de noviembre de 2026, de 17:00 a 21:00 horas, en la Sede Comunitaria. Incluye cocción y servicio de 8 corderos con acompañamientos y bebestibles sin alcohol para hasta 80 personas, servicio de mesa y garzones, decoración, audio, 10 reconocimientos y limpieza de la sede. Presupuesto $7.150.000, impuesto incluido. Ver TDR y Formatos N°1, N°2 y N°3 adjuntos.",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
    "tipo": "POSIBLE",
    "motivos": [
     "avisos",
@@ -648,6 +636,24 @@
  ],
  "historial": [
   {
+   "codigo": "2713-1452-COT26",
+   "nombre": "Servicio de producción y desarrollo de la actividad “One Song \" Folio 1517",
+   "organismo": "I MUNICIPALIDAD DE AYSEN",
+   "monto": 400000,
+   "cierre_iso": "2026-11-22T18:18:00-03:00",
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Ventas y marketing"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=2713-1452-COT26",
+   "primera_vista_iso": "2026-11-20T19:00:27-03:00",
+   "removida_iso": "2026-11-22T19:00:24-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
+  {
    "codigo": "1057062-561-COT26",
    "nombre": "Servicio de difusión publicitaria y entrevistas en canal de televisión local de Coyhaique",
    "organismo": "UNIVERSIDAD DE AYSEN",
@@ -660,24 +666,6 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=1057062-561-COT26",
    "primera_vista_iso": "2026-11-20T17:00:37-03:00",
    "removida_iso": "2026-11-22T18:00:25-03:00",
-   "estado_api": null,
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "4066-535-COT26",
-   "nombre": "SERVICIO INTEGRAL DE PRODUCCIÓN Y ALIMENTACIÓN PARA EL DÍA DEL TURISMO EN VILLA CERRO CASTILLO, COD. BIP 40066883-0",
-   "organismo": "I MUNICIPALIDAD RIO IBANEZ",
-   "monto": 7150000,
-   "cierre_iso": "2026-11-21T18:00:00-03:00",
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Ventas y marketing"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=4066-535-COT26",
-   "primera_vista_iso": "2026-11-19T18:00:24-03:00",
-   "removida_iso": "2026-11-21T19:00:23-03:00",
    "estado_api": null,
    "adj_nombre": null,
    "adj_monto": null,
