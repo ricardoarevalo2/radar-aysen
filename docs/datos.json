@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-11-22T12:00:23.269657-03:00",
+ "actualizado": "2026-11-22T13:00:24.861714-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
- "total_region": 253,
+ "total_region": 250,
  "rubros": {
   "80141600": "Ventas y marketing",
   "82101600": "Publicidad en medios no impresos",
@@ -1885,24 +1885,6 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=1182705-210-COT26",
    "primera_vista_iso": "2026-11-13T15:00:24-03:00",
    "removida_iso": "2026-11-15T15:00:24-03:00",
-   "estado_api": "",
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "1182705-206-COT26",
-   "nombre": "ADQUISICION DE SERVICIO DE IMPRENSION Y PLOTEO, FOLIO N°223 VCM",
-   "organismo": "CENTRO DE FORMACIÓN TÉCNICA DE LA REGIÓN DE AYSÉN DEL GENERAL CARLOS I",
-   "monto": 699000,
-   "cierre_iso": "2026-11-15T12:43:00-03:00",
-   "tipo": "POSIBLE",
-   "motivos": [
-    "publicitaria"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1182705-206-COT26",
-   "primera_vista_iso": "2026-11-13T13:00:24-03:00",
-   "removida_iso": "2026-11-15T13:00:29-03:00",
    "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,
