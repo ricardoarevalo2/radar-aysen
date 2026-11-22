@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-11-22T17:00:25.927726-03:00",
+ "actualizado": "2026-11-22T18:00:25.250823-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
- "total_region": 244,
+ "total_region": 240,
  "rubros": {
   "80141600": "Ventas y marketing",
   "82101600": "Publicidad en medios no impresos",
@@ -14,41 +14,6 @@
   "83121700": "Comunicación social y de masas"
  },
  "filas": [
-  {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Inserciones publicitarias en medios"
-   ],
-   "nueva": false,
-   "codigo": "1057062-561-COT26",
-   "nombre": "Servicio de difusión publicitaria y entrevistas en canal de televisión local de Coyhaique",
-   "organismo": "UNIVERSIDAD DE AYSEN",
-   "unidad": "Proyectos",
-   "monto": 4400000,
-   "cierre_iso": "2026-11-22T17:11:00-03:00",
-   "publicacion": "20-11 16:48",
-   "publicacion_iso": "2026-11-20T16:48:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "82101902",
-     "Avisos en televisión",
-     1,
-     "Emisión de un spot de difusión de admisión (de 30 a 45 segundos, provisto por la Universidad) con al menos 3 repeticiones diarias, vigente hasta el 30 de enero. El medio debe ser un canal de televisión local de Coyhaique con señal abierta, señal digital en cableoperador local (ej. VTR) y alcance interregional (ej. TelSur - GTD).Una vez finalizado el servicio, el proveedor deberá remitir los medios de verificación correspondientes que acrediten su cumplimiento, los cuales serán requisito indispen"
-    ],
-    [
-     "82101902",
-     "Avisos en televisión",
-     6,
-     "6 entrevistas con entrevistador/a propio del canal. El medio debe ser un canal de televisión local de Coyhaique con señal abierta, señal digital en cableoperador local (ej. VTR) y alcance interregional (ej. TelSur - GTD)Una vez finalizado el servicio, el proveedor deberá remitir los medios de verificación correspondientes que acrediten su cumplimiento, los cuales serán requisito indispensable para gestionar el pago"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1057062-561-COT26",
-   "sin_detalle": false,
-   "descripcion": "Serv de difusión publicitaria y entrevistas en canal de tv local de Coyhaique, según se detalla en el presente cotizador, el proveedor deberá detallar lo ofertado, indicando el canal de televisión local de Coyahqiue con señal abierta, señal digital en cableoperador local (ej. VTR) y alcance interregional (ej. TelSur - GTD). La vigencia del contrato será hasta el 30 de enero de 2027.Las entrevistas se deben cargar en el canal de youtube del medio, el que debe contar con al menos 10 mil suscripto",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
   {
    "tipo": "OPORTUNIDAD",
    "motivos": [
@@ -679,38 +644,27 @@
    "descripcion": "Es necesario cumplir con el Art.11 del D.L. N°2695/79, referido a publicidad del saneamiento de inmueble. Se requiere contratar la publicación digital de 17 avisos correspondientes a 2 veces o publicaciones por beneficiario o expediente, las cuales se harán indistintamente los días 1 y 15 del mes o en la edición inmediatamente siguiente si el diario o periódico no se publicare en los días indicados. Plazo de ejecución 252 días hábiles. Revisar documento adjunto para selección de proveedor.",
    "en_gracia": true,
    "desaparecida_iso": "2026-11-17T17:00:24-03:00"
-  },
-  {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Ventas y marketing"
-   ],
-   "nueva": false,
-   "codigo": "4609-322-COT26",
-   "nombre": "SERVICIO DE PRODUCCION TECNICA",
-   "organismo": "",
-   "unidad": "",
-   "monto": null,
-   "cierre_iso": "",
-   "publicacion": "",
-   "publicacion_iso": "",
-   "ofertas": 0,
-   "productos": [
-    [
-     "80141607",
-     "Producción de eventos",
-     1,
-     "SERVICIO DE PRODUCCION TECNICA PARA ENCUENTRO FOLCLORICO CHILE CHICO 2026. (Detalle archivos adjunto)."
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=4609-322-COT26",
-   "sin_detalle": false,
-   "descripcion": "COTIZACION SERVICIO DE PRODUCCION TECNICA - ENCUENTRO FOLCLORICO CHILE CHICO",
-   "en_gracia": true,
-   "desaparecida_iso": "2026-11-20T14:54:44-03:00"
   }
  ],
  "historial": [
+  {
+   "codigo": "1057062-561-COT26",
+   "nombre": "Servicio de difusión publicitaria y entrevistas en canal de televisión local de Coyhaique",
+   "organismo": "UNIVERSIDAD DE AYSEN",
+   "monto": 4400000,
+   "cierre_iso": "2026-11-22T17:11:00-03:00",
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Inserciones publicitarias en medios"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1057062-561-COT26",
+   "primera_vista_iso": "2026-11-20T17:00:37-03:00",
+   "removida_iso": "2026-11-22T18:00:25-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
   {
    "codigo": "4066-535-COT26",
    "nombre": "SERVICIO INTEGRAL DE PRODUCCIÓN Y ALIMENTACIÓN PARA EL DÍA DEL TURISMO EN VILLA CERRO CASTILLO, COD. BIP 40066883-0",
@@ -1951,6 +1905,24 @@
    "primera_vista_iso": "2026-11-17T12:00:27-03:00",
    "removida_iso": "2026-11-19T10:00:24-03:00",
    "estado_api": "",
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
+  {
+   "codigo": "4609-322-COT26",
+   "nombre": "SERVICIO DE PRODUCCION TECNICA",
+   "organismo": "",
+   "monto": null,
+   "cierre_iso": "",
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Ventas y marketing"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=4609-322-COT26",
+   "primera_vista_iso": "2026-11-18T12:00:27-03:00",
+   "removida_iso": "2026-11-22T18:00:25-03:00",
+   "estado_api": null,
    "adj_nombre": null,
    "adj_monto": null,
    "adj_iso": null
