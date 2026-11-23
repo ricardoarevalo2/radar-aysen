@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-11-23T18:00:25.910069-03:00",
+ "actualizado": "2026-11-23T18:34:52.362818-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
- "total_region": 269,
+ "total_region": 270,
  "rubros": {
   "80141600": "Ventas y marketing",
   "82101600": "Publicidad en medios no impresos",
@@ -472,6 +472,53 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=2713-1466-COT26",
    "sin_detalle": false,
    "descripcion": "Contratación de dos espacios radiales de 40 minutos del programa \"Hablemos de Violencia de Género\", del Programa Atención Inicial de las Violencias de Género (Centro de las Mujeres, DIDECO). Incluye transmisión en vivo por radio y simultánea por YouTube Live y Facebook Live, y grabación disponible en formato digital. Se difundirá la oferta del Centro, las actividades del 25N y el Espacio Violeta. Emisiones: 25 y 30/11/2026 (fechas ajustables según disponibilidad). Ver especificaciones técnicas.",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Ventas y marketing"
+   ],
+   "nueva": true,
+   "codigo": "2713-1468-COT26",
+   "nombre": " Servicio de producción artística y mediación cultural para Borde Cultural – «Entre pluma, papel y acordes - Folio 1538",
+   "organismo": "I MUNICIPALIDAD DE AYSEN",
+   "unidad": "I.MUNICIPALIDAD AYSEN-ADQUISICIONES",
+   "monto": 6000000,
+   "cierre_iso": "2026-11-24T18:15:00-03:00",
+   "publicacion": "23-11 18:10",
+   "publicacion_iso": "2026-11-23T18:10:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "60131003",
+     "Órganos musicales",
+     1,
+     "Danza y saxofón: Una presentación presencial de danza y saxofón en vivo, con interacción entre ambos intérpretes y una propuesta vinculada a la literatura o a la cultura local. Informar duración en la oferta."
+    ],
+    [
+     "80141607",
+     "Producción de eventos",
+     1,
+     "Narración con música: Una función presencial de cuentacuentos para niñeces y familias, con narración oral y acompañamiento musical integrado al relato. Duración mínima de 30 minutos. Incluye los materiales y recursos sonoros propios de la función."
+    ],
+    [
+     "80141607",
+     "Producción de eventos",
+     1,
+     "Talleres de lettering y escritura creativa: Dos talleres presenciales en una misma jornada. El primero será de lettering y durará 60 minutos. El segundo será de escritura creativa y dibujo e incluirá un panel participativo. La oferta indicará duración del segundo taller, capacidad y materiales incluidos para ambos."
+    ],
+    [
+     "80141607",
+     "Producción de eventos",
+     1,
+     "Presentación teatral: Una presentación presencial de mimo, con interacción con el público y una duración mínima de 45 minutos."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=2713-1468-COT26",
+   "sin_detalle": false,
+   "descripcion": "Producción de cuatro prestaciones artísticas y de mediación lectora: danza y saxofón en vivo, cuentacuentos con música, talleres de lettering y escritura creativa, y presentación de mimo. Actividad abierta y gratuita, 27, 28 y 29 de noviembre de 2026, de 10:00 a 20:00 hrs, en Puerto Aysén. Precio incluye coordinación, honorarios, traslados, alimentación y materiales. Adjuntar propuesta técnica por prestación (descripción, duración, requerimientos y precio). Ver especificaciones adjuntas",
    "en_gracia": false,
    "desaparecida_iso": ""
   },
