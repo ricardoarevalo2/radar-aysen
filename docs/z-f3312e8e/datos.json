@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-11-23T11:00:28.497959-03:00",
+ "actualizado": "2026-11-23T12:00:25.229236-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
- "total_region": 223,
+ "total_region": 234,
  "rubros": {
   "25172700": "Aire acondicionado",
   "25173900": "Componentes eléctricos",
@@ -19,41 +19,6 @@
   "39121400": "Conectores, enchufes y terminales"
  },
  "filas": [
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "eléctrico"
-   ],
-   "nueva": false,
-   "codigo": "907-109-COT26",
-   "nombre": "MAO Adquisición enseres Oficina Coyhaique ",
-   "organismo": "SERVICIO AGRICOLA Y GANADERO",
-   "unidad": "SAG - Aysen",
-   "monto": 438980,
-   "cierre_iso": "2026-11-23T11:00:00-03:00",
-   "publicacion": "20-11 16:26",
-   "publicacion_iso": "2026-11-20T16:26:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "49121502",
-     "Colchones de espuma",
-     1,
-     "Colchón 1 ½ plaza: debe tener firmeza, Resortes ensacados (o pocket) o Espuma viscoelástica (Memory Foam) o Látex."
-    ],
-    [
-     "52152010",
-     "Termos domésticos",
-     1,
-     "Termo eléctrico: Capacidad: 100 Litros, Potencia: Mínimo 1.500W (idealmente 2.000W para recuperación rápida), Resistencia: Blindada."
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=907-109-COT26",
-   "sin_detalle": false,
-   "descripcion": "1)Termo eléctrico: Capacidad: 100 Litros, Potencia: Mínimo 1.500W (idealmente 2.000W para recuperación rápida), Resistencia: Blindada. b) Colchón 1 ½ plaza: debe tener firmeza, Resortes ensacados (o pocket) o Espuma viscoelástica (Memory Foam) o Látex.",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
   {
    "tipo": "POSIBLE",
    "motivos": [
@@ -858,6 +823,24 @@
   }
  ],
  "historial": [
+  {
+   "codigo": "907-109-COT26",
+   "nombre": "MAO Adquisición enseres Oficina Coyhaique ",
+   "organismo": "SERVICIO AGRICOLA Y GANADERO",
+   "monto": 438980,
+   "cierre_iso": "2026-11-23T11:00:00-03:00",
+   "tipo": "POSIBLE",
+   "motivos": [
+    "eléctrico"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=907-109-COT26",
+   "primera_vista_iso": "2026-11-20T17:00:37-03:00",
+   "removida_iso": "2026-11-23T12:00:25-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
   {
    "codigo": "3791-1200-COT26",
    "nombre": "EPP AREAS VERDES",
