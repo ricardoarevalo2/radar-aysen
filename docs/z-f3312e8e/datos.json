@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-11-23T14:00:23.561474-03:00",
+ "actualizado": "2026-11-23T15:00:23.381737-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
- "total_region": 228,
+ "total_region": 232,
  "rubros": {
   "25172700": "Aire acondicionado",
   "25173900": "Componentes eléctricos",
@@ -1746,42 +1746,6 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=4626-37-COT26",
    "primera_vista_iso": "2026-11-13T13:00:24-03:00",
    "removida_iso": "2026-11-16T16:44:10-03:00",
-   "estado_api": "",
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "930039-37-COT26",
-   "nombre": "REPARACIÓN DE RED HÚMEDA",
-   "organismo": "SERVICIO NACIONAL DEL PATRIMONIO CULTURAL",
-   "monto": 3500000,
-   "cierre_iso": "2026-11-16T15:00:00-03:00",
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Gasfitería, calefacción y aire acondicionado"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=930039-37-COT26",
-   "primera_vista_iso": "2026-11-13T11:00:25-03:00",
-   "removida_iso": "2026-11-16T16:00:40-03:00",
-   "estado_api": "",
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "1485465-45-COT26",
-   "nombre": "Equipo técnico de sonido Municipalidad O’Higgins",
-   "organismo": "I. Municipalidad de O'Higgins ",
-   "monto": 7200000,
-   "cierre_iso": "2026-11-16T15:00:00-03:00",
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Suministros y accesorios eléctricos"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1485465-45-COT26",
-   "primera_vista_iso": "2026-11-13T17:00:27-03:00",
-   "removida_iso": "2026-11-16T16:00:40-03:00",
    "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,

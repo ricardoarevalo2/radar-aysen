@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-11-23T14:00:23.561474-03:00",
+ "actualizado": "2026-11-23T15:00:23.381737-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
- "total_region": 228,
+ "total_region": 232,
  "rubros": {
   "80141600": "Ventas y marketing",
   "82101600": "Publicidad en medios no impresos",
@@ -543,29 +543,6 @@
    "desaparecida_iso": ""
   },
   {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "avisos",
-    "publicidad"
-   ],
-   "nueva": false,
-   "codigo": "682-21-COT26",
-   "nombre": "CONTRATACIÓN DE SERVICIOS DE PUBLICACIÓN, SANEAMIENTOS D.L. N° 2695/79",
-   "organismo": "",
-   "unidad": "",
-   "monto": null,
-   "cierre_iso": "",
-   "publicacion": "",
-   "publicacion_iso": "",
-   "ofertas": 0,
-   "productos": [],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=682-21-COT26",
-   "sin_detalle": false,
-   "descripcion": "Es necesario cumplir con el Art.11 del D.L. N°2695/79, referido a publicidad del saneamiento de inmueble. Se requiere contratar la publicación digital de 17 avisos correspondientes a 2 veces o publicaciones por beneficiario o expediente, las cuales se harán indistintamente los días 1 y 15 del mes o en la edición inmediatamente siguiente si el diario o periódico no se publicare en los días indicados. Plazo de ejecución 252 días hábiles. Revisar documento adjunto para selección de proveedor.",
-   "en_gracia": true,
-   "desaparecida_iso": "2026-11-17T17:00:24-03:00"
-  },
-  {
    "tipo": "OPORTUNIDAD",
    "motivos": [
     "Ventas y marketing"
@@ -622,27 +599,50 @@
    "descripcion": "Servicio integral para el Día del Turismo en Villa Cerro Castillo: viernes 27 de noviembre de 2026, de 17:00 a 21:00 horas, en la Sede Comunitaria. Incluye cocción y servicio de 8 corderos con acompañamientos y bebestibles sin alcohol para hasta 80 personas, servicio de mesa y garzones, decoración, audio, 10 reconocimientos y limpieza de la sede. Presupuesto $7.150.000, impuesto incluido. Ver TDR y Formatos N°1, N°2 y N°3 adjuntos.",
    "en_gracia": true,
    "desaparecida_iso": "2026-11-23T10:00:26-03:00"
-  }
- ],
- "historial": [
+  },
   {
-   "codigo": "2713-1456-COT26",
-   "nombre": " Servicio de producción y desarrollo de la actividad “One Song \" Folio 1517",
-   "organismo": "I MUNICIPALIDAD DE AYSEN",
-   "monto": 400000,
-   "cierre_iso": "2026-11-24T10:30:00-03:00",
    "tipo": "OPORTUNIDAD",
    "motivos": [
     "Ventas y marketing"
    ],
+   "nueva": false,
+   "codigo": "2713-1456-COT26",
+   "nombre": " Servicio de producción y desarrollo de la actividad “One Song \" Folio 1517",
+   "organismo": "",
+   "unidad": "",
+   "monto": null,
+   "cierre_iso": "",
+   "publicacion": "",
+   "publicacion_iso": "",
+   "ofertas": 0,
+   "productos": [
+    [
+     "80141607",
+     "Producción de eventos",
+     1,
+     "Planificación y ejecución del taller “One Song – Taller de Canto”, Puerto Aysén, según Anexo Técnico: preparación metodológica y 2 jornadas formativas presenciales de 2 horas cronológicas para niños, niñas y adolescentes. Viernes 27 de noviembre: jornada teórico-formativa (introducción al canto, respiración, técnica vocal básica). Sábado 28 de noviembre: jornada práctica (aprendizaje de una canción, armonización vocal y ensayo)."
+    ],
+    [
+     "80141607",
+     "Producción de eventos",
+     1,
+     "Preparación, coordinación y dirección de la presentación coral colectiva de cierre del taller “One Song – Taller de Canto”, de aproximadamente 20 minutos, con los participantes del taller, el domingo 29 de noviembre en Puerto Aysén, según Anexo Técnico. Incluye la coordinación de la prueba de sonido con la contraparte técnica."
+    ],
+    [
+     "80141607",
+     "Producción de eventos",
+     1,
+     "Registro audiovisual de la presentación final del taller “One Song – Taller de Canto” (29 de noviembre), entregado en formato digital apto para reproducción y difusión, dentro de 5 días hábiles desde la presentación, según Anexo Técnico. Los equipos y medios de registro son de cargo del proveedor."
+    ]
+   ],
    "link": "https://buscador.mercadopublico.cl/ficha?code=2713-1456-COT26",
-   "primera_vista_iso": "2026-11-23T11:00:28-03:00",
-   "removida_iso": "2026-11-23T13:00:25-03:00",
-   "estado_api": null,
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
+   "sin_detalle": false,
+   "descripcion": "Contratación de profesional y/o artista del área musical para planificar y ejecutar el taller presencial “One Song – Taller de Canto”, dirigido a niños, niñas y adolescentes en Puerto Aysén: 2 jornadas formativas de 2 horas (27 y 28 de noviembre), dirección de presentación coral final de 20 min (29 de noviembre) y registro audiovisual. Valorizar cada componente por separado (taller, presentación y registro). Se exige certificado de inhabilidades para trabajar con menores. Ver Anexo Técnico.",
+   "en_gracia": true,
+   "desaparecida_iso": "2026-11-23T15:00:23-03:00"
+  }
+ ],
+ "historial": [
   {
    "codigo": "1195-598-COT26",
    "nombre": "EJECUCIÓN DEL FESTIVAL DE LA MORILLA 2026",
@@ -1794,80 +1794,6 @@
    "adj_iso": null
   },
   {
-   "codigo": "1057062-536-COT26",
-   "nombre": "Servicio de Pauta Publicitaria en Redes Sociales (Meta, Google y YouTube Ads)",
-   "organismo": "UNIVERSIDAD DE AYSEN",
-   "monto": 7000000,
-   "cierre_iso": "2026-11-16T15:00:00-03:00",
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Publicidad en medios no impresos"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1057062-536-COT26",
-   "primera_vista_iso": "2026-11-13T17:00:27-03:00",
-   "removida_iso": "2026-11-16T16:00:40-03:00",
-   "estado_api": "",
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "1057062-534-COT26",
-   "nombre": "Servicio de elaboración y producción integral de spot radial. FISABS N°1872 – URY 2457",
-   "organismo": "UNIVERSIDAD DE AYSEN",
-   "monto": 1000000,
-   "cierre_iso": "2026-11-16T15:00:00-03:00",
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Publicidad en medios no impresos"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1057062-534-COT26",
-   "primera_vista_iso": "2026-11-13T17:00:27-03:00",
-   "removida_iso": "2026-11-16T16:00:40-03:00",
-   "estado_api": "",
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "1057062-529-COT26",
-   "nombre": "Servicio de producción y grabación de spot audiovisual (30 segundos). Proyecto URY 2557 _ FISABS 2271",
-   "organismo": "UNIVERSIDAD DE AYSEN",
-   "monto": 3000000,
-   "cierre_iso": "2026-11-16T15:00:00-03:00",
-   "tipo": "POSIBLE",
-   "motivos": [
-    "audiovisual",
-    "cápsula audiovisual",
-    "spot"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1057062-529-COT26",
-   "primera_vista_iso": "2026-11-13T17:00:27-03:00",
-   "removida_iso": "2026-11-16T16:00:40-03:00",
-   "estado_api": "",
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "1057062-538-COT26",
-   "nombre": "Servicio de difusión publicitaria y entrevistas en canal de televisión local de Coyhaique ",
-   "organismo": "UNIVERSIDAD DE AYSEN",
-   "monto": 4400000,
-   "cierre_iso": "2026-11-16T15:00:00-03:00",
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Inserciones publicitarias en medios"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1057062-538-COT26",
-   "primera_vista_iso": "2026-11-13T18:00:26-03:00",
-   "removida_iso": "2026-11-16T16:00:40-03:00",
-   "estado_api": "",
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
    "codigo": "2495-671-COT26",
    "nombre": "Servicios para jornada de encuentro y camaradería para personas mayores",
    "organismo": "",
@@ -1917,6 +1843,25 @@
    "primera_vista_iso": "2026-11-17T12:00:27-03:00",
    "removida_iso": "2026-11-19T10:00:24-03:00",
    "estado_api": "",
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
+  {
+   "codigo": "682-21-COT26",
+   "nombre": "CONTRATACIÓN DE SERVICIOS DE PUBLICACIÓN, SANEAMIENTOS D.L. N° 2695/79",
+   "organismo": "",
+   "monto": null,
+   "cierre_iso": "",
+   "tipo": "POSIBLE",
+   "motivos": [
+    "avisos",
+    "publicidad"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=682-21-COT26",
+   "primera_vista_iso": "2026-11-17T20:00:25-03:00",
+   "removida_iso": "2026-11-23T15:00:23-03:00",
+   "estado_api": null,
    "adj_nombre": null,
    "adj_monto": null,
    "adj_iso": null
