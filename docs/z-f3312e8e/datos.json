@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-23T09:00:26.006374-03:00",
+ "actualizado": "2026-11-23T10:00:26.804461-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
  "total_region": 226,
@@ -19,220 +19,6 @@
   "39121400": "Conectores, enchufes y terminales"
  },
  "filas": [
-  {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Cajas y accesorios eléctricos"
-   ],
-   "nueva": false,
-   "codigo": "911089-115-COT26",
-   "nombre": "ADQUISICION DE MATERIAL ELECTRICO PARA LA VIVIENDA FISCAL UBICADA EN FREIRE 81, COYHAIQUE",
-   "organismo": "Zona de Bienestar \"Coyhaique\"",
-   "unidad": "Zona de Bienestar Coyhaique",
-   "monto": 450000,
-   "cierre_iso": "2026-11-23T09:00:00-03:00",
-   "publicacion": "20-11 10:23",
-   "publicacion_iso": "2026-11-20T10:23:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "13102030",
-     "Cloruro de polivinilo (PVC)",
-     1,
-     "01 ADHESIVO PVC TRADICIONAL 240 CC"
-    ],
-    [
-     "24111802",
-     "Tanques o botellas de aire o gas",
-     4,
-     "04 GAS 227 GR HUMBOLDT"
-    ],
-    [
-     "31191506",
-     "Discos abrasivos",
-     3,
-     "03 DISCO DIAMANT CONT 4 1/2 PLG"
-    ],
-    [
-     "31191506",
-     "Discos abrasivos",
-     10,
-     "10 DISCO CTE METAL-AC INOX 4 1/2 PLG"
-    ],
-    [
-     "31201502",
-     "Cinta autoadhesiva aislante eléctrica",
-     1,
-     "01 CINTA ELEC 20 MTS x 19 MM"
-    ],
-    [
-     "39121311",
-     "Accesorios eléctricos",
-     1,
-     "01 ALAMBRE NYA PR H07V-U 1,5 BC 50 MTS"
-    ],
-    [
-     "39121311",
-     "Accesorios eléctricos",
-     1,
-     "01 ALAMBRE NYA PR H07V-U 2,5 BC 50 MTS"
-    ],
-    [
-     "39121311",
-     "Accesorios eléctricos",
-     1,
-     "01 ALAMBRE NYA PR H07V-U 2,5 RJ 50 MTS"
-    ],
-    [
-     "39121311",
-     "Accesorios eléctricos",
-     1,
-     "01 ALAMBRE NYA PR H07V-U 2,5 VD 50 MTS"
-    ],
-    [
-     "39121311",
-     "Accesorios eléctricos",
-     6,
-     "06 TUBO CONDUIT 16 MM 3 MTS"
-    ],
-    [
-     "39121311",
-     "Accesorios eléctricos",
-     10,
-     "10 TUBO CONDUIT 20 MM 3 MTS"
-    ],
-    [
-     "39121311",
-     "Accesorios eléctricos",
-     4,
-     "04 ENCH DOBLE 10 AMPERE GRAFITO S17 ARM"
-    ],
-    [
-     "39121311",
-     "Accesorios eléctricos",
-     10,
-     "10 CAJA DISTRIBUCION NARANJA 16-20 MM"
-    ],
-    [
-     "39121311",
-     "Accesorios eléctricos",
-     1,
-     "01 CONECTOR CABLE E4 100 UNIDADES"
-    ],
-    [
-     "39121311",
-     "Accesorios eléctricos",
-     5,
-     "05 PLACA CIEGA BLANCO"
-    ],
-    [
-     "39121311",
-     "Accesorios eléctricos",
-     2,
-     "02 INTERRUPTOR DOBL 9/12 GRAF S17"
-    ],
-    [
-     "39121311",
-     "Accesorios eléctricos",
-     20,
-     "20 SALIDA DE CAJA PVC COND 16 MM"
-    ],
-    [
-     "39121311",
-     "Accesorios eléctricos",
-     30,
-     "30 SALIDA DE CAJA PVC COND 20 MM"
-    ],
-    [
-     "39121311",
-     "Accesorios eléctricos",
-     1,
-     "01 FERRUL NARANJO 12 AWG 100 UNIDADES"
-    ],
-    [
-     "39121311",
-     "Accesorios eléctricos",
-     6,
-     "06 PANEL LED SOBRE CIRC 18W LC"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=911089-115-COT26",
-   "sin_detalle": false,
-   "descripcion": "SE SOLICITA LA ADQUISICION DE MATERIAL ELECTRICO PARA LA VIVIENDA FISCAL UBICADA EN FREIRE 81, COYHAIQUE, DEPENDIENTE DE LA ZONA DE BIENESTAR COYHAIQUE.\n\nSE SOLICITA LLENAR EL ANEXO QUE SE ADJUNTA (DECLARACION JURADA SIMPLE) PARA LOS OFERENTES POSTULANTES, QUIEN NO LO PRESENTE FIRMADO QUEDA FUERA DE POSTULACION",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
-  {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Enfriamiento (aires acondicionados)"
-   ],
-   "nueva": false,
-   "codigo": "3765-368-COT26",
-   "nombre": "INSUMOS Y HERRAMIENTAS PARA MANTEMIENTOS",
-   "organismo": "SERVICIO NACIONAL DE SALUD HOSPITAL DE C",
-   "unidad": "Hospital Doctor  Leopoldo Ortega Rodríguez",
-   "monto": 1500000,
-   "cierre_iso": "2026-11-23T09:00:00-03:00",
-   "publicacion": "18-11 12:22",
-   "publicacion_iso": "2026-11-18T12:22:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "15111509",
-     "Gas metilacetileno propadieno (MAPP)",
-     2,
-     "BOMBONA DE REFRIGERANTE R410A 11,3 KG"
-    ],
-    [
-     "15111509",
-     "Gas metilacetileno propadieno (MAPP)",
-     2,
-     "BOMBONA DE REFRIGERANTE R32 3KG"
-    ],
-    [
-     "27111507",
-     "Cortadores de metal",
-     1,
-     "ABOCINADOR PARA TUBOS DE COBRE HASTA 5/8"
-    ],
-    [
-     "27111507",
-     "Cortadores de metal",
-     1,
-     "CORTATUBOS DE COBRE"
-    ],
-    [
-     "40101701",
-     "Aires acondicionados",
-     1,
-     "COBERTOR MANTENCIÓN AIRES ACONDICONADOS HASTA 24.000 BTU"
-    ],
-    [
-     "40101810",
-     "Calentadores de ducto de serpentín",
-     2,
-     "PEINE PARA ALETAS DE SERPENTÍN"
-    ],
-    [
-     "40151502",
-     "Bombas de vacío",
-     1,
-     "BOMBA DE VACIO 4 CFM 1/3 HP220 VOLT"
-    ],
-    [
-     "41103311",
-     "Manómetros",
-     1,
-     "JUEGO DE MANÓMETROS (MAINFOLD) R410 R32"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=3765-368-COT26",
-   "sin_detalle": false,
-   "descripcion": "INSUMOS Y HERRAMIENTAS PARA MANTENIMIENTO CORRECTIVO Y PREVENTIVO DE LOS EQUIPOS DE AIRE ACONDICIONADO DEL ESTABLECIMIENTO",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
   {
    "tipo": "OPORTUNIDAD",
    "motivos": [
@@ -611,35 +397,6 @@
   {
    "tipo": "POSIBLE",
    "motivos": [
-    "iluminación"
-   ],
-   "nueva": false,
-   "codigo": "4066-537-COT26",
-   "nombre": "SERVICIO DE PRODUCCIÓN DE EVENTO CON AMPLIFICACIÓN Y PRESENTACIÓN MUSICAL ENCUENTRO DE ACORDEÓN Y GUITARRA 2026, según TDR adjuntos.",
-   "organismo": "I MUNICIPALIDAD RIO IBANEZ",
-   "unidad": "DIDECO",
-   "monto": 2000000,
-   "cierre_iso": "2026-11-24T06:14:00-03:00",
-   "publicacion": "20-11 11:45",
-   "publicacion_iso": "2026-11-20T11:45:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "80141607",
-     "Producción de eventos",
-     1,
-     "SERVICIO DE PRODUCCIÓN DE EVENTO CON AMPLIFICACIÓN Y PRESENTACIÓN MUSICAL ENCUENTRO DE ACORDEÓN Y GUITARRA 2026, según TDR adjuntos."
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=4066-537-COT26",
-   "sin_detalle": false,
-   "descripcion": "La Ilustre Municipalidad de Río Ibáñez, a través de la Oficina de Cultura, requiere contratar un servicio de producción de evento que contemple amplificación, iluminación y la contratación de una agrupación de música criolla y de un acordeonista con trayectoria y reconocimientos nacionales e internacionales para el Encuentro de Acordeón y Guitarra 2026, a realizarse el sábado 19 de diciembre de 2026 en Puerto Río Tranquilo.",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
     "generador"
    ],
    "nueva": true,
@@ -710,6 +467,64 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=2713-1419-COT26",
    "sin_detalle": false,
    "descripcion": "EQUIPOS Y ACCESORIOS . LOS COSTOS DE TRASLADOS A PUERTO AYSÉN SERÁN DEL OFERENTE. EL PLAZO DE ENTREGA SERÁN DE 10 DÍA HÁBIL, DE LO CONTRARIO SE DESCARTARAN.EL PROVEEDOR QUE NO INDIQUE EL PLAZO DE ENTREGA SE DESCARTARA SU COTIZACIÓN. OFERENTE DEBE INCLUIR FLETES EN EL PRECIO DEL PRODUCTO.SE SOLICITA ANEXAR FICHA TECNICA DE CADA PRODUCTO, DE LO CONTRARIO SE DESCARTARA. PLAZO DE ENTREGA COMIENZA A CONTAR DEL DIA HABIL SUBSIGUIENTE DEL ENVÍO DE ORDEN DE COMPRA.",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Suministros y accesorios eléctricos"
+   ],
+   "nueva": true,
+   "codigo": "1691-2151-COT26",
+   "nombre": " EFCC- ASAS DE RECECTOSCOPIO DESECHABLE UD PARA REPOSICIÓN DE INS. CLINICOS HRC",
+   "organismo": "SERVICIO NACIONAL DE SALUD HOSPITAL DE C",
+   "unidad": "Compras de Insumos Clínicos",
+   "monto": 1720000,
+   "cierre_iso": "2026-11-24T09:39:00-03:00",
+   "publicacion": "20-11 11:05",
+   "publicacion_iso": "2026-11-20T11:05:00-03:00",
+   "ofertas": 1,
+   "productos": [
+    [
+     "39121720",
+     "Asas de transformadores",
+     30,
+     "COD - 42340118-96-147 ASAS DE RECECTOSCOPIO DESECHABLE"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1691-2151-COT26",
+   "sin_detalle": false,
+   "descripcion": "ASAS DE RECECTOSCOPIO DESECHABLE UD, PARA REPOSICIÓN DE INSUMOS CLÍNICOS DEL HRC.\nLOS PRECIOS OFERTADOS DEBEN INCLUIR TODOS LOS COSTOS ASOCIADOS, INCLUDIOS FLETES HASTA LA \nDIRECCIÓN DE DESPACHO ESTABLECIDA.LAS PROPUESTAS DEBEN AJUSTARSE ESTRÍCTAMENTE A LAS \nCARACTERÍSTICAS TÉCNICAS INDICADAS EN CADA REQUERIMIENTO. SE SOLICITA ADJUNTAR FICHA TÉCNICA\nCORRESPONDIENTE A LOS PRODUCTOS O SERVICIOS OFRECIDOS. SE SOLICITA COTIZACIÓN POR 30 DÍAS. \nSE SOLICITA 1 GUÍA DE DESPACHO DENTRO DE LA CAJA.",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "eléctricos"
+   ],
+   "nueva": true,
+   "codigo": "4066-544-COT26",
+   "nombre": "ADQUISICIÓN DE MATERIALES PARA EL MANTENIMIENTO Y REPARACIÓN DE LAS BIBLIOTECAS PÚBLICAS DE LA COMUNA DE RÍO IBÁÑEZ.TDR ADJUNTOS",
+   "organismo": "I MUNICIPALIDAD RIO IBANEZ",
+   "unidad": "DIDECO",
+   "monto": 300000,
+   "cierre_iso": "2026-11-24T10:00:00-03:00",
+   "publicacion": "23-11 09:03",
+   "publicacion_iso": "2026-11-23T09:03:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "30151902",
+     "Materiales para guarniciones exteriores",
+     1,
+     "ADQUISICIÓN DE MATERIALES PARA EL MANTENIMIENTO Y REPARACIÓN DE LAS BIBLIOTECAS PÚBLICAS DE LA COMUNA DE RÍO IBÁÑEZ.TDR ADJUNTOS"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=4066-544-COT26",
+   "sin_detalle": false,
+   "descripcion": "La Ilustre Municipalidad de Río Ibáñez, por intermedio de su Oficina de Cultura, requiere adquirir materiales para reponer grifería, herrajes y accesorios eléctricos, y para mantener superficies de madera en las bibliotecas públicas de la comuna. Según Términos de referencia Adjuntos.",
    "en_gracia": false,
    "desaparecida_iso": ""
   },
@@ -819,6 +634,35 @@
    "desaparecida_iso": ""
   },
   {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Gasfitería, calefacción y aire acondicionado"
+   ],
+   "nueva": true,
+   "codigo": "613-42-COT26",
+   "nombre": "Servicio de mantención preventiva de líneas de calefacción y suministro e instalación de termostato programable con caja de protección",
+   "organismo": "Ministerio de Vivienda y Urbanismo",
+   "unidad": "SEREMI MINVU XI REGION",
+   "monto": 1400000,
+   "cierre_iso": "2026-11-24T16:21:00-03:00",
+   "publicacion": "20-11 08:41",
+   "publicacion_iso": "2026-11-20T08:41:00-03:00",
+   "ofertas": 1,
+   "productos": [
+    [
+     "72102302",
+     "Instalación, reparación o mantenimiento de sistemas de calefacción",
+     1,
+     "Servicio de mantención preventiva de líneas de calefacción y suministro e instalación de termostato programable con caja de protección, SEGUN REQUERIMIENTO ADJUNTO"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=613-42-COT26",
+   "sin_detalle": false,
+   "descripcion": "Servicio de mantención preventiva de líneas de calefacción y suministro e instalación de termostato programable con caja de protección, segun requerimiento adjunto",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
    "tipo": "POSIBLE",
    "motivos": [
     "grupo electrógeno"
@@ -856,6 +700,47 @@
   {
    "tipo": "OPORTUNIDAD",
    "motivos": [
+    "Conectores, enchufes y terminales"
+   ],
+   "nueva": true,
+   "codigo": "4609-326-COT26",
+   "nombre": "MANGUERA LED Y OTROS",
+   "organismo": "I MUNICIPALIDAD DE CHILE CHICO",
+   "unidad": "Finanzas",
+   "monto": 4000000,
+   "cierre_iso": "2026-11-25T09:00:00-03:00",
+   "publicacion": "23-11 09:09",
+   "publicacion_iso": "2026-11-23T09:09:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "32101517",
+     "Acopladores",
+     300,
+     "COPLE UNION"
+    ],
+    [
+     "32111503",
+     "Diodos emisores de luz (LED)",
+     20,
+     "MANGUERA LED EXTERIOR 220V x 100 MTS."
+    ],
+    [
+     "39121402",
+     "Enchufes eléctricos",
+     30,
+     "PLUG DE CONEXION"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=4609-326-COT26",
+   "sin_detalle": false,
+   "descripcion": "COTIZACION MANGUERA LED Y OTROS",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
     "Servicios eléctricos"
    ],
    "nueva": false,
@@ -879,6 +764,149 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=4140-113-COT26",
    "sin_detalle": false,
    "descripcion": "SE REQUIERE MANO DE OBRA PARA INSTALACION DE CENTRO ELECTRICO CANALIZADO Y MATERIALES COMO ENFUFES DOBLES, CAJA SOBRE PUESTO, GALVANIZADA, CABLES, CANALIZACION TUBO GALVANIZADO, SOLDADURA, HUINCHA ENGOMADA, HUINCHA AISLADORA",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Cajas y accesorios eléctricos"
+   ],
+   "nueva": false,
+   "codigo": "911089-115-COT26",
+   "nombre": "ADQUISICION DE MATERIAL ELECTRICO PARA LA VIVIENDA FISCAL UBICADA EN FREIRE 81, COYHAIQUE",
+   "organismo": "Zona de Bienestar \"Coyhaique\"",
+   "unidad": "Zona de Bienestar Coyhaique",
+   "monto": 450000,
+   "cierre_iso": "2026-11-26T07:36:00-03:00",
+   "publicacion": "20-11 10:23",
+   "publicacion_iso": "2026-11-20T10:23:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "13102030",
+     "Cloruro de polivinilo (PVC)",
+     1,
+     "01 ADHESIVO PVC TRADICIONAL 240 CC"
+    ],
+    [
+     "24111802",
+     "Tanques o botellas de aire o gas",
+     4,
+     "04 GAS 227 GR HUMBOLDT"
+    ],
+    [
+     "31191506",
+     "Discos abrasivos",
+     3,
+     "03 DISCO DIAMANT CONT 4 1/2 PLG"
+    ],
+    [
+     "31191506",
+     "Discos abrasivos",
+     10,
+     "10 DISCO CTE METAL-AC INOX 4 1/2 PLG"
+    ],
+    [
+     "31201502",
+     "Cinta autoadhesiva aislante eléctrica",
+     1,
+     "01 CINTA ELEC 20 MTS x 19 MM"
+    ],
+    [
+     "39121311",
+     "Accesorios eléctricos",
+     1,
+     "01 ALAMBRE NYA PR H07V-U 1,5 BC 50 MTS"
+    ],
+    [
+     "39121311",
+     "Accesorios eléctricos",
+     1,
+     "01 ALAMBRE NYA PR H07V-U 2,5 BC 50 MTS"
+    ],
+    [
+     "39121311",
+     "Accesorios eléctricos",
+     1,
+     "01 ALAMBRE NYA PR H07V-U 2,5 RJ 50 MTS"
+    ],
+    [
+     "39121311",
+     "Accesorios eléctricos",
+     1,
+     "01 ALAMBRE NYA PR H07V-U 2,5 VD 50 MTS"
+    ],
+    [
+     "39121311",
+     "Accesorios eléctricos",
+     6,
+     "06 TUBO CONDUIT 16 MM 3 MTS"
+    ],
+    [
+     "39121311",
+     "Accesorios eléctricos",
+     10,
+     "10 TUBO CONDUIT 20 MM 3 MTS"
+    ],
+    [
+     "39121311",
+     "Accesorios eléctricos",
+     4,
+     "04 ENCH DOBLE 10 AMPERE GRAFITO S17 ARM"
+    ],
+    [
+     "39121311",
+     "Accesorios eléctricos",
+     10,
+     "10 CAJA DISTRIBUCION NARANJA 16-20 MM"
+    ],
+    [
+     "39121311",
+     "Accesorios eléctricos",
+     1,
+     "01 CONECTOR CABLE E4 100 UNIDADES"
+    ],
+    [
+     "39121311",
+     "Accesorios eléctricos",
+     5,
+     "05 PLACA CIEGA BLANCO"
+    ],
+    [
+     "39121311",
+     "Accesorios eléctricos",
+     2,
+     "02 INTERRUPTOR DOBL 9/12 GRAF S17"
+    ],
+    [
+     "39121311",
+     "Accesorios eléctricos",
+     20,
+     "20 SALIDA DE CAJA PVC COND 16 MM"
+    ],
+    [
+     "39121311",
+     "Accesorios eléctricos",
+     30,
+     "30 SALIDA DE CAJA PVC COND 20 MM"
+    ],
+    [
+     "39121311",
+     "Accesorios eléctricos",
+     1,
+     "01 FERRUL NARANJO 12 AWG 100 UNIDADES"
+    ],
+    [
+     "39121311",
+     "Accesorios eléctricos",
+     6,
+     "06 PANEL LED SOBRE CIRC 18W LC"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=911089-115-COT26",
+   "sin_detalle": false,
+   "descripcion": "SE SOLICITA LA ADQUISICION DE MATERIAL ELECTRICO PARA LA VIVIENDA FISCAL UBICADA EN FREIRE 81, COYHAIQUE, DEPENDIENTE DE LA ZONA DE BIENESTAR COYHAIQUE.\n\nSE SOLICITA LLENAR EL ANEXO QUE SE ADJUNTA (DECLARACION JURADA SIMPLE) PARA LOS OFERENTES POSTULANTES, QUIEN NO LO PRESENTE FIRMADO QUEDA FUERA DE POSTULACION",
    "en_gracia": false,
    "desaparecida_iso": ""
   },
@@ -910,9 +938,56 @@
    "descripcion": "Servicio de mejoramiento de calefacción en oficina de Puerto Aysén y Coyhaique",
    "en_gracia": false,
    "desaparecida_iso": ""
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "iluminación"
+   ],
+   "nueva": false,
+   "codigo": "4066-537-COT26",
+   "nombre": "SERVICIO DE PRODUCCIÓN DE EVENTO CON AMPLIFICACIÓN Y PRESENTACIÓN MUSICAL ENCUENTRO DE ACORDEÓN Y GUITARRA 2026, según TDR adjuntos.",
+   "organismo": "",
+   "unidad": "",
+   "monto": null,
+   "cierre_iso": "",
+   "publicacion": "",
+   "publicacion_iso": "",
+   "ofertas": 0,
+   "productos": [
+    [
+     "80141607",
+     "Producción de eventos",
+     1,
+     "SERVICIO DE PRODUCCIÓN DE EVENTO CON AMPLIFICACIÓN Y PRESENTACIÓN MUSICAL ENCUENTRO DE ACORDEÓN Y GUITARRA 2026, según TDR adjuntos."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=4066-537-COT26",
+   "sin_detalle": false,
+   "descripcion": "La Ilustre Municipalidad de Río Ibáñez, a través de la Oficina de Cultura, requiere contratar un servicio de producción de evento que contemple amplificación, iluminación y la contratación de una agrupación de música criolla y de un acordeonista con trayectoria y reconocimientos nacionales e internacionales para el Encuentro de Acordeón y Guitarra 2026, a realizarse el sábado 19 de diciembre de 2026 en Puerto Río Tranquilo.",
+   "en_gracia": true,
+   "desaparecida_iso": "2026-11-23T10:00:26-03:00"
   }
  ],
  "historial": [
+  {
+   "codigo": "3765-368-COT26",
+   "nombre": "INSUMOS Y HERRAMIENTAS PARA MANTEMIENTOS",
+   "organismo": "SERVICIO NACIONAL DE SALUD HOSPITAL DE C",
+   "monto": 1500000,
+   "cierre_iso": "2026-11-23T09:00:00-03:00",
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Enfriamiento (aires acondicionados)"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=3765-368-COT26",
+   "primera_vista_iso": "2026-11-18T13:00:27-03:00",
+   "removida_iso": "2026-11-23T10:00:26-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
   {
    "codigo": "3540-316-COT26",
    "nombre": "Mandril, estación de soldadura, detector cortocircuito y kit manómetro (P.2529)",
@@ -968,24 +1043,6 @@
    "adj_iso": null
   },
   {
-   "codigo": "613-42-COT26",
-   "nombre": "Servicio de mantención preventiva de líneas de calefacción y suministro e instalación de termostato programable con caja de protección",
-   "organismo": "Ministerio de Vivienda y Urbanismo",
-   "monto": 1400000,
-   "cierre_iso": "2026-11-21T16:00:00-03:00",
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Gasfitería, calefacción y aire acondicionado"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=613-42-COT26",
-   "primera_vista_iso": "2026-11-20T09:00:24-03:00",
-   "removida_iso": "2026-11-21T17:00:24-03:00",
-   "estado_api": "",
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
    "codigo": "4644-149-COT26",
    "nombre": "Accesorios Computacionales, Área de Intervención Vivero el Mallín SIC 508 SIRE 475",
    "organismo": "CORP NACIONAL FORESTAL",
@@ -1017,24 +1074,6 @@
    "primera_vista_iso": "2026-11-18T16:00:26-03:00",
    "removida_iso": "2026-11-21T12:00:23-03:00",
    "estado_api": "",
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "1691-2151-COT26",
-   "nombre": " EFCC- ASAS DE RECECTOSCOPIO DESECHABLE UD PARA REPOSICIÓN DE INS. CLINICOS HRC",
-   "organismo": "SERVICIO NACIONAL DE SALUD HOSPITAL DE C",
-   "monto": 1720000,
-   "cierre_iso": "2026-11-21T11:15:00-03:00",
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Suministros y accesorios eléctricos"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1691-2151-COT26",
-   "primera_vista_iso": "2026-11-20T12:00:26-03:00",
-   "removida_iso": "2026-11-21T12:00:23-03:00",
-   "estado_api": null,
    "adj_nombre": null,
    "adj_monto": null,
    "adj_iso": null
@@ -1728,42 +1767,6 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=3540-306-COT26",
    "primera_vista_iso": "2026-11-12T09:58:37-03:00",
    "removida_iso": "2026-11-16T12:00:26-03:00",
-   "estado_api": "",
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "1428275-57-COT26",
-   "nombre": "SERVICIO DE DIAGNOSTICO Y MANTENCION SISTEMA DE CALEFACION DINAMICO ESTATICO",
-   "organismo": "SERVICIO NACIONAL DEL PATRIMONIO CULTURAL",
-   "monto": 200000,
-   "cierre_iso": "2026-11-16T10:00:00-03:00",
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Gasfitería, calefacción y aire acondicionado"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1428275-57-COT26",
-   "primera_vista_iso": "2026-11-12T20:00:27-03:00",
-   "removida_iso": "2026-11-16T11:00:27-03:00",
-   "estado_api": "",
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "1182705-207-COT26",
-   "nombre": "SERVICIO DE MOVILIZACION SOLICITUD N°0222 VCM CRY26851 PROYECTO TNS EN ELECTRICIDAD SEDE COYHAIQUE",
-   "organismo": "CENTRO DE FORMACIÓN TÉCNICA DE LA REGIÓN DE AYSÉN DEL GENERAL CARLOS I",
-   "monto": 1400000,
-   "cierre_iso": "2026-11-16T10:00:00-03:00",
-   "tipo": "POSIBLE",
-   "motivos": [
-    "electricidad"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1182705-207-COT26",
-   "primera_vista_iso": "2026-11-13T16:00:24-03:00",
-   "removida_iso": "2026-11-16T11:00:27-03:00",
    "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,
