@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-11-23T12:00:25.229236-03:00",
+ "actualizado": "2026-11-23T13:00:25.658369-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
- "total_region": 234,
+ "total_region": 230,
  "rubros": {
   "80141600": "Ventas y marketing",
   "82101600": "Publicidad en medios no impresos",
@@ -40,35 +40,6 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=1195-598-COT26",
    "sin_detalle": false,
    "descripcion": "Servicio de producción integral para la ejecución del Festival de la Morilla 2026 en Villa Ortega, comuna de Coyhaique. La contratación considera programación artística con al menos 14 artistas regionales y/o nacionales, animación, amplificación y sonido, alimentación para aproximadamente 85 personas, registro audiovisual, difusión, habilitación de espacios para emprendedores y artesanos, coordinación general del evento y servicios sanitarios, conforme a Bases Técnicas",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "difusion"
-   ],
-   "nueva": false,
-   "codigo": "1758-300-COT26",
-   "nombre": "SERVICIO DE MAQILLAJE ARTISTICO \"PINTACARITAS\" EN EL MARCO DIFUSION DEL PLAN CHILE APRENDE Y AVANZA DEL MINISTERIO DE EDUCACION",
-   "organismo": "SECRETARIA REGIONAL MINISTERIAL DE EDUCACION XI REGION",
-   "unidad": "Mineduc Administración XI Región",
-   "monto": 300000,
-   "cierre_iso": "2026-11-23T14:00:00-03:00",
-   "publicacion": "18-11 11:05",
-   "publicacion_iso": "2026-11-18T11:05:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "60121206",
-     "Pintura de maquillaje",
-     1,
-     "SERVICIO DE MAQUILLAJE ARTISTICO \"PINTACARITAS\" DIFUSION DEL PLAN CHILE APRENDE Y AVANZA EL 28 DE NOVIEMBRE EN LA CIUDAD DE COYHAIQUE.\nSE ADJUNTA DETALLE."
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1758-300-COT26",
-   "sin_detalle": false,
-   "descripcion": "SE REQUIERE CONTRATAR SERVICIO DE  MAQILLAJE ARTISTICO \"PINTACARITAS\" EN EL MARCO DIFUSION DEL PLAN CHILE APRENDE Y AVANZA DEL MINISTERIO DE EDUCACION A REALIZARSE EL 28 DE NOVIEMBRE EN BYPASS DE LA CIUDAD DE COYHAIQUE.",
    "en_gracia": false,
    "desaparecida_iso": ""
   },
@@ -196,47 +167,6 @@
    "desaparecida_iso": ""
   },
   {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Ventas y marketing"
-   ],
-   "nueva": true,
-   "codigo": "2713-1456-COT26",
-   "nombre": " Servicio de producción y desarrollo de la actividad “One Song \" Folio 1517",
-   "organismo": "I MUNICIPALIDAD DE AYSEN",
-   "unidad": "I.MUNICIPALIDAD AYSEN-ADQUISICIONES",
-   "monto": 400000,
-   "cierre_iso": "2026-11-24T10:30:00-03:00",
-   "publicacion": "23-11 10:21",
-   "publicacion_iso": "2026-11-23T10:21:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "80141607",
-     "Producción de eventos",
-     1,
-     "Planificación y ejecución del taller “One Song – Taller de Canto”, Puerto Aysén, según Anexo Técnico: preparación metodológica y 2 jornadas formativas presenciales de 2 horas cronológicas para niños, niñas y adolescentes. Viernes 27 de noviembre: jornada teórico-formativa (introducción al canto, respiración, técnica vocal básica). Sábado 28 de noviembre: jornada práctica (aprendizaje de una canción, armonización vocal y ensayo)."
-    ],
-    [
-     "80141607",
-     "Producción de eventos",
-     1,
-     "Preparación, coordinación y dirección de la presentación coral colectiva de cierre del taller “One Song – Taller de Canto”, de aproximadamente 20 minutos, con los participantes del taller, el domingo 29 de noviembre en Puerto Aysén, según Anexo Técnico. Incluye la coordinación de la prueba de sonido con la contraparte técnica."
-    ],
-    [
-     "80141607",
-     "Producción de eventos",
-     1,
-     "Registro audiovisual de la presentación final del taller “One Song – Taller de Canto” (29 de noviembre), entregado en formato digital apto para reproducción y difusión, dentro de 5 días hábiles desde la presentación, según Anexo Técnico. Los equipos y medios de registro son de cargo del proveedor."
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=2713-1456-COT26",
-   "sin_detalle": false,
-   "descripcion": "Contratación de profesional y/o artista del área musical para planificar y ejecutar el taller presencial “One Song – Taller de Canto”, dirigido a niños, niñas y adolescentes en Puerto Aysén: 2 jornadas formativas de 2 horas (27 y 28 de noviembre), dirección de presentación coral final de 20 min (29 de noviembre) y registro audiovisual. Valorizar cada componente por separado (taller, presentación y registro). Se exige certificado de inhabilidades para trabajar con menores. Ver Anexo Técnico.",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
-  {
    "tipo": "POSIBLE",
    "motivos": [
     "publicitarios"
@@ -321,6 +251,35 @@
   {
    "tipo": "POSIBLE",
    "motivos": [
+    "difusion"
+   ],
+   "nueva": false,
+   "codigo": "1758-300-COT26",
+   "nombre": "SERVICIO DE MAQILLAJE ARTISTICO \"PINTACARITAS\" EN EL MARCO DIFUSION DEL PLAN CHILE APRENDE Y AVANZA DEL MINISTERIO DE EDUCACION",
+   "organismo": "SECRETARIA REGIONAL MINISTERIAL DE EDUCACION XI REGION",
+   "unidad": "Mineduc Administración XI Región",
+   "monto": 300000,
+   "cierre_iso": "2026-11-24T11:00:00-03:00",
+   "publicacion": "18-11 11:05",
+   "publicacion_iso": "2026-11-18T11:05:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "60121206",
+     "Pintura de maquillaje",
+     1,
+     "SERVICIO DE MAQUILLAJE ARTISTICO \"PINTACARITAS\" DIFUSION DEL PLAN CHILE APRENDE Y AVANZA EL 28 DE NOVIEMBRE EN LA CIUDAD DE COYHAIQUE.\nSE ADJUNTA DETALLE."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1758-300-COT26",
+   "sin_detalle": false,
+   "descripcion": "SE REQUIERE CONTRATAR SERVICIO DE  MAQILLAJE ARTISTICO \"PINTACARITAS\" EN EL MARCO DIFUSION DEL PLAN CHILE APRENDE Y AVANZA DEL MINISTERIO DE EDUCACION A REALIZARSE EL 28 DE NOVIEMBRE EN BYPASS DE LA CIUDAD DE COYHAIQUE.",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
     "difusión"
    ],
    "nueva": true,
@@ -350,6 +309,53 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=1608-99-COT26",
    "sin_detalle": false,
    "descripcion": "INSUMOS DE DIFUSIÓN GET DPR AYSÉN; BOLSAS DE GÉNERO / TNT Y MORRAL MOCHILA.",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "difusión"
+   ],
+   "nueva": true,
+   "codigo": "2495-692-COT26",
+   "nombre": "ADQUISICIÓN DE MATERIALES E INSUMOS PARA MATERIAL GRÁFICO E IDENTIDAD VISUAL. Código BIP 40071494-0",
+   "organismo": "I MUNICIPALIDAD DE COYHAIQUE",
+   "unidad": "DIRECCION DESARROLLO COMUNITARIO",
+   "monto": 7100000,
+   "cierre_iso": "2026-11-24T14:00:00-03:00",
+   "publicacion": "23-11 12:08",
+   "publicacion_iso": "2026-11-23T12:08:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "14111506",
+     "Papel para impresora del ordenador",
+     4,
+     "Rollo PVC Matte 13oz, Rollo adhesivo Matte, Rollo papel sintético Matte y rollo vinilo adhesivo para impresión vehícular. Las cantidades exactas están indicadas en los TTR anexos"
+    ],
+    [
+     "31201505",
+     "Cinta adhesiva de doble cara",
+     100,
+     "Cinta adhesiva doble contacto tipo TESA FAST o técnicamente equivalente."
+    ],
+    [
+     "44103112",
+     "Cinta de tinta para impresora",
+     1,
+     "Cartuchos de tinta Nubis E12 o técnicamente compatibles, en color cyan, magenta, amarillo y negro. Y cartuchos de tinta para impresora IDP Solid- 310. Las cantidades exactas están indicadas en los TTR anexos"
+    ],
+    [
+     "45101702",
+     "Guillotinas de imprenta",
+     10,
+     "Cortapapeles Tipo OLFA L5 o técnicamente equivalente, de uso profesional. Junto con 100 repuestos compatibles con los cortapapeles."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=2495-692-COT26",
+   "sin_detalle": false,
+   "descripcion": "Se requiere adquirir materiales e insumos des??nados al desarrollo de trabajos de impresión, elaboración de piezas gráficas, señalética, material promocional y otros elementos de apoyo a la difusión e identidad visual de las actividades contempladas en el programa.",
    "en_gracia": false,
    "desaparecida_iso": ""
   },
@@ -648,6 +654,24 @@
   }
  ],
  "historial": [
+  {
+   "codigo": "2713-1456-COT26",
+   "nombre": " Servicio de producción y desarrollo de la actividad “One Song \" Folio 1517",
+   "organismo": "I MUNICIPALIDAD DE AYSEN",
+   "monto": 400000,
+   "cierre_iso": "2026-11-24T10:30:00-03:00",
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Ventas y marketing"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=2713-1456-COT26",
+   "primera_vista_iso": "2026-11-23T11:00:28-03:00",
+   "removida_iso": "2026-11-23T13:00:25-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
   {
    "codigo": "4609-324-COT26",
    "nombre": "TALLERES ELABORACION FERMENTADO Y ENCURTIDO.",

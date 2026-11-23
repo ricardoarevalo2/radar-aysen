@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-11-23T12:00:25.229236-03:00",
+ "actualizado": "2026-11-23T13:00:25.658369-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
- "total_region": 234,
+ "total_region": 230,
  "rubros": {
   "25172700": "Aire acondicionado",
   "25173900": "Componentes eléctricos",
@@ -19,64 +19,6 @@
   "39121400": "Conectores, enchufes y terminales"
  },
  "filas": [
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "generador"
-   ],
-   "nueva": false,
-   "codigo": "4644-154-COT26",
-   "nombre": "Lubricantes San Rafael si 457 sire 451",
-   "organismo": "CORP NACIONAL FORESTAL",
-   "unidad": "XI Región - Oficina Provincial Aysen",
-   "monto": 450000,
-   "cierre_iso": "2026-11-23T12:00:00-03:00",
-   "publicacion": "20-11 12:21",
-   "publicacion_iso": "2026-11-20T12:21:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "15121501",
-     "Aceite de motor",
-     12,
-     "Aceite rimula R4 de 4 litros, Para motor que funciona a Diesel y gasolina. API: CK-4, SN.Recomendado en motores de 4 tiempos.\nProtege al motor por 24000 km."
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=4644-154-COT26",
-   "sin_detalle": false,
-   "descripcion": "Conaf requiere adquirir lubricantes para generador del Parque Nacional Laguna San Rafael",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
-  {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Materiales de física de electricidad"
-   ],
-   "nueva": false,
-   "codigo": "1233615-984-COT26",
-   "nombre": "RMG-SOL01535-Liceo Luisa Rabanal, Equipamiento para simulación EMTP 29.05, despacho incluido a Chile Chico.",
-   "organismo": "Servicio Local de Educación Pública Aysén",
-   "unidad": "Servicio Local de Educación Pública Aysén",
-   "monto": 7000000,
-   "cierre_iso": "2026-11-23T12:00:00-03:00",
-   "publicacion": "11-11 17:01",
-   "publicacion_iso": "2026-11-11T17:01:00-03:00",
-   "ofertas": 1,
-   "productos": [
-    [
-     "60104905",
-     "Placas de demostración de electricidad",
-     1,
-     "Según archivo adjunto, equipamiento para simulación EMTP Electricidad"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1233615-984-COT26",
-   "sin_detalle": false,
-   "descripcion": "Según detalle adjunto, despacho incluido a Chile Chico.",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
   {
    "tipo": "OPORTUNIDAD",
    "motivos": [
@@ -460,6 +402,201 @@
   {
    "tipo": "OPORTUNIDAD",
    "motivos": [
+    "Cajas y accesorios eléctricos"
+   ],
+   "nueva": true,
+   "codigo": "1182705-230-COT26",
+   "nombre": " ADQUISICION DE FUNGIBLES PARA INSTALACION ELECTRICA, FOLIO N°238",
+   "organismo": "CENTRO DE FORMACIÓN TÉCNICA DE LA REGIÓN DE AYSÉN DEL GENERAL CARLOS I",
+   "unidad": "FINANZAS",
+   "monto": 117000,
+   "cierre_iso": "2026-11-24T12:00:00-03:00",
+   "publicacion": "23-11 11:55",
+   "publicacion_iso": "2026-11-23T11:55:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "39121311",
+     "Accesorios eléctricos",
+     300,
+     "Salidas de caja 20 mm"
+    ],
+    [
+     "39121311",
+     "Accesorios eléctricos",
+     150,
+     "Salidas de caja 16 mm"
+    ],
+    [
+     "39121311",
+     "Accesorios eléctricos",
+     150,
+     "Caja Derivación Embutida"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1182705-230-COT26",
+   "sin_detalle": false,
+   "descripcion": "Se requiere la compra de fungibles de instalaciones eléctrica para la carrera TNS en electricidad, del CFT de la Región de Aysén. Los productos deben ser entregados en oficinas ubicada en Sargento Aldea 533, Puerto Aysén.",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Suministros y accesorios eléctricos"
+   ],
+   "nueva": true,
+   "codigo": "3791-1206-COT26",
+   "nombre": "MATERIALES AYUDA ASISTENICAL ",
+   "organismo": "I MUNICIPALIDAD DE CISNES",
+   "unidad": "Finanzas",
+   "monto": 210250,
+   "cierre_iso": "2026-11-24T13:00:00-03:00",
+   "publicacion": "23-11 12:27",
+   "publicacion_iso": "2026-11-23T12:27:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "30103604",
+     "Revestimiento o láminas de madera",
+     1,
+     "TERCIADO ESTRUCTURAL 18MM"
+    ],
+    [
+     "30103605",
+     "Tablas de madera",
+     1,
+     "PINO IMPREGNADO 1X4 3.2M"
+    ],
+    [
+     "30103605",
+     "Tablas de madera",
+     3,
+     "PINO VERDE 2X2 X3.2 (P240)"
+    ],
+    [
+     "30103605",
+     "Tablas de madera",
+     2,
+     "PINO VERDE 2X3 X3.2 (P168)"
+    ],
+    [
+     "31161503",
+     "Clavo-tornillo",
+     2,
+     "TORNILLO DRYWALL 1 5/8 (CAJA O BOLSA)"
+    ],
+    [
+     "31161508",
+     "Tornillos para madera",
+     1,
+     "TORNILLO DRYWALL 3\" (CAJA O BOLSA)"
+    ],
+    [
+     "31181509",
+     "Equipos de cubrejuntas",
+     4,
+     "CUBREJUNTA RODON"
+    ],
+    [
+     "31341213",
+     "Conjuntos de planchas remachadas de latón",
+     3,
+     "INTERNIT 5MM"
+    ],
+    [
+     "39121710",
+     "Receptáculo multiplicador eléctrico",
+     1,
+     "RECEPTÁCULO 80X80"
+    ],
+    [
+     "46151601",
+     "Manillas",
+     3,
+     "MANILLA SEGURIDAD INOXIDABLE 60CM"
+    ],
+    [
+     "56122004",
+     "Módulos con fregadero o lavatorio",
+     1,
+     "MONOMANDO LAVATORIO"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=3791-1206-COT26",
+   "sin_detalle": false,
+   "descripcion": "ADQUISICION DE MATERIALES DE CONSTRUCCION PARA ADAPTACION DE BAÑO, SEGUN MEMO 153. SE ADJUNTAN ANEXOS.",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "enchufe"
+   ],
+   "nueva": true,
+   "codigo": "3791-1209-COT26",
+   "nombre": "ARTICULOS NAVIDEÑOS ",
+   "organismo": "I MUNICIPALIDAD DE CISNES",
+   "unidad": "Finanzas",
+   "monto": 4300000,
+   "cierre_iso": "2026-11-24T15:00:00-03:00",
+   "publicacion": "23-11 12:52",
+   "publicacion_iso": "2026-11-23T12:52:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "14111601",
+     "Papel, bolsas o cajas de regalo",
+     700,
+     "Papel de regalo con diseños alusivos a Navidad, en buen estado y sin daños."
+    ],
+    [
+     "31201512",
+     "Cinta Transparente",
+     200,
+     "Cinta adhesiva transparente: Tipo Scotch, de 18 mm de ancho y 25 metros de longitud."
+    ],
+    [
+     "39111514",
+     "Luces de árboles",
+     100,
+     "Luces navideñas: Tipo manguera, luz cálida amarilla, 100 metros de longitud, alimentación eléctrica de 220 V\nmediante enchufe."
+    ],
+    [
+     "39111514",
+     "Luces de árboles",
+     50,
+     "Esferas Navideñas decorativas de color dorado, de 25 cm de diámetro"
+    ],
+    [
+     "39111514",
+     "Luces de árboles",
+     50,
+     "Esferas Navideñas decorativas de color plateado, de 25 cm de diámetro."
+    ],
+    [
+     "49101609",
+     "Ornamentos y decoraciones",
+     100,
+     "Guirnaldas decorativas de 5 metros de longitud cada una"
+    ],
+    [
+     "60123204",
+     "Cintas decorativas",
+     700,
+     "Cintas decorativas con diseños navideños, destinadas a la presentación de regalos."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=3791-1209-COT26",
+   "sin_detalle": false,
+   "descripcion": "ADQUISICION DE MATERIALES E IMPLEMENTOS NAVIDEÑOS PARA ARBOL DE NAVIDAD PUERTO CISNES. SE ADJUNTAN ESPECIFICACIONES.",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
     "Gasfitería, calefacción y aire acondicionado"
    ],
    "nueva": true,
@@ -823,6 +960,42 @@
   }
  ],
  "historial": [
+  {
+   "codigo": "1233615-984-COT26",
+   "nombre": "RMG-SOL01535-Liceo Luisa Rabanal, Equipamiento para simulación EMTP 29.05, despacho incluido a Chile Chico.",
+   "organismo": "Servicio Local de Educación Pública Aysén",
+   "monto": 7000000,
+   "cierre_iso": "2026-11-23T12:00:00-03:00",
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Materiales de física de electricidad"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1233615-984-COT26",
+   "primera_vista_iso": "2026-11-12T09:58:37-03:00",
+   "removida_iso": "2026-11-23T13:00:25-03:00",
+   "estado_api": "",
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
+  {
+   "codigo": "4644-154-COT26",
+   "nombre": "Lubricantes San Rafael si 457 sire 451",
+   "organismo": "CORP NACIONAL FORESTAL",
+   "monto": 450000,
+   "cierre_iso": "2026-11-23T12:00:00-03:00",
+   "tipo": "POSIBLE",
+   "motivos": [
+    "generador"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=4644-154-COT26",
+   "primera_vista_iso": "2026-11-20T13:00:27-03:00",
+   "removida_iso": "2026-11-23T13:00:25-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
   {
    "codigo": "907-109-COT26",
    "nombre": "MAO Adquisición enseres Oficina Coyhaique ",
@@ -1620,42 +1793,6 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=1485465-45-COT26",
    "primera_vista_iso": "2026-11-13T17:00:27-03:00",
    "removida_iso": "2026-11-16T16:00:40-03:00",
-   "estado_api": "",
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "2495-658-COT26",
-   "nombre": "MATERIALES ARREGLOS ",
-   "organismo": "I MUNICIPALIDAD DE COYHAIQUE",
-   "monto": 1800000,
-   "cierre_iso": "2026-11-16T13:00:00-03:00",
-   "tipo": "POSIBLE",
-   "motivos": [
-    "ampolletas"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=2495-658-COT26",
-   "primera_vista_iso": "2026-11-13T14:00:24-03:00",
-   "removida_iso": "2026-11-16T14:00:23-03:00",
-   "estado_api": "",
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "1691-2103-COT26",
-   "nombre": "TAPP - ALARGADOR ARTERIAL 100 CM  M/H PARA REPOSICIÓN INSUMOS DEL HOSPITAL REGIONAL COYHAIQUE.",
-   "organismo": "SERVICIO NACIONAL DE SALUD HOSPITAL DE C",
-   "monto": 480000,
-   "cierre_iso": "2026-11-16T12:30:00-03:00",
-   "tipo": "POSIBLE",
-   "motivos": [
-    "alargador"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1691-2103-COT26",
-   "primera_vista_iso": "2026-11-13T13:00:24-03:00",
-   "removida_iso": "2026-11-16T13:00:26-03:00",
    "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,
