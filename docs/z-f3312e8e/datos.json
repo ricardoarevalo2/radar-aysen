@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-11-23T07:00:24.979874-03:00",
+ "actualizado": "2026-11-23T08:00:28.139974-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
- "total_region": 236,
+ "total_region": 233,
  "rubros": {
   "25172700": "Aire acondicionado",
   "25173900": "Componentes eléctricos",
@@ -19,53 +19,6 @@
   "39121400": "Conectores, enchufes y terminales"
  },
  "filas": [
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "eléctricos"
-   ],
-   "nueva": false,
-   "codigo": "3540-316-COT26",
-   "nombre": "Mandril, estación de soldadura, detector cortocircuito y kit manómetro (P.2529)",
-   "organismo": "Ejercito de Chile",
-   "unidad": "Cuerpo Militar del Trabajo Subjefatura Zonal Coyhaique",
-   "monto": 285000,
-   "cierre_iso": "2026-11-23T07:04:00-03:00",
-   "publicacion": "12-11 10:32",
-   "publicacion_iso": "2026-11-12T10:32:00-03:00",
-   "ofertas": 1,
-   "productos": [
-    [
-     "23171511",
-     "Herramientas de soldadura",
-     1,
-     "Estación de soldadura para circuitos eléctricos automotriz (ADJUNTAR IMAGEN Y/O ESPECIFICACIONES)"
-    ],
-    [
-     "23171620",
-     "Mandriles",
-     1,
-     "Mandril de 16 mm (ADJUNTAR IMAGEN Y/O ESPECIFICACIONES)"
-    ],
-    [
-     "41103311",
-     "Manómetros",
-     1,
-     "Kit manómetro  medidor de presión de aceite automotriz universal de 12 piezas (ADJUNTAR IMAGEN Y/O ESPECIFICACIONES)"
-    ],
-    [
-     "41113637",
-     "Medidores de voltaje o corriente",
-     1,
-     "Detector de cortocircuito automotriz 12-24v (ADJUNTAR IMAGEN Y/O ESPECIFICACIONES)"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=3540-316-COT26",
-   "sin_detalle": false,
-   "descripcion": "Se deben ofertar todas las líneas, indicando plazo de entrega y datos de contacto. Se privilegiará proveedor de la región o que cuente con sucursal en Coyhaique y luego precio. Este proceso no considera ítem flete ni cargos adicionales, los costos deben estar incluidos en los valores unitarios.(AJUNTAR ESPECIFICACIONES Y/O IMAGEN),(LEER TÉRMINOS DE REFERENCIA ADJUNTO).",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
   {
    "tipo": "OPORTUNIDAD",
    "motivos": [
@@ -714,6 +667,35 @@
    "desaparecida_iso": ""
   },
   {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "generador"
+   ],
+   "nueva": true,
+   "codigo": "1286962-85-COT26",
+   "nombre": "DMH SERVICIO DE ARRIENDO DE GENERADOR CENTRO RECREACIONAL \"ALCALDE OSCAR CATALAN SANCHEZ\"",
+   "organismo": "Corporación de Deportes y Recreación de la Municipalidad de Aysén",
+   "unidad": "Corporación de Deportes y Recreación de la Municipalidad de Aysén",
+   "monto": 790000,
+   "cierre_iso": "2026-11-24T07:43:00-03:00",
+   "publicacion": "20-11 18:01",
+   "publicacion_iso": "2026-11-20T18:01:00-03:00",
+   "ofertas": 3,
+   "productos": [
+    [
+     "26111601",
+     "Generadores diesel",
+     1,
+     "ARRIENDO DE GENERADOR 6.5 kva POR 30 DIAS CORRIDOS PARA EL FUNCIONAMIENTO DEL CENTRO RECREACIONAL \"ALCALDE OSCAR CATALAN SANCHEZ\""
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1286962-85-COT26",
+   "sin_detalle": false,
+   "descripcion": "Se requiere el arriendo de generador para el funcionamiento operativo del Centro Recreacional \"Alcalde Oscar Catalán Sánchez\"",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
    "tipo": "OPORTUNIDAD",
    "motivos": [
     "Conectores, enchufes y terminales"
@@ -893,52 +875,23 @@
    "descripcion": "Servicio de mejoramiento de calefacción en oficina de Puerto Aysén y Coyhaique",
    "en_gracia": false,
    "desaparecida_iso": ""
-  },
-  {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Gasfitería, calefacción y aire acondicionado"
-   ],
-   "nueva": false,
-   "codigo": "1905-88-COT26",
-   "nombre": "Servicio de mejoramiento de calefacción en equipos de aire acondicionado en oficinas de Puerto Aysén y Coyhaique",
-   "organismo": "",
-   "unidad": "",
-   "monto": null,
-   "cierre_iso": "",
-   "publicacion": "",
-   "publicacion_iso": "",
-   "ofertas": 0,
-   "productos": [
-    [
-     "72102302",
-     "Instalación, reparación o mantenimiento de sistemas de calefacción",
-     1,
-     "Servicio de mejoramiento de calefacción en equipos de aire acondicionado en oficinas de Puerto Aysén y Coyhaique"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1905-88-COT26",
-   "sin_detalle": false,
-   "descripcion": "Servicio de mejoramiento de calefacción de aire acondicionado en oficina de Puerto Aysén y Coyhaique. Favor (revisar los TDR en los archivos adjuntos y fechas de visita en terreno)",
-   "en_gracia": true,
-   "desaparecida_iso": "2026-11-18T20:00:26-03:00"
   }
  ],
  "historial": [
   {
-   "codigo": "1286962-85-COT26",
-   "nombre": "DMH SERVICIO DE ARRIENDO DE GENERADOR CENTRO RECREACIONAL \"ALCALDE OSCAR CATALAN SANCHEZ\"",
-   "organismo": "Corporación de Deportes y Recreación de la Municipalidad de Aysén",
-   "monto": 790000,
-   "cierre_iso": "2026-11-21T18:05:00-03:00",
+   "codigo": "3540-316-COT26",
+   "nombre": "Mandril, estación de soldadura, detector cortocircuito y kit manómetro (P.2529)",
+   "organismo": "Ejercito de Chile",
+   "monto": 285000,
+   "cierre_iso": "2026-11-23T07:04:00-03:00",
    "tipo": "POSIBLE",
    "motivos": [
-    "generador"
+    "eléctricos"
    ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1286962-85-COT26",
-   "primera_vista_iso": "2026-11-20T19:00:27-03:00",
-   "removida_iso": "2026-11-21T19:00:23-03:00",
-   "estado_api": null,
+   "link": "https://buscador.mercadopublico.cl/ficha?code=3540-316-COT26",
+   "primera_vista_iso": "2026-11-12T13:45:25-03:00",
+   "removida_iso": "2026-11-23T08:00:28-03:00",
+   "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,
    "adj_iso": null
@@ -1795,6 +1748,24 @@
    "primera_vista_iso": "2026-11-13T16:00:24-03:00",
    "removida_iso": "2026-11-16T10:00:36-03:00",
    "estado_api": "",
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
+  {
+   "codigo": "1905-88-COT26",
+   "nombre": "Servicio de mejoramiento de calefacción en equipos de aire acondicionado en oficinas de Puerto Aysén y Coyhaique",
+   "organismo": "",
+   "monto": null,
+   "cierre_iso": "",
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Gasfitería, calefacción y aire acondicionado"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1905-88-COT26",
+   "primera_vista_iso": "2026-11-20T21:04:02-03:00",
+   "removida_iso": "2026-11-23T08:00:28-03:00",
+   "estado_api": null,
    "adj_nombre": null,
    "adj_monto": null,
    "adj_iso": null
