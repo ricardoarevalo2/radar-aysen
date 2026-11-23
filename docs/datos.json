@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-11-23T10:00:26.804461-03:00",
+ "actualizado": "2026-11-23T11:00:28.497959-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
- "total_region": 226,
+ "total_region": 223,
  "rubros": {
   "80141600": "Ventas y marketing",
   "82101600": "Publicidad en medios no impresos",
@@ -14,147 +14,6 @@
   "83121700": "Comunicación social y de masas"
  },
  "filas": [
-  {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Ventas y marketing"
-   ],
-   "nueva": false,
-   "codigo": "1182705-228-COT26",
-   "nombre": "PRODUCCION DE EVENTO PARA CEREMONIA DE INVESTIDURA TNS EN ENFERMERIA 2026.",
-   "organismo": "CENTRO DE FORMACIÓN TÉCNICA DE LA REGIÓN DE AYSÉN DEL GENERAL CARLOS I",
-   "unidad": "FINANZAS",
-   "monto": 2000000,
-   "cierre_iso": "2026-11-23T10:00:00-03:00",
-   "publicacion": "21-11 11:50",
-   "publicacion_iso": "2026-11-21T11:50:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "80141607",
-     "Producción de eventos",
-     1,
-     "Ornamentación debe incluir escenario (Tamaño: 4 metros de ancho y 10 metros de largo aprox.), ornamentación de escenario y la entrada del Polideportivo, flores en el escenario, puesto de fotografia investidura ornamentado, se deben incluir 200 sillas y 50 accesorios para decorar cada silla (estudiantes). Por disponibilidad del recinto el armado se debe realizar ek día 25 de noviembre a las 9:30 horas en adelante. La prestación incluye la instalación y retiro de gomas de protección del piso."
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1182705-228-COT26",
-   "sin_detalle": false,
-   "descripcion": "Se requiere de producción de eventos para 200 personas, ceremonia TNS en Enfermería 2026, actividad programada para el día miércoles 25 de noviembre 2026 a las 18:00 horas, en recinto del Polideportivo de Puerto Aysén.",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "fotografía"
-   ],
-   "nueva": false,
-   "codigo": "1428275-61-COT26",
-   "nombre": "ADQUISICIÓN DE MOBILIARIO",
-   "organismo": "SERVICIO NACIONAL DEL PATRIMONIO CULTURAL",
-   "unidad": "DIRECCIÓN REGIONAL DE AYSEN",
-   "monto": 1492300,
-   "cierre_iso": "2026-11-23T10:00:00-03:00",
-   "publicacion": "19-11 15:25",
-   "publicacion_iso": "2026-11-19T15:25:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "56101504",
-     "Sillas",
-     2,
-     "Apoyo Lumbar acolchado, apoyacabeza regulable en altura e inclinación, ofreciendo el soporte adecuado para la zona cervical regulación de altura y ancho, respaldo de malla respirable, asiento ergonómico con doble acolchado en espuma de alta densidad, mecanismo reclinable sincrónico, con 3 posiciones de reclinación (puedes fijarla o dejar con libre movimiento), pistón neumático de acero, base de aluminio 100% metal, ruedas de alta calidad, que soporte sobre 100 kilos de peso."
-    ],
-    [
-     "56101532",
-     "Mobiliario",
-     2,
-     "Cajonera de 4 ruedas y 3 cajones, de 43 x 45 x 60 h. Cubierta en melamina de 25 mm de espesor, canto de pvc de 2 mm estructura en melamina de 18 mm de espesor, canto de pvc de 0,45mm. 3 cajones y cerradura frontal con llave abisagrada. Color ROJO (MASISA) o a elección."
-    ],
-    [
-     "56101532",
-     "Mobiliario",
-     1,
-     "Podio de acrílico y madera, 120 cm de alto, 55 cm ancho, 55 cm fondo, con paredes laterales, con grabado en vinilo del logo institucional a color y con al menos una repisa interior"
-    ],
-    [
-     "56101535",
-     "Carritos de mobiliario",
-     4,
-     "Carro portalibros metálico sin laterales de madera, estructura de pilares de tubo Revestimientos laterales de acero, con 4 ruedas giratorias de 2 de ellas con freno. Medidas: Alto 110 x largo 65 x fondo 43 cm. Color a elegir. Producto similar a fotografía adjunta."
-    ],
-    [
-     "56101703",
-     "Escritorios",
-     1,
-     "Escritorio cubierta en laminado HPL de 25 mm de espesor, tras cara balance, canto de PVC de 2 mm. Terminaciones y color blanco. Bases metálicas electro pintadas (Blanco MT), lateral perfil de 40x60 mm con patines regulables. Electrificación caja metálica simple-triple. Faldón metálico electro pintado micropoerforado o liso soportado con escuadras a cubierta. Dimensiones: 150x76x76"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1428275-61-COT26",
-   "sin_detalle": false,
-   "descripcion": "El Servicio Nacional del Patrimonio Cultural Región de Aysén requiere la “ADQUISICIÓN DE MOBILIARIO”, para sus oficinas y dependencias institucionales, con el propósito de proporcionar espacios de trabajos adecuados y funcionales que contribuyan al desarrollo de las labores propias del Servicio.",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "difusión",
-    "publicidad"
-   ],
-   "nueva": false,
-   "codigo": "1233615-1018-COT26",
-   "nombre": "DMH [SOL-2026-02150] Recursos para el aprendizaje e innovación (pendones) para Liceo Politécnico A-1 de Puerto Aysén",
-   "organismo": "Servicio Local de Educación Pública Aysén",
-   "unidad": "Servicio Local de Educación Pública Aysén",
-   "monto": 600000,
-   "cierre_iso": "2026-11-23T10:00:00-03:00",
-   "publicacion": "19-11 09:13",
-   "publicacion_iso": "2026-11-19T09:13:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "82101502",
-     "Publicidad en carteles",
-     1,
-     "Recursos para el aprendizaje e innovación para Liceo Politécnico A-1 de Puerto Aysén (bandera vela y Panel araña), de acuerdo a requerimiento adjunto a la presente compra (debe llenar formulario 1)"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1233615-1018-COT26",
-   "sin_detalle": false,
-   "descripcion": "Estos implementos permitirán desarrollar competencias tecnológicas, comunicativas, técnicas y laborales, fomentar la creatividad, el trabajo colaborativo y la participación estudiantil, además de apoyar la difusión de las actividades institucionales y el mejoramiento de los espacios educativos.",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "difusión"
-   ],
-   "nueva": false,
-   "codigo": "1233615-1015-COT26",
-   "nombre": "DMH [SOL-2026-02150] Recursos para el aprendizaje e innovación (focos, atriles y otros) para Liceo Politécnico A-1 de Puerto Aysén",
-   "organismo": "Servicio Local de Educación Pública Aysén",
-   "unidad": "Servicio Local de Educación Pública Aysén",
-   "monto": 425000,
-   "cierre_iso": "2026-11-23T10:00:00-03:00",
-   "publicacion": "19-11 08:52",
-   "publicacion_iso": "2026-11-19T08:52:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "39111504",
-     "Sistemas de iluminación de escenario o estudio",
-     1,
-     "Recursos para el aprendizaje e innovación (atril, focos y otros) para Liceo Politécnico A-1 de Puerto Aysén, de acuerdo a requerimiento adjunto a la presente compra (llenar formulario 1)"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1233615-1015-COT26",
-   "sin_detalle": false,
-   "descripcion": "Estos implementos permitirán desarrollar competencias tecnológicas, comunicativas, técnicas y laborales, fomentar la creatividad, el trabajo colaborativo y la participación estudiantil, además de apoyar la difusión de las actividades institucionales y el mejoramiento de los espacios educativos.",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
   {
    "tipo": "OPORTUNIDAD",
    "motivos": [
@@ -366,6 +225,47 @@
    "desaparecida_iso": ""
   },
   {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Ventas y marketing"
+   ],
+   "nueva": true,
+   "codigo": "2713-1456-COT26",
+   "nombre": " Servicio de producción y desarrollo de la actividad “One Song \" Folio 1517",
+   "organismo": "I MUNICIPALIDAD DE AYSEN",
+   "unidad": "I.MUNICIPALIDAD AYSEN-ADQUISICIONES",
+   "monto": 400000,
+   "cierre_iso": "2026-11-24T10:30:00-03:00",
+   "publicacion": "23-11 10:21",
+   "publicacion_iso": "2026-11-23T10:21:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "80141607",
+     "Producción de eventos",
+     1,
+     "Planificación y ejecución del taller “One Song – Taller de Canto”, Puerto Aysén, según Anexo Técnico: preparación metodológica y 2 jornadas formativas presenciales de 2 horas cronológicas para niños, niñas y adolescentes. Viernes 27 de noviembre: jornada teórico-formativa (introducción al canto, respiración, técnica vocal básica). Sábado 28 de noviembre: jornada práctica (aprendizaje de una canción, armonización vocal y ensayo)."
+    ],
+    [
+     "80141607",
+     "Producción de eventos",
+     1,
+     "Preparación, coordinación y dirección de la presentación coral colectiva de cierre del taller “One Song – Taller de Canto”, de aproximadamente 20 minutos, con los participantes del taller, el domingo 29 de noviembre en Puerto Aysén, según Anexo Técnico. Incluye la coordinación de la prueba de sonido con la contraparte técnica."
+    ],
+    [
+     "80141607",
+     "Producción de eventos",
+     1,
+     "Registro audiovisual de la presentación final del taller “One Song – Taller de Canto” (29 de noviembre), entregado en formato digital apto para reproducción y difusión, dentro de 5 días hábiles desde la presentación, según Anexo Técnico. Los equipos y medios de registro son de cargo del proveedor."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=2713-1456-COT26",
+   "sin_detalle": false,
+   "descripcion": "Contratación de profesional y/o artista del área musical para planificar y ejecutar el taller presencial “One Song – Taller de Canto”, dirigido a niños, niñas y adolescentes en Puerto Aysén: 2 jornadas formativas de 2 horas (27 y 28 de noviembre), dirección de presentación coral final de 20 min (29 de noviembre) y registro audiovisual. Valorizar cada componente por separado (taller, presentación y registro). Se exige certificado de inhabilidades para trabajar con menores. Ver Anexo Técnico.",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
    "tipo": "POSIBLE",
    "motivos": [
     "publicitarios"
@@ -513,6 +413,59 @@
    "desaparecida_iso": ""
   },
   {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "fotografía"
+   ],
+   "nueva": false,
+   "codigo": "1428275-61-COT26",
+   "nombre": "ADQUISICIÓN DE MOBILIARIO",
+   "organismo": "SERVICIO NACIONAL DEL PATRIMONIO CULTURAL",
+   "unidad": "DIRECCIÓN REGIONAL DE AYSEN",
+   "monto": 1492300,
+   "cierre_iso": "2026-11-27T04:34:00-03:00",
+   "publicacion": "19-11 15:25",
+   "publicacion_iso": "2026-11-19T15:25:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "56101504",
+     "Sillas",
+     2,
+     "Apoyo Lumbar acolchado, apoyacabeza regulable en altura e inclinación, ofreciendo el soporte adecuado para la zona cervical regulación de altura y ancho, respaldo de malla respirable, asiento ergonómico con doble acolchado en espuma de alta densidad, mecanismo reclinable sincrónico, con 3 posiciones de reclinación (puedes fijarla o dejar con libre movimiento), pistón neumático de acero, base de aluminio 100% metal, ruedas de alta calidad, que soporte sobre 100 kilos de peso."
+    ],
+    [
+     "56101532",
+     "Mobiliario",
+     2,
+     "Cajonera de 4 ruedas y 3 cajones, de 43 x 45 x 60 h. Cubierta en melamina de 25 mm de espesor, canto de pvc de 2 mm estructura en melamina de 18 mm de espesor, canto de pvc de 0,45mm. 3 cajones y cerradura frontal con llave abisagrada. Color ROJO (MASISA) o a elección."
+    ],
+    [
+     "56101532",
+     "Mobiliario",
+     1,
+     "Podio de acrílico y madera, 120 cm de alto, 55 cm ancho, 55 cm fondo, con paredes laterales, con grabado en vinilo del logo institucional a color y con al menos una repisa interior"
+    ],
+    [
+     "56101535",
+     "Carritos de mobiliario",
+     4,
+     "Carro portalibros metálico sin laterales de madera, estructura de pilares de tubo Revestimientos laterales de acero, con 4 ruedas giratorias de 2 de ellas con freno. Medidas: Alto 110 x largo 65 x fondo 43 cm. Color a elegir. Producto similar a fotografía adjunta."
+    ],
+    [
+     "56101703",
+     "Escritorios",
+     1,
+     "Escritorio cubierta en laminado HPL de 25 mm de espesor, tras cara balance, canto de PVC de 2 mm. Terminaciones y color blanco. Bases metálicas electro pintadas (Blanco MT), lateral perfil de 40x60 mm con patines regulables. Electrificación caja metálica simple-triple. Faldón metálico electro pintado micropoerforado o liso soportado con escuadras a cubierta. Dimensiones: 150x76x76"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1428275-61-COT26",
+   "sin_detalle": false,
+   "descripcion": "El Servicio Nacional del Patrimonio Cultural Región de Aysén requiere la “ADQUISICIÓN DE MOBILIARIO”, para sus oficinas y dependencias institucionales, con el propósito de proporcionar espacios de trabajos adecuados y funcionales que contribuyan al desarrollo de las labores propias del Servicio.",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
    "tipo": "OPORTUNIDAD",
    "motivos": [
     "Ventas y marketing"
@@ -538,6 +491,35 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=2494-311-COT26",
    "sin_detalle": false,
    "descripcion": "El servicio debe integrar espectáculo de circo de aproximadamente 40 minutos que contemple malabares, monociclos, hula hula, equilibrios y actividades participativas con el público.  El servicio debe contemplar una instancia artística participativa con el público para que los asistentes puedan interactuar con los elementos del circo. LOS DETALLES SE ENCUENTRAN EN LAS BASES ADJUNTA.",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "difusión"
+   ],
+   "nueva": false,
+   "codigo": "1233615-1015-COT26",
+   "nombre": "DMH [SOL-2026-02150] Recursos para el aprendizaje e innovación (focos, atriles y otros) para Liceo Politécnico A-1 de Puerto Aysén",
+   "organismo": "Servicio Local de Educación Pública Aysén",
+   "unidad": "Servicio Local de Educación Pública Aysén",
+   "monto": 425000,
+   "cierre_iso": "2026-11-27T11:07:00-03:00",
+   "publicacion": "19-11 08:52",
+   "publicacion_iso": "2026-11-19T08:52:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "39111504",
+     "Sistemas de iluminación de escenario o estudio",
+     1,
+     "Recursos para el aprendizaje e innovación (atril, focos y otros) para Liceo Politécnico A-1 de Puerto Aysén, de acuerdo a requerimiento adjunto a la presente compra (llenar formulario 1)"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1233615-1015-COT26",
+   "sin_detalle": false,
+   "descripcion": "Estos implementos permitirán desarrollar competencias tecnológicas, comunicativas, técnicas y laborales, fomentar la creatividad, el trabajo colaborativo y la participación estudiantil, además de apoyar la difusión de las actividades institucionales y el mejoramiento de los espacios educativos.",
    "en_gracia": false,
    "desaparecida_iso": ""
   },
@@ -625,6 +607,25 @@
  ],
  "historial": [
   {
+   "codigo": "1233615-1018-COT26",
+   "nombre": "DMH [SOL-2026-02150] Recursos para el aprendizaje e innovación (pendones) para Liceo Politécnico A-1 de Puerto Aysén",
+   "organismo": "Servicio Local de Educación Pública Aysén",
+   "monto": 600000,
+   "cierre_iso": "2026-11-23T10:00:00-03:00",
+   "tipo": "POSIBLE",
+   "motivos": [
+    "difusión",
+    "publicidad"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1233615-1018-COT26",
+   "primera_vista_iso": "2026-11-19T10:00:24-03:00",
+   "removida_iso": "2026-11-23T11:00:28-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
+  {
    "codigo": "4066-540-COT26",
    "nombre": "Servicios de Impresión, Merchandising, Información Turística",
    "organismo": "I MUNICIPALIDAD RIO IBANEZ",
@@ -637,6 +638,24 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=4066-540-COT26",
    "primera_vista_iso": "2026-11-20T14:00:24-03:00",
    "removida_iso": "2026-11-23T10:00:26-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
+  {
+   "codigo": "1182705-228-COT26",
+   "nombre": "PRODUCCION DE EVENTO PARA CEREMONIA DE INVESTIDURA TNS EN ENFERMERIA 2026.",
+   "organismo": "CENTRO DE FORMACIÓN TÉCNICA DE LA REGIÓN DE AYSÉN DEL GENERAL CARLOS I",
+   "monto": 2000000,
+   "cierre_iso": "2026-11-23T10:00:00-03:00",
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Ventas y marketing"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1182705-228-COT26",
+   "primera_vista_iso": "2026-11-21T12:00:23-03:00",
+   "removida_iso": "2026-11-23T11:00:28-03:00",
    "estado_api": null,
    "adj_nombre": null,
    "adj_monto": null,

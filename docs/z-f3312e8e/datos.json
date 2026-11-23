@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-11-23T10:00:26.804461-03:00",
+ "actualizado": "2026-11-23T11:00:28.497959-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
- "total_region": 226,
+ "total_region": 223,
  "rubros": {
   "25172700": "Aire acondicionado",
   "25173900": "Componentes eléctricos",
@@ -19,147 +19,6 @@
   "39121400": "Conectores, enchufes y terminales"
  },
  "filas": [
-  {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Conectores, enchufes y terminales"
-   ],
-   "nueva": false,
-   "codigo": "1233615-1016-COT26",
-   "nombre": "DMH SOL-2026-01931] Recursos TICS para Escuela \"Litoral Austral\" de Puerto Aysén",
-   "organismo": "Servicio Local de Educación Pública Aysén",
-   "unidad": "Servicio Local de Educación Pública Aysén",
-   "monto": 302470,
-   "cierre_iso": "2026-11-23T10:00:00-03:00",
-   "publicacion": "19-11 08:57",
-   "publicacion_iso": "2026-11-19T08:57:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "39121409",
-     "Conectores de cables eléctricos",
-     1,
-     "insumos, accesorios y equipamiento informático necesarios para garantizar la continuidad operativa, mantención y adecuado funcionamiento de los recursos tecnológicos de la Escuela Litoral Austral, de acuerdo a requerimiento adjunto a la presente compra (debe llenar el formulario N°1)"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1233615-1016-COT26",
-   "sin_detalle": false,
-   "descripcion": "Se solicita la adquisición de insumos, accesorios y equipamiento informático necesarios para garantizar la continuidad operativa, mantención y adecuado funcionamiento de los recursos tecnológicos de la Escuela Litoral Austral.",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "iluminación"
-   ],
-   "nueva": false,
-   "codigo": "1233615-1015-COT26",
-   "nombre": "DMH [SOL-2026-02150] Recursos para el aprendizaje e innovación (focos, atriles y otros) para Liceo Politécnico A-1 de Puerto Aysén",
-   "organismo": "Servicio Local de Educación Pública Aysén",
-   "unidad": "Servicio Local de Educación Pública Aysén",
-   "monto": 425000,
-   "cierre_iso": "2026-11-23T10:00:00-03:00",
-   "publicacion": "19-11 08:52",
-   "publicacion_iso": "2026-11-19T08:52:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "39111504",
-     "Sistemas de iluminación de escenario o estudio",
-     1,
-     "Recursos para el aprendizaje e innovación (atril, focos y otros) para Liceo Politécnico A-1 de Puerto Aysén, de acuerdo a requerimiento adjunto a la presente compra (llenar formulario 1)"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1233615-1015-COT26",
-   "sin_detalle": false,
-   "descripcion": "Estos implementos permitirán desarrollar competencias tecnológicas, comunicativas, técnicas y laborales, fomentar la creatividad, el trabajo colaborativo y la participación estudiantil, además de apoyar la difusión de las actividades institucionales y el mejoramiento de los espacios educativos.",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
-  {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Suministros y accesorios eléctricos"
-   ],
-   "nueva": false,
-   "codigo": "3791-1200-COT26",
-   "nombre": "EPP AREAS VERDES",
-   "organismo": "I MUNICIPALIDAD DE CISNES",
-   "unidad": "Finanzas",
-   "monto": 4270780,
-   "cierre_iso": "2026-11-23T10:30:00-03:00",
-   "publicacion": "20-11 16:27",
-   "publicacion_iso": "2026-11-20T16:27:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "31261603",
-     "Cascos y envolturas de acero",
-     11,
-     "Casco forestal con visor de malla"
-    ],
-    [
-     "39121719",
-     "Protectores",
-     11,
-     "Protector auditivo"
-    ],
-    [
-     "46181535",
-     "Medias o calcetines de protección",
-     22,
-     "Polainas / canilleras de protección para desbrozado"
-    ],
-    [
-     "53102102",
-     "Overol y sobretodo para hombre",
-     400,
-     "Buzo protector desechable Tallas: 50 M, 200 L, 100 XL, 50 XXL"
-    ],
-    [
-     "53102102",
-     "Overol y sobretodo para hombre",
-     18,
-     "Overol tipo piloto TALLAS: 6M - 8L - 2XL - 2XXL"
-    ],
-    [
-     "53102307",
-     "Bodies, fajas o corsés",
-     11,
-     "Fajas lumbares Tallas: 2 M, 4 L, 3 XL, 2XXL"
-    ],
-    [
-     "53102504",
-     "Guantes o manoplas",
-     500,
-     "Par de Guantes palma engomada"
-    ],
-    [
-     "53102504",
-     "Guantes o manoplas",
-     500,
-     "Par Guante cabritilla"
-    ],
-    [
-     "53102516",
-     "Gorras",
-     11,
-     "Legionario"
-    ],
-    [
-     "53131609",
-     "Protector solar",
-     22,
-     "Protector solar FPS 50 (1 L)"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=3791-1200-COT26",
-   "sin_detalle": false,
-   "descripcion": "ADQUISICION DE ELEMENTOS DE PROTECCION PERSONAL PARA TRABAJADORES CONTRATADOS EN AREAS VERDES, SE ADJUNTA FICHA TECNICA DE CADA REQUERIMIENTO.",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
   {
    "tipo": "POSIBLE",
    "motivos": [
@@ -945,6 +804,35 @@
     "iluminación"
    ],
    "nueva": false,
+   "codigo": "1233615-1015-COT26",
+   "nombre": "DMH [SOL-2026-02150] Recursos para el aprendizaje e innovación (focos, atriles y otros) para Liceo Politécnico A-1 de Puerto Aysén",
+   "organismo": "Servicio Local de Educación Pública Aysén",
+   "unidad": "Servicio Local de Educación Pública Aysén",
+   "monto": 425000,
+   "cierre_iso": "2026-11-27T11:07:00-03:00",
+   "publicacion": "19-11 08:52",
+   "publicacion_iso": "2026-11-19T08:52:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "39111504",
+     "Sistemas de iluminación de escenario o estudio",
+     1,
+     "Recursos para el aprendizaje e innovación (atril, focos y otros) para Liceo Politécnico A-1 de Puerto Aysén, de acuerdo a requerimiento adjunto a la presente compra (llenar formulario 1)"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1233615-1015-COT26",
+   "sin_detalle": false,
+   "descripcion": "Estos implementos permitirán desarrollar competencias tecnológicas, comunicativas, técnicas y laborales, fomentar la creatividad, el trabajo colaborativo y la participación estudiantil, además de apoyar la difusión de las actividades institucionales y el mejoramiento de los espacios educativos.",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "iluminación"
+   ],
+   "nueva": false,
    "codigo": "4066-537-COT26",
    "nombre": "SERVICIO DE PRODUCCIÓN DE EVENTO CON AMPLIFICACIÓN Y PRESENTACIÓN MUSICAL ENCUENTRO DE ACORDEÓN Y GUITARRA 2026, según TDR adjuntos.",
    "organismo": "",
@@ -970,6 +858,42 @@
   }
  ],
  "historial": [
+  {
+   "codigo": "3791-1200-COT26",
+   "nombre": "EPP AREAS VERDES",
+   "organismo": "I MUNICIPALIDAD DE CISNES",
+   "monto": 4270780,
+   "cierre_iso": "2026-11-23T10:30:00-03:00",
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Suministros y accesorios eléctricos"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=3791-1200-COT26",
+   "primera_vista_iso": "2026-11-20T17:00:37-03:00",
+   "removida_iso": "2026-11-23T11:00:28-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
+  {
+   "codigo": "1233615-1016-COT26",
+   "nombre": "DMH SOL-2026-01931] Recursos TICS para Escuela \"Litoral Austral\" de Puerto Aysén",
+   "organismo": "Servicio Local de Educación Pública Aysén",
+   "monto": 302470,
+   "cierre_iso": "2026-11-23T10:00:00-03:00",
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Conectores, enchufes y terminales"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1233615-1016-COT26",
+   "primera_vista_iso": "2026-11-19T09:00:33-03:00",
+   "removida_iso": "2026-11-23T11:00:28-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
   {
    "codigo": "3765-368-COT26",
    "nombre": "INSUMOS Y HERRAMIENTAS PARA MANTEMIENTOS",
@@ -1749,24 +1673,6 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=1691-2103-COT26",
    "primera_vista_iso": "2026-11-13T13:00:24-03:00",
    "removida_iso": "2026-11-16T13:00:26-03:00",
-   "estado_api": "",
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "3540-306-COT26",
-   "nombre": "Reptos, bateria e Insumos para Generador Kolvo ",
-   "organismo": "Ejercito de Chile",
-   "monto": 270000,
-   "cierre_iso": "2026-11-16T11:00:00-03:00",
-   "tipo": "POSIBLE",
-   "motivos": [
-    "generador"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=3540-306-COT26",
-   "primera_vista_iso": "2026-11-12T09:58:37-03:00",
-   "removida_iso": "2026-11-16T12:00:26-03:00",
    "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,
