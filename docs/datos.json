@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-11-23T15:00:23.381737-03:00",
+ "actualizado": "2026-11-23T16:00:27.114189-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
- "total_region": 232,
+ "total_region": 247,
  "rubros": {
   "80141600": "Ventas y marketing",
   "82101600": "Publicidad en medios no impresos",
@@ -331,6 +331,93 @@
    "desaparecida_iso": ""
   },
   {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Ventas y marketing"
+   ],
+   "nueva": true,
+   "codigo": "2495-668-COT26",
+   "nombre": "Producción de 2 sesiones de baños de bosque para 20 personas",
+   "organismo": "I MUNICIPALIDAD DE COYHAIQUE",
+   "unidad": "DIRECCION DESARROLLO COMUNITARIO",
+   "monto": 300000,
+   "cierre_iso": "2026-11-24T16:07:00-03:00",
+   "publicacion": "16-11 11:22",
+   "publicacion_iso": "2026-11-16T11:22:00-03:00",
+   "ofertas": 1,
+   "productos": [
+    [
+     "80141607",
+     "Producción de eventos",
+     2,
+     "Producción de 2 sesiones de baños de bosque para 20 personas: debe incluir monitor en baños de bosque o asociado y colación: sándwich mas un jugo pequeño en caja."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=2495-668-COT26",
+   "sin_detalle": false,
+   "descripcion": "Producción de 2 sesiones de baños de bosque para 20 personas: debe incluir monitor en baños de bosque o asociado y colación: sándwich mas un jugo pequeño en caja.",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "difusion"
+   ],
+   "nueva": true,
+   "codigo": "1758-304-COT26",
+   "nombre": "INSUMOS DECORATIVOS EN EL MARCO DE LA DIFUSION DEL PLAN CHILE APRENDE Y AVANZA MINEDUC.",
+   "organismo": "SECRETARIA REGIONAL MINISTERIAL DE EDUCACION XI REGION",
+   "unidad": "Mineduc Administración XI Región",
+   "monto": 300000,
+   "cierre_iso": "2026-11-24T16:30:00-03:00",
+   "publicacion": "23-11 15:56",
+   "publicacion_iso": "2026-11-23T15:56:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "49161523",
+     "Banderines de fútbol",
+     5,
+     "05 TIRAS DE 02 METROS DE BANDERINES DECORATIVOS DE COLORES, CONFECCIONADOS EN ALGODOY Y CON BORDES REFORZADOS (BORDADOS) CADA TRIANGULO DE 18X22 CMS. CON ENTREGA EN GABINETE, SECREDUC UBICADO EN FCO. BILBAO 540 DE LA CIUDAD DE COYHAIQUE.\nRECICLABLE."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1758-304-COT26",
+   "sin_detalle": false,
+   "descripcion": "SE REQUIERE ADQUIRIR INSUMOS DECORATIVOS 05 TIRAS DE 02 MTS. DE BANDERINES DECORATIVOS DE COLORES CONFECCIONADOS EN ALGODON Y CON BORDES REFORZADOS (BORDADOS) CADA TRIANGULO DE 18X22CMS. EN EL MARCO DE LA DIFUSION DEL PLAN CHILE APRENDE Y AVANZA MINEDUC.\nENTREGA EN GABINETE, SECREDUC UBICADO EN FCO. BILBAO 540 DE LA CIUDAD DE COYHAIQUE.",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "difusion"
+   ],
+   "nueva": true,
+   "codigo": "1758-305-COT26",
+   "nombre": "INSUMOS PARA LA EJECUCION DE LA DIFUSION DEL PLAN CHILE APRENDE Y AVANZA MINEDUC",
+   "organismo": "SECRETARIA REGIONAL MINISTERIAL DE EDUCACION XI REGION",
+   "unidad": "Mineduc Administración XI Región",
+   "monto": 30000,
+   "cierre_iso": "2026-11-24T16:30:00-03:00",
+   "publicacion": "23-11 15:47",
+   "publicacion_iso": "2026-11-23T15:47:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "70142007",
+     "Servicios de preparación del mercado para cosechas de frutas",
+     12,
+     "04 KILOS DE MANDARINAS.\n04 KILOS DE PLATANOS.\n04 KILOS DE MANZANAS FUJI.\nENTREGA EN FACO. BILBAO 540 SECREDUC EN LA CIUDAD DE COYHAIQUE."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1758-305-COT26",
+   "sin_detalle": false,
+   "descripcion": "SE REQUIERE ADQUIRIR INSUMOS PARA LA EJECUCION DE DIFUSION DEL PLAN CHILE APRENDE Y AVANZA DEL MINISTERIO DE EDUCACION A REALIZARSE EL DIA 28 DE NOVIEMBRE EN LA CIUDAD DE COYHAIQUE.\nENTREGA EN FCO. BILBAO 540 GABINETE, SECREDUC.",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
    "tipo": "POSIBLE",
    "motivos": [
     "avisos",
@@ -543,6 +630,35 @@
    "desaparecida_iso": ""
   },
   {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "difusión"
+   ],
+   "nueva": true,
+   "codigo": "1233615-1017-COT26",
+   "nombre": "DMH [SOL-2026-02150] Recursos para el aprendizaje e innovación (hidrolavadora y manguera) para Liceo Politécnico A-1 de Puerto Aysén",
+   "organismo": "Servicio Local de Educación Pública Aysén",
+   "unidad": "Servicio Local de Educación Pública Aysén",
+   "monto": 230000,
+   "cierre_iso": "2026-11-27T15:09:00-03:00",
+   "publicacion": "19-11 09:06",
+   "publicacion_iso": "2026-11-19T09:06:00-03:00",
+   "ofertas": 1,
+   "productos": [
+    [
+     "40142008",
+     "Mangueras para agua",
+     1,
+     "Recursos para el aprendizaje e innovación (Hidrolavadora y manguera) para Liceo Politécnico A-1 de Puerto Aysén, de acuerdo a requerimiento adjunto a la presente compra (debe llenar formulario 1)"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1233615-1017-COT26",
+   "sin_detalle": false,
+   "descripcion": "Estos implementos permitirán desarrollar competencias tecnológicas, comunicativas, técnicas y laborales, fomentar la creatividad, el trabajo colaborativo y la participación estudiantil, además de apoyar la difusión de las actividades institucionales y el mejoramiento de los espacios educativos.",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
    "tipo": "OPORTUNIDAD",
    "motivos": [
     "Ventas y marketing"
@@ -729,24 +845,6 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=1182705-228-COT26",
    "primera_vista_iso": "2026-11-21T12:00:23-03:00",
    "removida_iso": "2026-11-23T11:00:28-03:00",
-   "estado_api": null,
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "1233615-1017-COT26",
-   "nombre": "DMH [SOL-2026-02150] Recursos para el aprendizaje e innovación (hidrolavadora y manguera) para Liceo Politécnico A-1 de Puerto Aysén",
-   "organismo": "Servicio Local de Educación Pública Aysén",
-   "monto": 230000,
-   "cierre_iso": "2026-11-23T09:00:00-03:00",
-   "tipo": "POSIBLE",
-   "motivos": [
-    "difusión"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1233615-1017-COT26",
-   "primera_vista_iso": "2026-11-19T10:00:24-03:00",
-   "removida_iso": "2026-11-23T10:00:26-03:00",
    "estado_api": null,
    "adj_nombre": null,
    "adj_monto": null,
@@ -1703,24 +1801,6 @@
    "adj_iso": null
   },
   {
-   "codigo": "2495-668-COT26",
-   "nombre": "Producción de 2 sesiones de baños de bosque para 20 personas",
-   "organismo": "I MUNICIPALIDAD DE COYHAIQUE",
-   "monto": 300000,
-   "cierre_iso": "2026-11-17T11:30:00-03:00",
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Ventas y marketing"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=2495-668-COT26",
-   "primera_vista_iso": "2026-11-16T12:00:26-03:00",
-   "removida_iso": "2026-11-17T12:00:27-03:00",
-   "estado_api": "",
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
    "codigo": "1428-21-COT26",
    "nombre": "PUBLICACIÓN DE DOS AVISOS EN DIARIO DE CIRCULACIÓN REGIONAL PARA SERNAPESCA, DIRECCIÓN REGIONAL DE AYSÉN, RELATIVOS AL PROCESO DE ASIGNACIÓN DE LA CALETA ESTER ÁLVAREZ, COMUNA DE GUAITECAS.",
    "organismo": "Servicio Nacional de Pesca y Acuicultura",
@@ -1770,24 +1850,6 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=2151-90-COT26",
    "primera_vista_iso": "2026-11-13T18:00:26-03:00",
    "removida_iso": "2026-11-16T18:00:29-03:00",
-   "estado_api": "",
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "1332-44-COT26",
-   "nombre": "HERRAMIENTAS TECNOLÓGICAS PARA EL SISTEMA DE INFORMACIÓN TURÍSTICA AYSÉN PATAGONIA",
-   "organismo": "Servicio Nacional de Turismo",
-   "monto": 7000000,
-   "cierre_iso": "2026-11-16T16:00:00-03:00",
-   "tipo": "POSIBLE",
-   "motivos": [
-    "difusión"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1332-44-COT26",
-   "primera_vista_iso": "2026-11-13T12:00:25-03:00",
-   "removida_iso": "2026-11-16T16:44:10-03:00",
    "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,
