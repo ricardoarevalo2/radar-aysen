@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-11-23T08:00:28.139974-03:00",
+ "actualizado": "2026-11-23T09:00:26.006374-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
- "total_region": 233,
+ "total_region": 226,
  "rubros": {
   "25172700": "Aire acondicionado",
   "25173900": "Componentes eléctricos",
@@ -19,35 +19,6 @@
   "39121400": "Conectores, enchufes y terminales"
  },
  "filas": [
-  {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Servicios eléctricos"
-   ],
-   "nueva": false,
-   "codigo": "4140-113-COT26",
-   "nombre": "MANO DE OBRA, INSTALACION DE CENTRO ELECTRICO",
-   "organismo": "I MUNICIPALIDAD DE LAGO VERDE",
-   "unidad": "Adquisiciones",
-   "monto": 150000,
-   "cierre_iso": "2026-11-23T08:30:00-03:00",
-   "publicacion": "20-11 12:06",
-   "publicacion_iso": "2026-11-20T12:06:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "72102201",
-     "Instalación o servicio de sistemas de energía eléctrica",
-     1,
-     "MANO DE OBRA CON COMPRA DE INSUMOS PARA EL REQUIRIMIENTO"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=4140-113-COT26",
-   "sin_detalle": false,
-   "descripcion": "SE REQUIERE MANO DE OBRA PARA INSTALACION DE CENTRO ELECTRICO CANALIZADO Y MATERIALES COMO ENFUFES DOBLES, CAJA SOBRE PUESTO, GALVANIZADA, CABLES, CANALIZACION TUBO GALVANIZADO, SOLDADURA, HUINCHA ENGOMADA, HUINCHA AISLADORA",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
   {
    "tipo": "OPORTUNIDAD",
    "motivos": [
@@ -743,6 +714,41 @@
    "desaparecida_iso": ""
   },
   {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Enfriamiento (aires acondicionados)"
+   ],
+   "nueva": true,
+   "codigo": "1004-39-COT26",
+   "nombre": "EQUIPOS DE AIRE ACONDICIONADO",
+   "organismo": "MINISTERIO DE OBRAS PUBLICAS DIREC CION GRAL DE OO PP DCYF",
+   "unidad": "Dirección de Vialidad - XI Región - Provincia de Coyhaique",
+   "monto": 1800000,
+   "cierre_iso": "2026-11-24T10:00:00-03:00",
+   "publicacion": "23-11 08:46",
+   "publicacion_iso": "2026-11-23T08:46:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "40101701",
+     "Aires acondicionados",
+     1,
+     "AIRE ACONDICIONADO SPLIT MURO INVERTER FRIO - CALOR 24.000 BTU REFRIGERANTE R32. ADJUNTAR FICHA TÉCNICA DEL PRODUCTO OFERTADO."
+    ],
+    [
+     "40101701",
+     "Aires acondicionados",
+     1,
+     "AIRE ACONDICIONADO SPLIT MURO INVERTER FRIO - CALOR 9.000 BTU REFRIGERANTE R32. ADJUNTAR FICHA TÉCNICA DEL PRODUCTO OFERTADO."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1004-39-COT26",
+   "sin_detalle": false,
+   "descripcion": "Se requiere comprar equipos de aire acondicionado para la Oficina Provincial Coyhaique\nY así reducir las emisiones de contaminantes atmosféricos generadas por la\ncombustión de insumos de la medara. Valor debe considerar flete con entrega en domicilio.",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
    "tipo": "POSIBLE",
    "motivos": [
     "generador"
@@ -844,6 +850,35 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=3949-312-COT26",
    "sin_detalle": false,
    "descripcion": "Se requiere adquirir mantenimiento preventivo anual de grupos electrógenos : Adjuntar cotización formal con datos de contacto (e-mail - teléfonos). Incluir valor de mano de obra, implementos, etc. (valor total del servicio). La mantención se coordinara para el mes de diciembre 2026 y debe incluir informe técnico con el servicio detallado. El servicio se realizara en Bilbao esquina Mackenna s/n y en Lautaro N°63",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Servicios eléctricos"
+   ],
+   "nueva": false,
+   "codigo": "4140-113-COT26",
+   "nombre": "MANO DE OBRA, INSTALACION DE CENTRO ELECTRICO",
+   "organismo": "I MUNICIPALIDAD DE LAGO VERDE",
+   "unidad": "Adquisiciones",
+   "monto": 150000,
+   "cierre_iso": "2026-11-26T04:53:00-03:00",
+   "publicacion": "20-11 12:06",
+   "publicacion_iso": "2026-11-20T12:06:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "72102201",
+     "Instalación o servicio de sistemas de energía eléctrica",
+     1,
+     "MANO DE OBRA CON COMPRA DE INSUMOS PARA EL REQUIRIMIENTO"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=4140-113-COT26",
+   "sin_detalle": false,
+   "descripcion": "SE REQUIERE MANO DE OBRA PARA INSTALACION DE CENTRO ELECTRICO CANALIZADO Y MATERIALES COMO ENFUFES DOBLES, CAJA SOBRE PUESTO, GALVANIZADA, CABLES, CANALIZACION TUBO GALVANIZADO, SOLDADURA, HUINCHA ENGOMADA, HUINCHA AISLADORA",
    "en_gracia": false,
    "desaparecida_iso": ""
   },
@@ -1729,24 +1764,6 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=1182705-207-COT26",
    "primera_vista_iso": "2026-11-13T16:00:24-03:00",
    "removida_iso": "2026-11-16T11:00:27-03:00",
-   "estado_api": "",
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "3950-740-COT26",
-   "nombre": "MAQUINA SELLADORA PARA MANGAS",
-   "organismo": "DIRECCION SALUD RURAL",
-   "monto": 4000000,
-   "cierre_iso": "2026-11-16T09:00:00-03:00",
-   "tipo": "POSIBLE",
-   "motivos": [
-    "certificación sec"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=3950-740-COT26",
-   "primera_vista_iso": "2026-11-13T16:00:24-03:00",
-   "removida_iso": "2026-11-16T10:00:36-03:00",
    "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,

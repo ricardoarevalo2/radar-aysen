@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-11-23T08:00:28.139974-03:00",
+ "actualizado": "2026-11-23T09:00:26.006374-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
- "total_region": 233,
+ "total_region": 226,
  "rubros": {
   "80141600": "Ventas y marketing",
   "82101600": "Publicidad en medios no impresos",
@@ -1781,24 +1781,6 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=1182705-205-COT26",
    "primera_vista_iso": "2026-11-13T12:00:25-03:00",
    "removida_iso": "2026-11-16T13:00:26-03:00",
-   "estado_api": "",
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "1057062-527-COT26",
-   "nombre": "Adquisición materiales e insumos para taller _ Según FISABS 2465_URY23991.",
-   "organismo": "UNIVERSIDAD DE AYSEN",
-   "monto": 1592000,
-   "cierre_iso": "2026-11-16T08:30:00-03:00",
-   "tipo": "POSIBLE",
-   "motivos": [
-    "radio"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1057062-527-COT26",
-   "primera_vista_iso": "2026-11-12T13:45:25-03:00",
-   "removida_iso": "2026-11-16T09:00:25-03:00",
    "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,
