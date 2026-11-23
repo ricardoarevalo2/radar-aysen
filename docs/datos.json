@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-11-23T13:00:25.658369-03:00",
+ "actualizado": "2026-11-23T14:00:23.561474-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
- "total_region": 230,
+ "total_region": 228,
  "rubros": {
   "80141600": "Ventas y marketing",
   "82101600": "Publicidad en medios no impresos",
@@ -14,35 +14,6 @@
   "83121700": "Comunicación social y de masas"
  },
  "filas": [
-  {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Ventas y marketing"
-   ],
-   "nueva": false,
-   "codigo": "1195-598-COT26",
-   "nombre": "EJECUCIÓN DEL FESTIVAL DE LA MORILLA 2026",
-   "organismo": "I MUNICIPALIDAD DE COYHAIQUE",
-   "unidad": "Ilustre Municipalidad de Coyhaique",
-   "monto": 7000000,
-   "cierre_iso": "2026-11-23T13:00:00-03:00",
-   "publicacion": "20-11 18:46",
-   "publicacion_iso": "2026-11-20T18:46:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "80141607",
-     "Producción de eventos",
-     1,
-     "Contratación de servicios para la producción integral del Festival de la Morilla 2026 en Villa Ortega, comuna de Coyhaique. El servicio considera programación artística con al menos 14 artistas, animación, amplificación y sonido, alimentación para aproximadamente 85 personas, difusión, registro audiovisual, habilitación de espacios para emprendedores y artesanos, coordinación general del evento y servicios sanitarios, de acuerdo con las Bases Técnicas"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1195-598-COT26",
-   "sin_detalle": false,
-   "descripcion": "Servicio de producción integral para la ejecución del Festival de la Morilla 2026 en Villa Ortega, comuna de Coyhaique. La contratación considera programación artística con al menos 14 artistas regionales y/o nacionales, animación, amplificación y sonido, alimentación para aproximadamente 85 personas, registro audiovisual, difusión, habilitación de espacios para emprendedores y artesanos, coordinación general del evento y servicios sanitarios, conforme a Bases Técnicas",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
   {
    "tipo": "OPORTUNIDAD",
    "motivos": [
@@ -667,6 +638,24 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=2713-1456-COT26",
    "primera_vista_iso": "2026-11-23T11:00:28-03:00",
    "removida_iso": "2026-11-23T13:00:25-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
+  {
+   "codigo": "1195-598-COT26",
+   "nombre": "EJECUCIÓN DEL FESTIVAL DE LA MORILLA 2026",
+   "organismo": "I MUNICIPALIDAD DE COYHAIQUE",
+   "monto": 7000000,
+   "cierre_iso": "2026-11-23T13:00:00-03:00",
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Ventas y marketing"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1195-598-COT26",
+   "primera_vista_iso": "2026-11-20T19:00:27-03:00",
+   "removida_iso": "2026-11-23T14:00:23-03:00",
    "estado_api": null,
    "adj_nombre": null,
    "adj_monto": null,

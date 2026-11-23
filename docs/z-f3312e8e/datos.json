@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-11-23T13:00:25.658369-03:00",
+ "actualizado": "2026-11-23T14:00:23.561474-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
- "total_region": 230,
+ "total_region": 228,
  "rubros": {
   "25172700": "Aire acondicionado",
   "25173900": "Componentes eléctricos",
@@ -19,35 +19,6 @@
   "39121400": "Conectores, enchufes y terminales"
  },
  "filas": [
-  {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Cajas y accesorios eléctricos"
-   ],
-   "nueva": false,
-   "codigo": "2042-424-COT26",
-   "nombre": "Adquisición de insumos eléctricos para mejoramiento de infraestructura municipal.",
-   "organismo": "I MUNICIPALIDAD DE TORTEL",
-   "unidad": "Ilustre Municipalidad de Tortel",
-   "monto": 350000,
-   "cierre_iso": "2026-11-23T13:00:00-03:00",
-   "publicacion": "18-11 10:39",
-   "publicacion_iso": "2026-11-18T10:39:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "39121311",
-     "Accesorios eléctricos",
-     1,
-     "Se requiere la compra de elementos de electricidad para mejoramiento en conexiones eclécticas, instalación y retiro de luminaria en plazas en sector rotonda y reemplazo de iluminación el letrero de bienvenida Tortel, Según solicitud adjunta"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=2042-424-COT26",
-   "sin_detalle": false,
-   "descripcion": "Se requiere la compra de elementos de electricidad para mejoramiento en conexiones eclécticas, instalación y retiro de luminaria en plazas en sector rotonda y reemplazo de iluminación el letrero de bienvenida Tortel.",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
   {
    "tipo": "POSIBLE",
    "motivos": [
@@ -960,6 +931,24 @@
   }
  ],
  "historial": [
+  {
+   "codigo": "2042-424-COT26",
+   "nombre": "Adquisición de insumos eléctricos para mejoramiento de infraestructura municipal.",
+   "organismo": "I MUNICIPALIDAD DE TORTEL",
+   "monto": 350000,
+   "cierre_iso": "2026-11-23T13:00:00-03:00",
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Cajas y accesorios eléctricos"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=2042-424-COT26",
+   "primera_vista_iso": "2026-11-18T11:00:25-03:00",
+   "removida_iso": "2026-11-23T14:00:23-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
   {
    "codigo": "1233615-984-COT26",
    "nombre": "RMG-SOL01535-Liceo Luisa Rabanal, Equipamiento para simulación EMTP 29.05, despacho incluido a Chile Chico.",
