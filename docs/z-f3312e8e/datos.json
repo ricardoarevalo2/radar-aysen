@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-23T06:00:26.968770-03:00",
+ "actualizado": "2026-11-23T07:00:24.979874-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
  "total_region": 236,
@@ -1794,24 +1794,6 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=3950-740-COT26",
    "primera_vista_iso": "2026-11-13T16:00:24-03:00",
    "removida_iso": "2026-11-16T10:00:36-03:00",
-   "estado_api": "",
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "907-103-COT26",
-   "nombre": "\tMAO ADQUISICIÓN ENSERES OFICINA COYHAIQUE",
-   "organismo": "SERVICIO AGRICOLA Y GANADERO",
-   "monto": 338980,
-   "cierre_iso": "2026-11-16T06:47:00-03:00",
-   "tipo": "POSIBLE",
-   "motivos": [
-    "eléctrico"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=907-103-COT26",
-   "primera_vista_iso": "2026-11-10T19:26:29-03:00",
-   "removida_iso": "2026-11-16T07:00:23-03:00",
    "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,
