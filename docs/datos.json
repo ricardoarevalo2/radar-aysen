@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-11-23T17:00:24.460437-03:00",
+ "actualizado": "2026-11-23T18:00:25.910069-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
- "total_region": 256,
+ "total_region": 269,
  "rubros": {
   "80141600": "Ventas y marketing",
   "82101600": "Publicidad en medios no impresos",
@@ -391,6 +391,93 @@
   {
    "tipo": "POSIBLE",
    "motivos": [
+    "fotografía"
+   ],
+   "nueva": true,
+   "codigo": "2494-318-COT26",
+   "nombre": "Servicio de Catering para 50 personas - Fiesta comunitaria Arturo Prat Florece - Barrio Arturo Prat - Programa Recuperación de Barrios",
+   "organismo": "I MUNICIPALIDAD DE COYHAIQUE",
+   "unidad": "SECRETARIA COMUNAL DE PLANIFICACION",
+   "monto": 400000,
+   "cierre_iso": "2026-11-24T17:05:00-03:00",
+   "publicacion": "23-11 17:02",
+   "publicacion_iso": "2026-11-23T17:02:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "90101603",
+     "Servicios de catering",
+     1,
+     "Servicio de Catering para 50 personas aproximadamente, por lo que se solicita: REVISAR EL DOCUMENTO ADJUNTO PARA MAYOR DETALLE DE LOS ALIMENTOS Y SERVICIO DESEADO."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=2494-318-COT26",
+   "sin_detalle": false,
+   "descripcion": "La contratación del servicio de catering se justifica como un apoyo logístico para el desarrollo de la actividad \"Fiesta comunitaria Arturo Prat Florece\", actividad de cierre de los talleres de oficios ejecutados en el plan de confianza social, premiación de concurso de fotografía e inauguración de invernadero. LOS DETALLES SE ENCUENTRAN EN EL DOCUMENTO ADJUNTO.",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Ventas y marketing"
+   ],
+   "nueva": true,
+   "codigo": "1233615-1042-COT26",
+   "nombre": "SOL-INT-2026-00318- Servicio de producción y ejecución Encuentro Robótica.",
+   "organismo": "Servicio Local de Educación Pública Aysén",
+   "unidad": "Servicio Local de Educación Pública Aysén",
+   "monto": 1600000,
+   "cierre_iso": "2026-11-24T17:20:00-03:00",
+   "publicacion": "23-11 17:17",
+   "publicacion_iso": "2026-11-23T17:17:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "80141607",
+     "Producción de eventos",
+     1,
+     "Servicio de producción y ejecución Encuentro Robótica, de acuerdo a lo indicado en anexos adjuntos y TDR."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1233615-1042-COT26",
+   "sin_detalle": false,
+   "descripcion": "Servicio de producción y ejecución Encuentro Robótica.",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Publicidad en medios no impresos"
+   ],
+   "nueva": true,
+   "codigo": "2713-1466-COT26",
+   "nombre": "programa radial Hablemos de Violencia de Género - Folio 1540 - DIDECO",
+   "organismo": "I MUNICIPALIDAD DE AYSEN",
+   "unidad": "I.MUNICIPALIDAD AYSEN-ADQUISICIONES",
+   "monto": 200000,
+   "cierre_iso": "2026-11-24T17:47:00-03:00",
+   "publicacion": "23-11 17:46",
+   "publicacion_iso": "2026-11-23T17:46:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "82101601",
+     "Publicidad en radio",
+     2,
+     "espacios radiales de 40 minutos cada uno, programa \"Hablemos de Violencia de Género\". Debe incluir transmisión en vivo por señal radial y simultánea por YouTube Live y Facebook Live, y quedar almacenado en formato digital para visualizarse las veces que se requiera. Participan un conductor y tres invitadas. Emisiones: 25 y 30/11/2026, ajustables según disponibilidad de la emisora. Entregar informe con links y fotos de ambas emisiones."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=2713-1466-COT26",
+   "sin_detalle": false,
+   "descripcion": "Contratación de dos espacios radiales de 40 minutos del programa \"Hablemos de Violencia de Género\", del Programa Atención Inicial de las Violencias de Género (Centro de las Mujeres, DIDECO). Incluye transmisión en vivo por radio y simultánea por YouTube Live y Facebook Live, y grabación disponible en formato digital. Se difundirá la oferta del Centro, las actividades del 25N y el Espacio Violeta. Emisiones: 25 y 30/11/2026 (fechas ajustables según disponibilidad). Ver especificaciones técnicas.",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
     "audiovisual",
     "registro audiovisual"
    ],
@@ -415,6 +502,35 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=1282238-98-COT26",
    "sin_detalle": false,
    "descripcion": "Diseño y ejecución del Encuentro Arte, Cultura y Patrimonio el 11 de diciembre de 2026 en el Centro Cultural de Coyhaique (jornada de 4 horas), proyecto FNDR código 3465. Incluye coordinación general, montaje y ambientación de la exhibición de trabajos de los talleres, maestra/o de ceremonia, taller de oficios textiles patrimoniales para hasta 80 personas con materiales, amplificación y registro audiovisual. Detalle en especificaciones adjuntas.",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Ventas y marketing"
+   ],
+   "nueva": true,
+   "codigo": "2495-697-COT26",
+   "nombre": "CONTRATACIÓN ARMADO Y DESARMADO CARPA PARA FERIA INCLUSIVA DE LA OAD 2026",
+   "organismo": "I MUNICIPALIDAD DE COYHAIQUE",
+   "unidad": "DIRECCION DESARROLLO COMUNITARIO",
+   "monto": 1900000,
+   "cierre_iso": "2026-11-25T15:00:00-03:00",
+   "publicacion": "23-11 17:26",
+   "publicacion_iso": "2026-11-23T17:26:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "80141607",
+     "Producción de eventos",
+     1,
+     "MONTAJE Y DESMONTAJE CARPA PARA FERIA INCLUSIVA DE LA OFICINA DE APOYO A LA DISCAPACIDAD DE LA MUNICIPALIDAD DE COYHAIQUE 2026, SEGUN  ARCHIVO ADJUNTO.\nCIUDAD DE COYHAIQUE"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=2495-697-COT26",
+   "sin_detalle": false,
+   "descripcion": "Contratación de producción de eventos para montaje y desmontaje  de carpa de 18 x 8,  para feria inclusiva en el marco de la conmemoración internacional de las personas con discapacidad 2026, de la OAD. Municipalidad de Coyhaique.\n\nEspecificaciones según anexo adjunto (fecha tentativa feria inclusiva 12 y 13 de diciembre de 2026 en espacio Dussen de la Ciudad de Coyhaique.",
    "en_gracia": false,
    "desaparecida_iso": ""
   },
@@ -662,6 +778,35 @@
   {
    "tipo": "OPORTUNIDAD",
    "motivos": [
+    "Servicios de televisión"
+   ],
+   "nueva": true,
+   "codigo": "1426103-33-COT26",
+   "nombre": "Servicio de Televisión por cable o IP para los centros IP-IRC y LAE IP Coyhaique ",
+   "organismo": "SERVICIO NACIONAL DE REINSERCION SOCIAL JUVENIL",
+   "unidad": "DIRECCIÓN REGIONAL DE AYSÉN",
+   "monto": 5000000,
+   "cierre_iso": "2026-11-30T12:00:00-03:00",
+   "publicacion": "23-11 17:16",
+   "publicacion_iso": "2026-11-23T17:16:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "83111801",
+     "Servicios de televisión por cable",
+     12,
+     "Servicio mensual de televisión por cable o IP, según ETA adjuntos."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1426103-33-COT26",
+   "sin_detalle": false,
+   "descripcion": "Este servicio es para poder contar con contenido informativo, educativo y recreativo par los jóvenes \nque se encuentra en los centros.",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
     "Ventas y marketing"
    ],
    "nueva": false,
@@ -757,27 +902,38 @@
    "descripcion": "Contratación de profesional y/o artista del área musical para planificar y ejecutar el taller presencial “One Song – Taller de Canto”, dirigido a niños, niñas y adolescentes en Puerto Aysén: 2 jornadas formativas de 2 horas (27 y 28 de noviembre), dirección de presentación coral final de 20 min (29 de noviembre) y registro audiovisual. Valorizar cada componente por separado (taller, presentación y registro). Se exige certificado de inhabilidades para trabajar con menores. Ver Anexo Técnico.",
    "en_gracia": true,
    "desaparecida_iso": "2026-11-23T15:00:23-03:00"
-  }
- ],
- "historial": [
+  },
   {
-   "codigo": "2495-668-COT26",
-   "nombre": "Producción de 2 sesiones de baños de bosque para 20 personas",
-   "organismo": "I MUNICIPALIDAD DE COYHAIQUE",
-   "monto": 300000,
-   "cierre_iso": "2026-11-24T16:07:00-03:00",
    "tipo": "OPORTUNIDAD",
    "motivos": [
     "Ventas y marketing"
    ],
+   "nueva": false,
+   "codigo": "2495-668-COT26",
+   "nombre": "Producción de 2 sesiones de baños de bosque para 20 personas",
+   "organismo": "",
+   "unidad": "",
+   "monto": null,
+   "cierre_iso": "",
+   "publicacion": "",
+   "publicacion_iso": "",
+   "ofertas": 0,
+   "productos": [
+    [
+     "80141607",
+     "Producción de eventos",
+     2,
+     "Producción de 2 sesiones de baños de bosque para 20 personas: debe incluir monitor en baños de bosque o asociado y colación: sándwich mas un jugo pequeño en caja."
+    ]
+   ],
    "link": "https://buscador.mercadopublico.cl/ficha?code=2495-668-COT26",
-   "primera_vista_iso": "2026-11-16T12:00:26-03:00",
-   "removida_iso": "2026-11-23T17:00:24-03:00",
-   "estado_api": "",
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
+   "sin_detalle": false,
+   "descripcion": "Producción de 2 sesiones de baños de bosque para 20 personas: debe incluir monitor en baños de bosque o asociado y colación: sándwich mas un jugo pequeño en caja.",
+   "en_gracia": true,
+   "desaparecida_iso": "2026-11-23T18:00:25-03:00"
+  }
+ ],
+ "historial": [
   {
    "codigo": "1057062-565-COT26",
    "nombre": "Servicio de difusión de contenidos, entrevistas y banner en medio digital.",
@@ -1869,24 +2025,6 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=3949-302-COT26",
    "primera_vista_iso": "2026-11-16T11:00:27-03:00",
    "removida_iso": "2026-11-17T11:00:24-03:00",
-   "estado_api": "",
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "2151-90-COT26",
-   "nombre": "Adquisición de Estantes Armarios Metálicos para Oficina",
-   "organismo": "SERVICIO NAC DE SALUD HOSPITAL DE PTO CISNES",
-   "monto": 456900,
-   "cierre_iso": "2026-11-16T17:20:00-03:00",
-   "tipo": "POSIBLE",
-   "motivos": [
-    "fotografía"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=2151-90-COT26",
-   "primera_vista_iso": "2026-11-13T18:00:26-03:00",
-   "removida_iso": "2026-11-16T18:00:29-03:00",
    "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,
