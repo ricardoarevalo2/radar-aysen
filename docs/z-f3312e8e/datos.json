@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-11-23T16:00:27.114189-03:00",
+ "actualizado": "2026-11-23T17:00:24.460437-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
- "total_region": 247,
+ "total_region": 256,
  "rubros": {
   "25172700": "Aire acondicionado",
   "25173900": "Componentes eléctricos",
@@ -19,89 +19,6 @@
   "39121400": "Conectores, enchufes y terminales"
  },
  "filas": [
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "electricidad"
-   ],
-   "nueva": false,
-   "codigo": "1079689-564-COT26",
-   "nombre": "ADQUISICIÓN DE IMPLEMENTOS DE SEGURIDAD PARA EL PERSONAL DE MANTENIMIENTO DE CUARTELES, SERVET Y ÁREA TALLER MECÁNICO DE LA SECCIÓN LOGÍSTICA DEL DEAOPERPOL AYSÉN.",
-   "organismo": "SECCIÓN COMPRAS XI ZONA",
-   "unidad": "SEC DE COMP ZONA AYSÉN DEL GRAL CARL IBAÑ DEL CAMP",
-   "monto": 3964057,
-   "cierre_iso": "2026-11-23T16:00:00-03:00",
-   "publicacion": "20-11 09:15",
-   "publicacion_iso": "2026-11-20T09:15:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "53102102",
-     "Overol y sobretodo para hombre",
-     23,
-     "BOTIN DE SEGURIDAD AISLANTE DE ELECTRICIDAD COLOR CAFE, EQUIVALENTE O SUPERIOR EN CALIDAD A MARCA ALBATROS - GATOR - EXPLORER (2 N°40, 10 N°41, 2 N°43, 8 N°44, 1 N°46)."
-    ],
-    [
-     "53102102",
-     "Overol y sobretodo para hombre",
-     10,
-     "BOTA DE AGUA CON PUNTA DE FIERRO COLOR VERDE OSCURO, EQUIVALENTE O SUPERIOR EN CALIDAD A MARCA EVEREST PU AGROLIFE. (1 N°40, 4 N°41, 1 N°43, 4 N°44)."
-    ],
-    [
-     "53102102",
-     "Overol y sobretodo para hombre",
-     20,
-     "PANTALON DE TRABAJO TIPO CARGO COLOR GRIS, EQUIVALENTE O SUPERIOR EN CALIDAD A MARCA EVEREST RANGER SPANX. (4 TALLA M, 4 TALLA L, 8 TALLA XL, 4 TALLA XXL)."
-    ],
-    [
-     "53102102",
-     "Overol y sobretodo para hombre",
-     20,
-     "POLERON DE TRABAJO MICROPOLAR COLOR GRIS, EQUIVALENTE O SUPERIOR EN CALIDAD A MARCA EVEREST - OSLO.  (4 TALLA M, 4 TALLA L, 8 TALLA XL, 4 TALLA XXL)."
-    ],
-    [
-     "53102102",
-     "Overol y sobretodo para hombre",
-     20,
-     "POLERA DE TRABAJO PIQUE MANGA LARGA COLOR AZUL. (4 TALLA M, 4 TALLA L, 8 TALLA XL, 4 TALLA XXL.)"
-    ],
-    [
-     "53102102",
-     "Overol y sobretodo para hombre",
-     20,
-     "OVEROL DE TRABAJO DE SEGURIDAD TELA CANVAS MULTIBOLSILLOS. (4 TALLA M, 4 TALLA L, 8 TALLA XL, 4 TALLA XXL.)"
-    ],
-    [
-     "53102102",
-     "Overol y sobretodo para hombre",
-     20,
-     "BALACLAVA DE TRABAJO COLOR NEGRO, EQUIVALENTE O SUPERIOREN CALIDAD A MARCA EVEREST - PREMIUM - SPANX."
-    ],
-    [
-     "53102102",
-     "Overol y sobretodo para hombre",
-     2,
-     "PECHERA DE CUERO SOLDADOR DE 60X90 DE ALTA CALIDAD."
-    ],
-    [
-     "53102102",
-     "Overol y sobretodo para hombre",
-     2,
-     "CASACA CUERO SOLDADOR DE ALTA CALIDAD. (TALLA 1L, 1XL)."
-    ],
-    [
-     "53102102",
-     "Overol y sobretodo para hombre",
-     2,
-     "PANTALÓN CUERO SOLDADOR DE ALTA CALIDAD (TALLA 1L, 1XL.)"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1079689-564-COT26",
-   "sin_detalle": false,
-   "descripcion": "ADQUISICIÓN DE IMPLEMENTOS DE SEGURIDAD PARA EL PERSONAL DE MANTENIMIENTO DE CUARTELES, SERVET Y TALLER MECÁNICO DE LA SECCIÓN LOGÍSTICA DEL DEAOPERPOL AYSÉN. CON ENTREGA A DOMICILIO Y/O RETIRO EN TIENDA EN LA CIUDAD DE COYHAIQUE, INDICAR PLAZO DE ENTREGA Y ADJUNTAR COTIZACIÓN. DE NO INDICAR PLAZO DE ENTREGA NI ADJUNTAR COTIZACIÓN, NO SERÁ EVALUADO.",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
   {
    "tipo": "POSIBLE",
    "motivos": [
@@ -989,6 +906,24 @@
   }
  ],
  "historial": [
+  {
+   "codigo": "1079689-564-COT26",
+   "nombre": "ADQUISICIÓN DE IMPLEMENTOS DE SEGURIDAD PARA EL PERSONAL DE MANTENIMIENTO DE CUARTELES, SERVET Y ÁREA TALLER MECÁNICO DE LA SECCIÓN LOGÍSTICA DEL DEAOPERPOL AYSÉN.",
+   "organismo": "SECCIÓN COMPRAS XI ZONA",
+   "monto": 3964057,
+   "cierre_iso": "2026-11-23T16:00:00-03:00",
+   "tipo": "POSIBLE",
+   "motivos": [
+    "electricidad"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1079689-564-COT26",
+   "primera_vista_iso": "2026-11-20T10:00:35-03:00",
+   "removida_iso": "2026-11-23T17:00:24-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
   {
    "codigo": "2500-89-COT26",
    "nombre": "ADQUISICION AMPOLLETAS LED CLASICA, FLETE INCLUIDO",
