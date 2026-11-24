@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-11-24T08:00:29.186229-03:00",
+ "actualizado": "2026-11-24T09:00:24.637010-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
- "total_region": 273,
+ "total_region": 275,
  "rubros": {
   "25172700": "Aire acondicionado",
   "25173900": "Componentes eléctricos",
@@ -485,6 +485,101 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=3949-312-COT26",
    "sin_detalle": false,
    "descripcion": "Se requiere adquirir mantenimiento preventivo anual de grupos electrógenos : Adjuntar cotización formal con datos de contacto (e-mail - teléfonos). Incluir valor de mano de obra, implementos, etc. (valor total del servicio). La mantención se coordinara para el mes de diciembre 2026 y debe incluir informe técnico con el servicio detallado. El servicio se realizara en Bilbao esquina Mackenna s/n y en Lautaro N°63",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Cables eléctricos y accesorios"
+   ],
+   "nueva": true,
+   "codigo": "1403-509-COT26",
+   "nombre": "COMPRA DE MATERIALES DE MANTENCIÓN PARA OFICINA OIRS COYHAIQUE",
+   "organismo": "Dirección Regional de Gendarmeria - Coyhaique",
+   "unidad": "Región de Aysén",
+   "monto": 600000,
+   "cierre_iso": "2026-11-25T09:00:00-03:00",
+   "publicacion": "24-11 08:38",
+   "publicacion_iso": "2026-11-24T08:38:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "26121606",
+     "Cable coaxial",
+     1,
+     "CABLE THHN 12 AWG VERDE ROLLO 10 METROS CERTIFICADO"
+    ],
+    [
+     "26121606",
+     "Cable coaxial",
+     1,
+     "CABLE THHN 12 AWG ROJO ROLLO 10 METROS CERTIFICADO"
+    ],
+    [
+     "26121606",
+     "Cable coaxial",
+     1,
+     "CABLE THHN 12 AWG BLANCO ROLLO 10 METROS CERTIFICADO"
+    ],
+    [
+     "27111704",
+     "Enchufes",
+     1,
+     "SWITCH DE 8 PUERTOS 10/100 MBPS TP-LINK LS1008 SERIE LITEWAVE"
+    ],
+    [
+     "27111704",
+     "Enchufes",
+     4,
+     "CAJA CHUQUI CON PRECORTES EN CARA INFERIOR PARA TUBERIA Y CANALETAS"
+    ],
+    [
+     "30103302",
+     "Moldura de latón",
+     5,
+     "MOLDURA 1/2 CAÑA PINO FINGER NATURAL 20 MM 2X300 CM"
+    ],
+    [
+     "30161718",
+     "Plataforma de acero antideslizante",
+     2,
+     "PISO DE GOMA ANTIDESLIZANTE ESTOPEROL NEGRO 1X2 METROS QRUBBER"
+    ],
+    [
+     "31201515",
+     "Cintas de papel",
+     4,
+     "CINTA SEGURIDAD ANTIDESLIZANTE PARA PISO ESCALERA 18 METROS RAYAS"
+    ],
+    [
+     "31211501",
+     "Pinturas al esmalte",
+     7,
+     "ESMALTE DE AGUA 1 GALON SEMIBRILLANTE BLANCO"
+    ],
+    [
+     "31211904",
+     "Brochas",
+     2,
+     "BROCHA MULTIUSO KOLOR 3 PULGADAS PARA PINTURA Y BARNIZ PROFESIONAL"
+    ],
+    [
+     "31211906",
+     "Rodillos de pintar",
+     5,
+     "RODILLO POLIESTER 18 CM"
+    ],
+    [
+     "40161517",
+     "Filtros de luz",
+     2,
+     "PLAFON LED IP44 18 W LUZ CALIDA"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1403-509-COT26",
+   "sin_detalle": false,
+   "descripcion": "E1O2RT9 - COMPRA DE MATERIALES DE MANTENCIÓN PARA OFICINA OIRS COYHAIQUE. CRITERIOS DE EVALUACIÓN: PRECIO 85% - PLAZO DE ENTREGA 10% - SUSTENTABILIDAD 5%",
    "en_gracia": false,
    "desaparecida_iso": ""
   },

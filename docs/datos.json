@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-11-24T08:00:29.186229-03:00",
+ "actualizado": "2026-11-24T09:00:24.637010-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
- "total_region": 273,
+ "total_region": 275,
  "rubros": {
   "80141600": "Ventas y marketing",
   "82101600": "Publicidad en medios no impresos",
@@ -14,41 +14,6 @@
   "83121700": "Comunicación social y de masas"
  },
  "filas": [
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "publicitarios"
-   ],
-   "nueva": false,
-   "codigo": "2713-1442-COT26",
-   "nombre": "DAOMA SOL.1486, Adquisición de PENDON Y PASACALLE .",
-   "organismo": "I MUNICIPALIDAD DE AYSEN",
-   "unidad": "I.MUNICIPALIDAD AYSEN-ADQUISICIONES",
-   "monto": 350000,
-   "cierre_iso": "2026-11-24T08:30:00-03:00",
-   "publicacion": "19-11 17:27",
-   "publicacion_iso": "2026-11-19T17:27:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "82101501",
-     "Letreros publicitarios",
-     1,
-     "Pendón Roller 2x1 mts.Pendon informativo segun anexo adjunto."
-    ],
-    [
-     "82101501",
-     "Letreros publicitarios",
-     1,
-     "pasacalle 3x1  mts pasacalle informativo PTRAC.Según anexo."
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=2713-1442-COT26",
-   "sin_detalle": false,
-   "descripcion": "Adquisición  de pendon y pasacalle según detalle en anexo adjunto, las ofertas deberán: incluir la totalidad de los productos solicitados, ajustarse al presupuesto disponible , el oferente asumirá COSTO DE TRANSPORTE, hasta Aysén(no desglosarlo como ítem aparte), debe incluir ficha técnica e indicar plazo de entrega se contará desde el dia habíl subsiguiente al envio o/c. Ofertas que no cumplan con lo anterior serán rechazadas.Oferta debe presentar cotizacion con la especificaciones solicitadas.",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
   {
    "tipo": "POSIBLE",
    "motivos": [
@@ -953,6 +918,24 @@
  ],
  "historial": [
   {
+   "codigo": "2713-1442-COT26",
+   "nombre": "DAOMA SOL.1486, Adquisición de PENDON Y PASACALLE .",
+   "organismo": "I MUNICIPALIDAD DE AYSEN",
+   "monto": 350000,
+   "cierre_iso": "2026-11-24T08:30:00-03:00",
+   "tipo": "POSIBLE",
+   "motivos": [
+    "publicitarios"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=2713-1442-COT26",
+   "primera_vista_iso": "2026-11-19T18:00:24-03:00",
+   "removida_iso": "2026-11-24T09:00:24-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
+  {
    "codigo": "1057062-565-COT26",
    "nombre": "Servicio de difusión de contenidos, entrevistas y banner en medio digital.",
    "organismo": "UNIVERSIDAD DE AYSEN",
@@ -1344,7 +1327,7 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=1758-299-COT26",
    "primera_vista_iso": "2026-11-18T11:00:25-03:00",
    "removida_iso": "2026-11-20T12:00:26-03:00",
-   "estado_api": null,
+   "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,
    "adj_iso": null
@@ -2098,7 +2081,7 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=682-21-COT26",
    "primera_vista_iso": "2026-11-17T20:00:25-03:00",
    "removida_iso": "2026-11-23T15:00:23-03:00",
-   "estado_api": null,
+   "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,
    "adj_iso": null
@@ -2116,7 +2099,7 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=4609-322-COT26",
    "primera_vista_iso": "2026-11-18T12:00:27-03:00",
    "removida_iso": "2026-11-22T18:00:25-03:00",
-   "estado_api": null,
+   "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,
    "adj_iso": null
@@ -2134,7 +2117,7 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=1195-591-COT26",
    "primera_vista_iso": "2026-11-18T12:00:27-03:00",
    "removida_iso": "2026-11-20T08:00:26-03:00",
-   "estado_api": null,
+   "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,
    "adj_iso": null
