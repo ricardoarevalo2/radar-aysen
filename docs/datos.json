@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-11-24T09:00:24.637010-03:00",
+ "actualizado": "2026-11-24T10:00:30.030809-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
- "total_region": 275,
+ "total_region": 281,
  "rubros": {
   "80141600": "Ventas y marketing",
   "82101600": "Publicidad en medios no impresos",
@@ -14,65 +14,6 @@
   "83121700": "Comunicación social y de masas"
  },
  "filas": [
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "fotografía"
-   ],
-   "nueva": true,
-   "codigo": "1622-778-COT26",
-   "nombre": "ARTICULOS COMPUTACIONALES HOSPITAL DE SAN VICENTE DE T.T.",
-   "organismo": "SERVICIO DE SALUD HOSPITAL DE SAN VICENTE DE TAGUA TAGUA",
-   "unidad": "Hospital de San Vicente de Tagua Tagua",
-   "monto": 300000,
-   "cierre_iso": "2026-11-24T09:40:00-03:00",
-   "publicacion": "23-11 09:39",
-   "publicacion_iso": "2026-11-23T09:39:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "44103103",
-     "Tóner",
-     20,
-     "TONER PARA IMPRESORA BROTHER TN-1060 ORIGINAL O ALTERNATIVO (SE EVALUARAN ESPECIFICACIONES TECNICAS DESCRITAS)"
-    ],
-    [
-     "44103103",
-     "Tóner",
-     10,
-     "TONER PARA IMPRESORA SAMSUNG D111S ORIGINAL O ALTERNATIVO (SE EVALUARAN ESPECIFICACIONES TECNICAS DESCRITAS)"
-    ],
-    [
-     "44103103",
-     "Tóner",
-     3,
-     "TINTA PARA IMPRESORA COLOR BLACK, COMPATIBLE CON SISTEMA DE TINTA TIPO 544.(PERSONAL/SOCIAL)"
-    ],
-    [
-     "44103103",
-     "Tóner",
-     3,
-     "TINTA PARA IMPRESORA COLOR CYAN, COMPATIBLE CON SISTEMA DE TINTA TIPO 544 (PERSONAL/SOCIAL)"
-    ],
-    [
-     "44103103",
-     "Tóner",
-     3,
-     "TINTA PARA IMPRESORA COLOR MAGENTA, COMPATIBLE CON SISTEMA DE TINTA TIPO 544 (PERSONAL/SOCIAL)"
-    ],
-    [
-     "44103103",
-     "Tóner",
-     3,
-     "TINTA PARA IMPRESORA COLOR YELLOW, COMPATIBLE CON SISTEMA DE TINTA TIPO 544 (PERSONAL/SOCIAL)"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1622-778-COT26",
-   "sin_detalle": false,
-   "descripcion": "El proveedor deberá adjuntar ficha técnica y fotografía de cada producto, indicando marca, código, características, compatibilidad y disponibilidad de stock. Informar plazo de despacho y entrega en días hábiles y garantía. Los productos que no cumplan las especificaciones técnicas solicitadas podrán ser declarados inadmisibles.",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
   {
    "tipo": "POSIBLE",
    "motivos": [
@@ -189,7 +130,7 @@
    "motivos": [
     "difusión"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "1608-99-COT26",
    "nombre": "INSUMOS DE DIFUSIÓN GET DPR AYSÉN",
    "organismo": "DELEGACIÓN PRESIDENCIAL REGIONAL DE AYSÉN DEL GENERAL CARLOS IBÁÑEZ DE",
@@ -917,6 +858,24 @@
   }
  ],
  "historial": [
+  {
+   "codigo": "1622-778-COT26",
+   "nombre": "ARTICULOS COMPUTACIONALES HOSPITAL DE SAN VICENTE DE T.T.",
+   "organismo": "SERVICIO DE SALUD HOSPITAL DE SAN VICENTE DE TAGUA TAGUA",
+   "monto": 300000,
+   "cierre_iso": "2026-11-24T09:40:00-03:00",
+   "tipo": "POSIBLE",
+   "motivos": [
+    "fotografía"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1622-778-COT26",
+   "primera_vista_iso": "2026-11-23T10:00:26-03:00",
+   "removida_iso": "2026-11-24T10:00:30-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
   {
    "codigo": "2713-1442-COT26",
    "nombre": "DAOMA SOL.1486, Adquisición de PENDON Y PASACALLE .",
@@ -2026,24 +1985,6 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=3949-302-COT26",
    "primera_vista_iso": "2026-11-16T11:00:27-03:00",
    "removida_iso": "2026-11-17T11:00:24-03:00",
-   "estado_api": "",
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "2494-301-COT26",
-   "nombre": "Adquisición de Premios para Taller Fotografia - Barrio Arturo Prat",
-   "organismo": "",
-   "monto": null,
-   "cierre_iso": "",
-   "tipo": "POSIBLE",
-   "motivos": [
-    "fotografía"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=2494-301-COT26",
-   "primera_vista_iso": "2026-11-17T10:00:28-03:00",
-   "removida_iso": "2026-11-20T21:00:23-03:00",
    "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,

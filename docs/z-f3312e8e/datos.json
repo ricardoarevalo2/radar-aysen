@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-11-24T09:00:24.637010-03:00",
+ "actualizado": "2026-11-24T10:00:30.030809-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
- "total_region": 275,
+ "total_region": 281,
  "rubros": {
   "25172700": "Aire acondicionado",
   "25173900": "Componentes eléctricos",
@@ -20,87 +20,11 @@
  },
  "filas": [
   {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Conectores, enchufes y terminales"
-   ],
-   "nueva": false,
-   "codigo": "2713-1419-COT26",
-   "nombre": "EQUIPOS Y ACCESORIOS. FOLIO 1479 SEGURIDAD PUBLICA.",
-   "organismo": "I MUNICIPALIDAD DE AYSEN",
-   "unidad": "I.MUNICIPALIDAD AYSEN-ADQUISICIONES",
-   "monto": 299990,
-   "cierre_iso": "2026-11-24T09:01:00-03:00",
-   "publicacion": "18-11 09:45",
-   "publicacion_iso": "2026-11-18T09:45:00-03:00",
-   "ofertas": 1,
-   "productos": [
-    [
-     "39121006",
-     "Adaptadores o inversores de potencia",
-     2,
-     "- Adaptador de antena: Mini UHF A SO239."
-    ],
-    [
-     "39121409",
-     "Conectores de cables eléctricos",
-     2,
-     "Conector: PL259 macho corriente\n- Cuerpo: Niquel.\n- Contacto Central: Plateado.\n- Aislante Dieléctrico: Delrin, color \nblanco,\n- para cable delgado: RG58, \nLMR195, 3110, Soldado."
-    ],
-    [
-     "39121435",
-     "Hilos o cables de conexión",
-     100,
-     "Cable Coaxial: LMR 195, Negro, / RG 58"
-    ],
-    [
-     "52161526",
-     "Antenas",
-     1,
-     "Antena Base omnidireccional VHF\n- Tipo: Ringo Ranger \n(Configuración doble 5/8 de onda \npara VHF)\n- Rango de frecuencia: 136 a 174 \nMHz (ajustable según la frecuencia \nde trabajo)\n- Ganancia: ~5,5 dB\n- Potencia máxima: 300 Watts\n- ROE típica: ~1.2:1 (con ajuste \nadecuado)\n- Conector en base: SO-239 (PL-\n259 hembra)"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=2713-1419-COT26",
-   "sin_detalle": false,
-   "descripcion": "EQUIPOS Y ACCESORIOS . LOS COSTOS DE TRASLADOS A PUERTO AYSÉN SERÁN DEL OFERENTE. EL PLAZO DE ENTREGA SERÁN DE 10 DÍA HÁBIL, DE LO CONTRARIO SE DESCARTARAN.EL PROVEEDOR QUE NO INDIQUE EL PLAZO DE ENTREGA SE DESCARTARA SU COTIZACIÓN. OFERENTE DEBE INCLUIR FLETES EN EL PRECIO DEL PRODUCTO.SE SOLICITA ANEXAR FICHA TECNICA DE CADA PRODUCTO, DE LO CONTRARIO SE DESCARTARA. PLAZO DE ENTREGA COMIENZA A CONTAR DEL DIA HABIL SUBSIGUIENTE DEL ENVÍO DE ORDEN DE COMPRA.",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
-  {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Suministros y accesorios eléctricos"
-   ],
-   "nueva": true,
-   "codigo": "1691-2151-COT26",
-   "nombre": " EFCC- ASAS DE RECECTOSCOPIO DESECHABLE UD PARA REPOSICIÓN DE INS. CLINICOS HRC",
-   "organismo": "SERVICIO NACIONAL DE SALUD HOSPITAL DE C",
-   "unidad": "Compras de Insumos Clínicos",
-   "monto": 1720000,
-   "cierre_iso": "2026-11-24T09:39:00-03:00",
-   "publicacion": "20-11 11:05",
-   "publicacion_iso": "2026-11-20T11:05:00-03:00",
-   "ofertas": 1,
-   "productos": [
-    [
-     "39121720",
-     "Asas de transformadores",
-     30,
-     "COD - 42340118-96-147 ASAS DE RECECTOSCOPIO DESECHABLE"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1691-2151-COT26",
-   "sin_detalle": false,
-   "descripcion": "ASAS DE RECECTOSCOPIO DESECHABLE UD, PARA REPOSICIÓN DE INSUMOS CLÍNICOS DEL HRC.\nLOS PRECIOS OFERTADOS DEBEN INCLUIR TODOS LOS COSTOS ASOCIADOS, INCLUDIOS FLETES HASTA LA \nDIRECCIÓN DE DESPACHO ESTABLECIDA.LAS PROPUESTAS DEBEN AJUSTARSE ESTRÍCTAMENTE A LAS \nCARACTERÍSTICAS TÉCNICAS INDICADAS EN CADA REQUERIMIENTO. SE SOLICITA ADJUNTAR FICHA TÉCNICA\nCORRESPONDIENTE A LOS PRODUCTOS O SERVICIOS OFRECIDOS. SE SOLICITA COTIZACIÓN POR 30 DÍAS. \nSE SOLICITA 1 GUÍA DE DESPACHO DENTRO DE LA CAJA.",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
-  {
    "tipo": "POSIBLE",
    "motivos": [
     "eléctricos"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "4066-544-COT26",
    "nombre": "ADQUISICIÓN DE MATERIALES PARA EL MANTENIMIENTO Y REPARACIÓN DE LAS BIBLIOTECAS PÚBLICAS DE LA COMUNA DE RÍO IBÁÑEZ.TDR ADJUNTOS",
    "organismo": "I MUNICIPALIDAD RIO IBANEZ",
@@ -129,7 +53,7 @@
    "motivos": [
     "Enfriamiento (aires acondicionados)"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "1004-39-COT26",
    "nombre": "EQUIPOS DE AIRE ACONDICIONADO",
    "organismo": "MINISTERIO DE OBRAS PUBLICAS DIREC CION GRAL DE OO PP DCYF",
@@ -429,7 +353,7 @@
    "motivos": [
     "Gasfitería, calefacción y aire acondicionado"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "613-42-COT26",
    "nombre": "Servicio de mantención preventiva de líneas de calefacción y suministro e instalación de termostato programable con caja de protección",
    "organismo": "Ministerio de Vivienda y Urbanismo",
@@ -617,7 +541,7 @@
    "motivos": [
     "Conectores, enchufes y terminales"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "4609-326-COT26",
    "nombre": "MANGUERA LED Y OTROS",
    "organismo": "I MUNICIPALIDAD DE CHILE CHICO",
@@ -857,6 +781,35 @@
   {
    "tipo": "OPORTUNIDAD",
    "motivos": [
+    "Servicios eléctricos"
+   ],
+   "nueva": true,
+   "codigo": "1201-214-COT26",
+   "nombre": "SER. CIO DE TELE VIGILANCIA Y SEGURIDAD",
+   "organismo": "INSTITUTO NACIONAL DE DEPORTES DE CHILE",
+   "unidad": "I.N.D. REGION XI",
+   "monto": 2000000,
+   "cierre_iso": "2026-11-26T09:00:00-03:00",
+   "publicacion": "24-11 09:45",
+   "publicacion_iso": "2026-11-24T09:45:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "72102204",
+     "Instalación de sistemas de seguridad",
+     1,
+     "Servicio de asistencia remota o televigilancia, SEGUN BASES ADJUNTAS"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1201-214-COT26",
+   "sin_detalle": false,
+   "descripcion": "La necesidad de contratar los servicios de Televigilancia para la Dirección\nRegional y sus dependencias, para ser utilizada en el resguardo del patrimonio\ninstitucional en general de las dependendias de calle Per Dusen n°376 y Sargento\nAldea n° 128, de la ciudad de Coyhaique, dicho servicio tendrá una duración de\n12 meses, a contar del 01 de Diciembre de 2026 hasta el 30 de Noviembre de\n2027",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
     "Gasfitería, calefacción y aire acondicionado"
    ],
    "nueva": false,
@@ -972,6 +925,42 @@
   }
  ],
  "historial": [
+  {
+   "codigo": "1691-2151-COT26",
+   "nombre": " EFCC- ASAS DE RECECTOSCOPIO DESECHABLE UD PARA REPOSICIÓN DE INS. CLINICOS HRC",
+   "organismo": "SERVICIO NACIONAL DE SALUD HOSPITAL DE C",
+   "monto": 1720000,
+   "cierre_iso": "2026-11-24T09:39:00-03:00",
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Suministros y accesorios eléctricos"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1691-2151-COT26",
+   "primera_vista_iso": "2026-11-20T12:00:26-03:00",
+   "removida_iso": "2026-11-24T10:00:30-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
+  {
+   "codigo": "2713-1419-COT26",
+   "nombre": "EQUIPOS Y ACCESORIOS. FOLIO 1479 SEGURIDAD PUBLICA.",
+   "organismo": "I MUNICIPALIDAD DE AYSEN",
+   "monto": 299990,
+   "cierre_iso": "2026-11-24T09:01:00-03:00",
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Conectores, enchufes y terminales"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=2713-1419-COT26",
+   "primera_vista_iso": "2026-11-18T10:00:24-03:00",
+   "removida_iso": "2026-11-24T10:00:30-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
   {
    "codigo": "1286962-85-COT26",
    "nombre": "DMH SERVICIO DE ARRIENDO DE GENERADOR CENTRO RECREACIONAL \"ALCALDE OSCAR CATALAN SANCHEZ\"",
@@ -1769,42 +1758,6 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=1173433-23-COT26",
    "primera_vista_iso": "2026-11-13T17:00:27-03:00",
    "removida_iso": "2026-11-17T12:00:27-03:00",
-   "estado_api": "",
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "3949-301-COT26",
-   "nombre": "Mantenimiento preventivo anual de equipos grupo electrógeno",
-   "organismo": "CONSULTORIO GENERAL URBANO DR ALEJANDRO GUTIERREZ",
-   "monto": 1000000,
-   "cierre_iso": "2026-11-17T10:00:00-03:00",
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Servicios eléctricos"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=3949-301-COT26",
-   "primera_vista_iso": "2026-11-16T10:00:36-03:00",
-   "removida_iso": "2026-11-17T11:00:24-03:00",
-   "estado_api": "",
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "2494-299-COT26",
-   "nombre": " MATERIALES ELÉCTRICOS PARA PLAZA DE ARMAS COYHAIQUE",
-   "organismo": "I MUNICIPALIDAD DE COYHAIQUE",
-   "monto": 6307438,
-   "cierre_iso": "2026-11-17T09:30:00-03:00",
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Conectores, enchufes y terminales"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=2494-299-COT26",
-   "primera_vista_iso": "2026-11-16T10:00:36-03:00",
-   "removida_iso": "2026-11-17T10:00:28-03:00",
    "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,
