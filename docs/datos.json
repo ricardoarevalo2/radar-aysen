@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-11-24T12:00:25.801544-03:00",
+ "actualizado": "2026-11-24T13:00:34.921740-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
- "total_region": 299,
+ "total_region": 307,
  "rubros": {
   "80141600": "Ventas y marketing",
   "82101600": "Publicidad en medios no impresos",
@@ -20,41 +20,6 @@
     "difusión"
    ],
    "nueva": false,
-   "codigo": "1608-99-COT26",
-   "nombre": "INSUMOS DE DIFUSIÓN GET DPR AYSÉN",
-   "organismo": "DELEGACIÓN PRESIDENCIAL REGIONAL DE AYSÉN DEL GENERAL CARLOS IBÁÑEZ DE",
-   "unidad": "DELEGACION PRESIDENCIAL REGIONAL DE AYSEN",
-   "monto": 321897,
-   "cierre_iso": "2026-11-24T12:00:00-03:00",
-   "publicacion": "23-11 09:07",
-   "publicacion_iso": "2026-11-23T09:07:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "53121603",
-     "Mochilas",
-     70,
-     "70 MORRAL MOCHILA TIPO PLÁSTICO IMPERMEABLE, IMPRESIÓN GRIS O AZUL MARINO, TAMAÑO MORRAL 16X16CM APROX (LETRAS BLANCAS O AZUL SEGÚN IMPRESIÓN). LOS VALORES DEBEN INCLUIR DESPACHO A DOMICILIO, PLAZA 485, COYHAIQUE, REGIÓN DE AYSÉN. EL DISEÑO FINAL, SERÁ ENTREGADO POR LA INSTITUCIÓN UNA VEZ ADJUDICADO."
-    ],
-    [
-     "53121608",
-     "Bolsas para compras",
-     30,
-     "30 BOLSAS DE GÉNERO / TNT - LEYENDA GOBIERNO EN TERRENO, IMPRESIÓN AZUL MARINO TAMAÑO, LETRAS BLANCAS, BOLSAS DE 40X30 CM APROX. ÁREA DE IMPRESIÓN 20X29CM APROX. LOS VALORES DEBEN INCLUIR DESPACHO A DOMICILIO, PLAZA 485, COYHAIQUE, REGIÓN DE AYSÉN. EL DISEÑO FINAL, SERÁ ENTREGADO POR LA INSTITUCIÓN UNA VEZ ADJUDICADO."
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1608-99-COT26",
-   "sin_detalle": false,
-   "descripcion": "INSUMOS DE DIFUSIÓN GET DPR AYSÉN; BOLSAS DE GÉNERO / TNT Y MORRAL MOCHILA.",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "difusión"
-   ],
-   "nueva": true,
    "codigo": "2495-692-COT26",
    "nombre": "ADQUISICIÓN DE MATERIALES E INSUMOS PARA MATERIAL GRÁFICO E IDENTIDAD VISUAL. Código BIP 40071494-0",
    "organismo": "I MUNICIPALIDAD DE COYHAIQUE",
@@ -344,6 +309,116 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=1282238-98-COT26",
    "sin_detalle": false,
    "descripcion": "Diseño y ejecución del Encuentro Arte, Cultura y Patrimonio el 11 de diciembre de 2026 en el Centro Cultural de Coyhaique (jornada de 4 horas), proyecto FNDR código 3465. Incluye coordinación general, montaje y ambientación de la exhibición de trabajos de los talleres, maestra/o de ceremonia, taller de oficios textiles patrimoniales para hasta 80 personas con materiales, amplificación y registro audiovisual. Detalle en especificaciones adjuntas.",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "difusión",
+    "publicidad",
+    "publicitarios"
+   ],
+   "nueva": true,
+   "codigo": "2495-701-COT26",
+   "nombre": "set de herramientas ludicas Centro de las Mujeres",
+   "organismo": "I MUNICIPALIDAD DE COYHAIQUE",
+   "unidad": "DIRECCION DESARROLLO COMUNITARIO",
+   "monto": 200000,
+   "cierre_iso": "2026-11-25T12:20:00-03:00",
+   "publicacion": "24-11 12:19",
+   "publicacion_iso": "2026-11-24T12:19:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "60105412",
+     "Materiales educativos de prevención de la violencia o educación de elusión de la violencia",
+     1,
+     "tela PVC, 60*90 cm. que contara con el diseño del efecto iceberg de violencia y contar con hilo para poder colgarse y estuche para transportar."
+    ],
+    [
+     "82101507",
+     "Folletos y catálogos publicitarios, servicios de publicidad y distribución",
+     20,
+     "20 tarjertas con expresiones de violencia de genero, cada tarjeta debe medir 13x7 cm. estar impresa en opalina y contar con un velcro en la parte posterior (adjunto anexo)"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=2495-701-COT26",
+   "sin_detalle": false,
+   "descripcion": "Se requiere la adquisición de set de herramientas ludicas para apoyar las actividades de difusión, promoción del Centro de las Mujeres. 1 pendon Tela PVC diseño grafico adjunto anexo, agregar estuche para transportarlo. Y, 20 tarjetas con expresiones de violencia, se adjunta anexo. Se solicita que los materiales sean nuevos, de buena calidad y que cumplan íntegramente con las especificaciones técnicas requeridas (anexo)",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Ventas y marketing"
+   ],
+   "nueva": true,
+   "codigo": "2713-1474-COT26",
+   "nombre": "Servicio de producción y desarrollo de la actividad “One Song \" - DIDECO - Cultura -  1542",
+   "organismo": "I MUNICIPALIDAD DE AYSEN",
+   "unidad": "I.MUNICIPALIDAD AYSEN-ADQUISICIONES",
+   "monto": 700000,
+   "cierre_iso": "2026-11-25T12:30:00-03:00",
+   "publicacion": "24-11 12:10",
+   "publicacion_iso": "2026-11-24T12:10:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "80141607",
+     "Producción de eventos",
+     1,
+     "Actividades del día viernes 27 de noviembre - Jornada teórica-formativa"
+    ],
+    [
+     "80141607",
+     "Producción de eventos",
+     1,
+     "Actividades del día sábado 28 de noviembre - Jornada práctica"
+    ],
+    [
+     "80141607",
+     "Producción de eventos",
+     1,
+     "Actividades del día domingo 29 de noviembre - Presentación musical de cierre"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=2713-1474-COT26",
+   "sin_detalle": false,
+   "descripcion": "Contratación de profesional y/o artista del área musical para planificar y ejecutar el taller presencial “One Song – Taller de Canto”, dirigido a niños, niñas y adolescentes en Puerto Aysén: 2 jornadas formativas de 2 horas (27 y 28 de noviembre), dirección de presentación coral final de 20 min (29 de noviembre) y registro audiovisual. Valorizar cada componente por separado (taller, presentación y registro). Se exige certificado de inhabilidades para trabajar con menores. Ver Anexo Técnico.",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "difusion",
+    "difusión",
+    "publicidad",
+    "publicitarios"
+   ],
+   "nueva": true,
+   "codigo": "2495-702-COT26",
+   "nombre": "FLAYERS CENTRO DE LAS MUJERES",
+   "organismo": "I MUNICIPALIDAD DE COYHAIQUE",
+   "unidad": "DIRECCION DESARROLLO COMUNITARIO",
+   "monto": 400000,
+   "cierre_iso": "2026-11-25T12:39:00-03:00",
+   "publicacion": "24-11 12:37",
+   "publicacion_iso": "2026-11-24T12:37:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "82101507",
+     "Folletos y catálogos publicitarios, servicios de publicidad y distribución",
+     1400,
+     "1400 ejemplares tipo flyer, impresos en papel couché, con terminación y calidad adecuada para difusión institucional. (documento adjunto)"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=2495-702-COT26",
+   "sin_detalle": false,
+   "descripcion": "1400 ejemplares, impresos en papel couché, con terminación y calidad adecuada para difusión institucional pra difusion y ser distribuidos en tribunale competentes a la materia. Monto que deberá considerar impresión y despacho a domicilio.",
    "en_gracia": false,
    "desaparecida_iso": ""
   },
@@ -645,6 +720,35 @@
   {
    "tipo": "POSIBLE",
    "motivos": [
+    "difusion"
+   ],
+   "nueva": true,
+   "codigo": "1758-299-COT26",
+   "nombre": "SERVICIO DE MEDIACION LECTORA Y NARRACION ORAL CUENTACUENTOS ",
+   "organismo": "SECRETARIA REGIONAL MINISTERIAL DE EDUCACION XI REGION",
+   "unidad": "Mineduc Administración XI Región",
+   "monto": 200000,
+   "cierre_iso": "2026-11-26T12:41:00-03:00",
+   "publicacion": "18-11 10:42",
+   "publicacion_iso": "2026-11-18T10:42:00-03:00",
+   "ofertas": 1,
+   "productos": [
+    [
+     "94121701",
+     "Clubes de aficionados o talleres de teatro",
+     1,
+     "SERVICIO DE MEDIACION LECTORA Y NARRATIVA \"CUENTA CUENTOS\" EL DIA 28 DE NOVIEMBRE EN BYPASS de LA CIUDAD DE COYHAIQUE."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1758-299-COT26",
+   "sin_detalle": false,
+   "descripcion": "SE REQUIERE CONTRATAR SERVICIO DE MEDIACION LECTORA Y NARRACION ORAL (CUENTACUENTOS) EN EL MARCO DE LA DIFUSION DEL PLAN CHILE APRENDE Y AVANZA DEL MINISTERIO DE EDUCACION  A RELIZARSE EN EL MIRADOR  BYPASS EL 28 DE NOVIEMBRE EN LA CIUDAD DE COYHAIQUE",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
     "fotografía"
    ],
    "nueva": false,
@@ -929,6 +1033,24 @@
   }
  ],
  "historial": [
+  {
+   "codigo": "1608-99-COT26",
+   "nombre": "INSUMOS DE DIFUSIÓN GET DPR AYSÉN",
+   "organismo": "DELEGACIÓN PRESIDENCIAL REGIONAL DE AYSÉN DEL GENERAL CARLOS IBÁÑEZ DE",
+   "monto": 321897,
+   "cierre_iso": "2026-11-24T12:00:00-03:00",
+   "tipo": "POSIBLE",
+   "motivos": [
+    "difusión"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1608-99-COT26",
+   "primera_vista_iso": "2026-11-23T10:00:26-03:00",
+   "removida_iso": "2026-11-24T13:00:34-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
   {
    "codigo": "1758-300-COT26",
    "nombre": "SERVICIO DE MAQILLAJE ARTISTICO \"PINTACARITAS\" EN EL MARCO DIFUSION DEL PLAN CHILE APRENDE Y AVANZA DEL MINISTERIO DE EDUCACION",
@@ -1392,24 +1514,6 @@
    ],
    "link": "https://buscador.mercadopublico.cl/ficha?code=1182705-216-COT26",
    "primera_vista_iso": "2026-11-17T13:00:25-03:00",
-   "removida_iso": "2026-11-20T12:00:26-03:00",
-   "estado_api": "",
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "1758-299-COT26",
-   "nombre": "SERVICIO DE MEDIACION LECTORA Y NARRACION ORAL CUENTACUENTOS ",
-   "organismo": "SECRETARIA REGIONAL MINISTERIAL DE EDUCACION XI REGION",
-   "monto": 200000,
-   "cierre_iso": "2026-11-20T11:00:00-03:00",
-   "tipo": "POSIBLE",
-   "motivos": [
-    "difusion"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1758-299-COT26",
-   "primera_vista_iso": "2026-11-18T11:00:25-03:00",
    "removida_iso": "2026-11-20T12:00:26-03:00",
    "estado_api": "",
    "adj_nombre": null,
@@ -2019,42 +2123,6 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=1057062-544-COT26",
    "primera_vista_iso": "2026-11-16T14:00:23-03:00",
    "removida_iso": "2026-11-17T15:41:06-03:00",
-   "estado_api": "",
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "1057062-531-COT26",
-   "nombre": "Adquisición de equipamiento para laboratorio de química, biología y genética según fisabs 2455_URY 21991",
-   "organismo": "UNIVERSIDAD DE AYSEN",
-   "monto": 6999996,
-   "cierre_iso": "2026-11-17T13:00:00-03:00",
-   "tipo": "POSIBLE",
-   "motivos": [
-    "registro fotográfico"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1057062-531-COT26",
-   "primera_vista_iso": "2026-11-12T18:12:42-03:00",
-   "removida_iso": "2026-11-17T14:00:24-03:00",
-   "estado_api": "",
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "1201-206-COT26",
-   "nombre": "SERVICIO DE SONIDO – AMPLIFICACIÓN - ANIMACIÓN  EVENTOS SUB10 – SUB12 – JUVENIL JUEGOS DEPORTIVOS ESCOLARES 2026",
-   "organismo": "",
-   "monto": null,
-   "cierre_iso": "",
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Ventas y marketing"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1201-206-COT26",
-   "primera_vista_iso": "2026-11-17T12:00:27-03:00",
-   "removida_iso": "2026-11-19T10:00:24-03:00",
    "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,

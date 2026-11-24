@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-11-24T12:00:25.801544-03:00",
+ "actualizado": "2026-11-24T13:00:34.921740-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
- "total_region": 299,
+ "total_region": 307,
  "rubros": {
   "25172700": "Aire acondicionado",
   "25173900": "Componentes eléctricos",
@@ -22,50 +22,9 @@
   {
    "tipo": "OPORTUNIDAD",
    "motivos": [
-    "Cajas y accesorios eléctricos"
-   ],
-   "nueva": true,
-   "codigo": "1182705-230-COT26",
-   "nombre": " ADQUISICION DE FUNGIBLES PARA INSTALACION ELECTRICA, FOLIO N°238",
-   "organismo": "CENTRO DE FORMACIÓN TÉCNICA DE LA REGIÓN DE AYSÉN DEL GENERAL CARLOS I",
-   "unidad": "FINANZAS",
-   "monto": 117000,
-   "cierre_iso": "2026-11-24T12:00:00-03:00",
-   "publicacion": "23-11 11:55",
-   "publicacion_iso": "2026-11-23T11:55:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "39121311",
-     "Accesorios eléctricos",
-     300,
-     "Salidas de caja 20 mm"
-    ],
-    [
-     "39121311",
-     "Accesorios eléctricos",
-     150,
-     "Salidas de caja 16 mm"
-    ],
-    [
-     "39121311",
-     "Accesorios eléctricos",
-     150,
-     "Caja Derivación Embutida"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1182705-230-COT26",
-   "sin_detalle": false,
-   "descripcion": "Se requiere la compra de fungibles de instalaciones eléctrica para la carrera TNS en electricidad, del CFT de la Región de Aysén. Los productos deben ser entregados en oficinas ubicada en Sargento Aldea 533, Puerto Aysén.",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
-  {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
     "Suministros y accesorios eléctricos"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "3791-1206-COT26",
    "nombre": "MATERIALES AYUDA ASISTENICAL ",
    "organismo": "I MUNICIPALIDAD DE CISNES",
@@ -154,7 +113,7 @@
    "motivos": [
     "enchufe"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "3791-1209-COT26",
    "nombre": "ARTICULOS NAVIDEÑOS ",
    "organismo": "I MUNICIPALIDAD DE CISNES",
@@ -493,53 +452,6 @@
   {
    "tipo": "OPORTUNIDAD",
    "motivos": [
-    "Cajas y accesorios eléctricos"
-   ],
-   "nueva": true,
-   "codigo": "3950-758-COT26",
-   "nombre": "articulos para vacunatorio",
-   "organismo": "DIRECCION SALUD RURAL",
-   "unidad": "Dirección de Salud Rural",
-   "monto": 1000000,
-   "cierre_iso": "2026-11-25T12:00:00-03:00",
-   "publicacion": "24-11 11:23",
-   "publicacion_iso": "2026-11-24T11:23:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "24111503",
-     "Bolsas de plástico",
-     400,
-     "BOLSA HERMETICA 30X40CM"
-    ],
-    [
-     "39121310",
-     "Cajas de uso general",
-     24,
-     "CAJAS PLASTICAS CON TAPA Y ASAS ORGANIZADORA 15 LITROS (MEDIDAS 42X32X16CM)"
-    ],
-    [
-     "45101512",
-     "Termo impresora de transferencia para aplicaciones comerciales de imprimir",
-     1,
-     "impresora de etiqueta para rotulo tubos toma de muestra. características: conectividad USB, compatible con rollos con rollos continuos de impresión 2 colores( 62mm x 5 metros), soporte del sistema operativo compatible con Windows, tecnología de impresión térmica directa, impresión de alta resolución(hasta 300 x 600 ppp) para texto y gráficos nítidos, 93 etiquetas por minutos."
-    ],
-    [
-     "55121606",
-     "Etiquetas autoadhesivas",
-     50,
-     "etiquetas autoadhesiva rollo continuo de 62mm x 30,48 metros. papel térmico resistente al agua, aceite y manchas. similar a brother dk2205"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=3950-758-COT26",
-   "sin_detalle": false,
-   "descripcion": "incluir despacho en cotización",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
-  {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
     "Materiales de física de electricidad"
    ],
    "nueva": true,
@@ -563,6 +475,76 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=1233615-1041-COT26",
    "sin_detalle": false,
    "descripcion": "Según detalle adjunto, despacho incluido a Chile Chico.",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Cajas y accesorios eléctricos"
+   ],
+   "nueva": false,
+   "codigo": "1182705-230-COT26",
+   "nombre": " ADQUISICION DE FUNGIBLES PARA INSTALACION ELECTRICA, FOLIO N°238",
+   "organismo": "CENTRO DE FORMACIÓN TÉCNICA DE LA REGIÓN DE AYSÉN DEL GENERAL CARLOS I",
+   "unidad": "FINANZAS",
+   "monto": 117000,
+   "cierre_iso": "2026-11-25T12:04:00-03:00",
+   "publicacion": "23-11 11:55",
+   "publicacion_iso": "2026-11-23T11:55:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "39121311",
+     "Accesorios eléctricos",
+     300,
+     "Salidas de caja 20 mm"
+    ],
+    [
+     "39121311",
+     "Accesorios eléctricos",
+     150,
+     "Salidas de caja 16 mm"
+    ],
+    [
+     "39121311",
+     "Accesorios eléctricos",
+     150,
+     "Caja Derivación Embutida"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1182705-230-COT26",
+   "sin_detalle": false,
+   "descripcion": "Se requiere la compra de fungibles de instalaciones eléctrica para la carrera TNS en electricidad, del CFT de la Región de Aysén. Los productos deben ser entregados en oficinas ubicada en Sargento Aldea 533, Puerto Aysén.",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "certificación sec"
+   ],
+   "nueva": true,
+   "codigo": "3797-553-COT26",
+   "nombre": "INSUMOS LABORES FAENAMIENTO CFA",
+   "organismo": "I MUNICIPALIDAD DE COCHRANE",
+   "unidad": "I MUNICIPALIDAD DE COCHRANE",
+   "monto": 2500000,
+   "cierre_iso": "2026-11-25T12:45:00-03:00",
+   "publicacion": "24-11 12:40",
+   "publicacion_iso": "2026-11-24T12:40:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "27112802",
+     "Hojas de sierra",
+     1,
+     "INSUMOS:\n(250) Buso desechable blanco impermeable engomado; talla xxl\n(2) Fogón campero industrial, con certificación SEC; medidas base: 46.5 x 42.5 cm, de 3 alturas o similar, con capacidad de soporte de 100 kg\n(1) Pesa romana digital colgante 1000 kg, con batería recargable\n(20) Hoja sierra carnicera corta hueso 18\", 9 dientes por pukgada.\n(4) Pack 5 hojas sierra sable tipo makita o equivalente 300 mm\n(200) Par guante de goma albañil negro"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=3797-553-COT26",
+   "sin_detalle": false,
+   "descripcion": "Adquisición de insumos para labores de faenamiento en CFA Cochrane.",
    "en_gracia": false,
    "desaparecida_iso": ""
   },
