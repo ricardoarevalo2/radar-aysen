@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-11-24T18:00:25.734636-03:00",
+ "actualizado": "2026-11-24T19:00:36.678234-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
- "total_region": 303,
+ "total_region": 301,
  "rubros": {
   "80141600": "Ventas y marketing",
   "82101600": "Publicidad en medios no impresos",
@@ -14,53 +14,6 @@
   "83121700": "Comunicación social y de masas"
  },
  "filas": [
-  {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Ventas y marketing"
-   ],
-   "nueva": true,
-   "codigo": "2713-1468-COT26",
-   "nombre": " Servicio de producción artística y mediación cultural para Borde Cultural – «Entre pluma, papel y acordes - Folio 1538",
-   "organismo": "I MUNICIPALIDAD DE AYSEN",
-   "unidad": "I.MUNICIPALIDAD AYSEN-ADQUISICIONES",
-   "monto": 6000000,
-   "cierre_iso": "2026-11-24T18:15:00-03:00",
-   "publicacion": "23-11 18:10",
-   "publicacion_iso": "2026-11-23T18:10:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "60131003",
-     "Órganos musicales",
-     1,
-     "Danza y saxofón: Una presentación presencial de danza y saxofón en vivo, con interacción entre ambos intérpretes y una propuesta vinculada a la literatura o a la cultura local. Informar duración en la oferta."
-    ],
-    [
-     "80141607",
-     "Producción de eventos",
-     1,
-     "Narración con música: Una función presencial de cuentacuentos para niñeces y familias, con narración oral y acompañamiento musical integrado al relato. Duración mínima de 30 minutos. Incluye los materiales y recursos sonoros propios de la función."
-    ],
-    [
-     "80141607",
-     "Producción de eventos",
-     1,
-     "Talleres de lettering y escritura creativa: Dos talleres presenciales en una misma jornada. El primero será de lettering y durará 60 minutos. El segundo será de escritura creativa y dibujo e incluirá un panel participativo. La oferta indicará duración del segundo taller, capacidad y materiales incluidos para ambos."
-    ],
-    [
-     "80141607",
-     "Producción de eventos",
-     1,
-     "Presentación teatral: Una presentación presencial de mimo, con interacción con el público y una duración mínima de 45 minutos."
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=2713-1468-COT26",
-   "sin_detalle": false,
-   "descripcion": "Producción de cuatro prestaciones artísticas y de mediación lectora: danza y saxofón en vivo, cuentacuentos con música, talleres de lettering y escritura creativa, y presentación de mimo. Actividad abierta y gratuita, 27, 28 y 29 de noviembre de 2026, de 10:00 a 20:00 hrs, en Puerto Aysén. Precio incluye coordinación, honorarios, traslados, alimentación y materiales. Adjuntar propuesta técnica por prestación (descripción, duración, requerimientos y precio). Ver especificaciones adjuntas",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
   {
    "tipo": "POSIBLE",
    "motivos": [
@@ -896,38 +849,27 @@
    "descripcion": "Se requiere contratar el mantenimiento correctivo del vehículo Nissan X-Trail, patente DTDG-37, de la Contraloría Regional de Aysé",
    "en_gracia": false,
    "desaparecida_iso": ""
-  },
+  }
+ ],
+ "historial": [
   {
+   "codigo": "2713-1468-COT26",
+   "nombre": " Servicio de producción artística y mediación cultural para Borde Cultural – «Entre pluma, papel y acordes - Folio 1538",
+   "organismo": "I MUNICIPALIDAD DE AYSEN",
+   "monto": 6000000,
+   "cierre_iso": "2026-11-24T18:15:00-03:00",
    "tipo": "OPORTUNIDAD",
    "motivos": [
     "Ventas y marketing"
    ],
-   "nueva": false,
-   "codigo": "4066-535-COT26",
-   "nombre": "SERVICIO INTEGRAL DE PRODUCCIÓN Y ALIMENTACIÓN PARA EL DÍA DEL TURISMO EN VILLA CERRO CASTILLO, COD. BIP 40066883-0",
-   "organismo": "",
-   "unidad": "",
-   "monto": null,
-   "cierre_iso": "",
-   "publicacion": "",
-   "publicacion_iso": "",
-   "ofertas": 0,
-   "productos": [
-    [
-     "80141607",
-     "Producción de eventos",
-     1,
-     "Servicio integral para hasta 80 personas, viernes 27 de noviembre de 2026, de 17:00 a 21:00 horas, en la Sede Comunitaria de Villa Cerro Castillo: 8 corderos cocidos en el lugar (leña y asadores) con acompañamientos y bebestibles sin alcohol; vajilla, mesas, sillas, manteles y garzones; decoración y ambientación; audio y música ambiental; 10 reconocimientos; limpieza y orden de la sede. Detalle completo en el TDR adjunto y anexos."
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=4066-535-COT26",
-   "sin_detalle": false,
-   "descripcion": "Servicio integral para el Día del Turismo en Villa Cerro Castillo: viernes 27 de noviembre de 2026, de 17:00 a 21:00 horas, en la Sede Comunitaria. Incluye cocción y servicio de 8 corderos con acompañamientos y bebestibles sin alcohol para hasta 80 personas, servicio de mesa y garzones, decoración, audio, 10 reconocimientos y limpieza de la sede. Presupuesto $7.150.000, impuesto incluido. Ver TDR y Formatos N°1, N°2 y N°3 adjuntos.",
-   "en_gracia": true,
-   "desaparecida_iso": "2026-11-23T10:00:26-03:00"
-  }
- ],
- "historial": [
+   "link": "https://buscador.mercadopublico.cl/ficha?code=2713-1468-COT26",
+   "primera_vista_iso": "2026-11-23T18:34:52-03:00",
+   "removida_iso": "2026-11-24T19:00:36-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
   {
    "codigo": "2713-1466-COT26",
    "nombre": "programa radial Hablemos de Violencia de Género - Folio 1540 - DIDECO",
@@ -2102,6 +2044,24 @@
    "primera_vista_iso": "2026-11-18T12:00:27-03:00",
    "removida_iso": "2026-11-20T08:00:26-03:00",
    "estado_api": "",
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
+  {
+   "codigo": "4066-535-COT26",
+   "nombre": "SERVICIO INTEGRAL DE PRODUCCIÓN Y ALIMENTACIÓN PARA EL DÍA DEL TURISMO EN VILLA CERRO CASTILLO, COD. BIP 40066883-0",
+   "organismo": "",
+   "monto": null,
+   "cierre_iso": "",
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Ventas y marketing"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=4066-535-COT26",
+   "primera_vista_iso": "2026-11-19T18:00:24-03:00",
+   "removida_iso": "2026-11-24T19:00:36-03:00",
+   "estado_api": null,
    "adj_nombre": null,
    "adj_monto": null,
    "adj_iso": null
