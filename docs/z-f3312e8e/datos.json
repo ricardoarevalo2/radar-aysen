@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-24T13:00:34.921740-03:00",
+ "actualizado": "2026-11-24T14:00:31.621506-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
  "total_region": 307,
@@ -19,95 +19,6 @@
   "39121400": "Conectores, enchufes y terminales"
  },
  "filas": [
-  {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Suministros y accesorios eléctricos"
-   ],
-   "nueva": false,
-   "codigo": "3791-1206-COT26",
-   "nombre": "MATERIALES AYUDA ASISTENICAL ",
-   "organismo": "I MUNICIPALIDAD DE CISNES",
-   "unidad": "Finanzas",
-   "monto": 210250,
-   "cierre_iso": "2026-11-24T13:00:00-03:00",
-   "publicacion": "23-11 12:27",
-   "publicacion_iso": "2026-11-23T12:27:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "30103604",
-     "Revestimiento o láminas de madera",
-     1,
-     "TERCIADO ESTRUCTURAL 18MM"
-    ],
-    [
-     "30103605",
-     "Tablas de madera",
-     1,
-     "PINO IMPREGNADO 1X4 3.2M"
-    ],
-    [
-     "30103605",
-     "Tablas de madera",
-     3,
-     "PINO VERDE 2X2 X3.2 (P240)"
-    ],
-    [
-     "30103605",
-     "Tablas de madera",
-     2,
-     "PINO VERDE 2X3 X3.2 (P168)"
-    ],
-    [
-     "31161503",
-     "Clavo-tornillo",
-     2,
-     "TORNILLO DRYWALL 1 5/8 (CAJA O BOLSA)"
-    ],
-    [
-     "31161508",
-     "Tornillos para madera",
-     1,
-     "TORNILLO DRYWALL 3\" (CAJA O BOLSA)"
-    ],
-    [
-     "31181509",
-     "Equipos de cubrejuntas",
-     4,
-     "CUBREJUNTA RODON"
-    ],
-    [
-     "31341213",
-     "Conjuntos de planchas remachadas de latón",
-     3,
-     "INTERNIT 5MM"
-    ],
-    [
-     "39121710",
-     "Receptáculo multiplicador eléctrico",
-     1,
-     "RECEPTÁCULO 80X80"
-    ],
-    [
-     "46151601",
-     "Manillas",
-     3,
-     "MANILLA SEGURIDAD INOXIDABLE 60CM"
-    ],
-    [
-     "56122004",
-     "Módulos con fregadero o lavatorio",
-     1,
-     "MONOMANDO LAVATORIO"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=3791-1206-COT26",
-   "sin_detalle": false,
-   "descripcion": "ADQUISICION DE MATERIALES DE CONSTRUCCION PARA ADAPTACION DE BAÑO, SEGUN MEMO 153. SE ADJUNTAN ANEXOS.",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
   {
    "tipo": "POSIBLE",
    "motivos": [
@@ -545,6 +456,209 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=3797-553-COT26",
    "sin_detalle": false,
    "descripcion": "Adquisición de insumos para labores de faenamiento en CFA Cochrane.",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Conectores, enchufes y terminales",
+    "Interruptores, controles y relés"
+   ],
+   "nueva": true,
+   "codigo": "1195-612-COT26",
+   "nombre": "REPACIONES CAMIONES RECOLECTORES MODELO ATEGO 1726",
+   "organismo": "I MUNICIPALIDAD DE COYHAIQUE",
+   "unidad": "Ilustre Municipalidad de Coyhaique",
+   "monto": 7100000,
+   "cierre_iso": "2026-11-25T13:30:00-03:00",
+   "publicacion": "24-11 13:06",
+   "publicacion_iso": "2026-11-24T13:06:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "15121802",
+     "Lubricantes anticorrosivos",
+     36,
+     "-36 ENGRASE DE PUNTOS INCLUIDO DESLIZADERAS DE CARROZERIA. CAMION STGV-70"
+    ],
+    [
+     "25171718",
+     "Kits de reparación de frenos",
+     1,
+     "-1 servicio revicion de frenos, contemplar horas de servicio e insumos camion STGV-71."
+    ],
+    [
+     "25171905",
+     "Válvulas de neumáticos",
+     2,
+     "-RECAMBIO DE 2 NUEMATICOS MEDIDA 11R X 22.5 DIRECCIONALES. CAMION STGV-70"
+    ],
+    [
+     "26111904",
+     "Embrague semi centrífuga",
+     1,
+     "-1 REPARACION DE FUGA DE AIRE EN EJE FLOTANTE CAMION STGV-74\n-1 REPARACION DE FURA DE AIRE EN MANDO DE CABINA CAMION STGV-70"
+    ],
+    [
+     "27121602",
+     "Cilindros hidráulicos",
+     1,
+     "-1 SERVICIO DE DESMONTAJE Y REPARACION DE CILINDROS ALZARA TACHOS, CONTEMPLANDO CAMBIO DE SELLOS Y PULIDO DE VASTAGO CAMION STGV-74"
+    ],
+    [
+     "31161613",
+     "Pernos de tracción",
+     3,
+     "-3 CAMBIO DE PERNO, HILOS Y TUERCAS DE MASA TRASERA DERECHA. CONTEMPLAR INSUMO Y MANO DE OBRA CAMION STGV-70"
+    ],
+    [
+     "31201516",
+     "Cinta reflectiva",
+     1,
+     "-1 INSTALACION CINTA REFLECTANTE, ONTEMPLAR INSUMOS Y MANO DE OBRA CAMION STGV-70"
+    ],
+    [
+     "39101601",
+     "ampolletas halógenas",
+     10,
+     "-5  RECAMBIO DE AMPOLLETAS CONTEMPLAR INSUMO Y MANO DE OBRA. CAMION STGV-71\n-2  RECAMBIO DE AMPOLLETAS CONTEMPLAR INSUMO Y MANO DE OBRA. CAMION STGV-74\n-3  RECAMBIO DE AMPOLLETAS CONTEMPLAR INSUMO Y MANO DE OBRA. CAMION STGV-70"
+    ],
+    [
+     "39101608",
+     "Focos cialiticos",
+     9,
+     "-4 RECAMBIO DE FAROL LED 2.5\"  CONTEMPLAR INSUMO Y MANO DE OBRA. CAMION STGV-71\n-1 RECAMBIO DE BALIZA CONTEMPLAR INSUMO Y MANO DE OBRA. CAMION STGV-71\n-2 RECAMBIO DE FAROL LED 2.5\"  CONTEMPLAR INSUMO Y MANO DE OBRA. CAMION STGV-70\n-1 RECAMBIO DE FOCO TRASERO  CONTEMPLAR INSUMO Y MANO DE OBRA. CAMION STGV-70\n-1 RECAMBIO DE FAROL LED 2.5\"  CONTEMPLAR INSUMO Y MANO DE OBRA. CAMION STGV-74"
+    ],
+    [
+     "39121432",
+     "Terminales eléctricos",
+     1,
+     "- 1 REPARACION Y RECAMBIO TERMINAL 90° YIK. CONTEMPLAR SERVICIO E INSUMO"
+    ],
+    [
+     "39121525",
+     "Interruptores infusibles",
+     1,
+     "-1 RECAMBIO DE RELAY, CONTEMPLAR INSUMO Y MANO DE OBRA CAMION STGV-74"
+    ],
+    [
+     "40142002",
+     "Mangueras para aire",
+     3,
+     "- 3 INSTALACIONES DE  MANGUERA DE AIRE CON ACOPLE PARA CAMION STGV-70, STGV-71 Y STGV-74. CONTEMPLAR SERVICIO E INSUMOS."
+    ],
+    [
+     "73181001",
+     "Servicios de tornería",
+     2,
+     "-ELABORACION E INSTALACION DE PASADOR DE PRENSA, CONTEMPLAR INSUMOS Y MANO DE OBRA CAMION STGV-70\n-ENDERAZAR PILAR DE TAPABARROS  CAMION STGV-70"
+    ],
+    [
+     "73181908",
+     "Servicios de soldadura",
+     1,
+     "-REPARACION CON SOLDADURA DE ESCAPE, CONTEMPLAR DESMONTAJE Y MONTAJE, CAMION STGV-70"
+    ],
+    [
+     "81101701",
+     "Ingeniería eléctrica",
+     3,
+     "-REPARACIO RED ELECTRICA DE FOCOS SUPERIORES, LINEA ELECTRICA PARA BALIZAS, LINEA ELECTRICA FOCOS DE POSICION. CAMION STGV-71\n-REPARACION RED ELECTRICA Y RED ELECTRICA DE ALZA VIDRIOS. CAMION STGV-70\n-REPARACION LINEA FOCOS INFERIORES TRASEROS Y CAMBIO POSICION DE BALIZA, REVICION Y CHEQUEO DE LUCES CAMION STGV-74"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1195-612-COT26",
+   "sin_detalle": false,
+   "descripcion": "SE REQUIERE REPARACIONES VARIAS DE LOS CAMIONES RECOLECTORES MODELO ATEGO 1726, MARCA MERCEDES BENZ, PATENTE STGV-70, STGV-71 Y STGV-74. (SE ADJUNTAM PADRONES). ENTRE ELLAS SE CONTEMPLA REVICION ELECTRICA,CAMBIANDO AMPOLLETAS, FAROLES LED, FOCOS, RELAY, PERNOS, INSTALACION DE CINTA REFLECTANTES, ENTRE OTRAS REPARACIONES QUE SE DETALLAN SEGUN PATENTE. SE DARA PRIORIDAD A PROVEEDOR LOCAL.",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Suministros y accesorios eléctricos"
+   ],
+   "nueva": false,
+   "codigo": "3791-1206-COT26",
+   "nombre": "MATERIALES AYUDA ASISTENICAL ",
+   "organismo": "I MUNICIPALIDAD DE CISNES",
+   "unidad": "Finanzas",
+   "monto": 210250,
+   "cierre_iso": "2026-11-25T13:32:00-03:00",
+   "publicacion": "23-11 12:27",
+   "publicacion_iso": "2026-11-23T12:27:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "30103604",
+     "Revestimiento o láminas de madera",
+     1,
+     "TERCIADO ESTRUCTURAL 18MM"
+    ],
+    [
+     "30103605",
+     "Tablas de madera",
+     1,
+     "PINO IMPREGNADO 1X4 3.2M"
+    ],
+    [
+     "30103605",
+     "Tablas de madera",
+     3,
+     "PINO VERDE 2X2 X3.2 (P240)"
+    ],
+    [
+     "30103605",
+     "Tablas de madera",
+     2,
+     "PINO VERDE 2X3 X3.2 (P168)"
+    ],
+    [
+     "31161503",
+     "Clavo-tornillo",
+     2,
+     "TORNILLO DRYWALL 1 5/8 (CAJA O BOLSA)"
+    ],
+    [
+     "31161508",
+     "Tornillos para madera",
+     1,
+     "TORNILLO DRYWALL 3\" (CAJA O BOLSA)"
+    ],
+    [
+     "31181509",
+     "Equipos de cubrejuntas",
+     4,
+     "CUBREJUNTA RODON"
+    ],
+    [
+     "31341213",
+     "Conjuntos de planchas remachadas de latón",
+     3,
+     "INTERNIT 5MM"
+    ],
+    [
+     "39121710",
+     "Receptáculo multiplicador eléctrico",
+     1,
+     "RECEPTÁCULO 80X80"
+    ],
+    [
+     "46151601",
+     "Manillas",
+     3,
+     "MANILLA SEGURIDAD INOXIDABLE 60CM"
+    ],
+    [
+     "56122004",
+     "Módulos con fregadero o lavatorio",
+     1,
+     "MONOMANDO LAVATORIO"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=3791-1206-COT26",
+   "sin_detalle": false,
+   "descripcion": "ADQUISICION DE MATERIALES DE CONSTRUCCION PARA ADAPTACION DE BAÑO, SEGUN MEMO 153. SE ADJUNTAN ANEXOS.",
    "en_gracia": false,
    "desaparecida_iso": ""
   },
