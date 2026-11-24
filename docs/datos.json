@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-11-24T16:00:27.826835-03:00",
+ "actualizado": "2026-11-24T17:00:29.257562-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
- "total_region": 307,
+ "total_region": 306,
  "rubros": {
   "80141600": "Ventas y marketing",
   "82101600": "Publicidad en medios no impresos",
@@ -14,93 +14,6 @@
   "83121700": "Comunicación social y de masas"
  },
  "filas": [
-  {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Ventas y marketing"
-   ],
-   "nueva": true,
-   "codigo": "2495-696-COT26",
-   "nombre": "Produccion de 2 sesiones de baños de bosque",
-   "organismo": "I MUNICIPALIDAD DE COYHAIQUE",
-   "unidad": "DIRECCION DESARROLLO COMUNITARIO",
-   "monto": 300000,
-   "cierre_iso": "2026-11-24T16:20:00-03:00",
-   "publicacion": "23-11 16:05",
-   "publicacion_iso": "2026-11-23T16:05:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "80141607",
-     "Producción de eventos",
-     2,
-     "Producción de 2 sesiones de baños de bosque para 10 personas por sesión (total 20), debe incluir monitor de baños de bosque y colación para 10 personas por sesión: Jugo en caja mas sándwich (total 20)"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=2495-696-COT26",
-   "sin_detalle": false,
-   "descripcion": "Producción de 2 sesiones de baños de bosque para 10 personas por sesión (total 20), debe incluir monitor de baños de bosque y colación para 10 personas por sesión: Jugo en caja mas sándwich (total 20)",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "difusion"
-   ],
-   "nueva": false,
-   "codigo": "1758-304-COT26",
-   "nombre": "INSUMOS DECORATIVOS EN EL MARCO DE LA DIFUSION DEL PLAN CHILE APRENDE Y AVANZA MINEDUC.",
-   "organismo": "SECRETARIA REGIONAL MINISTERIAL DE EDUCACION XI REGION",
-   "unidad": "Mineduc Administración XI Región",
-   "monto": 300000,
-   "cierre_iso": "2026-11-24T16:30:00-03:00",
-   "publicacion": "23-11 15:56",
-   "publicacion_iso": "2026-11-23T15:56:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "49161523",
-     "Banderines de fútbol",
-     5,
-     "05 TIRAS DE 02 METROS DE BANDERINES DECORATIVOS DE COLORES, CONFECCIONADOS EN ALGODOY Y CON BORDES REFORZADOS (BORDADOS) CADA TRIANGULO DE 18X22 CMS. CON ENTREGA EN GABINETE, SECREDUC UBICADO EN FCO. BILBAO 540 DE LA CIUDAD DE COYHAIQUE.\nRECICLABLE."
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1758-304-COT26",
-   "sin_detalle": false,
-   "descripcion": "SE REQUIERE ADQUIRIR INSUMOS DECORATIVOS 05 TIRAS DE 02 MTS. DE BANDERINES DECORATIVOS DE COLORES CONFECCIONADOS EN ALGODON Y CON BORDES REFORZADOS (BORDADOS) CADA TRIANGULO DE 18X22CMS. EN EL MARCO DE LA DIFUSION DEL PLAN CHILE APRENDE Y AVANZA MINEDUC.\nENTREGA EN GABINETE, SECREDUC UBICADO EN FCO. BILBAO 540 DE LA CIUDAD DE COYHAIQUE.",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "difusion"
-   ],
-   "nueva": false,
-   "codigo": "1758-305-COT26",
-   "nombre": "INSUMOS PARA LA EJECUCION DE LA DIFUSION DEL PLAN CHILE APRENDE Y AVANZA MINEDUC",
-   "organismo": "SECRETARIA REGIONAL MINISTERIAL DE EDUCACION XI REGION",
-   "unidad": "Mineduc Administración XI Región",
-   "monto": 30000,
-   "cierre_iso": "2026-11-24T16:30:00-03:00",
-   "publicacion": "23-11 15:47",
-   "publicacion_iso": "2026-11-23T15:47:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "70142007",
-     "Servicios de preparación del mercado para cosechas de frutas",
-     12,
-     "04 KILOS DE MANDARINAS.\n04 KILOS DE PLATANOS.\n04 KILOS DE MANZANAS FUJI.\nENTREGA EN FACO. BILBAO 540 SECREDUC EN LA CIUDAD DE COYHAIQUE."
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1758-305-COT26",
-   "sin_detalle": false,
-   "descripcion": "SE REQUIERE ADQUIRIR INSUMOS PARA LA EJECUCION DE DIFUSION DEL PLAN CHILE APRENDE Y AVANZA DEL MINISTERIO DE EDUCACION A REALIZARSE EL DIA 28 DE NOVIEMBRE EN LA CIUDAD DE COYHAIQUE.\nENTREGA EN FCO. BILBAO 540 GABINETE, SECREDUC.",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
   {
    "tipo": "POSIBLE",
    "motivos": [
@@ -241,7 +154,7 @@
     "audiovisual",
     "registro audiovisual"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "1282238-98-COT26",
    "nombre": "Encuentro Arte, Cultura y Patrimonio 11-12-2026 – Proyecto FNDR 22413465 Talleres Patrimoniales.",
    "organismo": "CORPORACION CULTURAL MUNICIPAL DE COYHAIQUE",
@@ -560,6 +473,35 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=1195-613-COT26",
    "sin_detalle": false,
    "descripcion": "SE REQUIERE CONTRATAR UN MEDIO DE COMUNICACION REGIONAL PARA LA GABACION, EDICION Y DIFUSION DE CAPSULAS AUDIOVISUALES CONSIDERANDO 4 HRS MENSUALES(NOVIEMBRE DICIEMBRE),PUBLICACIONES SEMANALS DE 20 A 29 MINUTOS,BANNER PUBLICITARIO Y DIFUSION EN RRSS,SITIO WEB,TELEVISION DIGITAL Y STREAMING.SE PRIORIZARA PROVEEDOR LOCAL CON COBERTURA EN LA REGION DE AYSEN.",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Ventas y marketing"
+   ],
+   "nueva": false,
+   "codigo": "2495-696-COT26",
+   "nombre": "Produccion de 2 sesiones de baños de bosque",
+   "organismo": "I MUNICIPALIDAD DE COYHAIQUE",
+   "unidad": "DIRECCION DESARROLLO COMUNITARIO",
+   "monto": 300000,
+   "cierre_iso": "2026-11-25T17:00:00-03:00",
+   "publicacion": "23-11 16:05",
+   "publicacion_iso": "2026-11-23T16:05:00-03:00",
+   "ofertas": 1,
+   "productos": [
+    [
+     "80141607",
+     "Producción de eventos",
+     2,
+     "Producción de 2 sesiones de baños de bosque para 10 personas por sesión (total 20), debe incluir monitor de baños de bosque y colación para 10 personas por sesión: Jugo en caja mas sándwich (total 20)"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=2495-696-COT26",
+   "sin_detalle": false,
+   "descripcion": "Producción de 2 sesiones de baños de bosque para 10 personas por sesión (total 20), debe incluir monitor de baños de bosque y colación para 10 personas por sesión: Jugo en caja mas sándwich (total 20)",
    "en_gracia": false,
    "desaparecida_iso": ""
   },
@@ -1041,38 +983,45 @@
    "descripcion": "Servicio integral para el Día del Turismo en Villa Cerro Castillo: viernes 27 de noviembre de 2026, de 17:00 a 21:00 horas, en la Sede Comunitaria. Incluye cocción y servicio de 8 corderos con acompañamientos y bebestibles sin alcohol para hasta 80 personas, servicio de mesa y garzones, decoración, audio, 10 reconocimientos y limpieza de la sede. Presupuesto $7.150.000, impuesto incluido. Ver TDR y Formatos N°1, N°2 y N°3 adjuntos.",
    "en_gracia": true,
    "desaparecida_iso": "2026-11-23T10:00:26-03:00"
-  },
-  {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Ventas y marketing"
-   ],
-   "nueva": false,
-   "codigo": "2495-668-COT26",
-   "nombre": "Producción de 2 sesiones de baños de bosque para 20 personas",
-   "organismo": "",
-   "unidad": "",
-   "monto": null,
-   "cierre_iso": "",
-   "publicacion": "",
-   "publicacion_iso": "",
-   "ofertas": 0,
-   "productos": [
-    [
-     "80141607",
-     "Producción de eventos",
-     2,
-     "Producción de 2 sesiones de baños de bosque para 20 personas: debe incluir monitor en baños de bosque o asociado y colación: sándwich mas un jugo pequeño en caja."
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=2495-668-COT26",
-   "sin_detalle": false,
-   "descripcion": "Producción de 2 sesiones de baños de bosque para 20 personas: debe incluir monitor en baños de bosque o asociado y colación: sándwich mas un jugo pequeño en caja.",
-   "en_gracia": true,
-   "desaparecida_iso": "2026-11-23T18:00:25-03:00"
   }
  ],
  "historial": [
+  {
+   "codigo": "1758-304-COT26",
+   "nombre": "INSUMOS DECORATIVOS EN EL MARCO DE LA DIFUSION DEL PLAN CHILE APRENDE Y AVANZA MINEDUC.",
+   "organismo": "SECRETARIA REGIONAL MINISTERIAL DE EDUCACION XI REGION",
+   "monto": 300000,
+   "cierre_iso": "2026-11-24T16:30:00-03:00",
+   "tipo": "POSIBLE",
+   "motivos": [
+    "difusion"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1758-304-COT26",
+   "primera_vista_iso": "2026-11-23T16:00:27-03:00",
+   "removida_iso": "2026-11-24T17:00:29-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
+  {
+   "codigo": "1758-305-COT26",
+   "nombre": "INSUMOS PARA LA EJECUCION DE LA DIFUSION DEL PLAN CHILE APRENDE Y AVANZA MINEDUC",
+   "organismo": "SECRETARIA REGIONAL MINISTERIAL DE EDUCACION XI REGION",
+   "monto": 30000,
+   "cierre_iso": "2026-11-24T16:30:00-03:00",
+   "tipo": "POSIBLE",
+   "motivos": [
+    "difusion"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1758-305-COT26",
+   "primera_vista_iso": "2026-11-23T16:00:27-03:00",
+   "removida_iso": "2026-11-24T17:00:29-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
   {
    "codigo": "2495-692-COT26",
    "nombre": "ADQUISICIÓN DE MATERIALES E INSUMOS PARA MATERIAL GRÁFICO E IDENTIDAD VISUAL. Código BIP 40071494-0",
@@ -2107,24 +2056,6 @@
    "adj_iso": null
   },
   {
-   "codigo": "1233615-996-COT26",
-   "nombre": "AVT/SOL/2026/00318/Servicio de producción y ejecución encuentro robótica.",
-   "organismo": "Servicio Local de Educación Pública Aysén",
-   "monto": 1600000,
-   "cierre_iso": "2026-11-17T17:00:00-03:00",
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Ventas y marketing"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1233615-996-COT26",
-   "primera_vista_iso": "2026-11-16T10:00:36-03:00",
-   "removida_iso": "2026-11-17T18:00:22-03:00",
-   "estado_api": "",
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
    "codigo": "682-21-COT26",
    "nombre": "CONTRATACIÓN DE SERVICIOS DE PUBLICACIÓN, SANEAMIENTOS D.L. N° 2695/79",
    "organismo": "",
@@ -2210,6 +2141,24 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=2713-1456-COT26",
    "primera_vista_iso": "2026-11-23T11:00:28-03:00",
    "removida_iso": "2026-11-24T11:00:26-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
+  {
+   "codigo": "2495-668-COT26",
+   "nombre": "Producción de 2 sesiones de baños de bosque para 20 personas",
+   "organismo": "",
+   "monto": null,
+   "cierre_iso": "",
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Ventas y marketing"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=2495-668-COT26",
+   "primera_vista_iso": "2026-11-23T18:34:52-03:00",
+   "removida_iso": "2026-11-24T17:00:29-03:00",
    "estado_api": null,
    "adj_nombre": null,
    "adj_monto": null,
