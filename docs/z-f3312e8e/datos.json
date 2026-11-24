@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-11-24T11:00:26.401241-03:00",
+ "actualizado": "2026-11-24T12:00:25.801544-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
- "total_region": 297,
+ "total_region": 299,
  "rubros": {
   "25172700": "Aire acondicionado",
   "25173900": "Componentes eléctricos",
@@ -446,6 +446,100 @@
   {
    "tipo": "OPORTUNIDAD",
    "motivos": [
+    "Cajas y accesorios eléctricos"
+   ],
+   "nueva": true,
+   "codigo": "3950-758-COT26",
+   "nombre": "articulos para vacunatorio",
+   "organismo": "DIRECCION SALUD RURAL",
+   "unidad": "Dirección de Salud Rural",
+   "monto": 1000000,
+   "cierre_iso": "2026-11-25T12:00:00-03:00",
+   "publicacion": "24-11 11:23",
+   "publicacion_iso": "2026-11-24T11:23:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "24111503",
+     "Bolsas de plástico",
+     400,
+     "BOLSA HERMETICA 30X40CM"
+    ],
+    [
+     "39121310",
+     "Cajas de uso general",
+     24,
+     "CAJAS PLASTICAS CON TAPA Y ASAS ORGANIZADORA 15 LITROS (MEDIDAS 42X32X16CM)"
+    ],
+    [
+     "45101512",
+     "Termo impresora de transferencia para aplicaciones comerciales de imprimir",
+     1,
+     "impresora de etiqueta para rotulo tubos toma de muestra. características: conectividad USB, compatible con rollos con rollos continuos de impresión 2 colores( 62mm x 5 metros), soporte del sistema operativo compatible con Windows, tecnología de impresión térmica directa, impresión de alta resolución(hasta 300 x 600 ppp) para texto y gráficos nítidos, 93 etiquetas por minutos."
+    ],
+    [
+     "55121606",
+     "Etiquetas autoadhesivas",
+     50,
+     "etiquetas autoadhesiva rollo continuo de 62mm x 30,48 metros. papel térmico resistente al agua, aceite y manchas. similar a brother dk2205"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=3950-758-COT26",
+   "sin_detalle": false,
+   "descripcion": "incluir despacho en cotización",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Cajas y accesorios eléctricos"
+   ],
+   "nueva": true,
+   "codigo": "3950-758-COT26",
+   "nombre": "articulos para vacunatorio",
+   "organismo": "DIRECCION SALUD RURAL",
+   "unidad": "Dirección de Salud Rural",
+   "monto": 1000000,
+   "cierre_iso": "2026-11-25T12:00:00-03:00",
+   "publicacion": "24-11 11:23",
+   "publicacion_iso": "2026-11-24T11:23:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "24111503",
+     "Bolsas de plástico",
+     400,
+     "BOLSA HERMETICA 30X40CM"
+    ],
+    [
+     "39121310",
+     "Cajas de uso general",
+     24,
+     "CAJAS PLASTICAS CON TAPA Y ASAS ORGANIZADORA 15 LITROS (MEDIDAS 42X32X16CM)"
+    ],
+    [
+     "45101512",
+     "Termo impresora de transferencia para aplicaciones comerciales de imprimir",
+     1,
+     "impresora de etiqueta para rotulo tubos toma de muestra. características: conectividad USB, compatible con rollos con rollos continuos de impresión 2 colores( 62mm x 5 metros), soporte del sistema operativo compatible con Windows, tecnología de impresión térmica directa, impresión de alta resolución(hasta 300 x 600 ppp) para texto y gráficos nítidos, 93 etiquetas por minutos."
+    ],
+    [
+     "55121606",
+     "Etiquetas autoadhesivas",
+     50,
+     "etiquetas autoadhesiva rollo continuo de 62mm x 30,48 metros. papel térmico resistente al agua, aceite y manchas. similar a brother dk2205"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=3950-758-COT26",
+   "sin_detalle": false,
+   "descripcion": "incluir despacho en cotización",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
     "Materiales de física de electricidad"
    ],
    "nueva": true,
@@ -670,6 +764,35 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=911089-115-COT26",
    "sin_detalle": false,
    "descripcion": "SE SOLICITA LA ADQUISICION DE MATERIAL ELECTRICO PARA LA VIVIENDA FISCAL UBICADA EN FREIRE 81, COYHAIQUE, DEPENDIENTE DE LA ZONA DE BIENESTAR COYHAIQUE.\n\nSE SOLICITA LLENAR EL ANEXO QUE SE ADJUNTA (DECLARACION JURADA SIMPLE) PARA LOS OFERENTES POSTULANTES, QUIEN NO LO PRESENTE FIRMADO QUEDA FUERA DE POSTULACION",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Gasfitería, calefacción y aire acondicionado"
+   ],
+   "nueva": true,
+   "codigo": "930039-41-COT26",
+   "nombre": " MANTENIMIENTO PREVENTIVO DE EQUIPOS DE CLIMATIZACIÓN",
+   "organismo": "SERVICIO NACIONAL DEL PATRIMONIO CULTURAL",
+   "unidad": "MUSEO REGIONAL DE AYSEN",
+   "monto": 5000000,
+   "cierre_iso": "2026-11-26T09:00:00-03:00",
+   "publicacion": "24-11 11:12",
+   "publicacion_iso": "2026-11-24T11:12:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "72102302",
+     "Instalación, reparación o mantenimiento de sistemas de calefacción",
+     1,
+     "De acuerdo a documento adjunto"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=930039-41-COT26",
+   "sin_detalle": false,
+   "descripcion": "De acuerdo a documento adjunto",
    "en_gracia": false,
    "desaparecida_iso": ""
   },
@@ -1190,7 +1313,7 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=2713-1419-COT26",
    "primera_vista_iso": "2026-11-18T10:00:24-03:00",
    "removida_iso": "2026-11-24T10:00:30-03:00",
-   "estado_api": null,
+   "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,
    "adj_iso": null
@@ -1955,25 +2078,6 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=1113146-57-COT26",
    "primera_vista_iso": "2026-11-16T13:00:26-03:00",
    "removida_iso": "2026-11-17T15:41:06-03:00",
-   "estado_api": "",
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "5019-66-COT26",
-   "nombre": "Adquisición de elementos de construcción",
-   "organismo": "Ejercito de Chile",
-   "monto": 340000,
-   "cierre_iso": "2026-11-17T12:00:00-03:00",
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Cajas y accesorios eléctricos",
-    "Interruptores, controles y relés"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=5019-66-COT26",
-   "primera_vista_iso": "2026-11-11T14:18:43-03:00",
-   "removida_iso": "2026-11-17T13:00:25-03:00",
    "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,
