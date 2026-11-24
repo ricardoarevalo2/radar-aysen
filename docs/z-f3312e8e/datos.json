@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-24T07:00:32.512990-03:00",
+ "actualizado": "2026-11-24T08:00:29.186229-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
  "total_region": 273,
@@ -19,35 +19,6 @@
   "39121400": "Conectores, enchufes y terminales"
  },
  "filas": [
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "generador"
-   ],
-   "nueva": true,
-   "codigo": "1286962-85-COT26",
-   "nombre": "DMH SERVICIO DE ARRIENDO DE GENERADOR CENTRO RECREACIONAL \"ALCALDE OSCAR CATALAN SANCHEZ\"",
-   "organismo": "Corporación de Deportes y Recreación de la Municipalidad de Aysén",
-   "unidad": "Corporación de Deportes y Recreación de la Municipalidad de Aysén",
-   "monto": 790000,
-   "cierre_iso": "2026-11-24T07:43:00-03:00",
-   "publicacion": "20-11 18:01",
-   "publicacion_iso": "2026-11-20T18:01:00-03:00",
-   "ofertas": 3,
-   "productos": [
-    [
-     "26111601",
-     "Generadores diesel",
-     1,
-     "ARRIENDO DE GENERADOR 6.5 kva POR 30 DIAS CORRIDOS PARA EL FUNCIONAMIENTO DEL CENTRO RECREACIONAL \"ALCALDE OSCAR CATALAN SANCHEZ\""
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1286962-85-COT26",
-   "sin_detalle": false,
-   "descripcion": "Se requiere el arriendo de generador para el funcionamiento operativo del Centro Recreacional \"Alcalde Oscar Catalán Sánchez\"",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
   {
    "tipo": "OPORTUNIDAD",
    "motivos": [
@@ -518,6 +489,35 @@
    "desaparecida_iso": ""
   },
   {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "generador"
+   ],
+   "nueva": true,
+   "codigo": "1286962-86-COT26",
+   "nombre": "DMH SERVICIO DE ARRIENDO DE GENERADOR CENTRO RECREACIONAL \"ALCALDE OSCAR CATALAN SANCHEZ\"",
+   "organismo": "Corporación de Deportes y Recreación de la Municipalidad de Aysén",
+   "unidad": "Corporación de Deportes y Recreación de la Municipalidad de Aysén",
+   "monto": 790000,
+   "cierre_iso": "2026-11-25T09:00:00-03:00",
+   "publicacion": "24-11 07:50",
+   "publicacion_iso": "2026-11-24T07:50:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "26111601",
+     "Generadores diesel",
+     1,
+     "ARRIENDO DE GENERADOR 6.5 kva POR 30 DIAS CORRIDOS PARA EL FUNCIONAMIENTO DEL CENTRO RECREACIONAL \"ALCALDE OSCAR CATALAN SANCHEZ\""
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1286962-86-COT26",
+   "sin_detalle": false,
+   "descripcion": "Se requiere el arriendo de generador para el funcionamiento operativo del Centro Recreacional \"Alcalde Oscar Catalán Sánchez\"",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
    "tipo": "OPORTUNIDAD",
    "motivos": [
     "Conectores, enchufes y terminales"
@@ -877,6 +877,24 @@
   }
  ],
  "historial": [
+  {
+   "codigo": "1286962-85-COT26",
+   "nombre": "DMH SERVICIO DE ARRIENDO DE GENERADOR CENTRO RECREACIONAL \"ALCALDE OSCAR CATALAN SANCHEZ\"",
+   "organismo": "Corporación de Deportes y Recreación de la Municipalidad de Aysén",
+   "monto": 790000,
+   "cierre_iso": "2026-11-24T07:43:00-03:00",
+   "tipo": "POSIBLE",
+   "motivos": [
+    "generador"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1286962-85-COT26",
+   "primera_vista_iso": "2026-11-20T19:00:27-03:00",
+   "removida_iso": "2026-11-24T08:00:29-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
   {
    "codigo": "1079689-564-COT26",
    "nombre": "ADQUISICIÓN DE IMPLEMENTOS DE SEGURIDAD PARA EL PERSONAL DE MANTENIMIENTO DE CUARTELES, SERVET Y ÁREA TALLER MECÁNICO DE LA SECCIÓN LOGÍSTICA DEL DEAOPERPOL AYSÉN.",
