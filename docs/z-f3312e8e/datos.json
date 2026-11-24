@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-11-24T10:00:30.030809-03:00",
+ "actualizado": "2026-11-24T11:00:26.401241-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
- "total_region": 281,
+ "total_region": 297,
  "rubros": {
   "25172700": "Aire acondicionado",
   "25173900": "Componentes eléctricos",
@@ -19,140 +19,6 @@
   "39121400": "Conectores, enchufes y terminales"
  },
  "filas": [
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "eléctricos"
-   ],
-   "nueva": false,
-   "codigo": "4066-544-COT26",
-   "nombre": "ADQUISICIÓN DE MATERIALES PARA EL MANTENIMIENTO Y REPARACIÓN DE LAS BIBLIOTECAS PÚBLICAS DE LA COMUNA DE RÍO IBÁÑEZ.TDR ADJUNTOS",
-   "organismo": "I MUNICIPALIDAD RIO IBANEZ",
-   "unidad": "DIDECO",
-   "monto": 300000,
-   "cierre_iso": "2026-11-24T10:00:00-03:00",
-   "publicacion": "23-11 09:03",
-   "publicacion_iso": "2026-11-23T09:03:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "30151902",
-     "Materiales para guarniciones exteriores",
-     1,
-     "ADQUISICIÓN DE MATERIALES PARA EL MANTENIMIENTO Y REPARACIÓN DE LAS BIBLIOTECAS PÚBLICAS DE LA COMUNA DE RÍO IBÁÑEZ.TDR ADJUNTOS"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=4066-544-COT26",
-   "sin_detalle": false,
-   "descripcion": "La Ilustre Municipalidad de Río Ibáñez, por intermedio de su Oficina de Cultura, requiere adquirir materiales para reponer grifería, herrajes y accesorios eléctricos, y para mantener superficies de madera en las bibliotecas públicas de la comuna. Según Términos de referencia Adjuntos.",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
-  {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Enfriamiento (aires acondicionados)"
-   ],
-   "nueva": false,
-   "codigo": "1004-39-COT26",
-   "nombre": "EQUIPOS DE AIRE ACONDICIONADO",
-   "organismo": "MINISTERIO DE OBRAS PUBLICAS DIREC CION GRAL DE OO PP DCYF",
-   "unidad": "Dirección de Vialidad - XI Región - Provincia de Coyhaique",
-   "monto": 1800000,
-   "cierre_iso": "2026-11-24T10:00:00-03:00",
-   "publicacion": "23-11 08:46",
-   "publicacion_iso": "2026-11-23T08:46:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "40101701",
-     "Aires acondicionados",
-     1,
-     "AIRE ACONDICIONADO SPLIT MURO INVERTER FRIO - CALOR 24.000 BTU REFRIGERANTE R32. ADJUNTAR FICHA TÉCNICA DEL PRODUCTO OFERTADO."
-    ],
-    [
-     "40101701",
-     "Aires acondicionados",
-     1,
-     "AIRE ACONDICIONADO SPLIT MURO INVERTER FRIO - CALOR 9.000 BTU REFRIGERANTE R32. ADJUNTAR FICHA TÉCNICA DEL PRODUCTO OFERTADO."
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1004-39-COT26",
-   "sin_detalle": false,
-   "descripcion": "Se requiere comprar equipos de aire acondicionado para la Oficina Provincial Coyhaique\nY así reducir las emisiones de contaminantes atmosféricos generadas por la\ncombustión de insumos de la medara. Valor debe considerar flete con entrega en domicilio.",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "generador"
-   ],
-   "nueva": false,
-   "codigo": "3540-325-COT26",
-   "nombre": "Reptos, bateria e Insumos para Generador Kolvo",
-   "organismo": "Ejercito de Chile",
-   "unidad": "Cuerpo Militar del Trabajo Subjefatura Zonal Coyhaique",
-   "monto": 350000,
-   "cierre_iso": "2026-11-24T10:00:00-03:00",
-   "publicacion": "19-11 15:07",
-   "publicacion_iso": "2026-11-19T15:07:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "26111709",
-     "Baterías de níquel-cadmio",
-     1,
-     "Bateria 12V 32 AMP BORNES TIPO TORNILLO, para Generador DEE 8KVA KOLVO MODELO G080DE3 AÑO 2025, CODIGO 90700001973, PRESUPUESTO PARA ESTA LINEA DE 100.000. IVA INCLUIDO"
-    ],
-    [
-     "39121608",
-     "Fusibles de clase",
-     2,
-     "Fusible 30A 250V, para Generador DEE 8KVA KOLVO MODELO G080DE3 AÑO 2025, CODIGO 90700001973, PRESUPUESTO PARA ESTA LINEA DE 20.000. IVA INCLUIDO"
-    ],
-    [
-     "40151605",
-     "Compresores de motor",
-     1,
-     "MOTOR DE ARRANQUE N°QD114A 12V 1.2KW, para Generador DEE 8KVA KOLVO MODELO G080DE3 AÑO 2025, CODIGO 90700001973, PRESUPUESTO PARA ESTA LINEA DE 230.000. IVA INCLUIDO"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=3540-325-COT26",
-   "sin_detalle": false,
-   "descripcion": "Indicar plazo de entrega y datos de contacto. Se privilegiará proveedor de la región o que cuente con sucursal en Coyhaique y luego precio. Este proceso no considera ítem flete ni cargos adicionales, los costos deben estar incluidos en los valores unitarios. (LEER TÉRMINOS DE REFERENCIA ADJUNTO). Plazo desde emisión orden de compra, presupuesto disponible por ítems o línea, ajustar presupuesto*****",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "eléctrico"
-   ],
-   "nueva": false,
-   "codigo": "911089-110-COT26",
-   "nombre": "ADQUISICION DEL SERVICIO PARA CONSTRUCCION DE PORTON ELECTRICO VEHICULAR Y CIERRE PERIMETRAL EN LA POBLACION DE SUBOFICIALES EN LA LOCALIDAD DE COCHRANE",
-   "organismo": "Zona de Bienestar \"Coyhaique\"",
-   "unidad": "Zona de Bienestar Coyhaique",
-   "monto": 7000000,
-   "cierre_iso": "2026-11-24T10:00:00-03:00",
-   "publicacion": "13-11 12:33",
-   "publicacion_iso": "2026-11-13T12:33:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "72102504",
-     "Construcción de muros de contención",
-     1,
-     "Adquisicion del servicio de construccion de:\n\nUn portón corredero de fierro de 5.00mt. de largo x 2.00mt. de alto.\nPerfil (postes) de 100x100x3mm.\nUn portón peatonal de 1.00 mt de ancho x 2.00 mt de alto c/ 40 copias de llaves\nReja de fierro, 04 mt de largo x 2.00 mt de alto.\nMotor eléctrico para portón corredero vehicular 2.000 kg. c/40 controles remotos\nConexión eléctrica para portón desde la primera cámara. (50 mtl)\nCierre perimetral 45 mtl de malla acmafor verde\n\nConforme a Bases Tecnicas"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=911089-110-COT26",
-   "sin_detalle": false,
-   "descripcion": "SE SOLICITA LA ADQUISICION DEL SERVICIO PARA CONSTRUCCION DE PORTON ELECTRICO VEHICULAR Y CIERRE PERIMETRAL EN LA POBLACION DE SUBOFICIALES EN LA LOCALIDAD DE COCHRANE, CONFORME A LAS BASES TECNICAS QUE SE ADJUNTAN\n\nVISITA TERRENO EXCLUYENTE JUEVES 19NOV2026 ENTRADA POBLACION MILITAR SUBOFICIALES EN LA LOCALIDAD DE COCHRANE A LAS 10:00HRS\n\nSE SOLICITA LOS ANEXOS QUE SE ADJUNTA (ECONOMICO,DURACION,DECL.JURADA)  PARA LOS OFERENTE POSTULANTES, QUIEN NO LO PRESENTE FIRMADO QUEDA FUERA DE POSTULACIO",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
   {
    "tipo": "OPORTUNIDAD",
    "motivos": [
@@ -607,6 +473,35 @@
    "desaparecida_iso": ""
   },
   {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "aire acondicionado"
+   ],
+   "nueva": true,
+   "codigo": "1078779-26-COT26",
+   "nombre": "Adquisición de 1 (un) equipo de aire acondicionado",
+   "organismo": "SERVICIO DE SALUD AYSEN CARLOS IBANEZ DEL CAMPO",
+   "unidad": "Fondos Extrapresupuestarios",
+   "monto": 303990,
+   "cierre_iso": "2026-11-25T15:00:00-03:00",
+   "publicacion": "24-11 10:57",
+   "publicacion_iso": "2026-11-24T10:57:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "73161517",
+     "Servicios de fabricación de equipo de aire acondicionado, ventilación o refrigeración",
+     1,
+     "Adquisición de 1 (un) equipo de aire acondicionado • Aire acondicionado tipo Split muro.\n• Tecnología Inverter.\n• Función frío/calor.\n• Capacidad mínima de 9.000 BTU/h.\n• Alimentación eléctrica 220 V / 50 Hz.\n• Control remoto incluido.\n• Filtros lavables o reutilizables.\n• Equipo nuevo y sin uso.\n• Garantía mínima de 12 meses.\nSe aceptarán marcas y modelos equivalentes que cumplan o superen las características mínimas indicadas. revisar ESPECIFICACIONES TECNICAS Y AJUSTARSE AL PRESUPÉUSTO"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1078779-26-COT26",
+   "sin_detalle": false,
+   "descripcion": "Adquisición de 1 (un) equipo de aire acondicionado Aire acondicionado tipo Split muro.\n• Tecnología Inverter.\n• Función frío/calor.\n• Capacidad mínima de 9.000 BTU/h.\n• Alimentación eléctrica 220 V / 50 Hz.\n• Control remoto incluido.\n• Filtros lavables o reutilizables.\n• Equipo nuevo y sin uso.\n• Garantía mínima de 12 meses.\nSe aceptarán marcas y modelos equivalentes que cumplan o superen las características mínimas indicadas. REVISAR ESPECIFICACIONE TECNICAS Y AJUSTARSE AL PRESUPUESTO",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
    "tipo": "OPORTUNIDAD",
    "motivos": [
     "Servicios eléctricos"
@@ -779,6 +674,35 @@
    "desaparecida_iso": ""
   },
   {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "iluminación"
+   ],
+   "nueva": true,
+   "codigo": "4066-555-COT26",
+   "nombre": "SERVICIO DE AMPLIFICACIÓN, ILUMINACIÓN Y PRESENTACIÓN MUSICAL ENCUENTRO DE ACORDEÓN Y GUITARRA 2026, Segun TDR adjuntos",
+   "organismo": "I MUNICIPALIDAD RIO IBANEZ",
+   "unidad": "DIDECO",
+   "monto": 2000000,
+   "cierre_iso": "2026-11-26T09:00:00-03:00",
+   "publicacion": "24-11 10:16",
+   "publicacion_iso": "2026-11-24T10:16:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "80141607",
+     "Producción de eventos",
+     1,
+     "SERVICIO DE AMPLIFICACIÓN, ILUMINACIÓN Y PRESENTACIÓN MUSICAL ENCUENTRO DE ACORDEÓN Y GUITARRA 2026, Según TDR adjuntos"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=4066-555-COT26",
+   "sin_detalle": false,
+   "descripcion": "La Ilustre Municipalidad de Río Ibáñez, a través de la Oficina de Cultura, requiere contratar un servicio de producción de evento que contemple amplificación, iluminación y la contratación de una agrupación de música criolla de la comuna de Río Ibáñez para el Encuentro de Acordeón y Guitarra 2026, a realizarse el sábado 19 de diciembre de 2026 en Puerto Río Tranquilo. Según TDR adjuntos",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
    "tipo": "OPORTUNIDAD",
    "motivos": [
     "Servicios eléctricos"
@@ -833,6 +757,233 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=1905-90-COT26",
    "sin_detalle": false,
    "descripcion": "Servicio de mejoramiento de calefacción en oficina de Puerto Aysén y Coyhaique",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "alargador"
+   ],
+   "nueva": true,
+   "codigo": "1057062-564-COT26",
+   "nombre": "Adquisición artículos de Librería para talleres DGDE y experiencia estudiantil- FCA N°101 (FISABS 2442 - 2510 - 2511)",
+   "organismo": "UNIVERSIDAD DE AYSEN",
+   "unidad": "Proyectos",
+   "monto": 2642500,
+   "cierre_iso": "2026-11-26T10:50:00-03:00",
+   "publicacion": "24-11 10:47",
+   "publicacion_iso": "2026-11-24T10:47:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "14111509",
+     "Artículos de papelería",
+     4,
+     "Block o libro para colorear diseño Lettering (Torre o equivalente de similares características)/FISABS N°2511_URY 23991"
+    ],
+    [
+     "14111509",
+     "Artículos de papelería",
+     8,
+     "Block o libro para colorear Mándalas Meditación (ed. Saldaña o equivalente de similares características)/FISABS N°2511_URY 23991"
+    ],
+    [
+     "14111509",
+     "Artículos de papelería",
+     8,
+     "Block o libro de Mándalas para desarrollar la creatividad (Mundicrom o equivalente de similares características)/FISABS N°2511_URY 23991"
+    ],
+    [
+     "14111509",
+     "Artículos de papelería",
+     4,
+     "Block o libro Lettering Creativo (ed. Saldaña o equivalente de similares características)/FISABS N°2511_URY 23991"
+    ],
+    [
+     "14111509",
+     "Artículos de papelería",
+     4,
+     "Block para colorear \"Criaturas Ocultas\", Artel o equivalente de similares características /FISABS N°2510_URY 23991"
+    ],
+    [
+     "14111509",
+     "Artículos de papelería",
+     4,
+     "Block para colorear \"Dersi Estuvo Aquí\" Artel o equivalente de similares características con lustraciones /FISABS N°2510_URY 23991"
+    ],
+    [
+     "14111509",
+     "Artículos de papelería",
+     8,
+     "Kit pintura de diamante diseño de Llama 18x18 cm  o equivalente de similares características /FISABS N°2510_URY 23991"
+    ],
+    [
+     "14111509",
+     "Artículos de papelería",
+     8,
+     "Lápices de colores 48 colores + sacapuntas, Faber-Castell o equivalente de similares características /FISABS N°2510_URY 23991"
+    ],
+    [
+     "14111509",
+     "Artículos de papelería",
+     12,
+     "Plasticina 12 colores /FISABS N°2510_URY 23991"
+    ],
+    [
+     "14111509",
+     "Artículos de papelería",
+     12,
+     "Estuche de marcadores de doble punta lettering 24 colores (Punta pincel 4,3mm y punta 2,3mm.) o equivalente de similares características /FISABS N°2510_URY 23991"
+    ],
+    [
+     "14111509",
+     "Artículos de papelería",
+     8,
+     "Marcadores Permanentes Sharpie Glam Pop Set 24 Colores o equivalente de similares características /FISABS N°2510_URY 23991"
+    ],
+    [
+     "14111509",
+     "Artículos de papelería",
+     6,
+     "Caja papel alta Resolución Doble Faz Matte A3/220g/50 Hojas o equivalente de similares características /FISABS N°2510_URY 23991"
+    ],
+    [
+     "14111509",
+     "Artículos de papelería",
+     6,
+     "Caja lámina para termolaminar Oficio 175 mic. (100 un.) Rhein o equivalente de similares características /FISABS N°2510_URY 23991"
+    ],
+    [
+     "14111509",
+     "Artículos de papelería",
+     8,
+     "Caja láminas para termolaminar Carta 125 mic. (100 un.) Rhein o equivalente de similares características /FISABS N°2510_URY 23991"
+    ],
+    [
+     "14111509",
+     "Artículos de papelería",
+     10,
+     "Caja Opalina Gofrada Carta x 100 un. 200 grs o equivalente de similares características /FISABS N°2510_URY 23991"
+    ],
+    [
+     "14111509",
+     "Artículos de papelería",
+     8,
+     "Caja Opalina Gofrada Carta Cream x 125 un. 200 grs o equivalente de similares características /FISABS N°2510_URY 23991"
+    ],
+    [
+     "14111509",
+     "Artículos de papelería",
+     1,
+     "Anilladora manual (Ibispiral Pro Oficio PC360M o equivalente de similares características /FISABS N°2442_URY 2457"
+    ],
+    [
+     "14111509",
+     "Artículos de papelería",
+     15,
+     "Bandeja cesta / revistero malla metálica 3 div. o equivalente de similares características /FISABS N°2442_URY 2457"
+    ],
+    [
+     "14111509",
+     "Artículos de papelería",
+     5,
+     "Caja láminas termolaminar tamaño Oficio 125 mic. (100 un.) o equivalente de similares características /FISABS N°2442_URY 2457"
+    ],
+    [
+     "14111509",
+     "Artículos de papelería",
+     1,
+     "Termolaminadora GBC 250 A4 o equivalente de similares características /FISABS N°2442_URY 2457"
+    ],
+    [
+     "14111509",
+     "Artículos de papelería",
+     15,
+     "Porta lápiz metálico rejilla cuadrado 8x10 cm o equivalente de similares características /FISABS N°2442_URY 2457"
+    ],
+    [
+     "14111509",
+     "Artículos de papelería",
+     25,
+     "Carpeta plastificada c/accoclip y bolsillo, color verde /FISABS N°2442_URY 2457"
+    ],
+    [
+     "14111509",
+     "Artículos de papelería",
+     25,
+     "Carpeta plastificada c/accoclip y bolsillo, color azul /FISABS N°2442_URY 2457"
+    ],
+    [
+     "14111509",
+     "Artículos de papelería",
+     15,
+     "Portaclips magnético redondo doble Adix o equivalente de similares características /FISABS N°2442_URY 2457"
+    ],
+    [
+     "14111509",
+     "Artículos de papelería",
+     100,
+     "Pliego papel Kraft 55x77 cm (60 grs) o equivalente de similares características /FISABS N°2442_URY 2457"
+    ],
+    [
+     "14111509",
+     "Artículos de papelería",
+     60,
+     "Pliegos cartulina colores fluorescentes (60 pliegos colores surtidos) /FISABS N°2442_URY 2457"
+    ],
+    [
+     "14111509",
+     "Artículos de papelería",
+     15,
+     "Dispensador de cinta adhesiva chico Isofit o equivalente de similares características /FISABS N°2442_URY 2457"
+    ],
+    [
+     "14111509",
+     "Artículos de papelería",
+     2,
+     "Pizarra magnética planificador mensual Data Zone 60x45 cm o equivalente de similares características /FISABS N°2442_URY 2457"
+    ],
+    [
+     "14111509",
+     "Artículos de papelería",
+     3,
+     "Alargador 6 entradas c/protección voltaje (Philco) o equivalente de similares características /FISABS N°2442_URY 2457"
+    ],
+    [
+     "14111509",
+     "Artículos de papelería",
+     8,
+     "Mouse inalámbrico Kensington SureTrack Dual o equivalente de similares características /FISABS N°2442_URY 2457"
+    ],
+    [
+     "14111509",
+     "Artículos de papelería",
+     1,
+     "Cargador de pilas Duracell c/4 pilas AA 2500mAh o equivalente de similares características /FISABS N°2442_URY 2457"
+    ],
+    [
+     "14111509",
+     "Artículos de papelería",
+     30,
+     "Plumones de pizarra color verde /FISABS N°2442_URY 2457"
+    ],
+    [
+     "14111509",
+     "Artículos de papelería",
+     15,
+     "Portamina Fiesta Pentel 0.7 negro o equivalente de similares características /FISABS N°2442_URY 2457"
+    ],
+    [
+     "14111509",
+     "Artículos de papelería",
+     15,
+     "Lápiz tinta Pilot G-2 0.7 color verde o equivalente de similares características /FISABS N°2442_URY 2457"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1057062-564-COT26",
+   "sin_detalle": false,
+   "descripcion": "Se requiere cotizar los insumos detallados en el presente cotizador. Oferente deberá indicar productos con detalles técnicos, valor unitario y total por productos con impuestos incluidos, datos de contacto y plazo de entrega en días hábiles. Los productos deberán entregarse directamente en dependencias de la UAysén, Eusebio Lillo 667, Coyhaique (no en empresas de transporte).Se podría seleccionar oferta con menor plazo de entrega en días hábiles, siempre que cumpla con las EETT y presupuesto.",
    "en_gracia": false,
    "desaparecida_iso": ""
   },
@@ -922,9 +1073,92 @@
    "descripcion": "Se solicita la adquisición de insumos, accesorios y equipamiento informático necesarios para garantizar la continuidad operativa, mantención y adecuado funcionamiento de los recursos tecnológicos de la Escuela Litoral Austral.",
    "en_gracia": false,
    "desaparecida_iso": ""
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "eléctrico"
+   ],
+   "nueva": false,
+   "codigo": "911089-110-COT26",
+   "nombre": "ADQUISICION DEL SERVICIO PARA CONSTRUCCION DE PORTON ELECTRICO VEHICULAR Y CIERRE PERIMETRAL EN LA POBLACION DE SUBOFICIALES EN LA LOCALIDAD DE COCHRANE",
+   "organismo": "",
+   "unidad": "",
+   "monto": null,
+   "cierre_iso": "",
+   "publicacion": "",
+   "publicacion_iso": "",
+   "ofertas": 0,
+   "productos": [
+    [
+     "72102504",
+     "Construcción de muros de contención",
+     1,
+     "Adquisicion del servicio de construccion de:\n\nUn portón corredero de fierro de 5.00mt. de largo x 2.00mt. de alto.\nPerfil (postes) de 100x100x3mm.\nUn portón peatonal de 1.00 mt de ancho x 2.00 mt de alto c/ 40 copias de llaves\nReja de fierro, 04 mt de largo x 2.00 mt de alto.\nMotor eléctrico para portón corredero vehicular 2.000 kg. c/40 controles remotos\nConexión eléctrica para portón desde la primera cámara. (50 mtl)\nCierre perimetral 45 mtl de malla acmafor verde\n\nConforme a Bases Tecnicas"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=911089-110-COT26",
+   "sin_detalle": false,
+   "descripcion": "SE SOLICITA LA ADQUISICION DEL SERVICIO PARA CONSTRUCCION DE PORTON ELECTRICO VEHICULAR Y CIERRE PERIMETRAL EN LA POBLACION DE SUBOFICIALES EN LA LOCALIDAD DE COCHRANE, CONFORME A LAS BASES TECNICAS QUE SE ADJUNTAN\n\nVISITA TERRENO EXCLUYENTE JUEVES 19NOV2026 ENTRADA POBLACION MILITAR SUBOFICIALES EN LA LOCALIDAD DE COCHRANE A LAS 10:00HRS\n\nSE SOLICITA LOS ANEXOS QUE SE ADJUNTA (ECONOMICO,DURACION,DECL.JURADA)  PARA LOS OFERENTE POSTULANTES, QUIEN NO LO PRESENTE FIRMADO QUEDA FUERA DE POSTULACIO",
+   "en_gracia": true,
+   "desaparecida_iso": "2026-11-24T11:00:26-03:00"
   }
  ],
  "historial": [
+  {
+   "codigo": "3540-325-COT26",
+   "nombre": "Reptos, bateria e Insumos para Generador Kolvo",
+   "organismo": "Ejercito de Chile",
+   "monto": 350000,
+   "cierre_iso": "2026-11-24T10:00:00-03:00",
+   "tipo": "POSIBLE",
+   "motivos": [
+    "generador"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=3540-325-COT26",
+   "primera_vista_iso": "2026-11-19T15:25:38-03:00",
+   "removida_iso": "2026-11-24T11:00:26-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
+  {
+   "codigo": "1004-39-COT26",
+   "nombre": "EQUIPOS DE AIRE ACONDICIONADO",
+   "organismo": "MINISTERIO DE OBRAS PUBLICAS DIREC CION GRAL DE OO PP DCYF",
+   "monto": 1800000,
+   "cierre_iso": "2026-11-24T10:00:00-03:00",
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Enfriamiento (aires acondicionados)"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1004-39-COT26",
+   "primera_vista_iso": "2026-11-23T09:00:26-03:00",
+   "removida_iso": "2026-11-24T11:00:26-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
+  {
+   "codigo": "4066-544-COT26",
+   "nombre": "ADQUISICIÓN DE MATERIALES PARA EL MANTENIMIENTO Y REPARACIÓN DE LAS BIBLIOTECAS PÚBLICAS DE LA COMUNA DE RÍO IBÁÑEZ.TDR ADJUNTOS",
+   "organismo": "I MUNICIPALIDAD RIO IBANEZ",
+   "monto": 300000,
+   "cierre_iso": "2026-11-24T10:00:00-03:00",
+   "tipo": "POSIBLE",
+   "motivos": [
+    "eléctricos"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=4066-544-COT26",
+   "primera_vista_iso": "2026-11-23T10:00:26-03:00",
+   "removida_iso": "2026-11-24T11:00:26-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
   {
    "codigo": "1691-2151-COT26",
    "nombre": " EFCC- ASAS DE RECECTOSCOPIO DESECHABLE UD PARA REPOSICIÓN DE INS. CLINICOS HRC",
@@ -1740,24 +1974,6 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=5019-66-COT26",
    "primera_vista_iso": "2026-11-11T14:18:43-03:00",
    "removida_iso": "2026-11-17T13:00:25-03:00",
-   "estado_api": "",
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "1173433-23-COT26",
-   "nombre": "MAQUINARIA Y EQUIPAMIENTO PARA ACTIVIDADES PRODUCTIVAS C.E.T. VALLE VERDE",
-   "organismo": "Centro de Educación y Trabajo Valle Verde",
-   "monto": 5638655,
-   "cierre_iso": "2026-11-17T11:00:00-03:00",
-   "tipo": "POSIBLE",
-   "motivos": [
-    "eléctrico"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1173433-23-COT26",
-   "primera_vista_iso": "2026-11-13T17:00:27-03:00",
-   "removida_iso": "2026-11-17T12:00:27-03:00",
    "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,
