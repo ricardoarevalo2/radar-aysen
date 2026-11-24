@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-11-24T14:00:31.621506-03:00",
+ "actualizado": "2026-11-24T15:00:24.507317-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
- "total_region": 307,
+ "total_region": 312,
  "rubros": {
   "80141600": "Ventas y marketing",
   "82101600": "Publicidad en medios no impresos",
@@ -14,53 +14,6 @@
   "83121700": "Comunicación social y de masas"
  },
  "filas": [
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "difusión"
-   ],
-   "nueva": false,
-   "codigo": "2495-692-COT26",
-   "nombre": "ADQUISICIÓN DE MATERIALES E INSUMOS PARA MATERIAL GRÁFICO E IDENTIDAD VISUAL. Código BIP 40071494-0",
-   "organismo": "I MUNICIPALIDAD DE COYHAIQUE",
-   "unidad": "DIRECCION DESARROLLO COMUNITARIO",
-   "monto": 7100000,
-   "cierre_iso": "2026-11-24T14:00:00-03:00",
-   "publicacion": "23-11 12:08",
-   "publicacion_iso": "2026-11-23T12:08:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "14111506",
-     "Papel para impresora del ordenador",
-     4,
-     "Rollo PVC Matte 13oz, Rollo adhesivo Matte, Rollo papel sintético Matte y rollo vinilo adhesivo para impresión vehícular. Las cantidades exactas están indicadas en los TTR anexos"
-    ],
-    [
-     "31201505",
-     "Cinta adhesiva de doble cara",
-     100,
-     "Cinta adhesiva doble contacto tipo TESA FAST o técnicamente equivalente."
-    ],
-    [
-     "44103112",
-     "Cinta de tinta para impresora",
-     1,
-     "Cartuchos de tinta Nubis E12 o técnicamente compatibles, en color cyan, magenta, amarillo y negro. Y cartuchos de tinta para impresora IDP Solid- 310. Las cantidades exactas están indicadas en los TTR anexos"
-    ],
-    [
-     "45101702",
-     "Guillotinas de imprenta",
-     10,
-     "Cortapapeles Tipo OLFA L5 o técnicamente equivalente, de uso profesional. Junto con 100 repuestos compatibles con los cortapapeles."
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=2495-692-COT26",
-   "sin_detalle": false,
-   "descripcion": "Se requiere adquirir materiales e insumos des??nados al desarrollo de trabajos de impresión, elaboración de piezas gráficas, señalética, material promocional y otros elementos de apoyo a la difusión e identidad visual de las actividades contempladas en el programa.",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
   {
    "tipo": "OPORTUNIDAD",
    "motivos": [
@@ -553,6 +506,35 @@
    "desaparecida_iso": ""
   },
   {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Ventas y marketing"
+   ],
+   "nueva": true,
+   "codigo": "4609-330-COT26",
+   "nombre": "SERVICIO DE CAPACITACION ",
+   "organismo": "I MUNICIPALIDAD DE CHILE CHICO",
+   "unidad": "Finanzas",
+   "monto": 3200000,
+   "cierre_iso": "2026-11-25T15:30:00-03:00",
+   "publicacion": "24-11 14:56",
+   "publicacion_iso": "2026-11-24T14:56:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "80141617",
+     "Capacitaciones directas en el concesionario",
+     1,
+     "SERVICIO DE CAPACITACION TEORICO-PRACTICO EN MANEJO Y OPERACION DE DRONES AGRICOLAS. (Detalle en TDR adjunto)."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=4609-330-COT26",
+   "sin_detalle": false,
+   "descripcion": "COTIZACION SERVICIO DE CAPACITACION OPERACION DRONES AGRICOLAS",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
    "tipo": "POSIBLE",
    "motivos": [
     "audiovisual"
@@ -1033,6 +1015,24 @@
   }
  ],
  "historial": [
+  {
+   "codigo": "2495-692-COT26",
+   "nombre": "ADQUISICIÓN DE MATERIALES E INSUMOS PARA MATERIAL GRÁFICO E IDENTIDAD VISUAL. Código BIP 40071494-0",
+   "organismo": "I MUNICIPALIDAD DE COYHAIQUE",
+   "monto": 7100000,
+   "cierre_iso": "2026-11-24T14:00:00-03:00",
+   "tipo": "POSIBLE",
+   "motivos": [
+    "difusión"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=2495-692-COT26",
+   "primera_vista_iso": "2026-11-23T13:00:25-03:00",
+   "removida_iso": "2026-11-24T15:00:24-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
   {
    "codigo": "1608-99-COT26",
    "nombre": "INSUMOS DE DIFUSIÓN GET DPR AYSÉN",
@@ -2104,24 +2104,6 @@
    ],
    "link": "https://buscador.mercadopublico.cl/ficha?code=1057062-546-COT26",
    "primera_vista_iso": "2026-11-16T16:00:40-03:00",
-   "removida_iso": "2026-11-17T15:41:06-03:00",
-   "estado_api": "",
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "1057062-544-COT26",
-   "nombre": "Servicio de Publicidad Digital: Campaña Magíster en Gestión del Cambio Climático según Fisabs 2376_URY 21991",
-   "organismo": "UNIVERSIDAD DE AYSEN",
-   "monto": 7000000,
-   "cierre_iso": "2026-11-17T15:00:00-03:00",
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Publicidad en medios no impresos"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1057062-544-COT26",
-   "primera_vista_iso": "2026-11-16T14:00:23-03:00",
    "removida_iso": "2026-11-17T15:41:06-03:00",
    "estado_api": "",
    "adj_nombre": null,
