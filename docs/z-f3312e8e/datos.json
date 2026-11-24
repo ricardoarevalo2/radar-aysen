@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-11-24T17:00:29.257562-03:00",
+ "actualizado": "2026-11-24T17:15:20.085217-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
- "total_region": 306,
+ "total_region": 303,
  "rubros": {
   "25172700": "Aire acondicionado",
   "25173900": "Componentes eléctricos",
@@ -19,41 +19,6 @@
   "39121400": "Conectores, enchufes y terminales"
  },
  "filas": [
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "grupo electrógeno"
-   ],
-   "nueva": false,
-   "codigo": "3949-312-COT26",
-   "nombre": "Mantenimiento preventivo anual de grupos electrógenos",
-   "organismo": "CONSULTORIO GENERAL URBANO DR ALEJANDRO GUTIERREZ",
-   "unidad": "ID 3949 - CESFAM Dr Alejandro Gutiérrez",
-   "monto": 1000000,
-   "cierre_iso": "2026-11-24T17:00:00-03:00",
-   "publicacion": "20-11 15:50",
-   "publicacion_iso": "2026-11-20T15:50:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "73152101",
-     "Servicio de mantenimiento de equipo de fabricación",
-     1,
-     "1.-grupo electrógeno diésel marca Kaufman g45 ubicado en Bilbao esquina Mackena.\n\nEspecificaciones adjuntas a esta compra."
-    ],
-    [
-     "73152101",
-     "Servicio de mantenimiento de equipo de fabricación",
-     1,
-     "2 grupo electrógeno Diesel marca Inmesol ik-022 ubicado en Lautaro 63 Cecosf\n\nEspecificaciones adjuntas a esta compra."
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=3949-312-COT26",
-   "sin_detalle": false,
-   "descripcion": "Se requiere adquirir mantenimiento preventivo anual de grupos electrógenos : Adjuntar cotización formal con datos de contacto (e-mail - teléfonos). Incluir valor de mano de obra, implementos, etc. (valor total del servicio). La mantención se coordinara para el mes de diciembre 2026 y debe incluir informe técnico con el servicio detallado. El servicio se realizara en Bilbao esquina Mackenna s/n y en Lautaro N°63",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
   {
    "tipo": "OPORTUNIDAD",
    "motivos": [
@@ -1499,6 +1464,24 @@
   }
  ],
  "historial": [
+  {
+   "codigo": "3949-312-COT26",
+   "nombre": "Mantenimiento preventivo anual de grupos electrógenos",
+   "organismo": "CONSULTORIO GENERAL URBANO DR ALEJANDRO GUTIERREZ",
+   "monto": 1000000,
+   "cierre_iso": "2026-11-24T17:00:00-03:00",
+   "tipo": "POSIBLE",
+   "motivos": [
+    "grupo electrógeno"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=3949-312-COT26",
+   "primera_vista_iso": "2026-11-20T16:00:41-03:00",
+   "removida_iso": "2026-11-24T17:15:20-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
   {
    "codigo": "613-42-COT26",
    "nombre": "Servicio de mantención preventiva de líneas de calefacción y suministro e instalación de termostato programable con caja de protección",

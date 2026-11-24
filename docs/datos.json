@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-11-24T17:00:29.257562-03:00",
+ "actualizado": "2026-11-24T17:15:20.085217-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
- "total_region": 306,
+ "total_region": 303,
  "rubros": {
   "80141600": "Ventas y marketing",
   "82101600": "Publicidad en medios no impresos",
@@ -14,35 +14,6 @@
   "83121700": "Comunicación social y de masas"
  },
  "filas": [
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "fotografía"
-   ],
-   "nueva": true,
-   "codigo": "2494-318-COT26",
-   "nombre": "Servicio de Catering para 50 personas - Fiesta comunitaria Arturo Prat Florece - Barrio Arturo Prat - Programa Recuperación de Barrios",
-   "organismo": "I MUNICIPALIDAD DE COYHAIQUE",
-   "unidad": "SECRETARIA COMUNAL DE PLANIFICACION",
-   "monto": 400000,
-   "cierre_iso": "2026-11-24T17:05:00-03:00",
-   "publicacion": "23-11 17:02",
-   "publicacion_iso": "2026-11-23T17:02:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "90101603",
-     "Servicios de catering",
-     1,
-     "Servicio de Catering para 50 personas aproximadamente, por lo que se solicita: REVISAR EL DOCUMENTO ADJUNTO PARA MAYOR DETALLE DE LOS ALIMENTOS Y SERVICIO DESEADO."
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=2494-318-COT26",
-   "sin_detalle": false,
-   "descripcion": "La contratación del servicio de catering se justifica como un apoyo logístico para el desarrollo de la actividad \"Fiesta comunitaria Arturo Prat Florece\", actividad de cierre de los talleres de oficios ejecutados en el plan de confianza social, premiación de concurso de fotografía e inauguración de invernadero. LOS DETALLES SE ENCUENTRAN EN EL DOCUMENTO ADJUNTO.",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
   {
    "tipo": "OPORTUNIDAD",
    "motivos": [
@@ -986,6 +957,24 @@
   }
  ],
  "historial": [
+  {
+   "codigo": "2494-318-COT26",
+   "nombre": "Servicio de Catering para 50 personas - Fiesta comunitaria Arturo Prat Florece - Barrio Arturo Prat - Programa Recuperación de Barrios",
+   "organismo": "I MUNICIPALIDAD DE COYHAIQUE",
+   "monto": 400000,
+   "cierre_iso": "2026-11-24T17:05:00-03:00",
+   "tipo": "POSIBLE",
+   "motivos": [
+    "fotografía"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=2494-318-COT26",
+   "primera_vista_iso": "2026-11-23T18:00:25-03:00",
+   "removida_iso": "2026-11-24T17:15:20-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
   {
    "codigo": "1758-304-COT26",
    "nombre": "INSUMOS DECORATIVOS EN EL MARCO DE LA DIFUSION DEL PLAN CHILE APRENDE Y AVANZA MINEDUC.",
