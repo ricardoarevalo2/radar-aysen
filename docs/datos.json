@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-24T17:15:20.085217-03:00",
+ "actualizado": "2026-11-24T18:00:25.734636-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
  "total_region": 303,
@@ -14,64 +14,6 @@
   "83121700": "Comunicación social y de masas"
  },
  "filas": [
-  {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Ventas y marketing"
-   ],
-   "nueva": true,
-   "codigo": "1233615-1042-COT26",
-   "nombre": "SOL-INT-2026-00318- Servicio de producción y ejecución Encuentro Robótica.",
-   "organismo": "Servicio Local de Educación Pública Aysén",
-   "unidad": "Servicio Local de Educación Pública Aysén",
-   "monto": 1600000,
-   "cierre_iso": "2026-11-24T17:20:00-03:00",
-   "publicacion": "23-11 17:17",
-   "publicacion_iso": "2026-11-23T17:17:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "80141607",
-     "Producción de eventos",
-     1,
-     "Servicio de producción y ejecución Encuentro Robótica, de acuerdo a lo indicado en anexos adjuntos y TDR."
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1233615-1042-COT26",
-   "sin_detalle": false,
-   "descripcion": "Servicio de producción y ejecución Encuentro Robótica.",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
-  {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Publicidad en medios no impresos"
-   ],
-   "nueva": true,
-   "codigo": "2713-1466-COT26",
-   "nombre": "programa radial Hablemos de Violencia de Género - Folio 1540 - DIDECO",
-   "organismo": "I MUNICIPALIDAD DE AYSEN",
-   "unidad": "I.MUNICIPALIDAD AYSEN-ADQUISICIONES",
-   "monto": 200000,
-   "cierre_iso": "2026-11-24T17:47:00-03:00",
-   "publicacion": "23-11 17:46",
-   "publicacion_iso": "2026-11-23T17:46:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "82101601",
-     "Publicidad en radio",
-     2,
-     "espacios radiales de 40 minutos cada uno, programa \"Hablemos de Violencia de Género\". Debe incluir transmisión en vivo por señal radial y simultánea por YouTube Live y Facebook Live, y quedar almacenado en formato digital para visualizarse las veces que se requiera. Participan un conductor y tres invitadas. Emisiones: 25 y 30/11/2026, ajustables según disponibilidad de la emisora. Entregar informe con links y fotos de ambas emisiones."
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=2713-1466-COT26",
-   "sin_detalle": false,
-   "descripcion": "Contratación de dos espacios radiales de 40 minutos del programa \"Hablemos de Violencia de Género\", del Programa Atención Inicial de las Violencias de Género (Centro de las Mujeres, DIDECO). Incluye transmisión en vivo por radio y simultánea por YouTube Live y Facebook Live, y grabación disponible en formato digital. Se difundirá la oferta del Centro, las actividades del 25N y el Espacio Violeta. Emisiones: 25 y 30/11/2026 (fechas ajustables según disponibilidad). Ver especificaciones técnicas.",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
   {
    "tipo": "OPORTUNIDAD",
    "motivos": [
@@ -264,7 +206,7 @@
    "motivos": [
     "Ventas y marketing"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "2495-697-COT26",
    "nombre": "CONTRATACIÓN ARMADO Y DESARMADO CARPA PARA FERIA INCLUSIVA DE LA OAD 2026",
    "organismo": "I MUNICIPALIDAD DE COYHAIQUE",
@@ -473,6 +415,35 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=2495-696-COT26",
    "sin_detalle": false,
    "descripcion": "Producción de 2 sesiones de baños de bosque para 10 personas por sesión (total 20), debe incluir monitor de baños de bosque y colación para 10 personas por sesión: Jugo en caja mas sándwich (total 20)",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Ventas y marketing"
+   ],
+   "nueva": true,
+   "codigo": "1201-215-COT26",
+   "nombre": "SERVICIO DE SONIDO – AMPLIFICACIÓN - ANIMACIÓN  EVENTOS SUB10 – SUB12 – JUVENIL JUEGOS DEPORTIVOS ESCOLARES 2026",
+   "organismo": "INSTITUTO NACIONAL DE DEPORTES DE CHILE",
+   "unidad": "I.N.D. REGION XI",
+   "monto": 4700000,
+   "cierre_iso": "2026-11-25T17:31:00-03:00",
+   "publicacion": "24-11 17:29",
+   "publicacion_iso": "2026-11-24T17:29:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "80141607",
+     "Producción de eventos",
+     1,
+     "Servicio de\nsonido,\namplificación y\nanimación, sepun detalle en TDR adjunta"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1201-215-COT26",
+   "sin_detalle": false,
+   "descripcion": "Contratar el servicio de sonido, amplificación y animación para la ejecución de Encuentros\nDeportivos, en el marco de los Juegos Deportivos Escolares (JDE), en las disciplinas de\nmini vóleibol, básquetbol 3x3, balonmano adaptado y futsal, a realizarse en las comunas\nde Coyhaique y Aysén.",
    "en_gracia": false,
    "desaparecida_iso": ""
   },
@@ -873,7 +844,7 @@
    "motivos": [
     "Servicios de televisión"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "1426103-33-COT26",
    "nombre": "Servicio de Televisión por cable o IP para los centros IP-IRC y LAE IP Coyhaique ",
    "organismo": "SERVICIO NACIONAL DE REINSERCION SOCIAL JUVENIL",
@@ -957,6 +928,42 @@
   }
  ],
  "historial": [
+  {
+   "codigo": "2713-1466-COT26",
+   "nombre": "programa radial Hablemos de Violencia de Género - Folio 1540 - DIDECO",
+   "organismo": "I MUNICIPALIDAD DE AYSEN",
+   "monto": 200000,
+   "cierre_iso": "2026-11-24T17:47:00-03:00",
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Publicidad en medios no impresos"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=2713-1466-COT26",
+   "primera_vista_iso": "2026-11-23T18:00:25-03:00",
+   "removida_iso": "2026-11-24T18:00:25-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
+  {
+   "codigo": "1233615-1042-COT26",
+   "nombre": "SOL-INT-2026-00318- Servicio de producción y ejecución Encuentro Robótica.",
+   "organismo": "Servicio Local de Educación Pública Aysén",
+   "monto": 1600000,
+   "cierre_iso": "2026-11-24T17:20:00-03:00",
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Ventas y marketing"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1233615-1042-COT26",
+   "primera_vista_iso": "2026-11-23T18:00:25-03:00",
+   "removida_iso": "2026-11-24T18:00:25-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
   {
    "codigo": "2494-318-COT26",
    "nombre": "Servicio de Catering para 50 personas - Fiesta comunitaria Arturo Prat Florece - Barrio Arturo Prat - Programa Recuperación de Barrios",
