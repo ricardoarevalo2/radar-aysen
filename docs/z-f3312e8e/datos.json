@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-11-24T15:00:24.507317-03:00",
+ "actualizado": "2026-11-24T16:00:27.826835-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
- "total_region": 312,
+ "total_region": 307,
  "rubros": {
   "25172700": "Aire acondicionado",
   "25173900": "Componentes eléctricos",
@@ -19,71 +19,6 @@
   "39121400": "Conectores, enchufes y terminales"
  },
  "filas": [
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "enchufe"
-   ],
-   "nueva": false,
-   "codigo": "3791-1209-COT26",
-   "nombre": "ARTICULOS NAVIDEÑOS ",
-   "organismo": "I MUNICIPALIDAD DE CISNES",
-   "unidad": "Finanzas",
-   "monto": 4300000,
-   "cierre_iso": "2026-11-24T15:00:00-03:00",
-   "publicacion": "23-11 12:52",
-   "publicacion_iso": "2026-11-23T12:52:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "14111601",
-     "Papel, bolsas o cajas de regalo",
-     700,
-     "Papel de regalo con diseños alusivos a Navidad, en buen estado y sin daños."
-    ],
-    [
-     "31201512",
-     "Cinta Transparente",
-     200,
-     "Cinta adhesiva transparente: Tipo Scotch, de 18 mm de ancho y 25 metros de longitud."
-    ],
-    [
-     "39111514",
-     "Luces de árboles",
-     100,
-     "Luces navideñas: Tipo manguera, luz cálida amarilla, 100 metros de longitud, alimentación eléctrica de 220 V\nmediante enchufe."
-    ],
-    [
-     "39111514",
-     "Luces de árboles",
-     50,
-     "Esferas Navideñas decorativas de color dorado, de 25 cm de diámetro"
-    ],
-    [
-     "39111514",
-     "Luces de árboles",
-     50,
-     "Esferas Navideñas decorativas de color plateado, de 25 cm de diámetro."
-    ],
-    [
-     "49101609",
-     "Ornamentos y decoraciones",
-     100,
-     "Guirnaldas decorativas de 5 metros de longitud cada una"
-    ],
-    [
-     "60123204",
-     "Cintas decorativas",
-     700,
-     "Cintas decorativas con diseños navideños, destinadas a la presentación de regalos."
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=3791-1209-COT26",
-   "sin_detalle": false,
-   "descripcion": "ADQUISICION DE MATERIALES E IMPLEMENTOS NAVIDEÑOS PARA ARBOL DE NAVIDAD PUERTO CISNES. SE ADJUNTAN ESPECIFICACIONES.",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
   {
    "tipo": "OPORTUNIDAD",
    "motivos": [
@@ -365,7 +300,7 @@
    "motivos": [
     "Materiales de física de electricidad"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "1233615-1041-COT26",
    "nombre": "RMG-SOL01535-Liceo Luisa Rabanal, Equipamiento para simulación EMTP 29.05, despacho incluido a Chile Chico.",
    "organismo": "Servicio Local de Educación Pública Aysén",
@@ -1392,7 +1327,7 @@
    "motivos": [
     "Cables eléctricos y accesorios"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "868-108-COT26",
    "nombre": "El Gobierno Regional de Aysén, requiere, CABLES DE CONECCIONES HDMI 2.1",
    "organismo": "GOBIERNO REGIONAL DE AYSEN",
@@ -1479,7 +1414,7 @@
    "motivos": [
     "Conectores, enchufes y terminales"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "1233615-1016-COT26",
    "nombre": "DMH SOL-2026-01931] Recursos TICS para Escuela \"Litoral Austral\" de Puerto Aysén",
    "organismo": "Servicio Local de Educación Pública Aysén",
@@ -1534,6 +1469,24 @@
   }
  ],
  "historial": [
+  {
+   "codigo": "3791-1209-COT26",
+   "nombre": "ARTICULOS NAVIDEÑOS ",
+   "organismo": "I MUNICIPALIDAD DE CISNES",
+   "monto": 4300000,
+   "cierre_iso": "2026-11-24T15:00:00-03:00",
+   "tipo": "POSIBLE",
+   "motivos": [
+    "enchufe"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=3791-1209-COT26",
+   "primera_vista_iso": "2026-11-23T13:00:25-03:00",
+   "removida_iso": "2026-11-24T16:00:27-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
   {
    "codigo": "3540-325-COT26",
    "nombre": "Reptos, bateria e Insumos para Generador Kolvo",

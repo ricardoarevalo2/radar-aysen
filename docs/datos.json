@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-11-24T15:00:24.507317-03:00",
+ "actualizado": "2026-11-24T16:00:27.826835-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
- "total_region": 312,
+ "total_region": 307,
  "rubros": {
   "80141600": "Ventas y marketing",
   "82101600": "Publicidad en medios no impresos",
@@ -48,7 +48,7 @@
    "motivos": [
     "difusion"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "1758-304-COT26",
    "nombre": "INSUMOS DECORATIVOS EN EL MARCO DE LA DIFUSION DEL PLAN CHILE APRENDE Y AVANZA MINEDUC.",
    "organismo": "SECRETARIA REGIONAL MINISTERIAL DE EDUCACION XI REGION",
@@ -77,7 +77,7 @@
    "motivos": [
     "difusion"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "1758-305-COT26",
    "nombre": "INSUMOS PARA LA EJECUCION DE LA DIFUSION DEL PLAN CHILE APRENDE Y AVANZA MINEDUC",
    "organismo": "SECRETARIA REGIONAL MINISTERIAL DE EDUCACION XI REGION",
@@ -535,6 +535,35 @@
    "desaparecida_iso": ""
   },
   {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Inserciones publicitarias en medios"
+   ],
+   "nueva": true,
+   "codigo": "1195-613-COT26",
+   "nombre": "SERVICIO DE DIFUSION PROYECTO DE RCICLAJE",
+   "organismo": "I MUNICIPALIDAD DE COYHAIQUE",
+   "unidad": "Ilustre Municipalidad de Coyhaique",
+   "monto": 380000,
+   "cierre_iso": "2026-11-25T16:00:00-03:00",
+   "publicacion": "24-11 15:33",
+   "publicacion_iso": "2026-11-24T15:33:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "82101903",
+     "Avisos en Internet",
+     1,
+     "SE REQUIERE CONTRATAR UN MEDIO DE COMUNICACION REGIONAL PARA LA GABACION, EDICION Y DIFUSION DE CAPSULAS AUDIOVISUALES CONSIDERANDO 4 HRS MENSUALES(NOVIEMBRE DICIEMBRE),PUBLICACIONES SEMANALS DE 20 A 29 MINUTOS,BANNER PUBLICITARIO Y DIFUSION EN RRSS,SITIO WEB,TELEVISION DIGITAL Y STREAMING.SE PRIORIZARA PROVEEDOR LOCAL CON COBERTURA EN LA REGION DE AYSEN."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1195-613-COT26",
+   "sin_detalle": false,
+   "descripcion": "SE REQUIERE CONTRATAR UN MEDIO DE COMUNICACION REGIONAL PARA LA GABACION, EDICION Y DIFUSION DE CAPSULAS AUDIOVISUALES CONSIDERANDO 4 HRS MENSUALES(NOVIEMBRE DICIEMBRE),PUBLICACIONES SEMANALS DE 20 A 29 MINUTOS,BANNER PUBLICITARIO Y DIFUSION EN RRSS,SITIO WEB,TELEVISION DIGITAL Y STREAMING.SE PRIORIZARA PROVEEDOR LOCAL CON COBERTURA EN LA REGION DE AYSEN.",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
    "tipo": "POSIBLE",
    "motivos": [
     "audiovisual"
@@ -729,6 +758,35 @@
    "desaparecida_iso": ""
   },
   {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Publicidad en medios no impresos"
+   ],
+   "nueva": true,
+   "codigo": "1092-99-COT26",
+   "nombre": "SIC 476 SIRE 475 Servicio de Publicidad Deprif Coyhaique",
+   "organismo": "CORP NACIONAL FORESTAL",
+   "unidad": "XI Región - Oficina Regional de Aysén",
+   "monto": 7100000,
+   "cierre_iso": "2026-11-26T17:00:00-03:00",
+   "publicacion": "24-11 15:16",
+   "publicacion_iso": "2026-11-24T15:16:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "82101603",
+     "Publicidad en Internet",
+     10,
+     "Producción y difusión de 10 capítulos audiovisuales de hasta 45 minutos cada uno. Para el Departamento de Protección contra Incendios Forestales, CONAF, Región de Aysén. VER TÉRMINOS DE REFERENCIA ADJUNTOS."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1092-99-COT26",
+   "sin_detalle": false,
+   "descripcion": "Contratar un servicio integral de producción, edición, postproducción y difusión de diez capítulos audiovisuales para informar y sensibilizar a la comunidad sobre prevención de incendios forestales, el inicio del periodo de mayor ocurrencia y otras materias institucionales que defina CONAF.",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
    "tipo": "POSIBLE",
    "motivos": [
     "fotografía"
@@ -844,7 +902,7 @@
    "motivos": [
     "difusión"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "1233615-1017-COT26",
    "nombre": "DMH [SOL-2026-02150] Recursos para el aprendizaje e innovación (hidrolavadora y manguera) para Liceo Politécnico A-1 de Puerto Aysén",
    "organismo": "Servicio Local de Educación Pública Aysén",
@@ -2061,50 +2119,6 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=1233615-996-COT26",
    "primera_vista_iso": "2026-11-16T10:00:36-03:00",
    "removida_iso": "2026-11-17T18:00:22-03:00",
-   "estado_api": "",
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "1332-46-COT26",
-   "nombre": "SERVICIO DE IMPLEMENTACIÓN DE PLAN DE MEDIOS PARA CAMPAÑA REGIONAL DE CONCIENCIA TURÍSTICA AYSÉN PATAGONIA",
-   "organismo": "Servicio Nacional de Turismo",
-   "monto": 6800000,
-   "cierre_iso": "2026-11-17T16:00:00-03:00",
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Ventas y marketing"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1332-46-COT26",
-   "primera_vista_iso": "2026-11-16T16:00:40-03:00",
-   "removida_iso": "2026-11-17T17:00:24-03:00",
-   "estado_api": "",
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "1057062-546-COT26",
-   "nombre": "Servicio de emisión de spots y entrevistas en radioemisora local de Coyhaique",
-   "organismo": "UNIVERSIDAD DE AYSEN",
-   "monto": 2500000,
-   "cierre_iso": "2026-11-17T15:30:00-03:00",
-   "tipo": "POSIBLE",
-   "motivos": [
-    "audiovisual",
-    "comunicacional",
-    "difusión",
-    "publicidad",
-    "radial",
-    "radioemisora",
-    "redes sociales",
-    "spot",
-    "spots"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1057062-546-COT26",
-   "primera_vista_iso": "2026-11-16T16:00:40-03:00",
-   "removida_iso": "2026-11-17T15:41:06-03:00",
    "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,
