@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-11-25T16:28:55.148123-03:00",
+ "actualizado": "2026-11-25T17:00:28.028829-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
- "total_region": 291,
+ "total_region": 305,
  "rubros": {
   "25172700": "Aire acondicionado",
   "25173900": "Componentes eléctricos",
@@ -1344,6 +1344,105 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=868-113-COT26",
    "sin_detalle": false,
    "descripcion": "El Gobierno Regional de Aysén, requiere adquirir “HORNO ELECTRICO DE 60 LITROS, POTENCIA DE 2200W- FRIGOBAR SALA DE LACTANCIA, CAPACIDAD DESEADA MINIMO 40L MAXIMO 70L.-",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Cajas y accesorios eléctricos"
+   ],
+   "nueva": true,
+   "codigo": "3950-764-COT26",
+   "nombre": "cajas y cajonera para fonoaudiologia",
+   "organismo": "DIRECCION SALUD RURAL",
+   "unidad": "Dirección de Salud Rural",
+   "monto": 120000,
+   "cierre_iso": "2026-11-27T09:30:00-03:00",
+   "publicacion": "25-11 16:30",
+   "publicacion_iso": "2026-11-25T16:30:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "39121310",
+     "Cajas de uso general",
+     1,
+     "Caja organizadora plástica de 100 litros con ruedas, transparente, con tapa y broches de cierre, apilable. Medidas aprox. 62 x 47 x 37 cm. Tipo Rollbox Wenco o equivalente."
+    ],
+    [
+     "56101702",
+     "Gabinetes de archivos o accesorios",
+     1,
+     "Cajonera o gabinete con cerradura de llave para resguardo de fichas clínicas, medidas máximas 37 cm (ancho) x 34 cm (fondo) x 58 cm (alto). Estructura metálica o de melamina de 15 a 18 mm, 2 a 3 cajones con cierre centralizado y 2 llaves."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=3950-764-COT26",
+   "sin_detalle": false,
+   "descripcion": "incluir despacho en cotizacion",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Gasfitería, calefacción y aire acondicionado"
+   ],
+   "nueva": true,
+   "codigo": "4778-420-COT26",
+   "nombre": "INSTALACION AIRE ACONDICIONADO DE 9000 BTU",
+   "organismo": "SERVICIO NACIONAL DE SALUD HOSPITAL DE C",
+   "unidad": "Compras de Insumos y Servicios Generales",
+   "monto": 595000,
+   "cierre_iso": "2026-11-27T10:00:00-03:00",
+   "publicacion": "25-11 16:29",
+   "publicacion_iso": "2026-11-25T16:29:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "72102305",
+     "Servicios de reparación, mantenimiento o reparación de aire acondicionado",
+     1,
+     "INSTALACION AIRE ACONDICONADO DE 9000 BTU PARA BOX N° 11 DEL POLI ESPECIALIDADES (GINECOLOGIA)"
+    ],
+    [
+     "72102305",
+     "Servicios de reparación, mantenimiento o reparación de aire acondicionado",
+     1,
+     "INSTALACION AIRE ACONDICONADO DE 9000 BTU PARA BOX N° 1386 DE URGENCIA OBSTETRICA"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=4778-420-COT26",
+   "sin_detalle": false,
+   "descripcion": "INSTALACION AIRE ACONDICIONADO DE 9000 BTU PARA BOX N° 1386 DE URGENCIA OSTETRICA Y BOX 11 DEL POLI ESPECIALIDADES (GINECOLOGIA), SEGUN SOLICITUD DE COMPRA N° 11305/2026 DE LA UNIDAD DE EQUIPOS INDUSTRIALES, SE DEBE ADJUNTAR COTIZACION.",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Enfriamiento (aires acondicionados)"
+   ],
+   "nueva": true,
+   "codigo": "1746-278-COT26",
+   "nombre": "EQUIPOS DE AIRE ACONDICIONADO PORTÁTIL  FRÍO/CALOR",
+   "organismo": "SUBSECRETARIA DE SALUD PUBLICA",
+   "unidad": "Seremi de Salud XI Región",
+   "monto": 1600000,
+   "cierre_iso": "2026-11-27T11:00:00-03:00",
+   "publicacion": "25-11 16:33",
+   "publicacion_iso": "2026-11-25T16:33:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "40101701",
+     "Aires acondicionados",
+     4,
+     "EQUIPOS DE AIRE ACONDICIONADO PORTÁTIL FRÍO/CALOR\nCUMPLIR CON ESPECIFICACIONES TÉCNICAS MENCIONADAS EN REQUERIMIENTOS ADJUNTOS: PM N° 568 Y 588\nIMAGEN REFERENCIAL EN PEDIDO."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1746-278-COT26",
+   "sin_detalle": false,
+   "descripcion": "EQUIPOS DE AIRE ACONDICIONADO PORTÁTIL  FRÍO/CALOR\nCUMPLIR CON ESPECIFICACIONES TÉCNICAS MENCIONADAS EN REQUERIMIENTOS ADJUNTOS: PM N° 568 Y 588\nIMAGEN REFERENCIAL EN PEDIDO.",
    "en_gracia": false,
    "desaparecida_iso": ""
   },
