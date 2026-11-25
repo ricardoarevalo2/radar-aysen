@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-25T17:00:28.028829-03:00",
+ "actualizado": "2026-11-25T18:00:25.283003-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
  "total_region": 305,
@@ -14,64 +14,6 @@
   "83121700": "Comunicación social y de masas"
  },
  "filas": [
-  {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Ventas y marketing"
-   ],
-   "nueva": false,
-   "codigo": "2495-696-COT26",
-   "nombre": "Produccion de 2 sesiones de baños de bosque",
-   "organismo": "I MUNICIPALIDAD DE COYHAIQUE",
-   "unidad": "DIRECCION DESARROLLO COMUNITARIO",
-   "monto": 300000,
-   "cierre_iso": "2026-11-25T17:00:00-03:00",
-   "publicacion": "23-11 16:05",
-   "publicacion_iso": "2026-11-23T16:05:00-03:00",
-   "ofertas": 1,
-   "productos": [
-    [
-     "80141607",
-     "Producción de eventos",
-     2,
-     "Producción de 2 sesiones de baños de bosque para 10 personas por sesión (total 20), debe incluir monitor de baños de bosque y colación para 10 personas por sesión: Jugo en caja mas sándwich (total 20)"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=2495-696-COT26",
-   "sin_detalle": false,
-   "descripcion": "Producción de 2 sesiones de baños de bosque para 10 personas por sesión (total 20), debe incluir monitor de baños de bosque y colación para 10 personas por sesión: Jugo en caja mas sándwich (total 20)",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
-  {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Ventas y marketing"
-   ],
-   "nueva": true,
-   "codigo": "1201-215-COT26",
-   "nombre": "SERVICIO DE SONIDO – AMPLIFICACIÓN - ANIMACIÓN  EVENTOS SUB10 – SUB12 – JUVENIL JUEGOS DEPORTIVOS ESCOLARES 2026",
-   "organismo": "INSTITUTO NACIONAL DE DEPORTES DE CHILE",
-   "unidad": "I.N.D. REGION XI",
-   "monto": 4700000,
-   "cierre_iso": "2026-11-25T17:31:00-03:00",
-   "publicacion": "24-11 17:29",
-   "publicacion_iso": "2026-11-24T17:29:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "80141607",
-     "Producción de eventos",
-     1,
-     "Servicio de\nsonido,\namplificación y\nanimación, sepun detalle en TDR adjunta"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1201-215-COT26",
-   "sin_detalle": false,
-   "descripcion": "Contratar el servicio de sonido, amplificación y animación para la ejecución de Encuentros\nDeportivos, en el marco de los Juegos Deportivos Escolares (JDE), en las disciplinas de\nmini vóleibol, básquetbol 3x3, balonmano adaptado y futsal, a realizarse en las comunas\nde Coyhaique y Aysén.",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
   {
    "tipo": "POSIBLE",
    "motivos": [
@@ -566,6 +508,35 @@
    "desaparecida_iso": ""
   },
   {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Fotógrafos y camarógrafos"
+   ],
+   "nueva": true,
+   "codigo": "2495-716-COT26",
+   "nombre": "CONTRATACIÓN DE SERVICIO DE COBERTURA AUDIOVISUAL, TRANSMISIÓN Y DIFUSIÓN DE LA EXPO GANADERA COYHAIQUE 2026",
+   "organismo": "I MUNICIPALIDAD DE COYHAIQUE",
+   "unidad": "DIRECCION DESARROLLO COMUNITARIO",
+   "monto": 7100000,
+   "cierre_iso": "2026-11-26T18:00:00-03:00",
+   "publicacion": "25-11 17:53",
+   "publicacion_iso": "2026-11-25T17:53:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "82131603",
+     "Producción de vídeo",
+     1,
+     "Servicio integral de cobertura audiovisual, transmisión y difusión para Expo Ganadera Coyhaique 2026 (27-29 nov). Incluye difusión previa con 2 entrevistas radiales, 4 transmisiones en vivo, contenido RRSS (10 publicaciones, 12 historias, 6 reels, 40 entrevistas breves), entrega preliminar en 24h, banco audiovisual con mínimo 150 fotografías editadas, videos editados y 1 video resumen institucional (3-5 min). Plazo final: 15 días hábiles post-evento. Adjuntar Anexos 1 al 6 según Bases Técnicas."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=2495-716-COT26",
+   "sin_detalle": false,
+   "descripcion": "Contratación de servicio de cobertura audiovisual, transmisión en vivo y difusión para la Expo Ganadera Coyhaique 2026 (27 al 29 de noviembre). Incluye difusión previa, 2 entrevistas radiales, 4 transmisiones en vivo, contenido para redes sociales (publicaciones, historias, reels y entrevistas a 40 expositores), 150 fotografías editadas y un video resumen institucional. Oferentes deben adjuntar Anexos 1 al 6 según Bases Técnicas.",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
    "tipo": "POSIBLE",
    "motivos": [
     "fotografía"
@@ -823,6 +794,42 @@
   }
  ],
  "historial": [
+  {
+   "codigo": "1201-215-COT26",
+   "nombre": "SERVICIO DE SONIDO – AMPLIFICACIÓN - ANIMACIÓN  EVENTOS SUB10 – SUB12 – JUVENIL JUEGOS DEPORTIVOS ESCOLARES 2026",
+   "organismo": "INSTITUTO NACIONAL DE DEPORTES DE CHILE",
+   "monto": 4700000,
+   "cierre_iso": "2026-11-25T17:31:00-03:00",
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Ventas y marketing"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1201-215-COT26",
+   "primera_vista_iso": "2026-11-24T18:00:25-03:00",
+   "removida_iso": "2026-11-25T18:00:25-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
+  {
+   "codigo": "2495-696-COT26",
+   "nombre": "Produccion de 2 sesiones de baños de bosque",
+   "organismo": "I MUNICIPALIDAD DE COYHAIQUE",
+   "monto": 300000,
+   "cierre_iso": "2026-11-25T17:00:00-03:00",
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Ventas y marketing"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=2495-696-COT26",
+   "primera_vista_iso": "2026-11-23T17:00:24-03:00",
+   "removida_iso": "2026-11-25T18:00:25-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
   {
    "codigo": "4609-330-COT26",
    "nombre": "SERVICIO DE CAPACITACION ",
@@ -1508,7 +1515,7 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=2713-1429-COT26",
    "primera_vista_iso": "2026-11-19T13:00:23-03:00",
    "removida_iso": "2026-11-20T13:00:27-03:00",
-   "estado_api": null,
+   "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,
    "adj_iso": null
@@ -1900,62 +1907,6 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=4609-315-COT26",
    "primera_vista_iso": "2026-11-16T09:00:25-03:00",
    "removida_iso": "2026-11-19T09:00:33-03:00",
-   "estado_api": "",
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "657-100-COT26",
-   "nombre": "publicidad y difucion a traves de banderas pendones y otros en subsidios habitacionales",
-   "organismo": "SERVICIO DE VIVIENDA Y URBANIZACION XI REGION",
-   "monto": 900000,
-   "cierre_iso": "2026-11-18T18:00:00-03:00",
-   "tipo": "POSIBLE",
-   "motivos": [
-    "difusión",
-    "publicidad",
-    "publicitarias"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=657-100-COT26",
-   "primera_vista_iso": "2026-11-14T17:00:28-03:00",
-   "removida_iso": "2026-11-18T19:00:26-03:00",
-   "estado_api": "",
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "2713-1399-COT26",
-   "nombre": "Producción \"Temporada de Cruceros 2026-2027\" - DIDECO - Turismo - 1497",
-   "organismo": "I MUNICIPALIDAD DE AYSEN",
-   "monto": 2000000,
-   "cierre_iso": "2026-11-18T17:54:00-03:00",
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Ventas y marketing"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=2713-1399-COT26",
-   "primera_vista_iso": "2026-11-16T16:44:10-03:00",
-   "removida_iso": "2026-11-18T18:00:27-03:00",
-   "estado_api": "",
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "4889-48-COT26",
-   "nombre": "Servicios integrales de producción para jornada de bienestar y formación CeCrea -  SEREMI de las Culturas, las Artes y el Patrimonio Región de Aysén",
-   "organismo": "Subsecretaria de las Culturas y las Artes Región de Aysen",
-   "monto": 2000000,
-   "cierre_iso": "2026-11-18T17:52:00-03:00",
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Ventas y marketing"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=4889-48-COT26",
-   "primera_vista_iso": "2026-11-10T19:26:29-03:00",
-   "removida_iso": "2026-11-18T18:00:27-03:00",
    "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,

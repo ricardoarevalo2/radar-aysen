@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-25T17:00:28.028829-03:00",
+ "actualizado": "2026-11-25T18:00:25.283003-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
  "total_region": 305,
@@ -19,65 +19,6 @@
   "39121400": "Conectores, enchufes y terminales"
  },
  "filas": [
-  {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Cables eléctricos y accesorios"
-   ],
-   "nueva": true,
-   "codigo": "4644-163-COT26",
-   "nombre": " Accesorios Computacionales, Área de Intervención Vivero el Mallín SIC 508 SIRE 475",
-   "organismo": "CORP NACIONAL FORESTAL",
-   "unidad": "XI Región - Oficina Provincial Aysen",
-   "monto": 250000,
-   "cierre_iso": "2026-11-25T17:00:00-03:00",
-   "publicacion": "24-11 16:12",
-   "publicacion_iso": "2026-11-24T16:12:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "26121613",
-     "Cable aislado o forrado",
-     2,
-     "Cable HDMI, 2 mt. Blindado 8K"
-    ],
-    [
-     "26121613",
-     "Cable aislado o forrado",
-     5,
-     "Cable de red 100% cobre, con separador de pares y doble forro para exterior, con conectores listos para usar"
-    ],
-    [
-     "43202005",
-     "Dispositivos de almacenamiento de memoria flash",
-     2,
-     "Pendrive USB 3.2, 32 GB"
-    ],
-    [
-     "43211708",
-     "Trackballs y mouse de computador",
-     6,
-     "Mouse inalambrico de 4 botones con cómodo diseño ergonómico. Tecnología de 2,4 GHz. Resolución ajustable de 800, 1200 o 1600 DPI. con 1 pila AA, incluida con el producto."
-    ],
-    [
-     "43211708",
-     "Trackballs y mouse de computador",
-     2,
-     "Mouse Inalámbrico Ergonómico Vertical, 6 botones, Batería recargable de larga duración, Tecnología 2,4GHz, Revestimiento de goma, Cable de carga USB, Bluetooth."
-    ],
-    [
-     "43211802",
-     "Almohadillas de ratón o mousepad",
-     6,
-     "Mousepad negro, con apoya muñecas de gel, superficie de tela y base de goma antideslizante"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=4644-163-COT26",
-   "sin_detalle": false,
-   "descripcion": "Conaf requiere accesorios computacionales para el programa Área de Intervención Vivero el Mallín. El proveedor debe registrar en el portal de Mercado Público las especificaciones técnicas de los productos y/o adjuntar ficha de las especificaciones técnicas de los productos ofertados.*Este monto considera el despacho de los productos. Las ofertas que superen el presupuesto disponible serán declaradas inadmisibles y no continuarán en el proceso de evaluación.",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
   {
    "tipo": "OPORTUNIDAD",
    "motivos": [
@@ -1679,6 +1620,259 @@
   {
    "tipo": "POSIBLE",
    "motivos": [
+    "alargadores",
+    "eléctricos",
+    "enchufes"
+   ],
+   "nueva": true,
+   "codigo": "4778-421-COT26",
+   "nombre": "RELE-SOLICITUD N° 11.395-2026-UNIDAD DE DIALISIS",
+   "organismo": "SERVICIO NACIONAL DE SALUD HOSPITAL DE C",
+   "unidad": "Compras de Insumos y Servicios Generales",
+   "monto": 1559890,
+   "cierre_iso": "2026-11-27T17:00:00-03:00",
+   "publicacion": "25-11 16:58",
+   "publicacion_iso": "2026-11-25T16:58:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "73171510",
+     "Servicios de fabricación de accesorios o suministros eléctricos",
+     4,
+     "DIFERENCIAL 2X40A 30MA LEXO"
+    ],
+    [
+     "73171510",
+     "Servicios de fabricación de accesorios o suministros eléctricos",
+     4,
+     "AUTOMATICO 1 x 32 A CURVA C6KA LEXO"
+    ],
+    [
+     "73171510",
+     "Servicios de fabricación de accesorios o suministros eléctricos",
+     11,
+     "TUBO METALICO EMT 32mm 3 MTS"
+    ],
+    [
+     "73171510",
+     "Servicios de fabricación de accesorios o suministros eléctricos",
+     32,
+     "ABRAZADERA EMT CADDY 1\" 32mm EFLEX (KS)6"
+    ],
+    [
+     "73171510",
+     "Servicios de fabricación de accesorios o suministros eléctricos",
+     6,
+     "TERMINAL EMT 32mm"
+    ],
+    [
+     "73171510",
+     "Servicios de fabricación de accesorios o suministros eléctricos",
+     20,
+     "COPLA EMT 32mm"
+    ],
+    [
+     "73171510",
+     "Servicios de fabricación de accesorios o suministros eléctricos",
+     7,
+     "CURVA EMT IEC 90° 32 mm."
+    ],
+    [
+     "73171510",
+     "Servicios de fabricación de accesorios o suministros eléctricos",
+     12,
+     "CAJA EMT PRE GALVANIZADA TIPO CHIQUI 5/8\""
+    ],
+    [
+     "73171510",
+     "Servicios de fabricación de accesorios o suministros eléctricos",
+     14,
+     "TUBO EMT 20mm 3mts"
+    ],
+    [
+     "73171510",
+     "Servicios de fabricación de accesorios o suministros eléctricos",
+     8,
+     "CURVA EMT IEC 90° 20mm SP/DCH"
+    ],
+    [
+     "73171510",
+     "Servicios de fabricación de accesorios o suministros eléctricos",
+     20,
+     "COPLA EMT 20mm"
+    ],
+    [
+     "73171510",
+     "Servicios de fabricación de accesorios o suministros eléctricos",
+     25,
+     "TERMINAL EMT 20mm (KS)"
+    ],
+    [
+     "73171510",
+     "Servicios de fabricación de accesorios o suministros eléctricos",
+     2,
+     "TARUGO CON CLAVO 8x80 (BOLSA DE 50 UDS)"
+    ],
+    [
+     "73171510",
+     "Servicios de fabricación de accesorios o suministros eléctricos",
+     40,
+     "ABRAZADERA EMT CADDY 1/2\" 20mm EFLEX (KS)"
+    ],
+    [
+     "73171510",
+     "Servicios de fabricación de accesorios o suministros eléctricos",
+     1,
+     "FERRUL NARANJO LEX 12AWG BOLSA DE 100 UDS"
+    ],
+    [
+     "73171510",
+     "Servicios de fabricación de accesorios o suministros eléctricos",
+     1,
+     "FERRUL VERDE LEX 10AWG BOLSA DE 100 UDS"
+    ],
+    [
+     "73171510",
+     "Servicios de fabricación de accesorios o suministros eléctricos",
+     2,
+     "CINTA GOMA 2AUTOFUNDENTE NEGRA  10mm 5mts"
+    ],
+    [
+     "73171510",
+     "Servicios de fabricación de accesorios o suministros eléctricos",
+     2,
+     "CINTA AISLADORA ANTIFLAMA 3mT. NEGRA 600V"
+    ],
+    [
+     "73171510",
+     "Servicios de fabricación de accesorios o suministros eléctricos",
+     1,
+     "TERMINAL ANILLO AMARILLO LEXO 10-12 AWG 4,3mm (BOLSA 50uds)"
+    ],
+    [
+     "73171510",
+     "Servicios de fabricación de accesorios o suministros eléctricos",
+     8,
+     "TOMA CORRIENTE SIMPLE 10/16A 250V BLANCO ARM. LEXO"
+    ],
+    [
+     "73171510",
+     "Servicios de fabricación de accesorios o suministros eléctricos",
+     4,
+     "TOMA CORRIENTE DUPLEX 10/16A 250V BLANCO"
+    ],
+    [
+     "73171510",
+     "Servicios de fabricación de accesorios o suministros eléctricos",
+     1,
+     "BARRA TOMA A TIERRA 1/2\" 1,5mt"
+    ],
+    [
+     "73171510",
+     "Servicios de fabricación de accesorios o suministros eléctricos",
+     1,
+     "CONECTOR BRONCE PARA BARRA TOMA TIERRA 1/2\""
+    ],
+    [
+     "73171510",
+     "Servicios de fabricación de accesorios o suministros eléctricos",
+     1,
+     "RIEL DIN PERFORADO 35 x 7,5mm TIRA 1 mt. LEXO"
+    ],
+    [
+     "73171510",
+     "Servicios de fabricación de accesorios o suministros eléctricos",
+     1,
+     "BARRA REPARTIDORA TETRAPOLAR 15P 125A"
+    ],
+    [
+     "73171510",
+     "Servicios de fabricación de accesorios o suministros eléctricos",
+     2,
+     "AUTOMATICO 1x20A CURVA C Y 6KA LEXO"
+    ],
+    [
+     "73171510",
+     "Servicios de fabricación de accesorios o suministros eléctricos",
+     2,
+     "DIFERENCIAL 2x25A 30MA LEXO"
+    ],
+    [
+     "73171510",
+     "Servicios de fabricación de accesorios o suministros eléctricos",
+     3,
+     "CAJA EMT PREGALVANIZADA 8 ENTRADAS 100x100x65mm"
+    ],
+    [
+     "73171510",
+     "Servicios de fabricación de accesorios o suministros eléctricos",
+     1,
+     "CABLE LH HO7Z1-K 4 mm2 ROJO 100 mts."
+    ],
+    [
+     "73171510",
+     "Servicios de fabricación de accesorios o suministros eléctricos",
+     1,
+     "CABLE LH HO7Z1-K 4 mm2 BLANCO 100 mts."
+    ],
+    [
+     "73171510",
+     "Servicios de fabricación de accesorios o suministros eléctricos",
+     1,
+     "CABLE LH HO7Z1-K 4 mm2 VERDE 100 mts."
+    ],
+    [
+     "73171510",
+     "Servicios de fabricación de accesorios o suministros eléctricos",
+     1,
+     "CABLE LH HO7Z1-K 4 mm2 AZUL 100 mts."
+    ],
+    [
+     "73171510",
+     "Servicios de fabricación de accesorios o suministros eléctricos",
+     3,
+     "CABLE LH HO7Z1-K 4 mm2 NEGRO 100 mts."
+    ],
+    [
+     "73171510",
+     "Servicios de fabricación de accesorios o suministros eléctricos",
+     1,
+     "CABLE LH HO7Z1-K 6 mm2 VERDE 50 mts."
+    ],
+    [
+     "73171510",
+     "Servicios de fabricación de accesorios o suministros eléctricos",
+     1,
+     "CABLE LH HO7Z1-K 6 mm2 ROJO 50 mts."
+    ],
+    [
+     "73171510",
+     "Servicios de fabricación de accesorios o suministros eléctricos",
+     1,
+     "CABLE LH HO7Z1-K 6 mm2 AZUL 50 mts."
+    ],
+    [
+     "73171510",
+     "Servicios de fabricación de accesorios o suministros eléctricos",
+     1,
+     "CABLE LH HO7Z1-K 6 mm2 NEGRO 50 mts."
+    ],
+    [
+     "73171510",
+     "Servicios de fabricación de accesorios o suministros eléctricos",
+     1,
+     "CABLE LH HO7Z1-K 6 mm2 BLANCO 50 mts."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=4778-421-COT26",
+   "sin_detalle": false,
+   "descripcion": "Se solicita la adquisición de materiales eléctricos destinados a la habilitación y normalización de puntos de conexión para equipos en dependencias del Hospital Regional de Coyhaique.\nEn la unidad de diálisis,se requiere habilitar nuevos enchufes eléctricos en la bodega destinada a los equipos y habilitar dos puntos eléctricos en la sala de pacientes,con el objetivo de eliminar el uso de alargadores actualmente existentes en la unidad.",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
     "eléctrico"
    ],
    "nueva": false,
@@ -1707,6 +1901,24 @@
   }
  ],
  "historial": [
+  {
+   "codigo": "4644-163-COT26",
+   "nombre": " Accesorios Computacionales, Área de Intervención Vivero el Mallín SIC 508 SIRE 475",
+   "organismo": "CORP NACIONAL FORESTAL",
+   "monto": 250000,
+   "cierre_iso": "2026-11-25T17:00:00-03:00",
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Cables eléctricos y accesorios"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=4644-163-COT26",
+   "primera_vista_iso": "2026-11-24T17:00:29-03:00",
+   "removida_iso": "2026-11-25T18:00:25-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
   {
    "codigo": "1078779-26-COT26",
    "nombre": "Adquisición de 1 (un) equipo de aire acondicionado",
@@ -2591,42 +2803,6 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=1092-93-COT26",
    "primera_vista_iso": "2026-11-13T15:00:24-03:00",
    "removida_iso": "2026-11-19T05:00:21-03:00",
-   "estado_api": "",
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "1057062-533-COT26",
-   "nombre": "Adquisición de insumos de laboratorio para el Centro de Simulación, FISABS N°1872 – URY 2457",
-   "organismo": "UNIVERSIDAD DE AYSEN",
-   "monto": 7244000,
-   "cierre_iso": "2026-11-18T18:00:00-03:00",
-   "tipo": "POSIBLE",
-   "motivos": [
-    "alargador"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1057062-533-COT26",
-   "primera_vista_iso": "2026-11-12T18:12:42-03:00",
-   "removida_iso": "2026-11-18T19:00:26-03:00",
-   "estado_api": "",
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "1691-2128-COT26",
-   "nombre": " EFCC- ASAS DE RECECTOSCOPIO COD.: 27050 G K.STORZ UD PARA REPOSICIÓN DE INS. CLINICOS HRC",
-   "organismo": "SERVICIO NACIONAL DE SALUD HOSPITAL DE C",
-   "monto": 1720000,
-   "cierre_iso": "2026-11-18T17:18:00-03:00",
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Suministros y accesorios eléctricos"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1691-2128-COT26",
-   "primera_vista_iso": "2026-11-16T13:00:26-03:00",
-   "removida_iso": "2026-11-18T18:00:27-03:00",
    "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,
