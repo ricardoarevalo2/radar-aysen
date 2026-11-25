@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-25T00:37:13.372454-03:00",
+ "actualizado": "2026-11-25T01:00:24.454898-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
  "total_region": 304,
@@ -1585,7 +1585,7 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=1691-2151-COT26",
    "primera_vista_iso": "2026-11-20T12:00:26-03:00",
    "removida_iso": "2026-11-24T10:00:30-03:00",
-   "estado_api": null,
+   "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,
    "adj_iso": null
@@ -2294,7 +2294,7 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=4066-537-COT26",
    "primera_vista_iso": "2026-11-20T12:00:26-03:00",
    "removida_iso": "2026-11-24T07:00:32-03:00",
-   "estado_api": null,
+   "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,
    "adj_iso": null
