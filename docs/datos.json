@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-11-25T14:00:24.842915-03:00",
+ "actualizado": "2026-11-25T15:00:23.061304-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
- "total_region": 281,
+ "total_region": 287,
  "rubros": {
   "80141600": "Ventas y marketing",
   "82101600": "Publicidad en medios no impresos",
@@ -634,6 +634,35 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=3797-561-COT26",
    "sin_detalle": false,
    "descripcion": "Según aprobación de decreto exento N°2388 de fecha 05 de noviembre de 2026 y complementado mediante Decreto Exento N°2489 de fecha 18 de noviembre de 2025. Se precisa adquirir producción integral de servicio de confitería y entretención para el correcto desarrollo y cumplimiento de la actividad, Navidad Urbana. Insertas en dicho programa.",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Ventas y marketing"
+   ],
+   "nueva": true,
+   "codigo": "1746-273-COT26",
+   "nombre": "IMPRESO DE LIBRO DE PREVENCIÓN Y CONTROL DE HANTAVIRUS (567 DSP)",
+   "organismo": "SUBSECRETARIA DE SALUD PUBLICA",
+   "unidad": "Seremi de Salud XI Región",
+   "monto": 1000000,
+   "cierre_iso": "2026-11-26T16:00:00-03:00",
+   "publicacion": "25-11 14:15",
+   "publicacion_iso": "2026-11-25T14:15:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "80141618",
+     "Agencias de marketing de ventas, incluidas las impresiones",
+     450,
+     "Servicio de impresión de libros prevención y control de Hantavirus, de acuerdo con especificaciones indicadas en el adjunto"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1746-273-COT26",
+   "sin_detalle": false,
+   "descripcion": "Solicitado mediante Pedido de Materiales N° 567 del Departamento de Salud Pública",
    "en_gracia": false,
    "desaparecida_iso": ""
   },
@@ -1973,63 +2002,6 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=2495-678-COT26",
    "primera_vista_iso": "2026-11-17T17:00:24-03:00",
    "removida_iso": "2026-11-18T17:00:27-03:00",
-   "estado_api": "",
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "973172-5-COT26",
-   "nombre": "JUEGOS RECREATIVOS PARA ACTIVIDAD DE FIN DE AÑO BIENESTAR ",
-   "organismo": "SII Oficina de Bienestar",
-   "monto": 680000,
-   "cierre_iso": "2026-11-18T14:30:00-03:00",
-   "tipo": "POSIBLE",
-   "motivos": [
-    "radio"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=973172-5-COT26",
-   "primera_vista_iso": "2026-11-17T15:00:50-03:00",
-   "removida_iso": "2026-11-18T15:00:24-03:00",
-   "estado_api": "",
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "1057062-549-COT26",
-   "nombre": "Servicio de emisión de spots en radioemisora local de Puerto Aysén",
-   "organismo": "UNIVERSIDAD DE AYSEN",
-   "monto": 1100000,
-   "cierre_iso": "2026-11-18T14:30:00-03:00",
-   "tipo": "POSIBLE",
-   "motivos": [
-    "radiales",
-    "radio",
-    "radioemisora",
-    "spots"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1057062-549-COT26",
-   "primera_vista_iso": "2026-11-17T15:00:50-03:00",
-   "removida_iso": "2026-11-18T15:00:24-03:00",
-   "estado_api": "",
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "1153624-55-COT26",
-   "nombre": "SERVICIO DE TRANSPORTE PARA VISITA RAGIONAL",
-   "organismo": "SUBSECRETARIA DE RELACIONES ECONOMICAS INTERNACIONALES",
-   "monto": 350000,
-   "cierre_iso": "2026-11-18T14:18:00-03:00",
-   "tipo": "POSIBLE",
-   "motivos": [
-    "difusión"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1153624-55-COT26",
-   "primera_vista_iso": "2026-11-16T10:00:36-03:00",
-   "removida_iso": "2026-11-18T15:00:24-03:00",
    "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,
