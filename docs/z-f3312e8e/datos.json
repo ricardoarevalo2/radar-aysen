@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-11-25T12:00:29.056464-03:00",
+ "actualizado": "2026-11-25T14:00:24.842915-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
- "total_region": 297,
+ "total_region": 281,
  "rubros": {
   "25172700": "Aire acondicionado",
   "25173900": "Componentes eléctricos",
@@ -19,266 +19,6 @@
   "39121400": "Conectores, enchufes y terminales"
  },
  "filas": [
-  {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Cajas y accesorios eléctricos"
-   ],
-   "nueva": false,
-   "codigo": "3950-758-COT26",
-   "nombre": "articulos para vacunatorio",
-   "organismo": "DIRECCION SALUD RURAL",
-   "unidad": "Dirección de Salud Rural",
-   "monto": 1000000,
-   "cierre_iso": "2026-11-25T12:00:00-03:00",
-   "publicacion": "24-11 11:23",
-   "publicacion_iso": "2026-11-24T11:23:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "24111503",
-     "Bolsas de plástico",
-     400,
-     "BOLSA HERMETICA 30X40CM"
-    ],
-    [
-     "39121310",
-     "Cajas de uso general",
-     24,
-     "CAJAS PLASTICAS CON TAPA Y ASAS ORGANIZADORA 15 LITROS (MEDIDAS 42X32X16CM)"
-    ],
-    [
-     "45101512",
-     "Termo impresora de transferencia para aplicaciones comerciales de imprimir",
-     1,
-     "impresora de etiqueta para rotulo tubos toma de muestra. características: conectividad USB, compatible con rollos con rollos continuos de impresión 2 colores( 62mm x 5 metros), soporte del sistema operativo compatible con Windows, tecnología de impresión térmica directa, impresión de alta resolución(hasta 300 x 600 ppp) para texto y gráficos nítidos, 93 etiquetas por minutos."
-    ],
-    [
-     "55121606",
-     "Etiquetas autoadhesivas",
-     50,
-     "etiquetas autoadhesiva rollo continuo de 62mm x 30,48 metros. papel térmico resistente al agua, aceite y manchas. similar a brother dk2205"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=3950-758-COT26",
-   "sin_detalle": false,
-   "descripcion": "incluir despacho en cotización",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
-  {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Materiales de física de electricidad"
-   ],
-   "nueva": false,
-   "codigo": "1233615-1041-COT26",
-   "nombre": "RMG-SOL01535-Liceo Luisa Rabanal, Equipamiento para simulación EMTP 29.05, despacho incluido a Chile Chico.",
-   "organismo": "Servicio Local de Educación Pública Aysén",
-   "unidad": "Servicio Local de Educación Pública Aysén",
-   "monto": 7000000,
-   "cierre_iso": "2026-11-25T12:00:00-03:00",
-   "publicacion": "23-11 15:03",
-   "publicacion_iso": "2026-11-23T15:03:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "60104905",
-     "Placas de demostración de electricidad",
-     1,
-     "Según archivo adjunto, equipamiento para simulación EMTP Electricidad"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1233615-1041-COT26",
-   "sin_detalle": false,
-   "descripcion": "Según detalle adjunto, despacho incluido a Chile Chico.",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
-  {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Cajas y accesorios eléctricos"
-   ],
-   "nueva": false,
-   "codigo": "1182705-230-COT26",
-   "nombre": " ADQUISICION DE FUNGIBLES PARA INSTALACION ELECTRICA, FOLIO N°238",
-   "organismo": "CENTRO DE FORMACIÓN TÉCNICA DE LA REGIÓN DE AYSÉN DEL GENERAL CARLOS I",
-   "unidad": "FINANZAS",
-   "monto": 117000,
-   "cierre_iso": "2026-11-25T12:04:00-03:00",
-   "publicacion": "23-11 11:55",
-   "publicacion_iso": "2026-11-23T11:55:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "39121311",
-     "Accesorios eléctricos",
-     300,
-     "Salidas de caja 20 mm"
-    ],
-    [
-     "39121311",
-     "Accesorios eléctricos",
-     150,
-     "Salidas de caja 16 mm"
-    ],
-    [
-     "39121311",
-     "Accesorios eléctricos",
-     150,
-     "Caja Derivación Embutida"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1182705-230-COT26",
-   "sin_detalle": false,
-   "descripcion": "Se requiere la compra de fungibles de instalaciones eléctrica para la carrera TNS en electricidad, del CFT de la Región de Aysén. Los productos deben ser entregados en oficinas ubicada en Sargento Aldea 533, Puerto Aysén.",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "certificación sec"
-   ],
-   "nueva": true,
-   "codigo": "3797-553-COT26",
-   "nombre": "INSUMOS LABORES FAENAMIENTO CFA",
-   "organismo": "I MUNICIPALIDAD DE COCHRANE",
-   "unidad": "I MUNICIPALIDAD DE COCHRANE",
-   "monto": 2500000,
-   "cierre_iso": "2026-11-25T12:45:00-03:00",
-   "publicacion": "24-11 12:40",
-   "publicacion_iso": "2026-11-24T12:40:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "27112802",
-     "Hojas de sierra",
-     1,
-     "INSUMOS:\n(250) Buso desechable blanco impermeable engomado; talla xxl\n(2) Fogón campero industrial, con certificación SEC; medidas base: 46.5 x 42.5 cm, de 3 alturas o similar, con capacidad de soporte de 100 kg\n(1) Pesa romana digital colgante 1000 kg, con batería recargable\n(20) Hoja sierra carnicera corta hueso 18\", 9 dientes por pukgada.\n(4) Pack 5 hojas sierra sable tipo makita o equivalente 300 mm\n(200) Par guante de goma albañil negro"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=3797-553-COT26",
-   "sin_detalle": false,
-   "descripcion": "Adquisición de insumos para labores de faenamiento en CFA Cochrane.",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
-  {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Conectores, enchufes y terminales",
-    "Interruptores, controles y relés"
-   ],
-   "nueva": true,
-   "codigo": "1195-612-COT26",
-   "nombre": "REPACIONES CAMIONES RECOLECTORES MODELO ATEGO 1726",
-   "organismo": "I MUNICIPALIDAD DE COYHAIQUE",
-   "unidad": "Ilustre Municipalidad de Coyhaique",
-   "monto": 7100000,
-   "cierre_iso": "2026-11-25T13:30:00-03:00",
-   "publicacion": "24-11 13:06",
-   "publicacion_iso": "2026-11-24T13:06:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "15121802",
-     "Lubricantes anticorrosivos",
-     36,
-     "-36 ENGRASE DE PUNTOS INCLUIDO DESLIZADERAS DE CARROZERIA. CAMION STGV-70"
-    ],
-    [
-     "25171718",
-     "Kits de reparación de frenos",
-     1,
-     "-1 servicio revicion de frenos, contemplar horas de servicio e insumos camion STGV-71."
-    ],
-    [
-     "25171905",
-     "Válvulas de neumáticos",
-     2,
-     "-RECAMBIO DE 2 NUEMATICOS MEDIDA 11R X 22.5 DIRECCIONALES. CAMION STGV-70"
-    ],
-    [
-     "26111904",
-     "Embrague semi centrífuga",
-     1,
-     "-1 REPARACION DE FUGA DE AIRE EN EJE FLOTANTE CAMION STGV-74\n-1 REPARACION DE FURA DE AIRE EN MANDO DE CABINA CAMION STGV-70"
-    ],
-    [
-     "27121602",
-     "Cilindros hidráulicos",
-     1,
-     "-1 SERVICIO DE DESMONTAJE Y REPARACION DE CILINDROS ALZARA TACHOS, CONTEMPLANDO CAMBIO DE SELLOS Y PULIDO DE VASTAGO CAMION STGV-74"
-    ],
-    [
-     "31161613",
-     "Pernos de tracción",
-     3,
-     "-3 CAMBIO DE PERNO, HILOS Y TUERCAS DE MASA TRASERA DERECHA. CONTEMPLAR INSUMO Y MANO DE OBRA CAMION STGV-70"
-    ],
-    [
-     "31201516",
-     "Cinta reflectiva",
-     1,
-     "-1 INSTALACION CINTA REFLECTANTE, ONTEMPLAR INSUMOS Y MANO DE OBRA CAMION STGV-70"
-    ],
-    [
-     "39101601",
-     "ampolletas halógenas",
-     10,
-     "-5  RECAMBIO DE AMPOLLETAS CONTEMPLAR INSUMO Y MANO DE OBRA. CAMION STGV-71\n-2  RECAMBIO DE AMPOLLETAS CONTEMPLAR INSUMO Y MANO DE OBRA. CAMION STGV-74\n-3  RECAMBIO DE AMPOLLETAS CONTEMPLAR INSUMO Y MANO DE OBRA. CAMION STGV-70"
-    ],
-    [
-     "39101608",
-     "Focos cialiticos",
-     9,
-     "-4 RECAMBIO DE FAROL LED 2.5\"  CONTEMPLAR INSUMO Y MANO DE OBRA. CAMION STGV-71\n-1 RECAMBIO DE BALIZA CONTEMPLAR INSUMO Y MANO DE OBRA. CAMION STGV-71\n-2 RECAMBIO DE FAROL LED 2.5\"  CONTEMPLAR INSUMO Y MANO DE OBRA. CAMION STGV-70\n-1 RECAMBIO DE FOCO TRASERO  CONTEMPLAR INSUMO Y MANO DE OBRA. CAMION STGV-70\n-1 RECAMBIO DE FAROL LED 2.5\"  CONTEMPLAR INSUMO Y MANO DE OBRA. CAMION STGV-74"
-    ],
-    [
-     "39121432",
-     "Terminales eléctricos",
-     1,
-     "- 1 REPARACION Y RECAMBIO TERMINAL 90° YIK. CONTEMPLAR SERVICIO E INSUMO"
-    ],
-    [
-     "39121525",
-     "Interruptores infusibles",
-     1,
-     "-1 RECAMBIO DE RELAY, CONTEMPLAR INSUMO Y MANO DE OBRA CAMION STGV-74"
-    ],
-    [
-     "40142002",
-     "Mangueras para aire",
-     3,
-     "- 3 INSTALACIONES DE  MANGUERA DE AIRE CON ACOPLE PARA CAMION STGV-70, STGV-71 Y STGV-74. CONTEMPLAR SERVICIO E INSUMOS."
-    ],
-    [
-     "73181001",
-     "Servicios de tornería",
-     2,
-     "-ELABORACION E INSTALACION DE PASADOR DE PRENSA, CONTEMPLAR INSUMOS Y MANO DE OBRA CAMION STGV-70\n-ENDERAZAR PILAR DE TAPABARROS  CAMION STGV-70"
-    ],
-    [
-     "73181908",
-     "Servicios de soldadura",
-     1,
-     "-REPARACION CON SOLDADURA DE ESCAPE, CONTEMPLAR DESMONTAJE Y MONTAJE, CAMION STGV-70"
-    ],
-    [
-     "81101701",
-     "Ingeniería eléctrica",
-     3,
-     "-REPARACIO RED ELECTRICA DE FOCOS SUPERIORES, LINEA ELECTRICA PARA BALIZAS, LINEA ELECTRICA FOCOS DE POSICION. CAMION STGV-71\n-REPARACION RED ELECTRICA Y RED ELECTRICA DE ALZA VIDRIOS. CAMION STGV-70\n-REPARACION LINEA FOCOS INFERIORES TRASEROS Y CAMBIO POSICION DE BALIZA, REVICION Y CHEQUEO DE LUCES CAMION STGV-74"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1195-612-COT26",
-   "sin_detalle": false,
-   "descripcion": "SE REQUIERE REPARACIONES VARIAS DE LOS CAMIONES RECOLECTORES MODELO ATEGO 1726, MARCA MERCEDES BENZ, PATENTE STGV-70, STGV-71 Y STGV-74. (SE ADJUNTAM PADRONES). ENTRE ELLAS SE CONTEMPLA REVICION ELECTRICA,CAMBIANDO AMPOLLETAS, FAROLES LED, FOCOS, RELAY, PERNOS, INSTALACION DE CINTA REFLECTANTES, ENTRE OTRAS REPARACIONES QUE SE DETALLAN SEGUN PATENTE. SE DARA PRIORIDAD A PROVEEDOR LOCAL.",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
   {
    "tipo": "POSIBLE",
    "motivos": [
@@ -1219,6 +959,41 @@
   {
    "tipo": "OPORTUNIDAD",
    "motivos": [
+    "Conductores eléctricos"
+   ],
+   "nueva": true,
+   "codigo": "3797-562-COT26",
+   "nombre": "ALARGADORES",
+   "organismo": "I MUNICIPALIDAD DE COCHRANE",
+   "unidad": "I MUNICIPALIDAD DE COCHRANE",
+   "monto": 110000,
+   "cierre_iso": "2026-11-26T13:00:00-03:00",
+   "publicacion": "25-11 12:57",
+   "publicacion_iso": "2026-11-25T12:57:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "26121536",
+     "Cuerda de extensión",
+     5,
+     "ALARGADOR TIPO ZAPATILLA DE 4 ENCHUFES DE 3 MTS DE LARGO"
+    ],
+    [
+     "26121536",
+     "Cuerda de extensión",
+     5,
+     "ALARGADOR TIPO ZAPATILLA DE 4 ENCHUFES DE 5 MTS DE LARGO"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=3797-562-COT26",
+   "sin_detalle": false,
+   "descripcion": "Adquisición de alargadores para la implementación de los adornos navideños en la plaza de armas de la comuna.",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
     "Cables eléctricos y accesorios"
    ],
    "nueva": false,
@@ -1242,6 +1017,275 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=868-108-COT26",
    "sin_detalle": false,
    "descripcion": "El Gobierno Regional de Aysén, requiere, CABLES DE CONECCIONES HDMI 2.1, el cambio de los antiguos proyectores a televisores, y la actualización de los notebooks que son utilizados para las reuniones, requiere de cables de conexiones HDMI 2.1 para cada una de las 8 salas de reuniones.-",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Interruptores, controles y relés"
+   ],
+   "nueva": true,
+   "codigo": "4644-164-COT26",
+   "nombre": " MATERIAL DE FAENA III REMESA GORE MAÑIHUALES, SIC:514 SIRE:477",
+   "organismo": "CORP NACIONAL FORESTAL",
+   "unidad": "XI Región - Oficina Provincial Aysen",
+   "monto": 5600000,
+   "cierre_iso": "2026-11-26T14:00:00-03:00",
+   "publicacion": "25-11 12:53",
+   "publicacion_iso": "2026-11-25T12:53:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "11111501",
+     "Tierra",
+     5,
+     "Tierra de color roja. Bolsa de 1 kilo."
+    ],
+    [
+     "12352310",
+     "Siliconas",
+     8,
+     "Tubo de silicona transparente, sellada universal para pistola calafatera. 280ml."
+    ],
+    [
+     "13102011",
+     "Nylon - Poliamida (PA)",
+     2,
+     "Nylon para orilladora de pasto de 2,7 mm. Carrete industrial  largo 3, 73 metros."
+    ],
+    [
+     "24101506",
+     "Carretillas de mano",
+     15,
+     "Cámara  de rueda para carretilla 350x8."
+    ],
+    [
+     "24101611",
+     "Eslingas",
+     8,
+     "Eslinga tensor 50mmx4tonx9m"
+    ],
+    [
+     "27111508",
+     "Sierras",
+     9,
+     "Serrucho carpintero 22'', color mango rojo con azul, Dimensiones Profundidad 55 cm, Largo 55 cm. Material de Acero/plástico."
+    ],
+    [
+     "27111604",
+     "Hachas de mano",
+     4,
+     "Hacha de mano mango fibra de vidrio 600 grs."
+    ],
+    [
+     "27111707",
+     "Llaves ajustables",
+     1,
+     "Juego llaves combinadas fijas, 17 piezas de 6-32mm, acero cromado."
+    ],
+    [
+     "27111722",
+     "Portadados",
+     1,
+     "Set de dados de impacto 1\" y 3/4 profesional de 26 piezas."
+    ],
+    [
+     "27111801",
+     "Cintas métricas",
+     5,
+     "Cinta o huincha métrica  de 7,5 metros  con un ancho estándar de hoja de 25 mm aprox."
+    ],
+    [
+     "27111803",
+     "Escuadras",
+     3,
+     "Escuadra metálica carpintero 10\" con escalas milimétricas y en pulgadas para trazos  de 90° y 45°."
+    ],
+    [
+     "27112001",
+     "Machetes",
+     8,
+     "Machete tipo Truper. Largo de la hoja 18\"."
+    ],
+    [
+     "27112007",
+     "Tijeras de podar",
+     8,
+     "Tijerón de poda extensible de 60 a 84 cm."
+    ],
+    [
+     "27112708",
+     "Lijadoras mecánicas",
+     20,
+     "Lija al agua, grano 80."
+    ],
+    [
+     "27112802",
+     "Hojas de sierra",
+     100,
+     "Hoja de sierra 12\", 24 dientes por pulgada, espesor de 0,65mm, largo de 30cm."
+    ],
+    [
+     "27112803",
+     "Fresas de escariar con mango",
+     15,
+     "Fresas (o brocas) para router tipo Truper de 1/2\", corte recto, largo 55,5mm."
+    ],
+    [
+     "27112803",
+     "Fresas de escariar con mango",
+     25,
+     "Fresas madera recta toma de 1/4\"50mm corte y 76mm corte."
+    ],
+    [
+     "31151502",
+     "Cuerda de poliéster",
+     10,
+     "Cuerda cordel de amarre de 8mmx10 metros"
+    ],
+    [
+     "31161503",
+     "Clavo-tornillo",
+     50,
+     "Clavos corrientes de 4\". Aplicación: Madera. Bolsa de 1 kg."
+    ],
+    [
+     "31161503",
+     "Clavo-tornillo",
+     15,
+     "Tornillos para madera de 6X 2 pulgadas. Bolsa de 100 unidades. Cabeza: Avellanada tipo Phillips."
+    ],
+    [
+     "31161503",
+     "Clavo-tornillo",
+     8,
+     "Clavo de techo helicoidal de 2 1/2\".Terminación: zincado (galvanizado), Formato en bolsa de 100 unidades."
+    ],
+    [
+     "31161601",
+     "Pernos de anclaje",
+     10,
+     "Pernos anclaje metálicos para Wc, Tipo de tornillo: Tirafondo, Forma de la cabeza: Hexagonal."
+    ],
+    [
+     "31161606",
+     "Cerrojos de puerta",
+     6,
+     "Bisagra de pasador suelto zincada de 3 × 3 pulgadas."
+    ],
+    [
+     "31161606",
+     "Cerrojos de puerta",
+     10,
+     "Bisagra 2 1/2\". Pack de 2 unidades"
+    ],
+    [
+     "31161606",
+     "Cerrojos de puerta",
+     10,
+     "Bisagra 1 1/2\". Pack de 2 unidades."
+    ],
+    [
+     "31162108",
+     "Anclajes de amarrar",
+     100,
+     "Amarra plástica 100cm."
+    ],
+    [
+     "31162906",
+     "Abrazaderas de manguera o tubo",
+     20,
+     "Abrazadera metálica zincada Manguera de 12x20mm."
+    ],
+    [
+     "31201516",
+     "Cinta reflectiva",
+     8,
+     "Cinta reflectante, color: blanca con rojo, 45 metros."
+    ],
+    [
+     "31211507",
+     "Pinturas en aerosol",
+     165,
+     "Pintura spray uso general rojo 400ml."
+    ],
+    [
+     "31211906",
+     "Rodillos de pintar",
+     10,
+     "Rodillo espuma poliéster 7 cm."
+    ],
+    [
+     "31241602",
+     "Discos de cristal",
+     100,
+     "Disco flap acero  para pulir madera 4 1/2\" grano 120"
+    ],
+    [
+     "31241602",
+     "Discos de cristal",
+     6,
+     "Carda de copa trenzada 3\""
+    ],
+    [
+     "31241602",
+     "Discos de cristal",
+     200,
+     "Disco de corte rápido de acero de 4 1/2\" para esmeriles angulares. Formato 100 unidades."
+    ],
+    [
+     "31241602",
+     "Discos de cristal",
+     150,
+     "Disco Lija madera 150mm Para Lijadora de banda, Largo x ancho: 15 x15cm. 3 unidades por pack."
+    ],
+    [
+     "39101618",
+     "ampolletas de neón",
+     35,
+     "Ampolleta Led 15W, luz blanca."
+    ],
+    [
+     "39121533",
+     "Piezas de interruptor y accesorios",
+     6,
+     "Interruptor simple embutido, Corriente nominal: 10 A, Voltaje: 250V AC, Color: blanco."
+    ],
+    [
+     "40142317",
+     "Codo de tubería",
+     10,
+     "Válvula esférica Compacta PVC gris, Hidráulico Hi-hi 1/2\"."
+    ],
+    [
+     "40142317",
+     "Codo de tubería",
+     10,
+     "Tapa gorro 20 mm PVC hidráulico."
+    ],
+    [
+     "40142317",
+     "Codo de tubería",
+     10,
+     "Terminal He 20 x1/2\" PVC hidráulico."
+    ],
+    [
+     "40142317",
+     "Codo de tubería",
+     10,
+     "Codo 90° de PVC, Hilo Hi, 20x1/2 PVC hidráulico."
+    ],
+    [
+     "46171501",
+     "Candados",
+     5,
+     "Candado mediano (40 mm) con llaves."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=4644-164-COT26",
+   "sin_detalle": false,
+   "descripcion": "CONAF requiere la compra de material de faenas para su área productiva en Proyecto Gore mañihuales para el cumplimiento de metas. Despacho en Oficina Provincial CONAF ubicada en ruta 240 km 2 camino Aysén Coyhaique.",
    "en_gracia": false,
    "desaparecida_iso": ""
   },
@@ -1405,6 +1449,97 @@
   }
  ],
  "historial": [
+  {
+   "codigo": "1195-612-COT26",
+   "nombre": "REPACIONES CAMIONES RECOLECTORES MODELO ATEGO 1726",
+   "organismo": "I MUNICIPALIDAD DE COYHAIQUE",
+   "monto": 7100000,
+   "cierre_iso": "2026-11-25T13:30:00-03:00",
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Conectores, enchufes y terminales",
+    "Interruptores, controles y relés"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1195-612-COT26",
+   "primera_vista_iso": "2026-11-24T14:00:31-03:00",
+   "removida_iso": "2026-11-25T14:00:24-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
+  {
+   "codigo": "3797-553-COT26",
+   "nombre": "INSUMOS LABORES FAENAMIENTO CFA",
+   "organismo": "I MUNICIPALIDAD DE COCHRANE",
+   "monto": 2500000,
+   "cierre_iso": "2026-11-25T12:45:00-03:00",
+   "tipo": "POSIBLE",
+   "motivos": [
+    "certificación sec"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=3797-553-COT26",
+   "primera_vista_iso": "2026-11-24T13:00:34-03:00",
+   "removida_iso": "2026-11-25T14:00:24-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
+  {
+   "codigo": "1182705-230-COT26",
+   "nombre": " ADQUISICION DE FUNGIBLES PARA INSTALACION ELECTRICA, FOLIO N°238",
+   "organismo": "CENTRO DE FORMACIÓN TÉCNICA DE LA REGIÓN DE AYSÉN DEL GENERAL CARLOS I",
+   "monto": 117000,
+   "cierre_iso": "2026-11-25T12:04:00-03:00",
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Cajas y accesorios eléctricos"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1182705-230-COT26",
+   "primera_vista_iso": "2026-11-23T13:00:25-03:00",
+   "removida_iso": "2026-11-25T14:00:24-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
+  {
+   "codigo": "1233615-1041-COT26",
+   "nombre": "RMG-SOL01535-Liceo Luisa Rabanal, Equipamiento para simulación EMTP 29.05, despacho incluido a Chile Chico.",
+   "organismo": "Servicio Local de Educación Pública Aysén",
+   "monto": 7000000,
+   "cierre_iso": "2026-11-25T12:00:00-03:00",
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Materiales de física de electricidad"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1233615-1041-COT26",
+   "primera_vista_iso": "2026-11-23T16:00:27-03:00",
+   "removida_iso": "2026-11-25T14:00:24-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
+  {
+   "codigo": "3950-758-COT26",
+   "nombre": "articulos para vacunatorio",
+   "organismo": "DIRECCION SALUD RURAL",
+   "monto": 1000000,
+   "cierre_iso": "2026-11-25T12:00:00-03:00",
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Cajas y accesorios eléctricos"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=3950-758-COT26",
+   "primera_vista_iso": "2026-11-24T12:00:25-03:00",
+   "removida_iso": "2026-11-25T14:00:24-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
   {
    "codigo": "4609-326-COT26",
    "nombre": "MANGUERA LED Y OTROS",

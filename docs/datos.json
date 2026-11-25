@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-11-25T12:00:29.056464-03:00",
+ "actualizado": "2026-11-25T14:00:24.842915-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
- "total_region": 297,
+ "total_region": 281,
  "rubros": {
   "80141600": "Ventas y marketing",
   "82101600": "Publicidad en medios no impresos",
@@ -14,116 +14,6 @@
   "83121700": "Comunicación social y de masas"
  },
  "filas": [
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "difusión",
-    "publicidad",
-    "publicitarios"
-   ],
-   "nueva": true,
-   "codigo": "2495-701-COT26",
-   "nombre": "set de herramientas ludicas Centro de las Mujeres",
-   "organismo": "I MUNICIPALIDAD DE COYHAIQUE",
-   "unidad": "DIRECCION DESARROLLO COMUNITARIO",
-   "monto": 200000,
-   "cierre_iso": "2026-11-25T12:20:00-03:00",
-   "publicacion": "24-11 12:19",
-   "publicacion_iso": "2026-11-24T12:19:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "60105412",
-     "Materiales educativos de prevención de la violencia o educación de elusión de la violencia",
-     1,
-     "tela PVC, 60*90 cm. que contara con el diseño del efecto iceberg de violencia y contar con hilo para poder colgarse y estuche para transportar."
-    ],
-    [
-     "82101507",
-     "Folletos y catálogos publicitarios, servicios de publicidad y distribución",
-     20,
-     "20 tarjertas con expresiones de violencia de genero, cada tarjeta debe medir 13x7 cm. estar impresa en opalina y contar con un velcro en la parte posterior (adjunto anexo)"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=2495-701-COT26",
-   "sin_detalle": false,
-   "descripcion": "Se requiere la adquisición de set de herramientas ludicas para apoyar las actividades de difusión, promoción del Centro de las Mujeres. 1 pendon Tela PVC diseño grafico adjunto anexo, agregar estuche para transportarlo. Y, 20 tarjetas con expresiones de violencia, se adjunta anexo. Se solicita que los materiales sean nuevos, de buena calidad y que cumplan íntegramente con las especificaciones técnicas requeridas (anexo)",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
-  {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Ventas y marketing"
-   ],
-   "nueva": true,
-   "codigo": "2713-1474-COT26",
-   "nombre": "Servicio de producción y desarrollo de la actividad “One Song \" - DIDECO - Cultura -  1542",
-   "organismo": "I MUNICIPALIDAD DE AYSEN",
-   "unidad": "I.MUNICIPALIDAD AYSEN-ADQUISICIONES",
-   "monto": 700000,
-   "cierre_iso": "2026-11-25T12:30:00-03:00",
-   "publicacion": "24-11 12:10",
-   "publicacion_iso": "2026-11-24T12:10:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "80141607",
-     "Producción de eventos",
-     1,
-     "Actividades del día viernes 27 de noviembre - Jornada teórica-formativa"
-    ],
-    [
-     "80141607",
-     "Producción de eventos",
-     1,
-     "Actividades del día sábado 28 de noviembre - Jornada práctica"
-    ],
-    [
-     "80141607",
-     "Producción de eventos",
-     1,
-     "Actividades del día domingo 29 de noviembre - Presentación musical de cierre"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=2713-1474-COT26",
-   "sin_detalle": false,
-   "descripcion": "Contratación de profesional y/o artista del área musical para planificar y ejecutar el taller presencial “One Song – Taller de Canto”, dirigido a niños, niñas y adolescentes en Puerto Aysén: 2 jornadas formativas de 2 horas (27 y 28 de noviembre), dirección de presentación coral final de 20 min (29 de noviembre) y registro audiovisual. Valorizar cada componente por separado (taller, presentación y registro). Se exige certificado de inhabilidades para trabajar con menores. Ver Anexo Técnico.",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "difusion",
-    "difusión",
-    "publicidad",
-    "publicitarios"
-   ],
-   "nueva": true,
-   "codigo": "2495-702-COT26",
-   "nombre": "FLAYERS CENTRO DE LAS MUJERES",
-   "organismo": "I MUNICIPALIDAD DE COYHAIQUE",
-   "unidad": "DIRECCION DESARROLLO COMUNITARIO",
-   "monto": 400000,
-   "cierre_iso": "2026-11-25T12:39:00-03:00",
-   "publicacion": "24-11 12:37",
-   "publicacion_iso": "2026-11-24T12:37:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "82101507",
-     "Folletos y catálogos publicitarios, servicios de publicidad y distribución",
-     1400,
-     "1400 ejemplares tipo flyer, impresos en papel couché, con terminación y calidad adecuada para difusión institucional. (documento adjunto)"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=2495-702-COT26",
-   "sin_detalle": false,
-   "descripcion": "1400 ejemplares, impresos en papel couché, con terminación y calidad adecuada para difusión institucional pra difusion y ser distribuidos en tribunale competentes a la materia. Monto que deberá considerar impresión y despacho a domicilio.",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
   {
    "tipo": "OPORTUNIDAD",
    "motivos": [
@@ -655,9 +545,46 @@
   {
    "tipo": "POSIBLE",
    "motivos": [
+    "difusión",
+    "publicidad",
+    "publicitarios"
+   ],
+   "nueva": false,
+   "codigo": "2495-701-COT26",
+   "nombre": "set de herramientas ludicas Centro de las Mujeres",
+   "organismo": "I MUNICIPALIDAD DE COYHAIQUE",
+   "unidad": "DIRECCION DESARROLLO COMUNITARIO",
+   "monto": 200000,
+   "cierre_iso": "2026-11-26T12:20:00-03:00",
+   "publicacion": "24-11 12:19",
+   "publicacion_iso": "2026-11-24T12:19:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "60105412",
+     "Materiales educativos de prevención de la violencia o educación de elusión de la violencia",
+     1,
+     "tela PVC, 60*90 cm. que contara con el diseño del efecto iceberg de violencia y contar con hilo para poder colgarse y estuche para transportar."
+    ],
+    [
+     "82101507",
+     "Folletos y catálogos publicitarios, servicios de publicidad y distribución",
+     20,
+     "20 tarjertas con expresiones de violencia de genero, cada tarjeta debe medir 13x7 cm. estar impresa en opalina y contar con un velcro en la parte posterior (adjunto anexo)"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=2495-701-COT26",
+   "sin_detalle": false,
+   "descripcion": "Se requiere la adquisición de set de herramientas ludicas para apoyar las actividades de difusión, promoción del Centro de las Mujeres. 1 pendon Tela PVC diseño grafico adjunto anexo, agregar estuche para transportarlo. Y, 20 tarjetas con expresiones de violencia, se adjunta anexo. Se solicita que los materiales sean nuevos, de buena calidad y que cumplan íntegramente con las especificaciones técnicas requeridas (anexo)",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
     "difusion"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "1758-299-COT26",
    "nombre": "SERVICIO DE MEDIACION LECTORA Y NARRACION ORAL CUENTACUENTOS ",
    "organismo": "SECRETARIA REGIONAL MINISTERIAL DE EDUCACION XI REGION",
@@ -678,6 +605,35 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=1758-299-COT26",
    "sin_detalle": false,
    "descripcion": "SE REQUIERE CONTRATAR SERVICIO DE MEDIACION LECTORA Y NARRACION ORAL (CUENTACUENTOS) EN EL MARCO DE LA DIFUSION DEL PLAN CHILE APRENDE Y AVANZA DEL MINISTERIO DE EDUCACION  A RELIZARSE EN EL MIRADOR  BYPASS EL 28 DE NOVIEMBRE EN LA CIUDAD DE COYHAIQUE",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Ventas y marketing"
+   ],
+   "nueva": true,
+   "codigo": "3797-561-COT26",
+   "nombre": "PRODUCCION CONFITERIA Y ENTRETENCION",
+   "organismo": "I MUNICIPALIDAD DE COCHRANE",
+   "unidad": "I MUNICIPALIDAD DE COCHRANE",
+   "monto": 1550000,
+   "cierre_iso": "2026-11-26T12:50:00-03:00",
+   "publicacion": "25-11 12:48",
+   "publicacion_iso": "2026-11-25T12:48:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "80141607",
+     "Producción de eventos",
+     1,
+     "SERVICIO INTEGRAL DE PRODUCCIÓN DE CONFITERÍA Y ENTRETENCIÓN, QUE CONTEMPLE LA PROVISIÓN Y FUNCIONAMIENTO DE MÓDULOS CON PRODUCTOS DESCRITOS EN LAS EETT ADJUNTAS.\nEL SERVICIO DEBERÁ INCLUIR INSUMOS, EQUIPAMIENTO, PERSONAL DE ATENCIÓN Y OPERACIÓN, TRASLADO, INSTALACIÓN, MONTAJE Y DESMONTAJE, GARANTIZANDO LAS CONDICIONES DE FUNCIONAMIENTO, HIGIENE Y SEGURIDAD NECESARIAS PARA EL DESARROLLO DE LA ACTIVIDAD."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=3797-561-COT26",
+   "sin_detalle": false,
+   "descripcion": "Según aprobación de decreto exento N°2388 de fecha 05 de noviembre de 2026 y complementado mediante Decreto Exento N°2489 de fecha 18 de noviembre de 2025. Se precisa adquirir producción integral de servicio de confitería y entretención para el correcto desarrollo y cumplimiento de la actividad, Navidad Urbana. Insertas en dicho programa.",
    "en_gracia": false,
    "desaparecida_iso": ""
   },
@@ -939,6 +895,45 @@
   }
  ],
  "historial": [
+  {
+   "codigo": "2495-702-COT26",
+   "nombre": "FLAYERS CENTRO DE LAS MUJERES",
+   "organismo": "I MUNICIPALIDAD DE COYHAIQUE",
+   "monto": 400000,
+   "cierre_iso": "2026-11-25T12:39:00-03:00",
+   "tipo": "POSIBLE",
+   "motivos": [
+    "difusion",
+    "difusión",
+    "publicidad",
+    "publicitarios"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=2495-702-COT26",
+   "primera_vista_iso": "2026-11-24T13:00:34-03:00",
+   "removida_iso": "2026-11-25T14:00:24-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
+  {
+   "codigo": "2713-1474-COT26",
+   "nombre": "Servicio de producción y desarrollo de la actividad “One Song \" - DIDECO - Cultura -  1542",
+   "organismo": "I MUNICIPALIDAD DE AYSEN",
+   "monto": 700000,
+   "cierre_iso": "2026-11-25T12:30:00-03:00",
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Ventas y marketing"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=2713-1474-COT26",
+   "primera_vista_iso": "2026-11-24T13:00:34-03:00",
+   "removida_iso": "2026-11-25T14:00:24-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
   {
    "codigo": "1282238-98-COT26",
    "nombre": "Encuentro Arte, Cultura y Patrimonio 11-12-2026 – Proyecto FNDR 22413465 Talleres Patrimoniales.",
@@ -2035,24 +2030,6 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=1153624-55-COT26",
    "primera_vista_iso": "2026-11-16T10:00:36-03:00",
    "removida_iso": "2026-11-18T15:00:24-03:00",
-   "estado_api": "",
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "2713-1410-COT26",
-   "nombre": "Servicio radial y cobertura radial - DIDECO - Promos - 1470",
-   "organismo": "I MUNICIPALIDAD DE AYSEN",
-   "monto": 600000,
-   "cierre_iso": "2026-11-18T13:00:00-03:00",
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Publicidad en medios no impresos"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=2713-1410-COT26",
-   "primera_vista_iso": "2026-11-17T13:00:25-03:00",
-   "removida_iso": "2026-11-18T14:00:25-03:00",
    "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,
