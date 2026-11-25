@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-11-25T10:00:24.938184-03:00",
+ "actualizado": "2026-11-25T11:00:24.937068-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
- "total_region": 299,
+ "total_region": 303,
  "rubros": {
   "80141600": "Ventas y marketing",
   "82101600": "Publicidad en medios no impresos",
@@ -14,36 +14,6 @@
   "83121700": "Comunicación social y de masas"
  },
  "filas": [
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "audiovisual",
-    "registro audiovisual"
-   ],
-   "nueva": false,
-   "codigo": "1282238-98-COT26",
-   "nombre": "Encuentro Arte, Cultura y Patrimonio 11-12-2026 – Proyecto FNDR 22413465 Talleres Patrimoniales.",
-   "organismo": "CORPORACION CULTURAL MUNICIPAL DE COYHAIQUE",
-   "unidad": "CORPORACION CULTURAL MUNICIPAL DE COYHAIQUE",
-   "monto": 2950000,
-   "cierre_iso": "2026-11-25T10:00:00-03:00",
-   "publicacion": "23-11 16:54",
-   "publicacion_iso": "2026-11-23T16:54:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "93141701",
-     "Organizaciones de eventos culturales",
-     1,
-     "Diseño y ejecución del Encuentro Arte, Cultura y Patrimonio el 4 de diciembre de 2026 en el Centro Cultural de Coyhaique (jornada de 4 horas), proyecto FNDR código 3465. Incluye coordinación general, montaje y ambientación de la exhibición de trabajos de los talleres, maestra/o de ceremonia, taller de oficios textiles patrimoniales para hasta 80 personas con materiales, amplificación y registro audiovisual. Detalle en especificaciones adjuntas."
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1282238-98-COT26",
-   "sin_detalle": false,
-   "descripcion": "Diseño y ejecución del Encuentro Arte, Cultura y Patrimonio el 11 de diciembre de 2026 en el Centro Cultural de Coyhaique (jornada de 4 horas), proyecto FNDR código 3465. Incluye coordinación general, montaje y ambientación de la exhibición de trabajos de los talleres, maestra/o de ceremonia, taller de oficios textiles patrimoniales para hasta 80 personas con materiales, amplificación y registro audiovisual. Detalle en especificaciones adjuntas.",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
   {
    "tipo": "POSIBLE",
    "motivos": [
@@ -589,6 +559,65 @@
    "desaparecida_iso": ""
   },
   {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "locución",
+    "radio"
+   ],
+   "nueva": true,
+   "codigo": "4140-114-COT26",
+   "nombre": "ADQUISICION DE AUDIFONOS, FONDOS DE MEDIOS ",
+   "organismo": "I MUNICIPALIDAD DE LAGO VERDE",
+   "unidad": "Adquisiciones",
+   "monto": 110000,
+   "cierre_iso": "2026-11-26T10:10:00-03:00",
+   "publicacion": "25-11 10:03",
+   "publicacion_iso": "2026-11-25T10:03:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "52161514",
+     "Audífonos",
+     1,
+     "AUDIFONO PROFESIONAL PARA LOCUCION DE RADIO"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=4140-114-COT26",
+   "sin_detalle": false,
+   "descripcion": "ADQUISICION  DE 01 AUDIFONO PROFESIONAL PARA LOCUCIÓN DE RADIO",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "difusion"
+   ],
+   "nueva": true,
+   "codigo": "1233615-1044-COT26",
+   "nombre": "NDF/SOL 307/HPV 1 Coyhaique/Botellas para difusion segun detalle adjunto",
+   "organismo": "Servicio Local de Educación Pública Aysén",
+   "unidad": "Servicio Local de Educación Pública Aysén",
+   "monto": 499920,
+   "cierre_iso": "2026-11-26T12:00:00-03:00",
+   "publicacion": "25-11 10:37",
+   "publicacion_iso": "2026-11-25T10:37:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "24122002",
+     "Botellas de plástico",
+     100,
+     "Botellas para difusion segun detalle adjunto"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1233615-1044-COT26",
+   "sin_detalle": false,
+   "descripcion": "El Servicio Local de Educación Publica de Aysen requiere adquirir botellas estampadas segun se detalla en formulario adjunto, el diseño final se coordinara con el proveedor adjudicado",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
    "tipo": "OPORTUNIDAD",
    "motivos": [
     "Publicidad en medios no impresos"
@@ -910,6 +939,25 @@
   }
  ],
  "historial": [
+  {
+   "codigo": "1282238-98-COT26",
+   "nombre": "Encuentro Arte, Cultura y Patrimonio 11-12-2026 – Proyecto FNDR 22413465 Talleres Patrimoniales.",
+   "organismo": "CORPORACION CULTURAL MUNICIPAL DE COYHAIQUE",
+   "monto": 2950000,
+   "cierre_iso": "2026-11-25T10:00:00-03:00",
+   "tipo": "POSIBLE",
+   "motivos": [
+    "audiovisual",
+    "registro audiovisual"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1282238-98-COT26",
+   "primera_vista_iso": "2026-11-23T17:00:24-03:00",
+   "removida_iso": "2026-11-25T11:00:24-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
   {
    "codigo": "2713-1468-COT26",
    "nombre": " Servicio de producción artística y mediación cultural para Borde Cultural – «Entre pluma, papel y acordes - Folio 1538",
