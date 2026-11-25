@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-11-25T11:00:24.937068-03:00",
+ "actualizado": "2026-11-25T12:00:29.056464-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
- "total_region": 303,
+ "total_region": 297,
  "rubros": {
   "25172700": "Aire acondicionado",
   "25173900": "Componentes eléctricos",
@@ -24,7 +24,7 @@
    "motivos": [
     "Cajas y accesorios eléctricos"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "3950-758-COT26",
    "nombre": "articulos para vacunatorio",
    "organismo": "DIRECCION SALUD RURAL",
@@ -284,7 +284,7 @@
    "motivos": [
     "aire acondicionado"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "1078779-26-COT26",
    "nombre": "Adquisición de 1 (un) equipo de aire acondicionado",
    "organismo": "SERVICIO DE SALUD AYSEN CARLOS IBANEZ DEL CAMPO",
@@ -725,7 +725,7 @@
    "motivos": [
     "Gasfitería, calefacción y aire acondicionado"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "930039-41-COT26",
    "nombre": " MANTENIMIENTO PREVENTIVO DE EQUIPOS DE CLIMATIZACIÓN",
    "organismo": "SERVICIO NACIONAL DEL PATRIMONIO CULTURAL",
@@ -754,7 +754,7 @@
    "motivos": [
     "iluminación"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "4066-555-COT26",
    "nombre": "SERVICIO DE AMPLIFICACIÓN, ILUMINACIÓN Y PRESENTACIÓN MUSICAL ENCUENTRO DE ACORDEÓN Y GUITARRA 2026, Segun TDR adjuntos",
    "organismo": "I MUNICIPALIDAD RIO IBANEZ",
@@ -841,7 +841,7 @@
    "motivos": [
     "alargador"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "1057062-564-COT26",
    "nombre": "Adquisición artículos de Librería para talleres DGDE y experiencia estudiantil- FCA N°101 (FISABS 2442 - 2510 - 2511)",
    "organismo": "UNIVERSIDAD DE AYSEN",
@@ -1149,6 +1149,70 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=3791-1206-COT26",
    "sin_detalle": false,
    "descripcion": "ADQUISICION DE MATERIALES DE CONSTRUCCION PARA ADAPTACION DE BAÑO, SEGUN MEMO 153. SE ADJUNTAN ANEXOS.",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Conectores, enchufes y terminales"
+   ],
+   "nueva": true,
+   "codigo": "3950-761-COT26",
+   "nombre": "MATERIAL PARA REHABILITACION",
+   "organismo": "DIRECCION SALUD RURAL",
+   "unidad": "Dirección de Salud Rural",
+   "monto": 500000,
+   "cierre_iso": "2026-11-26T11:30:00-03:00",
+   "publicacion": "25-11 11:23",
+   "publicacion_iso": "2026-11-25T11:23:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "39121436",
+     "Electrodos",
+     100,
+     "ELECTRODOS PARA TENS\nESPECIFICACIONES MEDIDAS 4X4XCM\nENVASE CON 4 UNIDADES"
+    ],
+    [
+     "60141001",
+     "Balones o pelotas de juguete",
+     1,
+     "SET DE BOCHAS ESTANDAR ENTRE 8 A 12 UNIDADES\nAPTO PARA NIÑOS Y ADULTOS\nMEDIDAS 80-100MM\nMATERIAL RESINA"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=3950-761-COT26",
+   "sin_detalle": false,
+   "descripcion": "INCLUIR DESPACHO EN COTIZACION",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Materiales de física de electricidad"
+   ],
+   "nueva": true,
+   "codigo": "2182-96-COT26",
+   "nombre": "BANCO DE BATERIAS PARA UPS",
+   "organismo": "CORP ADMINISTRATIVA DEL PODER JUDICIAL",
+   "unidad": "Corp. Adm. del Poder Judicial - Coyhaique",
+   "monto": 890000,
+   "cierre_iso": "2026-11-26T12:00:00-03:00",
+   "publicacion": "25-11 11:48",
+   "publicacion_iso": "2026-11-25T11:48:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "60104906",
+     "Kits de batería",
+     35,
+     "BANCO DE BATERIAS PARA UPS. SE ADJUNTAN TERMINOS DE REFERENCIA"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=2182-96-COT26",
+   "sin_detalle": false,
+   "descripcion": "BANCO DE BATERIAS PARA UPS. SE ADJUNTAN TERMINOS DE REFERENCIA",
    "en_gracia": false,
    "desaparecida_iso": ""
   },

@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-11-25T11:00:24.937068-03:00",
+ "actualizado": "2026-11-25T12:00:29.056464-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
- "total_region": 303,
+ "total_region": 297,
  "rubros": {
   "80141600": "Ventas y marketing",
   "82101600": "Publicidad en medios no impresos",
@@ -375,7 +375,7 @@
    "motivos": [
     "audiovisual"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "886182-277-COT26",
    "nombre": "Adquisición de equipamiento audiovisual _ Según FISABS 2483.",
    "organismo": "UNIVERSIDAD DE AYSEN",
@@ -416,7 +416,7 @@
    "motivos": [
     "Ventas y marketing"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "4066-558-COT26",
    "nombre": "CONTRATACIÓN DE ARTISTA SOLISTA ENCUENTRO DE ACORDEÓN Y GUITARRA 2026, Según TDR adjuntos",
    "organismo": "I MUNICIPALIDAD RIO IBANEZ",
@@ -447,7 +447,7 @@
     "difusión",
     "redes sociales"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "4066-557-COT26",
    "nombre": "SERVICIO DE DIFUSIÓN DE RESULTADOS DE LAS OLIMPIADAS DEPORTIVAS COMUNALES RÍO IBÁÑEZ 2026 - COD. 22434038",
    "organismo": "I MUNICIPALIDAD RIO IBANEZ",
@@ -476,7 +476,7 @@
    "motivos": [
     "Ventas y marketing"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "4066-555-COT26",
    "nombre": "SERVICIO DE AMPLIFICACIÓN, ILUMINACIÓN Y PRESENTACIÓN MUSICAL ENCUENTRO DE ACORDEÓN Y GUITARRA 2026, Segun TDR adjuntos",
    "organismo": "I MUNICIPALIDAD RIO IBANEZ",
@@ -622,7 +622,7 @@
    "motivos": [
     "Publicidad en medios no impresos"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "1057062-559-COT26",
    "nombre": "Servicios de implementación de un Plan de medios digitales y difusión radial_segun Fisabs 2495_URY RED 22992",
    "organismo": "UNIVERSIDAD DE AYSEN",
@@ -855,7 +855,7 @@
    "motivos": [
     "audiovisual"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "868-111-COT26",
    "nombre": "Pódium Interactivo digital ",
    "organismo": "GOBIERNO REGIONAL DE AYSEN",
@@ -913,7 +913,7 @@
    "motivos": [
     "registro fotográfico"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "885-925-COT26",
    "nombre": "La Contraloria requiere contratar el mantenimiento correctivo del vehículo Nissan X-Trail, patente DTDG-37, de la Contraloría Regional de Aysé",
    "organismo": "CONTRALORIA GENERAL DE LA REPUBLICA",
@@ -2053,42 +2053,6 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=2713-1410-COT26",
    "primera_vista_iso": "2026-11-17T13:00:25-03:00",
    "removida_iso": "2026-11-18T14:00:25-03:00",
-   "estado_api": "",
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "4609-322-COT26",
-   "nombre": "SERVICIO DE PRODUCCION TECNICA",
-   "organismo": "",
-   "monto": null,
-   "cierre_iso": "",
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Ventas y marketing"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=4609-322-COT26",
-   "primera_vista_iso": "2026-11-18T12:00:27-03:00",
-   "removida_iso": "2026-11-22T18:00:25-03:00",
-   "estado_api": "",
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "1195-591-COT26",
-   "nombre": "SERVICIO DE DIFUSION PARA PROYECTO DE RECICLAJE",
-   "organismo": "",
-   "monto": null,
-   "cierre_iso": "",
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Publicidad en medios no impresos"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1195-591-COT26",
-   "primera_vista_iso": "2026-11-18T12:00:27-03:00",
-   "removida_iso": "2026-11-20T08:00:26-03:00",
    "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,
