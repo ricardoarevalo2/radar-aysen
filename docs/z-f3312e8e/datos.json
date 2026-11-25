@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-11-25T15:00:23.061304-03:00",
+ "actualizado": "2026-11-25T16:00:27.473515-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
- "total_region": 287,
+ "total_region": 291,
  "rubros": {
   "25172700": "Aire acondicionado",
   "25173900": "Componentes eléctricos",
@@ -19,35 +19,6 @@
   "39121400": "Conectores, enchufes y terminales"
  },
  "filas": [
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "aire acondicionado"
-   ],
-   "nueva": false,
-   "codigo": "1078779-26-COT26",
-   "nombre": "Adquisición de 1 (un) equipo de aire acondicionado",
-   "organismo": "SERVICIO DE SALUD AYSEN CARLOS IBANEZ DEL CAMPO",
-   "unidad": "Fondos Extrapresupuestarios",
-   "monto": 303990,
-   "cierre_iso": "2026-11-25T15:00:00-03:00",
-   "publicacion": "24-11 10:57",
-   "publicacion_iso": "2026-11-24T10:57:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "73161517",
-     "Servicios de fabricación de equipo de aire acondicionado, ventilación o refrigeración",
-     1,
-     "Adquisición de 1 (un) equipo de aire acondicionado • Aire acondicionado tipo Split muro.\n• Tecnología Inverter.\n• Función frío/calor.\n• Capacidad mínima de 9.000 BTU/h.\n• Alimentación eléctrica 220 V / 50 Hz.\n• Control remoto incluido.\n• Filtros lavables o reutilizables.\n• Equipo nuevo y sin uso.\n• Garantía mínima de 12 meses.\nSe aceptarán marcas y modelos equivalentes que cumplan o superen las características mínimas indicadas. revisar ESPECIFICACIONES TECNICAS Y AJUSTARSE AL PRESUPÉUSTO"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1078779-26-COT26",
-   "sin_detalle": false,
-   "descripcion": "Adquisición de 1 (un) equipo de aire acondicionado Aire acondicionado tipo Split muro.\n• Tecnología Inverter.\n• Función frío/calor.\n• Capacidad mínima de 9.000 BTU/h.\n• Alimentación eléctrica 220 V / 50 Hz.\n• Control remoto incluido.\n• Filtros lavables o reutilizables.\n• Equipo nuevo y sin uso.\n• Garantía mínima de 12 meses.\nSe aceptarán marcas y modelos equivalentes que cumplan o superen las características mínimas indicadas. REVISAR ESPECIFICACIONE TECNICAS Y AJUSTARSE AL PRESUPUESTO",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
   {
    "tipo": "OPORTUNIDAD",
    "motivos": [
@@ -286,7 +257,7 @@
     "Cajas y accesorios eléctricos",
     "Conectores, enchufes y terminales"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "3765-379-COT26",
    "nombre": "INSUMOS ELECTRICOS PARA MANTENIMIENTO CORRECTIVO LUCES DE EMERGENCIA",
    "organismo": "SERVICIO NACIONAL DE SALUD HOSPITAL DE C",
@@ -1352,7 +1323,7 @@
    "motivos": [
     "eléctrico"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "868-113-COT26",
    "nombre": "HORNO ELECTRICO DE 60 LITROS, POTENCIA DE 2200W- FRIGOBAR SALA DE LACTANCIA, CAPACIDAD DESEADA MINIMO 40L MAXIMO 70L",
    "organismo": "GOBIERNO REGIONAL DE AYSEN",
@@ -1549,6 +1520,35 @@
    "desaparecida_iso": ""
   },
   {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "eléctricos"
+   ],
+   "nueva": true,
+   "codigo": "1538639-21-COT26",
+   "nombre": "Asesoría técnico-regulatoria sobre Sistemas Eléctricos Medianos – Región de Aysén",
+   "organismo": "CORPORACIÓN DE DESARROLLO DEL GOBIERNO REGIONAL DE AYSÉN",
+   "unidad": "CORPORACIÓN DE DESARROLLO DEL GOBIERNO REGIONAL DE AYSÉN",
+   "monto": 7200000,
+   "cierre_iso": "2026-11-27T15:00:00-03:00",
+   "publicacion": "25-11 15:43",
+   "publicacion_iso": "2026-11-25T15:43:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "81101701",
+     "Ingeniería eléctrica",
+     1,
+     "reglamento de la Ley N.º 21.804 sobre Sistemas Eléctricos Medianos, con enfoque en la Región de Aysén. Incluye diagnóstico regional, matriz de observaciones y propuestas regulatorias y documento final de observaciones institucionales, conforme a minuta de requerimiento adjunta. Fecha máxima de entrega: 21 de diciembre de 2026."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1538639-21-COT26",
+   "sin_detalle": false,
+   "descripcion": "Se requiere contratar una asesoría especializada para el análisis técnico, económico y regulatorio del proyecto de reglamento de la Ley N.º 21.804 sobre Sistemas Eléctricos Medianos, con enfoque en la Región de Aysén. Incluye diagnóstico regional, matriz de observaciones y propuestas regulatorias y documento final de observaciones institucionales, conforme a minuta de requerimiento adjunta. Fecha máxima de entrega: 21 de diciembre de 2026.",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
    "tipo": "OPORTUNIDAD",
    "motivos": [
     "Conectores, enchufes y terminales"
@@ -1608,6 +1608,24 @@
   }
  ],
  "historial": [
+  {
+   "codigo": "1078779-26-COT26",
+   "nombre": "Adquisición de 1 (un) equipo de aire acondicionado",
+   "organismo": "SERVICIO DE SALUD AYSEN CARLOS IBANEZ DEL CAMPO",
+   "monto": 303990,
+   "cierre_iso": "2026-11-25T15:00:00-03:00",
+   "tipo": "POSIBLE",
+   "motivos": [
+    "aire acondicionado"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1078779-26-COT26",
+   "primera_vista_iso": "2026-11-24T11:00:26-03:00",
+   "removida_iso": "2026-11-25T16:00:27-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
   {
    "codigo": "1195-612-COT26",
    "nombre": "REPACIONES CAMIONES RECOLECTORES MODELO ATEGO 1726",
@@ -2510,42 +2528,6 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=1691-2128-COT26",
    "primera_vista_iso": "2026-11-16T13:00:26-03:00",
    "removida_iso": "2026-11-18T18:00:27-03:00",
-   "estado_api": "",
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "1182705-213-COT26",
-   "nombre": "Colación de jornada a la llegada de la delegación a Melinka solicitud N°0228",
-   "organismo": "CENTRO DE FORMACIÓN TÉCNICA DE LA REGIÓN DE AYSÉN DEL GENERAL CARLOS I",
-   "monto": 1200100,
-   "cierre_iso": "2026-11-18T16:00:00-03:00",
-   "tipo": "POSIBLE",
-   "motivos": [
-    "electricidad"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1182705-213-COT26",
-   "primera_vista_iso": "2026-11-17T15:41:06-03:00",
-   "removida_iso": "2026-11-18T17:00:27-03:00",
-   "estado_api": "",
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "3950-742-COT26",
-   "nombre": "PRODUCCION DE EVENTO \"PRIMER CONSEJO TECNICO DE GESTORES DE CASO\"",
-   "organismo": "DIRECCION SALUD RURAL",
-   "monto": 250000,
-   "cierre_iso": "2026-11-18T15:21:00-03:00",
-   "tipo": "POSIBLE",
-   "motivos": [
-    "enchufes"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=3950-742-COT26",
-   "primera_vista_iso": "2026-11-16T13:00:26-03:00",
-   "removida_iso": "2026-11-18T16:00:26-03:00",
    "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,

@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-11-25T15:00:23.061304-03:00",
+ "actualizado": "2026-11-25T16:00:27.473515-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
- "total_region": 287,
+ "total_region": 291,
  "rubros": {
   "80141600": "Ventas y marketing",
   "82101600": "Publicidad en medios no impresos",
@@ -14,194 +14,6 @@
   "83121700": "Comunicación social y de masas"
  },
  "filas": [
-  {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Ventas y marketing"
-   ],
-   "nueva": false,
-   "codigo": "2495-697-COT26",
-   "nombre": "CONTRATACIÓN ARMADO Y DESARMADO CARPA PARA FERIA INCLUSIVA DE LA OAD 2026",
-   "organismo": "I MUNICIPALIDAD DE COYHAIQUE",
-   "unidad": "DIRECCION DESARROLLO COMUNITARIO",
-   "monto": 1900000,
-   "cierre_iso": "2026-11-25T15:00:00-03:00",
-   "publicacion": "23-11 17:26",
-   "publicacion_iso": "2026-11-23T17:26:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "80141607",
-     "Producción de eventos",
-     1,
-     "MONTAJE Y DESMONTAJE CARPA PARA FERIA INCLUSIVA DE LA OFICINA DE APOYO A LA DISCAPACIDAD DE LA MUNICIPALIDAD DE COYHAIQUE 2026, SEGUN  ARCHIVO ADJUNTO.\nCIUDAD DE COYHAIQUE"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=2495-697-COT26",
-   "sin_detalle": false,
-   "descripcion": "Contratación de producción de eventos para montaje y desmontaje  de carpa de 18 x 8,  para feria inclusiva en el marco de la conmemoración internacional de las personas con discapacidad 2026, de la OAD. Municipalidad de Coyhaique.\n\nEspecificaciones según anexo adjunto (fecha tentativa feria inclusiva 12 y 13 de diciembre de 2026 en espacio Dussen de la Ciudad de Coyhaique.",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "avisos",
-    "publicidad"
-   ],
-   "nueva": false,
-   "codigo": "1260270-1-COT26",
-   "nombre": " CONTRATACIÓN DE SERVICIOS DE PUBLICACIÓN, SANEAMIENTOS D.L. N° 2695/79",
-   "organismo": "Seremi Bienes Nacionales Región Aysén",
-   "unidad": "Seremi Aysén Aporte de Usuarios-Títulos de Dominio",
-   "monto": 471410,
-   "cierre_iso": "2026-11-25T15:00:00-03:00",
-   "publicacion": "17-11 16:48",
-   "publicacion_iso": "2026-11-17T16:48:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "55101505",
-     "Publicaciones",
-     1,
-     "Es necesario cumplir con el Art.11 del D.L. N°2695/79, referido a publicidad del saneamiento de inmueble. Se requiere contratar la publicación digital de 17 avisos correspondientes a 2 veces o publicaciones por beneficiario o expediente, las cuales se harán indistintamente los días 1 y 15 del mes o en la edición inmediatamente siguiente si el diario o periódico no se publicare en los días indicados. Plazo de ejecución 252 días hábiles. Revisar documento adjunto para selección de proveedor."
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1260270-1-COT26",
-   "sin_detalle": false,
-   "descripcion": "Es necesario cumplir con el Art.11 del D.L. N°2695/79, referido a publicidad del saneamiento de inmueble. Se requiere contratar la publicación digital de 17 avisos correspondientes a 2 veces o publicaciones por beneficiario o expediente, las cuales se harán indistintamente los días 1 y 15 del mes o en la edición inmediatamente siguiente si el diario o periódico no se publicare en los días indicados. Plazo de ejecución 252 días hábiles. Revisar documento adjunto para selección de proveedor.",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "publicitaria"
-   ],
-   "nueva": false,
-   "codigo": "2713-1425-COT26",
-   "nombre": "SERVICIO IMPRESION Y MATERIAL GRAFICO. FOLIO 1503 MEDIO AMBIENTE.",
-   "organismo": "I MUNICIPALIDAD DE AYSEN",
-   "unidad": "I.MUNICIPALIDAD AYSEN-ADQUISICIONES",
-   "monto": 410000,
-   "cierre_iso": "2026-11-25T15:28:00-03:00",
-   "publicacion": "18-11 12:09",
-   "publicacion_iso": "2026-11-18T12:09:00-03:00",
-   "ofertas": 1,
-   "productos": [
-    [
-     "53141619",
-     "Imanes",
-     200,
-     "Imanes personalizados de 6 × 6 cm. según. Anexo N.º 8."
-    ],
-    [
-     "82121505",
-     "Impresión promocional o publicitaria",
-     4,
-     "Impresión de señalética en aluminio compuesto 100 × 40 cm, según Anexo N.º 1."
-    ],
-    [
-     "82121505",
-     "Impresión promocional o publicitaria",
-     16,
-     "Impresión de señalética en aluminio compuesto 40 × 30 cm, según Anexo N.º 2."
-    ],
-    [
-     "82121505",
-     "Impresión promocional o publicitaria",
-     1000,
-     "Impresión de sticker ambiental troquelado 6 × 6 cm, según. Anexo N.º 3."
-    ],
-    [
-     "82121505",
-     "Impresión promocional o publicitaria",
-     1000,
-     "Impresión de sticker ambiental troquelado 6 × 6 cm, según. Anexo N.º 4."
-    ],
-    [
-     "82121505",
-     "Impresión promocional o publicitaria",
-     50,
-     "Impresión en chapitas metálicas personalizadas de 5,6 cm de diámetro – Forjadores Ambientales. según. Anexo N.º 5."
-    ],
-    [
-     "82121505",
-     "Impresión promocional o publicitaria",
-     50,
-     "Impresión en chapitas metálicas personalizadas de 5,6 cm de diámetro – REDEOH, según. Anexo N.º 6."
-    ],
-    [
-     "82121505",
-     "Impresión promocional o publicitaria",
-     50,
-     "Impresión en chapitas metálicas personalizadas de 5,6 cm de diámetro – Acciones Ambientales. según. Anexo 7."
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=2713-1425-COT26",
-   "sin_detalle": false,
-   "descripcion": "SERVICIO IMPRESION Y MATERIAL GRAFICO SEGUN ANEXOS ADJUNTOS.COSTOS TRASLADOS A PUERTO AYSÉN SERÁN DEL OFERENTE.PLAZO ENTREGA SERÁN DE 10 DÍA HÁBIL, DE LO CONTRARIO SE DESCARTARAN.PROVEEDOR QUE NO INDIQUE EL PLAZO DE ENTREGA SE DESCARTARA SU COTIZACIÓN. OFERENTE DEBE INCLUIR FLETES EN EL PRECIO DEL PRODUCTO.SE SOLICITA ANEXAR FICHA TECNICA, DE LO CONTRARIO SE DESCARTARA. PLAZO DE ENTREGA COMIENZA A CONTAR DEL DIA HABIL SUBSIGUIENTE DEL ENVÍO DE ORDEN DE COMPRA.SE DEBE COTIZAR TODOS LOS PRODUCTOS",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
-  {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Ventas y marketing"
-   ],
-   "nueva": true,
-   "codigo": "4609-330-COT26",
-   "nombre": "SERVICIO DE CAPACITACION ",
-   "organismo": "I MUNICIPALIDAD DE CHILE CHICO",
-   "unidad": "Finanzas",
-   "monto": 3200000,
-   "cierre_iso": "2026-11-25T15:30:00-03:00",
-   "publicacion": "24-11 14:56",
-   "publicacion_iso": "2026-11-24T14:56:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "80141617",
-     "Capacitaciones directas en el concesionario",
-     1,
-     "SERVICIO DE CAPACITACION TEORICO-PRACTICO EN MANEJO Y OPERACION DE DRONES AGRICOLAS. (Detalle en TDR adjunto)."
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=4609-330-COT26",
-   "sin_detalle": false,
-   "descripcion": "COTIZACION SERVICIO DE CAPACITACION OPERACION DRONES AGRICOLAS",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
-  {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Inserciones publicitarias en medios"
-   ],
-   "nueva": true,
-   "codigo": "1195-613-COT26",
-   "nombre": "SERVICIO DE DIFUSION PROYECTO DE RCICLAJE",
-   "organismo": "I MUNICIPALIDAD DE COYHAIQUE",
-   "unidad": "Ilustre Municipalidad de Coyhaique",
-   "monto": 380000,
-   "cierre_iso": "2026-11-25T16:00:00-03:00",
-   "publicacion": "24-11 15:33",
-   "publicacion_iso": "2026-11-24T15:33:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "82101903",
-     "Avisos en Internet",
-     1,
-     "SE REQUIERE CONTRATAR UN MEDIO DE COMUNICACION REGIONAL PARA LA GABACION, EDICION Y DIFUSION DE CAPSULAS AUDIOVISUALES CONSIDERANDO 4 HRS MENSUALES(NOVIEMBRE DICIEMBRE),PUBLICACIONES SEMANALS DE 20 A 29 MINUTOS,BANNER PUBLICITARIO Y DIFUSION EN RRSS,SITIO WEB,TELEVISION DIGITAL Y STREAMING.SE PRIORIZARA PROVEEDOR LOCAL CON COBERTURA EN LA REGION DE AYSEN."
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1195-613-COT26",
-   "sin_detalle": false,
-   "descripcion": "SE REQUIERE CONTRATAR UN MEDIO DE COMUNICACION REGIONAL PARA LA GABACION, EDICION Y DIFUSION DE CAPSULAS AUDIOVISUALES CONSIDERANDO 4 HRS MENSUALES(NOVIEMBRE DICIEMBRE),PUBLICACIONES SEMANALS DE 20 A 29 MINUTOS,BANNER PUBLICITARIO Y DIFUSION EN RRSS,SITIO WEB,TELEVISION DIGITAL Y STREAMING.SE PRIORIZARA PROVEEDOR LOCAL CON COBERTURA EN LA REGION DE AYSEN.",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
   {
    "tipo": "OPORTUNIDAD",
    "motivos": [
@@ -640,6 +452,64 @@
   {
    "tipo": "OPORTUNIDAD",
    "motivos": [
+    "Inserciones publicitarias en medios"
+   ],
+   "nueva": false,
+   "codigo": "1195-613-COT26",
+   "nombre": "SERVICIO DE DIFUSION PROYECTO DE RCICLAJE",
+   "organismo": "I MUNICIPALIDAD DE COYHAIQUE",
+   "unidad": "Ilustre Municipalidad de Coyhaique",
+   "monto": 380000,
+   "cierre_iso": "2026-11-26T13:00:00-03:00",
+   "publicacion": "24-11 15:33",
+   "publicacion_iso": "2026-11-24T15:33:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "82101903",
+     "Avisos en Internet",
+     1,
+     "SE REQUIERE CONTRATAR UN MEDIO DE COMUNICACION REGIONAL PARA LA GABACION, EDICION Y DIFUSION DE CAPSULAS AUDIOVISUALES CONSIDERANDO 4 HRS MENSUALES(NOVIEMBRE DICIEMBRE),PUBLICACIONES SEMANALS DE 20 A 29 MINUTOS,BANNER PUBLICITARIO Y DIFUSION EN RRSS,SITIO WEB,TELEVISION DIGITAL Y STREAMING.SE PRIORIZARA PROVEEDOR LOCAL CON COBERTURA EN LA REGION DE AYSEN."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1195-613-COT26",
+   "sin_detalle": false,
+   "descripcion": "SE REQUIERE CONTRATAR UN MEDIO DE COMUNICACION REGIONAL PARA LA GABACION, EDICION Y DIFUSION DE CAPSULAS AUDIOVISUALES CONSIDERANDO 4 HRS MENSUALES(NOVIEMBRE DICIEMBRE),PUBLICACIONES SEMANALS DE 20 A 29 MINUTOS,BANNER PUBLICITARIO Y DIFUSION EN RRSS,SITIO WEB,TELEVISION DIGITAL Y STREAMING.SE PRIORIZARA PROVEEDOR LOCAL CON COBERTURA EN LA REGION DE AYSEN.",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "publicitaria"
+   ],
+   "nueva": true,
+   "codigo": "1182705-237-COT26",
+   "nombre": "ADQUISICION DE PIOCHAS LOGO INSTITUCIONAL CFT DE LA REGION DE AYSEN, FOLIO°245",
+   "organismo": "CENTRO DE FORMACIÓN TÉCNICA DE LA REGIÓN DE AYSÉN DEL GENERAL CARLOS I",
+   "unidad": "FINANZAS",
+   "monto": 385000,
+   "cierre_iso": "2026-11-26T15:20:00-03:00",
+   "publicacion": "25-11 15:17",
+   "publicacion_iso": "2026-11-25T15:17:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "82121505",
+     "Impresión promocional o publicitaria",
+     110,
+     "Piochas metálicas redondas de 2,5 cm de diámetro, con impresión del logo institucional a color, en alta definición y con resina protectora. (OBLIGACION: Adjuntar cotización)."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1182705-237-COT26",
+   "sin_detalle": false,
+   "descripcion": "Se requiere la compra de piochas con logo institucional para ceremonia de investidura de los estudiantes de la carrera TNS en Veterinaria y Producción Agrícola, TNS en Diferencial y TNS en Parvulario y primer ciclo de enseñanza Básica. Los productos deben ser entregados en oficinas ubicada en José Miguel Carrera 133, Coyhaique. (OBLIGACION: Adjuntar cotización)",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
     "Ventas y marketing"
    ],
    "nueva": true,
@@ -671,7 +541,7 @@
    "motivos": [
     "Publicidad en medios no impresos"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "1092-99-COT26",
    "nombre": "SIC 476 SIRE 475 Servicio de Publicidad Deprif Coyhaique",
    "organismo": "CORP NACIONAL FORESTAL",
@@ -865,6 +735,35 @@
    "desaparecida_iso": ""
   },
   {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "radial"
+   ],
+   "nueva": true,
+   "codigo": "4140-116-COT26",
+   "nombre": "ADQUISICION DE NEUMATICOS PARA CAMIONETA MUNICIPAL ",
+   "organismo": "I MUNICIPALIDAD DE LAGO VERDE",
+   "unidad": "Adquisiciones",
+   "monto": 800000,
+   "cierre_iso": "2026-11-28T08:30:00-03:00",
+   "publicacion": "25-11 15:48",
+   "publicacion_iso": "2026-11-25T15:48:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "25172504",
+     "Neumáticos para camionetas o automóviles",
+     5,
+     "ADQUISICION DE 05 NEUMATICOS NUEVOS SIN USO TODO TERRENO  245/75/R16 10 TELAS COMO MINIMO (OFERENTE DEBE AJUSTARSE A LAS ESPECIFICACIONES QUE DETALLA EL ADJUNTO"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=4140-116-COT26",
+   "sin_detalle": false,
+   "descripcion": "ADQUISICION DE 5 NEUMATICOS NUEVOS SIN USO TIPO MIXTO TODO TERRENO PARA CAMIONETA MUNICIPAL MEDIDA 245/75R16 RADIAL SIN CAMARA, CATEGORIA LT, BANDA RODAMIENTO MIXTO TODO TERRENO, CON DIBUJO APTO PARA TRACCION Y EVACUACION EN ASFALTO, RIPIO Y BARRO LIGERO, CANTIDAD MINIMA DE TELA 10, CON FLANCOS REFORZADOS CONTRA CORTES IMPACTOS O PINCHAZOS CAPACIDAD DE CARGA 1400 VELOCIDAD 160 KM/HRA AJUSTARSE A LAS ESPECIFICACIONES ADJUNTAS Y RESPETAR TERMINOS FECHAS Y REQUISITOS EXIGIDOS",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
    "tipo": "OPORTUNIDAD",
    "motivos": [
     "Servicios de televisión"
@@ -924,6 +823,79 @@
   }
  ],
  "historial": [
+  {
+   "codigo": "4609-330-COT26",
+   "nombre": "SERVICIO DE CAPACITACION ",
+   "organismo": "I MUNICIPALIDAD DE CHILE CHICO",
+   "monto": 3200000,
+   "cierre_iso": "2026-11-25T15:30:00-03:00",
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Ventas y marketing"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=4609-330-COT26",
+   "primera_vista_iso": "2026-11-24T15:00:24-03:00",
+   "removida_iso": "2026-11-25T16:00:27-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
+  {
+   "codigo": "2713-1425-COT26",
+   "nombre": "SERVICIO IMPRESION Y MATERIAL GRAFICO. FOLIO 1503 MEDIO AMBIENTE.",
+   "organismo": "I MUNICIPALIDAD DE AYSEN",
+   "monto": 410000,
+   "cierre_iso": "2026-11-25T15:28:00-03:00",
+   "tipo": "POSIBLE",
+   "motivos": [
+    "publicitaria"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=2713-1425-COT26",
+   "primera_vista_iso": "2026-11-18T13:00:27-03:00",
+   "removida_iso": "2026-11-25T16:00:27-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
+  {
+   "codigo": "1260270-1-COT26",
+   "nombre": " CONTRATACIÓN DE SERVICIOS DE PUBLICACIÓN, SANEAMIENTOS D.L. N° 2695/79",
+   "organismo": "Seremi Bienes Nacionales Región Aysén",
+   "monto": 471410,
+   "cierre_iso": "2026-11-25T15:00:00-03:00",
+   "tipo": "POSIBLE",
+   "motivos": [
+    "avisos",
+    "publicidad"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1260270-1-COT26",
+   "primera_vista_iso": "2026-11-17T17:00:24-03:00",
+   "removida_iso": "2026-11-25T16:00:27-03:00",
+   "estado_api": "",
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
+  {
+   "codigo": "2495-697-COT26",
+   "nombre": "CONTRATACIÓN ARMADO Y DESARMADO CARPA PARA FERIA INCLUSIVA DE LA OAD 2026",
+   "organismo": "I MUNICIPALIDAD DE COYHAIQUE",
+   "monto": 1900000,
+   "cierre_iso": "2026-11-25T15:00:00-03:00",
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Ventas y marketing"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=2495-697-COT26",
+   "primera_vista_iso": "2026-11-23T18:00:25-03:00",
+   "removida_iso": "2026-11-25T16:00:27-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
   {
    "codigo": "2495-702-COT26",
    "nombre": "FLAYERS CENTRO DE LAS MUJERES",
