@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-11-25T08:00:24.040762-03:00",
+ "actualizado": "2026-11-25T09:00:26.884745-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
- "total_region": 303,
+ "total_region": 298,
  "rubros": {
   "25172700": "Aire acondicionado",
   "25173900": "Componentes eléctricos",
@@ -24,7 +24,7 @@
    "motivos": [
     "Cables eléctricos y accesorios"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "1403-509-COT26",
    "nombre": "COMPRA DE MATERIALES DE MANTENCIÓN PARA OFICINA OIRS COYHAIQUE",
    "organismo": "Dirección Regional de Gendarmeria - Coyhaique",
@@ -119,7 +119,7 @@
    "motivos": [
     "generador"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "1286962-86-COT26",
    "nombre": "DMH SERVICIO DE ARRIENDO DE GENERADOR CENTRO RECREACIONAL \"ALCALDE OSCAR CATALAN SANCHEZ\"",
    "organismo": "Corporación de Deportes y Recreación de la Municipalidad de Aysén",
