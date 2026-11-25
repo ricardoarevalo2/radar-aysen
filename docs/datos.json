@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-11-25T09:00:26.884745-03:00",
+ "actualizado": "2026-11-25T10:00:24.938184-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
- "total_region": 298,
+ "total_region": 299,
  "rubros": {
   "80141600": "Ventas y marketing",
   "82101600": "Publicidad en medios no impresos",
@@ -527,6 +527,64 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=4066-555-COT26",
    "sin_detalle": false,
    "descripcion": "La Ilustre Municipalidad de Río Ibáñez, a través de la Oficina de Cultura, requiere contratar un servicio de producción de evento que contemple amplificación, iluminación y la contratación de una agrupación de música criolla de la comuna de Río Ibáñez para el Encuentro de Acordeón y Guitarra 2026, a realizarse el sábado 19 de diciembre de 2026 en Puerto Río Tranquilo. Según TDR adjuntos",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "difusión"
+   ],
+   "nueva": true,
+   "codigo": "3797-558-COT26",
+   "nombre": " TOLDO INSTITUCIONAL OLN",
+   "organismo": "I MUNICIPALIDAD DE COCHRANE",
+   "unidad": "I MUNICIPALIDAD DE COCHRANE",
+   "monto": 100000,
+   "cierre_iso": "2026-11-26T10:00:00-03:00",
+   "publicacion": "25-11 09:49",
+   "publicacion_iso": "2026-11-25T09:49:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "30151901",
+     "Toldos",
+     1,
+     "Toldo plegable tipo araña (acordeón) de 3,00 x 3,00 metros (9 m² de cobertura) con estructura metálica de acero reforzado y recubrimiento anticorrosivo (pintura electrostática negra), tubos exteriores de sección cuadrada de al menos 30 x 30 mm y patas telescópicas regulables en 4 niveles de altura con despliegue rápido sin herramientas; debe incluir cubierta superior de lona textil impermeable de alta densidad (poliéster/Oxford) Demas consideraciones indicadas en documento adjunto"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=3797-558-COT26",
+   "sin_detalle": false,
+   "descripcion": "En el marco de las actividades desarrolladas por la Oficina Local de la Niñez, se requiere la adquisición de un toldo institucional que permita contar con un espacio adecuado para la ejecución de actividades territoriales, jornadas de difusión y acciones de promoción y prevención de derechos de niños, niñas y adolescentes",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Ventas y marketing"
+   ],
+   "nueva": true,
+   "codigo": "1195-617-COT26",
+   "nombre": "Servicio de producción jornada de Auto-cuidado ",
+   "organismo": "I MUNICIPALIDAD DE COYHAIQUE",
+   "unidad": "Ilustre Municipalidad de Coyhaique",
+   "monto": 900000,
+   "cierre_iso": "2026-11-26T10:00:00-03:00",
+   "publicacion": "25-11 09:48",
+   "publicacion_iso": "2026-11-25T09:48:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "80141607",
+     "Producción de eventos",
+     1,
+     "jornada integral de autocuidado y bienestar emocional, orientado a fortalecer la salud emocional de los profesionales del Programa Lazos, según requerimientos en archivo adjunto."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1195-617-COT26",
+   "sin_detalle": false,
+   "descripcion": "La I. Municipalidad de Coyhaique, a través de la Dirección de Seguridad Pública, requiere la contratación de Servicio de producción para jornada de Auto-cuidado del equipo de Programa Lazos 2026. \nSe adjuntan requerimientos y especificaciones tecnicas de la jornada.",
    "en_gracia": false,
    "desaparecida_iso": ""
   },

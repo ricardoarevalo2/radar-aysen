@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-11-25T09:00:26.884745-03:00",
+ "actualizado": "2026-11-25T10:00:24.938184-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
- "total_region": 298,
+ "total_region": 299,
  "rubros": {
   "25172700": "Aire acondicionado",
   "25173900": "Componentes eléctricos",
@@ -19,171 +19,6 @@
   "39121400": "Conectores, enchufes y terminales"
  },
  "filas": [
-  {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Cables eléctricos y accesorios"
-   ],
-   "nueva": false,
-   "codigo": "1403-509-COT26",
-   "nombre": "COMPRA DE MATERIALES DE MANTENCIÓN PARA OFICINA OIRS COYHAIQUE",
-   "organismo": "Dirección Regional de Gendarmeria - Coyhaique",
-   "unidad": "Región de Aysén",
-   "monto": 600000,
-   "cierre_iso": "2026-11-25T09:00:00-03:00",
-   "publicacion": "24-11 08:38",
-   "publicacion_iso": "2026-11-24T08:38:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "26121606",
-     "Cable coaxial",
-     1,
-     "CABLE THHN 12 AWG VERDE ROLLO 10 METROS CERTIFICADO"
-    ],
-    [
-     "26121606",
-     "Cable coaxial",
-     1,
-     "CABLE THHN 12 AWG ROJO ROLLO 10 METROS CERTIFICADO"
-    ],
-    [
-     "26121606",
-     "Cable coaxial",
-     1,
-     "CABLE THHN 12 AWG BLANCO ROLLO 10 METROS CERTIFICADO"
-    ],
-    [
-     "27111704",
-     "Enchufes",
-     1,
-     "SWITCH DE 8 PUERTOS 10/100 MBPS TP-LINK LS1008 SERIE LITEWAVE"
-    ],
-    [
-     "27111704",
-     "Enchufes",
-     4,
-     "CAJA CHUQUI CON PRECORTES EN CARA INFERIOR PARA TUBERIA Y CANALETAS"
-    ],
-    [
-     "30103302",
-     "Moldura de latón",
-     5,
-     "MOLDURA 1/2 CAÑA PINO FINGER NATURAL 20 MM 2X300 CM"
-    ],
-    [
-     "30161718",
-     "Plataforma de acero antideslizante",
-     2,
-     "PISO DE GOMA ANTIDESLIZANTE ESTOPEROL NEGRO 1X2 METROS QRUBBER"
-    ],
-    [
-     "31201515",
-     "Cintas de papel",
-     4,
-     "CINTA SEGURIDAD ANTIDESLIZANTE PARA PISO ESCALERA 18 METROS RAYAS"
-    ],
-    [
-     "31211501",
-     "Pinturas al esmalte",
-     7,
-     "ESMALTE DE AGUA 1 GALON SEMIBRILLANTE BLANCO"
-    ],
-    [
-     "31211904",
-     "Brochas",
-     2,
-     "BROCHA MULTIUSO KOLOR 3 PULGADAS PARA PINTURA Y BARNIZ PROFESIONAL"
-    ],
-    [
-     "31211906",
-     "Rodillos de pintar",
-     5,
-     "RODILLO POLIESTER 18 CM"
-    ],
-    [
-     "40161517",
-     "Filtros de luz",
-     2,
-     "PLAFON LED IP44 18 W LUZ CALIDA"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1403-509-COT26",
-   "sin_detalle": false,
-   "descripcion": "E1O2RT9 - COMPRA DE MATERIALES DE MANTENCIÓN PARA OFICINA OIRS COYHAIQUE. CRITERIOS DE EVALUACIÓN: PRECIO 85% - PLAZO DE ENTREGA 10% - SUSTENTABILIDAD 5%",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "generador"
-   ],
-   "nueva": false,
-   "codigo": "1286962-86-COT26",
-   "nombre": "DMH SERVICIO DE ARRIENDO DE GENERADOR CENTRO RECREACIONAL \"ALCALDE OSCAR CATALAN SANCHEZ\"",
-   "organismo": "Corporación de Deportes y Recreación de la Municipalidad de Aysén",
-   "unidad": "Corporación de Deportes y Recreación de la Municipalidad de Aysén",
-   "monto": 790000,
-   "cierre_iso": "2026-11-25T09:00:00-03:00",
-   "publicacion": "24-11 07:50",
-   "publicacion_iso": "2026-11-24T07:50:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "26111601",
-     "Generadores diesel",
-     1,
-     "ARRIENDO DE GENERADOR 6.5 kva POR 30 DIAS CORRIDOS PARA EL FUNCIONAMIENTO DEL CENTRO RECREACIONAL \"ALCALDE OSCAR CATALAN SANCHEZ\""
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1286962-86-COT26",
-   "sin_detalle": false,
-   "descripcion": "Se requiere el arriendo de generador para el funcionamiento operativo del Centro Recreacional \"Alcalde Oscar Catalán Sánchez\"",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
-  {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Conectores, enchufes y terminales"
-   ],
-   "nueva": false,
-   "codigo": "4609-326-COT26",
-   "nombre": "MANGUERA LED Y OTROS",
-   "organismo": "I MUNICIPALIDAD DE CHILE CHICO",
-   "unidad": "Finanzas",
-   "monto": 4000000,
-   "cierre_iso": "2026-11-25T09:00:00-03:00",
-   "publicacion": "23-11 09:09",
-   "publicacion_iso": "2026-11-23T09:09:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "32101517",
-     "Acopladores",
-     300,
-     "COPLE UNION"
-    ],
-    [
-     "32111503",
-     "Diodos emisores de luz (LED)",
-     20,
-     "MANGUERA LED EXTERIOR 220V x 100 MTS."
-    ],
-    [
-     "39121402",
-     "Enchufes eléctricos",
-     30,
-     "PLUG DE CONEXION"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=4609-326-COT26",
-   "sin_detalle": false,
-   "descripcion": "COTIZACION MANGUERA LED Y OTROS",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
   {
    "tipo": "OPORTUNIDAD",
    "motivos": [
@@ -441,95 +276,6 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=1195-612-COT26",
    "sin_detalle": false,
    "descripcion": "SE REQUIERE REPARACIONES VARIAS DE LOS CAMIONES RECOLECTORES MODELO ATEGO 1726, MARCA MERCEDES BENZ, PATENTE STGV-70, STGV-71 Y STGV-74. (SE ADJUNTAM PADRONES). ENTRE ELLAS SE CONTEMPLA REVICION ELECTRICA,CAMBIANDO AMPOLLETAS, FAROLES LED, FOCOS, RELAY, PERNOS, INSTALACION DE CINTA REFLECTANTES, ENTRE OTRAS REPARACIONES QUE SE DETALLAN SEGUN PATENTE. SE DARA PRIORIDAD A PROVEEDOR LOCAL.",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
-  {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Suministros y accesorios eléctricos"
-   ],
-   "nueva": false,
-   "codigo": "3791-1206-COT26",
-   "nombre": "MATERIALES AYUDA ASISTENICAL ",
-   "organismo": "I MUNICIPALIDAD DE CISNES",
-   "unidad": "Finanzas",
-   "monto": 210250,
-   "cierre_iso": "2026-11-25T13:32:00-03:00",
-   "publicacion": "23-11 12:27",
-   "publicacion_iso": "2026-11-23T12:27:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "30103604",
-     "Revestimiento o láminas de madera",
-     1,
-     "TERCIADO ESTRUCTURAL 18MM"
-    ],
-    [
-     "30103605",
-     "Tablas de madera",
-     1,
-     "PINO IMPREGNADO 1X4 3.2M"
-    ],
-    [
-     "30103605",
-     "Tablas de madera",
-     3,
-     "PINO VERDE 2X2 X3.2 (P240)"
-    ],
-    [
-     "30103605",
-     "Tablas de madera",
-     2,
-     "PINO VERDE 2X3 X3.2 (P168)"
-    ],
-    [
-     "31161503",
-     "Clavo-tornillo",
-     2,
-     "TORNILLO DRYWALL 1 5/8 (CAJA O BOLSA)"
-    ],
-    [
-     "31161508",
-     "Tornillos para madera",
-     1,
-     "TORNILLO DRYWALL 3\" (CAJA O BOLSA)"
-    ],
-    [
-     "31181509",
-     "Equipos de cubrejuntas",
-     4,
-     "CUBREJUNTA RODON"
-    ],
-    [
-     "31341213",
-     "Conjuntos de planchas remachadas de latón",
-     3,
-     "INTERNIT 5MM"
-    ],
-    [
-     "39121710",
-     "Receptáculo multiplicador eléctrico",
-     1,
-     "RECEPTÁCULO 80X80"
-    ],
-    [
-     "46151601",
-     "Manillas",
-     3,
-     "MANILLA SEGURIDAD INOXIDABLE 60CM"
-    ],
-    [
-     "56122004",
-     "Módulos con fregadero o lavatorio",
-     1,
-     "MONOMANDO LAVATORIO"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=3791-1206-COT26",
-   "sin_detalle": false,
-   "descripcion": "ADQUISICION DE MATERIALES DE CONSTRUCCION PARA ADAPTACION DE BAÑO, SEGUN MEMO 153. SE ADJUNTAN ANEXOS.",
    "en_gracia": false,
    "desaparecida_iso": ""
   },
@@ -1320,6 +1066,95 @@
   {
    "tipo": "OPORTUNIDAD",
    "motivos": [
+    "Suministros y accesorios eléctricos"
+   ],
+   "nueva": false,
+   "codigo": "3791-1206-COT26",
+   "nombre": "MATERIALES AYUDA ASISTENICAL ",
+   "organismo": "I MUNICIPALIDAD DE CISNES",
+   "unidad": "Finanzas",
+   "monto": 210250,
+   "cierre_iso": "2026-11-26T11:00:00-03:00",
+   "publicacion": "23-11 12:27",
+   "publicacion_iso": "2026-11-23T12:27:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "30103604",
+     "Revestimiento o láminas de madera",
+     1,
+     "TERCIADO ESTRUCTURAL 18MM"
+    ],
+    [
+     "30103605",
+     "Tablas de madera",
+     1,
+     "PINO IMPREGNADO 1X4 3.2M"
+    ],
+    [
+     "30103605",
+     "Tablas de madera",
+     3,
+     "PINO VERDE 2X2 X3.2 (P240)"
+    ],
+    [
+     "30103605",
+     "Tablas de madera",
+     2,
+     "PINO VERDE 2X3 X3.2 (P168)"
+    ],
+    [
+     "31161503",
+     "Clavo-tornillo",
+     2,
+     "TORNILLO DRYWALL 1 5/8 (CAJA O BOLSA)"
+    ],
+    [
+     "31161508",
+     "Tornillos para madera",
+     1,
+     "TORNILLO DRYWALL 3\" (CAJA O BOLSA)"
+    ],
+    [
+     "31181509",
+     "Equipos de cubrejuntas",
+     4,
+     "CUBREJUNTA RODON"
+    ],
+    [
+     "31341213",
+     "Conjuntos de planchas remachadas de latón",
+     3,
+     "INTERNIT 5MM"
+    ],
+    [
+     "39121710",
+     "Receptáculo multiplicador eléctrico",
+     1,
+     "RECEPTÁCULO 80X80"
+    ],
+    [
+     "46151601",
+     "Manillas",
+     3,
+     "MANILLA SEGURIDAD INOXIDABLE 60CM"
+    ],
+    [
+     "56122004",
+     "Módulos con fregadero o lavatorio",
+     1,
+     "MONOMANDO LAVATORIO"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=3791-1206-COT26",
+   "sin_detalle": false,
+   "descripcion": "ADQUISICION DE MATERIALES DE CONSTRUCCION PARA ADAPTACION DE BAÑO, SEGUN MEMO 153. SE ADJUNTAN ANEXOS.",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
     "Cables eléctricos y accesorios"
    ],
    "nueva": false,
@@ -1464,6 +1299,60 @@
   }
  ],
  "historial": [
+  {
+   "codigo": "4609-326-COT26",
+   "nombre": "MANGUERA LED Y OTROS",
+   "organismo": "I MUNICIPALIDAD DE CHILE CHICO",
+   "monto": 4000000,
+   "cierre_iso": "2026-11-25T09:00:00-03:00",
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Conectores, enchufes y terminales"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=4609-326-COT26",
+   "primera_vista_iso": "2026-11-23T10:00:26-03:00",
+   "removida_iso": "2026-11-25T10:00:24-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
+  {
+   "codigo": "1286962-86-COT26",
+   "nombre": "DMH SERVICIO DE ARRIENDO DE GENERADOR CENTRO RECREACIONAL \"ALCALDE OSCAR CATALAN SANCHEZ\"",
+   "organismo": "Corporación de Deportes y Recreación de la Municipalidad de Aysén",
+   "monto": 790000,
+   "cierre_iso": "2026-11-25T09:00:00-03:00",
+   "tipo": "POSIBLE",
+   "motivos": [
+    "generador"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1286962-86-COT26",
+   "primera_vista_iso": "2026-11-24T08:00:29-03:00",
+   "removida_iso": "2026-11-25T10:00:24-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
+  {
+   "codigo": "1403-509-COT26",
+   "nombre": "COMPRA DE MATERIALES DE MANTENCIÓN PARA OFICINA OIRS COYHAIQUE",
+   "organismo": "Dirección Regional de Gendarmeria - Coyhaique",
+   "monto": 600000,
+   "cierre_iso": "2026-11-25T09:00:00-03:00",
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Cables eléctricos y accesorios"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1403-509-COT26",
+   "primera_vista_iso": "2026-11-24T09:00:24-03:00",
+   "removida_iso": "2026-11-25T10:00:24-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
   {
    "codigo": "3949-312-COT26",
    "nombre": "Mantenimiento preventivo anual de grupos electrógenos",
