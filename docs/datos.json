@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-11-26T16:00:28.228995-03:00",
+ "actualizado": "2026-11-26T16:10:36.249998-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
- "total_region": 263,
+ "total_region": 258,
  "rubros": {
   "80141600": "Ventas y marketing",
   "82101600": "Publicidad en medios no impresos",
@@ -14,35 +14,6 @@
   "83121700": "Comunicación social y de masas"
  },
  "filas": [
-  {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Ventas y marketing"
-   ],
-   "nueva": false,
-   "codigo": "1746-273-COT26",
-   "nombre": "IMPRESO DE LIBRO DE PREVENCIÓN Y CONTROL DE HANTAVIRUS (567 DSP)",
-   "organismo": "SUBSECRETARIA DE SALUD PUBLICA",
-   "unidad": "Seremi de Salud XI Región",
-   "monto": 1000000,
-   "cierre_iso": "2026-11-26T16:00:00-03:00",
-   "publicacion": "25-11 14:15",
-   "publicacion_iso": "2026-11-25T14:15:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "80141618",
-     "Agencias de marketing de ventas, incluidas las impresiones",
-     450,
-     "Servicio de impresión de libros prevención y control de Hantavirus, de acuerdo con especificaciones indicadas en el adjunto"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1746-273-COT26",
-   "sin_detalle": false,
-   "descripcion": "Solicitado mediante Pedido de Materiales N° 567 del Departamento de Salud Pública",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
   {
    "tipo": "OPORTUNIDAD",
    "motivos": [
@@ -510,6 +481,42 @@
    "desaparecida_iso": ""
   },
   {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "difusion",
+    "publicidad"
+   ],
+   "nueva": true,
+   "codigo": "4144-350-COT26",
+   "nombre": "SE REQUIERE LA ADQUISICION DE 2 PENDONES  PARA DIFUSION DE INICIATIVA INCLUSIVA DEL PROGRAMA DIT ",
+   "organismo": "I MUNICIPALIDAD DE LAGO VERDE",
+   "unidad": "Finanzas",
+   "monto": 150000,
+   "cierre_iso": "2026-11-27T16:05:00-03:00",
+   "publicacion": "26-11 16:03",
+   "publicacion_iso": "2026-11-26T16:03:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "82101502",
+     "Publicidad en carteles",
+     1,
+     "pendon roller tela PVC 90 x 200 cm"
+    ],
+    [
+     "82101502",
+     "Publicidad en carteles",
+     1,
+     "mini roller 30 x 42 cm (mini pendon de sobremesa)"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=4144-350-COT26",
+   "sin_detalle": false,
+   "descripcion": "SE REQUIERE LA ADQUISICION DE 2 PENDONES  PARA DIFUSION DE INICIATIVA INCLUSIVA DEL PROGRAMA DIT .SE ADJUNTAN TDR DE LO SOLICITADO",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
    "tipo": "OPORTUNIDAD",
    "motivos": [
     "Ventas y marketing"
@@ -668,6 +675,24 @@
   }
  ],
  "historial": [
+  {
+   "codigo": "1746-273-COT26",
+   "nombre": "IMPRESO DE LIBRO DE PREVENCIÓN Y CONTROL DE HANTAVIRUS (567 DSP)",
+   "organismo": "SUBSECRETARIA DE SALUD PUBLICA",
+   "monto": 1000000,
+   "cierre_iso": "2026-11-26T16:00:00-03:00",
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Ventas y marketing"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1746-273-COT26",
+   "primera_vista_iso": "2026-11-25T15:00:23-03:00",
+   "removida_iso": "2026-11-26T16:10:36-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
   {
    "codigo": "1182705-237-COT26",
    "nombre": "ADQUISICION DE PIOCHAS LOGO INSTITUCIONAL CFT DE LA REGION DE AYSEN, FOLIO°245",
