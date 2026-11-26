@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-26T19:00:24.539698-03:00",
+ "actualizado": "2026-11-26T20:00:29.942481-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
  "total_region": 272,
@@ -282,7 +282,7 @@
    "motivos": [
     "Ventas y marketing"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "2495-717-COT26",
    "nombre": "PRODUCCION INTEGRAL CARROS LOCOS",
    "organismo": "I MUNICIPALIDAD DE COYHAIQUE",
@@ -2039,7 +2039,7 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=2713-1440-COT26",
    "primera_vista_iso": "2026-11-19T18:00:24-03:00",
    "removida_iso": "2026-11-20T18:00:24-03:00",
-   "estado_api": null,
+   "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,
    "adj_iso": null
@@ -2057,7 +2057,7 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=2713-1438-COT26",
    "primera_vista_iso": "2026-11-19T17:00:24-03:00",
    "removida_iso": "2026-11-20T17:00:37-03:00",
-   "estado_api": null,
+   "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,
    "adj_iso": null
@@ -2075,7 +2075,7 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=4140-112-COT26",
    "primera_vista_iso": "2026-11-19T17:00:24-03:00",
    "removida_iso": "2026-11-20T17:00:37-03:00",
-   "estado_api": null,
+   "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,
    "adj_iso": null

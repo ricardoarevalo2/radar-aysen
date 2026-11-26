@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-26T19:00:24.539698-03:00",
+ "actualizado": "2026-11-26T20:00:29.942481-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
  "total_region": 272,
@@ -2418,25 +2418,6 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=4778-396-COT26",
    "primera_vista_iso": "2026-11-17T12:00:27-03:00",
    "removida_iso": "2026-11-19T23:00:25-03:00",
-   "estado_api": "",
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "697209-34-COT26",
-   "nombre": "CIERRE PERIMETRAL DE SEGURIDAD PARA GRUPO ELECTRÓGENO",
-   "organismo": "MINISTERIO PUBLICO",
-   "monto": 2500000,
-   "cierre_iso": "2026-11-19T20:00:00-03:00",
-   "tipo": "POSIBLE",
-   "motivos": [
-    "generador",
-    "grupo electrógeno"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=697209-34-COT26",
-   "primera_vista_iso": "2026-11-16T19:00:26-03:00",
-   "removida_iso": "2026-11-19T21:00:24-03:00",
    "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,
