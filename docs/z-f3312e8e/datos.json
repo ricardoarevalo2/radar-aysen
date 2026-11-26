@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-11-26T11:00:27.494478-03:00",
+ "actualizado": "2026-11-26T12:00:28.494154-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
- "total_region": 275,
+ "total_region": 260,
  "rubros": {
   "25172700": "Aire acondicionado",
   "25173900": "Componentes eléctricos",
@@ -19,130 +19,6 @@
   "39121400": "Conectores, enchufes y terminales"
  },
  "filas": [
-  {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Suministros y accesorios eléctricos"
-   ],
-   "nueva": false,
-   "codigo": "3791-1206-COT26",
-   "nombre": "MATERIALES AYUDA ASISTENICAL ",
-   "organismo": "I MUNICIPALIDAD DE CISNES",
-   "unidad": "Finanzas",
-   "monto": 210250,
-   "cierre_iso": "2026-11-26T11:00:00-03:00",
-   "publicacion": "23-11 12:27",
-   "publicacion_iso": "2026-11-23T12:27:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "30103604",
-     "Revestimiento o láminas de madera",
-     1,
-     "TERCIADO ESTRUCTURAL 18MM"
-    ],
-    [
-     "30103605",
-     "Tablas de madera",
-     1,
-     "PINO IMPREGNADO 1X4 3.2M"
-    ],
-    [
-     "30103605",
-     "Tablas de madera",
-     3,
-     "PINO VERDE 2X2 X3.2 (P240)"
-    ],
-    [
-     "30103605",
-     "Tablas de madera",
-     2,
-     "PINO VERDE 2X3 X3.2 (P168)"
-    ],
-    [
-     "31161503",
-     "Clavo-tornillo",
-     2,
-     "TORNILLO DRYWALL 1 5/8 (CAJA O BOLSA)"
-    ],
-    [
-     "31161508",
-     "Tornillos para madera",
-     1,
-     "TORNILLO DRYWALL 3\" (CAJA O BOLSA)"
-    ],
-    [
-     "31181509",
-     "Equipos de cubrejuntas",
-     4,
-     "CUBREJUNTA RODON"
-    ],
-    [
-     "31341213",
-     "Conjuntos de planchas remachadas de latón",
-     3,
-     "INTERNIT 5MM"
-    ],
-    [
-     "39121710",
-     "Receptáculo multiplicador eléctrico",
-     1,
-     "RECEPTÁCULO 80X80"
-    ],
-    [
-     "46151601",
-     "Manillas",
-     3,
-     "MANILLA SEGURIDAD INOXIDABLE 60CM"
-    ],
-    [
-     "56122004",
-     "Módulos con fregadero o lavatorio",
-     1,
-     "MONOMANDO LAVATORIO"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=3791-1206-COT26",
-   "sin_detalle": false,
-   "descripcion": "ADQUISICION DE MATERIALES DE CONSTRUCCION PARA ADAPTACION DE BAÑO, SEGUN MEMO 153. SE ADJUNTAN ANEXOS.",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
-  {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Conectores, enchufes y terminales"
-   ],
-   "nueva": true,
-   "codigo": "3950-761-COT26",
-   "nombre": "MATERIAL PARA REHABILITACION",
-   "organismo": "DIRECCION SALUD RURAL",
-   "unidad": "Dirección de Salud Rural",
-   "monto": 500000,
-   "cierre_iso": "2026-11-26T11:30:00-03:00",
-   "publicacion": "25-11 11:23",
-   "publicacion_iso": "2026-11-25T11:23:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "39121436",
-     "Electrodos",
-     100,
-     "ELECTRODOS PARA TENS\nESPECIFICACIONES MEDIDAS 4X4XCM\nENVASE CON 4 UNIDADES"
-    ],
-    [
-     "60141001",
-     "Balones o pelotas de juguete",
-     1,
-     "SET DE BOCHAS ESTANDAR ENTRE 8 A 12 UNIDADES\nAPTO PARA NIÑOS Y ADULTOS\nMEDIDAS 80-100MM\nMATERIAL RESINA"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=3950-761-COT26",
-   "sin_detalle": false,
-   "descripcion": "INCLUIR DESPACHO EN COTIZACION",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
   {
    "tipo": "OPORTUNIDAD",
    "motivos": [
@@ -1691,6 +1567,42 @@
  ],
  "historial": [
   {
+   "codigo": "3950-761-COT26",
+   "nombre": "MATERIAL PARA REHABILITACION",
+   "organismo": "DIRECCION SALUD RURAL",
+   "monto": 500000,
+   "cierre_iso": "2026-11-26T11:30:00-03:00",
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Conectores, enchufes y terminales"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=3950-761-COT26",
+   "primera_vista_iso": "2026-11-25T12:00:29-03:00",
+   "removida_iso": "2026-11-26T12:00:28-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
+  {
+   "codigo": "3791-1206-COT26",
+   "nombre": "MATERIALES AYUDA ASISTENICAL ",
+   "organismo": "I MUNICIPALIDAD DE CISNES",
+   "monto": 210250,
+   "cierre_iso": "2026-11-26T11:00:00-03:00",
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Suministros y accesorios eléctricos"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=3791-1206-COT26",
+   "primera_vista_iso": "2026-11-23T13:00:25-03:00",
+   "removida_iso": "2026-11-26T12:00:28-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
+  {
    "codigo": "1057062-564-COT26",
    "nombre": "Adquisición artículos de Librería para talleres DGDE y experiencia estudiantil- FCA N°101 (FISABS 2442 - 2510 - 2511)",
    "organismo": "UNIVERSIDAD DE AYSEN",
@@ -2643,27 +2555,6 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=2713-1424-COT26",
    "primera_vista_iso": "2026-11-18T12:00:27-03:00",
    "removida_iso": "2026-11-19T14:00:24-03:00",
-   "estado_api": "",
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "4066-529-COT26",
-   "nombre": "SERVICIO DE MANTENCIÓN Y ADECUACIÓN DE INSTALACIONES ELÉCTRICAS EN EL GIMNASIO IND DE PUERTO INGENIERO IBÁÑEZ",
-   "organismo": "I MUNICIPALIDAD RIO IBANEZ",
-   "monto": 728700,
-   "cierre_iso": "2026-11-19T12:00:00-03:00",
-   "tipo": "POSIBLE",
-   "motivos": [
-    "aire acondicionado",
-    "eléctrico",
-    "instalaciones eléctricas",
-    "luminarias"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=4066-529-COT26",
-   "primera_vista_iso": "2026-11-18T12:00:27-03:00",
-   "removida_iso": "2026-11-19T13:00:23-03:00",
    "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,
