@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-11-26T14:00:25.167395-03:00",
+ "actualizado": "2026-11-26T15:00:29.812471-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
- "total_region": 256,
+ "total_region": 259,
  "rubros": {
   "25172700": "Aire acondicionado",
   "25173900": "Componentes eléctricos",
@@ -20,280 +20,11 @@
  },
  "filas": [
   {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Interruptores, controles y relés"
-   ],
-   "nueva": false,
-   "codigo": "4644-164-COT26",
-   "nombre": " MATERIAL DE FAENA III REMESA GORE MAÑIHUALES, SIC:514 SIRE:477",
-   "organismo": "CORP NACIONAL FORESTAL",
-   "unidad": "XI Región - Oficina Provincial Aysen",
-   "monto": 5600000,
-   "cierre_iso": "2026-11-26T14:00:00-03:00",
-   "publicacion": "25-11 12:53",
-   "publicacion_iso": "2026-11-25T12:53:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "11111501",
-     "Tierra",
-     5,
-     "Tierra de color roja. Bolsa de 1 kilo."
-    ],
-    [
-     "12352310",
-     "Siliconas",
-     8,
-     "Tubo de silicona transparente, sellada universal para pistola calafatera. 280ml."
-    ],
-    [
-     "13102011",
-     "Nylon - Poliamida (PA)",
-     2,
-     "Nylon para orilladora de pasto de 2,7 mm. Carrete industrial  largo 3, 73 metros."
-    ],
-    [
-     "24101506",
-     "Carretillas de mano",
-     15,
-     "Cámara  de rueda para carretilla 350x8."
-    ],
-    [
-     "24101611",
-     "Eslingas",
-     8,
-     "Eslinga tensor 50mmx4tonx9m"
-    ],
-    [
-     "27111508",
-     "Sierras",
-     9,
-     "Serrucho carpintero 22'', color mango rojo con azul, Dimensiones Profundidad 55 cm, Largo 55 cm. Material de Acero/plástico."
-    ],
-    [
-     "27111604",
-     "Hachas de mano",
-     4,
-     "Hacha de mano mango fibra de vidrio 600 grs."
-    ],
-    [
-     "27111707",
-     "Llaves ajustables",
-     1,
-     "Juego llaves combinadas fijas, 17 piezas de 6-32mm, acero cromado."
-    ],
-    [
-     "27111722",
-     "Portadados",
-     1,
-     "Set de dados de impacto 1\" y 3/4 profesional de 26 piezas."
-    ],
-    [
-     "27111801",
-     "Cintas métricas",
-     5,
-     "Cinta o huincha métrica  de 7,5 metros  con un ancho estándar de hoja de 25 mm aprox."
-    ],
-    [
-     "27111803",
-     "Escuadras",
-     3,
-     "Escuadra metálica carpintero 10\" con escalas milimétricas y en pulgadas para trazos  de 90° y 45°."
-    ],
-    [
-     "27112001",
-     "Machetes",
-     8,
-     "Machete tipo Truper. Largo de la hoja 18\"."
-    ],
-    [
-     "27112007",
-     "Tijeras de podar",
-     8,
-     "Tijerón de poda extensible de 60 a 84 cm."
-    ],
-    [
-     "27112708",
-     "Lijadoras mecánicas",
-     20,
-     "Lija al agua, grano 80."
-    ],
-    [
-     "27112802",
-     "Hojas de sierra",
-     100,
-     "Hoja de sierra 12\", 24 dientes por pulgada, espesor de 0,65mm, largo de 30cm."
-    ],
-    [
-     "27112803",
-     "Fresas de escariar con mango",
-     15,
-     "Fresas (o brocas) para router tipo Truper de 1/2\", corte recto, largo 55,5mm."
-    ],
-    [
-     "27112803",
-     "Fresas de escariar con mango",
-     25,
-     "Fresas madera recta toma de 1/4\"50mm corte y 76mm corte."
-    ],
-    [
-     "31151502",
-     "Cuerda de poliéster",
-     10,
-     "Cuerda cordel de amarre de 8mmx10 metros"
-    ],
-    [
-     "31161503",
-     "Clavo-tornillo",
-     50,
-     "Clavos corrientes de 4\". Aplicación: Madera. Bolsa de 1 kg."
-    ],
-    [
-     "31161503",
-     "Clavo-tornillo",
-     15,
-     "Tornillos para madera de 6X 2 pulgadas. Bolsa de 100 unidades. Cabeza: Avellanada tipo Phillips."
-    ],
-    [
-     "31161503",
-     "Clavo-tornillo",
-     8,
-     "Clavo de techo helicoidal de 2 1/2\".Terminación: zincado (galvanizado), Formato en bolsa de 100 unidades."
-    ],
-    [
-     "31161601",
-     "Pernos de anclaje",
-     10,
-     "Pernos anclaje metálicos para Wc, Tipo de tornillo: Tirafondo, Forma de la cabeza: Hexagonal."
-    ],
-    [
-     "31161606",
-     "Cerrojos de puerta",
-     6,
-     "Bisagra de pasador suelto zincada de 3 × 3 pulgadas."
-    ],
-    [
-     "31161606",
-     "Cerrojos de puerta",
-     10,
-     "Bisagra 2 1/2\". Pack de 2 unidades"
-    ],
-    [
-     "31161606",
-     "Cerrojos de puerta",
-     10,
-     "Bisagra 1 1/2\". Pack de 2 unidades."
-    ],
-    [
-     "31162108",
-     "Anclajes de amarrar",
-     100,
-     "Amarra plástica 100cm."
-    ],
-    [
-     "31162906",
-     "Abrazaderas de manguera o tubo",
-     20,
-     "Abrazadera metálica zincada Manguera de 12x20mm."
-    ],
-    [
-     "31201516",
-     "Cinta reflectiva",
-     8,
-     "Cinta reflectante, color: blanca con rojo, 45 metros."
-    ],
-    [
-     "31211507",
-     "Pinturas en aerosol",
-     165,
-     "Pintura spray uso general rojo 400ml."
-    ],
-    [
-     "31211906",
-     "Rodillos de pintar",
-     10,
-     "Rodillo espuma poliéster 7 cm."
-    ],
-    [
-     "31241602",
-     "Discos de cristal",
-     100,
-     "Disco flap acero  para pulir madera 4 1/2\" grano 120"
-    ],
-    [
-     "31241602",
-     "Discos de cristal",
-     6,
-     "Carda de copa trenzada 3\""
-    ],
-    [
-     "31241602",
-     "Discos de cristal",
-     200,
-     "Disco de corte rápido de acero de 4 1/2\" para esmeriles angulares. Formato 100 unidades."
-    ],
-    [
-     "31241602",
-     "Discos de cristal",
-     150,
-     "Disco Lija madera 150mm Para Lijadora de banda, Largo x ancho: 15 x15cm. 3 unidades por pack."
-    ],
-    [
-     "39101618",
-     "ampolletas de neón",
-     35,
-     "Ampolleta Led 15W, luz blanca."
-    ],
-    [
-     "39121533",
-     "Piezas de interruptor y accesorios",
-     6,
-     "Interruptor simple embutido, Corriente nominal: 10 A, Voltaje: 250V AC, Color: blanco."
-    ],
-    [
-     "40142317",
-     "Codo de tubería",
-     10,
-     "Válvula esférica Compacta PVC gris, Hidráulico Hi-hi 1/2\"."
-    ],
-    [
-     "40142317",
-     "Codo de tubería",
-     10,
-     "Tapa gorro 20 mm PVC hidráulico."
-    ],
-    [
-     "40142317",
-     "Codo de tubería",
-     10,
-     "Terminal He 20 x1/2\" PVC hidráulico."
-    ],
-    [
-     "40142317",
-     "Codo de tubería",
-     10,
-     "Codo 90° de PVC, Hilo Hi, 20x1/2 PVC hidráulico."
-    ],
-    [
-     "46171501",
-     "Candados",
-     5,
-     "Candado mediano (40 mm) con llaves."
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=4644-164-COT26",
-   "sin_detalle": false,
-   "descripcion": "CONAF requiere la compra de material de faenas para su área productiva en Proyecto Gore mañihuales para el cumplimiento de metas. Despacho en Oficina Provincial CONAF ubicada en ruta 240 km 2 camino Aysén Coyhaique.",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
-  {
    "tipo": "POSIBLE",
    "motivos": [
     "ampolleta"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "3949-319-COT26",
    "nombre": "TUBOS DE LUZ BLANCA FRIA O AMPOLLETA PARA LUPA T 22W DE 6500K ",
    "organismo": "CONSULTORIO GENERAL URBANO DR ALEJANDRO GUTIERREZ",
@@ -322,7 +53,7 @@
    "motivos": [
     "Gasfitería, calefacción y aire acondicionado"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "1403-513-COT26",
    "nombre": "SERVICIO DE MANTENCIÓN DE AIRE A CONDICIONADO CON RECARGA DE REFRIGERANTE - CAIS COYHAIQUE",
    "organismo": "Dirección Regional de Gendarmeria - Coyhaique",
@@ -537,7 +268,7 @@
    "motivos": [
     "Conectores, enchufes y terminales"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "553153-21-COT26",
    "nombre": "Materiales de construcción",
    "organismo": "DELEGACIÓN PRESIDENCIAL PROVINCIAL DE GENERAL CARRERA",
@@ -967,6 +698,35 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=1195-630-COT26",
    "sin_detalle": false,
    "descripcion": "SE REQUIERE SERVICIO DE INSTALACION DE PUNTOS DE RED EN NUEVO EDIFICIO DEL JUZGADO DE POLICIA LOCAL DE COYHAIQUE EN CALLE GRAL PARRA ESQUINA 12 DE OCTUBRE",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Gasfitería, calefacción y aire acondicionado"
+   ],
+   "nueva": true,
+   "codigo": "1004-42-COT26",
+   "nombre": "INSTALACIÓN DE 2 EQUIPOS DE AIRE ACONDICIONADO",
+   "organismo": "MINISTERIO DE OBRAS PUBLICAS DIREC CION GRAL DE OO PP DCYF",
+   "unidad": "Dirección de Vialidad - XI Región - Provincia de Coyhaique",
+   "monto": 180000,
+   "cierre_iso": "2026-11-27T15:00:00-03:00",
+   "publicacion": "26-11 14:21",
+   "publicacion_iso": "2026-11-26T14:21:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "72102305",
+     "Servicios de reparación, mantenimiento o reparación de aire acondicionado",
+     1,
+     "INSTALACION DE 2 EQUIPOS DE AIRE ACONDICIONADO (1 DE 24.000 BTU INSTALADO EN UNA OFICINA Y OTRO DE 9.000 BTU INSTALADO EN LA CASETA DE LOS GUARDIAS). LA INSTALACION DEBE CONSIDERAR:\nSOPORTES, TORNILOS DE FIJACION, CANALETAS DE PROTECCION DE LOS CABLES Y TODO LO NECESARIO PARA QUE LOS EQUIPOS QUEDEN OPERATIVOS Y FUNCIONANDO DENTRO DE SU NORMA DE SEGURIDAD."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1004-42-COT26",
+   "sin_detalle": false,
+   "descripcion": "Se requiere la instalación de 2 equipos de aire acondicionado en dependencias de la Oficina Provincial Vialidad Coyhaique.",
    "en_gracia": false,
    "desaparecida_iso": ""
   },
@@ -1494,6 +1254,35 @@
   {
    "tipo": "POSIBLE",
    "motivos": [
+    "electricidad"
+   ],
+   "nueva": true,
+   "codigo": "868-118-COT26",
+   "nombre": "TRABAJOS DE REPARACIÓN DE OBRAS MENORES EN EDIFICIOS GORE AYSÉN DE CALLE EJERCITO 405 Y PARRA 101, COYHAIQUE",
+   "organismo": "GOBIERNO REGIONAL DE AYSEN",
+   "unidad": "Gobierno Regional de Aysen - XI Región",
+   "monto": 7000000,
+   "cierre_iso": "2026-11-30T15:00:00-03:00",
+   "publicacion": "26-11 14:47",
+   "publicacion_iso": "2026-11-26T14:47:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "72101607",
+     "Instalación o reparación de paredes",
+     1,
+     "BASES TÉCNICAS ADJUNTAS : Estos trabajos son necesarios para el correcto funcionamiento de ambos edificios institucionales, ya que permiten garantizar la seguridad de las instalaciones, prevenir el deterioro de la infraestructura, brindar una adecuada atención a los usuarios y mantener las condiciones óptimas para que los funcionarios de esta Entidad cumplan con sus funciones diarias."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=868-118-COT26",
+   "sin_detalle": false,
+   "descripcion": "El Gobierno Regional de Aysén, requiere la realización de trabajos de reparación, electricidad, mantención y obras menores, en los 02 Edificios Institucionales, de ubicación en calle Ejercito N°405 y calle Parra N° 101, Coyhaique.\nEDIFICIO 1, CALLE EJÉRCITO 405: viernes 27.11.2026, 10:00 hrs., espera 10 minutos, en recepción de edificio y EDIFICIO 2: CALLE PARA 101: viernes 27.11.2026, 12:00 hrs., espera 10 minutos, en recepción de edificio",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
     "eléctrico"
    ],
    "nueva": false,
@@ -1522,6 +1311,24 @@
   }
  ],
  "historial": [
+  {
+   "codigo": "4644-164-COT26",
+   "nombre": " MATERIAL DE FAENA III REMESA GORE MAÑIHUALES, SIC:514 SIRE:477",
+   "organismo": "CORP NACIONAL FORESTAL",
+   "monto": 5600000,
+   "cierre_iso": "2026-11-26T14:00:00-03:00",
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Interruptores, controles y relés"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=4644-164-COT26",
+   "primera_vista_iso": "2026-11-25T14:00:24-03:00",
+   "removida_iso": "2026-11-26T15:00:29-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
   {
    "codigo": "868-108-COT26",
    "nombre": "El Gobierno Regional de Aysén, requiere, CABLES DE CONECCIONES HDMI 2.1",
@@ -2509,26 +2316,6 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=3797-542-COT26",
    "primera_vista_iso": "2026-11-18T16:00:26-03:00",
    "removida_iso": "2026-11-19T16:00:25-03:00",
-   "estado_api": "",
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "1092-89-COT26",
-   "nombre": " SIC N°464 SIRE N°449 Materiales de construcción DEPRIF",
-   "organismo": "CORP NACIONAL FORESTAL",
-   "monto": 2382419,
-   "cierre_iso": "2026-11-19T15:00:00-03:00",
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Cajas y accesorios eléctricos",
-    "Conectores, enchufes y terminales",
-    "Interruptores, controles y relés"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1092-89-COT26",
-   "primera_vista_iso": "2026-11-13T14:00:24-03:00",
-   "removida_iso": "2026-11-19T15:25:38-03:00",
    "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,

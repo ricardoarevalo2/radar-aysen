@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-11-26T14:00:25.167395-03:00",
+ "actualizado": "2026-11-26T15:00:29.812471-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
- "total_region": 256,
+ "total_region": 259,
  "rubros": {
   "80141600": "Ventas y marketing",
   "82101600": "Publicidad en medios no impresos",
@@ -48,7 +48,7 @@
    "motivos": [
     "Ventas y marketing"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "1746-273-COT26",
    "nombre": "IMPRESO DE LIBRO DE PREVENCIÓN Y CONTROL DE HANTAVIRUS (567 DSP)",
    "organismo": "SUBSECRETARIA DE SALUD PUBLICA",
@@ -1782,26 +1782,6 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=1201-208-COT26",
    "primera_vista_iso": "2026-11-18T16:00:26-03:00",
    "removida_iso": "2026-11-19T17:00:24-03:00",
-   "estado_api": "",
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "1057062-548-COT26",
-   "nombre": "Servicio de emisión de spots en radioemisora con cobertura regional en Aysén.",
-   "organismo": "UNIVERSIDAD DE AYSEN",
-   "monto": 322000,
-   "cierre_iso": "2026-11-19T15:00:00-03:00",
-   "tipo": "POSIBLE",
-   "motivos": [
-    "radiales",
-    "radioemisora",
-    "spots"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1057062-548-COT26",
-   "primera_vista_iso": "2026-11-17T15:00:50-03:00",
-   "removida_iso": "2026-11-19T15:25:38-03:00",
    "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,
