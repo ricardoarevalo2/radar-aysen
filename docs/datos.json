@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-11-26T15:00:29.812471-03:00",
+ "actualizado": "2026-11-26T16:00:28.228995-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
- "total_region": 259,
+ "total_region": 263,
  "rubros": {
   "80141600": "Ventas y marketing",
   "82101600": "Publicidad en medios no impresos",
@@ -14,35 +14,6 @@
   "83121700": "Comunicación social y de masas"
  },
  "filas": [
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "publicitaria"
-   ],
-   "nueva": true,
-   "codigo": "1182705-237-COT26",
-   "nombre": "ADQUISICION DE PIOCHAS LOGO INSTITUCIONAL CFT DE LA REGION DE AYSEN, FOLIO°245",
-   "organismo": "CENTRO DE FORMACIÓN TÉCNICA DE LA REGIÓN DE AYSÉN DEL GENERAL CARLOS I",
-   "unidad": "FINANZAS",
-   "monto": 385000,
-   "cierre_iso": "2026-11-26T15:20:00-03:00",
-   "publicacion": "25-11 15:17",
-   "publicacion_iso": "2026-11-25T15:17:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "82121505",
-     "Impresión promocional o publicitaria",
-     110,
-     "Piochas metálicas redondas de 2,5 cm de diámetro, con impresión del logo institucional a color, en alta definición y con resina protectora. (OBLIGACION: Adjuntar cotización)."
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1182705-237-COT26",
-   "sin_detalle": false,
-   "descripcion": "Se requiere la compra de piochas con logo institucional para ceremonia de investidura de los estudiantes de la carrera TNS en Veterinaria y Producción Agrícola, TNS en Diferencial y TNS en Parvulario y primer ciclo de enseñanza Básica. Los productos deben ser entregados en oficinas ubicada en José Miguel Carrera 133, Coyhaique. (OBLIGACION: Adjuntar cotización)",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
   {
    "tipo": "OPORTUNIDAD",
    "motivos": [
@@ -485,6 +456,64 @@
    "motivos": [
     "Ventas y marketing"
    ],
+   "nueva": true,
+   "codigo": "2495-721-COT26",
+   "nombre": "PRODUCCION NAVIDEÑA",
+   "organismo": "I MUNICIPALIDAD DE COYHAIQUE",
+   "unidad": "DIRECCION DESARROLLO COMUNITARIO",
+   "monto": 7200000,
+   "cierre_iso": "2026-11-27T16:00:00-03:00",
+   "publicacion": "26-11 15:13",
+   "publicacion_iso": "2026-11-26T15:13:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "80141607",
+     "Producción de eventos",
+     1,
+     "SE REQUIERE EL SERVICIO DE PRODUCCION PARA ENCENDIDO DE ARBOL NAVIDEÑO SEGUN TDR ADJUNTAS EN ESTA COMPRA, SE PREVILEGIARA PROVEEDOR DE LA COMUNA DE COYHAIQUE CON DISPONIBILIDAD INMEDIATA Y DISPOSICION A MODIFICACION EN TIEMPO Y FORMA, ADJUNTAR COTIZACION SEGUN TDR"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=2495-721-COT26",
+   "sin_detalle": false,
+   "descripcion": "SE REQUIERE EL SERVICIO DE PRODUCCION PARA ENCENDIDO DE ARBOL NAVIDEÑO SEGUN TDR ADJUNTAS EN ESTA COMPRA, SE PREVILEGIARA PROVEEDOR DE LA COMUNA DE COYHAIQUE CON DISPONIBILIDAD INMEDIATA Y DISPOSICION A MODIFICACION EN TIEMPO Y FORMA, ADJUNTAR COTIZACION SEGUN TDR",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "radio"
+   ],
+   "nueva": true,
+   "codigo": "1403-526-COT26",
+   "nombre": "COMPRA DE IMPLEMENTOS DEPORTIVOS PARA LAS UNIDADES PENALES",
+   "organismo": "Dirección Regional de Gendarmeria - Coyhaique",
+   "unidad": "Región de Aysén",
+   "monto": 1000000,
+   "cierre_iso": "2026-11-27T16:00:00-03:00",
+   "publicacion": "26-11 15:07",
+   "publicacion_iso": "2026-11-26T15:07:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "49161505",
+     "Balones de fútbol",
+     45,
+     "BALON BABY FUTBOL"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1403-526-COT26",
+   "sin_detalle": false,
+   "descripcion": "E1O2RT9, COMPRA DE IMPLEMENTOS DEPORTIVOS PARA LAS UNIDADES PENALES, EL PROVEEDOR QUE SE ENCUENTRE DENTRO DEL RADIO URBANO DE COYHAIQUE Y CON 01 DÍA HÁBIL DE PLAZO.",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Ventas y marketing"
+   ],
    "nueva": false,
    "codigo": "4066-555-COT26",
    "nombre": "SERVICIO DE AMPLIFICACIÓN, ILUMINACIÓN Y PRESENTACIÓN MUSICAL ENCUENTRO DE ACORDEÓN Y GUITARRA 2026, Segun TDR adjuntos",
@@ -514,7 +543,7 @@
    "motivos": [
     "radial"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "4140-116-COT26",
    "nombre": "ADQUISICION DE NEUMATICOS PARA CAMIONETA MUNICIPAL ",
    "organismo": "I MUNICIPALIDAD DE LAGO VERDE",
@@ -639,6 +668,24 @@
   }
  ],
  "historial": [
+  {
+   "codigo": "1182705-237-COT26",
+   "nombre": "ADQUISICION DE PIOCHAS LOGO INSTITUCIONAL CFT DE LA REGION DE AYSEN, FOLIO°245",
+   "organismo": "CENTRO DE FORMACIÓN TÉCNICA DE LA REGIÓN DE AYSÉN DEL GENERAL CARLOS I",
+   "monto": 385000,
+   "cierre_iso": "2026-11-26T15:20:00-03:00",
+   "tipo": "POSIBLE",
+   "motivos": [
+    "publicitaria"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1182705-237-COT26",
+   "primera_vista_iso": "2026-11-25T16:00:27-03:00",
+   "removida_iso": "2026-11-26T16:00:28-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
   {
    "codigo": "1195-613-COT26",
    "nombre": "SERVICIO DE DIFUSION PROYECTO DE RCICLAJE",
@@ -1763,24 +1810,6 @@
    ],
    "link": "https://buscador.mercadopublico.cl/ficha?code=1153624-63-COT26",
    "primera_vista_iso": "2026-11-18T17:00:27-03:00",
-   "removida_iso": "2026-11-19T17:00:24-03:00",
-   "estado_api": "",
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "1201-208-COT26",
-   "nombre": "SERVICIO DE SONIDO – AMPLIFICACIÓN - ANIMACIÓN  EVENTOS SUB10 – SUB12 – JUVENIL JUEGOS DEPORTIVOS ESCOLARES 2026",
-   "organismo": "INSTITUTO NACIONAL DE DEPORTES DE CHILE",
-   "monto": 5300000,
-   "cierre_iso": "2026-11-19T16:00:00-03:00",
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Ventas y marketing"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1201-208-COT26",
-   "primera_vista_iso": "2026-11-18T16:00:26-03:00",
    "removida_iso": "2026-11-19T17:00:24-03:00",
    "estado_api": "",
    "adj_nombre": null,

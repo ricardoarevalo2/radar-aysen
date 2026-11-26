@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-11-26T15:00:29.812471-03:00",
+ "actualizado": "2026-11-26T16:00:28.228995-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
- "total_region": 259,
+ "total_region": 263,
  "rubros": {
   "25172700": "Aire acondicionado",
   "25173900": "Componentes eléctricos",
@@ -19,64 +19,6 @@
   "39121400": "Conectores, enchufes y terminales"
  },
  "filas": [
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "ampolleta"
-   ],
-   "nueva": false,
-   "codigo": "3949-319-COT26",
-   "nombre": "TUBOS DE LUZ BLANCA FRIA O AMPOLLETA PARA LUPA T 22W DE 6500K ",
-   "organismo": "CONSULTORIO GENERAL URBANO DR ALEJANDRO GUTIERREZ",
-   "unidad": "ID 3949 - CESFAM Dr Alejandro Gutiérrez",
-   "monto": 60000,
-   "cierre_iso": "2026-11-26T14:59:00-03:00",
-   "publicacion": "25-11 14:58",
-   "publicacion_iso": "2026-11-25T14:58:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "39111704",
-     "Luces proyectantes",
-     4,
-     "TUBOS DE LUZ BLANCA PARA LUPA T4 22W DE 6500K"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=3949-319-COT26",
-   "sin_detalle": false,
-   "descripcion": "SE REQUIERE ADQUIRIR TUBOS DE LUZ BLANCA CON ENTREGA INMEDIATA EN COYHAIQUE, ADJUNTAR FICHA TECNICA DEL PRODUCTO.",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
-  {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Gasfitería, calefacción y aire acondicionado"
-   ],
-   "nueva": false,
-   "codigo": "1403-513-COT26",
-   "nombre": "SERVICIO DE MANTENCIÓN DE AIRE A CONDICIONADO CON RECARGA DE REFRIGERANTE - CAIS COYHAIQUE",
-   "organismo": "Dirección Regional de Gendarmeria - Coyhaique",
-   "unidad": "Región de Aysén",
-   "monto": 444763,
-   "cierre_iso": "2026-11-26T15:00:00-03:00",
-   "publicacion": "25-11 14:29",
-   "publicacion_iso": "2026-11-25T14:29:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "72102305",
-     "Servicios de reparación, mantenimiento o reparación de aire acondicionado",
-     5,
-     "MANTENCIÓN DE AIRE ACONDICIONADO Y RECARGA DE REFRIGERANTE. 4 AC MODELO CLARK INCM-09HRE \n9000 BTU SPLIT Y 1  AC CLARK INCM-12HRE 12000 BTU SPLIT"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1403-513-COT26",
-   "sin_detalle": false,
-   "descripcion": "E1O2RT9 - SERVICIO DE MANTENCIÓN DE AIRE A CONDICIONADO CON RECARGA DE REFRIGERANTE - CAIS COYHAIQUE. CRITERIOS DE EVALUACIÓN: PRECIO 88% - PLAZO DE ENTREGA 10% - SUSTENTABILIDAD 2%",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
   {
    "tipo": "POSIBLE",
    "motivos": [
@@ -702,6 +644,35 @@
    "desaparecida_iso": ""
   },
   {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "ampolleta"
+   ],
+   "nueva": false,
+   "codigo": "3949-319-COT26",
+   "nombre": "TUBOS DE LUZ BLANCA FRIA O AMPOLLETA PARA LUPA T 22W DE 6500K ",
+   "organismo": "CONSULTORIO GENERAL URBANO DR ALEJANDRO GUTIERREZ",
+   "unidad": "ID 3949 - CESFAM Dr Alejandro Gutiérrez",
+   "monto": 60000,
+   "cierre_iso": "2026-11-27T14:59:00-03:00",
+   "publicacion": "25-11 14:58",
+   "publicacion_iso": "2026-11-25T14:58:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "39111704",
+     "Luces proyectantes",
+     4,
+     "TUBOS DE LUZ BLANCA PARA LUPA T4 22W DE 6500K"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=3949-319-COT26",
+   "sin_detalle": false,
+   "descripcion": "SE REQUIERE ADQUIRIR TUBOS DE LUZ BLANCA CON ENTREGA INMEDIATA EN COYHAIQUE, ADJUNTAR FICHA TECNICA DEL PRODUCTO.",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
    "tipo": "OPORTUNIDAD",
    "motivos": [
     "Gasfitería, calefacción y aire acondicionado"
@@ -735,7 +706,7 @@
    "motivos": [
     "eléctricos"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "1538639-21-COT26",
    "nombre": "Asesoría técnico-regulatoria sobre Sistemas Eléctricos Medianos – Región de Aysén",
    "organismo": "CORPORACIÓN DE DESARROLLO DEL GOBIERNO REGIONAL DE AYSÉN",
@@ -756,6 +727,35 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=1538639-21-COT26",
    "sin_detalle": false,
    "descripcion": "Se requiere contratar una asesoría especializada para el análisis técnico, económico y regulatorio del proyecto de reglamento de la Ley N.º 21.804 sobre Sistemas Eléctricos Medianos, con enfoque en la Región de Aysén. Incluye diagnóstico regional, matriz de observaciones y propuestas regulatorias y documento final de observaciones institucionales, conforme a minuta de requerimiento adjunta. Fecha máxima de entrega: 21 de diciembre de 2026.",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Gasfitería, calefacción y aire acondicionado"
+   ],
+   "nueva": false,
+   "codigo": "1403-513-COT26",
+   "nombre": "SERVICIO DE MANTENCIÓN DE AIRE A CONDICIONADO CON RECARGA DE REFRIGERANTE - CAIS COYHAIQUE",
+   "organismo": "Dirección Regional de Gendarmeria - Coyhaique",
+   "unidad": "Región de Aysén",
+   "monto": 444763,
+   "cierre_iso": "2026-11-27T15:30:00-03:00",
+   "publicacion": "25-11 14:29",
+   "publicacion_iso": "2026-11-25T14:29:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "72102305",
+     "Servicios de reparación, mantenimiento o reparación de aire acondicionado",
+     5,
+     "MANTENCIÓN DE AIRE ACONDICIONADO Y RECARGA DE REFRIGERANTE. 4 AC MODELO CLARK INCM-09HRE \n9000 BTU SPLIT Y 1  AC CLARK INCM-12HRE 12000 BTU SPLIT"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1403-513-COT26",
+   "sin_detalle": false,
+   "descripcion": "E1O2RT9 - SERVICIO DE MANTENCIÓN DE AIRE A CONDICIONADO CON RECARGA DE REFRIGERANTE - CAIS COYHAIQUE. CRITERIOS DE EVALUACIÓN: PRECIO 88% - PLAZO DE ENTREGA 10% - SUSTENTABILIDAD 2%",
    "en_gracia": false,
    "desaparecida_iso": ""
   },
@@ -1252,6 +1252,70 @@
    "desaparecida_iso": ""
   },
   {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Materiales de física de electricidad"
+   ],
+   "nueva": true,
+   "codigo": "1233615-1041-COT26",
+   "nombre": "RMG-SOL01535-Liceo Luisa Rabanal, Equipamiento para simulación EMTP 29.05, despacho incluido a Chile Chico.",
+   "organismo": "Servicio Local de Educación Pública Aysén",
+   "unidad": "Servicio Local de Educación Pública Aysén",
+   "monto": 7000000,
+   "cierre_iso": "2026-11-28T12:13:00-03:00",
+   "publicacion": "23-11 15:03",
+   "publicacion_iso": "2026-11-23T15:03:00-03:00",
+   "ofertas": 2,
+   "productos": [
+    [
+     "60104905",
+     "Placas de demostración de electricidad",
+     1,
+     "Según archivo adjunto, equipamiento para simulación EMTP Electricidad"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1233615-1041-COT26",
+   "sin_detalle": false,
+   "descripcion": "Según detalle adjunto, despacho incluido a Chile Chico.",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "luminarias"
+   ],
+   "nueva": true,
+   "codigo": "4144-349-COT26",
+   "nombre": "Se requiere servicio de Camaraderia para Cierre de proyecto provision e instalacion de luminarias Led",
+   "organismo": "I MUNICIPALIDAD DE LAGO VERDE",
+   "unidad": "Finanzas",
+   "monto": 1100000,
+   "cierre_iso": "2026-11-30T09:00:00-03:00",
+   "publicacion": "26-11 15:46",
+   "publicacion_iso": "2026-11-26T15:46:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "50181905",
+     "Galletas dulces o pastelitos",
+     1,
+     "TORTA PARA 40 PERSONAS"
+    ],
+    [
+     "90101603",
+     "Servicios de catering",
+     1,
+     "SERVICIO DE CAMARADERIA PARA 40 PERSONAS ,CONTEMPLA EL SIGUIENTE MENU: CORDERO , PAPAS COCIDAS, ENSALADA MIXTA TOMATE, PEPINO, LECHUGA; BEBESTIBLE: 8 AGUAS SABORIZADAS DE 1.5 LITROS"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=4144-349-COT26",
+   "sin_detalle": false,
+   "descripcion": "Se requiere servicio de Camaraderia para Cierre de proyecto provision e instalacion de luminarias Led",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
    "tipo": "POSIBLE",
    "motivos": [
     "electricidad"
@@ -1277,6 +1341,35 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=868-118-COT26",
    "sin_detalle": false,
    "descripcion": "El Gobierno Regional de Aysén, requiere la realización de trabajos de reparación, electricidad, mantención y obras menores, en los 02 Edificios Institucionales, de ubicación en calle Ejercito N°405 y calle Parra N° 101, Coyhaique.\nEDIFICIO 1, CALLE EJÉRCITO 405: viernes 27.11.2026, 10:00 hrs., espera 10 minutos, en recepción de edificio y EDIFICIO 2: CALLE PARA 101: viernes 27.11.2026, 12:00 hrs., espera 10 minutos, en recepción de edificio",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Gasfitería, calefacción y aire acondicionado"
+   ],
+   "nueva": true,
+   "codigo": "1905-90-COT26",
+   "nombre": "Servicio de mejoramiento de calefacción en oficina de Puerto Aysén y Coyhaique",
+   "organismo": "SERVICIO DE REGISTRO CIVIL E IDENTIFICAC",
+   "unidad": "Dirección Regional XI Región",
+   "monto": 6000000,
+   "cierre_iso": "2026-12-03T08:01:00-03:00",
+   "publicacion": "19-11 17:28",
+   "publicacion_iso": "2026-11-19T17:28:00-03:00",
+   "ofertas": 1,
+   "productos": [
+    [
+     "72102305",
+     "Servicios de reparación, mantenimiento o reparación de aire acondicionado",
+     1,
+     "Servicio de mejoramiento de calefacción en oficina de Puerto Aysén y Coyhaique"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1905-90-COT26",
+   "sin_detalle": false,
+   "descripcion": "Servicio de mejoramiento de calefacción en oficina de Puerto Aysén y Coyhaique",
    "en_gracia": false,
    "desaparecida_iso": ""
   },
@@ -1431,24 +1524,6 @@
    ],
    "link": "https://buscador.mercadopublico.cl/ficha?code=1057062-564-COT26",
    "primera_vista_iso": "2026-11-24T11:00:26-03:00",
-   "removida_iso": "2026-11-26T11:00:27-03:00",
-   "estado_api": null,
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "1905-90-COT26",
-   "nombre": "Servicio de mejoramiento de calefacción en oficina de Puerto Aysén y Coyhaique",
-   "organismo": "SERVICIO DE REGISTRO CIVIL E IDENTIFICAC",
-   "monto": 6000000,
-   "cierre_iso": "2026-11-26T10:00:00-03:00",
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Gasfitería, calefacción y aire acondicionado"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1905-90-COT26",
-   "primera_vista_iso": "2026-11-19T18:00:24-03:00",
    "removida_iso": "2026-11-26T11:00:27-03:00",
    "estado_api": null,
    "adj_nombre": null,
@@ -1612,24 +1687,6 @@
    ],
    "link": "https://buscador.mercadopublico.cl/ficha?code=1182705-230-COT26",
    "primera_vista_iso": "2026-11-23T13:00:25-03:00",
-   "removida_iso": "2026-11-25T14:00:24-03:00",
-   "estado_api": null,
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "1233615-1041-COT26",
-   "nombre": "RMG-SOL01535-Liceo Luisa Rabanal, Equipamiento para simulación EMTP 29.05, despacho incluido a Chile Chico.",
-   "organismo": "Servicio Local de Educación Pública Aysén",
-   "monto": 7000000,
-   "cierre_iso": "2026-11-25T12:00:00-03:00",
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Materiales de física de electricidad"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1233615-1041-COT26",
-   "primera_vista_iso": "2026-11-23T16:00:27-03:00",
    "removida_iso": "2026-11-25T14:00:24-03:00",
    "estado_api": null,
    "adj_nombre": null,
@@ -2280,42 +2337,6 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=4066-527-COT26",
    "primera_vista_iso": "2026-11-17T19:00:32-03:00",
    "removida_iso": "2026-11-19T20:00:27-03:00",
-   "estado_api": "",
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "907-105-COT26",
-   "nombre": "MAO Adquisición enseres Oficina Coyhaique ",
-   "organismo": "SERVICIO AGRICOLA Y GANADERO",
-   "monto": 338980,
-   "cierre_iso": "2026-11-19T16:00:00-03:00",
-   "tipo": "POSIBLE",
-   "motivos": [
-    "eléctrico"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=907-105-COT26",
-   "primera_vista_iso": "2026-11-17T17:00:24-03:00",
-   "removida_iso": "2026-11-19T17:00:24-03:00",
-   "estado_api": "",
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "3797-542-COT26",
-   "nombre": "EQUIPAMIENTO, IMPLEMENTOS Y DISPOSITIVOS ELECTRÓNICOS",
-   "organismo": "I MUNICIPALIDAD DE COCHRANE",
-   "monto": 1500000,
-   "cierre_iso": "2026-11-19T15:30:00-03:00",
-   "tipo": "POSIBLE",
-   "motivos": [
-    "iluminación"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=3797-542-COT26",
-   "primera_vista_iso": "2026-11-18T16:00:26-03:00",
-   "removida_iso": "2026-11-19T16:00:25-03:00",
    "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,
