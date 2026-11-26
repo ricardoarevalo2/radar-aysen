@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-11-26T07:00:25.649778-03:00",
+ "actualizado": "2026-11-26T08:00:27.686860-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
- "total_region": 299,
+ "total_region": 296,
  "rubros": {
   "25172700": "Aire acondicionado",
   "25173900": "Componentes eléctricos",
@@ -19,149 +19,6 @@
   "39121400": "Conectores, enchufes y terminales"
  },
  "filas": [
-  {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Cajas y accesorios eléctricos"
-   ],
-   "nueva": false,
-   "codigo": "911089-115-COT26",
-   "nombre": "ADQUISICION DE MATERIAL ELECTRICO PARA LA VIVIENDA FISCAL UBICADA EN FREIRE 81, COYHAIQUE",
-   "organismo": "Zona de Bienestar \"Coyhaique\"",
-   "unidad": "Zona de Bienestar Coyhaique",
-   "monto": 450000,
-   "cierre_iso": "2026-11-26T07:36:00-03:00",
-   "publicacion": "20-11 10:23",
-   "publicacion_iso": "2026-11-20T10:23:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "13102030",
-     "Cloruro de polivinilo (PVC)",
-     1,
-     "01 ADHESIVO PVC TRADICIONAL 240 CC"
-    ],
-    [
-     "24111802",
-     "Tanques o botellas de aire o gas",
-     4,
-     "04 GAS 227 GR HUMBOLDT"
-    ],
-    [
-     "31191506",
-     "Discos abrasivos",
-     3,
-     "03 DISCO DIAMANT CONT 4 1/2 PLG"
-    ],
-    [
-     "31191506",
-     "Discos abrasivos",
-     10,
-     "10 DISCO CTE METAL-AC INOX 4 1/2 PLG"
-    ],
-    [
-     "31201502",
-     "Cinta autoadhesiva aislante eléctrica",
-     1,
-     "01 CINTA ELEC 20 MTS x 19 MM"
-    ],
-    [
-     "39121311",
-     "Accesorios eléctricos",
-     1,
-     "01 ALAMBRE NYA PR H07V-U 1,5 BC 50 MTS"
-    ],
-    [
-     "39121311",
-     "Accesorios eléctricos",
-     1,
-     "01 ALAMBRE NYA PR H07V-U 2,5 BC 50 MTS"
-    ],
-    [
-     "39121311",
-     "Accesorios eléctricos",
-     1,
-     "01 ALAMBRE NYA PR H07V-U 2,5 RJ 50 MTS"
-    ],
-    [
-     "39121311",
-     "Accesorios eléctricos",
-     1,
-     "01 ALAMBRE NYA PR H07V-U 2,5 VD 50 MTS"
-    ],
-    [
-     "39121311",
-     "Accesorios eléctricos",
-     6,
-     "06 TUBO CONDUIT 16 MM 3 MTS"
-    ],
-    [
-     "39121311",
-     "Accesorios eléctricos",
-     10,
-     "10 TUBO CONDUIT 20 MM 3 MTS"
-    ],
-    [
-     "39121311",
-     "Accesorios eléctricos",
-     4,
-     "04 ENCH DOBLE 10 AMPERE GRAFITO S17 ARM"
-    ],
-    [
-     "39121311",
-     "Accesorios eléctricos",
-     10,
-     "10 CAJA DISTRIBUCION NARANJA 16-20 MM"
-    ],
-    [
-     "39121311",
-     "Accesorios eléctricos",
-     1,
-     "01 CONECTOR CABLE E4 100 UNIDADES"
-    ],
-    [
-     "39121311",
-     "Accesorios eléctricos",
-     5,
-     "05 PLACA CIEGA BLANCO"
-    ],
-    [
-     "39121311",
-     "Accesorios eléctricos",
-     2,
-     "02 INTERRUPTOR DOBL 9/12 GRAF S17"
-    ],
-    [
-     "39121311",
-     "Accesorios eléctricos",
-     20,
-     "20 SALIDA DE CAJA PVC COND 16 MM"
-    ],
-    [
-     "39121311",
-     "Accesorios eléctricos",
-     30,
-     "30 SALIDA DE CAJA PVC COND 20 MM"
-    ],
-    [
-     "39121311",
-     "Accesorios eléctricos",
-     1,
-     "01 FERRUL NARANJO 12 AWG 100 UNIDADES"
-    ],
-    [
-     "39121311",
-     "Accesorios eléctricos",
-     6,
-     "06 PANEL LED SOBRE CIRC 18W LC"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=911089-115-COT26",
-   "sin_detalle": false,
-   "descripcion": "SE SOLICITA LA ADQUISICION DE MATERIAL ELECTRICO PARA LA VIVIENDA FISCAL UBICADA EN FREIRE 81, COYHAIQUE, DEPENDIENTE DE LA ZONA DE BIENESTAR COYHAIQUE.\n\nSE SOLICITA LLENAR EL ANEXO QUE SE ADJUNTA (DECLARACION JURADA SIMPLE) PARA LOS OFERENTES POSTULANTES, QUIEN NO LO PRESENTE FIRMADO QUEDA FUERA DE POSTULACION",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
   {
    "tipo": "OPORTUNIDAD",
    "motivos": [
@@ -1872,6 +1729,24 @@
   }
  ],
  "historial": [
+  {
+   "codigo": "911089-115-COT26",
+   "nombre": "ADQUISICION DE MATERIAL ELECTRICO PARA LA VIVIENDA FISCAL UBICADA EN FREIRE 81, COYHAIQUE",
+   "organismo": "Zona de Bienestar \"Coyhaique\"",
+   "monto": 450000,
+   "cierre_iso": "2026-11-26T07:36:00-03:00",
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Cajas y accesorios eléctricos"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=911089-115-COT26",
+   "primera_vista_iso": "2026-11-20T11:00:28-03:00",
+   "removida_iso": "2026-11-26T08:00:27-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
   {
    "codigo": "4140-113-COT26",
    "nombre": "MANO DE OBRA, INSTALACION DE CENTRO ELECTRICO",
