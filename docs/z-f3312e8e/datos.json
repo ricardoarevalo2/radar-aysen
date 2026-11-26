@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-11-26T13:00:24.759437-03:00",
+ "actualizado": "2026-11-26T14:00:25.167395-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
- "total_region": 259,
+ "total_region": 256,
  "rubros": {
   "25172700": "Aire acondicionado",
   "25173900": "Componentes eléctricos",
@@ -22,73 +22,9 @@
   {
    "tipo": "OPORTUNIDAD",
    "motivos": [
-    "Conductores eléctricos"
-   ],
-   "nueva": true,
-   "codigo": "3797-562-COT26",
-   "nombre": "ALARGADORES",
-   "organismo": "I MUNICIPALIDAD DE COCHRANE",
-   "unidad": "I MUNICIPALIDAD DE COCHRANE",
-   "monto": 110000,
-   "cierre_iso": "2026-11-26T13:00:00-03:00",
-   "publicacion": "25-11 12:57",
-   "publicacion_iso": "2026-11-25T12:57:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "26121536",
-     "Cuerda de extensión",
-     5,
-     "ALARGADOR TIPO ZAPATILLA DE 4 ENCHUFES DE 3 MTS DE LARGO"
-    ],
-    [
-     "26121536",
-     "Cuerda de extensión",
-     5,
-     "ALARGADOR TIPO ZAPATILLA DE 4 ENCHUFES DE 5 MTS DE LARGO"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=3797-562-COT26",
-   "sin_detalle": false,
-   "descripcion": "Adquisición de alargadores para la implementación de los adornos navideños en la plaza de armas de la comuna.",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
-  {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Cables eléctricos y accesorios"
-   ],
-   "nueva": false,
-   "codigo": "868-108-COT26",
-   "nombre": "El Gobierno Regional de Aysén, requiere, CABLES DE CONECCIONES HDMI 2.1",
-   "organismo": "GOBIERNO REGIONAL DE AYSEN",
-   "unidad": "Gobierno Regional de Aysen - XI Región",
-   "monto": 1000000,
-   "cierre_iso": "2026-11-26T13:00:00-03:00",
-   "publicacion": "23-11 15:57",
-   "publicacion_iso": "2026-11-23T15:57:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "26121607",
-     "Cable de fibra óptica",
-     1,
-     "El Gobierno Regional de Aysén, requiere, CABLES DE CONECCIONES HDMI 2.1, el cambio de los antiguos proyectores a televisores, y la actualización de los notebooks que son utilizados para las reuniones, requiere de cables de conexiones HDMI 2.1 para cada una de las 8 salas de reuniones.-"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=868-108-COT26",
-   "sin_detalle": false,
-   "descripcion": "El Gobierno Regional de Aysén, requiere, CABLES DE CONECCIONES HDMI 2.1, el cambio de los antiguos proyectores a televisores, y la actualización de los notebooks que son utilizados para las reuniones, requiere de cables de conexiones HDMI 2.1 para cada una de las 8 salas de reuniones.-",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
-  {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
     "Interruptores, controles y relés"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "4644-164-COT26",
    "nombre": " MATERIAL DE FAENA III REMESA GORE MAÑIHUALES, SIC:514 SIRE:477",
    "organismo": "CORP NACIONAL FORESTAL",
@@ -1587,6 +1523,42 @@
  ],
  "historial": [
   {
+   "codigo": "868-108-COT26",
+   "nombre": "El Gobierno Regional de Aysén, requiere, CABLES DE CONECCIONES HDMI 2.1",
+   "organismo": "GOBIERNO REGIONAL DE AYSEN",
+   "monto": 1000000,
+   "cierre_iso": "2026-11-26T13:00:00-03:00",
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Cables eléctricos y accesorios"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=868-108-COT26",
+   "primera_vista_iso": "2026-11-23T16:00:27-03:00",
+   "removida_iso": "2026-11-26T14:00:25-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
+  {
+   "codigo": "3797-562-COT26",
+   "nombre": "ALARGADORES",
+   "organismo": "I MUNICIPALIDAD DE COCHRANE",
+   "monto": 110000,
+   "cierre_iso": "2026-11-26T13:00:00-03:00",
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Conductores eléctricos"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=3797-562-COT26",
+   "primera_vista_iso": "2026-11-25T14:00:24-03:00",
+   "removida_iso": "2026-11-26T14:00:25-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
+  {
    "codigo": "2182-96-COT26",
    "nombre": "BANCO DE BATERIAS PARA UPS",
    "organismo": "CORP ADMINISTRATIVA DEL PODER JUDICIAL",
@@ -2557,24 +2529,6 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=1092-89-COT26",
    "primera_vista_iso": "2026-11-13T14:00:24-03:00",
    "removida_iso": "2026-11-19T15:25:38-03:00",
-   "estado_api": "",
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "2151-93-COT26",
-   "nombre": "SERVICIO DE MANTENCIÓN PREVENTIVA Y CORRECTIVA DE 7 EQUIPOS DE AIRE ACONDICIONADO SPLIT – HOSPITAL DR. JORGE IBAR BRUCE DE PUERTO CISNES",
-   "organismo": "SERVICIO NAC DE SALUD HOSPITAL DE PTO CISNES",
-   "monto": 3000000,
-   "cierre_iso": "2026-11-19T14:00:00-03:00",
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Enfriamiento (aires acondicionados)"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=2151-93-COT26",
-   "primera_vista_iso": "2026-11-17T10:00:28-03:00",
-   "removida_iso": "2026-11-19T15:00:27-03:00",
    "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,

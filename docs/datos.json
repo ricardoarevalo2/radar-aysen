@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-11-26T13:00:24.759437-03:00",
+ "actualizado": "2026-11-26T14:00:25.167395-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
- "total_region": 259,
+ "total_region": 256,
  "rubros": {
   "80141600": "Ventas y marketing",
   "82101600": "Publicidad en medios no impresos",
@@ -14,35 +14,6 @@
   "83121700": "Comunicación social y de masas"
  },
  "filas": [
-  {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Inserciones publicitarias en medios"
-   ],
-   "nueva": false,
-   "codigo": "1195-613-COT26",
-   "nombre": "SERVICIO DE DIFUSION PROYECTO DE RCICLAJE",
-   "organismo": "I MUNICIPALIDAD DE COYHAIQUE",
-   "unidad": "Ilustre Municipalidad de Coyhaique",
-   "monto": 380000,
-   "cierre_iso": "2026-11-26T13:00:00-03:00",
-   "publicacion": "24-11 15:33",
-   "publicacion_iso": "2026-11-24T15:33:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "82101903",
-     "Avisos en Internet",
-     1,
-     "SE REQUIERE CONTRATAR UN MEDIO DE COMUNICACION REGIONAL PARA LA GABACION, EDICION Y DIFUSION DE CAPSULAS AUDIOVISUALES CONSIDERANDO 4 HRS MENSUALES(NOVIEMBRE DICIEMBRE),PUBLICACIONES SEMANALS DE 20 A 29 MINUTOS,BANNER PUBLICITARIO Y DIFUSION EN RRSS,SITIO WEB,TELEVISION DIGITAL Y STREAMING.SE PRIORIZARA PROVEEDOR LOCAL CON COBERTURA EN LA REGION DE AYSEN."
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1195-613-COT26",
-   "sin_detalle": false,
-   "descripcion": "SE REQUIERE CONTRATAR UN MEDIO DE COMUNICACION REGIONAL PARA LA GABACION, EDICION Y DIFUSION DE CAPSULAS AUDIOVISUALES CONSIDERANDO 4 HRS MENSUALES(NOVIEMBRE DICIEMBRE),PUBLICACIONES SEMANALS DE 20 A 29 MINUTOS,BANNER PUBLICITARIO Y DIFUSION EN RRSS,SITIO WEB,TELEVISION DIGITAL Y STREAMING.SE PRIORIZARA PROVEEDOR LOCAL CON COBERTURA EN LA REGION DE AYSEN.",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
   {
    "tipo": "POSIBLE",
    "motivos": [
@@ -668,6 +639,24 @@
   }
  ],
  "historial": [
+  {
+   "codigo": "1195-613-COT26",
+   "nombre": "SERVICIO DE DIFUSION PROYECTO DE RCICLAJE",
+   "organismo": "I MUNICIPALIDAD DE COYHAIQUE",
+   "monto": 380000,
+   "cierre_iso": "2026-11-26T13:00:00-03:00",
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Inserciones publicitarias en medios"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1195-613-COT26",
+   "primera_vista_iso": "2026-11-24T16:00:27-03:00",
+   "removida_iso": "2026-11-26T14:00:25-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
   {
    "codigo": "3797-561-COT26",
    "nombre": "PRODUCCION CONFITERIA Y ENTRETENCION",
@@ -1813,24 +1802,6 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=1057062-548-COT26",
    "primera_vista_iso": "2026-11-17T15:00:50-03:00",
    "removida_iso": "2026-11-19T15:25:38-03:00",
-   "estado_api": "",
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "1195-593-COT26",
-   "nombre": "SERVICIO DE DIFUSION PARA PROYECTO DE RECICLAJE",
-   "organismo": "I MUNICIPALIDAD DE COYHAIQUE",
-   "monto": 400000,
-   "cierre_iso": "2026-11-19T13:45:00-03:00",
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Publicidad en medios no impresos"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1195-593-COT26",
-   "primera_vista_iso": "2026-11-18T14:00:25-03:00",
-   "removida_iso": "2026-11-19T14:00:24-03:00",
    "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,
