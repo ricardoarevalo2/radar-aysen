@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-11-26T10:00:24.492356-03:00",
+ "actualizado": "2026-11-26T11:00:27.494478-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
- "total_region": 287,
+ "total_region": 275,
  "rubros": {
   "80141600": "Ventas y marketing",
   "82101600": "Publicidad en medios no impresos",
@@ -17,97 +17,9 @@
   {
    "tipo": "POSIBLE",
    "motivos": [
-    "difusión"
-   ],
-   "nueva": false,
-   "codigo": "3797-558-COT26",
-   "nombre": " TOLDO INSTITUCIONAL OLN",
-   "organismo": "I MUNICIPALIDAD DE COCHRANE",
-   "unidad": "I MUNICIPALIDAD DE COCHRANE",
-   "monto": 100000,
-   "cierre_iso": "2026-11-26T10:00:00-03:00",
-   "publicacion": "25-11 09:49",
-   "publicacion_iso": "2026-11-25T09:49:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "30151901",
-     "Toldos",
-     1,
-     "Toldo plegable tipo araña (acordeón) de 3,00 x 3,00 metros (9 m² de cobertura) con estructura metálica de acero reforzado y recubrimiento anticorrosivo (pintura electrostática negra), tubos exteriores de sección cuadrada de al menos 30 x 30 mm y patas telescópicas regulables en 4 niveles de altura con despliegue rápido sin herramientas; debe incluir cubierta superior de lona textil impermeable de alta densidad (poliéster/Oxford) Demas consideraciones indicadas en documento adjunto"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=3797-558-COT26",
-   "sin_detalle": false,
-   "descripcion": "En el marco de las actividades desarrolladas por la Oficina Local de la Niñez, se requiere la adquisición de un toldo institucional que permita contar con un espacio adecuado para la ejecución de actividades territoriales, jornadas de difusión y acciones de promoción y prevención de derechos de niños, niñas y adolescentes",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
-  {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Ventas y marketing"
-   ],
-   "nueva": false,
-   "codigo": "1195-617-COT26",
-   "nombre": "Servicio de producción jornada de Auto-cuidado ",
-   "organismo": "I MUNICIPALIDAD DE COYHAIQUE",
-   "unidad": "Ilustre Municipalidad de Coyhaique",
-   "monto": 900000,
-   "cierre_iso": "2026-11-26T10:00:00-03:00",
-   "publicacion": "25-11 09:48",
-   "publicacion_iso": "2026-11-25T09:48:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "80141607",
-     "Producción de eventos",
-     1,
-     "jornada integral de autocuidado y bienestar emocional, orientado a fortalecer la salud emocional de los profesionales del Programa Lazos, según requerimientos en archivo adjunto."
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1195-617-COT26",
-   "sin_detalle": false,
-   "descripcion": "La I. Municipalidad de Coyhaique, a través de la Dirección de Seguridad Pública, requiere la contratación de Servicio de producción para jornada de Auto-cuidado del equipo de Programa Lazos 2026. \nSe adjuntan requerimientos y especificaciones tecnicas de la jornada.",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "locución",
-    "radio"
-   ],
-   "nueva": true,
-   "codigo": "4140-114-COT26",
-   "nombre": "ADQUISICION DE AUDIFONOS, FONDOS DE MEDIOS ",
-   "organismo": "I MUNICIPALIDAD DE LAGO VERDE",
-   "unidad": "Adquisiciones",
-   "monto": 110000,
-   "cierre_iso": "2026-11-26T10:10:00-03:00",
-   "publicacion": "25-11 10:03",
-   "publicacion_iso": "2026-11-25T10:03:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "52161514",
-     "Audífonos",
-     1,
-     "AUDIFONO PROFESIONAL PARA LOCUCION DE RADIO"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=4140-114-COT26",
-   "sin_detalle": false,
-   "descripcion": "ADQUISICION  DE 01 AUDIFONO PROFESIONAL PARA LOCUCIÓN DE RADIO",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
     "difusion"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "1233615-1044-COT26",
    "nombre": "NDF/SOL 307/HPV 1 Coyhaique/Botellas para difusion segun detalle adjunto",
    "organismo": "Servicio Local de Educación Pública Aysén",
@@ -491,6 +403,35 @@
   {
    "tipo": "POSIBLE",
    "motivos": [
+    "difusión"
+   ],
+   "nueva": false,
+   "codigo": "3797-558-COT26",
+   "nombre": " TOLDO INSTITUCIONAL OLN",
+   "organismo": "I MUNICIPALIDAD DE COCHRANE",
+   "unidad": "I MUNICIPALIDAD DE COCHRANE",
+   "monto": 100000,
+   "cierre_iso": "2026-11-27T10:10:00-03:00",
+   "publicacion": "25-11 09:49",
+   "publicacion_iso": "2026-11-25T09:49:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "30151901",
+     "Toldos",
+     1,
+     "Toldo plegable tipo araña (acordeón) de 3,00 x 3,00 metros (9 m² de cobertura) con estructura metálica de acero reforzado y recubrimiento anticorrosivo (pintura electrostática negra), tubos exteriores de sección cuadrada de al menos 30 x 30 mm y patas telescópicas regulables en 4 niveles de altura con despliegue rápido sin herramientas; debe incluir cubierta superior de lona textil impermeable de alta densidad (poliéster/Oxford) Demas consideraciones indicadas en documento adjunto"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=3797-558-COT26",
+   "sin_detalle": false,
+   "descripcion": "En el marco de las actividades desarrolladas por la Oficina Local de la Niñez, se requiere la adquisición de un toldo institucional que permita contar con un espacio adecuado para la ejecución de actividades territoriales, jornadas de difusión y acciones de promoción y prevención de derechos de niños, niñas y adolescentes",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
     "audiovisuales"
    ],
    "nueva": true,
@@ -769,6 +710,43 @@
   }
  ],
  "historial": [
+  {
+   "codigo": "4140-114-COT26",
+   "nombre": "ADQUISICION DE AUDIFONOS, FONDOS DE MEDIOS ",
+   "organismo": "I MUNICIPALIDAD DE LAGO VERDE",
+   "monto": 110000,
+   "cierre_iso": "2026-11-26T10:10:00-03:00",
+   "tipo": "POSIBLE",
+   "motivos": [
+    "locución",
+    "radio"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=4140-114-COT26",
+   "primera_vista_iso": "2026-11-25T11:00:24-03:00",
+   "removida_iso": "2026-11-26T11:00:27-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
+  {
+   "codigo": "1195-617-COT26",
+   "nombre": "Servicio de producción jornada de Auto-cuidado ",
+   "organismo": "I MUNICIPALIDAD DE COYHAIQUE",
+   "monto": 900000,
+   "cierre_iso": "2026-11-26T10:00:00-03:00",
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Ventas y marketing"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1195-617-COT26",
+   "primera_vista_iso": "2026-11-25T10:00:24-03:00",
+   "removida_iso": "2026-11-26T11:00:27-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
   {
    "codigo": "4066-557-COT26",
    "nombre": "SERVICIO DE DIFUSIÓN DE RESULTADOS DE LAS OLIMPIADAS DEPORTIVAS COMUNALES RÍO IBÁÑEZ 2026 - COD. 22434038",
