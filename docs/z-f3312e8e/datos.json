@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-11-26T09:00:26.865688-03:00",
+ "actualizado": "2026-11-26T10:00:24.492356-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
- "total_region": 291,
+ "total_region": 287,
  "rubros": {
   "25172700": "Aire acondicionado",
   "25173900": "Componentes eléctricos",
@@ -19,274 +19,6 @@
   "39121400": "Conectores, enchufes y terminales"
  },
  "filas": [
-  {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Cables eléctricos y accesorios",
-    "Cajas y accesorios eléctricos",
-    "Conectores, enchufes y terminales"
-   ],
-   "nueva": false,
-   "codigo": "3765-379-COT26",
-   "nombre": "INSUMOS ELECTRICOS PARA MANTENIMIENTO CORRECTIVO LUCES DE EMERGENCIA",
-   "organismo": "SERVICIO NACIONAL DE SALUD HOSPITAL DE C",
-   "unidad": "Hospital Doctor  Leopoldo Ortega Rodríguez",
-   "monto": 1000000,
-   "cierre_iso": "2026-11-26T09:00:00-03:00",
-   "publicacion": "24-11 14:49",
-   "publicacion_iso": "2026-11-24T14:49:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "26121613",
-     "Cable aislado o forrado",
-     1,
-     "ROLLO CABLE CORDON ELECTRICO 3 X 1,5 (100 METROS)"
-    ],
-    [
-     "26121634",
-     "Cable de cobre",
-     50,
-     "PRENSA ESTOPA PG-11"
-    ],
-    [
-     "27111704",
-     "Enchufes",
-     10,
-     "ENCHUFE EMBUTIDO ARMADO SIMPLE 2P+T 10 A"
-    ],
-    [
-     "30101504",
-     "Ángulos de acero",
-     3,
-     "ANGULO LAMINADO 20 X 20 X 2MM X 6 METROS"
-    ],
-    [
-     "31151609",
-     "Eslabones de cadena",
-     50,
-     "CADENA 3,5MM (ESLABÓN)"
-    ],
-    [
-     "31161504",
-     "Tornillos para metales",
-     200,
-     "TORNILLO CABEZA LENTEJA 8 X 1.5/8 PUNTA BROCA"
-    ],
-    [
-     "31161504",
-     "Tornillos para metales",
-     200,
-     "TORNILLO CABEZA LENTEJA 8 X 1 PUNTA BROCA"
-    ],
-    [
-     "31161807",
-     "Golillas planas",
-     100,
-     "GOLILLA PLANA 3/16"
-    ],
-    [
-     "31161807",
-     "Golillas planas",
-     100,
-     "GOLILLA PLANA 5/16"
-    ],
-    [
-     "31162305",
-     "Abrazaderas de montaje",
-     50,
-     "ABRAZADERA TIPO CADDY 25 MM"
-    ],
-    [
-     "31162305",
-     "Abrazaderas de montaje",
-     50,
-     "ABRAZADERA METALICA TIPO OMEGA 20 MM"
-    ],
-    [
-     "31211507",
-     "Pinturas en aerosol",
-     4,
-     "PINTURA SPRAY COLOR GRIS"
-    ],
-    [
-     "31231310",
-     "Tubería de acero",
-     20,
-     "TUBERIA CONDUIT RIGIDA GALVANIZADA 20MM X 3 MTS"
-    ],
-    [
-     "39111505",
-     "Iluminación empotrada",
-     50,
-     "TUBOS LED T8 DE 18W, 120CM"
-    ],
-    [
-     "39111505",
-     "Iluminación empotrada",
-     10,
-     "HALÓGENO LED 100W"
-    ],
-    [
-     "39111706",
-     "Luces de emergencia o estroboscópicas",
-     4,
-     "LAMPARA DE EMERGENCIA LED 2 FOCOS"
-    ],
-    [
-     "39121205",
-     "Canaletas para cables",
-     20,
-     "CANALETA ELECTRICA CON ADHESIVO PVC 40X16X2MTS"
-    ],
-    [
-     "39121303",
-     "Cajas eléctricas",
-     5,
-     "CAJAS GALVANIZADAS A-11 100X100X65 CON TAPA"
-    ],
-    [
-     "39121303",
-     "Cajas eléctricas",
-     10,
-     "CAJA PLASTICA CHUQUI PARA TUBERIA Y CANALETA"
-    ],
-    [
-     "39121311",
-     "Accesorios eléctricos",
-     2,
-     "INTERRUPTOR AUTOMATICO DE 10 A 250 V"
-    ],
-    [
-     "39121311",
-     "Accesorios eléctricos",
-     2,
-     "INTERRUPTOR AUTOMATICO DE 16 A 250 V"
-    ],
-    [
-     "39121311",
-     "Accesorios eléctricos",
-     10,
-     "TAPA PLASTICA CIEGA BLANCA (ELECTRICA)"
-    ],
-    [
-     "39121431",
-     "Conectores estancos de cables",
-     3,
-     "EQUIPO ESTANCO DOBLE LED 2X18W 120CM"
-    ],
-    [
-     "40141705",
-     "Caños",
-     50,
-     "COPLAS TUBERIA EMT 20MM"
-    ],
-    [
-     "40141705",
-     "Caños",
-     50,
-     "TERMINAL EMT LEC 20MM"
-    ],
-    [
-     "40142317",
-     "Codo de tubería",
-     20,
-     "CODO 90° CONDUIT GALVANIZADO 20MM"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=3765-379-COT26",
-   "sin_detalle": false,
-   "descripcion": "SE REQUIERE LA ADQUISICIÓN DE MATERIALES DE ELECTRICOS PARA EFECTUAR MANTENIMIENTO CORRECTIVO DE LAS LICES DE EMERGENCIA Y LUMINARIAS DEL ESTABLECIMIENTO. SE CONSIDERA",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
-  {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Gasfitería, calefacción y aire acondicionado"
-   ],
-   "nueva": false,
-   "codigo": "930039-41-COT26",
-   "nombre": " MANTENIMIENTO PREVENTIVO DE EQUIPOS DE CLIMATIZACIÓN",
-   "organismo": "SERVICIO NACIONAL DEL PATRIMONIO CULTURAL",
-   "unidad": "MUSEO REGIONAL DE AYSEN",
-   "monto": 5000000,
-   "cierre_iso": "2026-11-26T09:00:00-03:00",
-   "publicacion": "24-11 11:12",
-   "publicacion_iso": "2026-11-24T11:12:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "72102302",
-     "Instalación, reparación o mantenimiento de sistemas de calefacción",
-     1,
-     "De acuerdo a documento adjunto"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=930039-41-COT26",
-   "sin_detalle": false,
-   "descripcion": "De acuerdo a documento adjunto",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "iluminación"
-   ],
-   "nueva": false,
-   "codigo": "4066-555-COT26",
-   "nombre": "SERVICIO DE AMPLIFICACIÓN, ILUMINACIÓN Y PRESENTACIÓN MUSICAL ENCUENTRO DE ACORDEÓN Y GUITARRA 2026, Segun TDR adjuntos",
-   "organismo": "I MUNICIPALIDAD RIO IBANEZ",
-   "unidad": "DIDECO",
-   "monto": 2000000,
-   "cierre_iso": "2026-11-26T09:00:00-03:00",
-   "publicacion": "24-11 10:16",
-   "publicacion_iso": "2026-11-24T10:16:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "80141607",
-     "Producción de eventos",
-     1,
-     "SERVICIO DE AMPLIFICACIÓN, ILUMINACIÓN Y PRESENTACIÓN MUSICAL ENCUENTRO DE ACORDEÓN Y GUITARRA 2026, Según TDR adjuntos"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=4066-555-COT26",
-   "sin_detalle": false,
-   "descripcion": "La Ilustre Municipalidad de Río Ibáñez, a través de la Oficina de Cultura, requiere contratar un servicio de producción de evento que contemple amplificación, iluminación y la contratación de una agrupación de música criolla de la comuna de Río Ibáñez para el Encuentro de Acordeón y Guitarra 2026, a realizarse el sábado 19 de diciembre de 2026 en Puerto Río Tranquilo. Según TDR adjuntos",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
-  {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Servicios eléctricos"
-   ],
-   "nueva": false,
-   "codigo": "1201-214-COT26",
-   "nombre": "SER. CIO DE TELE VIGILANCIA Y SEGURIDAD",
-   "organismo": "INSTITUTO NACIONAL DE DEPORTES DE CHILE",
-   "unidad": "I.N.D. REGION XI",
-   "monto": 2000000,
-   "cierre_iso": "2026-11-26T09:00:00-03:00",
-   "publicacion": "24-11 09:45",
-   "publicacion_iso": "2026-11-24T09:45:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "72102204",
-     "Instalación de sistemas de seguridad",
-     1,
-     "Servicio de asistencia remota o televigilancia, SEGUN BASES ADJUNTAS"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1201-214-COT26",
-   "sin_detalle": false,
-   "descripcion": "La necesidad de contratar los servicios de Televigilancia para la Dirección\nRegional y sus dependencias, para ser utilizada en el resguardo del patrimonio\ninstitucional en general de las dependendias de calle Per Dusen n°376 y Sargento\nAldea n° 128, de la ciudad de Coyhaique, dicho servicio tendrá una duración de\n12 meses, a contar del 01 de Diciembre de 2026 hasta el 30 de Noviembre de\n2027",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
   {
    "tipo": "OPORTUNIDAD",
    "motivos": [
@@ -1154,6 +886,35 @@
   {
    "tipo": "OPORTUNIDAD",
    "motivos": [
+    "Cajas y accesorios eléctricos"
+   ],
+   "nueva": true,
+   "codigo": "1195-624-COT26",
+   "nombre": "MATERIALES ELECTRICOS Y FERRETERIA ",
+   "organismo": "I MUNICIPALIDAD DE COYHAIQUE",
+   "unidad": "Ilustre Municipalidad de Coyhaique",
+   "monto": 6200000,
+   "cierre_iso": "2026-11-27T09:40:00-03:00",
+   "publicacion": "26-11 09:37",
+   "publicacion_iso": "2026-11-26T09:37:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "39121311",
+     "Accesorios eléctricos",
+     1,
+     "Se requiere la compra de diversos materiales e insumos eléctricos según listado con especificaciones técnicas adjunto."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1195-624-COT26",
+   "sin_detalle": false,
+   "descripcion": "la I municipalidad de Coyhaique a treves de la Dirección de seguridad pública requiere la adquisición de materiales e insumos eléctricos para la mantención y reparación del alumbrado publico. Se privilegiará proveedor local o regional que cumpla de mejor manera con o solicitado y en caso de ser proveedor de otra comuna o región deberá considera costos por concepto de flete o envío dentro de la cotización",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
     "Gasfitería, calefacción y aire acondicionado"
    ],
    "nueva": true,
@@ -1699,6 +1460,216 @@
    "desaparecida_iso": ""
   },
   {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Cables eléctricos y accesorios",
+    "Cajas y accesorios eléctricos",
+    "Conectores, enchufes y terminales"
+   ],
+   "nueva": false,
+   "codigo": "3765-379-COT26",
+   "nombre": "INSUMOS ELECTRICOS PARA MANTENIMIENTO CORRECTIVO LUCES DE EMERGENCIA",
+   "organismo": "SERVICIO NACIONAL DE SALUD HOSPITAL DE C",
+   "unidad": "Hospital Doctor  Leopoldo Ortega Rodríguez",
+   "monto": 1000000,
+   "cierre_iso": "2026-11-28T03:10:00-03:00",
+   "publicacion": "24-11 14:49",
+   "publicacion_iso": "2026-11-24T14:49:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "26121613",
+     "Cable aislado o forrado",
+     1,
+     "ROLLO CABLE CORDON ELECTRICO 3 X 1,5 (100 METROS)"
+    ],
+    [
+     "26121634",
+     "Cable de cobre",
+     50,
+     "PRENSA ESTOPA PG-11"
+    ],
+    [
+     "27111704",
+     "Enchufes",
+     10,
+     "ENCHUFE EMBUTIDO ARMADO SIMPLE 2P+T 10 A"
+    ],
+    [
+     "30101504",
+     "Ángulos de acero",
+     3,
+     "ANGULO LAMINADO 20 X 20 X 2MM X 6 METROS"
+    ],
+    [
+     "31151609",
+     "Eslabones de cadena",
+     50,
+     "CADENA 3,5MM (ESLABÓN)"
+    ],
+    [
+     "31161504",
+     "Tornillos para metales",
+     200,
+     "TORNILLO CABEZA LENTEJA 8 X 1.5/8 PUNTA BROCA"
+    ],
+    [
+     "31161504",
+     "Tornillos para metales",
+     200,
+     "TORNILLO CABEZA LENTEJA 8 X 1 PUNTA BROCA"
+    ],
+    [
+     "31161807",
+     "Golillas planas",
+     100,
+     "GOLILLA PLANA 3/16"
+    ],
+    [
+     "31161807",
+     "Golillas planas",
+     100,
+     "GOLILLA PLANA 5/16"
+    ],
+    [
+     "31162305",
+     "Abrazaderas de montaje",
+     50,
+     "ABRAZADERA TIPO CADDY 25 MM"
+    ],
+    [
+     "31162305",
+     "Abrazaderas de montaje",
+     50,
+     "ABRAZADERA METALICA TIPO OMEGA 20 MM"
+    ],
+    [
+     "31211507",
+     "Pinturas en aerosol",
+     4,
+     "PINTURA SPRAY COLOR GRIS"
+    ],
+    [
+     "31231310",
+     "Tubería de acero",
+     20,
+     "TUBERIA CONDUIT RIGIDA GALVANIZADA 20MM X 3 MTS"
+    ],
+    [
+     "39111505",
+     "Iluminación empotrada",
+     50,
+     "TUBOS LED T8 DE 18W, 120CM"
+    ],
+    [
+     "39111505",
+     "Iluminación empotrada",
+     10,
+     "HALÓGENO LED 100W"
+    ],
+    [
+     "39111706",
+     "Luces de emergencia o estroboscópicas",
+     4,
+     "LAMPARA DE EMERGENCIA LED 2 FOCOS"
+    ],
+    [
+     "39121205",
+     "Canaletas para cables",
+     20,
+     "CANALETA ELECTRICA CON ADHESIVO PVC 40X16X2MTS"
+    ],
+    [
+     "39121303",
+     "Cajas eléctricas",
+     5,
+     "CAJAS GALVANIZADAS A-11 100X100X65 CON TAPA"
+    ],
+    [
+     "39121303",
+     "Cajas eléctricas",
+     10,
+     "CAJA PLASTICA CHUQUI PARA TUBERIA Y CANALETA"
+    ],
+    [
+     "39121311",
+     "Accesorios eléctricos",
+     2,
+     "INTERRUPTOR AUTOMATICO DE 10 A 250 V"
+    ],
+    [
+     "39121311",
+     "Accesorios eléctricos",
+     2,
+     "INTERRUPTOR AUTOMATICO DE 16 A 250 V"
+    ],
+    [
+     "39121311",
+     "Accesorios eléctricos",
+     10,
+     "TAPA PLASTICA CIEGA BLANCA (ELECTRICA)"
+    ],
+    [
+     "39121431",
+     "Conectores estancos de cables",
+     3,
+     "EQUIPO ESTANCO DOBLE LED 2X18W 120CM"
+    ],
+    [
+     "40141705",
+     "Caños",
+     50,
+     "COPLAS TUBERIA EMT 20MM"
+    ],
+    [
+     "40141705",
+     "Caños",
+     50,
+     "TERMINAL EMT LEC 20MM"
+    ],
+    [
+     "40142317",
+     "Codo de tubería",
+     20,
+     "CODO 90° CONDUIT GALVANIZADO 20MM"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=3765-379-COT26",
+   "sin_detalle": false,
+   "descripcion": "SE REQUIERE LA ADQUISICIÓN DE MATERIALES DE ELECTRICOS PARA EFECTUAR MANTENIMIENTO CORRECTIVO DE LAS LICES DE EMERGENCIA Y LUMINARIAS DEL ESTABLECIMIENTO. SE CONSIDERA",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "iluminación"
+   ],
+   "nueva": false,
+   "codigo": "4066-555-COT26",
+   "nombre": "SERVICIO DE AMPLIFICACIÓN, ILUMINACIÓN Y PRESENTACIÓN MUSICAL ENCUENTRO DE ACORDEÓN Y GUITARRA 2026, Segun TDR adjuntos",
+   "organismo": "I MUNICIPALIDAD RIO IBANEZ",
+   "unidad": "DIDECO",
+   "monto": 2000000,
+   "cierre_iso": "2026-11-28T07:43:00-03:00",
+   "publicacion": "24-11 10:16",
+   "publicacion_iso": "2026-11-24T10:16:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "80141607",
+     "Producción de eventos",
+     1,
+     "SERVICIO DE AMPLIFICACIÓN, ILUMINACIÓN Y PRESENTACIÓN MUSICAL ENCUENTRO DE ACORDEÓN Y GUITARRA 2026, Según TDR adjuntos"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=4066-555-COT26",
+   "sin_detalle": false,
+   "descripcion": "La Ilustre Municipalidad de Río Ibáñez, a través de la Oficina de Cultura, requiere contratar un servicio de producción de evento que contemple amplificación, iluminación y la contratación de una agrupación de música criolla de la comuna de Río Ibáñez para el Encuentro de Acordeón y Guitarra 2026, a realizarse el sábado 19 de diciembre de 2026 en Puerto Río Tranquilo. Según TDR adjuntos",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
    "tipo": "POSIBLE",
    "motivos": [
     "eléctrico"
@@ -1729,6 +1700,42 @@
   }
  ],
  "historial": [
+  {
+   "codigo": "1201-214-COT26",
+   "nombre": "SER. CIO DE TELE VIGILANCIA Y SEGURIDAD",
+   "organismo": "INSTITUTO NACIONAL DE DEPORTES DE CHILE",
+   "monto": 2000000,
+   "cierre_iso": "2026-11-26T09:00:00-03:00",
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Servicios eléctricos"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1201-214-COT26",
+   "primera_vista_iso": "2026-11-24T10:00:30-03:00",
+   "removida_iso": "2026-11-26T10:00:24-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
+  {
+   "codigo": "930039-41-COT26",
+   "nombre": " MANTENIMIENTO PREVENTIVO DE EQUIPOS DE CLIMATIZACIÓN",
+   "organismo": "SERVICIO NACIONAL DEL PATRIMONIO CULTURAL",
+   "monto": 5000000,
+   "cierre_iso": "2026-11-26T09:00:00-03:00",
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Gasfitería, calefacción y aire acondicionado"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=930039-41-COT26",
+   "primera_vista_iso": "2026-11-24T12:00:25-03:00",
+   "removida_iso": "2026-11-26T10:00:24-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
   {
    "codigo": "911089-115-COT26",
    "nombre": "ADQUISICION DE MATERIAL ELECTRICO PARA LA VIVIENDA FISCAL UBICADA EN FREIRE 81, COYHAIQUE",
@@ -2631,24 +2638,6 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=4066-529-COT26",
    "primera_vista_iso": "2026-11-18T12:00:27-03:00",
    "removida_iso": "2026-11-19T13:00:23-03:00",
-   "estado_api": "",
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "4649-116-COT26",
-   "nombre": "Reparación y cambio de Repuestos de Combustión a Pellet A.I",
-   "organismo": "CORP NACIONAL FORESTAL",
-   "monto": 1596000,
-   "cierre_iso": "2026-11-19T10:00:00-03:00",
-   "tipo": "POSIBLE",
-   "motivos": [
-    "enchufe"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=4649-116-COT26",
-   "primera_vista_iso": "2026-11-18T10:00:24-03:00",
-   "removida_iso": "2026-11-19T11:00:26-03:00",
    "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,
