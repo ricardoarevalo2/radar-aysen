@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-11-26T18:00:27.167341-03:00",
+ "actualizado": "2026-11-26T19:00:24.539698-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
- "total_region": 274,
+ "total_region": 272,
  "rubros": {
   "25172700": "Aire acondicionado",
   "25173900": "Componentes eléctricos",
@@ -1109,6 +1109,35 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=1403-527-COT26",
    "sin_detalle": false,
    "descripcion": "E1O2RT9, COMPRA DE MATERIALES PARA APOYAR ÁREAS TÉCNICAS REGIONALES, EL PROVEEDOR QUE SE ENCUENTRE DENTRO DEL RADIO URBANO DE COYHAIQUE Y CON 01 DÍA HÁBIL DE PLAZO.",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "transformador"
+   ],
+   "nueva": true,
+   "codigo": "5575-162-COT26",
+   "nombre": "Purificador de aire portátil con filtro HEPA, carbón activado y sensor de partículas PM1.",
+   "organismo": "I MUNICIPALIDAD DE COYHAIQUE",
+   "unidad": "Dep. Gestion Medioambiente y Servic",
+   "monto": 404000,
+   "cierre_iso": "2026-11-27T19:00:00-03:00",
+   "publicacion": "26-11 18:53",
+   "publicacion_iso": "2026-11-26T18:53:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "40161602",
+     "Purificadores del aire",
+     1,
+     "Cobertura min 50 m², filtración múltiples etapa filtro HEPA  alta eficiencia y filtro carbón activado para eliminación de partículas suspendidas, alérgenos y olores. Incorporar sensor partículas ultrafinas (PM1) para detección de contaminantes menores a 1 micrón y sensor calidad aire/polvo para monitoreo continuo de alérgenos ambientales . Operación silenciosa nivel de ruido modo reposo de máximo 32 dB,  220V / 50Hz sin transformador externo, bajo consumo. Debe incluir ficha técnica y traslado."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=5575-162-COT26",
+   "sin_detalle": false,
+   "descripcion": "Cobertura min 50 m², filtración múltiples etapas incluya filtro HEPA  alta eficiencia y filtro carbón activado para eliminación de partículas suspendidas, alérgenos y olores. Incorporar sensor partículas ultrafinas (PM1) para detección de contaminantes menores a 1 micrón y sensor calidad aire/polvo para monitoreo continuo de alérgenos ambientales . Operación silenciosa nivel de ruido modo reposo de máximo 32 dB.",
    "en_gracia": false,
    "desaparecida_iso": ""
   },
@@ -2408,24 +2437,6 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=697209-34-COT26",
    "primera_vista_iso": "2026-11-16T19:00:26-03:00",
    "removida_iso": "2026-11-19T21:00:24-03:00",
-   "estado_api": "",
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "4066-527-COT26",
-   "nombre": "Servicio de producción de eventos: Desarrollo de Ferias Productivas, Lanzamiento de Temporada Turística 2026-2027 en Puerto Sánchez - COD BIP 40066883-0",
-   "organismo": "I MUNICIPALIDAD RIO IBANEZ",
-   "monto": 7150000,
-   "cierre_iso": "2026-11-19T19:00:00-03:00",
-   "tipo": "POSIBLE",
-   "motivos": [
-    "iluminación"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=4066-527-COT26",
-   "primera_vista_iso": "2026-11-17T19:00:32-03:00",
-   "removida_iso": "2026-11-19T20:00:27-03:00",
    "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,

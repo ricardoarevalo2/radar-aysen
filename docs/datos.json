@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-11-26T18:00:27.167341-03:00",
+ "actualizado": "2026-11-26T19:00:24.539698-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
- "total_region": 274,
+ "total_region": 272,
  "rubros": {
   "80141600": "Ventas y marketing",
   "82101600": "Publicidad en medios no impresos",
@@ -14,35 +14,6 @@
   "83121700": "Comunicación social y de masas"
  },
  "filas": [
-  {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Fotógrafos y camarógrafos"
-   ],
-   "nueva": false,
-   "codigo": "2495-716-COT26",
-   "nombre": "CONTRATACIÓN DE SERVICIO DE COBERTURA AUDIOVISUAL, TRANSMISIÓN Y DIFUSIÓN DE LA EXPO GANADERA COYHAIQUE 2026",
-   "organismo": "I MUNICIPALIDAD DE COYHAIQUE",
-   "unidad": "DIRECCION DESARROLLO COMUNITARIO",
-   "monto": 7100000,
-   "cierre_iso": "2026-11-26T18:00:00-03:00",
-   "publicacion": "25-11 17:53",
-   "publicacion_iso": "2026-11-25T17:53:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "82131603",
-     "Producción de vídeo",
-     1,
-     "Servicio integral de cobertura audiovisual, transmisión y difusión para Expo Ganadera Coyhaique 2026 (27-29 nov). Incluye difusión previa con 2 entrevistas radiales, 4 transmisiones en vivo, contenido RRSS (10 publicaciones, 12 historias, 6 reels, 40 entrevistas breves), entrega preliminar en 24h, banco audiovisual con mínimo 150 fotografías editadas, videos editados y 1 video resumen institucional (3-5 min). Plazo final: 15 días hábiles post-evento. Adjuntar Anexos 1 al 6 según Bases Técnicas."
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=2495-716-COT26",
-   "sin_detalle": false,
-   "descripcion": "Contratación de servicio de cobertura audiovisual, transmisión en vivo y difusión para la Expo Ganadera Coyhaique 2026 (27 al 29 de noviembre). Incluye difusión previa, 2 entrevistas radiales, 4 transmisiones en vivo, contenido para redes sociales (publicaciones, historias, reels y entrevistas a 40 expositores), 150 fotografías editadas y un video resumen institucional. Oferentes deben adjuntar Anexos 1 al 6 según Bases Técnicas.",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
   {
    "tipo": "POSIBLE",
    "motivos": [
@@ -721,6 +692,347 @@
    "desaparecida_iso": ""
   },
   {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "difusión"
+   ],
+   "nueva": true,
+   "codigo": "1107283-201-COT26",
+   "nombre": "ADQUISICIÓN DE INSUMOS DE OFICINA, INSUMOS DE HIGIENE Y LABORATORIO,",
+   "organismo": "INSTITUTO DE INVESTIGACIONES AGROPECUARIAS",
+   "unidad": "TAMELAIKE",
+   "monto": 2800000,
+   "cierre_iso": "2026-11-28T15:00:00-03:00",
+   "publicacion": "26-11 18:29",
+   "publicacion_iso": "2026-11-26T18:29:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "14111507",
+     "Papel para fotocopiadora o impresora",
+     20,
+     "•\t20 resmas de papel blanco tamaño carta, gramaje de 75 g/m² o superior, de 500 hojas cada una."
+    ],
+    [
+     "14111507",
+     "Papel para fotocopiadora o impresora",
+     4,
+     "•\t4 resmas de papel blanco tamaño oficio, gramaje de 75 g/m² o superior, de 500 hojas cada una."
+    ],
+    [
+     "14111525",
+     "Papel multiuso",
+     2,
+     "•\t2 resmas de papel blanco tamaño doble carta, gramaje aproximado de 80 g/m², de 500 hojas cada una."
+    ],
+    [
+     "14111525",
+     "Papel multiuso",
+     10,
+     "•\t10 cajas de opalina lisa blanca tamaño carta, gramaje aproximado de 200 g/m², de 100 hojas cada una."
+    ],
+    [
+     "14111525",
+     "Papel multiuso",
+     3,
+     "•\t3 cajas de opalina lisa blanca tamaño oficio, gramaje aproximado de 200 g/m², de 100 hojas cada una."
+    ],
+    [
+     "14111530",
+     "Notas de papel autoadhesivo",
+     2,
+     "•\t2 paquetes de notas adhesivas de aproximadamente 75 × 75 mm, de 100 hojas cada uno"
+    ],
+    [
+     "14111530",
+     "Notas de papel autoadhesivo",
+     2,
+     "•\t2 paquetes de notas adhesivas transparentes de aproximadamente 76 × 76 mm, de 30 hojas cada uno."
+    ],
+    [
+     "14111531",
+     "Libros o cuadernos de registro",
+     2,
+     "•\t2 blocks de apuntes tamaño carta, espiralados y rayados."
+    ],
+    [
+     "14111703",
+     "Toallas de papel",
+     12,
+     "paquetes de toalla de papel industrial."
+    ],
+    [
+     "14121812",
+     "Papel fotográfico",
+     10,
+     "•\t10 paquetes de papel fotográfico mate tamaño carta, gramaje aproximado de 170 g/m², de 20 hojas cada uno."
+    ],
+    [
+     "23121606",
+     "Máquinas plegadoras o recanilladoras",
+     1,
+     "•\t1 espiralera o anilladora manual para documentos tamaño carta y oficio, compatible con espirales plásticos, con capacidad de perforación de al menos 15 hojas de papel estándar."
+    ],
+    [
+     "24111503",
+     "Bolsas de plástico",
+     3,
+     "paquetes de bolsas herméticas con cierre, dimensiones aproximadas de 18 × 20 cm, 50 unidad por paquete"
+    ],
+    [
+     "24141607",
+     "Separadores de cartón",
+     2,
+     "•\t2 sets de separadores de cartulina tamaño carta, de 6 posiciones."
+    ],
+    [
+     "31161903",
+     "Resortes espirales",
+     3,
+     "•\t3 cajas de espirales plásticos de 12 mm, compatibles con la espiralera ofertada, de 50 unidades cada una."
+    ],
+    [
+     "31161903",
+     "Resortes espirales",
+     3,
+     "•\t3 cajas de espirales plásticos de 20 mm, compatibles con la espiralera ofertada, de 50 unidades cada una."
+    ],
+    [
+     "31201512",
+     "Cinta Transparente",
+     10,
+     "•\t10 cintas de embalaje transparente, de aproximadamente 48 mm × 40 m."
+    ],
+    [
+     "42295011",
+     "Cámaras de video endoscópicas o grabadoras, adaptadores o accesorios",
+     2,
+     "•\t2 adaptadores de video HDMI a VGA, compatibles con resolución de hasta 1080p."
+    ],
+    [
+     "43201402",
+     "Tarjetas de módulo de memoria",
+     2,
+     "•\t2 memorias portátiles tipo pendrive de 256 GB, con interfaz USB 3.0 o superior."
+    ],
+    [
+     "43201402",
+     "Tarjetas de módulo de memoria",
+     2,
+     "•\t2 tarjetas de memoria microSD de 32 GB con adaptador SD."
+    ],
+    [
+     "43201611",
+     "Soportes de computador",
+     2,
+     "•\t2 soportes regulables para notebook de hasta 15,6 pulgadas."
+    ],
+    [
+     "43211706",
+     "Teclados",
+     1,
+     "•\t1 kit de teclado y mouse inalámbricos, con teclado en español."
+    ],
+    [
+     "43211706",
+     "Teclados",
+     1,
+     "•\t1 kit de teclado y mouse inalámbricos de diseño ergonómico, con teclado en español y reposamuñecas."
+    ],
+    [
+     "43212002",
+     "Soportes para monitor",
+     4,
+     "•\t4 soportes elevadores para monitor de escritorio."
+    ],
+    [
+     "44102001",
+     "Lámina para plastificar",
+     6,
+     "•\t6 cajas de láminas transparentes para termolaminar, tamaño carta, de 175 micras, de 100 unidades cada una."
+    ],
+    [
+     "44102001",
+     "Lámina para plastificar",
+     2,
+     "•\t2 cajas de láminas transparentes para termolaminar, tamaño oficio, de 125 micras, de 100 unidades cada una."
+    ],
+    [
+     "44102801",
+     "Plastificadoras",
+     1,
+     "•\t1 termolaminadora formato A3, compatible con láminas de entre 75 y 175 micras."
+    ],
+    [
+     "44103105",
+     "Cartuchos de tinta",
+     3,
+     "•\t3 cartuchos de tinta negra compatibles con sistema HP 954."
+    ],
+    [
+     "44103105",
+     "Cartuchos de tinta",
+     3,
+     "•\t3 cartuchos de tinta cian compatibles con sistema HP 954."
+    ],
+    [
+     "44103105",
+     "Cartuchos de tinta",
+     3,
+     "•\t3 cartuchos de tinta magenta compatibles con sistema HP 954."
+    ],
+    [
+     "44103105",
+     "Cartuchos de tinta",
+     3,
+     "•\t3 cartuchos de tinta amarilla compatibles con sistema HP 954."
+    ],
+    [
+     "44121612",
+     "Cuchillos cartoneros",
+     4,
+     "•\t4 cuchillos cartoneros grandes con hoja retráctil."
+    ],
+    [
+     "44121701",
+     "Lápiz pasta",
+     50,
+     "lápices pasta azul, punta media."
+    ],
+    [
+     "44121708",
+     "Marcadores",
+     10,
+     "•\t6 destacadores amarillos y 4 destacadores rosados"
+    ],
+    [
+     "44121708",
+     "Marcadores",
+     10,
+     "•\t10 marcadores permanentes negros, punta fina."
+    ],
+    [
+     "44121802",
+     "Líquido corrector",
+     10,
+     "correctores líquidos tipo lápiz, de aproximadamente 7 ml."
+    ],
+    [
+     "44122001",
+     "Archivadores de fichas",
+     2,
+     "•\t2 archivadores tamaño oficio, lomo ancho."
+    ],
+    [
+     "44122003",
+     "Tablas para sujetar",
+     2,
+     "•\t2 tablas de apoyo para documentos tamaño oficio con apretador."
+    ],
+    [
+     "44122011",
+     "Carpetas para archivos",
+     10,
+     "•\t10 cintas adhesivas masking tape, de aproximadamente 36 mm × 40 m."
+    ],
+    [
+     "44122011",
+     "Carpetas para archivos",
+     20,
+     "•\t20 carpetas plastificadas para documentos"
+    ],
+    [
+     "44122017",
+     "Carpetas colgantes o accesorios",
+     2,
+     "•\t2 carpetas tamaño carta con 60 fundas transparentes."
+    ],
+    [
+     "44122017",
+     "Carpetas colgantes o accesorios",
+     2,
+     "•\t2 carpetas vinílicas tamaño oficio con broche."
+    ],
+    [
+     "44122104",
+     "Clips para papel",
+     2,
+     "•\t2 cajas de clips metálicos de aproximadamente 33 mm, de 100 unidades cada una."
+    ],
+    [
+     "44122106",
+     "Chinches y tachuelas",
+     2,
+     "•\t2 cajas de chinches tipo push pin, de 100 unidades cada una."
+    ],
+    [
+     "44122112",
+     "Fasteners o sujetadores de cabeza redonda",
+     2,
+     "•\t2 sujetapapeles metálicos tipo doble clip, de aproximadamente 15 mm."
+    ],
+    [
+     "45101706",
+     "Perforadoras impresoras",
+     2,
+     "•\t2 perforadoras manuales tipo alicate de un orificio."
+    ],
+    [
+     "45111609",
+     "Proyectores multimedia",
+     1,
+     "•\t1 proyector multimedia portátil, con resolución nativa mínima HD (1280 × 720) y conexión HDMI."
+    ],
+    [
+     "45131701",
+     "Bandejas u organizadores de diapositivas",
+     1,
+     "•\t1 bandeja metálica organizadora de documentos, de tres niveles."
+    ],
+    [
+     "47121605",
+     "Limpiadores de suelo",
+     6,
+     "envases de limpiador antibacterial para superficies, de aproximadamente 1.800 ml."
+    ],
+    [
+     "47131602",
+     "Paños de limpieza absorbente",
+     4,
+     "paquetes de paños de limpieza multiuso, de 3 unidades cada uno."
+    ],
+    [
+     "51142619",
+     "Alcohol aromático de amoniaco",
+     2,
+     "envases de alcohol gel al 70%, de 1 litro."
+    ],
+    [
+     "55121616",
+     "Banderitas autoadhesivas",
+     2,
+     "•\t2 sets de banderitas adhesivas de distintos colores, de aproximadamente 250 unidades cada uno."
+    ],
+    [
+     "60101101",
+     "Lectores de tarjetas electrónicas",
+     2,
+     "•\t2 lectores externos de tarjetas SD y microSD con conexión USB-C."
+    ],
+    [
+     "60101732",
+     "Apuntadores o punteros",
+     2,
+     "•\t2 presentadores inalámbricos con puntero láser y control de avance y retroceso de diapositivas."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1107283-201-COT26",
+   "sin_detalle": false,
+   "descripcion": "ADQUISICIÓN DE INSUMOS DE OFICINA, INSUMOS DE HIGIENE Y LABORATORIO, Y MATERIALES Y EQUIPOS DE APOYO A LA DIFUSIÓN",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
    "tipo": "OPORTUNIDAD",
    "motivos": [
     "Servicios de televisión"
@@ -821,6 +1133,24 @@
   }
  ],
  "historial": [
+  {
+   "codigo": "2495-716-COT26",
+   "nombre": "CONTRATACIÓN DE SERVICIO DE COBERTURA AUDIOVISUAL, TRANSMISIÓN Y DIFUSIÓN DE LA EXPO GANADERA COYHAIQUE 2026",
+   "organismo": "I MUNICIPALIDAD DE COYHAIQUE",
+   "monto": 7100000,
+   "cierre_iso": "2026-11-26T18:00:00-03:00",
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Fotógrafos y camarógrafos"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=2495-716-COT26",
+   "primera_vista_iso": "2026-11-25T18:00:25-03:00",
+   "removida_iso": "2026-11-26T19:00:24-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
   {
    "codigo": "1092-99-COT26",
    "nombre": "SIC 476 SIRE 475 Servicio de Publicidad Deprif Coyhaique",
@@ -1946,24 +2276,6 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=2495-669-COT26",
    "primera_vista_iso": "2026-11-16T15:00:28-03:00",
    "removida_iso": "2026-11-20T02:00:22-03:00",
-   "estado_api": "",
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "4066-527-COT26",
-   "nombre": "Servicio de producción de eventos: Desarrollo de Ferias Productivas, Lanzamiento de Temporada Turística 2026-2027 en Puerto Sánchez - COD BIP 40066883-0",
-   "organismo": "I MUNICIPALIDAD RIO IBANEZ",
-   "monto": 7150000,
-   "cierre_iso": "2026-11-19T19:00:00-03:00",
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Ventas y marketing"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=4066-527-COT26",
-   "primera_vista_iso": "2026-11-17T19:00:32-03:00",
-   "removida_iso": "2026-11-19T20:00:27-03:00",
    "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,
