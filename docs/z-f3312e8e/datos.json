@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-11-26T08:00:27.686860-03:00",
+ "actualizado": "2026-11-26T09:00:26.865688-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
- "total_region": 296,
+ "total_region": 291,
  "rubros": {
   "25172700": "Aire acondicionado",
   "25173900": "Componentes eléctricos",
@@ -1742,7 +1742,7 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=911089-115-COT26",
    "primera_vista_iso": "2026-11-20T11:00:28-03:00",
    "removida_iso": "2026-11-26T08:00:27-03:00",
-   "estado_api": null,
+   "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,
    "adj_iso": null

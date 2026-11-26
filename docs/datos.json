@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-11-26T08:00:27.686860-03:00",
+ "actualizado": "2026-11-26T09:00:26.865688-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
- "total_region": 296,
+ "total_region": 291,
  "rubros": {
   "80141600": "Ventas y marketing",
   "82101600": "Publicidad en medios no impresos",
@@ -14,47 +14,6 @@
   "83121700": "Comunicación social y de masas"
  },
  "filas": [
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "audiovisual"
-   ],
-   "nueva": false,
-   "codigo": "886182-277-COT26",
-   "nombre": "Adquisición de equipamiento audiovisual _ Según FISABS 2483.",
-   "organismo": "UNIVERSIDAD DE AYSEN",
-   "unidad": "Universidad de Aysen",
-   "monto": 778968,
-   "cierre_iso": "2026-11-26T08:30:00-03:00",
-   "publicacion": "24-11 10:41",
-   "publicacion_iso": "2026-11-24T10:41:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "45121801",
-     "Cámaras para microfilmar",
-     1,
-     "Se requiere cotizar adquisición de 1 cámara de video digital que incluya una batería adicional, un soporte adhesivo curvo adicional, una tarjeta SD de 64 GB y un estuche de guardado. Según especificaciones técnicas adjuntas."
-    ],
-    [
-     "52161512",
-     "Parlantes",
-     1,
-     "Se requiere cotizar 1 BAFLE ACTIVO 15P + DOBLE MICROFONO INALAMBRICO, según especificaciones técnicas adjuntas."
-    ],
-    [
-     "52161520",
-     "Micrófonos",
-     1,
-     "Se requiere cotizar adquisición de 1 Micrófono Inalámbrico Ultra Compacto Portable 24GHz USB-C. Según especificaciones técnicas adjuntas."
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=886182-277-COT26",
-   "sin_detalle": false,
-   "descripcion": "Se requiere cotizar adquisición de equipamiento audiovisual. Cotización debe indicar\nespecificaciones técnicas de lo ofertado. Debe indicar plazo de entrega ofertado,\nconsiderando entrega en dependencias de U. Aysén. Valor cotizado debe incluir flete\ne impuestos. Se podrá privilegiar el menor plazo de entrega ofertado, siempre que\ncumpla con todas las especificaciones requeridas.",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
   {
    "tipo": "OPORTUNIDAD",
    "motivos": [
@@ -823,6 +782,24 @@
   }
  ],
  "historial": [
+  {
+   "codigo": "886182-277-COT26",
+   "nombre": "Adquisición de equipamiento audiovisual _ Según FISABS 2483.",
+   "organismo": "UNIVERSIDAD DE AYSEN",
+   "monto": 778968,
+   "cierre_iso": "2026-11-26T08:30:00-03:00",
+   "tipo": "POSIBLE",
+   "motivos": [
+    "audiovisual"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=886182-277-COT26",
+   "primera_vista_iso": "2026-11-24T11:00:26-03:00",
+   "removida_iso": "2026-11-26T09:00:26-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
   {
    "codigo": "1201-215-COT26",
    "nombre": "SERVICIO DE SONIDO – AMPLIFICACIÓN - ANIMACIÓN  EVENTOS SUB10 – SUB12 – JUVENIL JUEGOS DEPORTIVOS ESCOLARES 2026",
@@ -1897,26 +1874,6 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=2713-1404-COT26",
    "primera_vista_iso": "2026-11-16T18:00:29-03:00",
    "removida_iso": "2026-11-19T12:00:30-03:00",
-   "estado_api": "",
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "2713-1405-COT26",
-   "nombre": "Seguridad Publica, solicitud adquisicion material publicitario, solicitud folio 1461",
-   "organismo": "I MUNICIPALIDAD DE AYSEN",
-   "monto": 869825,
-   "cierre_iso": "2026-11-19T08:30:00-03:00",
-   "tipo": "POSIBLE",
-   "motivos": [
-    "publicitaria",
-    "publicitario",
-    "publicitarios"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=2713-1405-COT26",
-   "primera_vista_iso": "2026-11-17T11:00:24-03:00",
-   "removida_iso": "2026-11-19T09:00:33-03:00",
    "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,
