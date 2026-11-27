@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-11-27T08:00:26.008374-03:00",
+ "actualizado": "2026-11-27T09:00:26.419579-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
- "total_region": 268,
+ "total_region": 266,
  "rubros": {
   "25172700": "Aire acondicionado",
   "25173900": "Componentes eléctricos",
@@ -2382,24 +2382,6 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=1057062-556-COT26",
    "primera_vista_iso": "2026-11-19T12:00:30-03:00",
    "removida_iso": "2026-11-20T13:00:27-03:00",
-   "estado_api": "",
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "3765-363-COT26",
-   "nombre": "MANTENIMIENTO PREVENTIVO GRUPO GENERADOR DE HLOR CHILE CHICO Y PSR MALLÍN GRANDE ",
-   "organismo": "SERVICIO NACIONAL DE SALUD HOSPITAL DE C",
-   "monto": 3000000,
-   "cierre_iso": "2026-11-20T09:00:00-03:00",
-   "tipo": "POSIBLE",
-   "motivos": [
-    "generador"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=3765-363-COT26",
-   "primera_vista_iso": "2026-11-18T11:00:25-03:00",
-   "removida_iso": "2026-11-20T10:00:35-03:00",
    "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,
