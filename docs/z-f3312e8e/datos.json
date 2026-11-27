@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-11-27T09:00:26.419579-03:00",
+ "actualizado": "2026-11-27T10:00:28.437541-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
- "total_region": 266,
+ "total_region": 258,
  "rubros": {
   "25172700": "Aire acondicionado",
   "25173900": "Componentes eléctricos",
@@ -19,70 +19,6 @@
   "39121400": "Conectores, enchufes y terminales"
  },
  "filas": [
-  {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Cajas y accesorios eléctricos"
-   ],
-   "nueva": false,
-   "codigo": "3950-764-COT26",
-   "nombre": "cajas y cajonera para fonoaudiologia",
-   "organismo": "DIRECCION SALUD RURAL",
-   "unidad": "Dirección de Salud Rural",
-   "monto": 120000,
-   "cierre_iso": "2026-11-27T09:30:00-03:00",
-   "publicacion": "25-11 16:30",
-   "publicacion_iso": "2026-11-25T16:30:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "39121310",
-     "Cajas de uso general",
-     1,
-     "Caja organizadora plástica de 100 litros con ruedas, transparente, con tapa y broches de cierre, apilable. Medidas aprox. 62 x 47 x 37 cm. Tipo Rollbox Wenco o equivalente."
-    ],
-    [
-     "56101702",
-     "Gabinetes de archivos o accesorios",
-     1,
-     "Cajonera o gabinete con cerradura de llave para resguardo de fichas clínicas, medidas máximas 37 cm (ancho) x 34 cm (fondo) x 58 cm (alto). Estructura metálica o de melamina de 15 a 18 mm, 2 a 3 cajones con cierre centralizado y 2 llaves."
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=3950-764-COT26",
-   "sin_detalle": false,
-   "descripcion": "incluir despacho en cotizacion",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
-  {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Cajas y accesorios eléctricos"
-   ],
-   "nueva": true,
-   "codigo": "1195-624-COT26",
-   "nombre": "MATERIALES ELECTRICOS Y FERRETERIA ",
-   "organismo": "I MUNICIPALIDAD DE COYHAIQUE",
-   "unidad": "Ilustre Municipalidad de Coyhaique",
-   "monto": 6200000,
-   "cierre_iso": "2026-11-27T09:40:00-03:00",
-   "publicacion": "26-11 09:37",
-   "publicacion_iso": "2026-11-26T09:37:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "39121311",
-     "Accesorios eléctricos",
-     1,
-     "Se requiere la compra de diversos materiales e insumos eléctricos según listado con especificaciones técnicas adjunto."
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1195-624-COT26",
-   "sin_detalle": false,
-   "descripcion": "la I municipalidad de Coyhaique a treves de la Dirección de seguridad pública requiere la adquisición de materiales e insumos eléctricos para la mantención y reparación del alumbrado publico. Se privilegiará proveedor local o regional que cumpla de mejor manera con o solicitado y en caso de ser proveedor de otra comuna o región deberá considera costos por concepto de flete o envío dentro de la cotización",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
   {
    "tipo": "OPORTUNIDAD",
    "motivos": [
@@ -1504,6 +1440,42 @@
   }
  ],
  "historial": [
+  {
+   "codigo": "1195-624-COT26",
+   "nombre": "MATERIALES ELECTRICOS Y FERRETERIA ",
+   "organismo": "I MUNICIPALIDAD DE COYHAIQUE",
+   "monto": 6200000,
+   "cierre_iso": "2026-11-27T09:40:00-03:00",
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Cajas y accesorios eléctricos"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1195-624-COT26",
+   "primera_vista_iso": "2026-11-26T10:00:24-03:00",
+   "removida_iso": "2026-11-27T10:00:28-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
+  {
+   "codigo": "3950-764-COT26",
+   "nombre": "cajas y cajonera para fonoaudiologia",
+   "organismo": "DIRECCION SALUD RURAL",
+   "monto": 120000,
+   "cierre_iso": "2026-11-27T09:30:00-03:00",
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Cajas y accesorios eléctricos"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=3950-764-COT26",
+   "primera_vista_iso": "2026-11-25T17:00:28-03:00",
+   "removida_iso": "2026-11-27T10:00:28-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
   {
    "codigo": "868-113-COT26",
    "nombre": "HORNO ELECTRICO DE 60 LITROS, POTENCIA DE 2200W- FRIGOBAR SALA DE LACTANCIA, CAPACIDAD DESEADA MINIMO 40L MAXIMO 70L",

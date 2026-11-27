@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-11-27T09:00:26.419579-03:00",
+ "actualizado": "2026-11-27T10:00:28.437541-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
- "total_region": 266,
+ "total_region": 258,
  "rubros": {
   "80141600": "Ventas y marketing",
   "82101600": "Publicidad en medios no impresos",
@@ -48,7 +48,7 @@
    "motivos": [
     "audiovisuales"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "3791-1230-COT26",
    "nombre": "EQUIPO AUDIOVISUALES ",
    "organismo": "I MUNICIPALIDAD DE CISNES",
@@ -583,6 +583,35 @@
   {
    "tipo": "OPORTUNIDAD",
    "motivos": [
+    "Ventas y marketing"
+   ],
+   "nueva": true,
+   "codigo": "1195-637-COT26",
+   "nombre": "SERVICIO DE PRODUCCION DE EVENTOS ANIVERSARIO DE LOCALIDADES RURALES VALLE SIMPSON 2026",
+   "organismo": "I MUNICIPALIDAD DE COYHAIQUE",
+   "unidad": "Ilustre Municipalidad de Coyhaique",
+   "monto": 5000000,
+   "cierre_iso": "2026-11-28T09:30:00-03:00",
+   "publicacion": "27-11 09:17",
+   "publicacion_iso": "2026-11-27T09:17:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "80141607",
+     "Producción de eventos",
+     1,
+     "SERVICIO DE PRODUCCION DE EVENTOS ANIVERSARIO DE LOCALIDADES RURALES VALLE SIMPSON 2026,COTIZACION SEGUN ANEXO ADJUNTO"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1195-637-COT26",
+   "sin_detalle": false,
+   "descripcion": "SERVICIO DE PRODUCCION DE EVENTOS ANIVERSARIO DE LOCALIDADES RURALES VALLE SIMPSON 2026,COTIZACION SEGUN ANEXO ADJUNTO",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
     "Inserciones publicitarias en medios"
    ],
    "nueva": true,
@@ -947,6 +976,36 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=1107283-201-COT26",
    "sin_detalle": false,
    "descripcion": "ADQUISICIÓN DE INSUMOS DE OFICINA, INSUMOS DE HIGIENE Y LABORATORIO, Y MATERIALES Y EQUIPOS DE APOYO A LA DIFUSIÓN",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "publicidad",
+    "publicitarios"
+   ],
+   "nueva": true,
+   "codigo": "1233615-1049-COT26",
+   "nombre": "DMH SOL-2026-02150 Recursos para el aprendizaje e innovación (SEPARADORES) para Liceo Politécnico A-1 de Puerto Aysén",
+   "organismo": "Servicio Local de Educación Pública Aysén",
+   "unidad": "Servicio Local de Educación Pública Aysén",
+   "monto": 400000,
+   "cierre_iso": "2026-11-30T10:00:00-03:00",
+   "publicacion": "27-11 09:12",
+   "publicacion_iso": "2026-11-27T09:12:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "82101507",
+     "Folletos y catálogos publicitarios, servicios de publicidad y distribución",
+     6,
+     "Kit de Poste Separador de fila pilar de acero con cinta retráctil azul para Liceo Politécnico A-1 de Puerto Aysén, de acuerdo al requerimiento adjunto a la presente compra"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1233615-1049-COT26",
+   "sin_detalle": false,
+   "descripcion": "La adquisición de recursos tiene como finalidad fortalecer los procesos de enseñanza y aprendizaje mediante experiencias prácticas, innovadoras y contextualizadas. Estos implementos permitirán desarrollar competencias tecnológicas, comunicativas, técnicas y laborales, fomentar la creatividad, el trabajo colaborativo y la participación",
    "en_gracia": false,
    "desaparecida_iso": ""
   },
@@ -2190,25 +2249,6 @@
    ],
    "link": "https://buscador.mercadopublico.cl/ficha?code=886182-269-COT26",
    "primera_vista_iso": "2026-11-19T11:00:26-03:00",
-   "removida_iso": "2026-11-20T11:00:28-03:00",
-   "estado_api": "",
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "2713-1412-COT26",
-   "nombre": "DIDECO SOL. 1478 ADQUISICION DE SMART -TV",
-   "organismo": "I MUNICIPALIDAD DE AYSEN",
-   "monto": 1500000,
-   "cierre_iso": "2026-11-20T10:00:00-03:00",
-   "tipo": "POSIBLE",
-   "motivos": [
-    "television",
-    "televisión"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=2713-1412-COT26",
-   "primera_vista_iso": "2026-11-17T13:00:25-03:00",
    "removida_iso": "2026-11-20T11:00:28-03:00",
    "estado_api": "",
    "adj_nombre": null,
