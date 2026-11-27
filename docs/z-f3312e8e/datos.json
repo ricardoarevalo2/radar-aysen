@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-11-27T16:00:24.709141-03:00",
+ "actualizado": "2026-11-27T16:08:41.199299-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
- "total_region": 247,
+ "total_region": 241,
  "rubros": {
   "25172700": "Aire acondicionado",
   "25173900": "Componentes eléctricos",
@@ -493,7 +493,7 @@
    "motivos": [
     "Materiales de física de electricidad"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "1233615-1041-COT26",
    "nombre": "RMG-SOL01535-Liceo Luisa Rabanal, Equipamiento para simulación EMTP 29.05, despacho incluido a Chile Chico.",
    "organismo": "Servicio Local de Educación Pública Aysén",
@@ -739,7 +739,7 @@
    "motivos": [
     "luminarias"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "4144-349-COT26",
    "nombre": "Se requiere servicio de Camaraderia para Cierre de proyecto provision e instalacion de luminarias Led",
    "organismo": "I MUNICIPALIDAD DE LAGO VERDE",
@@ -1013,7 +1013,7 @@
    "motivos": [
     "Gasfitería, calefacción y aire acondicionado"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "1905-90-COT26",
    "nombre": "Servicio de mejoramiento de calefacción en oficina de Puerto Aysén y Coyhaique",
    "organismo": "SERVICIO DE REGISTRO CIVIL E IDENTIFICAC",
@@ -1080,7 +1080,7 @@
    ],
    "link": "https://buscador.mercadopublico.cl/ficha?code=1403-513-COT26",
    "primera_vista_iso": "2026-11-25T15:00:23-03:00",
-   "removida_iso": "2026-11-27T16:00:24-03:00",
+   "removida_iso": "2026-11-27T16:08:41-03:00",
    "estado_api": null,
    "adj_nombre": null,
    "adj_monto": null,
@@ -1098,7 +1098,7 @@
    ],
    "link": "https://buscador.mercadopublico.cl/ficha?code=1538639-21-COT26",
    "primera_vista_iso": "2026-11-25T16:00:27-03:00",
-   "removida_iso": "2026-11-27T16:00:24-03:00",
+   "removida_iso": "2026-11-27T16:08:41-03:00",
    "estado_api": null,
    "adj_nombre": null,
    "adj_monto": null,
@@ -1116,7 +1116,7 @@
    ],
    "link": "https://buscador.mercadopublico.cl/ficha?code=1004-42-COT26",
    "primera_vista_iso": "2026-11-26T15:00:29-03:00",
-   "removida_iso": "2026-11-27T16:00:24-03:00",
+   "removida_iso": "2026-11-27T16:08:41-03:00",
    "estado_api": null,
    "adj_nombre": null,
    "adj_monto": null,
@@ -1134,7 +1134,7 @@
    ],
    "link": "https://buscador.mercadopublico.cl/ficha?code=3949-319-COT26",
    "primera_vista_iso": "2026-11-25T15:00:23-03:00",
-   "removida_iso": "2026-11-27T16:00:24-03:00",
+   "removida_iso": "2026-11-27T16:08:41-03:00",
    "estado_api": null,
    "adj_nombre": null,
    "adj_monto": null,
