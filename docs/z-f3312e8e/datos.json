@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-11-27T19:00:26.129730-03:00",
+ "actualizado": "2026-11-27T20:00:29.183062-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
- "total_region": 242,
+ "total_region": 239,
  "rubros": {
   "25172700": "Aire acondicionado",
   "25173900": "Componentes eléctricos",
@@ -19,35 +19,6 @@
   "39121400": "Conectores, enchufes y terminales"
  },
  "filas": [
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "transformador"
-   ],
-   "nueva": false,
-   "codigo": "5575-162-COT26",
-   "nombre": "Purificador de aire portátil con filtro HEPA, carbón activado y sensor de partículas PM1.",
-   "organismo": "I MUNICIPALIDAD DE COYHAIQUE",
-   "unidad": "Dep. Gestion Medioambiente y Servic",
-   "monto": 404000,
-   "cierre_iso": "2026-11-27T19:00:00-03:00",
-   "publicacion": "26-11 18:53",
-   "publicacion_iso": "2026-11-26T18:53:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "40161602",
-     "Purificadores del aire",
-     1,
-     "Cobertura min 50 m², filtración múltiples etapa filtro HEPA  alta eficiencia y filtro carbón activado para eliminación de partículas suspendidas, alérgenos y olores. Incorporar sensor partículas ultrafinas (PM1) para detección de contaminantes menores a 1 micrón y sensor calidad aire/polvo para monitoreo continuo de alérgenos ambientales . Operación silenciosa nivel de ruido modo reposo de máximo 32 dB,  220V / 50Hz sin transformador externo, bajo consumo. Debe incluir ficha técnica y traslado."
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=5575-162-COT26",
-   "sin_detalle": false,
-   "descripcion": "Cobertura min 50 m², filtración múltiples etapas incluya filtro HEPA  alta eficiencia y filtro carbón activado para eliminación de partículas suspendidas, alérgenos y olores. Incorporar sensor partículas ultrafinas (PM1) para detección de contaminantes menores a 1 micrón y sensor calidad aire/polvo para monitoreo continuo de alérgenos ambientales . Operación silenciosa nivel de ruido modo reposo de máximo 32 dB.",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
   {
    "tipo": "POSIBLE",
    "motivos": [
@@ -1056,6 +1027,24 @@
   }
  ],
  "historial": [
+  {
+   "codigo": "5575-162-COT26",
+   "nombre": "Purificador de aire portátil con filtro HEPA, carbón activado y sensor de partículas PM1.",
+   "organismo": "I MUNICIPALIDAD DE COYHAIQUE",
+   "monto": 404000,
+   "cierre_iso": "2026-11-27T19:00:00-03:00",
+   "tipo": "POSIBLE",
+   "motivos": [
+    "transformador"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=5575-162-COT26",
+   "primera_vista_iso": "2026-11-26T19:00:24-03:00",
+   "removida_iso": "2026-11-27T20:00:29-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
   {
    "codigo": "1692-688-COT26",
    "nombre": "MANTENCION PREVENTIVA Y CORRECTIVAS DE 3 AMBULANCIAS DE LA PSR Y DEL HOSPITAL DE COCHRANE",
