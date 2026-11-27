@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-11-27T13:00:26.637204-03:00",
+ "actualizado": "2026-11-27T14:00:26.076775-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
- "total_region": 250,
+ "total_region": 246,
  "rubros": {
   "80141600": "Ventas y marketing",
   "82101600": "Publicidad en medios no impresos",
@@ -14,82 +14,6 @@
   "83121700": "Comunicación social y de masas"
  },
  "filas": [
-  {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Comunicación social y de masas"
-   ],
-   "nueva": false,
-   "codigo": "1195-630-COT26",
-   "nombre": "INSTALACION PUNTOS DE RED NUEVO EDIFICIO JPL",
-   "organismo": "I MUNICIPALIDAD DE COYHAIQUE",
-   "unidad": "Ilustre Municipalidad de Coyhaique",
-   "monto": 5300000,
-   "cierre_iso": "2026-11-27T13:00:00-03:00",
-   "publicacion": "26-11 12:31",
-   "publicacion_iso": "2026-11-26T12:31:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "83121703",
-     "Servicios relacionados con Internet",
-     13,
-     "provision e instalacion cableado estructural cat 6 , debe incluir canalizado"
-    ],
-    [
-     "83121703",
-     "Servicios relacionados con Internet",
-     2,
-     "provision e instalacion de enchufe con moldura , debe incluir diferencial 25A Y disyuntor automatico 20A"
-    ],
-    [
-     "83121703",
-     "Servicios relacionados con Internet",
-     1,
-     "provision e instalacion de patch panel 24 puertos cat 6"
-    ],
-    [
-     "83121703",
-     "Servicios relacionados con Internet",
-     1,
-     "diseño y entrega de planos asbuilt , mediciones (cableado estructurado y enchufes)"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1195-630-COT26",
-   "sin_detalle": false,
-   "descripcion": "SE REQUIERE SERVICIO DE INSTALACION DE PUNTOS DE RED EN NUEVO EDIFICIO DEL JUZGADO DE POLICIA LOCAL DE COYHAIQUE EN CALLE GRAL PARRA ESQUINA 12 DE OCTUBRE",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
-  {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Ventas y marketing"
-   ],
-   "nueva": false,
-   "codigo": "2495-717-COT26",
-   "nombre": "PRODUCCION INTEGRAL CARROS LOCOS",
-   "organismo": "I MUNICIPALIDAD DE COYHAIQUE",
-   "unidad": "DIRECCION DESARROLLO COMUNITARIO",
-   "monto": 3479800,
-   "cierre_iso": "2026-11-27T13:00:00-03:00",
-   "publicacion": "25-11 19:32",
-   "publicacion_iso": "2026-11-25T19:32:00-03:00",
-   "ofertas": 2,
-   "productos": [
-    [
-     "80141607",
-     "Producción de eventos",
-     1,
-     "PRODUCCION INTEGRAL CARROS LOCOS DESCRITA EN TDR"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=2495-717-COT26",
-   "sin_detalle": false,
-   "descripcion": "SE REQUIERE CONTRATAR EL SERVICIO DE PRODUCCION INTEGRAL PARA CARRERA DE CARROS LOCOS A REALIZARSE EN EL MES DE ENERO, SE PREVILEAGIARA PROVEEDOR DE LA COMUNA DE COYHAIQUE CON DISPONIBILIDAD INMEDIATA Y DISPOSICION A MODIFICACIONES, ADJUNTAR COTIZACION Y LO SOLICITADO EN TDR ADJUNTA",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
   {
    "tipo": "POSIBLE",
    "motivos": [
@@ -935,6 +859,36 @@
    "desaparecida_iso": ""
   },
   {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "audiovisuales",
+    "transmisión en vivo"
+   ],
+   "nueva": true,
+   "codigo": "868-120-COT26",
+   "nombre": "SERVICIO DE OPERACIÓN TECNICA PARA LA TRANSMISIÓN EN VIVO DE LAS SESIONES PLENARIAS Y TRABAJO DE COMISIONES DEL CONSEJO REGIONAL DE AYSÉN ",
+   "organismo": "GOBIERNO REGIONAL DE AYSEN",
+   "unidad": "Gobierno Regional de Aysen - XI Región",
+   "monto": 3712800,
+   "cierre_iso": "2026-11-30T12:00:00-03:00",
+   "publicacion": "27-11 13:18",
+   "publicacion_iso": "2026-11-27T13:18:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "80111715",
+     "Profesionales",
+     1,
+     "Según Cotización Adjunta"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=868-120-COT26",
+   "sin_detalle": false,
+   "descripcion": "El Gobierno Regional de Aysén requiere contar con el servicio de operación técnica de los equipos audiovisuales institucionales para transmitir en vivo las sesiones públicas tanto ordinarias como extraordinarias y el trabajo de comisiones del Consejo Regional de Aysén, por su canal institucional de You Tube. La transmisión y publicación facilitan el acceso de la ciudadanía a las deliberaciones del Consejo Regional, conforme al principio de transparencia en la función pública.",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
    "tipo": "OPORTUNIDAD",
    "motivos": [
     "Servicios de televisión"
@@ -1035,6 +989,42 @@
   }
  ],
  "historial": [
+  {
+   "codigo": "2495-717-COT26",
+   "nombre": "PRODUCCION INTEGRAL CARROS LOCOS",
+   "organismo": "I MUNICIPALIDAD DE COYHAIQUE",
+   "monto": 3479800,
+   "cierre_iso": "2026-11-27T13:00:00-03:00",
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Ventas y marketing"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=2495-717-COT26",
+   "primera_vista_iso": "2026-11-25T20:00:27-03:00",
+   "removida_iso": "2026-11-27T14:00:26-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
+  {
+   "codigo": "1195-630-COT26",
+   "nombre": "INSTALACION PUNTOS DE RED NUEVO EDIFICIO JPL",
+   "organismo": "I MUNICIPALIDAD DE COYHAIQUE",
+   "monto": 5300000,
+   "cierre_iso": "2026-11-27T13:00:00-03:00",
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Comunicación social y de masas"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1195-630-COT26",
+   "primera_vista_iso": "2026-11-26T13:00:24-03:00",
+   "removida_iso": "2026-11-27T14:00:26-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
   {
    "codigo": "1250372-1-COT26",
    "nombre": "MANTENCIÓN MÓVIL P0241 PLACA PATENTE SHFD75 CET AYSÉN",
@@ -1778,7 +1768,7 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=1622-778-COT26",
    "primera_vista_iso": "2026-11-23T10:00:26-03:00",
    "removida_iso": "2026-11-24T10:00:30-03:00",
-   "estado_api": null,
+   "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,
    "adj_iso": null
