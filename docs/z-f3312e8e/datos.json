@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-11-27T17:00:26.802708-03:00",
+ "actualizado": "2026-11-27T18:00:34.233447-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
- "total_region": 246,
+ "total_region": 243,
  "rubros": {
   "25172700": "Aire acondicionado",
   "25173900": "Componentes eléctricos",
@@ -22,303 +22,9 @@
   {
    "tipo": "POSIBLE",
    "motivos": [
-    "alargadores",
-    "eléctricos",
-    "enchufes"
-   ],
-   "nueva": false,
-   "codigo": "4778-421-COT26",
-   "nombre": "RELE-SOLICITUD N° 11.395-2026-UNIDAD DE DIALISIS",
-   "organismo": "SERVICIO NACIONAL DE SALUD HOSPITAL DE C",
-   "unidad": "Compras de Insumos y Servicios Generales",
-   "monto": 1559890,
-   "cierre_iso": "2026-11-27T17:00:00-03:00",
-   "publicacion": "25-11 16:58",
-   "publicacion_iso": "2026-11-25T16:58:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "73171510",
-     "Servicios de fabricación de accesorios o suministros eléctricos",
-     4,
-     "DIFERENCIAL 2X40A 30MA LEXO"
-    ],
-    [
-     "73171510",
-     "Servicios de fabricación de accesorios o suministros eléctricos",
-     4,
-     "AUTOMATICO 1 x 32 A CURVA C6KA LEXO"
-    ],
-    [
-     "73171510",
-     "Servicios de fabricación de accesorios o suministros eléctricos",
-     11,
-     "TUBO METALICO EMT 32mm 3 MTS"
-    ],
-    [
-     "73171510",
-     "Servicios de fabricación de accesorios o suministros eléctricos",
-     32,
-     "ABRAZADERA EMT CADDY 1\" 32mm EFLEX (KS)6"
-    ],
-    [
-     "73171510",
-     "Servicios de fabricación de accesorios o suministros eléctricos",
-     6,
-     "TERMINAL EMT 32mm"
-    ],
-    [
-     "73171510",
-     "Servicios de fabricación de accesorios o suministros eléctricos",
-     20,
-     "COPLA EMT 32mm"
-    ],
-    [
-     "73171510",
-     "Servicios de fabricación de accesorios o suministros eléctricos",
-     7,
-     "CURVA EMT IEC 90° 32 mm."
-    ],
-    [
-     "73171510",
-     "Servicios de fabricación de accesorios o suministros eléctricos",
-     12,
-     "CAJA EMT PRE GALVANIZADA TIPO CHIQUI 5/8\""
-    ],
-    [
-     "73171510",
-     "Servicios de fabricación de accesorios o suministros eléctricos",
-     14,
-     "TUBO EMT 20mm 3mts"
-    ],
-    [
-     "73171510",
-     "Servicios de fabricación de accesorios o suministros eléctricos",
-     8,
-     "CURVA EMT IEC 90° 20mm SP/DCH"
-    ],
-    [
-     "73171510",
-     "Servicios de fabricación de accesorios o suministros eléctricos",
-     20,
-     "COPLA EMT 20mm"
-    ],
-    [
-     "73171510",
-     "Servicios de fabricación de accesorios o suministros eléctricos",
-     25,
-     "TERMINAL EMT 20mm (KS)"
-    ],
-    [
-     "73171510",
-     "Servicios de fabricación de accesorios o suministros eléctricos",
-     2,
-     "TARUGO CON CLAVO 8x80 (BOLSA DE 50 UDS)"
-    ],
-    [
-     "73171510",
-     "Servicios de fabricación de accesorios o suministros eléctricos",
-     40,
-     "ABRAZADERA EMT CADDY 1/2\" 20mm EFLEX (KS)"
-    ],
-    [
-     "73171510",
-     "Servicios de fabricación de accesorios o suministros eléctricos",
-     1,
-     "FERRUL NARANJO LEX 12AWG BOLSA DE 100 UDS"
-    ],
-    [
-     "73171510",
-     "Servicios de fabricación de accesorios o suministros eléctricos",
-     1,
-     "FERRUL VERDE LEX 10AWG BOLSA DE 100 UDS"
-    ],
-    [
-     "73171510",
-     "Servicios de fabricación de accesorios o suministros eléctricos",
-     2,
-     "CINTA GOMA 2AUTOFUNDENTE NEGRA  10mm 5mts"
-    ],
-    [
-     "73171510",
-     "Servicios de fabricación de accesorios o suministros eléctricos",
-     2,
-     "CINTA AISLADORA ANTIFLAMA 3mT. NEGRA 600V"
-    ],
-    [
-     "73171510",
-     "Servicios de fabricación de accesorios o suministros eléctricos",
-     1,
-     "TERMINAL ANILLO AMARILLO LEXO 10-12 AWG 4,3mm (BOLSA 50uds)"
-    ],
-    [
-     "73171510",
-     "Servicios de fabricación de accesorios o suministros eléctricos",
-     8,
-     "TOMA CORRIENTE SIMPLE 10/16A 250V BLANCO ARM. LEXO"
-    ],
-    [
-     "73171510",
-     "Servicios de fabricación de accesorios o suministros eléctricos",
-     4,
-     "TOMA CORRIENTE DUPLEX 10/16A 250V BLANCO"
-    ],
-    [
-     "73171510",
-     "Servicios de fabricación de accesorios o suministros eléctricos",
-     1,
-     "BARRA TOMA A TIERRA 1/2\" 1,5mt"
-    ],
-    [
-     "73171510",
-     "Servicios de fabricación de accesorios o suministros eléctricos",
-     1,
-     "CONECTOR BRONCE PARA BARRA TOMA TIERRA 1/2\""
-    ],
-    [
-     "73171510",
-     "Servicios de fabricación de accesorios o suministros eléctricos",
-     1,
-     "RIEL DIN PERFORADO 35 x 7,5mm TIRA 1 mt. LEXO"
-    ],
-    [
-     "73171510",
-     "Servicios de fabricación de accesorios o suministros eléctricos",
-     1,
-     "BARRA REPARTIDORA TETRAPOLAR 15P 125A"
-    ],
-    [
-     "73171510",
-     "Servicios de fabricación de accesorios o suministros eléctricos",
-     2,
-     "AUTOMATICO 1x20A CURVA C Y 6KA LEXO"
-    ],
-    [
-     "73171510",
-     "Servicios de fabricación de accesorios o suministros eléctricos",
-     2,
-     "DIFERENCIAL 2x25A 30MA LEXO"
-    ],
-    [
-     "73171510",
-     "Servicios de fabricación de accesorios o suministros eléctricos",
-     3,
-     "CAJA EMT PREGALVANIZADA 8 ENTRADAS 100x100x65mm"
-    ],
-    [
-     "73171510",
-     "Servicios de fabricación de accesorios o suministros eléctricos",
-     1,
-     "CABLE LH HO7Z1-K 4 mm2 ROJO 100 mts."
-    ],
-    [
-     "73171510",
-     "Servicios de fabricación de accesorios o suministros eléctricos",
-     1,
-     "CABLE LH HO7Z1-K 4 mm2 BLANCO 100 mts."
-    ],
-    [
-     "73171510",
-     "Servicios de fabricación de accesorios o suministros eléctricos",
-     1,
-     "CABLE LH HO7Z1-K 4 mm2 VERDE 100 mts."
-    ],
-    [
-     "73171510",
-     "Servicios de fabricación de accesorios o suministros eléctricos",
-     1,
-     "CABLE LH HO7Z1-K 4 mm2 AZUL 100 mts."
-    ],
-    [
-     "73171510",
-     "Servicios de fabricación de accesorios o suministros eléctricos",
-     3,
-     "CABLE LH HO7Z1-K 4 mm2 NEGRO 100 mts."
-    ],
-    [
-     "73171510",
-     "Servicios de fabricación de accesorios o suministros eléctricos",
-     1,
-     "CABLE LH HO7Z1-K 6 mm2 VERDE 50 mts."
-    ],
-    [
-     "73171510",
-     "Servicios de fabricación de accesorios o suministros eléctricos",
-     1,
-     "CABLE LH HO7Z1-K 6 mm2 ROJO 50 mts."
-    ],
-    [
-     "73171510",
-     "Servicios de fabricación de accesorios o suministros eléctricos",
-     1,
-     "CABLE LH HO7Z1-K 6 mm2 AZUL 50 mts."
-    ],
-    [
-     "73171510",
-     "Servicios de fabricación de accesorios o suministros eléctricos",
-     1,
-     "CABLE LH HO7Z1-K 6 mm2 NEGRO 50 mts."
-    ],
-    [
-     "73171510",
-     "Servicios de fabricación de accesorios o suministros eléctricos",
-     1,
-     "CABLE LH HO7Z1-K 6 mm2 BLANCO 50 mts."
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=4778-421-COT26",
-   "sin_detalle": false,
-   "descripcion": "Se solicita la adquisición de materiales eléctricos destinados a la habilitación y normalización de puntos de conexión para equipos en dependencias del Hospital Regional de Coyhaique.\nEn la unidad de diálisis,se requiere habilitar nuevos enchufes eléctricos en la bodega destinada a los equipos y habilitar dos puntos eléctricos en la sala de pacientes,con el objetivo de eliminar el uso de alargadores actualmente existentes en la unidad.",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "interruptor"
-   ],
-   "nueva": true,
-   "codigo": "1692-688-COT26",
-   "nombre": "MANTENCION PREVENTIVA Y CORRECTIVAS DE 3 AMBULANCIAS DE LA PSR Y DEL HOSPITAL DE COCHRANE",
-   "organismo": "SERVICIO NACIONAL DE SALUD HOSPITAL DE COCHRANE",
-   "unidad": "Hospital Cochrane",
-   "monto": 4000000,
-   "cierre_iso": "2026-11-27T17:10:00-03:00",
-   "publicacion": "26-11 17:02",
-   "publicacion_iso": "2026-11-26T17:02:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "25171718",
-     "Kits de reparación de frenos",
-     1,
-     "MANTENCIÓN PREVENTIVA Y CORRECTIVA DE AMBULANCIA VILLA O´HIGGINS, PPU: LTKW-84, MANTENIMIENTO CORRESPONDIENTE A LOS 60 MIL KM Y COMO MANTENIMIENTO CORRECTIVO CAMBIAR INTERRUPTOR DE ELEVAVIDRIOS LADO COPILOTO, ADEMÁS DE CAMBIAR FLEXIBLE DE FRENOS RUEDA TRASERA IZQUIERDA, AMBOS REPUESTOS DEBEN SER INCLUIDOS, ORIGINALES."
-    ],
-    [
-     "25171718",
-     "Kits de reparación de frenos",
-     1,
-     "MANTENIMIENTO CORRECTIVO AMBULANCIA HOSPITAL COCHRANE PPU: SJVH-39, CAMBIO DE: - TAPA DE CULATA, JUNTA MOLDEADA DE ELASTÓMERO, TORNILLO COLLAS ESFÉRICO(4 UNIDADES),ARANDELA INYECTOR 1.96(4 UNIDADES),ANILLO EN O(4 UNIDADES),ROTULA BANDEJA SUSP.NCV3(2 UNIDADES),DISCO DE FRENO POST.416KA(2 UNIDADES),PASTILLA DE FRENO(1 JGO),CABLE FRENO ESTACIONAMIENTO IZQUIERDO(2 UNIDADES),KIT ZAPATAS FRENO DE MANO(1),JUEGO PIEZAS PERNO GUIA (2),CASQUILLO(4)Y CAMBIO DE PARABRISAS,CONSIDERAR REPUESTOS ORIGINALES"
-    ],
-    [
-     "25171718",
-     "Kits de reparación de frenos",
-     1,
-     "MANTENIMIENTO PREVENTIVO Y CORRECTIVO AMBULANCIA HVVP-16, PREVENTIVO CORRESPONDIENTE A LOS 315.000 KM Y CORRECTIVO CAMBIO DE RIELES PUERTA LATERAL Y REVISIÓN TESTIGO PASTILLAS DE FRENO.  CONSIDERAR REPUESTOS ORIGINALES"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1692-688-COT26",
-   "sin_detalle": false,
-   "descripcion": "SE REQUIRE LA MANTENCIÓN PREVENTIVA Y CORRECTIVA DE 3 AMBULANCIAS SE DEBEN UTILIZAR REPUESTOS ORIGINALES. LOS TRABAJOS DEBEN REALIZAR EN TALLER MECÁNICO ESTABLECIDO EN LA REGIÓN DE AYSÉN. SE ADJUNTA FORMATO DE COTIZACIÓN CON EL DETALLE DE TODOS LOS TRABAJOS QUE SE DEBEN REALIZAR, ADEMÁS DE LOS REPUESTOS E INSUMOS QUE SE DEBEN CONSIDERAR PARA LA EJECUCIÓN DEL SERVICIO SOLICITADO. DEBE ADJUNTAR 5 ORDENES DE COMPRA CON RECEPCION CONFORME PARA COMPROBAR EXPERIENCIA EN MANTENCION DE AMBULANCIAS.",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
     "ampolletas"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "1403-527-COT26",
    "nombre": "COMPRA DE MATERIALES PARA APOYAR ÁREAS TÉCNICAS REGIONALES ",
    "organismo": "Dirección Regional de Gendarmeria - Coyhaique",
@@ -702,6 +408,259 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=1092-100-COT26",
    "sin_detalle": false,
    "descripcion": "La Corporación Nacional Forestal por medio del Departamento de Protección Contra Incendios Forestales Región de Aysén, requiere la adquisición de Materiales de Construcción para las Brigadas de Coyhaique y Chile Chico Región de Aysén. No se cancela costos asociados al flete. (Ver especificaciones técnicas adjuntas).",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "alargadores",
+    "eléctricos",
+    "enchufes"
+   ],
+   "nueva": false,
+   "codigo": "4778-421-COT26",
+   "nombre": "RELE-SOLICITUD N° 11.395-2026-UNIDAD DE DIALISIS",
+   "organismo": "SERVICIO NACIONAL DE SALUD HOSPITAL DE C",
+   "unidad": "Compras de Insumos y Servicios Generales",
+   "monto": 1559890,
+   "cierre_iso": "2026-11-29T17:01:00-03:00",
+   "publicacion": "25-11 16:58",
+   "publicacion_iso": "2026-11-25T16:58:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "73171510",
+     "Servicios de fabricación de accesorios o suministros eléctricos",
+     4,
+     "DIFERENCIAL 2X40A 30MA LEXO"
+    ],
+    [
+     "73171510",
+     "Servicios de fabricación de accesorios o suministros eléctricos",
+     4,
+     "AUTOMATICO 1 x 32 A CURVA C6KA LEXO"
+    ],
+    [
+     "73171510",
+     "Servicios de fabricación de accesorios o suministros eléctricos",
+     11,
+     "TUBO METALICO EMT 32mm 3 MTS"
+    ],
+    [
+     "73171510",
+     "Servicios de fabricación de accesorios o suministros eléctricos",
+     32,
+     "ABRAZADERA EMT CADDY 1\" 32mm EFLEX (KS)6"
+    ],
+    [
+     "73171510",
+     "Servicios de fabricación de accesorios o suministros eléctricos",
+     6,
+     "TERMINAL EMT 32mm"
+    ],
+    [
+     "73171510",
+     "Servicios de fabricación de accesorios o suministros eléctricos",
+     20,
+     "COPLA EMT 32mm"
+    ],
+    [
+     "73171510",
+     "Servicios de fabricación de accesorios o suministros eléctricos",
+     7,
+     "CURVA EMT IEC 90° 32 mm."
+    ],
+    [
+     "73171510",
+     "Servicios de fabricación de accesorios o suministros eléctricos",
+     12,
+     "CAJA EMT PRE GALVANIZADA TIPO CHIQUI 5/8\""
+    ],
+    [
+     "73171510",
+     "Servicios de fabricación de accesorios o suministros eléctricos",
+     14,
+     "TUBO EMT 20mm 3mts"
+    ],
+    [
+     "73171510",
+     "Servicios de fabricación de accesorios o suministros eléctricos",
+     8,
+     "CURVA EMT IEC 90° 20mm SP/DCH"
+    ],
+    [
+     "73171510",
+     "Servicios de fabricación de accesorios o suministros eléctricos",
+     20,
+     "COPLA EMT 20mm"
+    ],
+    [
+     "73171510",
+     "Servicios de fabricación de accesorios o suministros eléctricos",
+     25,
+     "TERMINAL EMT 20mm (KS)"
+    ],
+    [
+     "73171510",
+     "Servicios de fabricación de accesorios o suministros eléctricos",
+     2,
+     "TARUGO CON CLAVO 8x80 (BOLSA DE 50 UDS)"
+    ],
+    [
+     "73171510",
+     "Servicios de fabricación de accesorios o suministros eléctricos",
+     40,
+     "ABRAZADERA EMT CADDY 1/2\" 20mm EFLEX (KS)"
+    ],
+    [
+     "73171510",
+     "Servicios de fabricación de accesorios o suministros eléctricos",
+     1,
+     "FERRUL NARANJO LEX 12AWG BOLSA DE 100 UDS"
+    ],
+    [
+     "73171510",
+     "Servicios de fabricación de accesorios o suministros eléctricos",
+     1,
+     "FERRUL VERDE LEX 10AWG BOLSA DE 100 UDS"
+    ],
+    [
+     "73171510",
+     "Servicios de fabricación de accesorios o suministros eléctricos",
+     2,
+     "CINTA GOMA 2AUTOFUNDENTE NEGRA  10mm 5mts"
+    ],
+    [
+     "73171510",
+     "Servicios de fabricación de accesorios o suministros eléctricos",
+     2,
+     "CINTA AISLADORA ANTIFLAMA 3mT. NEGRA 600V"
+    ],
+    [
+     "73171510",
+     "Servicios de fabricación de accesorios o suministros eléctricos",
+     1,
+     "TERMINAL ANILLO AMARILLO LEXO 10-12 AWG 4,3mm (BOLSA 50uds)"
+    ],
+    [
+     "73171510",
+     "Servicios de fabricación de accesorios o suministros eléctricos",
+     8,
+     "TOMA CORRIENTE SIMPLE 10/16A 250V BLANCO ARM. LEXO"
+    ],
+    [
+     "73171510",
+     "Servicios de fabricación de accesorios o suministros eléctricos",
+     4,
+     "TOMA CORRIENTE DUPLEX 10/16A 250V BLANCO"
+    ],
+    [
+     "73171510",
+     "Servicios de fabricación de accesorios o suministros eléctricos",
+     1,
+     "BARRA TOMA A TIERRA 1/2\" 1,5mt"
+    ],
+    [
+     "73171510",
+     "Servicios de fabricación de accesorios o suministros eléctricos",
+     1,
+     "CONECTOR BRONCE PARA BARRA TOMA TIERRA 1/2\""
+    ],
+    [
+     "73171510",
+     "Servicios de fabricación de accesorios o suministros eléctricos",
+     1,
+     "RIEL DIN PERFORADO 35 x 7,5mm TIRA 1 mt. LEXO"
+    ],
+    [
+     "73171510",
+     "Servicios de fabricación de accesorios o suministros eléctricos",
+     1,
+     "BARRA REPARTIDORA TETRAPOLAR 15P 125A"
+    ],
+    [
+     "73171510",
+     "Servicios de fabricación de accesorios o suministros eléctricos",
+     2,
+     "AUTOMATICO 1x20A CURVA C Y 6KA LEXO"
+    ],
+    [
+     "73171510",
+     "Servicios de fabricación de accesorios o suministros eléctricos",
+     2,
+     "DIFERENCIAL 2x25A 30MA LEXO"
+    ],
+    [
+     "73171510",
+     "Servicios de fabricación de accesorios o suministros eléctricos",
+     3,
+     "CAJA EMT PREGALVANIZADA 8 ENTRADAS 100x100x65mm"
+    ],
+    [
+     "73171510",
+     "Servicios de fabricación de accesorios o suministros eléctricos",
+     1,
+     "CABLE LH HO7Z1-K 4 mm2 ROJO 100 mts."
+    ],
+    [
+     "73171510",
+     "Servicios de fabricación de accesorios o suministros eléctricos",
+     1,
+     "CABLE LH HO7Z1-K 4 mm2 BLANCO 100 mts."
+    ],
+    [
+     "73171510",
+     "Servicios de fabricación de accesorios o suministros eléctricos",
+     1,
+     "CABLE LH HO7Z1-K 4 mm2 VERDE 100 mts."
+    ],
+    [
+     "73171510",
+     "Servicios de fabricación de accesorios o suministros eléctricos",
+     1,
+     "CABLE LH HO7Z1-K 4 mm2 AZUL 100 mts."
+    ],
+    [
+     "73171510",
+     "Servicios de fabricación de accesorios o suministros eléctricos",
+     3,
+     "CABLE LH HO7Z1-K 4 mm2 NEGRO 100 mts."
+    ],
+    [
+     "73171510",
+     "Servicios de fabricación de accesorios o suministros eléctricos",
+     1,
+     "CABLE LH HO7Z1-K 6 mm2 VERDE 50 mts."
+    ],
+    [
+     "73171510",
+     "Servicios de fabricación de accesorios o suministros eléctricos",
+     1,
+     "CABLE LH HO7Z1-K 6 mm2 ROJO 50 mts."
+    ],
+    [
+     "73171510",
+     "Servicios de fabricación de accesorios o suministros eléctricos",
+     1,
+     "CABLE LH HO7Z1-K 6 mm2 AZUL 50 mts."
+    ],
+    [
+     "73171510",
+     "Servicios de fabricación de accesorios o suministros eléctricos",
+     1,
+     "CABLE LH HO7Z1-K 6 mm2 NEGRO 50 mts."
+    ],
+    [
+     "73171510",
+     "Servicios de fabricación de accesorios o suministros eléctricos",
+     1,
+     "CABLE LH HO7Z1-K 6 mm2 BLANCO 50 mts."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=4778-421-COT26",
+   "sin_detalle": false,
+   "descripcion": "Se solicita la adquisición de materiales eléctricos destinados a la habilitación y normalización de puntos de conexión para equipos en dependencias del Hospital Regional de Coyhaique.\nEn la unidad de diálisis,se requiere habilitar nuevos enchufes eléctricos en la bodega destinada a los equipos y habilitar dos puntos eléctricos en la sala de pacientes,con el objetivo de eliminar el uso de alargadores actualmente existentes en la unidad.",
    "en_gracia": false,
    "desaparecida_iso": ""
   },
@@ -1097,6 +1056,24 @@
   }
  ],
  "historial": [
+  {
+   "codigo": "1692-688-COT26",
+   "nombre": "MANTENCION PREVENTIVA Y CORRECTIVAS DE 3 AMBULANCIAS DE LA PSR Y DEL HOSPITAL DE COCHRANE",
+   "organismo": "SERVICIO NACIONAL DE SALUD HOSPITAL DE COCHRANE",
+   "monto": 4000000,
+   "cierre_iso": "2026-11-27T17:10:00-03:00",
+   "tipo": "POSIBLE",
+   "motivos": [
+    "interruptor"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1692-688-COT26",
+   "primera_vista_iso": "2026-11-26T18:00:27-03:00",
+   "removida_iso": "2026-11-27T18:00:34-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
   {
    "codigo": "1233615-1016-COT26",
    "nombre": "DMH SOL-2026-01931] Recursos TICS para Escuela \"Litoral Austral\" de Puerto Aysén",

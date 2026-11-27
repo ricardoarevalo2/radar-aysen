@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-11-27T17:00:26.802708-03:00",
+ "actualizado": "2026-11-27T18:00:34.233447-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
- "total_region": 246,
+ "total_region": 243,
  "rubros": {
   "80141600": "Ventas y marketing",
   "82101600": "Publicidad en medios no impresos",
@@ -15,40 +15,11 @@
  },
  "filas": [
   {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Publicidad en medios no impresos"
-   ],
-   "nueva": false,
-   "codigo": "2495-723-COT26",
-   "nombre": "SERVICIO DE DIFUSIÓN  PROYECTO 8% FNDR SOBORES QUE NUTREN",
-   "organismo": "I MUNICIPALIDAD DE COYHAIQUE",
-   "unidad": "DIRECCION DESARROLLO COMUNITARIO",
-   "monto": 570000,
-   "cierre_iso": "2026-11-27T17:00:00-03:00",
-   "publicacion": "26-11 16:53",
-   "publicacion_iso": "2026-11-26T16:53:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "82101601",
-     "Publicidad en radio",
-     1,
-     "SE REQUIERE CONTRATAR TRES ENTREVISTAS RADIALES EN MEDIO LOCALES, DE APROXIMADAMNETE 25 MINUTOS, DONDE LA PROFESIONAL NUTRICIONISTA HABLE DE LA EJECUCION DEL PROYECTO 8% FNDR SOBORES QUE NUTREN."
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=2495-723-COT26",
-   "sin_detalle": false,
-   "descripcion": "SE REQUIERE CONTRATAR TRES ENTREVISTAS RADIALES EN MEDIO LOCALES, DE APROXIMADAMNETE 25 MINUTOS, DONDE LA PROFESIONAL NUTRICIONISTA HABLE DE LA EJECUCION DEL PROYECTO 8% FNDR SOBORES QUE NUTREN.",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
-  {
    "tipo": "POSIBLE",
    "motivos": [
     "radio"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "1403-527-COT26",
    "nombre": "COMPRA DE MATERIALES PARA APOYAR ÁREAS TÉCNICAS REGIONALES ",
    "organismo": "Dirección Regional de Gendarmeria - Coyhaique",
@@ -107,7 +78,7 @@
    "motivos": [
     "Ventas y marketing"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "4066-567-COT26",
    "nombre": "SERVICIO DE PRESENTACIÓN ARTÍSTICA ENCUENTRO DE ACORDEÓN Y GUITARRA 2026, Según TDR adjuntos.",
    "organismo": "I MUNICIPALIDAD RIO IBANEZ",
@@ -652,6 +623,70 @@
    "motivos": [
     "Ventas y marketing"
    ],
+   "nueva": true,
+   "codigo": "1057062-565-COT26",
+   "nombre": "Servicio de difusión de contenidos, entrevistas y banner en medio digital.",
+   "organismo": "UNIVERSIDAD DE AYSEN",
+   "unidad": "Proyectos",
+   "monto": 1050000,
+   "cierre_iso": "2026-11-28T17:39:00-03:00",
+   "publicacion": "22-11 16:14",
+   "publicacion_iso": "2026-11-22T16:14:00-03:00",
+   "ofertas": 1,
+   "productos": [
+    [
+     "80141612",
+     "Campañas publicitarias o de marketing",
+     1,
+     "Servicio de difusión con vigencia hasta el 30 de enero que incluye: 2 publicaciones semanales en sitio web y redes sociales; al menos 1 reel semanal; historias semanales sin límite predeterminado; 1 banner web permanente (formato vertical y/o pop-up); 1 entrevista mensual en estudio o terreno; y apoyo en redacción, adaptación gráfica y difusión. El medio digital debe contar con sitio web y acreditar al menos 160 mil seguidores en Facebook y 50 mil seguidores en Instagram."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1057062-565-COT26",
+   "sin_detalle": false,
+   "descripcion": "Servicio de difusión con vigencia hasta el 30 de enero 2027, según se detalla en el presente cotizador, Proveedor debe adjuntar lo ofertado, e indicar el Medio digital Regional de Aysén, enfocado 100% a información regional, que incluya sitio web, Instagram y Facebook, debe indicar el sitio web, el cual debe contener noticias y espacio publicitario. Una vez finalizado el servicio, el proveedor deberá remitir los medios de verificación correspondientes",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Inserciones publicitarias en medios"
+   ],
+   "nueva": true,
+   "codigo": "1057062-580-COT26",
+   "nombre": "Servicio de difusión publicitaria y entrevistas en canal de televisión local de Coyhaique",
+   "organismo": "UNIVERSIDAD DE AYSEN",
+   "unidad": "Proyectos",
+   "monto": 4400000,
+   "cierre_iso": "2026-11-28T18:00:00-03:00",
+   "publicacion": "27-11 17:18",
+   "publicacion_iso": "2026-11-27T17:18:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "82101902",
+     "Avisos en televisión",
+     1,
+     "Emisión de un spot de difusión de admisión (de 30 a 45 segundos, provisto por la Universidad) con al menos 3 repeticiones diarias, vigente hasta el 30 de enero. El medio debe ser un canal de televisión local de Coyhaique con señal abierta, señal digital en cableoperador local (ej. VTR) y alcance interregional (ej. TelSur - GTD).Una vez finalizado el servicio, el proveedor deberá remitir los medios de verificación correspondientes que acrediten su cumplimiento, los cuales serán requisito indispen"
+    ],
+    [
+     "82101902",
+     "Avisos en televisión",
+     6,
+     "6 entrevistas con entrevistador/a propio del canal. El medio debe ser un canal de televisión local de Coyhaique con señal abierta, señal digital en cableoperador local (ej. VTR) y alcance interregional (ej. TelSur - GTD)Una vez finalizado el servicio, el proveedor deberá remitir los medios de verificación correspondientes que acrediten su cumplimiento, los cuales serán requisito indispensable para gestionar el pago"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1057062-580-COT26",
+   "sin_detalle": false,
+   "descripcion": "Serv de difusión publicitaria y entrevistas en canal de tv local de Coyhaique, según se detalla en el presente cotizador, el proveedor deberá detallar lo ofertado, indicando el canal de televisión local de Coyahqiue con señal abierta, señal digital en cableoperador local (ej. VTR) y alcance interregional (ej. TelSur - GTD). La vigencia del contrato será hasta el 30 de enero de 2027.Las entrevistas se deben cargar en el canal de youtube del medio, el que debe contar con al menos 10 mil suscripto",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Ventas y marketing"
+   ],
    "nueva": false,
    "codigo": "1195-635-COT26",
    "nombre": "Contratación de servicio de caracterización de personaje navideño (Viejo Pascuero)",
@@ -967,6 +1002,24 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=1057062-578-COT26",
    "primera_vista_iso": "2026-11-27T13:00:26-03:00",
    "removida_iso": "2026-11-27T17:00:26-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
+  {
+   "codigo": "2495-723-COT26",
+   "nombre": "SERVICIO DE DIFUSIÓN  PROYECTO 8% FNDR SOBORES QUE NUTREN",
+   "organismo": "I MUNICIPALIDAD DE COYHAIQUE",
+   "monto": 570000,
+   "cierre_iso": "2026-11-27T17:00:00-03:00",
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Publicidad en medios no impresos"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=2495-723-COT26",
+   "primera_vista_iso": "2026-11-26T17:00:26-03:00",
+   "removida_iso": "2026-11-27T18:00:34-03:00",
    "estado_api": null,
    "adj_nombre": null,
    "adj_monto": null,
@@ -1866,24 +1919,6 @@
    "adj_iso": null
   },
   {
-   "codigo": "1057062-565-COT26",
-   "nombre": "Servicio de difusión de contenidos, entrevistas y banner en medio digital.",
-   "organismo": "UNIVERSIDAD DE AYSEN",
-   "monto": 1050000,
-   "cierre_iso": "2026-11-23T16:30:00-03:00",
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Ventas y marketing"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1057062-565-COT26",
-   "primera_vista_iso": "2026-11-22T17:00:25-03:00",
-   "removida_iso": "2026-11-23T17:00:24-03:00",
-   "estado_api": "",
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
    "codigo": "1195-598-COT26",
    "nombre": "EJECUCIÓN DEL FESTIVAL DE LA MORILLA 2026",
    "organismo": "I MUNICIPALIDAD DE COYHAIQUE",
@@ -2095,24 +2130,6 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=1182705-218-COT26",
    "primera_vista_iso": "2026-11-18T13:00:27-03:00",
    "removida_iso": "2026-11-21T11:00:29-03:00",
-   "estado_api": "",
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "2713-1440-COT26",
-   "nombre": "Arriendo espacio radial multiplataforma - Folio 1473 -DIDECO",
-   "organismo": "I MUNICIPALIDAD DE AYSEN",
-   "monto": 140000,
-   "cierre_iso": "2026-11-20T17:20:00-03:00",
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Publicidad en medios no impresos"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=2713-1440-COT26",
-   "primera_vista_iso": "2026-11-19T18:00:24-03:00",
-   "removida_iso": "2026-11-20T18:00:24-03:00",
    "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,
