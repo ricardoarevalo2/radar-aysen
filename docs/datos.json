@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-11-27T12:00:28.609744-03:00",
+ "actualizado": "2026-11-27T13:00:26.637204-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
- "total_region": 243,
+ "total_region": 250,
  "rubros": {
   "80141600": "Ventas y marketing",
   "82101600": "Publicidad en medios no impresos",
@@ -15,40 +15,11 @@
  },
  "filas": [
   {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "radio"
-   ],
-   "nueva": false,
-   "codigo": "1250372-1-COT26",
-   "nombre": "MANTENCIÓN MÓVIL P0241 PLACA PATENTE SHFD75 CET AYSÉN",
-   "organismo": "Centro de Educación y Trabajo Puerto Aysén",
-   "unidad": "Extrapresupuestaria - CET Cerrado CDP Puerto Aysén",
-   "monto": 833000,
-   "cierre_iso": "2026-11-27T12:30:00-03:00",
-   "publicacion": "26-11 11:41",
-   "publicacion_iso": "2026-11-26T11:41:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "25101702",
-     "Vehículos de policía",
-     1,
-     "MANUTENCIÓN MÓVIL P0241 PLACA PATENTE SHFD75 CET AYSÉN"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1250372-1-COT26",
-   "sin_detalle": false,
-   "descripcion": "E1O2RT9, EL PROVEEDOR QUE SE ENCUENTRE DENTRO DEL RADIO URBANO DE AYSÉN Y CON 02 DÍAS HÁBILES DE PLAZO.",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
-  {
    "tipo": "OPORTUNIDAD",
    "motivos": [
     "Comunicación social y de masas"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "1195-630-COT26",
    "nombre": "INSTALACION PUNTOS DE RED NUEVO EDIFICIO JPL",
    "organismo": "I MUNICIPALIDAD DE COYHAIQUE",
@@ -536,6 +507,36 @@
   {
    "tipo": "POSIBLE",
    "motivos": [
+    "difusión",
+    "publicidad"
+   ],
+   "nueva": true,
+   "codigo": "1057062-578-COT26",
+   "nombre": "Servicio de Difusión de Magíster en Cambio Climático en diario de circulación nacional según fisabs 2621",
+   "organismo": "UNIVERSIDAD DE AYSEN",
+   "unidad": "Proyectos",
+   "monto": 2677500,
+   "cierre_iso": "2026-11-28T15:00:00-03:00",
+   "publicacion": "27-11 12:49",
+   "publicacion_iso": "2026-11-27T12:49:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "82101504",
+     "Publicidad en periódicos",
+     1,
+     "Servicio de Difusión de Magíster en Cambio Climático en diario de circulación nacional por 7 días corridos desde emitida la OC. El medio propuesto debe acreditar una circulación física y tráfico digital que garantice la llegada masiva al segmento objetivo, concentrado en la Región Metropolitana y al menos otra región, según especificaciones técnicas adjuntas."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1057062-578-COT26",
+   "sin_detalle": false,
+   "descripcion": "Se requiere el servicio de Difusión de Magíster en Cambio Climático en diario de circulación nacional según especificaciones técnicas adjuntas. Se podrá privilegiar el menor plazo ofertado. Compra sujeta a posibles multas por incumplimientos.",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
     "difusión"
    ],
    "nueva": true,
@@ -875,6 +876,35 @@
    "desaparecida_iso": ""
   },
   {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Ventas y marketing"
+   ],
+   "nueva": true,
+   "codigo": "1343644-118-COT26",
+   "nombre": "SERVICIO DE PRODUCCIÓN PARA CIERRE EVENTO DEPORTIVO R.L.G. ",
+   "organismo": "I MUNICIPALIDAD DE O HIGGINS",
+   "unidad": "DIDECO",
+   "monto": 3500000,
+   "cierre_iso": "2026-11-30T09:00:00-03:00",
+   "publicacion": "27-11 12:16",
+   "publicacion_iso": "2026-11-27T12:16:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "80141607",
+     "Producción de eventos",
+     1,
+     "Produccion de evento para el cierre del evento deportivo denominado Reto los Glaciares 2026, se adjunta ficha con detalle completo del requerimiento a contratar."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1343644-118-COT26",
+   "sin_detalle": false,
+   "descripcion": "La Ilustre Municipalidad de O´Higgins requiere un servicio de producción de evento para dar cierre a la actividad deportiva reto los glaciares, a través de un servicio de camaradería y un show artístico en la localidad. \nEl servicio debe ser ejecutado posterior al cierre del evento deportivo en el sector del Parque Glaciar Mosco.",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
    "tipo": "POSIBLE",
    "motivos": [
     "publicidad",
@@ -967,7 +997,7 @@
    "motivos": [
     "difusión"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "2042-448-COT26",
    "nombre": "Adquisición de material grafico y textil reutilizable para difusión y sensibilización ambiental.",
    "organismo": "I MUNICIPALIDAD DE TORTEL",
@@ -1006,6 +1036,24 @@
  ],
  "historial": [
   {
+   "codigo": "1250372-1-COT26",
+   "nombre": "MANTENCIÓN MÓVIL P0241 PLACA PATENTE SHFD75 CET AYSÉN",
+   "organismo": "Centro de Educación y Trabajo Puerto Aysén",
+   "monto": 833000,
+   "cierre_iso": "2026-11-27T12:30:00-03:00",
+   "tipo": "POSIBLE",
+   "motivos": [
+    "radio"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1250372-1-COT26",
+   "primera_vista_iso": "2026-11-26T12:00:28-03:00",
+   "removida_iso": "2026-11-27T13:00:26-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
+  {
    "codigo": "1233615-1015-COT26",
    "nombre": "DMH [SOL-2026-02150] Recursos para el aprendizaje e innovación (focos, atriles y otros) para Liceo Politécnico A-1 de Puerto Aysén",
    "organismo": "Servicio Local de Educación Pública Aysén",
@@ -1018,7 +1066,7 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=1233615-1015-COT26",
    "primera_vista_iso": "2026-11-19T09:00:33-03:00",
    "removida_iso": "2026-11-27T12:00:28-03:00",
-   "estado_api": null,
+   "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,
    "adj_iso": null
@@ -1766,7 +1814,7 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=1057062-565-COT26",
    "primera_vista_iso": "2026-11-22T17:00:25-03:00",
    "removida_iso": "2026-11-23T17:00:24-03:00",
-   "estado_api": null,
+   "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,
    "adj_iso": null
@@ -2055,24 +2103,6 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=1458-37-COT26",
    "primera_vista_iso": "2026-11-17T13:00:25-03:00",
    "removida_iso": "2026-11-20T16:00:41-03:00",
-   "estado_api": "",
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "2713-1429-COT26",
-   "nombre": "Servicio de producción Festival Borde Cultural BOC 2026 - Folio 1516- DIDECO",
-   "organismo": "I MUNICIPALIDAD DE AYSEN",
-   "monto": 1700000,
-   "cierre_iso": "2026-11-20T12:30:00-03:00",
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Ventas y marketing"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=2713-1429-COT26",
-   "primera_vista_iso": "2026-11-19T13:00:23-03:00",
-   "removida_iso": "2026-11-20T13:00:27-03:00",
    "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,
