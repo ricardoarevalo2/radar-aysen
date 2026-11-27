@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-11-27T18:00:34.233447-03:00",
+ "actualizado": "2026-11-27T19:00:26.129730-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
- "total_region": 243,
+ "total_region": 242,
  "rubros": {
   "25172700": "Aire acondicionado",
   "25173900": "Componentes eléctricos",
@@ -22,68 +22,9 @@
   {
    "tipo": "POSIBLE",
    "motivos": [
-    "ampolletas"
-   ],
-   "nueva": false,
-   "codigo": "1403-527-COT26",
-   "nombre": "COMPRA DE MATERIALES PARA APOYAR ÁREAS TÉCNICAS REGIONALES ",
-   "organismo": "Dirección Regional de Gendarmeria - Coyhaique",
-   "unidad": "Región de Aysén",
-   "monto": 712328,
-   "cierre_iso": "2026-11-27T18:00:00-03:00",
-   "publicacion": "26-11 17:14",
-   "publicacion_iso": "2026-11-26T17:14:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "30103313",
-     "Molduras no metálicas",
-     7,
-     "MOLDURA PINO GP 13X68X3 RD"
-    ],
-    [
-     "30141503",
-     "Aislamiento de espuma",
-     3,
-     "ESPUMA NIVE 3 EN1 REND 10 M2 3MM"
-    ],
-    [
-     "30161710",
-     "Suelos laminados",
-     16,
-     "PISO LAMINADO 8MM NEW 2.130M2"
-    ],
-    [
-     "31211501",
-     "Pinturas al esmalte",
-     1,
-     "ESMALTE AGUA SEALC BL SAT 4GL"
-    ],
-    [
-     "32111503",
-     "Diodos emisores de luz (LED)",
-     5,
-     "PANEL LED DUAL 30X60 1800LM"
-    ],
-    [
-     "39101601",
-     "ampolletas halógenas",
-     3,
-     "LAMPARA EMERGENCIA 2 FOCOS 1600LM"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1403-527-COT26",
-   "sin_detalle": false,
-   "descripcion": "E1O2RT9, COMPRA DE MATERIALES PARA APOYAR ÁREAS TÉCNICAS REGIONALES, EL PROVEEDOR QUE SE ENCUENTRE DENTRO DEL RADIO URBANO DE COYHAIQUE Y CON 01 DÍA HÁBIL DE PLAZO.",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
     "transformador"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "5575-162-COT26",
    "nombre": "Purificador de aire portátil con filtro HEPA, carbón activado y sensor de partículas PM1.",
    "organismo": "I MUNICIPALIDAD DE COYHAIQUE",
@@ -408,6 +349,65 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=1092-100-COT26",
    "sin_detalle": false,
    "descripcion": "La Corporación Nacional Forestal por medio del Departamento de Protección Contra Incendios Forestales Región de Aysén, requiere la adquisición de Materiales de Construcción para las Brigadas de Coyhaique y Chile Chico Región de Aysén. No se cancela costos asociados al flete. (Ver especificaciones técnicas adjuntas).",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "ampolletas"
+   ],
+   "nueva": false,
+   "codigo": "1403-527-COT26",
+   "nombre": "COMPRA DE MATERIALES PARA APOYAR ÁREAS TÉCNICAS REGIONALES ",
+   "organismo": "Dirección Regional de Gendarmeria - Coyhaique",
+   "unidad": "Región de Aysén",
+   "monto": 712328,
+   "cierre_iso": "2026-11-28T18:45:00-03:00",
+   "publicacion": "26-11 17:14",
+   "publicacion_iso": "2026-11-26T17:14:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "30103313",
+     "Molduras no metálicas",
+     7,
+     "MOLDURA PINO GP 13X68X3 RD"
+    ],
+    [
+     "30141503",
+     "Aislamiento de espuma",
+     3,
+     "ESPUMA NIVE 3 EN1 REND 10 M2 3MM"
+    ],
+    [
+     "30161710",
+     "Suelos laminados",
+     16,
+     "PISO LAMINADO 8MM NEW 2.130M2"
+    ],
+    [
+     "31211501",
+     "Pinturas al esmalte",
+     1,
+     "ESMALTE AGUA SEALC BL SAT 4GL"
+    ],
+    [
+     "32111503",
+     "Diodos emisores de luz (LED)",
+     5,
+     "PANEL LED DUAL 30X60 1800LM"
+    ],
+    [
+     "39101601",
+     "ampolletas halógenas",
+     3,
+     "LAMPARA EMERGENCIA 2 FOCOS 1600LM"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1403-527-COT26",
+   "sin_detalle": false,
+   "descripcion": "E1O2RT9, COMPRA DE MATERIALES PARA APOYAR ÁREAS TÉCNICAS REGIONALES, EL PROVEEDOR QUE SE ENCUENTRE DENTRO DEL RADIO URBANO DE COYHAIQUE Y CON 01 DÍA HÁBIL DE PLAZO.",
    "en_gracia": false,
    "desaparecida_iso": ""
   },
