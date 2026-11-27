@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-11-27T11:00:29.029725-03:00",
+ "actualizado": "2026-11-27T12:00:28.609744-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
- "total_region": 241,
+ "total_region": 243,
  "rubros": {
   "25172700": "Aire acondicionado",
   "25173900": "Componentes eléctricos",
@@ -19,194 +19,6 @@
   "39121400": "Conectores, enchufes y terminales"
  },
  "filas": [
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "eléctricos"
-   ],
-   "nueva": false,
-   "codigo": "734-227-COT26",
-   "nombre": "Materiales para la habilitación de base provisoria de SAMU Aysén",
-   "organismo": "SERVICIO DE SALUD AYSEN CARLOS IBANEZ DEL CAMPO",
-   "unidad": "DIRECCION",
-   "monto": 369694,
-   "cierre_iso": "2026-11-27T11:00:00-03:00",
-   "publicacion": "26-11 10:43",
-   "publicacion_iso": "2026-11-26T10:43:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "31151702",
-     "Cables de control no eléctricos",
-     1,
-     "Materiales para la habilitación de base provisoria de SAMU Aysén, según se detalla en especificaciones técnicas adjuntas."
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=734-227-COT26",
-   "sin_detalle": false,
-   "descripcion": "Requiere Materiales para la habilitación de base provisoria de SAMU Aysén, Según se detalla en especificaciones técnicas adjuntas.",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
-  {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Enfriamiento (aires acondicionados)"
-   ],
-   "nueva": false,
-   "codigo": "1746-278-COT26",
-   "nombre": "EQUIPOS DE AIRE ACONDICIONADO PORTÁTIL  FRÍO/CALOR",
-   "organismo": "SUBSECRETARIA DE SALUD PUBLICA",
-   "unidad": "Seremi de Salud XI Región",
-   "monto": 1600000,
-   "cierre_iso": "2026-11-27T11:00:00-03:00",
-   "publicacion": "25-11 16:33",
-   "publicacion_iso": "2026-11-25T16:33:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "40101701",
-     "Aires acondicionados",
-     4,
-     "EQUIPOS DE AIRE ACONDICIONADO PORTÁTIL FRÍO/CALOR\nCUMPLIR CON ESPECIFICACIONES TÉCNICAS MENCIONADAS EN REQUERIMIENTOS ADJUNTOS: PM N° 568 Y 588\nIMAGEN REFERENCIAL EN PEDIDO."
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1746-278-COT26",
-   "sin_detalle": false,
-   "descripcion": "EQUIPOS DE AIRE ACONDICIONADO PORTÁTIL  FRÍO/CALOR\nCUMPLIR CON ESPECIFICACIONES TÉCNICAS MENCIONADAS EN REQUERIMIENTOS ADJUNTOS: PM N° 568 Y 588\nIMAGEN REFERENCIAL EN PEDIDO.",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
-  {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Conectores, enchufes y terminales"
-   ],
-   "nueva": false,
-   "codigo": "553153-21-COT26",
-   "nombre": "Materiales de construcción",
-   "organismo": "DELEGACIÓN PRESIDENCIAL PROVINCIAL DE GENERAL CARRERA",
-   "unidad": "Orasmi 114-O",
-   "monto": 950000,
-   "cierre_iso": "2026-11-27T11:00:00-03:00",
-   "publicacion": "25-11 14:35",
-   "publicacion_iso": "2026-11-25T14:35:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "30141502",
-     "Colchas aislantes",
-     1,
-     "Membrana hidrofuga de 75 m2"
-    ],
-    [
-     "30152003",
-     "Murallas de fibrocemento",
-     2,
-     "Planchas de fibrocemento similar o equivalente a simplísima de 1.20x2.40 x 6mm"
-    ],
-    [
-     "31162810",
-     "Empalmes o placas de unión",
-     1,
-     "Caja de empalme 7010"
-    ],
-    [
-     "31162906",
-     "Abrazaderas de manguera o tubo",
-     10,
-     "Abrazaderas caddy 20 mm"
-    ],
-    [
-     "31162906",
-     "Abrazaderas de manguera o tubo",
-     2,
-     "Cabezas de servicio 20 mm"
-    ],
-    [
-     "31162906",
-     "Abrazaderas de manguera o tubo",
-     3,
-     "Prensas de retención plásticas"
-    ],
-    [
-     "31231302",
-     "Tubería de cobre",
-     3,
-     "Tubería IMC de 20 mm"
-    ],
-    [
-     "31231302",
-     "Tubería de cobre",
-     1,
-     "Barra de cobre"
-    ],
-    [
-     "39121435",
-     "Hilos o cables de conexión",
-     80,
-     "Cable concéntrico 2x6"
-    ],
-    [
-     "40142306",
-     "Asientos de tubería",
-     1,
-     "Cámara de registro PVC de 160 mm"
-    ],
-    [
-     "40142317",
-     "Codo de tubería",
-     3,
-     "Conectores HUB IMC de 20 mm"
-    ],
-    [
-     "52152105",
-     "Mamaderas o accesorios",
-     18,
-     "Planchas de yeso cartón de 1,2x2.4x10 mm"
-    ],
-    [
-     "52152105",
-     "Mamaderas o accesorios",
-     6,
-     "Planchas de terciado ranurado de 1.20x2.40x9mm"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=553153-21-COT26",
-   "sin_detalle": false,
-   "descripcion": "Se requiere cotizar materiales de construcción para beneficiarios del fondo ORASMI, con entrega en la Delegación Presidencial, ubicada en calle Bernardo O'Higgins N°192 de la ciudad de Chile Chico, región de Aysén, por lo que debe considerar todos los costos asociados a dicha entrega. Se solicita indicar datos de contacto y plazo de entrega.",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "iluminación"
-   ],
-   "nueva": false,
-   "codigo": "1233615-1015-COT26",
-   "nombre": "DMH [SOL-2026-02150] Recursos para el aprendizaje e innovación (focos, atriles y otros) para Liceo Politécnico A-1 de Puerto Aysén",
-   "organismo": "Servicio Local de Educación Pública Aysén",
-   "unidad": "Servicio Local de Educación Pública Aysén",
-   "monto": 425000,
-   "cierre_iso": "2026-11-27T11:07:00-03:00",
-   "publicacion": "19-11 08:52",
-   "publicacion_iso": "2026-11-19T08:52:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "39111504",
-     "Sistemas de iluminación de escenario o estudio",
-     1,
-     "Recursos para el aprendizaje e innovación (atril, focos y otros) para Liceo Politécnico A-1 de Puerto Aysén, de acuerdo a requerimiento adjunto a la presente compra (llenar formulario 1)"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1233615-1015-COT26",
-   "sin_detalle": false,
-   "descripcion": "Estos implementos permitirán desarrollar competencias tecnológicas, comunicativas, técnicas y laborales, fomentar la creatividad, el trabajo colaborativo y la participación estudiantil, además de apoyar la difusión de las actividades institucionales y el mejoramiento de los espacios educativos.",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
   {
    "tipo": "OPORTUNIDAD",
    "motivos": [
@@ -1253,6 +1065,35 @@
    "desaparecida_iso": ""
   },
   {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "eléctricos"
+   ],
+   "nueva": false,
+   "codigo": "734-227-COT26",
+   "nombre": "Materiales para la habilitación de base provisoria de SAMU Aysén",
+   "organismo": "SERVICIO DE SALUD AYSEN CARLOS IBANEZ DEL CAMPO",
+   "unidad": "DIRECCION",
+   "monto": 369694,
+   "cierre_iso": "2026-11-28T11:16:00-03:00",
+   "publicacion": "26-11 10:43",
+   "publicacion_iso": "2026-11-26T10:43:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "31151702",
+     "Cables de control no eléctricos",
+     1,
+     "Materiales para la habilitación de base provisoria de SAMU Aysén, según se detalla en especificaciones técnicas adjuntas."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=734-227-COT26",
+   "sin_detalle": false,
+   "descripcion": "Requiere Materiales para la habilitación de base provisoria de SAMU Aysén, Según se detalla en especificaciones técnicas adjuntas.",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
    "tipo": "OPORTUNIDAD",
    "motivos": [
     "Materiales de física de electricidad"
@@ -1405,6 +1246,60 @@
   }
  ],
  "historial": [
+  {
+   "codigo": "1233615-1015-COT26",
+   "nombre": "DMH [SOL-2026-02150] Recursos para el aprendizaje e innovación (focos, atriles y otros) para Liceo Politécnico A-1 de Puerto Aysén",
+   "organismo": "Servicio Local de Educación Pública Aysén",
+   "monto": 425000,
+   "cierre_iso": "2026-11-27T11:07:00-03:00",
+   "tipo": "POSIBLE",
+   "motivos": [
+    "iluminación"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1233615-1015-COT26",
+   "primera_vista_iso": "2026-11-19T09:00:33-03:00",
+   "removida_iso": "2026-11-27T12:00:28-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
+  {
+   "codigo": "553153-21-COT26",
+   "nombre": "Materiales de construcción",
+   "organismo": "DELEGACIÓN PRESIDENCIAL PROVINCIAL DE GENERAL CARRERA",
+   "monto": 950000,
+   "cierre_iso": "2026-11-27T11:00:00-03:00",
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Conectores, enchufes y terminales"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=553153-21-COT26",
+   "primera_vista_iso": "2026-11-25T15:00:23-03:00",
+   "removida_iso": "2026-11-27T12:00:28-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
+  {
+   "codigo": "1746-278-COT26",
+   "nombre": "EQUIPOS DE AIRE ACONDICIONADO PORTÁTIL  FRÍO/CALOR",
+   "organismo": "SUBSECRETARIA DE SALUD PUBLICA",
+   "monto": 1600000,
+   "cierre_iso": "2026-11-27T11:00:00-03:00",
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Enfriamiento (aires acondicionados)"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1746-278-COT26",
+   "primera_vista_iso": "2026-11-25T17:00:28-03:00",
+   "removida_iso": "2026-11-27T12:00:28-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
   {
    "codigo": "4778-420-COT26",
    "nombre": "INSTALACION AIRE ACONDICIONADO DE 9000 BTU",
@@ -2301,60 +2196,6 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=1403-491-COT26",
    "primera_vista_iso": "2026-11-19T13:00:23-03:00",
    "removida_iso": "2026-11-20T13:00:27-03:00",
-   "estado_api": "",
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "1428275-58-COT26",
-   "nombre": "SERVICIO DE DIAGNOSTICO Y MANTENCION SISTEMA DE CALEFACION DINAMICO ESTATICO",
-   "organismo": "SERVICIO NACIONAL DEL PATRIMONIO CULTURAL",
-   "monto": 250000,
-   "cierre_iso": "2026-11-20T12:00:00-03:00",
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Gasfitería, calefacción y aire acondicionado"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1428275-58-COT26",
-   "primera_vista_iso": "2026-11-19T11:00:26-03:00",
-   "removida_iso": "2026-11-20T13:00:27-03:00",
-   "estado_api": "",
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "1057062-556-COT26",
-   "nombre": "Contratación de servicio de producción evento el día 17 y 18 de diciembre_Fisabs 2505_Programa Orquesta",
-   "organismo": "UNIVERSIDAD DE AYSEN",
-   "monto": 2200000,
-   "cierre_iso": "2026-11-20T12:00:00-03:00",
-   "tipo": "POSIBLE",
-   "motivos": [
-    "iluminación"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1057062-556-COT26",
-   "primera_vista_iso": "2026-11-19T12:00:30-03:00",
-   "removida_iso": "2026-11-20T13:00:27-03:00",
-   "estado_api": "",
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "4066-537-COT26",
-   "nombre": "SERVICIO DE PRODUCCIÓN DE EVENTO CON AMPLIFICACIÓN Y PRESENTACIÓN MUSICAL ENCUENTRO DE ACORDEÓN Y GUITARRA 2026, según TDR adjuntos.",
-   "organismo": "",
-   "monto": null,
-   "cierre_iso": "",
-   "tipo": "POSIBLE",
-   "motivos": [
-    "iluminación"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=4066-537-COT26",
-   "primera_vista_iso": "2026-11-20T12:00:26-03:00",
-   "removida_iso": "2026-11-24T07:00:32-03:00",
    "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,
