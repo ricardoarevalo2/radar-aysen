@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-11-27T10:00:28.437541-03:00",
+ "actualizado": "2026-11-27T11:00:29.029725-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
- "total_region": 258,
+ "total_region": 241,
  "rubros": {
   "25172700": "Aire acondicionado",
   "25173900": "Componentes eléctricos",
@@ -20,46 +20,11 @@
  },
  "filas": [
   {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Gasfitería, calefacción y aire acondicionado"
-   ],
-   "nueva": false,
-   "codigo": "4778-420-COT26",
-   "nombre": "INSTALACION AIRE ACONDICIONADO DE 9000 BTU",
-   "organismo": "SERVICIO NACIONAL DE SALUD HOSPITAL DE C",
-   "unidad": "Compras de Insumos y Servicios Generales",
-   "monto": 595000,
-   "cierre_iso": "2026-11-27T10:00:00-03:00",
-   "publicacion": "25-11 16:29",
-   "publicacion_iso": "2026-11-25T16:29:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "72102305",
-     "Servicios de reparación, mantenimiento o reparación de aire acondicionado",
-     1,
-     "INSTALACION AIRE ACONDICONADO DE 9000 BTU PARA BOX N° 11 DEL POLI ESPECIALIDADES (GINECOLOGIA)"
-    ],
-    [
-     "72102305",
-     "Servicios de reparación, mantenimiento o reparación de aire acondicionado",
-     1,
-     "INSTALACION AIRE ACONDICONADO DE 9000 BTU PARA BOX N° 1386 DE URGENCIA OBSTETRICA"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=4778-420-COT26",
-   "sin_detalle": false,
-   "descripcion": "INSTALACION AIRE ACONDICIONADO DE 9000 BTU PARA BOX N° 1386 DE URGENCIA OSTETRICA Y BOX 11 DEL POLI ESPECIALIDADES (GINECOLOGIA), SEGUN SOLICITUD DE COMPRA N° 11305/2026 DE LA UNIDAD DE EQUIPOS INDUSTRIALES, SE DEBE ADJUNTAR COTIZACION.",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
-  {
    "tipo": "POSIBLE",
    "motivos": [
     "eléctricos"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "734-227-COT26",
    "nombre": "Materiales para la habilitación de base provisoria de SAMU Aysén",
    "organismo": "SERVICIO DE SALUD AYSEN CARLOS IBANEZ DEL CAMPO",
@@ -249,7 +214,7 @@
     "Conectores, enchufes y terminales",
     "Interruptores, controles y relés"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "1092-100-COT26",
    "nombre": " SIC N°464 SIRE N°449 Materiales de construcción DEPRIF",
    "organismo": "CORP NACIONAL FORESTAL",
@@ -1440,6 +1405,24 @@
   }
  ],
  "historial": [
+  {
+   "codigo": "4778-420-COT26",
+   "nombre": "INSTALACION AIRE ACONDICIONADO DE 9000 BTU",
+   "organismo": "SERVICIO NACIONAL DE SALUD HOSPITAL DE C",
+   "monto": 595000,
+   "cierre_iso": "2026-11-27T10:00:00-03:00",
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Gasfitería, calefacción y aire acondicionado"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=4778-420-COT26",
+   "primera_vista_iso": "2026-11-25T17:00:28-03:00",
+   "removida_iso": "2026-11-27T11:00:29-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
   {
    "codigo": "1195-624-COT26",
    "nombre": "MATERIALES ELECTRICOS Y FERRETERIA ",

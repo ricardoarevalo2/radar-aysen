@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-11-27T10:00:28.437541-03:00",
+ "actualizado": "2026-11-27T11:00:29.029725-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
- "total_region": 258,
+ "total_region": 241,
  "rubros": {
   "80141600": "Ventas y marketing",
   "82101600": "Publicidad en medios no impresos",
@@ -14,82 +14,6 @@
   "83121700": "Comunicación social y de masas"
  },
  "filas": [
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "difusión"
-   ],
-   "nueva": false,
-   "codigo": "3797-558-COT26",
-   "nombre": " TOLDO INSTITUCIONAL OLN",
-   "organismo": "I MUNICIPALIDAD DE COCHRANE",
-   "unidad": "I MUNICIPALIDAD DE COCHRANE",
-   "monto": 100000,
-   "cierre_iso": "2026-11-27T10:10:00-03:00",
-   "publicacion": "25-11 09:49",
-   "publicacion_iso": "2026-11-25T09:49:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "30151901",
-     "Toldos",
-     1,
-     "Toldo plegable tipo araña (acordeón) de 3,00 x 3,00 metros (9 m² de cobertura) con estructura metálica de acero reforzado y recubrimiento anticorrosivo (pintura electrostática negra), tubos exteriores de sección cuadrada de al menos 30 x 30 mm y patas telescópicas regulables en 4 niveles de altura con despliegue rápido sin herramientas; debe incluir cubierta superior de lona textil impermeable de alta densidad (poliéster/Oxford) Demas consideraciones indicadas en documento adjunto"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=3797-558-COT26",
-   "sin_detalle": false,
-   "descripcion": "En el marco de las actividades desarrolladas por la Oficina Local de la Niñez, se requiere la adquisición de un toldo institucional que permita contar con un espacio adecuado para la ejecución de actividades territoriales, jornadas de difusión y acciones de promoción y prevención de derechos de niños, niñas y adolescentes",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "audiovisuales"
-   ],
-   "nueva": false,
-   "codigo": "3791-1230-COT26",
-   "nombre": "EQUIPO AUDIOVISUALES ",
-   "organismo": "I MUNICIPALIDAD DE CISNES",
-   "unidad": "Finanzas",
-   "monto": 348450,
-   "cierre_iso": "2026-11-27T10:30:00-03:00",
-   "publicacion": "26-11 09:34",
-   "publicacion_iso": "2026-11-26T09:34:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "31241804",
-     "Filtros de láser",
-     1,
-     "PRESENTADOR INALAMBRICO LASER ROJO KENSINGTON K33272WW / (SIMILAR O EQUIVALENTE)"
-    ],
-    [
-     "45111616",
-     "Proyectores de video",
-     1,
-     "PROYECTOR MLAB SMART TUBE PRO RECARGABLE 4800 LUMENES 1080PX720 AV/USB/HDMI/BT5.3 WIFI 6 /\n(SIMILAR O EQUIVALENTE)"
-    ],
-    [
-     "45111616",
-     "Proyectores de video",
-     1,
-     "PROYECTOR PHILCO 2000 LUMENES 1280X720 AV/USB/HDMI 21 1 5N / (SIMILA O EQUIVALENTE)"
-    ],
-    [
-     "52161520",
-     "Micrófonos",
-     1,
-     "MICROFONO DUAL TRECMASTER INALAMBRICO TIPO C/ANDROID/IPHONE / (SIMILAR O EQUIVALENTE)"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=3791-1230-COT26",
-   "sin_detalle": false,
-   "descripcion": "ADQUISICION DE EQUIPO AUDIOVISUALES PARA EL DESARROLLO DE ACTIVIDADES PROPIAS DE LA OFICINA LOCAL DE LA NIÑEZ. SE ADJUNTAN ANEXOS.",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
   {
    "tipo": "POSIBLE",
    "motivos": [
@@ -1110,6 +1034,42 @@
   }
  ],
  "historial": [
+  {
+   "codigo": "3791-1230-COT26",
+   "nombre": "EQUIPO AUDIOVISUALES ",
+   "organismo": "I MUNICIPALIDAD DE CISNES",
+   "monto": 348450,
+   "cierre_iso": "2026-11-27T10:30:00-03:00",
+   "tipo": "POSIBLE",
+   "motivos": [
+    "audiovisuales"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=3791-1230-COT26",
+   "primera_vista_iso": "2026-11-26T10:00:24-03:00",
+   "removida_iso": "2026-11-27T11:00:29-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
+  {
+   "codigo": "3797-558-COT26",
+   "nombre": " TOLDO INSTITUCIONAL OLN",
+   "organismo": "I MUNICIPALIDAD DE COCHRANE",
+   "monto": 100000,
+   "cierre_iso": "2026-11-27T10:10:00-03:00",
+   "tipo": "POSIBLE",
+   "motivos": [
+    "difusión"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=3797-558-COT26",
+   "primera_vista_iso": "2026-11-25T10:00:24-03:00",
+   "removida_iso": "2026-11-27T11:00:29-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
   {
    "codigo": "2494-311-COT26",
    "nombre": "Servicio Circense para un espectáculo a los vecinos y vecinas del Barrio Villa General Bernales - Programa Recuperación de Barrios / MINVU",
@@ -2178,78 +2138,6 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=1182705-216-COT26",
    "primera_vista_iso": "2026-11-17T13:00:25-03:00",
    "removida_iso": "2026-11-20T12:00:26-03:00",
-   "estado_api": "",
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "1758-301-COT26",
-   "nombre": "ADQUISICION DE RECARGAS DE AGUA DE 20 LITROS EN EL MARCO DE LA DIFUSION DEL PLAN CHILE APRENDE Y AVANZA MINEDUC",
-   "organismo": "SECRETARIA REGIONAL MINISTERIAL DE EDUCACION XI REGION",
-   "monto": 50000,
-   "cierre_iso": "2026-11-20T11:00:00-03:00",
-   "tipo": "POSIBLE",
-   "motivos": [
-    "difusion"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1758-301-COT26",
-   "primera_vista_iso": "2026-11-18T12:00:27-03:00",
-   "removida_iso": "2026-11-20T12:00:26-03:00",
-   "estado_api": "",
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "1758-302-COT26",
-   "nombre": "ADQUISICION INSUMO PARA EJECUCION EN EL MARCO DE LA DIFUSION DEL PLAN CHILE APRENDE Y AVANZA MINEDUC",
-   "organismo": "SECRETARIA REGIONAL MINISTERIAL DE EDUCACION XI REGION",
-   "monto": 100000,
-   "cierre_iso": "2026-11-20T11:00:00-03:00",
-   "tipo": "POSIBLE",
-   "motivos": [
-    "difusion"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1758-302-COT26",
-   "primera_vista_iso": "2026-11-18T13:00:27-03:00",
-   "removida_iso": "2026-11-20T12:00:26-03:00",
-   "estado_api": "",
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "2495-654-COT26",
-   "nombre": "ADQUISICIÓN DE PREMIOS PARA ACTIVIDAD DIRIGIDA A PERSONAS MAYORES",
-   "organismo": "I MUNICIPALIDAD DE COYHAIQUE",
-   "monto": 2400000,
-   "cierre_iso": "2026-11-20T10:40:00-03:00",
-   "tipo": "POSIBLE",
-   "motivos": [
-    "fotografía"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=2495-654-COT26",
-   "primera_vista_iso": "2026-11-12T09:58:37-03:00",
-   "removida_iso": "2026-11-20T11:00:28-03:00",
-   "estado_api": "",
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "886182-269-COT26",
-   "nombre": "Adquisición de equipamiento audiovisual _ Según FISABS 2483.",
-   "organismo": "UNIVERSIDAD DE AYSEN",
-   "monto": 778968,
-   "cierre_iso": "2026-11-20T10:30:00-03:00",
-   "tipo": "POSIBLE",
-   "motivos": [
-    "audiovisual"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=886182-269-COT26",
-   "primera_vista_iso": "2026-11-19T11:00:26-03:00",
-   "removida_iso": "2026-11-20T11:00:28-03:00",
    "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,
