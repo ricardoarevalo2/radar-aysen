@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-11-27T15:00:25.588523-03:00",
+ "actualizado": "2026-11-27T16:00:24.709141-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
- "total_region": 250,
+ "total_region": 247,
  "rubros": {
   "80141600": "Ventas y marketing",
   "82101600": "Publicidad en medios no impresos",
@@ -14,64 +14,6 @@
   "83121700": "Comunicación social y de masas"
  },
  "filas": [
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "difusión"
-   ],
-   "nueva": false,
-   "codigo": "1233615-1017-COT26",
-   "nombre": "DMH [SOL-2026-02150] Recursos para el aprendizaje e innovación (hidrolavadora y manguera) para Liceo Politécnico A-1 de Puerto Aysén",
-   "organismo": "Servicio Local de Educación Pública Aysén",
-   "unidad": "Servicio Local de Educación Pública Aysén",
-   "monto": 230000,
-   "cierre_iso": "2026-11-27T15:09:00-03:00",
-   "publicacion": "19-11 09:06",
-   "publicacion_iso": "2026-11-19T09:06:00-03:00",
-   "ofertas": 1,
-   "productos": [
-    [
-     "40142008",
-     "Mangueras para agua",
-     1,
-     "Recursos para el aprendizaje e innovación (Hidrolavadora y manguera) para Liceo Politécnico A-1 de Puerto Aysén, de acuerdo a requerimiento adjunto a la presente compra (debe llenar formulario 1)"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1233615-1017-COT26",
-   "sin_detalle": false,
-   "descripcion": "Estos implementos permitirán desarrollar competencias tecnológicas, comunicativas, técnicas y laborales, fomentar la creatividad, el trabajo colaborativo y la participación estudiantil, además de apoyar la difusión de las actividades institucionales y el mejoramiento de los espacios educativos.",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "audiovisual"
-   ],
-   "nueva": false,
-   "codigo": "868-111-COT26",
-   "nombre": "Pódium Interactivo digital ",
-   "organismo": "GOBIERNO REGIONAL DE AYSEN",
-   "unidad": "Gobierno Regional de Aysen - XI Región",
-   "monto": 1771000,
-   "cierre_iso": "2026-11-27T15:30:00-03:00",
-   "publicacion": "24-11 11:44",
-   "publicacion_iso": "2026-11-24T11:44:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "30161717",
-     "Plataforma técnica",
-     1,
-     "Pódium Interactivo digital según especificaciones tecnicas adjuntas en la presente cotización"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=868-111-COT26",
-   "sin_detalle": false,
-   "descripcion": "El Gobierno Regional de Aysén requiere adquirir un pódium digital multimedia, destinado a fortalecer el equipamiento audiovisual utilizado en ceremonias oficiales, presentaciones institucionales, seminarios, conferencias, cuentas públicas y otras actividades protocolares.\nEl equipamiento deberá permitir la exhibición digital de logotipos, imágenes, videos y contenido institucional mediante una pantalla integrada en su estructura, además de facilitar la conexión de dispositivos de audio y video.",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
   {
    "tipo": "OPORTUNIDAD",
    "motivos": [
@@ -192,35 +134,6 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=2495-723-COT26",
    "sin_detalle": false,
    "descripcion": "SE REQUIERE CONTRATAR TRES ENTREVISTAS RADIALES EN MEDIO LOCALES, DE APROXIMADAMNETE 25 MINUTOS, DONDE LA PROFESIONAL NUTRICIONISTA HABLE DE LA EJECUCION DEL PROYECTO 8% FNDR SOBORES QUE NUTREN.",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
-  {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Ventas y marketing"
-   ],
-   "nueva": true,
-   "codigo": "1195-635-COT26",
-   "nombre": "Contratación de servicio de caracterización de personaje navideño (Viejo Pascuero)",
-   "organismo": "I MUNICIPALIDAD DE COYHAIQUE",
-   "unidad": "Ilustre Municipalidad de Coyhaique",
-   "monto": 1500000,
-   "cierre_iso": "2026-11-27T17:00:00-03:00",
-   "publicacion": "26-11 16:53",
-   "publicacion_iso": "2026-11-26T16:53:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "80141607",
-     "Producción de eventos",
-     1,
-     "Servicio de caracterización y animación de personaje navideño (Viejo Pascuero) con vestimenta completa en óptimo estado, para entrega de regalos y caramelos en Juntas de Vecinos de la comuna, coordinado por el Departamento de Organizaciones Comunitarias (OOCC)."
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1195-635-COT26",
-   "sin_detalle": false,
-   "descripcion": "Servicio de caracterización y animación de personaje navideño (Viejo Pascuero) con vestimenta completa en óptimo estado, para entrega de regalos y caramelos en Juntas de Vecinos de la comuna, coordinado por el Departamento de Organizaciones Comunitarias (OOCC).",
    "en_gracia": false,
    "desaparecida_iso": ""
   },
@@ -805,6 +718,64 @@
     "Ventas y marketing"
    ],
    "nueva": true,
+   "codigo": "2495-731-COT26",
+   "nombre": "PRODUCCION CARROS LOCOS",
+   "organismo": "I MUNICIPALIDAD DE COYHAIQUE",
+   "unidad": "DIRECCION DESARROLLO COMUNITARIO",
+   "monto": 3479800,
+   "cierre_iso": "2026-11-28T17:00:00-03:00",
+   "publicacion": "27-11 15:39",
+   "publicacion_iso": "2026-11-27T15:39:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "80141607",
+     "Producción de eventos",
+     1,
+     "PRODUCCION INTEGRAL DE CARROS LOCOS SEGUN TDR ADJUNTAS"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=2495-731-COT26",
+   "sin_detalle": false,
+   "descripcion": "SE REQUIERE CONTRATAR SERVICIO DE PRODUCCION INTEGRAL PARA CARRERA DE CARROS LOCOS A REALIZARSE EN EL MES DE ENERO, SE PREVILEGIARA PROVEEDOR DE LA COMUNA DE COYHAIQUE CON DISPONIBILIDAD INMEDIATA Y DISPOSICION A MODIFICACIONES, ADJUNTAR COTIZACION SEGUN LO SOLICITADO EN TDR Y CONTAR CON PERSONALIDAD JURIDICA",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Ventas y marketing"
+   ],
+   "nueva": true,
+   "codigo": "1195-635-COT26",
+   "nombre": "Contratación de servicio de caracterización de personaje navideño (Viejo Pascuero)",
+   "organismo": "I MUNICIPALIDAD DE COYHAIQUE",
+   "unidad": "Ilustre Municipalidad de Coyhaique",
+   "monto": 1500000,
+   "cierre_iso": "2026-11-29T16:00:00-03:00",
+   "publicacion": "26-11 16:53",
+   "publicacion_iso": "2026-11-26T16:53:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "80141607",
+     "Producción de eventos",
+     1,
+     "Servicio de caracterización y animación de personaje navideño (Viejo Pascuero) con vestimenta completa en óptimo estado, para entrega de regalos y caramelos en Juntas de Vecinos de la comuna, coordinado por el Departamento de Organizaciones Comunitarias (OOCC)."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1195-635-COT26",
+   "sin_detalle": false,
+   "descripcion": "Servicio de caracterización y animación de personaje navideño (Viejo Pascuero) con vestimenta completa en óptimo estado, para entrega de regalos y caramelos en Juntas de Vecinos de la comuna, coordinado por el Departamento de Organizaciones Comunitarias (OOCC).",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Ventas y marketing"
+   ],
+   "nueva": true,
    "codigo": "1343644-118-COT26",
    "nombre": "SERVICIO DE PRODUCCIÓN PARA CIERRE EVENTO DEPORTIVO R.L.G. ",
    "organismo": "I MUNICIPALIDAD DE O HIGGINS",
@@ -949,6 +920,64 @@
   {
    "tipo": "POSIBLE",
    "motivos": [
+    "publicitaria"
+   ],
+   "nueva": true,
+   "codigo": "4066-572-COT26",
+   "nombre": " Servicios de Impresión, Merchandising, Información Turística",
+   "organismo": "I MUNICIPALIDAD RIO IBANEZ",
+   "unidad": "DIDECO",
+   "monto": 3000000,
+   "cierre_iso": "2026-12-01T12:00:00-03:00",
+   "publicacion": "27-11 15:30",
+   "publicacion_iso": "2026-11-27T15:30:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "82121505",
+     "Impresión promocional o publicitaria",
+     1,
+     "Servicios de impresión de merchandising de información turística para las 5 Oficinas de Información Turística de Río Ibáñez, en lote único: 100 bolsas ecológicas, 345 llaveros, 80 sets de stickers, 65 materos enlozados, 245 stickers brillantes y 28 libretas A5 con mapas. Diseños 100% ilustrados, sin IA. Entrega en Bodega Municipal de Puerto Ingeniero Ibáñez, a más tardar el miércoles 16 de diciembre de 2026. Ver TDR y Formatos adjuntos."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=4066-572-COT26",
+   "sin_detalle": false,
+   "descripcion": "Servicio de diseño, impresión y entrega de merchandising para las Oficinas de Información Turística: 100 bolsas ecológicas, 345 llaveros, 80 sets de stickers, 65 materos enlozados, 245 stickers brillantes y 28 libretas A5 con mapas. Diseños 100% ilustrados, sin uso de IA. Presupuesto: $3.000.000, impuesto incluido. Entrega en Bodega Municipal de Puerto Ingeniero Ibáñez, a más tardar el miércoles 16 de diciembre de 2026. Ver TDR y Formatos N°1, N°2 y N°3 adjuntos.",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "publicitaria"
+   ],
+   "nueva": true,
+   "codigo": "4066-572-COT26",
+   "nombre": " Servicios de Impresión, Merchandising, Información Turística",
+   "organismo": "I MUNICIPALIDAD RIO IBANEZ",
+   "unidad": "DIDECO",
+   "monto": 3000000,
+   "cierre_iso": "2026-12-01T12:00:00-03:00",
+   "publicacion": "27-11 15:30",
+   "publicacion_iso": "2026-11-27T15:30:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "82121505",
+     "Impresión promocional o publicitaria",
+     1,
+     "Servicios de impresión de merchandising de información turística para las 5 Oficinas de Información Turística de Río Ibáñez, en lote único: 100 bolsas ecológicas, 345 llaveros, 80 sets de stickers, 65 materos enlozados, 245 stickers brillantes y 28 libretas A5 con mapas. Diseños 100% ilustrados, sin IA. Entrega en Bodega Municipal de Puerto Ingeniero Ibáñez, a más tardar el miércoles 16 de diciembre de 2026. Ver TDR y Formatos adjuntos."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=4066-572-COT26",
+   "sin_detalle": false,
+   "descripcion": "Servicio de diseño, impresión y entrega de merchandising para las Oficinas de Información Turística: 100 bolsas ecológicas, 345 llaveros, 80 sets de stickers, 65 materos enlozados, 245 stickers brillantes y 28 libretas A5 con mapas. Diseños 100% ilustrados, sin uso de IA. Presupuesto: $3.000.000, impuesto incluido. Entrega en Bodega Municipal de Puerto Ingeniero Ibáñez, a más tardar el miércoles 16 de diciembre de 2026. Ver TDR y Formatos N°1, N°2 y N°3 adjuntos.",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
     "difusión"
    ],
    "nueva": false,
@@ -989,6 +1018,42 @@
   }
  ],
  "historial": [
+  {
+   "codigo": "868-111-COT26",
+   "nombre": "Pódium Interactivo digital ",
+   "organismo": "GOBIERNO REGIONAL DE AYSEN",
+   "monto": 1771000,
+   "cierre_iso": "2026-11-27T15:30:00-03:00",
+   "tipo": "POSIBLE",
+   "motivos": [
+    "audiovisual"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=868-111-COT26",
+   "primera_vista_iso": "2026-11-24T12:00:25-03:00",
+   "removida_iso": "2026-11-27T16:00:24-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
+  {
+   "codigo": "1233615-1017-COT26",
+   "nombre": "DMH [SOL-2026-02150] Recursos para el aprendizaje e innovación (hidrolavadora y manguera) para Liceo Politécnico A-1 de Puerto Aysén",
+   "organismo": "Servicio Local de Educación Pública Aysén",
+   "monto": 230000,
+   "cierre_iso": "2026-11-27T15:09:00-03:00",
+   "tipo": "POSIBLE",
+   "motivos": [
+    "difusión"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1233615-1017-COT26",
+   "primera_vista_iso": "2026-11-19T10:00:24-03:00",
+   "removida_iso": "2026-11-27T16:00:24-03:00",
+   "estado_api": "",
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
   {
    "codigo": "2495-717-COT26",
    "nombre": "PRODUCCION INTEGRAL CARROS LOCOS",
@@ -2075,24 +2140,6 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=4140-112-COT26",
    "primera_vista_iso": "2026-11-19T17:00:24-03:00",
    "removida_iso": "2026-11-20T17:00:37-03:00",
-   "estado_api": "",
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "1458-37-COT26",
-   "nombre": "Realización Jornada Regional Programa Noche Digna",
-   "organismo": "SERPLAC XI Región",
-   "monto": 1000000,
-   "cierre_iso": "2026-11-20T15:18:00-03:00",
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Ventas y marketing"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1458-37-COT26",
-   "primera_vista_iso": "2026-11-17T13:00:25-03:00",
-   "removida_iso": "2026-11-20T16:00:41-03:00",
    "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,

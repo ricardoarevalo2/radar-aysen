@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-11-27T15:00:25.588523-03:00",
+ "actualizado": "2026-11-27T16:00:24.709141-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
- "total_region": 250,
+ "total_region": 247,
  "rubros": {
   "25172700": "Aire acondicionado",
   "25173900": "Componentes eléctricos",
@@ -19,122 +19,6 @@
   "39121400": "Conectores, enchufes y terminales"
  },
  "filas": [
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "ampolleta"
-   ],
-   "nueva": false,
-   "codigo": "3949-319-COT26",
-   "nombre": "TUBOS DE LUZ BLANCA FRIA O AMPOLLETA PARA LUPA T 22W DE 6500K ",
-   "organismo": "CONSULTORIO GENERAL URBANO DR ALEJANDRO GUTIERREZ",
-   "unidad": "ID 3949 - CESFAM Dr Alejandro Gutiérrez",
-   "monto": 60000,
-   "cierre_iso": "2026-11-27T14:59:00-03:00",
-   "publicacion": "25-11 14:58",
-   "publicacion_iso": "2026-11-25T14:58:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "39111704",
-     "Luces proyectantes",
-     4,
-     "TUBOS DE LUZ BLANCA PARA LUPA T4 22W DE 6500K"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=3949-319-COT26",
-   "sin_detalle": false,
-   "descripcion": "SE REQUIERE ADQUIRIR TUBOS DE LUZ BLANCA CON ENTREGA INMEDIATA EN COYHAIQUE, ADJUNTAR FICHA TECNICA DEL PRODUCTO.",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
-  {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Gasfitería, calefacción y aire acondicionado"
-   ],
-   "nueva": true,
-   "codigo": "1004-42-COT26",
-   "nombre": "INSTALACIÓN DE 2 EQUIPOS DE AIRE ACONDICIONADO",
-   "organismo": "MINISTERIO DE OBRAS PUBLICAS DIREC CION GRAL DE OO PP DCYF",
-   "unidad": "Dirección de Vialidad - XI Región - Provincia de Coyhaique",
-   "monto": 180000,
-   "cierre_iso": "2026-11-27T15:00:00-03:00",
-   "publicacion": "26-11 14:21",
-   "publicacion_iso": "2026-11-26T14:21:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "72102305",
-     "Servicios de reparación, mantenimiento o reparación de aire acondicionado",
-     1,
-     "INSTALACION DE 2 EQUIPOS DE AIRE ACONDICIONADO (1 DE 24.000 BTU INSTALADO EN UNA OFICINA Y OTRO DE 9.000 BTU INSTALADO EN LA CASETA DE LOS GUARDIAS). LA INSTALACION DEBE CONSIDERAR:\nSOPORTES, TORNILOS DE FIJACION, CANALETAS DE PROTECCION DE LOS CABLES Y TODO LO NECESARIO PARA QUE LOS EQUIPOS QUEDEN OPERATIVOS Y FUNCIONANDO DENTRO DE SU NORMA DE SEGURIDAD."
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1004-42-COT26",
-   "sin_detalle": false,
-   "descripcion": "Se requiere la instalación de 2 equipos de aire acondicionado en dependencias de la Oficina Provincial Vialidad Coyhaique.",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "eléctricos"
-   ],
-   "nueva": false,
-   "codigo": "1538639-21-COT26",
-   "nombre": "Asesoría técnico-regulatoria sobre Sistemas Eléctricos Medianos – Región de Aysén",
-   "organismo": "CORPORACIÓN DE DESARROLLO DEL GOBIERNO REGIONAL DE AYSÉN",
-   "unidad": "CORPORACIÓN DE DESARROLLO DEL GOBIERNO REGIONAL DE AYSÉN",
-   "monto": 7200000,
-   "cierre_iso": "2026-11-27T15:00:00-03:00",
-   "publicacion": "25-11 15:43",
-   "publicacion_iso": "2026-11-25T15:43:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "81101701",
-     "Ingeniería eléctrica",
-     1,
-     "reglamento de la Ley N.º 21.804 sobre Sistemas Eléctricos Medianos, con enfoque en la Región de Aysén. Incluye diagnóstico regional, matriz de observaciones y propuestas regulatorias y documento final de observaciones institucionales, conforme a minuta de requerimiento adjunta. Fecha máxima de entrega: 21 de diciembre de 2026."
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1538639-21-COT26",
-   "sin_detalle": false,
-   "descripcion": "Se requiere contratar una asesoría especializada para el análisis técnico, económico y regulatorio del proyecto de reglamento de la Ley N.º 21.804 sobre Sistemas Eléctricos Medianos, con enfoque en la Región de Aysén. Incluye diagnóstico regional, matriz de observaciones y propuestas regulatorias y documento final de observaciones institucionales, conforme a minuta de requerimiento adjunta. Fecha máxima de entrega: 21 de diciembre de 2026.",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
-  {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Gasfitería, calefacción y aire acondicionado"
-   ],
-   "nueva": false,
-   "codigo": "1403-513-COT26",
-   "nombre": "SERVICIO DE MANTENCIÓN DE AIRE A CONDICIONADO CON RECARGA DE REFRIGERANTE - CAIS COYHAIQUE",
-   "organismo": "Dirección Regional de Gendarmeria - Coyhaique",
-   "unidad": "Región de Aysén",
-   "monto": 444763,
-   "cierre_iso": "2026-11-27T15:30:00-03:00",
-   "publicacion": "25-11 14:29",
-   "publicacion_iso": "2026-11-25T14:29:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "72102305",
-     "Servicios de reparación, mantenimiento o reparación de aire acondicionado",
-     5,
-     "MANTENCIÓN DE AIRE ACONDICIONADO Y RECARGA DE REFRIGERANTE. 4 AC MODELO CLARK INCM-09HRE \n9000 BTU SPLIT Y 1  AC CLARK INCM-12HRE 12000 BTU SPLIT"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1403-513-COT26",
-   "sin_detalle": false,
-   "descripcion": "E1O2RT9 - SERVICIO DE MANTENCIÓN DE AIRE A CONDICIONADO CON RECARGA DE REFRIGERANTE - CAIS COYHAIQUE. CRITERIOS DE EVALUACIÓN: PRECIO 88% - PLAZO DE ENTREGA 10% - SUSTENTABILIDAD 2%",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
   {
    "tipo": "OPORTUNIDAD",
    "motivos": [
@@ -547,187 +431,6 @@
    "desaparecida_iso": ""
   },
   {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Cables eléctricos y accesorios",
-    "Cajas y accesorios eléctricos",
-    "Conectores, enchufes y terminales"
-   ],
-   "nueva": false,
-   "codigo": "3765-379-COT26",
-   "nombre": "INSUMOS ELECTRICOS PARA MANTENIMIENTO CORRECTIVO LUCES DE EMERGENCIA",
-   "organismo": "SERVICIO NACIONAL DE SALUD HOSPITAL DE C",
-   "unidad": "Hospital Doctor  Leopoldo Ortega Rodríguez",
-   "monto": 1000000,
-   "cierre_iso": "2026-11-28T03:10:00-03:00",
-   "publicacion": "24-11 14:49",
-   "publicacion_iso": "2026-11-24T14:49:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "26121613",
-     "Cable aislado o forrado",
-     1,
-     "ROLLO CABLE CORDON ELECTRICO 3 X 1,5 (100 METROS)"
-    ],
-    [
-     "26121634",
-     "Cable de cobre",
-     50,
-     "PRENSA ESTOPA PG-11"
-    ],
-    [
-     "27111704",
-     "Enchufes",
-     10,
-     "ENCHUFE EMBUTIDO ARMADO SIMPLE 2P+T 10 A"
-    ],
-    [
-     "30101504",
-     "Ángulos de acero",
-     3,
-     "ANGULO LAMINADO 20 X 20 X 2MM X 6 METROS"
-    ],
-    [
-     "31151609",
-     "Eslabones de cadena",
-     50,
-     "CADENA 3,5MM (ESLABÓN)"
-    ],
-    [
-     "31161504",
-     "Tornillos para metales",
-     200,
-     "TORNILLO CABEZA LENTEJA 8 X 1.5/8 PUNTA BROCA"
-    ],
-    [
-     "31161504",
-     "Tornillos para metales",
-     200,
-     "TORNILLO CABEZA LENTEJA 8 X 1 PUNTA BROCA"
-    ],
-    [
-     "31161807",
-     "Golillas planas",
-     100,
-     "GOLILLA PLANA 3/16"
-    ],
-    [
-     "31161807",
-     "Golillas planas",
-     100,
-     "GOLILLA PLANA 5/16"
-    ],
-    [
-     "31162305",
-     "Abrazaderas de montaje",
-     50,
-     "ABRAZADERA TIPO CADDY 25 MM"
-    ],
-    [
-     "31162305",
-     "Abrazaderas de montaje",
-     50,
-     "ABRAZADERA METALICA TIPO OMEGA 20 MM"
-    ],
-    [
-     "31211507",
-     "Pinturas en aerosol",
-     4,
-     "PINTURA SPRAY COLOR GRIS"
-    ],
-    [
-     "31231310",
-     "Tubería de acero",
-     20,
-     "TUBERIA CONDUIT RIGIDA GALVANIZADA 20MM X 3 MTS"
-    ],
-    [
-     "39111505",
-     "Iluminación empotrada",
-     50,
-     "TUBOS LED T8 DE 18W, 120CM"
-    ],
-    [
-     "39111505",
-     "Iluminación empotrada",
-     10,
-     "HALÓGENO LED 100W"
-    ],
-    [
-     "39111706",
-     "Luces de emergencia o estroboscópicas",
-     4,
-     "LAMPARA DE EMERGENCIA LED 2 FOCOS"
-    ],
-    [
-     "39121205",
-     "Canaletas para cables",
-     20,
-     "CANALETA ELECTRICA CON ADHESIVO PVC 40X16X2MTS"
-    ],
-    [
-     "39121303",
-     "Cajas eléctricas",
-     5,
-     "CAJAS GALVANIZADAS A-11 100X100X65 CON TAPA"
-    ],
-    [
-     "39121303",
-     "Cajas eléctricas",
-     10,
-     "CAJA PLASTICA CHUQUI PARA TUBERIA Y CANALETA"
-    ],
-    [
-     "39121311",
-     "Accesorios eléctricos",
-     2,
-     "INTERRUPTOR AUTOMATICO DE 10 A 250 V"
-    ],
-    [
-     "39121311",
-     "Accesorios eléctricos",
-     2,
-     "INTERRUPTOR AUTOMATICO DE 16 A 250 V"
-    ],
-    [
-     "39121311",
-     "Accesorios eléctricos",
-     10,
-     "TAPA PLASTICA CIEGA BLANCA (ELECTRICA)"
-    ],
-    [
-     "39121431",
-     "Conectores estancos de cables",
-     3,
-     "EQUIPO ESTANCO DOBLE LED 2X18W 120CM"
-    ],
-    [
-     "40141705",
-     "Caños",
-     50,
-     "COPLAS TUBERIA EMT 20MM"
-    ],
-    [
-     "40141705",
-     "Caños",
-     50,
-     "TERMINAL EMT LEC 20MM"
-    ],
-    [
-     "40142317",
-     "Codo de tubería",
-     20,
-     "CODO 90° CONDUIT GALVANIZADO 20MM"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=3765-379-COT26",
-   "sin_detalle": false,
-   "descripcion": "SE REQUIERE LA ADQUISICIÓN DE MATERIALES DE ELECTRICOS PARA EFECTUAR MANTENIMIENTO CORRECTIVO DE LAS LICES DE EMERGENCIA Y LUMINARIAS DEL ESTABLECIMIENTO. SE CONSIDERA",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
-  {
    "tipo": "POSIBLE",
    "motivos": [
     "iluminación"
@@ -1067,11 +770,221 @@
    "desaparecida_iso": ""
   },
   {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Cables eléctricos y accesorios",
+    "Cajas y accesorios eléctricos",
+    "Conectores, enchufes y terminales"
+   ],
+   "nueva": false,
+   "codigo": "3765-379-COT26",
+   "nombre": "INSUMOS ELECTRICOS PARA MANTENIMIENTO CORRECTIVO LUCES DE EMERGENCIA",
+   "organismo": "SERVICIO NACIONAL DE SALUD HOSPITAL DE C",
+   "unidad": "Hospital Doctor  Leopoldo Ortega Rodríguez",
+   "monto": 1000000,
+   "cierre_iso": "2026-11-30T10:00:00-03:00",
+   "publicacion": "24-11 14:49",
+   "publicacion_iso": "2026-11-24T14:49:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "26121613",
+     "Cable aislado o forrado",
+     1,
+     "ROLLO CABLE CORDON ELECTRICO 3 X 1,5 (100 METROS)"
+    ],
+    [
+     "26121634",
+     "Cable de cobre",
+     50,
+     "PRENSA ESTOPA PG-11"
+    ],
+    [
+     "27111704",
+     "Enchufes",
+     10,
+     "ENCHUFE EMBUTIDO ARMADO SIMPLE 2P+T 10 A"
+    ],
+    [
+     "30101504",
+     "Ángulos de acero",
+     3,
+     "ANGULO LAMINADO 20 X 20 X 2MM X 6 METROS"
+    ],
+    [
+     "31151609",
+     "Eslabones de cadena",
+     50,
+     "CADENA 3,5MM (ESLABÓN)"
+    ],
+    [
+     "31161504",
+     "Tornillos para metales",
+     200,
+     "TORNILLO CABEZA LENTEJA 8 X 1.5/8 PUNTA BROCA"
+    ],
+    [
+     "31161504",
+     "Tornillos para metales",
+     200,
+     "TORNILLO CABEZA LENTEJA 8 X 1 PUNTA BROCA"
+    ],
+    [
+     "31161807",
+     "Golillas planas",
+     100,
+     "GOLILLA PLANA 3/16"
+    ],
+    [
+     "31161807",
+     "Golillas planas",
+     100,
+     "GOLILLA PLANA 5/16"
+    ],
+    [
+     "31162305",
+     "Abrazaderas de montaje",
+     50,
+     "ABRAZADERA TIPO CADDY 25 MM"
+    ],
+    [
+     "31162305",
+     "Abrazaderas de montaje",
+     50,
+     "ABRAZADERA METALICA TIPO OMEGA 20 MM"
+    ],
+    [
+     "31211507",
+     "Pinturas en aerosol",
+     4,
+     "PINTURA SPRAY COLOR GRIS"
+    ],
+    [
+     "31231310",
+     "Tubería de acero",
+     20,
+     "TUBERIA CONDUIT RIGIDA GALVANIZADA 20MM X 3 MTS"
+    ],
+    [
+     "39111505",
+     "Iluminación empotrada",
+     50,
+     "TUBOS LED T8 DE 18W, 120CM"
+    ],
+    [
+     "39111505",
+     "Iluminación empotrada",
+     10,
+     "HALÓGENO LED 100W"
+    ],
+    [
+     "39111706",
+     "Luces de emergencia o estroboscópicas",
+     4,
+     "LAMPARA DE EMERGENCIA LED 2 FOCOS"
+    ],
+    [
+     "39121205",
+     "Canaletas para cables",
+     20,
+     "CANALETA ELECTRICA CON ADHESIVO PVC 40X16X2MTS"
+    ],
+    [
+     "39121303",
+     "Cajas eléctricas",
+     5,
+     "CAJAS GALVANIZADAS A-11 100X100X65 CON TAPA"
+    ],
+    [
+     "39121303",
+     "Cajas eléctricas",
+     10,
+     "CAJA PLASTICA CHUQUI PARA TUBERIA Y CANALETA"
+    ],
+    [
+     "39121311",
+     "Accesorios eléctricos",
+     2,
+     "INTERRUPTOR AUTOMATICO DE 10 A 250 V"
+    ],
+    [
+     "39121311",
+     "Accesorios eléctricos",
+     2,
+     "INTERRUPTOR AUTOMATICO DE 16 A 250 V"
+    ],
+    [
+     "39121311",
+     "Accesorios eléctricos",
+     10,
+     "TAPA PLASTICA CIEGA BLANCA (ELECTRICA)"
+    ],
+    [
+     "39121431",
+     "Conectores estancos de cables",
+     3,
+     "EQUIPO ESTANCO DOBLE LED 2X18W 120CM"
+    ],
+    [
+     "40141705",
+     "Caños",
+     50,
+     "COPLAS TUBERIA EMT 20MM"
+    ],
+    [
+     "40141705",
+     "Caños",
+     50,
+     "TERMINAL EMT LEC 20MM"
+    ],
+    [
+     "40142317",
+     "Codo de tubería",
+     20,
+     "CODO 90° CONDUIT GALVANIZADO 20MM"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=3765-379-COT26",
+   "sin_detalle": false,
+   "descripcion": "SE REQUIERE LA ADQUISICIÓN DE MATERIALES DE ELECTRICOS PARA EFECTUAR MANTENIMIENTO CORRECTIVO DE LAS LICES DE EMERGENCIA Y LUMINARIAS DEL ESTABLECIMIENTO. SE CONSIDERA",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Gasfitería, calefacción y aire acondicionado"
+   ],
+   "nueva": true,
+   "codigo": "1233615-1054-COT26",
+   "nombre": "TRM/INT 306 Montaje, carga de refrigerante y mantenimiento preventivo de aire acondicionado SLEP",
+   "organismo": "Servicio Local de Educación Pública Aysén",
+   "unidad": "Servicio Local de Educación Pública Aysén",
+   "monto": 238000,
+   "cierre_iso": "2026-11-30T12:00:00-03:00",
+   "publicacion": "27-11 15:08",
+   "publicacion_iso": "2026-11-27T15:08:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "72102305",
+     "Servicios de reparación, mantenimiento o reparación de aire acondicionado",
+     1,
+     "Montaje, carga de refrigerante y mantenimiento preventivo de aire acondicionado SLEP, SEGUN DETALLE ADJUNTO"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1233615-1054-COT26",
+   "sin_detalle": false,
+   "descripcion": "INT 306 Montaje, carga de refrigerante y mantenimiento preventivo de aire acondicionado SLEP",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
    "tipo": "POSIBLE",
    "motivos": [
     "electricidad"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "868-118-COT26",
    "nombre": "TRABAJOS DE REPARACIÓN DE OBRAS MENORES EN EDIFICIOS GORE AYSÉN DE CALLE EJERCITO 405 Y PARRA 101, COYHAIQUE",
    "organismo": "GOBIERNO REGIONAL DE AYSEN",
@@ -1155,6 +1068,78 @@
   }
  ],
  "historial": [
+  {
+   "codigo": "1403-513-COT26",
+   "nombre": "SERVICIO DE MANTENCIÓN DE AIRE A CONDICIONADO CON RECARGA DE REFRIGERANTE - CAIS COYHAIQUE",
+   "organismo": "Dirección Regional de Gendarmeria - Coyhaique",
+   "monto": 444763,
+   "cierre_iso": "2026-11-27T15:30:00-03:00",
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Gasfitería, calefacción y aire acondicionado"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1403-513-COT26",
+   "primera_vista_iso": "2026-11-25T15:00:23-03:00",
+   "removida_iso": "2026-11-27T16:00:24-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
+  {
+   "codigo": "1538639-21-COT26",
+   "nombre": "Asesoría técnico-regulatoria sobre Sistemas Eléctricos Medianos – Región de Aysén",
+   "organismo": "CORPORACIÓN DE DESARROLLO DEL GOBIERNO REGIONAL DE AYSÉN",
+   "monto": 7200000,
+   "cierre_iso": "2026-11-27T15:00:00-03:00",
+   "tipo": "POSIBLE",
+   "motivos": [
+    "eléctricos"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1538639-21-COT26",
+   "primera_vista_iso": "2026-11-25T16:00:27-03:00",
+   "removida_iso": "2026-11-27T16:00:24-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
+  {
+   "codigo": "1004-42-COT26",
+   "nombre": "INSTALACIÓN DE 2 EQUIPOS DE AIRE ACONDICIONADO",
+   "organismo": "MINISTERIO DE OBRAS PUBLICAS DIREC CION GRAL DE OO PP DCYF",
+   "monto": 180000,
+   "cierre_iso": "2026-11-27T15:00:00-03:00",
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Gasfitería, calefacción y aire acondicionado"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1004-42-COT26",
+   "primera_vista_iso": "2026-11-26T15:00:29-03:00",
+   "removida_iso": "2026-11-27T16:00:24-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
+  {
+   "codigo": "3949-319-COT26",
+   "nombre": "TUBOS DE LUZ BLANCA FRIA O AMPOLLETA PARA LUPA T 22W DE 6500K ",
+   "organismo": "CONSULTORIO GENERAL URBANO DR ALEJANDRO GUTIERREZ",
+   "monto": 60000,
+   "cierre_iso": "2026-11-27T14:59:00-03:00",
+   "tipo": "POSIBLE",
+   "motivos": [
+    "ampolleta"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=3949-319-COT26",
+   "primera_vista_iso": "2026-11-25T15:00:23-03:00",
+   "removida_iso": "2026-11-27T16:00:24-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
   {
    "codigo": "1195-630-COT26",
    "nombre": "INSTALACION PUNTOS DE RED NUEVO EDIFICIO JPL",
@@ -2072,24 +2057,6 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=1182705-220-COT26",
    "primera_vista_iso": "2026-11-18T16:00:26-03:00",
    "removida_iso": "2026-11-21T12:00:23-03:00",
-   "estado_api": "",
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "1057062-535-COT26",
-   "nombre": "Adquisición de Kit didáctico de auto de exploración de energía_ Según FISABS 2466",
-   "organismo": "UNIVERSIDAD DE AYSEN",
-   "monto": 856562,
-   "cierre_iso": "2026-11-20T15:25:00-03:00",
-   "tipo": "POSIBLE",
-   "motivos": [
-    "electricidad"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1057062-535-COT26",
-   "primera_vista_iso": "2026-11-13T16:00:24-03:00",
-   "removida_iso": "2026-11-20T16:00:41-03:00",
    "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,
