@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-11-27T14:00:26.076775-03:00",
+ "actualizado": "2026-11-27T15:00:25.588523-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
- "total_region": 246,
+ "total_region": 250,
  "rubros": {
   "25172700": "Aire acondicionado",
   "25173900": "Componentes eléctricos",
@@ -2089,24 +2089,6 @@
    ],
    "link": "https://buscador.mercadopublico.cl/ficha?code=1057062-535-COT26",
    "primera_vista_iso": "2026-11-13T16:00:24-03:00",
-   "removida_iso": "2026-11-20T16:00:41-03:00",
-   "estado_api": "",
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "3797-546-COT26",
-   "nombre": "EQUIPOS DE AIRE ACONDICIONADO ",
-   "organismo": "I MUNICIPALIDAD DE COCHRANE",
-   "monto": 2400000,
-   "cierre_iso": "2026-11-20T15:00:00-03:00",
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Enfriamiento (aires acondicionados)"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=3797-546-COT26",
-   "primera_vista_iso": "2026-11-19T15:00:27-03:00",
    "removida_iso": "2026-11-20T16:00:41-03:00",
    "estado_api": "",
    "adj_nombre": null,
