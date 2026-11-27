@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-11-27T16:08:41.199299-03:00",
+ "actualizado": "2026-11-27T17:00:26.802708-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
- "total_region": 241,
+ "total_region": 246,
  "rubros": {
   "80141600": "Ventas y marketing",
   "82101600": "Publicidad en medios no impresos",
@@ -15,47 +15,11 @@
  },
  "filas": [
   {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "difusion",
-    "publicidad"
-   ],
-   "nueva": true,
-   "codigo": "4144-350-COT26",
-   "nombre": "SE REQUIERE LA ADQUISICION DE 2 PENDONES  PARA DIFUSION DE INICIATIVA INCLUSIVA DEL PROGRAMA DIT ",
-   "organismo": "I MUNICIPALIDAD DE LAGO VERDE",
-   "unidad": "Finanzas",
-   "monto": 150000,
-   "cierre_iso": "2026-11-27T16:05:00-03:00",
-   "publicacion": "26-11 16:03",
-   "publicacion_iso": "2026-11-26T16:03:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "82101502",
-     "Publicidad en carteles",
-     1,
-     "pendon roller tela PVC 90 x 200 cm"
-    ],
-    [
-     "82101502",
-     "Publicidad en carteles",
-     1,
-     "mini roller 30 x 42 cm (mini pendon de sobremesa)"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=4144-350-COT26",
-   "sin_detalle": false,
-   "descripcion": "SE REQUIERE LA ADQUISICION DE 2 PENDONES  PARA DIFUSION DE INICIATIVA INCLUSIVA DEL PROGRAMA DIT .SE ADJUNTAN TDR DE LO SOLICITADO",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
-  {
    "tipo": "OPORTUNIDAD",
    "motivos": [
     "Publicidad en medios no impresos"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "2495-723-COT26",
    "nombre": "SERVICIO DE DIFUSIÓN  PROYECTO 8% FNDR SOBORES QUE NUTREN",
    "organismo": "I MUNICIPALIDAD DE COYHAIQUE",
@@ -259,7 +223,7 @@
    "motivos": [
     "Inserciones publicitarias en medios"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "1195-613-COT26",
    "nombre": "SERVICIO DE DIFUSION PROYECTO DE RCICLAJE",
    "organismo": "I MUNICIPALIDAD DE COYHAIQUE",
@@ -280,36 +244,6 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=1195-613-COT26",
    "sin_detalle": false,
    "descripcion": "SE REQUIERE CONTRATAR UN MEDIO DE COMUNICACION REGIONAL PARA LA GABACION, EDICION Y DIFUSION DE CAPSULAS AUDIOVISUALES CONSIDERANDO 4 HRS MENSUALES(NOVIEMBRE DICIEMBRE),PUBLICACIONES SEMANALS DE 20 A 29 MINUTOS,BANNER PUBLICITARIO Y DIFUSION EN RRSS,SITIO WEB,TELEVISION DIGITAL Y STREAMING.SE PRIORIZARA PROVEEDOR LOCAL CON COBERTURA EN LA REGION DE AYSEN.",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "difusión",
-    "publicidad"
-   ],
-   "nueva": true,
-   "codigo": "1057062-578-COT26",
-   "nombre": "Servicio de Difusión de Magíster en Cambio Climático en diario de circulación nacional según fisabs 2621",
-   "organismo": "UNIVERSIDAD DE AYSEN",
-   "unidad": "Proyectos",
-   "monto": 2677500,
-   "cierre_iso": "2026-11-28T15:00:00-03:00",
-   "publicacion": "27-11 12:49",
-   "publicacion_iso": "2026-11-27T12:49:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "82101504",
-     "Publicidad en periódicos",
-     1,
-     "Servicio de Difusión de Magíster en Cambio Climático en diario de circulación nacional por 7 días corridos desde emitida la OC. El medio propuesto debe acreditar una circulación física y tráfico digital que garantice la llegada masiva al segmento objetivo, concentrado en la Región Metropolitana y al menos otra región, según especificaciones técnicas adjuntas."
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1057062-578-COT26",
-   "sin_detalle": false,
-   "descripcion": "Se requiere el servicio de Difusión de Magíster en Cambio Climático en diario de circulación nacional según especificaciones técnicas adjuntas. Se podrá privilegiar el menor plazo ofertado. Compra sujeta a posibles multas por incumplimientos.",
    "en_gracia": false,
    "desaparecida_iso": ""
   },
@@ -655,6 +589,36 @@
    "desaparecida_iso": ""
   },
   {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "difusión",
+    "publicidad"
+   ],
+   "nueva": true,
+   "codigo": "1057062-579-COT26",
+   "nombre": "Servicio de Difusión de Magíster en Cambio Climático en diario de circulación nacional según fisabs 2621_URY 21991",
+   "organismo": "UNIVERSIDAD DE AYSEN",
+   "unidad": "Proyectos",
+   "monto": 2677500,
+   "cierre_iso": "2026-11-28T17:00:00-03:00",
+   "publicacion": "27-11 16:24",
+   "publicacion_iso": "2026-11-27T16:24:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "82101504",
+     "Publicidad en periódicos",
+     1,
+     "Servicio de Difusión de Magíster en Cambio Climático en diario de circulación en Región Metropolitana y al menos una más, por 7 días corridos desde emitida la OC. El medio propuesto debe acreditar una circulación física y tráfico digital que garantice la llegada masiva al segmento objetivo, concentrado en la Región Metropolitana y al menos otra región, según especificaciones técnicas adjuntas."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1057062-579-COT26",
+   "sin_detalle": false,
+   "descripcion": "Se requiere el servicio de Difusión de Magíster en Cambio Climático en diario de circulación nacional según especificaciones técnicas adjuntas. Compra sujeta a posibles multas por incumplimientos.",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
    "tipo": "OPORTUNIDAD",
    "motivos": [
     "Ventas y marketing"
@@ -688,7 +652,7 @@
    "motivos": [
     "Ventas y marketing"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "1195-635-COT26",
    "nombre": "Contratación de servicio de caracterización de personaje navideño (Viejo Pascuero)",
    "organismo": "I MUNICIPALIDAD DE COYHAIQUE",
@@ -768,6 +732,35 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=1233615-1049-COT26",
    "sin_detalle": false,
    "descripcion": "La adquisición de recursos tiene como finalidad fortalecer los procesos de enseñanza y aprendizaje mediante experiencias prácticas, innovadoras y contextualizadas. Estos implementos permitirán desarrollar competencias tecnológicas, comunicativas, técnicas y laborales, fomentar la creatividad, el trabajo colaborativo y la participación",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "radio"
+   ],
+   "nueva": true,
+   "codigo": "4066-573-COT26",
+   "nombre": "SERVICIO DE TRANSPORTE TALLER DE BOCHAS  \t",
+   "organismo": "I MUNICIPALIDAD RIO IBANEZ",
+   "unidad": "DIDECO",
+   "monto": 255000,
+   "cierre_iso": "2026-11-30T11:00:00-03:00",
+   "publicacion": "27-11 16:25",
+   "publicacion_iso": "2026-11-27T16:25:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "78111804",
+     "Servicios de taxi",
+     1,
+     "Se requiere contratar el servicio de transporte para 10 a 15 personas aproximadamente, usuarios beneficiarios participantes de la actividad Taller de Bochas en Puerto Ingeniero Ibáñez, para realizar traslados dentro del radio urbano"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=4066-573-COT26",
+   "sin_detalle": false,
+   "descripcion": "Se requiere un servicio de transporte para la correcta ejecución del taller de bochas realizado en en el gimnasio IND de la localidad de Río Ibañez.",
    "en_gracia": false,
    "desaparecida_iso": ""
   },
@@ -960,6 +953,44 @@
   }
  ],
  "historial": [
+  {
+   "codigo": "1057062-578-COT26",
+   "nombre": "Servicio de Difusión de Magíster en Cambio Climático en diario de circulación nacional según fisabs 2621",
+   "organismo": "UNIVERSIDAD DE AYSEN",
+   "monto": 2677500,
+   "cierre_iso": "2026-11-28T15:00:00-03:00",
+   "tipo": "POSIBLE",
+   "motivos": [
+    "difusión",
+    "publicidad"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1057062-578-COT26",
+   "primera_vista_iso": "2026-11-27T13:00:26-03:00",
+   "removida_iso": "2026-11-27T17:00:26-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
+  {
+   "codigo": "4144-350-COT26",
+   "nombre": "SE REQUIERE LA ADQUISICION DE 2 PENDONES  PARA DIFUSION DE INICIATIVA INCLUSIVA DEL PROGRAMA DIT ",
+   "organismo": "I MUNICIPALIDAD DE LAGO VERDE",
+   "monto": 150000,
+   "cierre_iso": "2026-11-27T16:05:00-03:00",
+   "tipo": "POSIBLE",
+   "motivos": [
+    "difusion",
+    "publicidad"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=4144-350-COT26",
+   "primera_vista_iso": "2026-11-26T16:10:36-03:00",
+   "removida_iso": "2026-11-27T17:00:26-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
   {
    "codigo": "2495-721-COT26",
    "nombre": "PRODUCCION NAVIDEÑA",
@@ -2082,42 +2113,6 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=2713-1440-COT26",
    "primera_vista_iso": "2026-11-19T18:00:24-03:00",
    "removida_iso": "2026-11-20T18:00:24-03:00",
-   "estado_api": "",
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "2713-1438-COT26",
-   "nombre": "programa radial Hablemos de Violencia de Género",
-   "organismo": "I MUNICIPALIDAD DE AYSEN",
-   "monto": 200000,
-   "cierre_iso": "2026-11-20T16:55:00-03:00",
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Publicidad en medios no impresos"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=2713-1438-COT26",
-   "primera_vista_iso": "2026-11-19T17:00:24-03:00",
-   "removida_iso": "2026-11-20T17:00:37-03:00",
-   "estado_api": "",
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "4140-112-COT26",
-   "nombre": "ADQUISICION DE AUDIFONOS, FONDOS DE MEDIOS ",
-   "organismo": "I MUNICIPALIDAD DE LAGO VERDE",
-   "monto": 110000,
-   "cierre_iso": "2026-11-20T16:10:00-03:00",
-   "tipo": "POSIBLE",
-   "motivos": [
-    "radio"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=4140-112-COT26",
-   "primera_vista_iso": "2026-11-19T17:00:24-03:00",
-   "removida_iso": "2026-11-20T17:00:37-03:00",
    "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,

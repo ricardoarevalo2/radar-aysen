@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-11-27T16:08:41.199299-03:00",
+ "actualizado": "2026-11-27T17:00:26.802708-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
- "total_region": 241,
+ "total_region": 246,
  "rubros": {
   "25172700": "Aire acondicionado",
   "25173900": "Componentes eléctricos",
@@ -19,35 +19,6 @@
   "39121400": "Conectores, enchufes y terminales"
  },
  "filas": [
-  {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Conectores, enchufes y terminales"
-   ],
-   "nueva": false,
-   "codigo": "1233615-1016-COT26",
-   "nombre": "DMH SOL-2026-01931] Recursos TICS para Escuela \"Litoral Austral\" de Puerto Aysén",
-   "organismo": "Servicio Local de Educación Pública Aysén",
-   "unidad": "Servicio Local de Educación Pública Aysén",
-   "monto": 302470,
-   "cierre_iso": "2026-11-27T16:16:00-03:00",
-   "publicacion": "19-11 08:57",
-   "publicacion_iso": "2026-11-19T08:57:00-03:00",
-   "ofertas": 1,
-   "productos": [
-    [
-     "39121409",
-     "Conectores de cables eléctricos",
-     1,
-     "insumos, accesorios y equipamiento informático necesarios para garantizar la continuidad operativa, mantención y adecuado funcionamiento de los recursos tecnológicos de la Escuela Litoral Austral, de acuerdo a requerimiento adjunto a la presente compra (debe llenar el formulario N°1)"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1233615-1016-COT26",
-   "sin_detalle": false,
-   "descripcion": "Se solicita la adquisición de insumos, accesorios y equipamiento informático necesarios para garantizar la continuidad operativa, mantención y adecuado funcionamiento de los recursos tecnológicos de la Escuela Litoral Austral.",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
   {
    "tipo": "POSIBLE",
    "motivos": [
@@ -1011,6 +982,35 @@
   {
    "tipo": "OPORTUNIDAD",
    "motivos": [
+    "Servicios eléctricos"
+   ],
+   "nueva": true,
+   "codigo": "1494998-32-COT26",
+   "nombre": "SERVICIO DE INSTALACIONES Y MEJORAMIENTO ELÉCTRICO EN EL PARQUE NACIONAL CERRO CASTILLO, DIRECCIÓN REGIONAL DE AYSÉN, CONVENIO SBAP-CONAF.",
+   "organismo": "Servicio de Biodiversidad y Áreas Protegidas",
+   "unidad": "Dirección Regional de Aysén",
+   "monto": 1200000,
+   "cierre_iso": "2026-11-30T16:30:00-03:00",
+   "publicacion": "27-11 16:29",
+   "publicacion_iso": "2026-11-27T16:29:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "72102201",
+     "Instalación o servicio de sistemas de energía eléctrica",
+     1,
+     "El Servicio de Biodiversidad y Áreas Protegidas (SBAP) requiere contratar el servicio especializado de instalaciones y mejoramiento eléctrico, que comprende la instalación de 6 soquetes y ampolletas; 6 enchufes; 3 cajas moldeada; 2 foco proyector; luminaria, 5 tuberías EMT; 2 Cajas EMT; 1 cámara de registro PVC y accesorios para instalaciones, en el Parque Nacional Cerro Castillo."
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1494998-32-COT26",
+   "sin_detalle": false,
+   "descripcion": "El Servicio de Biodiversidad y Áreas Protegidas, en adelante \"SBAP\", invita a proveedores a presentar cotizaciones para ejecutar el servicio de instalaciones y mejoramiento eléctrico en el Parque Nacional Cerro Castillo. Considerar TDR y Anexo N°1 adjunto.",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
     "Gasfitería, calefacción y aire acondicionado"
    ],
    "nueva": false,
@@ -1034,6 +1034,35 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=1905-90-COT26",
    "sin_detalle": false,
    "descripcion": "Servicio de mejoramiento de calefacción en oficina de Puerto Aysén y Coyhaique",
+   "en_gracia": false,
+   "desaparecida_iso": ""
+  },
+  {
+   "tipo": "POSIBLE",
+   "motivos": [
+    "eléctricos"
+   ],
+   "nueva": true,
+   "codigo": "868-122-COT26",
+   "nombre": "“SERVICIO DE MANTENIMIENTO GENERADORES  Y PUESTA EN MARCHA UNIDADES UPS EN DEPENDENCIAS DEL EDIFICIO DEL GOBIERNO REGIONAL CALLE EJERCITO N°405”.",
+   "organismo": "GOBIERNO REGIONAL DE AYSEN",
+   "unidad": "Gobierno Regional de Aysen - XI Región",
+   "monto": 3000000,
+   "cierre_iso": "2026-12-04T17:00:00-03:00",
+   "publicacion": "27-11 16:05",
+   "publicacion_iso": "2026-11-27T16:05:00-03:00",
+   "ofertas": 0,
+   "productos": [
+    [
+     "26111601",
+     "Generadores diesel",
+     1,
+     "Según cotización Adjunta"
+    ]
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=868-122-COT26",
+   "sin_detalle": false,
+   "descripcion": "El Gobierno Regional de Aysén requiere la contratación del servicio de mantenimiento preventivo para 02 generadores eléctricos estacionarios instalados en edificios institucionales. Asimismo, se consideran trabajos de montaje, desmontaje, instalación, conexión y puesta en marcha de tres (03) UPS de 10 kVA, monofásicas y trifásicas, en dependencias del edificio del Gobierno Regional.",
    "en_gracia": false,
    "desaparecida_iso": ""
   },
@@ -1068,6 +1097,24 @@
   }
  ],
  "historial": [
+  {
+   "codigo": "1233615-1016-COT26",
+   "nombre": "DMH SOL-2026-01931] Recursos TICS para Escuela \"Litoral Austral\" de Puerto Aysén",
+   "organismo": "Servicio Local de Educación Pública Aysén",
+   "monto": 302470,
+   "cierre_iso": "2026-11-27T16:16:00-03:00",
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Conectores, enchufes y terminales"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1233615-1016-COT26",
+   "primera_vista_iso": "2026-11-19T09:00:33-03:00",
+   "removida_iso": "2026-11-27T17:00:26-03:00",
+   "estado_api": "",
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
   {
    "codigo": "1403-513-COT26",
    "nombre": "SERVICIO DE MANTENCIÓN DE AIRE A CONDICIONADO CON RECARGA DE REFRIGERANTE - CAIS COYHAIQUE",
