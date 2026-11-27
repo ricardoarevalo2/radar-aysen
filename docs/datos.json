@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-11-27T06:00:26.633868-03:00",
+ "actualizado": "2026-11-27T07:00:28.758229-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
- "total_region": 269,
+ "total_region": 268,
  "rubros": {
   "80141600": "Ventas y marketing",
   "82101600": "Publicidad en medios no impresos",
@@ -14,35 +14,6 @@
   "83121700": "Comunicación social y de masas"
  },
  "filas": [
-  {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Ventas y marketing"
-   ],
-   "nueva": false,
-   "codigo": "2494-311-COT26",
-   "nombre": "Servicio Circense para un espectáculo a los vecinos y vecinas del Barrio Villa General Bernales - Programa Recuperación de Barrios / MINVU",
-   "organismo": "I MUNICIPALIDAD DE COYHAIQUE",
-   "unidad": "SECRETARIA COMUNAL DE PLANIFICACION",
-   "monto": 450000,
-   "cierre_iso": "2026-11-27T06:59:00-03:00",
-   "publicacion": "19-11 11:00",
-   "publicacion_iso": "2026-11-19T11:00:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "80141607",
-     "Producción de eventos",
-     1,
-     "Espectáculo de circo de aproximadamente 40 minutos que contemple malabares, monociclos, hula  hula, equilibrios y actividades participativas con el público. \nEl servicio debe contemplar una instancia artística participativa con el público para que los asistentes  puedan interactuar con los elementos del circo.\nLOS DETALLES Y ESPECIFICACIONES DEL SERVICIO SE ENCUENTRAN EN EL DOCUMENTO ADJUNTO(LAS BASES)"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=2494-311-COT26",
-   "sin_detalle": false,
-   "descripcion": "El servicio debe integrar espectáculo de circo de aproximadamente 40 minutos que contemple malabares, monociclos, hula hula, equilibrios y actividades participativas con el público.  El servicio debe contemplar una instancia artística participativa con el público para que los asistentes puedan interactuar con los elementos del circo. LOS DETALLES SE ENCUENTRAN EN LAS BASES ADJUNTA.",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
   {
    "tipo": "POSIBLE",
    "motivos": [
@@ -1080,6 +1051,24 @@
   }
  ],
  "historial": [
+  {
+   "codigo": "2494-311-COT26",
+   "nombre": "Servicio Circense para un espectáculo a los vecinos y vecinas del Barrio Villa General Bernales - Programa Recuperación de Barrios / MINVU",
+   "organismo": "I MUNICIPALIDAD DE COYHAIQUE",
+   "monto": 450000,
+   "cierre_iso": "2026-11-27T06:59:00-03:00",
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Ventas y marketing"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=2494-311-COT26",
+   "primera_vista_iso": "2026-11-19T12:00:30-03:00",
+   "removida_iso": "2026-11-27T07:00:28-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
   {
    "codigo": "1428275-61-COT26",
    "nombre": "ADQUISICIÓN DE MOBILIARIO",
