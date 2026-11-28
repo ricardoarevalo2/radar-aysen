@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-28T14:41:08.915607-03:00",
+ "actualizado": "2026-11-28T15:00:23.574792-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
  "total_region": 206,
@@ -840,36 +840,6 @@
    "descripcion": "Adquisición de material grafico y textil reutilizable para difusión y sensibilización ambiental. según solicitud adjunta.",
    "en_gracia": false,
    "desaparecida_iso": ""
-  },
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "difusión",
-    "publicidad"
-   ],
-   "nueva": false,
-   "codigo": "1057062-578-COT26",
-   "nombre": "Servicio de Difusión de Magíster en Cambio Climático en diario de circulación nacional según fisabs 2621",
-   "organismo": "",
-   "unidad": "",
-   "monto": null,
-   "cierre_iso": "",
-   "publicacion": "",
-   "publicacion_iso": "",
-   "ofertas": 0,
-   "productos": [
-    [
-     "82101504",
-     "Publicidad en periódicos",
-     1,
-     "Servicio de Difusión de Magíster en Cambio Climático en diario de circulación nacional por 7 días corridos desde emitida la OC. El medio propuesto debe acreditar una circulación física y tráfico digital que garantice la llegada masiva al segmento objetivo, concentrado en la Región Metropolitana y al menos otra región, según especificaciones técnicas adjuntas."
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1057062-578-COT26",
-   "sin_detalle": false,
-   "descripcion": "Se requiere el servicio de Difusión de Magíster en Cambio Climático en diario de circulación nacional según especificaciones técnicas adjuntas. Se podrá privilegiar el menor plazo ofertado. Compra sujeta a posibles multas por incumplimientos.",
-   "en_gracia": true,
-   "desaparecida_iso": "2026-11-27T22:00:27-03:00"
   }
  ],
  "historial": [
@@ -940,7 +910,7 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=4066-555-COT26",
    "primera_vista_iso": "2026-11-24T11:00:26-03:00",
    "removida_iso": "2026-11-28T08:00:27-03:00",
-   "estado_api": null,
+   "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,
    "adj_iso": null
@@ -1357,7 +1327,7 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=1057062-559-COT26",
    "primera_vista_iso": "2026-11-24T12:00:25-03:00",
    "removida_iso": "2026-11-26T13:00:24-03:00",
-   "estado_api": null,
+   "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,
    "adj_iso": null
@@ -1432,7 +1402,7 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=4066-557-COT26",
    "primera_vista_iso": "2026-11-24T11:00:26-03:00",
    "removida_iso": "2026-11-26T10:00:24-03:00",
-   "estado_api": null,
+   "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,
    "adj_iso": null
@@ -1450,7 +1420,7 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=4066-558-COT26",
    "primera_vista_iso": "2026-11-24T12:00:25-03:00",
    "removida_iso": "2026-11-26T10:00:24-03:00",
-   "estado_api": null,
+   "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,
    "adj_iso": null
@@ -1468,7 +1438,7 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=886182-277-COT26",
    "primera_vista_iso": "2026-11-24T11:00:26-03:00",
    "removida_iso": "2026-11-26T09:00:26-03:00",
-   "estado_api": null,
+   "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,
    "adj_iso": null
@@ -2087,6 +2057,25 @@
    "primera_vista_iso": "2026-11-23T18:34:52-03:00",
    "removida_iso": "2026-11-24T17:00:29-03:00",
    "estado_api": "",
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
+  {
+   "codigo": "1057062-578-COT26",
+   "nombre": "Servicio de Difusión de Magíster en Cambio Climático en diario de circulación nacional según fisabs 2621",
+   "organismo": "",
+   "monto": null,
+   "cierre_iso": "",
+   "tipo": "POSIBLE",
+   "motivos": [
+    "difusión",
+    "publicidad"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1057062-578-COT26",
+   "primera_vista_iso": "2026-11-27T13:00:26-03:00",
+   "removida_iso": "2026-11-28T15:00:23-03:00",
+   "estado_api": null,
    "adj_nombre": null,
    "adj_monto": null,
    "adj_iso": null
