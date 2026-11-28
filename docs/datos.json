@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-28T01:00:26.446548-03:00",
+ "actualizado": "2026-11-28T02:00:24.920885-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
  "total_region": 235,
@@ -1621,7 +1621,7 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=2495-697-COT26",
    "primera_vista_iso": "2026-11-23T18:00:25-03:00",
    "removida_iso": "2026-11-25T16:00:27-03:00",
-   "estado_api": null,
+   "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,
    "adj_iso": null
@@ -1715,7 +1715,7 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=2713-1466-COT26",
    "primera_vista_iso": "2026-11-23T18:00:25-03:00",
    "removida_iso": "2026-11-24T18:00:25-03:00",
-   "estado_api": null,
+   "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,
    "adj_iso": null
@@ -1733,7 +1733,7 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=1233615-1042-COT26",
    "primera_vista_iso": "2026-11-23T18:00:25-03:00",
    "removida_iso": "2026-11-24T18:00:25-03:00",
-   "estado_api": null,
+   "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,
    "adj_iso": null
@@ -1751,7 +1751,7 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=2494-318-COT26",
    "primera_vista_iso": "2026-11-23T18:00:25-03:00",
    "removida_iso": "2026-11-24T17:15:20-03:00",
-   "estado_api": null,
+   "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,
    "adj_iso": null
