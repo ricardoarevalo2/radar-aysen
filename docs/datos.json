@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-11-28T13:00:24.077108-03:00",
+ "actualizado": "2026-11-28T14:00:26.348572-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
- "total_region": 213,
+ "total_region": 208,
  "rubros": {
   "80141600": "Ventas y marketing",
   "82101600": "Publicidad en medios no impresos",
@@ -600,7 +600,7 @@
    "motivos": [
     "Ventas y marketing"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "1343644-118-COT26",
    "nombre": "SERVICIO DE PRODUCCIÓN PARA CIERRE EVENTO DEPORTIVO R.L.G. ",
    "organismo": "I MUNICIPALIDAD DE O HIGGINS",
@@ -718,7 +718,7 @@
     "audiovisuales",
     "transmisión en vivo"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "868-120-COT26",
    "nombre": "SERVICIO DE OPERACIÓN TECNICA PARA LA TRANSMISIÓN EN VIVO DE LAS SESIONES PLENARIAS Y TRABAJO DE COMISIONES DEL CONSEJO REGIONAL DE AYSÉN ",
    "organismo": "GOBIERNO REGIONAL DE AYSEN",
@@ -2061,24 +2061,6 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=3797-549-COT26",
    "primera_vista_iso": "2026-11-19T15:25:38-03:00",
    "removida_iso": "2026-11-21T16:00:23-03:00",
-   "estado_api": "",
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "4733-533-COT26",
-   "nombre": "DIFUSIÓN",
-   "organismo": "I MUNICIPALIDAD DE LAS GUAITECAS",
-   "monto": 600000,
-   "cierre_iso": "2026-11-21T13:52:00-03:00",
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Inserciones publicitarias en medios"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=4733-533-COT26",
-   "primera_vista_iso": "2026-11-14T13:00:23-03:00",
-   "removida_iso": "2026-11-21T14:00:23-03:00",
    "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,
