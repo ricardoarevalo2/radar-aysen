@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-11-28T16:00:24.120749-03:00",
+ "actualizado": "2026-11-28T17:00:22.891376-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
- "total_region": 203,
+ "total_region": 198,
  "rubros": {
   "25172700": "Aire acondicionado",
   "25173900": "Componentes eléctricos",
@@ -552,7 +552,7 @@
    "motivos": [
     "Gasfitería, calefacción y aire acondicionado"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "1233615-1054-COT26",
    "nombre": "TRM/INT 306 Montaje, carga de refrigerante y mantenimiento preventivo de aire acondicionado SLEP",
    "organismo": "Servicio Local de Educación Pública Aysén",
@@ -1768,42 +1768,6 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=3540-316-COT26",
    "primera_vista_iso": "2026-11-12T13:45:25-03:00",
    "removida_iso": "2026-11-23T08:00:28-03:00",
-   "estado_api": "",
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "1538639-19-COT26",
-   "nombre": "Servicio de alojamiento, alimentación y traslados en São Paulo – Aysén Day Brasil 2026",
-   "organismo": "CORPORACIÓN DE DESARROLLO DEL GOBIERNO REGIONAL DE AYSÉN",
-   "monto": 1900000,
-   "cierre_iso": "2026-11-21T17:00:00-03:00",
-   "tipo": "POSIBLE",
-   "motivos": [
-    "climatización"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1538639-19-COT26",
-   "primera_vista_iso": "2026-11-20T16:00:41-03:00",
-   "removida_iso": "2026-11-21T18:00:23-03:00",
-   "estado_api": "",
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "2713-1450-COT26",
-   "nombre": "insumos para utilizar en la iluminación de árbol construido en área verde",
-   "organismo": "I MUNICIPALIDAD DE AYSEN",
-   "monto": 272000,
-   "cierre_iso": "2026-11-21T17:00:00-03:00",
-   "tipo": "POSIBLE",
-   "motivos": [
-    "iluminación"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=2713-1450-COT26",
-   "primera_vista_iso": "2026-11-20T17:00:37-03:00",
-   "removida_iso": "2026-11-21T18:00:23-03:00",
    "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,

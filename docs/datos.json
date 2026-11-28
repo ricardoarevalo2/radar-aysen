@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-11-28T16:00:24.120749-03:00",
+ "actualizado": "2026-11-28T17:00:22.891376-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
- "total_region": 203,
+ "total_region": 198,
  "rubros": {
   "80141600": "Ventas y marketing",
   "82101600": "Publicidad en medios no impresos",
@@ -49,7 +49,7 @@
    "motivos": [
     "Ventas y marketing"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "2495-731-COT26",
    "nombre": "PRODUCCION CARROS LOCOS",
    "organismo": "I MUNICIPALIDAD DE COYHAIQUE",
@@ -318,7 +318,7 @@
    "motivos": [
     "Ventas y marketing"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "4609-336-COT26",
    "nombre": "SERVICIO DE PRODUCCION EVENTO",
    "organismo": "I MUNICIPALIDAD DE CHILE CHICO",
@@ -435,7 +435,7 @@
    "motivos": [
     "publicitaria"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "4066-572-COT26",
    "nombre": " Servicios de Impresión, Merchandising, Información Turística",
    "organismo": "I MUNICIPALIDAD RIO IBANEZ",
@@ -696,7 +696,7 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=868-111-COT26",
    "primera_vista_iso": "2026-11-24T12:00:25-03:00",
    "removida_iso": "2026-11-27T16:08:41-03:00",
-   "estado_api": null,
+   "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,
    "adj_iso": null
