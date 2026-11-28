@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-11-28T08:00:27.545825-03:00",
+ "actualizado": "2026-11-28T09:00:25.036005-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
- "total_region": 233,
+ "total_region": 230,
  "rubros": {
   "80141600": "Ventas y marketing",
   "82101600": "Publicidad en medios no impresos",
@@ -14,35 +14,6 @@
   "83121700": "Comunicación social y de masas"
  },
  "filas": [
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "radial"
-   ],
-   "nueva": false,
-   "codigo": "4140-116-COT26",
-   "nombre": "ADQUISICION DE NEUMATICOS PARA CAMIONETA MUNICIPAL ",
-   "organismo": "I MUNICIPALIDAD DE LAGO VERDE",
-   "unidad": "Adquisiciones",
-   "monto": 800000,
-   "cierre_iso": "2026-11-28T08:30:00-03:00",
-   "publicacion": "25-11 15:48",
-   "publicacion_iso": "2026-11-25T15:48:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "25172504",
-     "Neumáticos para camionetas o automóviles",
-     5,
-     "ADQUISICION DE 05 NEUMATICOS NUEVOS SIN USO TODO TERRENO  245/75/R16 10 TELAS COMO MINIMO (OFERENTE DEBE AJUSTARSE A LAS ESPECIFICACIONES QUE DETALLA EL ADJUNTO"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=4140-116-COT26",
-   "sin_detalle": false,
-   "descripcion": "ADQUISICION DE 5 NEUMATICOS NUEVOS SIN USO TIPO MIXTO TODO TERRENO PARA CAMIONETA MUNICIPAL MEDIDA 245/75R16 RADIAL SIN CAMARA, CATEGORIA LT, BANDA RODAMIENTO MIXTO TODO TERRENO, CON DIBUJO APTO PARA TRACCION Y EVACUACION EN ASFALTO, RIPIO Y BARRO LIGERO, CANTIDAD MINIMA DE TELA 10, CON FLANCOS REFORZADOS CONTRA CORTES IMPACTOS O PINCHAZOS CAPACIDAD DE CARGA 1400 VELOCIDAD 160 KM/HRA AJUSTARSE A LAS ESPECIFICACIONES ADJUNTAS Y RESPETAR TERMINOS FECHAS Y REQUISITOS EXIGIDOS",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
   {
    "tipo": "OPORTUNIDAD",
    "motivos": [
@@ -960,6 +931,24 @@
   }
  ],
  "historial": [
+  {
+   "codigo": "4140-116-COT26",
+   "nombre": "ADQUISICION DE NEUMATICOS PARA CAMIONETA MUNICIPAL ",
+   "organismo": "I MUNICIPALIDAD DE LAGO VERDE",
+   "monto": 800000,
+   "cierre_iso": "2026-11-28T08:30:00-03:00",
+   "tipo": "POSIBLE",
+   "motivos": [
+    "radial"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=4140-116-COT26",
+   "primera_vista_iso": "2026-11-25T16:00:27-03:00",
+   "removida_iso": "2026-11-28T09:00:25-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
   {
    "codigo": "4066-555-COT26",
    "nombre": "SERVICIO DE AMPLIFICACIÓN, ILUMINACIÓN Y PRESENTACIÓN MUSICAL ENCUENTRO DE ACORDEÓN Y GUITARRA 2026, Segun TDR adjuntos",
