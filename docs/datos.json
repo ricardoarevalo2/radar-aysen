@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-11-28T07:00:25.432697-03:00",
+ "actualizado": "2026-11-28T08:00:27.545825-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
- "total_region": 234,
+ "total_region": 233,
  "rubros": {
   "80141600": "Ventas y marketing",
   "82101600": "Publicidad en medios no impresos",
@@ -14,35 +14,6 @@
   "83121700": "Comunicación social y de masas"
  },
  "filas": [
-  {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Ventas y marketing"
-   ],
-   "nueva": false,
-   "codigo": "4066-555-COT26",
-   "nombre": "SERVICIO DE AMPLIFICACIÓN, ILUMINACIÓN Y PRESENTACIÓN MUSICAL ENCUENTRO DE ACORDEÓN Y GUITARRA 2026, Segun TDR adjuntos",
-   "organismo": "I MUNICIPALIDAD RIO IBANEZ",
-   "unidad": "DIDECO",
-   "monto": 2000000,
-   "cierre_iso": "2026-11-28T07:43:00-03:00",
-   "publicacion": "24-11 10:16",
-   "publicacion_iso": "2026-11-24T10:16:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "80141607",
-     "Producción de eventos",
-     1,
-     "SERVICIO DE AMPLIFICACIÓN, ILUMINACIÓN Y PRESENTACIÓN MUSICAL ENCUENTRO DE ACORDEÓN Y GUITARRA 2026, Según TDR adjuntos"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=4066-555-COT26",
-   "sin_detalle": false,
-   "descripcion": "La Ilustre Municipalidad de Río Ibáñez, a través de la Oficina de Cultura, requiere contratar un servicio de producción de evento que contemple amplificación, iluminación y la contratación de una agrupación de música criolla de la comuna de Río Ibáñez para el Encuentro de Acordeón y Guitarra 2026, a realizarse el sábado 19 de diciembre de 2026 en Puerto Río Tranquilo. Según TDR adjuntos",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
   {
    "tipo": "POSIBLE",
    "motivos": [
@@ -989,6 +960,24 @@
   }
  ],
  "historial": [
+  {
+   "codigo": "4066-555-COT26",
+   "nombre": "SERVICIO DE AMPLIFICACIÓN, ILUMINACIÓN Y PRESENTACIÓN MUSICAL ENCUENTRO DE ACORDEÓN Y GUITARRA 2026, Segun TDR adjuntos",
+   "organismo": "I MUNICIPALIDAD RIO IBANEZ",
+   "monto": 2000000,
+   "cierre_iso": "2026-11-28T07:43:00-03:00",
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Ventas y marketing"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=4066-555-COT26",
+   "primera_vista_iso": "2026-11-24T11:00:26-03:00",
+   "removida_iso": "2026-11-28T08:00:27-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
   {
    "codigo": "4066-567-COT26",
    "nombre": "SERVICIO DE PRESENTACIÓN ARTÍSTICA ENCUENTRO DE ACORDEÓN Y GUITARRA 2026, Según TDR adjuntos.",
