@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-11-28T12:00:25.303148-03:00",
+ "actualizado": "2026-11-28T13:00:24.077108-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
- "total_region": 219,
+ "total_region": 213,
  "rubros": {
   "25172700": "Aire acondicionado",
   "25173900": "Componentes eléctricos",
@@ -19,35 +19,6 @@
   "39121400": "Conectores, enchufes y terminales"
  },
  "filas": [
-  {
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Materiales de física de electricidad"
-   ],
-   "nueva": false,
-   "codigo": "1233615-1041-COT26",
-   "nombre": "RMG-SOL01535-Liceo Luisa Rabanal, Equipamiento para simulación EMTP 29.05, despacho incluido a Chile Chico.",
-   "organismo": "Servicio Local de Educación Pública Aysén",
-   "unidad": "Servicio Local de Educación Pública Aysén",
-   "monto": 7000000,
-   "cierre_iso": "2026-11-28T12:13:00-03:00",
-   "publicacion": "23-11 15:03",
-   "publicacion_iso": "2026-11-23T15:03:00-03:00",
-   "ofertas": 2,
-   "productos": [
-    [
-     "60104905",
-     "Placas de demostración de electricidad",
-     1,
-     "Según archivo adjunto, equipamiento para simulación EMTP Electricidad"
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1233615-1041-COT26",
-   "sin_detalle": false,
-   "descripcion": "Según detalle adjunto, despacho incluido a Chile Chico.",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
   {
    "tipo": "OPORTUNIDAD",
    "motivos": [
@@ -969,6 +940,24 @@
   }
  ],
  "historial": [
+  {
+   "codigo": "1233615-1041-COT26",
+   "nombre": "RMG-SOL01535-Liceo Luisa Rabanal, Equipamiento para simulación EMTP 29.05, despacho incluido a Chile Chico.",
+   "organismo": "Servicio Local de Educación Pública Aysén",
+   "monto": 7000000,
+   "cierre_iso": "2026-11-28T12:13:00-03:00",
+   "tipo": "OPORTUNIDAD",
+   "motivos": [
+    "Materiales de física de electricidad"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=1233615-1041-COT26",
+   "primera_vista_iso": "2026-11-23T16:00:27-03:00",
+   "removida_iso": "2026-11-28T13:00:24-03:00",
+   "estado_api": "",
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
   {
    "codigo": "734-227-COT26",
    "nombre": "Materiales para la habilitación de base provisoria de SAMU Aysén",
@@ -2012,24 +2001,6 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=2713-1450-COT26",
    "primera_vista_iso": "2026-11-20T17:00:37-03:00",
    "removida_iso": "2026-11-21T18:00:23-03:00",
-   "estado_api": "",
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "4644-149-COT26",
-   "nombre": "Accesorios Computacionales, Área de Intervención Vivero el Mallín SIC 508 SIRE 475",
-   "organismo": "CORP NACIONAL FORESTAL",
-   "monto": 250000,
-   "cierre_iso": "2026-11-21T13:00:00-03:00",
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Cables eléctricos y accesorios"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=4644-149-COT26",
-   "primera_vista_iso": "2026-11-20T10:00:35-03:00",
-   "removida_iso": "2026-11-21T13:52:04-03:00",
    "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,
