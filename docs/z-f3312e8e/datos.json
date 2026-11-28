@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-11-28T11:00:27.594476-03:00",
+ "actualizado": "2026-11-28T12:00:25.303148-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
- "total_region": 226,
+ "total_region": 219,
  "rubros": {
   "25172700": "Aire acondicionado",
   "25173900": "Componentes eléctricos",
@@ -19,35 +19,6 @@
   "39121400": "Conectores, enchufes y terminales"
  },
  "filas": [
-  {
-   "tipo": "POSIBLE",
-   "motivos": [
-    "eléctricos"
-   ],
-   "nueva": false,
-   "codigo": "734-227-COT26",
-   "nombre": "Materiales para la habilitación de base provisoria de SAMU Aysén",
-   "organismo": "SERVICIO DE SALUD AYSEN CARLOS IBANEZ DEL CAMPO",
-   "unidad": "DIRECCION",
-   "monto": 369694,
-   "cierre_iso": "2026-11-28T11:16:00-03:00",
-   "publicacion": "26-11 10:43",
-   "publicacion_iso": "2026-11-26T10:43:00-03:00",
-   "ofertas": 0,
-   "productos": [
-    [
-     "31151702",
-     "Cables de control no eléctricos",
-     1,
-     "Materiales para la habilitación de base provisoria de SAMU Aysén, según se detalla en especificaciones técnicas adjuntas."
-    ]
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=734-227-COT26",
-   "sin_detalle": false,
-   "descripcion": "Requiere Materiales para la habilitación de base provisoria de SAMU Aysén, Según se detalla en especificaciones técnicas adjuntas.",
-   "en_gracia": false,
-   "desaparecida_iso": ""
-  },
   {
    "tipo": "OPORTUNIDAD",
    "motivos": [
@@ -998,6 +969,24 @@
   }
  ],
  "historial": [
+  {
+   "codigo": "734-227-COT26",
+   "nombre": "Materiales para la habilitación de base provisoria de SAMU Aysén",
+   "organismo": "SERVICIO DE SALUD AYSEN CARLOS IBANEZ DEL CAMPO",
+   "monto": 369694,
+   "cierre_iso": "2026-11-28T11:16:00-03:00",
+   "tipo": "POSIBLE",
+   "motivos": [
+    "eléctricos"
+   ],
+   "link": "https://buscador.mercadopublico.cl/ficha?code=734-227-COT26",
+   "primera_vista_iso": "2026-11-26T11:00:27-03:00",
+   "removida_iso": "2026-11-28T12:00:25-03:00",
+   "estado_api": null,
+   "adj_nombre": null,
+   "adj_monto": null,
+   "adj_iso": null
+  },
   {
    "codigo": "4066-555-COT26",
    "nombre": "SERVICIO DE AMPLIFICACIÓN, ILUMINACIÓN Y PRESENTACIÓN MUSICAL ENCUENTRO DE ACORDEÓN Y GUITARRA 2026, Segun TDR adjuntos",
@@ -2041,24 +2030,6 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=4644-149-COT26",
    "primera_vista_iso": "2026-11-20T10:00:35-03:00",
    "removida_iso": "2026-11-21T13:52:04-03:00",
-   "estado_api": "",
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "1182705-220-COT26",
-   "nombre": "ADQUISICION DE FUNGIBLES PARA INSTALACION ELECTRICA, FOLIO N°238",
-   "organismo": "CENTRO DE FORMACIÓN TÉCNICA DE LA REGIÓN DE AYSÉN DEL GENERAL CARLOS I",
-   "monto": 117000,
-   "cierre_iso": "2026-11-21T11:18:00-03:00",
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Cajas y accesorios eléctricos"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1182705-220-COT26",
-   "primera_vista_iso": "2026-11-18T16:00:26-03:00",
-   "removida_iso": "2026-11-21T12:00:23-03:00",
    "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,
