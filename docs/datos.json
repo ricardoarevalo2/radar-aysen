@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-11-28T10:00:24.518808-03:00",
+ "actualizado": "2026-11-28T11:00:27.594476-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
- "total_region": 228,
+ "total_region": 226,
  "rubros": {
   "80141600": "Ventas y marketing",
   "82101600": "Publicidad en medios no impresos",
@@ -630,7 +630,7 @@
     "publicidad",
     "publicitarios"
    ],
-   "nueva": true,
+   "nueva": false,
    "codigo": "1233615-1049-COT26",
    "nombre": "DMH SOL-2026-02150 Recursos para el aprendizaje e innovación (SEPARADORES) para Liceo Politécnico A-1 de Puerto Aysén",
    "organismo": "Servicio Local de Educación Pública Aysén",
@@ -2079,24 +2079,6 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=4733-533-COT26",
    "primera_vista_iso": "2026-11-14T13:00:23-03:00",
    "removida_iso": "2026-11-21T14:00:23-03:00",
-   "estado_api": "",
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "1182705-218-COT26",
-   "nombre": " ADQUISICION DE SERVICIO DE IMPRENSION Y PLOTEO, FOLIO N°223 VCM",
-   "organismo": "CENTRO DE FORMACIÓN TÉCNICA DE LA REGIÓN DE AYSÉN DEL GENERAL CARLOS I",
-   "monto": 698620,
-   "cierre_iso": "2026-11-21T10:28:00-03:00",
-   "tipo": "POSIBLE",
-   "motivos": [
-    "publicitaria"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1182705-218-COT26",
-   "primera_vista_iso": "2026-11-18T13:00:27-03:00",
-   "removida_iso": "2026-11-21T11:00:29-03:00",
    "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,
