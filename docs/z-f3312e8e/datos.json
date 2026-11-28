@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-11-27T21:00:27.889354-03:00",
+ "actualizado": "2026-11-27T22:00:27.664877-03:00",
  "empresa": "Zeus Electricidad",
  "region": "Región de Aysén",
- "total_region": 237,
+ "total_region": 235,
  "rubros": {
   "25172700": "Aire acondicionado",
   "25173900": "Componentes eléctricos",
@@ -2070,24 +2070,6 @@
    "link": "https://buscador.mercadopublico.cl/ficha?code=1182705-220-COT26",
    "primera_vista_iso": "2026-11-18T16:00:26-03:00",
    "removida_iso": "2026-11-21T12:00:23-03:00",
-   "estado_api": "",
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
-  {
-   "codigo": "1905-88-COT26",
-   "nombre": "Servicio de mejoramiento de calefacción en equipos de aire acondicionado en oficinas de Puerto Aysén y Coyhaique",
-   "organismo": "",
-   "monto": null,
-   "cierre_iso": "",
-   "tipo": "OPORTUNIDAD",
-   "motivos": [
-    "Gasfitería, calefacción y aire acondicionado"
-   ],
-   "link": "https://buscador.mercadopublico.cl/ficha?code=1905-88-COT26",
-   "primera_vista_iso": "2026-11-20T21:04:02-03:00",
-   "removida_iso": "2026-11-23T08:00:28-03:00",
    "estado_api": "",
    "adj_nombre": null,
    "adj_monto": null,

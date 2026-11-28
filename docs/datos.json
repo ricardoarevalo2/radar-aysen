@@ -1,8 +1,8 @@
 {
- "actualizado": "2026-11-27T21:00:27.889354-03:00",
+ "actualizado": "2026-11-27T22:00:27.664877-03:00",
  "empresa": "Santa María Radio y TV",
  "region": "Región de Aysén",
- "total_region": 237,
+ "total_region": 235,
  "rubros": {
   "80141600": "Ventas y marketing",
   "82101600": "Publicidad en medios no impresos",
@@ -956,28 +956,39 @@
    "descripcion": "Adquisición de material grafico y textil reutilizable para difusión y sensibilización ambiental. según solicitud adjunta.",
    "en_gracia": false,
    "desaparecida_iso": ""
-  }
- ],
- "historial": [
+  },
   {
-   "codigo": "1057062-578-COT26",
-   "nombre": "Servicio de Difusión de Magíster en Cambio Climático en diario de circulación nacional según fisabs 2621",
-   "organismo": "UNIVERSIDAD DE AYSEN",
-   "monto": 2677500,
-   "cierre_iso": "2026-11-28T15:00:00-03:00",
    "tipo": "POSIBLE",
    "motivos": [
     "difusión",
     "publicidad"
    ],
+   "nueva": false,
+   "codigo": "1057062-578-COT26",
+   "nombre": "Servicio de Difusión de Magíster en Cambio Climático en diario de circulación nacional según fisabs 2621",
+   "organismo": "",
+   "unidad": "",
+   "monto": null,
+   "cierre_iso": "",
+   "publicacion": "",
+   "publicacion_iso": "",
+   "ofertas": 0,
+   "productos": [
+    [
+     "82101504",
+     "Publicidad en periódicos",
+     1,
+     "Servicio de Difusión de Magíster en Cambio Climático en diario de circulación nacional por 7 días corridos desde emitida la OC. El medio propuesto debe acreditar una circulación física y tráfico digital que garantice la llegada masiva al segmento objetivo, concentrado en la Región Metropolitana y al menos otra región, según especificaciones técnicas adjuntas."
+    ]
+   ],
    "link": "https://buscador.mercadopublico.cl/ficha?code=1057062-578-COT26",
-   "primera_vista_iso": "2026-11-27T13:00:26-03:00",
-   "removida_iso": "2026-11-27T17:00:26-03:00",
-   "estado_api": null,
-   "adj_nombre": null,
-   "adj_monto": null,
-   "adj_iso": null
-  },
+   "sin_detalle": false,
+   "descripcion": "Se requiere el servicio de Difusión de Magíster en Cambio Climático en diario de circulación nacional según especificaciones técnicas adjuntas. Se podrá privilegiar el menor plazo ofertado. Compra sujeta a posibles multas por incumplimientos.",
+   "en_gracia": true,
+   "desaparecida_iso": "2026-11-27T22:00:27-03:00"
+  }
+ ],
+ "historial": [
   {
    "codigo": "4066-567-COT26",
    "nombre": "SERVICIO DE PRESENTACIÓN ARTÍSTICA ENCUENTRO DE ACORDEÓN Y GUITARRA 2026, Según TDR adjuntos.",
